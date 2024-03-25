@@ -16,7 +16,7 @@ jobs:
       - name: Run a one-line script
         run: |
 
-          bash st.sh
+          bash check.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           COOKIE: ${{ secrets.COOKIE }}
