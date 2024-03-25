@@ -1,5 +1,12 @@
 #!/bin/bash
+
+userToken="$USERTOKEN"
+bot="$BOTTOKEN"
 synctv="$SYNCTV"
+echo -e "bot:$BOTTOKEN"
+echo -e "user:Token$USERTOKEN"
+echo -e "synctv:$SYNCTV"
+
 while IFS= read -r line || [ -n "$line" ]
 do
     # 从每行中提取URL
