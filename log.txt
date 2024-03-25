@@ -45,3 +45,5 @@ Tue Mar 26 05:25:40 CST 2024
 Tue Mar 26 05:37:17 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 删除jinricp 
+Tue Mar 26 05:51:53 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
