@@ -19,6 +19,8 @@ jobs:
           bash check.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
+          BOTTOKEN: ${{ secrets.BOTTOKEN }}
+          SYNCTV: ${{ secrets.SYNCTV }}
           COOKIE: ${{ secrets.COOKIE }}
           USERTOKEN: ${{ secrets.USERTOKEN }}
       - name: commit
