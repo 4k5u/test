@@ -63,5 +63,4 @@ unreachableIds=()
         break
     fi
 #done
-echo "开始检测失效房间"
-bash check.sh
+
