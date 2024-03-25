@@ -7,7 +7,7 @@ userToken="$USERTOKEN"
 bot="$BOTTOKEN"
 synctv="$SYNCTV"
 #userIds=$1
-userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 cool3333 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 100472 ksb0219 tess00 bom124 sonming52 namuh0926 banet523 giyoming axcvdbs23 apffhdn1219 sol3712 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 162cm muse62 chuchu22 m0m099 lovether siyun0813 nemu00 Vvvv1212 gusdk2362 xxaaop syxx12 day59day";
+userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 cool3333 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 100472 ksb0219 tess00 bom124 sonming52 namuh0926 banet523 giyoming axcvdbs23 apffhdn1219 sol3712 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 162cm muse62 chuchu22 m0m099 lovether siyun0813 nemu00 Vvvv1212 gusdk2362 xxaaop syxx12 day59day likecho obzee7";
 
 echo -e `date` >> log.txt
 unreachableIds=()
@@ -16,6 +16,7 @@ unreachableIds=()
     for userId in ${userIds}; do
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "https://api.pandalive.co.kr/v1/live/play?action=watch&userId=${userId}"` 
         hls=`echo $json| jq -r .PlayList.hls[0].url`
+        img=`echo $json| jq -r .media.thumbUrl`
         echo "开始获取直播源"
         if [ -n "$hls"  ] &&  [ "$hls" != null ]; then
             echo "${userId}获取成功。"
@@ -33,7 +34,7 @@ unreachableIds=()
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} --data-raw "${jsondata}" -X POST "${synctv}/api/movie/push"
                 echo "$userId 已推送到Sync TV, removing from list"
                 text="*J哥提醒你！！！！*\n\n${userId}直播源已添加到SyncTV\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n"
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"text\":\"$text\"}" "https://api.telegram.org/${bot}/sendMessage?parse_mode=MarkdownV2"
+                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
             elif [ "$roomid" = null ]; then
                 echo $room|jq -r .error
                 echo "创建房间失败，可能已有同名房间，跳过此ID" 
