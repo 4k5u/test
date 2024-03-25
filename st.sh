@@ -7,7 +7,7 @@ bot="$BOTTOKEN"
 synctv="$SYNCTV"
 cookie="";
 #userIds=$1
-userIds="Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520";
+userIds="Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San";
 
 unreachableIds=()
 #for ((i=1; i<=1000; i++)); do
