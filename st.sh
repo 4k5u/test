@@ -30,6 +30,7 @@ unreachableIds=()
             if [ -n "$roomid"  ] && [ "$roomid" != null ]; then
                 jsondata="{\"name\": \"${userId}\",\"url\": \"${hls}\",\"type\": \"m3u8\",\"live\": true}"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
+                echo -e "添加$userId $hls">> log.txt
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} -X POST "${synctv}/api/movie/clear"
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} --data-raw "${jsondata}" -X POST "${synctv}/api/movie/push"
                 echo "$userId 已推送到Sync TV, removing from list"
