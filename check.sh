@@ -11,7 +11,7 @@ do
     if curl --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
-        $http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
+        http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
         if [ "$http_code" -ne 200 ]; then
             echo -e "$userId直播源失效, 网站不能访问，不执行删除操作。"
         else
