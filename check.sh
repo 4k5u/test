@@ -1,12 +1,5 @@
 #!/bin/bash
-
-userToken="$USERTOKEN"
-bot="$BOTTOKEN"
 synctv="$SYNCTV"
-echo -e "bot:$BOTTOKEN"
-echo -e "user:Token$USERTOKEN"
-echo -e "synctv:$SYNCTV"
-
 while IFS= read -r line || [ -n "$line" ]
 do
     # 从每行中提取URL
@@ -25,7 +18,7 @@ do
             echo -e "$userId直播源失效, 删除房间失败，请求${result}"
         else
             echo "$userId - $url 直播源失效, 删除房间, 删除记录" 
-            sed -i "\~$url~d" sync.txt
+            sed -i "\~$url~d" data.txt
             # 使用sed命令从文件中删除包含该URL的整行
         fi
     fi
