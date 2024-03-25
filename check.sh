@@ -11,13 +11,12 @@ do
     if curl --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
-        req=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -w "|%{http_code}" -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}"  --data-raw "{\"roomid\": \"${roomid}\"}" -X POST "${synctv}/api/room/delete"`
-        result=$(echo "$req" | cut -d '|' -f1)
-        http_code=$(echo "$req" | cut -d '|' -f2)
-        if [ "$http_code" -ne 204 ]; then
-            echo -e "$userId直播源失效, 删除房间失败，请求${result}"
+        $http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
+        if [ "$http_code" -ne 200 ]; then
+            echo -e "$userId直播源失效, 网站不能访问，不执行删除操作。"
         else
             echo "$userId - $url 直播源失效, 删除房间, 删除记录" 
+            curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -w "%{http_code}" -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}"  --data-raw "{\"roomid\": \"${roomid}\"}" -X POST "${synctv}/api/room/delete"
             sed -i "\~$url~d" data.txt
             # 使用sed命令从文件中删除包含该URL的整行
         fi
