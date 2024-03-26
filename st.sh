@@ -5,9 +5,11 @@
 userToken="$USERTOKEN"
 bot="$BOTTOKEN"
 synctv="$SYNCTV"
+username="$USERNAME"
+password="$PASSWORD"
 cookie="";
 #userIds=$1
-userIds="Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San";
+userIds="Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San intim_mate";
 
 userToken=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' --data-raw "{\"username\": \"${username}\",\"password\": \"${password}\"}" -X POST "${synctv}/api/user/login"|jq -r .data.token`
 echo $userToken
