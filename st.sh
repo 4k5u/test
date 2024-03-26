@@ -9,6 +9,9 @@ cookie="";
 #userIds=$1
 userIds="Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San";
 
+userToken=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' --data-raw "{\"username\": \"${username}\",\"password\": \"${password}\"}" -X POST "${synctv}/api/user/login"|jq -r .data.token`
+echo $userToken
+
 unreachableIds=()
 #for ((i=1; i<=1000; i++)); do
 #    echo "Round $i:"
