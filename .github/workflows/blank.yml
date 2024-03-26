@@ -26,6 +26,8 @@ jobs:
           SYNCTV: ${{ secrets.SYNCTV }}
           COOKIE: ${{ secrets.COOKIE }}
           USERTOKEN: ${{ secrets.USERTOKEN }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
       - name: commit
         run: |
           git config --global user.email "you@example.com"
