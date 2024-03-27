@@ -100,3 +100,9 @@ Wed Mar 27 17:51:48 CST 2024
 Wed Mar 27 18:16:09 CST 2024
 删除sseerrii0201 
 Wed Mar 27 18:36:37 CST 2024
+Wed Mar 27 18:51:25 CST 2024
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxMTU3OTkxMX0.YvlyvU-dSpJ2kvZHhbO0TJybfoqk5KHLzyMcYZJW5mdzj365rTTGnE_SJpCx_F7IUPhrwUNLdwQuRhHbtD7-F8ueHZC7YR3YvX9WL9mhVyWLIKfHkywAgcD5kZh5-7A-
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxMTU3OTkxN30.OwugkSwWeKa2s0OpKkq0yNbI9jPGfia_1JJ2md6vcaUer_jSgVyx6xGtZT24TsNTrVzuj7_VlEFT-K2tSelbZTmXY57Caiv6Kymxhpp_GwcYNLFIX8ZVgiv2b77rWeXr
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除Daji-520 
