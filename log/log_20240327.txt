@@ -133,3 +133,7 @@ Wed Mar 27 21:36:42 CST 2024
 删除Daji-520 
 Wed Mar 27 21:51:43 CST 2024
 添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxMTU5MDc2MX0.2ajcHSJ0Hy-oQ3Y5oxlfpsZI4mRfBNhcVsFdJqBAkxw2HzKTsJRxoZV8-ivH05-h2OV0am6iQKnmbLlD45dFc5W4HYOfninDAvdKee-qfubfmJv2D_KJemUQhUOMa6JB
+Wed Mar 27 22:14:37 CST 2024
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxMTU5MjExMH0.VE6sZVwBLmFxG5qnjPwE_JUMNhVQ_sxotpPcdZvXYBuAIFYCjbW8lyXbEzrZzkLkhVOk9JfkOp79TccxxesmtP3RP-c87zri3Mz-s6Llo7WdRsIfwW9jmI1t1ESmiF84
+添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
+删除moem9e9 
