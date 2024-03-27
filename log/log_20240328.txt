@@ -49,3 +49,5 @@ Thu Mar 28 05:36:44 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
 Thu Mar 28 05:51:25 CST 2024
+Thu Mar 28 06:36:38 CST 2024
+添加Sharon9sea https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMTYyMjMwOH0.0IBzN8T-cjppuoDAQlOzQYsRpY_yPpawGh7DQql2182icGNIYEHQBLj6Gp_1RvShCypJycKe6yCzyKnf1e7gjHit7HvGSqWX-Z6JJFpsFmLSFF3jC-Y5tHa0oeMfzduq
