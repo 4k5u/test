@@ -1,0 +1,45 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CB
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+    
+env:
+  TZ: Asia/Shanghai
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run a one-line script
+        run: |
+          bash cb.sh
+        env:
+          AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
+          BOTTOKEN: ${{ secrets.BOTTOKEN }}
+          SYNCTV: ${{ secrets.SYNCTV }}
+          COOKIE: ${{ secrets.COOKIE }}
+          USERTOKEN: ${{ secrets.USERTOKEN }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+      - name: commit
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add .
+          git commit -m "update" -a
+      - name: Push changes
+        id: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+      - name: Retry Push on Failure
+        if: failure()
+        run: |
+          git push
