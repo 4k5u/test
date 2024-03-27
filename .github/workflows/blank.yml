@@ -35,6 +35,12 @@ jobs:
           git add .
           git commit -m "update" -a
       - name: Push changes
+        id: push
         uses: ad-m/github-push-action@master
         with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+      - name: Retry Push on Failure
+        if: failure()
+        run: |
+          git push
