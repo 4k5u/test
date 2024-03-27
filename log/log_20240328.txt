@@ -45,3 +45,6 @@ Thu Mar 28 04:51:40 CST 2024
 Thu Mar 28 05:12:51 CST 2024
 删除mikio_san 
 Thu Mar 28 05:24:13 CST 2024
+Thu Mar 28 05:36:44 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
