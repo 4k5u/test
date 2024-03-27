@@ -113,3 +113,8 @@ Wed Mar 27 19:12:38 CST 2024
 Wed Mar 27 19:24:10 CST 2024
 Wed Mar 27 19:51:25 CST 2024
 删除AkiShina 
+Wed Mar 27 20:28:06 CST 2024
+添加okzzzz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d1fcZvHwxE8U.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2QxZmNadkh3eEU4VSIsImV4cCI6MTcxMTU4NTcxMX0.54eJGaW602O9nkN7u_R6-_8Qq2HZfQxjrb9P9Ebcd9Ex4LUJuqDIkFX58O8095-Dgm0srvaSFxeRdHSpJW-zaska9aPQAKgAocQANE-Lu3t5IA9JulD_C2p_gHotdGEb
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxMTU4NTczNX0.1e4Ih1FJma5s654V9CZHdq7EEfDKvsVPKSE0zzx3w9EHAXiZounqjJJDEtdAqO1RHMtdX53pbgT2QNCSZrfXFh9r-2SrgliQle5jw3k7rotnVh1Jsm9IMcxKSqWRjEsc
+删除mikio_san 
+删除Daji-520 
