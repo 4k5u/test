@@ -24,3 +24,5 @@ do
         fi
     fi
 done < data.txt
+
+bash paste.sh $(cat data.txt $logfile)
