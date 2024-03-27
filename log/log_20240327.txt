@@ -74,3 +74,5 @@ Wed Mar 27 12:38:33 CST 2024
 Wed Mar 27 12:51:24 CST 2024
 Wed Mar 27 13:15:37 CST 2024
 删除San___San 
+Wed Mar 27 13:36:51 CST 2024
+添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
