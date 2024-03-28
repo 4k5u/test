@@ -81,3 +81,6 @@ Thu Mar 28 10:27:04 CST 2024
 添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxMTYzNjA2Mn0.ynbN4KH2y4PsztFdrN984Dtk4y9vo7gcoGIVzic-S1uge0lXY1pZUOI8NPMKFGdSdZFjH4JwzFOj3nfSeJEDBNWHrp7qPnwvKDMTlfEYTERO301cb0y5ERYmFdCi5DPB
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
 删除_PunPun18 
+Thu Mar 28 10:39:56 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
