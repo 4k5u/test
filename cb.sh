@@ -23,7 +23,7 @@ unreachableIds=()
         if [ "${http_code}" == 200 ]; then
             echo "开始获取直播源"
             json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "https://btu-cf.gds.workers.dev/streamapi/?modelname=${userId}"` 
-            hls=`echo $json|jq .url`
+            hls=`echo $json|jq -r .url`
             if [ -n "$hls"  ] &&  [ "$hls" != null ]; then
                 echo "${userId}获取成功。"
                 echo "直播源：${hls}"
