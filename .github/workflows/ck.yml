@@ -5,8 +5,8 @@ name: Ckeck
 # Controls when the workflow will run
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
+#  schedule:
+#    - cron: '*/30 * * * *'
     
 env:
   TZ: Asia/Shanghai
