@@ -33,6 +33,7 @@ jobs:
           git config --global user.name "Your Name"
           git add .
           git commit -m "update" -a
+        continue-on-error: true
       - name: Push changes
         id: push
         uses: ad-m/github-push-action@master
