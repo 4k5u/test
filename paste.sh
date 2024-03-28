@@ -4,7 +4,7 @@ exit 1
 fi
 content=$*
 if [[ "$content" ]];then
-    share_link="https://paste.ubuntu.com"$(curl -v --data-urlencode "content=${content}" -d "poster=4k6" -d "syntax=text" "https://paste.ubuntu.com" 2>&1 | grep "Location" | awk '{print $3}')
+    share_link="https://paste.ubuntu.com"$(curl -v --data-urlencode "content=${content}" -d "poster=4k5" -d "expiration=month" -d "syntax=text" "https://paste.ubuntu.com" 2>&1 | grep "Location" | awk '{print $3}')
     # mac下
     echo -e "\n 分享链接：\x1B[31m${share_link}\x1B[0m"
     # linux下
