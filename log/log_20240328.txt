@@ -68,3 +68,12 @@ Thu Mar 28 09:05:51 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 删除moem9e9 
 删除emyii 
+Thu Mar 28 09:57:19 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxMTYzNDI0NX0.aNMnOmd6U2vdTkioOHpO-P8SgRghaQqhADkz5bwFkeOhZgg3vwUzx3WdKRecRugv-F1PhBffgNTPPl23dLAw_t_CFDp7tzHSOMWqbQtF8Wxyv9W8eApGtEYwQeh0G3km
+添加qwas33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bDL9fG4ShenS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JETDlmRzRTaGVuUyIsImV4cCI6MTcxMTYzNDI4M30.V5cGc1p1K72mEED4NCoF318tZeOkRFZYyew9KFxXsYNhUaYtjOvLgi7zHpZfMWcz5SWoVU4DVSJgUJ5etbRKXUITxjLJ--FCqhJdM0j4YMRsPEMXe9bsl1Oko2z31MaR
+删除dkdlfjqm758 
+删除SanySenise 
+删除Sharon9sea 
+删除kiriko_chan 
+删除kiriko_chan 
+删除San___San 
