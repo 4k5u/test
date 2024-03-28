@@ -25,4 +25,4 @@ do
     fi
 done < data.txt
 
-bash paste.sh $(cat data.txt $logfile)
+bash paste.sh "$(cat data.txt $logfile)"
