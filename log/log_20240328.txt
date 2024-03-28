@@ -160,3 +160,7 @@ Thu Mar 28 21:16:39 CST 2024
 Thu Mar 28 21:36:49 CST 2024
 添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxMTY3NjI4OX0.jvHmIV6zDKispncWl5h1LBbjt6oT-jwf_T5zDKqeA6srfZwZWgAfZpUzKlpUdVHzVEihtuj_7Bl9QloLfmY-hiBPt4RgTI1zEimZZBIilPP7HnkfmQz8EdebxCoGtLwg
 删除JP-KARIN 
+Thu Mar 28 21:51:46 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZfJYKbS4tkGN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pmSllLYlM0dGtHTiIsImV4cCI6MTcxMTY3NzIwMH0.HKW9hSKNTd2dJQJj5tUD423iFe5vu0B7tMX5gZJXhxFS_YXvEUZZoyYEXPtVAXEFlAaVmhNad6aNHWPmqxp8lsI2Ugb2PYgJTz9wLu9vFzQE7dYNhCCjpcS15tQu-CQh
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
+删除syxx12 
