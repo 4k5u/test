@@ -61,3 +61,10 @@ Thu Mar 28 07:37:27 CST 2024
 Thu Mar 28 07:51:50 CST 2024
 添加kiriko_chan https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-a0d506d4f752c41a81ee4f4bb2a4a6e01ddb8402b0b70e46da7988a497229dbb_trns_h264/playlist.m3u8
 添加kiriko_chan https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-a0d506d4f752c41a81ee4f4bb2a4a6e01ddb8402b0b70e46da7988a497229dbb_trns_h264/playlist.m3u8
+Thu Mar 28 09:05:51 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMTYzMTE1OX0.HeZ1Rtx746qXI8zZ-1gSoejwmWxeCUPx7AATTzLlKoWbA6OjH8MZ-UrRvPjpuFkZPIgfwuL8T-jAVuXd9Rvz1Z7vO0y48r67AfhbVOFCUb3Qak8ZtDj7N3VWqdmG-7_W
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxMTYzMTI0Mn0.4omYmP9qUzXFgRWipTysK1WRU7B1Zn1G9hA-upbjL9Z-xBqLBCylcimQsNuADW_uHbzcTKUbmOtNr4zr_JWvo2bOMGfWW3lWB4FBWVAetLCrzUA49meoc_rwxGlRvYa2
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除moem9e9 
+删除emyii 
