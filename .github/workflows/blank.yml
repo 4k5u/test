@@ -19,6 +19,7 @@ jobs:
       - name: Run a one-line script
         run: |
           bash panda.sh
+          bash cb.sh
           bash st.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
