@@ -167,3 +167,6 @@ Thu Mar 28 21:51:46 CST 2024
 Thu Mar 28 22:15:43 CST 2024
 删除imgroot5 
 删除ksb0219 
+Thu Mar 28 22:36:40 CST 2024
+添加kiriko_chan https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-5beaca93085d206686d2628fc25ab7268823938b8f6aae916dd02182d91df524_trns_h264/playlist.m3u8
+删除acac88 
