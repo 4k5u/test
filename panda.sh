@@ -57,7 +57,7 @@ unreachableIds=()
             echo "错误提示：$json "
         fi   
         echo "-----------`date`--------------"
-        sleep 1
+        sleep 3
     done   
     #sleep 10    
 
