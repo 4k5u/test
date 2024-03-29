@@ -42,3 +42,5 @@ Sat Mar 30 05:51:36 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 Sat Mar 30 06:14:26 CST 2024
 删除cool3333 
+Sat Mar 30 06:28:30 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
