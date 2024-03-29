@@ -10,7 +10,8 @@ username="$USERNAME"
 password="$PASSWORD"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 cool3333 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 100472 ksb0219 tess00 bom124 sonming52 banet523 giyoming axcvdbs23 apffhdn1219 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 muse62 chuchu22 siyun0813 nemu00 Vvvv1212 xxaaop syxx12 day59day likecho obzee7 dudvv7 ahri0801 soso621 missedyou imanatural Sharon9sea seozzidooboo saone451 acac88 seozzidooboo";
+userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 ksb0219 tess00 bom124 sonming52 banet523 giyoming axcvdbs23 apffhdn1219 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 muse62 chuchu22 siyun0813 nemu00 Vvvv1212 xxaaop syxx12 day59day obzee7 dudvv7 ahri0801 soso621 missedyou imanatural Sharon9sea seozzidooboo saone451 acac88 seozzidooboo";
+#likecho cool3333 100472
 #afreeca gusdk2362  sol3712 m0m099  namuh0926 
 #pop162cm
 #flex golaniyule0
@@ -32,7 +33,7 @@ unreachableIds=()
             echo "${userId}获取成功。"
             echo "直播源：${hls}"
             echo "开始创建房间" 
-            room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
+            room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"Panda_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
             roomid=`echo $room|jq -r .data.roomId`
             roomToken=`echo $room|jq -r .data.token`
             echo "房间id：$roomid"
