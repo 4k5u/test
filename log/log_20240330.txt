@@ -141,3 +141,6 @@ Sat Mar 30 20:56:30 CST 2024
 Sat Mar 30 21:18:55 CST 2024
 添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxMTg0Nzk3OH0.c12r3AN_w9840swUNYfiqoPo64R3rSQnNFhTVpjMqljCoBiwLfmSgogai-8_gPvVPwgSLncc0bEWWQfB6G1ReDwIz2wjAVVSK32q-k3VcMjR1W8uxjXufLpxRQKuDtyH
 添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
+Sat Mar 30 21:36:42 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxMTg0OTIxNn0.SeE7pQIIzINDBleYVtBI36K9F5PcfiVTuU1fqRS4ihNmqC_SeWJ0l-fcNXstkTFgsRVCEBp8TaFNZsIG_kUgnz81jfDPhhr_Rs-oaCSKcQy8cWqziJvJZtsWAItfp5TA
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
