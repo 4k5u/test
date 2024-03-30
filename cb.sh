@@ -59,7 +59,7 @@ unreachableIds=()
             echo "$userId 可能没开播。"
         fi
         echo "-----------`date`--------------"
-        sleep 1
+        sleep 5
     done   
             
     #sleep 10    
