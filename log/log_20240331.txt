@@ -44,3 +44,5 @@ Sun Mar 31 05:12:02 CST 2024
 删除ahri0801 
 Sun Mar 31 05:23:37 CST 2024
 删除100472 
+Sun Mar 31 05:37:58 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
