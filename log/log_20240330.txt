@@ -154,3 +154,7 @@ Sat Mar 30 22:25:09 CST 2024
 删除San___San 
 Sat Mar 30 22:36:26 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
+Sat Mar 30 22:51:37 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxMTg1MzY5Mn0.huUBXIegK9kxVHnfXuFr8RR8b_ye_WTSRfwz1WeQvDj4HiyEmt53Mxrbq_82_O0vwm3kuIB3qD6SdAoO_9_Xp0Umdus2P4zqVzlHXw1ds0tkvwfvrN5KDaUob025gr2x
+删除54soda 
+删除o111na 
