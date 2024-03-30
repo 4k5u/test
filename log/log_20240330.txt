@@ -165,3 +165,8 @@ Sat Mar 30 23:15:15 CST 2024
 删除sseerrii0201 
 删除dmsdms1247 
 删除Daji-520 
+Sat Mar 30 23:37:22 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxMTg1NjMxMn0.-C-KtPcV7Ge2mGVSkpouDfnR6mgsZG5wd8xbc4zvzVY212mg8V52WJlshHWWtq6mKyKz16SSwU4JEfVDzFxkbIlo33-1xAja-UTUNwQDVI8rVb1UM6vSjYVo59ciap-D
+添加honey_pinkgreen https://edge14-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-acbf4192ee0858b810cc87eff044e1ad2392b50d1fdc6cf69e1e1afd2caf0ed6_trns_h264/playlist.m3u8
+添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
+删除54soda 
