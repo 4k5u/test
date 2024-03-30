@@ -57,3 +57,5 @@ Sun Mar 31 07:13:58 CST 2024
 删除mikio_san 
 Sun Mar 31 07:25:25 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
+Sun Mar 31 07:36:53 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
