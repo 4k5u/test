@@ -152,3 +152,5 @@ Sat Mar 30 22:12:27 CST 2024
 Sat Mar 30 22:25:09 CST 2024
 添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
 删除San___San 
+Sat Mar 30 22:36:26 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
