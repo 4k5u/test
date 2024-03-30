@@ -67,3 +67,4 @@ Sat Mar 30 10:18:15 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 Sat Mar 30 10:38:13 CST 2024
+Sat Mar 30 10:51:49 CST 2024
