@@ -118,3 +118,4 @@ Sun Mar 31 19:12:13 CST 2024
 添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxMTkyNjgwOH0.3ssjka0ts5-8EiGU-7gmk1TcdyZsxKUPgp5VVf6kCniaAKeZZg2ps9qmMXbgkv3mVJ-ZtUFT_5w1air0yyikYPxMYEGA6Dji5sya9lZEIM3xnO1xCv4mTh4a0R6K4SI2
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
 删除muse62 
+Sun Mar 31 19:23:49 CST 2024
