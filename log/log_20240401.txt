@@ -36,3 +36,5 @@ Mon Apr 1 05:12:15 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
 Mon Apr 1 05:23:43 CST 2024
 删除TefFfish 
+Mon Apr 1 05:36:55 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
