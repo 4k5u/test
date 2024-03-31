@@ -143,3 +143,4 @@ Sun Mar 31 22:12:16 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
 Sun Mar 31 22:25:23 CST 2024
 删除hyuna0721 
+Sun Mar 31 22:36:38 CST 2024
