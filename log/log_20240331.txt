@@ -124,3 +124,6 @@ Sun Mar 31 19:36:25 CST 2024
 删除AkiShina 
 Sun Mar 31 19:51:29 CST 2024
 删除sigmasian 
+Sun Mar 31 20:26:07 CST 2024
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxMTkzMTI4MH0.du_JZ1o8I7eviSACWxGCmnXX3T7d3dDLoEcqIErDnaYB4KZyOrKn9cC3vR56GWgCOEdR1mv_wBl6KWtTTGCbMVOI4em_Y4i56ifTA-ZnhSZnj-l6Q3BxnJz4-bH2wTG-
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxMTkzMTM4NX0.tMlzSaKHLd7NU_gXqO0QHHk6VYeFvyZhrqoX9TMXoDemPDrLmOlH0y3VITQHd4t-ELRdloreuXIqfWFoXtecBMwO-8ED7fmJQMQEgy2DfaBXQS19Hewef4-eyR-NWz1z
