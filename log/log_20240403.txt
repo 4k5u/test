@@ -57,3 +57,7 @@ Wed Apr 3 07:36:48 CST 2024
 Wed Apr 3 07:51:34 CST 2024
 Wed Apr 3 09:05:58 CST 2024
 删除imanatural 
+Wed Apr 3 09:58:53 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMjE1Mjc0Nn0.bcQ4tK-1ojnQrYVtbMrjJXHPKr--UC-dyVosN0XT1RJsaFzNPvOd_257vVrSvSksBzXO7TaLkN6oBcccSe4Qe7NaVdaOVNvoalZSb6DiUdT6qM1HILXo47C9OHO1683G
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除Akiyama_Key 
