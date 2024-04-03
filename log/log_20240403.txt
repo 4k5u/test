@@ -164,3 +164,6 @@ Wed Apr 3 23:26:33 CST 2024
 删除imissy0u 
 Wed Apr 3 23:38:49 CST 2024
 删除San___San 
+Wed Apr 3 23:51:43 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMjIwMjc0OH0.QHjREeBceI8CuOCevn4Q_6CMLox3NRkgJQyWwcv_QcE4z7n28kcYNGfqqrHakt2przlAhRlTTdw8xyCs23LEmRbcFlpm7UJ9iK10nr9TU8eejIL6S7Ax11UC6c7wQku2
+删除starsh2802 
