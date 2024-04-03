@@ -47,3 +47,7 @@ Thu Apr 4 05:25:14 CST 2024
 Thu Apr 4 05:36:38 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 Thu Apr 4 05:51:24 CST 2024
+Thu Apr 4 06:13:31 CST 2024
+添加kiyoko_rin https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f4a69c979c5940a0ad1b65e11203c1e81dac85007dcefa2e844091adac7a9284_trns_h264/playlist.m3u8
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
