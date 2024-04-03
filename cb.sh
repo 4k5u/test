@@ -23,7 +23,7 @@ unreachableIds=()
         if [ "${http_code}" == 200 ]; then
             echo "开始获取直播源"
 #            json=`curl --location 'https://cbcb.gds.workers.dev/https://chaturbate.com/get_edge_hls_url_ajax/' --header 'x-requested-with: XMLHttpRequest' --form 'room_slug="${userId}"'`
-            echo $(curl "https://chaturbate.com//streamapi/?modelname=${userId}")
+            #echo $(curl "https://chaturbate.com//streamapi/?modelname=${userId}")
             json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "https://cbtw.gds.workers.dev/streamapi/?modelname=${userId}"` 
             hls=`echo $json|jq -r .url`
             img="https://cbjpeg.stream.highwebmedia.com/stream?room=${userId}&f=$(date '+%Y%m%d%H%M')"
