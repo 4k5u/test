@@ -83,3 +83,9 @@ Wed Apr 3 13:28:54 CST 2024
 删除mikio_san 
 Wed Apr 3 13:40:11 CST 2024
 Wed Apr 3 13:51:38 CST 2024
+Wed Apr 3 14:19:13 CST 2024
+添加chuchu22 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xhgMvJ45TC3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hoZ012SjQ1VEMzRyIsImV4cCI6MTcxMjE2ODUyMH0.vINoUrr1dv61CSi5vtPJBaViHyGuYAWdeq4wuz1AlmnqVn87V417ld2S4vs8tIFWGoLSu065stfleUy1pqNqhTvtqNAkxQGfk7oqm0xs0eBBGhzqbHvZ-_EazAt9wVPN
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
+删除Sime_Naughty 
+删除4ocari 
+删除axcvdbs23 
