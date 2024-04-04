@@ -31,9 +31,8 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
       - name: disconnect warp
         run: |
-          warp-cli --accept-tos disconnect
-          sudo echo "nameserver 8.8.8.8" > /etc/resolv.conf
-          sudo echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+          sudo warp-cli --accept-tos disconnect
+          sudo warp-cli --accept-tos disable-always-on
           sleep 5
           curl ip.sb
       - name: commit
