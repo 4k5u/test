@@ -32,6 +32,8 @@ jobs:
       - name: disconnect warp
         run: |
           warp-cli --accept-tos disconnect
+          service systemd-resolved restart
+          sleep 5
           curl ip.sb
       - name: commit
         run: |
