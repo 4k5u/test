@@ -83,3 +83,9 @@ Thu Apr 4 12:21:35 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 删除Xenomy 
 删除_PunPun18 
+Thu Apr 4 12:39:49 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+删除TefFfish 
+删除San___San 
+删除acac88 
+删除axcvdbs23 
