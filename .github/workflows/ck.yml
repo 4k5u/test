@@ -32,7 +32,6 @@ jobs:
       - name: disconnect warp
         run: |
           sudo warp-cli --accept-tos disconnect
-          sudo warp-cli --accept-tos disable-always-on
           sleep 5
           curl ip.sb
       - name: commit
