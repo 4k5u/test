@@ -16,10 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Setup WARP
+        uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
-          bash panda.sh
           bash cb.sh
+          sudo warp-cli --accept-tos mode proxy
+          bash panda.sh
           bash st.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
