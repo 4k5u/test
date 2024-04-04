@@ -75,3 +75,6 @@ Thu Apr 4 10:41:39 CST 2024
 删除_PunPun18 
 Thu Apr 4 10:53:22 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
+Thu Apr 4 11:38:59 CST 2024
+添加axcvdbs23 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ByHi7YMU7osi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0J5SGk3WU1VN29zaSIsImV4cCI6MTcxMjI0NTI2OX0.OPzOVXnHiS7HemyRyCTM1TPtgvVevXmFmkRzkt1kopnYx0fClIecelumeMo1hR8OhrbAxRq1i0Tq_s0bli-ALiegB42cw-joPZPD94RiqQKXtRI6nGr2DDUIbwio4Zf3
+删除nemu00 
