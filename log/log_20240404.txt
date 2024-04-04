@@ -89,3 +89,6 @@ Thu Apr 4 12:39:49 CST 2024
 删除San___San 
 删除acac88 
 删除axcvdbs23 
+Thu Apr 4 12:53:15 CST 2024
+添加axcvdbs23 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ByHi7YMU7osi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0J5SGk3WU1VN29zaSIsImV4cCI6MTcxMjI0OTczNH0.DnduftwtiX-NX0wGtigT3Vi2ckRa7ODS63UDWkwe3VwHMwDyZAe0qX2NuC2RIjFLk7kerbCt1WQpIpsr-q_8krAOINszWkrN987XdEFu-OEelJPeSZ1bDEmyFjlUrpPu
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMjI0OTgzN30.DSpW4dbKYB7Z7qc6NypEQbEqKMBVR0T4fmTEiplLGHfNPSjF-A9VcaojadIW3D21SD988dvhENk2Kq9-p1DadG73niswgeGHEx-IJ6KpbR-scJuHX7c97RSLDfD0NubW
