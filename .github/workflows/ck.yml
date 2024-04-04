@@ -29,6 +29,10 @@ jobs:
           USERTOKEN: ${{ secrets.USERTOKEN }}
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
+      - name: disconnect warp
+        run: |
+          warp-cli disconnect
+          curl ip.sb
       - name: commit
         run: |
           git config --global user.email "you@example.com"
