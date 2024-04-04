@@ -69,3 +69,7 @@ Thu Apr 4 10:02:56 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 删除Akiyama_Key 
 删除kiyoko_rin 
+Thu Apr 4 10:41:39 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
+删除SanySenise 
+删除_PunPun18 
