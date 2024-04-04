@@ -22,6 +22,7 @@ jobs:
         run: |
           bash cb.sh
           sudo warp-cli --accept-tos mode proxy
+          sleep 10
           bash panda.sh
           bash st.sh
         env:
