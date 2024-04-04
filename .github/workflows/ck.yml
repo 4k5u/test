@@ -31,7 +31,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
       - name: disconnect warp
         run: |
-          sudo warp-cli --accept-tos disconnect
+          sudo warp-cli --accept-tos mode proxy
           sleep 5
           curl ip.sb
       - name: commit
