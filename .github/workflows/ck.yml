@@ -20,7 +20,7 @@ jobs:
         uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
-          bash cb.sh
+          curl ip.sb
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
@@ -31,7 +31,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
       - name: disconnect warp
         run: |
-          warp-cli disconnect
+          warp-cli --accept-tos disconnect
           curl ip.sb
       - name: commit
         run: |
