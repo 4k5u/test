@@ -89,3 +89,8 @@ Fri Apr 5 12:22:25 CST 2024
 Fri Apr 5 12:40:37 CST 2024
 删除TefFfish 
 Fri Apr 5 12:53:15 CST 2024
+添加sexygamesx https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e8ee048f3328bc05792c8efbec7bc2432f8ee56fb4ef008035f48c5ddbae5480_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bc59abfe66f429174b9c0b8459575661d1165d1c8fd0592bda8719db094b5d81_trns_h264/playlist.m3u8
+Fri Apr 5 13:16:24 CST 2024
+添加chuchu22 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xhgMvJ45TC3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hoZ012SjQ1VEMzRyIsImV4cCI6MTcxMjMzNzU0N30.WwdxWWUN5yR0W8n_bh_Fls_pv4s_1HZxNouDz8tghRmImcKGSbdFNMtOgDTrXpF2i6CfydQmOlqeUL4_y4DYyyvd7pK5oHY59MTcNQkG5O9EdrbaIsRDT1NjiRUQbLsi
+删除my_eyes_higher 
