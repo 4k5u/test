@@ -68,3 +68,9 @@ Fri Apr 5 09:09:23 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMjMyMjc5M30.Gi63_23mEnYLpdV0tHV6sMZyFALd__3-ddqdFb0NtS1D2M4rOvB7jr-9E6JS1Oc5e-z4ESJenmAmV_LDvsPweVh3ykrKnz0MjGutHWjHR0yUWCccyrBL6QZFf7uNBegm
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 删除kiriko_chan 
+Fri Apr 5 10:00:14 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除dkdlfjqm758 
+删除Akiyama_Key 
+删除kiyoko_rin 
+删除Sime_Naughty 
