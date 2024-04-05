@@ -50,3 +50,7 @@ Sat Apr 6 06:53:31 CST 2024
 删除TefFfish 
 Sat Apr 6 07:17:42 CST 2024
 Sat Apr 6 07:40:41 CST 2024
+Sat Apr 6 07:53:26 CST 2024
+添加Sharon9sea https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMjQwNDYyMH0.Vp0nGPdGglS1F3g_cAYuUQscnZFjS8KCkEyWPTZmm9GfjyXCp9U4ES581dBC9yxUf9MNGSpG8cU4KpZ0rcr5jFhHNRmgksj8ptBpKKJBUZ17CO3xm0anNiB-Jvrqwh3G
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
