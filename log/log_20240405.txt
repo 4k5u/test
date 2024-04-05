@@ -189,3 +189,6 @@ Fri Apr 5 23:17:19 CST 2024
 添加Daji-520 https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8?playlistType=lowLatency
 删除imissy0u 
 Fri Apr 5 23:38:39 CST 2024
+Fri Apr 5 23:53:48 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMjM3NTY3NX0.jeojdNYVxGdQUXQ7AX38HEiZKouQrF9UipZ4gQ1KtRT7TObLIY5efrApicuP6Ay8maSdjnQrTL05UrEHUq5bcP6WL6oYGzHXG7sacq3oOwlO-SFp9_6A7nGZm2FRMd33
+删除giyoming 
