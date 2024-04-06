@@ -10,7 +10,7 @@ username="$USERNAME"
 password="$PASSWORD"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 likecho cool3333 100472 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 ksb0219 tess00 bom124 sonming52 banet523 giyoming axcvdbs23 apffhdn1219 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 muse62 chuchu22 siyun0813 nemu00 Vvvv1212 xxaaop syxx12 day59day obzee7 dudvv7 ahri0801 soso621 missedyou imanatural Sharon9sea seozzidooboo saone451 acac88 seozzidooboo hyuna0721";
+userIds="jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 likecho cool3333 100472 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 ksb0219 tess00 bom124 sonming52 banet523 giyoming axcvdbs23 apffhdn1219 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 muse62 chuchu22 siyun0813 nemu00 Vvvv1212 xxaaop syxx12 day59day obzee7 dudvv7 ahri0801 soso621 missedyou imanatural Sharon9sea seozzidooboo saone451 acac88 seozzidooboo hyuna0721 sonming52";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926 
 #pop162cm
