@@ -149,3 +149,7 @@ Sat Apr 6 20:29:10 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
 删除AkiShina 
 删除your_desssert 
+Sat Apr 6 20:48:06 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxMjQ1MDk4NX0.ZwJF2k-ENc2d9MvOgwKurkcz745BnOtRKoPgkOFFqnKRcXIYDB0OTNGx-Vf-9ksHihDFE_kOv7T90OnO5fiqHdwO9-at2MOeoC8PnNQfuJJ-IZsAQvHIEyYZy2y5lRxS
+添加syxx12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mB21Zi7tb1Sh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21CMjFaaTd0YjFTaCIsImV4cCI6MTcxMjQ1MTA4NX0.iTrPmc_f09UQ_qutZFW6CmJUBrEuMLiT3CAwor6jxFD0VjqrC1ypZpMYdRGJP0uYjvlI0DIA6NBhpsSWlEWnq6ikCgCnvq-QwKgLJiVpCgV27Kpo0pHM00vCAuBhuv5Y
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
