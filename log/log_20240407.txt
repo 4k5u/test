@@ -189,3 +189,8 @@ Sun Apr 7 23:17:23 CST 2024
 删除cuddles_me 
 Sun Apr 7 23:28:35 CST 2024
 删除soso621 
+Sun Apr 7 23:41:53 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMjU0Nzc2Mn0.gLSxzG5IoLTGkecyhQPEM6MHS_JxlDgQLS52XxQszL3KM6q9LjcuD41ZxtQPwTG0m3w_674UhLaKq3KPe1bESiD10epsbw_6LTFpuz2s-yGGiRQv696r09L2NMwjzQcb
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxMjU0Nzc4NH0.9W8eL0skwYZV42Z9Zuv0qhtlGXb4n61qPLRnNcs7sIXdFO74haqMtZ5XQ1oVzShXNXuyqcewbwpUI2lSRk4cWANfEm9NX9NltvhqFyGXlnevAbQjeXZzxoCqiE-7pso6
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+删除okzzzz 
