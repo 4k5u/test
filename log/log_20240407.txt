@@ -113,3 +113,5 @@ Sun Apr 7 16:22:15 CST 2024
 添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-571eaa757f1420e772b1d087e57ec68f395b74dcab127d05dc93d1dd0ce68c6e_trns_h264/playlist.m3u8
 Sun Apr 7 16:38:43 CST 2024
 删除_katekeep 
+添加_katekeep https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_katekeep-sd-fc00f64718f0196f2c5030e5f49c6bc0e496e7f436f38fc974365fafa4cd68f3_trns_h264/playlist.m3u8
+Sun Apr 7 16:54:27 CST 2024
