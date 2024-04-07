@@ -142,3 +142,10 @@ Sun Apr 7 19:38:51 CST 2024
 Sun Apr 7 19:53:45 CST 2024
 删除AkiShina 
 删除mode_bad 
+添加mazzanti_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-19556cb6c4f1bfee3c4b7a2bee332629a6fb661722397a2f27478b87d6877dc0_trns_h264/playlist.m3u8
+Sun Apr 7 20:27:40 CST 2024
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxMjUzNjIxMX0.3QQhzdYMyOkkcEs1AKZiByWbAQEkUut78f7CCfYpdf3D5KEiZoAjN6koK8JtuSM2djcOIHcEyqwQHOSgx9FcKynTFM3SJUYjEUuZnQ1oqr_NeHoewUiRAg6HBIUiMV6Q
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxMjUzNjI3OH0.oS8hei3bZL5lN4AsM7vjdqp45-OqbKYwE2B8V8o09sFgbs0hzVgbUG6HTvaKOv5BKoWp-tWiAjNhq0KtnFFZnJRX2L6dg20uek8NHw0lq2TocnXq-Qt8Nwttxa79Ahog
+删除onlyone521 
+删除cuddles_me 
+删除your_desssert 
