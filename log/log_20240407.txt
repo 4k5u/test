@@ -163,3 +163,9 @@ Sun Apr 7 21:53:31 CST 2024
 添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxMjU0MTQzOH0._jD2EoNpuGcbhhr7w4cwqUhzPUKRErgAFN0vN9Hb6XaMKhuQjmIvARXmk59ZMwHX0Y0TJQmkPeOsNCb1MZf4GwqpuNm2Exc6U__Z_BbcWUupDbxMrp-SugWP6MW92XhQ
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
 删除54soda 
+添加kiriko_chan https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-7454d7fb09c617b9530cfb2fc18da98338f27e865a917c86d991d429eb3c22ae_trns_h264/playlist.m3u8
+Sun Apr 7 22:15:14 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxMjU0MjYzMX0.pcWvS-WJlqeSetIdEyXvI51X8DlG5LNn1i5Xo9X_W8eeNYbrEl0FxP3d_x-jRU1YVd_nqUhI5387_IBBAuyOXDbvzEyTLNxLDdzO6yf7blDnjB4pNyUHzxBU_vGyyR-H
+添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
+删除M--I--A 
+删除your_desssert 
