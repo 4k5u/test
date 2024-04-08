@@ -7,6 +7,7 @@ bot="$BOTTOKEN"
 synctv="$SYNCTV"
 username="$USERNAME"
 password="$PASSWORD"
+m3u8site="$M3U8SITE"
 cookie="";
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
@@ -43,7 +44,7 @@ unreachableIds=()
                     curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} -X POST "${synctv}/api/movie/clear"
                     curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} --data-raw "${jsondata}" -X POST "${synctv}/api/movie/push"
                     echo "$userId 已推送到Sync TV, removing from list"
-                    text="*J哥提醒你！！！！*\n\nChaturbate主播${userId}直播源已添加到SyncTV\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n"
+                    text="*J哥提醒你！！！！*\n\nChaturbate主播${userId}直播源已添加到SyncTV\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${hls})\n\n"
                     text=$(echo "${text}" | sed 's/-/\\\\-/g')
                     text=$(echo "${text}" | sed 's/_/\\\\_/g')
                     curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
