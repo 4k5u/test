@@ -16,3 +16,9 @@ Tue Apr 9 01:42:54 CST 2024
 Tue Apr 9 01:54:32 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxMjY0MjA3OH0.40y7hnK1mfKDZFN9E58V8w2ZDsEF4Qy5R0FxeEsCrwJY1GOge1d5-7o8HMZZNnojyaLPo7-xNs98ASOtlVfCE5O1ARqqKtiyfOLKqz3fhQ8SFH58JJRqFRxq3ekRvvMA
 删除starsh2802 
+添加kiyoko_rin https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e62a66c86bfc5faf412b9ae71ecf5dd65ed2c0aba27be26cfbd937c2b23fcd07_trns_h264/playlist.m3u8
+Tue Apr 9 02:23:20 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
+添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
+删除3ww1ww3 
+删除pandaex 
