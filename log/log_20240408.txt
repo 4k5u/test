@@ -104,3 +104,9 @@ Mon Apr 8 14:22:37 CST 2024
 Mon Apr 8 14:39:40 CST 2024
 删除mikio_san 
 Mon Apr 8 14:53:25 CST 2024
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-81f47b00caa2f6b2d3bcbcda74a78106c3d0fad52556f81fc39e2cca2f2a376e_trns_h264/playlist.m3u8
+Mon Apr 8 15:17:59 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxMjYwNDA0MX0.IQoPQDYRjtzzKmfHrFONBCHHkXAw7-J25MnbKo0oL8l7RKT1atBn3JuNL9GPZZ1Ypd6BQ3g9fwluuG5A9KjwSjQ6TiC1nTQMH6kipNRbAxidy2x9K3YURTTo4ilBMmQa
+删除2dayday 
+删除Xenomy 
+删除getme1004 
