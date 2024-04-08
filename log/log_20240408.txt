@@ -152,3 +152,5 @@ Mon Apr 8 21:18:40 CST 2024
 删除qwas33 
 删除acac88 
 删除chuchu22 
+Mon Apr 8 21:38:45 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxMjYyNjg0Nn0.2skvlyLNPtnRWkxwuj97p6KU5rJojBjcs2GXKeIQh_IlcxE3X9ndCLvGsU5HPAx7vaGBpn5SSwnXcVXY423ZjrXQmZVAVe8vGplDJbITf9ThV2vHHfNsbM9cf0vSE3UB
