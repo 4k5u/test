@@ -23,6 +23,8 @@ unreachableIds=()
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}'  "https://zh.stripchat.com/api/front/v2/models/username/${userId}/cam"` 
         sid=`echo $json| jq -r .cam.streamName`
         islive=`echo $json|jq .cam.isCamAvailable`
+        imgTimestamp=`echo $json| jq -r .user.user.snapshotTimestamp`
+        img="https://img.strpst.com/thumbs/${imgTimestamp}/${sid}_webp"
         echo "${islive}"
         echo "开始获取直播源"
         if [ "${islive}" == true ]; then
@@ -44,7 +46,7 @@ unreachableIds=()
                 text="*J哥提醒你！！！！*\n\nStripchat主播${userId}直播源已添加到SyncTV\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${hls})\n\n"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 text=$(echo "${text}" | sed 's/_/\\\\_/g')
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"text\":\"$text\"}" "https://api.telegram.org/${bot}/sendMessage?parse_mode=MarkdownV2"
+                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
             elif [ "$roomid" = null ]; then
                 echo $room|jq -r .error
                 echo "创建房间失败，可能已有同名房间，跳过此ID" 
