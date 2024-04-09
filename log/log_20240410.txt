@@ -11,3 +11,6 @@ Wed Apr 10 00:41:08 CST 2024
 添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
 添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
 Wed Apr 10 00:53:41 CST 2024
+Wed Apr 10 01:17:00 CST 2024
+删除imgroot5 
+删除JP-KARIN 
