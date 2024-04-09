@@ -120,3 +120,5 @@ Tue Apr 9 18:20:29 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
 删除chuchu22 
 Tue Apr 9 18:40:25 CST 2024
+Tue Apr 9 18:53:46 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
