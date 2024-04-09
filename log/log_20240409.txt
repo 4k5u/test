@@ -101,3 +101,5 @@ Tue Apr 9 15:17:48 CST 2024
 删除getme1004 
 Tue Apr 9 15:38:47 CST 2024
 删除_PunPun18 
+Tue Apr 9 15:53:31 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxMjY5MjQ4Nn0.gQd1P1FiM9ZGGQaS2E8KadhXpygmsNAV-lyYlcUmTuZ8lzvnrABVFu6dLonr35oC_yzB7xEGC7nuxoyhI-GJpD9H-BqTY96KubfH4hLw3n_Cm9o276mk8fj-6hrYdX8Z
