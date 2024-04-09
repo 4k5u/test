@@ -168,3 +168,5 @@ Tue Apr 9 22:30:08 CST 2024
 删除777YikuYiku 
 Tue Apr 9 22:41:29 CST 2024
 删除giyoming 
+Tue Apr 9 22:53:33 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxMjcxNzgyNX0.s0UQGQZhqnyRQx0kn2DV_nkLPKIj-IGQeTW6xTpHdOSg8Hm-SQ-mvPBn4_NO88xCS-nDjdnSw7ET5xOwpGc3x49djm98dVA3YTuALb9-gYIgX7IGdjwC4OpiMTi5iWqs
