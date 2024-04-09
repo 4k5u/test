@@ -61,3 +61,8 @@ Tue Apr 9 09:09:07 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
 删除kiriko_chan 
 删除sexygamesx 
+Tue Apr 9 10:00:33 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除kiyoko_rin 
+删除Akiyama_Key 
+删除SanySenise 
