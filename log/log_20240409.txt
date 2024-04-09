@@ -154,3 +154,5 @@ Tue Apr 9 21:18:23 CST 2024
 删除my_eyes_higher 
 Tue Apr 9 21:38:33 CST 2024
 删除sseerrii0201 
+Tue Apr 9 21:53:54 CST 2024
+添加sseerrii0201 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3dJ5a36JnVw8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNkSjVhMzZKblZ3OCIsImV4cCI6MTcxMjcxNDEyMH0.rkO9QiUgrFwDT6NC69s1H3SGI23bjedAy_tPK-Opywa0-fSeLgBjBwTrKXglUjM0GyisFDervInaLTj619wphQYZLLD_VUmbDEEXENsVP-5hUrByULkyWkPbj8n_rv3h
