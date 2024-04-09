@@ -54,3 +54,10 @@ Tue Apr 9 07:18:02 CST 2024
 Tue Apr 9 07:40:31 CST 2024
 删除dkdlfjqm758 
 Tue Apr 9 07:53:51 CST 2024
+Tue Apr 9 09:09:07 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxMjY2ODE1Nn0.2v6ln9VNTnGMI_-dpwxahXvY-1LbQitPSvjxiYXT5quKfvxzxBzrmD9FC37-A1yRGrA__5PEiga6kjtfp9WGxaerMNLdMslVcN5JlINsgUZ-ja-Ct8t__8nMAVXmtnwC
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMjY2ODM4N30.2wfRHRCeXOL6FQ1bBE8NuF_uE9IRyoVMzFV6IxHWlnPfailhZ6n7OMfpH4YvH0y0P-LfOuYSW53jRcoOrfIEqNddJQlXtj9lhFUwfbZi1GljTgV8iKvJfLyvmp3NIu-5
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
+删除kiriko_chan 
+删除sexygamesx 
