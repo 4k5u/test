@@ -128,3 +128,6 @@ Tue Apr 9 19:14:18 CST 2024
 删除54soda 
 Tue Apr 9 19:25:30 CST 2024
 添加imgroot5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.RmKlbVyIf6Tw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JtS2xiVnlJZjZUdyIsImV4cCI6MTcxMjcwNTE4Nn0.3guG_zCFG6i8BKRuEStU3b8Ob3pbwZo8TldGS2RH-70fcNSUIRRbMkXKQjaYjAHrm2X53oh_oyJ-_kHcvfQhSSGNPurQ2iS8bxj4-DDRKfqrf2ooiIpuvWEZDPefGYeB
+Tue Apr 9 19:39:01 CST 2024
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxMjcwNjA3MH0.-ZugDiEO3qIwdrwB9m15E1alpasHeoYnnU57HpQ8TTck1Erb50WfamUnnrs-5YH4Cd3yNY0Y1Cerw3qPQlu9YnSCofAiQHfYAmtSiHi6NqQFrpAkyDnmI5GJHKT7I_yg
+删除AkiShina 
