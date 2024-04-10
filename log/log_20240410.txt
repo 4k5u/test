@@ -69,3 +69,8 @@ Wed Apr 10 07:39:32 CST 2024
 删除Akiyama_Key 
 删除kiyoko_rin 
 Wed Apr 10 07:53:51 CST 2024
+添加oda_assuri https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-c38307e61eb6b1d84637413ddc8c36b61f589dd6dec49bcf063ebd9704530084_trns_h264/playlist.m3u8
+添加sexygamesx https://edge14-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a011d4a568dc1706896b20d83fc0ecbe51b4c6c75b261e5ffc06880006f5f89e_trns_h264/playlist.m3u8
+Wed Apr 10 09:08:29 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMjc1NDc1NX0.kwpvFWl0WA8SM4Y8F01d2IHxLpy1J6xyOreLszc0MZ2Z8cAO_9zdGWvxeXCele1uzB-iaP0gsWiIK6HuUj_0Rmzvgf84J-MnaKttnuF7rP21N6gxvBxOhsCnVDffyAZ0
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
