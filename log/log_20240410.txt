@@ -96,3 +96,6 @@ Wed Apr 10 12:38:37 CST 2024
 Wed Apr 10 12:53:31 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-cb3bfe4c5232499826f2536967dfb609f9af83bf99caa0868139fc7163ebf0b6_trns_h264/playlist.m3u8
+Wed Apr 10 13:16:07 CST 2024
+删除acac88 
