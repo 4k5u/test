@@ -54,3 +54,5 @@ Thu Apr 11 06:18:29 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 删除charming_NaNa21 
 删除San___San 
+Thu Apr 11 06:39:32 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
