@@ -129,3 +129,6 @@ Wed Apr 10 16:53:42 CST 2024
 添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-cb3bfe4c5232499826f2536967dfb609f9af83bf99caa0868139fc7163ebf0b6_trns_h264/playlist.m3u8
 Wed Apr 10 17:19:40 CST 2024
 删除oda_assuri 
+Wed Apr 10 17:38:31 CST 2024
+添加syxx12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mB21Zi7tb1Sh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21CMjFaaTd0YjFTaCIsImV4cCI6MTcxMjc4NTMwNX0.XMvmqcS-I0lIyfJdn3bzc6bOLK4h0hbD4NX5ma7OsjIQJZScZjXbKV2-ZsiRTRgxlc6I66T_zQzh9w5Onb3Srddo4h7eR78ySQU30CaEK6L8-P3U1Z97LJiTLhgTDQ04
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxMjc4NTM1Nn0.y2DjnVvMEh-kYqhr0tJJ9ZGZzk9-LZwpS8oM74dL6fPx_XdRg5m7MmU6N-yOtkt4kn_wbk5X6g7dk-zSme-BvAj7N5ouYY6iloGyb2T1gv7nhnTYR2_VdZH96slKWKQz
