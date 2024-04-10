@@ -93,3 +93,6 @@ Wed Apr 10 11:53:37 CST 2024
 Wed Apr 10 12:19:45 CST 2024
 Wed Apr 10 12:38:37 CST 2024
 删除Xenomy 
+Wed Apr 10 12:53:31 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
