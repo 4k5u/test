@@ -57,3 +57,6 @@ Thu Apr 11 06:18:29 CST 2024
 Thu Apr 11 06:39:32 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 Thu Apr 11 06:53:49 CST 2024
+Thu Apr 11 07:19:14 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxMjgzNDUyNn0.vkPMDBgrwDMSaammX6ygFJCu0PXdtYxtyiwq7ifymgfKpmMCNEXgzaADUh7z2s5YM_N1K6_ilpmwAa2d9hjsI9a36bZbcIZQhomCUG7SFNk--O_IgNRSrHghahmkZPxl
+删除SanySenise 
