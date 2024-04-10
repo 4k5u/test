@@ -111,3 +111,5 @@ Wed Apr 10 14:22:43 CST 2024
 添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1ee03df2b56a686ef57937d7c77958b568bf44b81f50223d80c7b5cc694ed3d6_trns_h264/playlist.m3u8
 Wed Apr 10 14:40:44 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+Wed Apr 10 14:53:45 CST 2024
+删除Xenomy 
