@@ -140,3 +140,6 @@ Wed Apr 10 18:19:39 CST 2024
 删除sigmasian 
 删除morphesoull 
 删除your_desssert 
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-118a39345fa758641187dd044582919fa68e843750f68f4ef6af485ad50fc72e_trns_h264/playlist.m3u8
+Wed Apr 10 18:40:29 CST 2024
+删除mode_bad 
