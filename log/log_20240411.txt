@@ -135,3 +135,6 @@ Thu Apr 11 16:41:09 CST 2024
 删除mikio_san 
 Thu Apr 11 16:53:34 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
+Thu Apr 11 17:18:57 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
+删除mikio_san 
