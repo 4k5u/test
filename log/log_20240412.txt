@@ -36,3 +36,6 @@ Fri Apr 12 03:14:24 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 删除homegirl 
+Fri Apr 12 03:25:32 CST 2024
+删除alicelebel 
+删除777YikuYiku 
