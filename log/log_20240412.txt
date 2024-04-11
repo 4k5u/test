@@ -57,3 +57,6 @@ Fri Apr 12 05:53:39 CST 2024
 删除likecho 
 添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2f1d18f136a790a5b5f9351a53b58cec9ae56c7e9ebd48a583afd25ee0b11488_trns_h264/playlist.m3u8
 Fri Apr 12 06:16:15 CST 2024
+Fri Apr 12 06:32:07 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
