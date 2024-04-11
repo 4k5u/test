@@ -11,7 +11,7 @@ m3u8site="$M3U8SITE"
 cookie="";
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="0O0O_00O-O00O0 sabrina_hk888 lucy_1814 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A lucille_evans alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
+userIds="Ailen_baby 0O0O_00O-O00O0 sabrina_hk888 lucy_1814 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A lucille_evans alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
 
 userToken=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' --data-raw "{\"username\": \"${username}\",\"password\": \"${password}\"}" -X POST "${synctv}/api/user/login"|jq -r .data.token`
 echo $userToken
