@@ -138,3 +138,7 @@ Thu Apr 11 16:53:34 CST 2024
 Thu Apr 11 17:18:57 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
 删除mikio_san 
+Thu Apr 11 17:38:44 CST 2024
+添加0O0O_00O-O00O0 https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8?playlistType=lowLatency
+删除oda_assuri 
+删除Judy0523 
