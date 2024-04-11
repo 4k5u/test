@@ -187,3 +187,7 @@ Thu Apr 11 20:52:01 CST 2024
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxMjg4MzMzNn0.RxgK7PFsQNASBRlige7ID7UMxId9Icel1zZb3DLvKC_PW_7T77BFiMzZE9C-Vq7eQdjgK1x1i-lUSDLEhMI8dFbAcKodO3hXMyyeqKulp3J1X9w1yO2qS1yKSRdv-xlS
 添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
 删除Ailen_baby 
+Thu Apr 11 21:18:47 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxMjg4NDc4NX0.XcP2WTYzfvmYRBrURDyWNaYEzw-W3r13h6fdjIDTPSRg21ewHGrt4jlutRtH90h44IGJo-FnQig5r5-huXFgS0aAnWnDJvq_t3e2yK1kXg4R7bLoEMQ_QPL7NyqmGqQt
+删除your_desssert 
+删除JP-KARIN 
