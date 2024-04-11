@@ -42,3 +42,5 @@ Fri Apr 12 03:25:32 CST 2024
 Fri Apr 12 03:38:52 CST 2024
 Fri Apr 12 03:53:21 CST 2024
 删除M--I--A 
+Fri Apr 12 04:18:22 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
