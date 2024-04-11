@@ -216,3 +216,6 @@ Thu Apr 11 23:18:09 CST 2024
 Thu Apr 11 23:38:58 CST 2024
 添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMjg5MzE4NX0.c6KMMTPuPkJqn8XbNKjmHpHhwtNUGEpJb34Q8kpG-NbSiFjNTJGtzK2CttlpxCUfPIlmVbimKuT_owo1CKfuUM2vjjDNE2pRGHm6GSXlxI9Txl-G1wphWzYLmJV4kds3
 添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+Thu Apr 11 23:53:52 CST 2024
+删除777YikuYiku 
+删除day59day 
