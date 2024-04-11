@@ -155,3 +155,7 @@ Thu Apr 11 18:38:46 CST 2024
 添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxMjg3NTE5NX0.XVDQwi3286WConCzAaAtT7ieZnYHQZRg8-1120aKdE3tzJneBGq-Q58oAS7yGnE4J-J67KqTRC63l5ibde0IvUMBeNvd-C4ldacuy4ok8i-BcRyEvmuGBAjYGyiR98B7
 删除0O0O_00O-O00O0 
 删除Judy0523 
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b8f01d770bf29193c83c498c4777c0aec6f773478cd9964cce00e9f215659d22_trns_h264/playlist.m3u8
+Thu Apr 11 18:54:13 CST 2024
+添加0O0O_00O-O00O0 https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8?playlistType=lowLatency
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
