@@ -142,3 +142,7 @@ Thu Apr 11 17:38:44 CST 2024
 添加0O0O_00O-O00O0 https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8?playlistType=lowLatency
 删除oda_assuri 
 删除Judy0523 
+Thu Apr 11 17:53:31 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxMjg3MjQzMn0.aK_kLhaCD1lbBPfgczu_ndbUHiICGc4_rjuULyVWYRd1Nux5h6P97OUtDnQoCy-sB07dnk_Jqyu2A9tl33Rr1hBMDrIgOQ4FsUoNKlX0eQjbBlHYgWo-DqpwIUNloGOA
+添加likecho https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p7YaMt1qsZmA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3A3WWFNdDFxc1ptQSIsImV4cCI6MTcxMjg3MjQ0Nn0.sV85S7UGEVOhweng2Hx6UQq0EWj9hbrRD-q80R_8Dp6_JaBW_2nybixtbq33O5Kc_4SkCpUVkqId5lnLDooxG7TXHbnjKBElnr_BJCTceW8s8MczzM3-8lD3UdxlJMOM
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
