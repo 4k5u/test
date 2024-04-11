@@ -75,3 +75,7 @@ Thu Apr 11 10:02:51 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 删除Sharon9sea 
+Thu Apr 11 10:34:02 CST 2024
+删除_PunPun18 
+删除sexygamesx 
+删除SanySenise 
