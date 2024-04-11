@@ -111,3 +111,5 @@ Thu Apr 11 14:22:23 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
 删除_meganmeow_ 
 删除happyy2 
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-851a056ab3bfea382bf88da2247322003a7323726a2e5df83f7215f8a93fa747_trns_h264/playlist.m3u8
+Thu Apr 11 14:39:24 CST 2024
