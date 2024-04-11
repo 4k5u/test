@@ -105,3 +105,9 @@ Thu Apr 11 13:53:57 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxMjg1ODA0M30.3ACsme-tBhxlxsfq0xgAFU1WShQQjB4ADtlN4_I9GmVB5ABms9ugXLHoKWnLyMpoXW7-xgJJ4Fq0Asj0SNI6l-5WByTHKTtLt6HO-LTOYoTY9hxf0oe8mPJGWh8baKep
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 删除your_desssert 
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-03d9182af574b020c8283427518b129c522ecc9be932162ecb33a99d0107789c_trns_h264/playlist.m3u8
+Thu Apr 11 14:22:23 CST 2024
+添加chuchu22 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xhgMvJ45TC3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hoZ012SjQ1VEMzRyIsImV4cCI6MTcxMjg1OTkxN30.seDEv0-gH_KA9uV8d9JZiIlT-5WbhQg3nVbQTNTwMPFab8sJC1Tj-7fEuPmmqXPI5FtZW8lKK0vslQlbmPyH0sshqeigCzko7YwEGMHrOMW99PxxtGU8hZ1P7t7PTSqI
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
+删除_meganmeow_ 
+删除happyy2 
