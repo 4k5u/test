@@ -77,3 +77,11 @@ Fri Apr 12 09:09:30 CST 2024
 添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxMjkyNzYwN30.M0RghEllMKzMOdzbSgS9VWlUux1s6G9GFarZ_J7MHEfVsxBNY7wHDTWIEtBjz683h0Ddl0bM_mZ746OEk3CtgyFP4sylmq0Loi8x4fN-cB11hh9RofiycivooUhSqFWW
 删除kiriko_chan 
 删除Sharon9sea 
+添加sexygamesx https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-dfaf33f6623e6f03379b48e6b10474e04598e9f98359d453b19d9ea5998f3cd1_trns_h264/playlist.m3u8
+Fri Apr 12 10:02:49 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxMjkzMDY1Mn0.VPaBslAAJ7Goq32zdZAyGZ0jSMwvSVaksmxVrV8TKN3rKdG-un4WkWRRspHnJyzgJzDVKkwjuwOrPTlWWuXlOIACcFyWl38MvvmIrRIW1G004ZyxLL-GowZkU8Vlac94
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除kiyoko_rin 
+删除Akiyama_Key 
+删除AkiShina 
