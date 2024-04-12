@@ -14,3 +14,9 @@ Sat Apr 13 01:16:59 CST 2024
 删除o111na 
 删除dmsdms1247 
 Sat Apr 13 01:31:02 CST 2024
+添加mazzanti_ https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-10fcf2d6cdce1040e59905cc4633781bbe98120011b454d239ba54462bd7ee8e_trns_h264/playlist.m3u8
+Sat Apr 13 01:42:09 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxMjk4Njk5OX0.zHTBOGXG1B_EAML21WTQnQqscasxpK-mbOwwRYKqTjKtWMbPnY0A7WSyJBa5C1DtrwQTNGAgB1139hiQHFaXsQAlf2cbVdf6P6mGVnNemENoie-dYsbFdk89HnSePXk3
+删除honey_pinkgreen 
+删除starsh2802 
+删除dmsdms1247 
