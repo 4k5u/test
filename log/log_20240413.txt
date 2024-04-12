@@ -61,3 +61,7 @@ Sat Apr 13 05:39:14 CST 2024
 Sat Apr 13 05:53:31 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8a6747a67cf1ec3b2409c731c2d483e913767e3de4af331782c44f49e059826_trns_h264/playlist.m3u8
+Sat Apr 13 06:14:14 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
+删除TefFfish 
