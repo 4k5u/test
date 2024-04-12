@@ -113,3 +113,8 @@ Fri Apr 12 11:53:34 CST 2024
 Fri Apr 12 12:21:38 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 删除_PunPun18 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-df10f202a51e9bdb72fea62b3acec581ec6e184b557ca2123acbce8c17054ace_trns_h264/playlist.m3u8
+Fri Apr 12 12:39:45 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
+删除TefFfish 
