@@ -93,3 +93,12 @@ Fri Apr 12 10:53:37 CST 2024
 删除ahri0801 
 删除my_eyes_higher 
 删除_PunPun18 
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2f1d18f136a790a5b5f9351a53b58cec9ae56c7e9ebd48a583afd25ee0b11488_trns_h264/playlist.m3u8
+Fri Apr 12 11:19:03 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMjkzNTE1Nn0.c_r-j2sh3j8056H3gz8ZaBQ-JbqO-xcdcxKrnF6U8_8NbuGXVI0hkcznQxU8svG4AsZQiewsAys0rkMkABk2r52QC3uEGLggOCBU2Yx513HWU77DY4HjYlLHRGxabNcJ
+添加axcvdbs23 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ByHi7YMU7osi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0J5SGk3WU1VN29zaSIsImV4cCI6MTcxMjkzNTI3OH0.fanybEzQNgQxl7XKlx92dfFakvqYFrFZDQitKRzNZGE04e8g1pf3q7bejjHGWUY6I_GfH9a97H81PQqrGStqS-xuxS8bEfWXOgff_2AA3UcjYjKSNxNx0z6oLpqCbKig
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
+删除2dayday 
+删除mikio_san 
+删除alicelebel 
