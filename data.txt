@@ -23,3 +23,4 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8?playlistType=lowLatency
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
 imissy0u   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y5ofSYtw8aXw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k1b2ZTWXR3OGFYdyIsImV4cCI6MTcxMzA1NzQ2Nn0.2-61AE91qdSUBzxVuqCkjRPBnFPJHEmM2vv9WiRSQfcL1BA3fd4NOqTELRqVuTJYXnlZwId6QvjqXYjgme-JD-efZ2Mvi47yMXWGd_gzdCE-pU-CqXL4Zdj0bvydHNX4
+sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8?playlistType=lowLatency
