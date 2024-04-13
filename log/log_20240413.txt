@@ -121,3 +121,6 @@ Sat Apr 13 12:53:41 CST 2024
 Sat Apr 13 13:18:58 CST 2024
 删除my_eyes_higher 
 删除Xenomy 
+添加your_desssert https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b6a916f21fcd0fe54fd4312e1bc315f5b9d4ccd32d680c508a8814f16076155a_trns_h264/playlist.m3u8
+Sat Apr 13 13:38:30 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
