@@ -116,3 +116,5 @@ Sat Apr 13 12:20:03 CST 2024
 删除4ocari 
 Sat Apr 13 12:39:46 CST 2024
 删除TefFfish 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-2157efff047915b08a789d3d03c95b18c2da23db59b705b23f0d5e933060579e_trns_h264/playlist.m3u8
+Sat Apr 13 12:53:41 CST 2024
