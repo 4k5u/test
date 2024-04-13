@@ -83,3 +83,7 @@ Sat Apr 13 08:57:43 CST 2024
 Sat Apr 13 09:36:48 CST 2024
 添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMzAxNTQyMH0.oHBi4l8gKZa7dg1F3LfQ3f44ftatG046b0_OTZMH2FMpxNt5SWMH_S_AYjhWWcC1Mmv5kqTXqhQrqN35Al3GPdnjgyqh2JzPjbFFn_K3pdHDHNruQfdbgw9LEHTzSfOa
 删除eli05021212 
+Sat Apr 13 09:57:53 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除kiyoko_rin 
+删除Akiyama_Key 
