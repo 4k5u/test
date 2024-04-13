@@ -128,3 +128,8 @@ Sat Apr 13 13:53:37 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxMzAzMDgyMn0.WcTCr-GiFSQCPqn3nkBeTf4Pzm3STzU1y2CIH7loVSg5U02rlUppkd0IbNQ4rBCBPEIqY8R7T2EeMFQQLpU8o_286yOk5-b9ZO83AkImT2TA4S13OivxrbWTyBvTuhec
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 删除mikio_san 
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dc263be675ba1ba87d8a3dfef9deac32055a1e915de0080f21c51e60de044b1e_trns_h264/playlist.m3u8
+Sat Apr 13 14:17:29 CST 2024
+删除Sime_Naughty 
+删除happyy2 
+删除lucy_1811 
