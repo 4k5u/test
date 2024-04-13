@@ -36,3 +36,5 @@ BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
 kiyoko_rin   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1333de7ee4a55b7f0367d7561cb6a0a5ba202e7753b02c7911a4d482cc1e8b18_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
+Sharon9sea   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMzA4MjcyM30.JViPJahbDuYJy2SYmmybun-pNMNvsDxQ3sOZB_PwEJ1ZHwIrxEqQfo7o3U5ZITyZXcRp5q7V9awBJX5qLLFWgDBa9-FPZAI9ZirW-aKGMl5qQwHD6jdPRa8e_qbTSjy-
+_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
