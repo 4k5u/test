@@ -105,3 +105,6 @@ Sat Apr 13 11:15:12 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMzAyMTU0OH0.S2ih46QBCib1HiD-gg4wudewHXYdDbtKsDjASFKAEprpGs83GB1jaULRbIrSvxp6-m-I7VVtpdqLzOr9tpfDG3tkr7c8LYq4MqIMxw_GbLBqUd0r82l69H0b1IvKIKaa
 添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
 删除sexygamesx 
+Sat Apr 13 11:26:47 CST 2024
+删除nemu00 
+删除acac88 
