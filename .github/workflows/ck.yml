@@ -20,7 +20,7 @@ jobs:
         uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
-          curl ip.sb
+          bash check.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
