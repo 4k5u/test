@@ -48,3 +48,5 @@ Sun Apr 14 11:13:31 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 Sun Apr 14 11:58:45 CST 2024
 添加lucy_1811 https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8?playlistType=lowLatency
+Sun Apr 14 12:44:21 CST 2024
+添加syxx12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mB21Zi7tb1Sh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21CMjFaaTd0YjFTaCIsImV4cCI6MTcxMzExMzI0Nn0.3pz_PtrdkEy3ULYI4c0qcsDvC_OmCbKS_JHjMFq5Y3HyYkZieQdQoINKaUQcg1r59kgCM0jzKgmlED6Z5gr1pmAnTMZWJ_R7VEwAPh1zHdmewENBawJ9wmbhn9Jl2s9S
