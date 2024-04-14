@@ -13,7 +13,7 @@ do
         echo "$userId - $url 直播源有效"
     else
         http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
-        if [ "$http_code" -ne 200 ]; then
+        if [ "$http_code1" -ne 200 ]; then
             echo -e "$userId直播源失效, 网站不能访问，不执行删除操作。"
         else
             echo "$userId - $url 直播源失效, 删除房间, 删除记录" 
