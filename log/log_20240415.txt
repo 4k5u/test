@@ -65,3 +65,6 @@ Mon Apr 15 14:22:47 CST 2024
 删除happyy2 
 Mon Apr 15 14:38:52 CST 2024
 Mon Apr 15 14:54:34 CST 2024
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-acd2080a58719f8f488074f1946475d539123e038c8f178b56a2cb2c61cf0e51_trns_h264/playlist.m3u8
+Mon Apr 15 15:14:59 CST 2024
+删除2dayday 
