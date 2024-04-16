@@ -1,4 +1,3 @@
-100472   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxMzMxNTIwNn0.bH7QbCrUuqXoYbXPILEeMfXWFxYxwjiYpF4Kv4xmQuFyFoSmGPrHOut4VAIdu5MIeX6-Mg3ZOsqM-o5VXGeNdsZa2yOWb5E7Cc7Apluw4yTwghX63JuL0c4c6zV94Pal
 moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxMzMyMjQ1OX0.BUPE08MOjIBSHwpDk9la_pDTYgR-3T1Hd6zsumzUKB58T9qjAb_TCwgZCTyD-n6evhpRZVHI8Pp4_rPfu1C2Og7leXtCJs5f0abDLeR2F4rMOpdLHRQp4c84PYdisQQ8
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxMzMyMjY1MX0.q7THduG-OQpQNzPVLCghe4SX6rS7Cv8YcjvDmATHV2oNf1mtYFlpc1_8mZs_N6aHLuYGKdceqOiFPRYWCtWKzFy7E4eA4aRiH9C5PYHA6sApWFRIGh0Tz2Rpc5P6ne2y
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
@@ -6,4 +5,3 @@ charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_au
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
 kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1afeadbc90d4daf60fb934960f3ae952b218844e79520682b39ef7b980b055eb_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
-Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8?playlistType=lowLatency
