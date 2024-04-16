@@ -108,3 +108,5 @@ Tue Apr 16 16:39:16 CST 2024
 Tue Apr 16 16:53:46 CST 2024
 Tue Apr 16 17:17:32 CST 2024
 添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxMzMwMjQ5Nn0.EQZiXt0r72Q_m_YBbThowYj1Vf12CiUohbhmYz3R1a0DTjM74cFyzfTpq5UTwxCM6arBQfufKEzM9eu-V26ODcRQ3dHOtQED7gjDTe9yRxhj5u0cEGtARNd4q2aV-ROk
+Tue Apr 16 17:38:32 CST 2024
+删除mode_bad 
