@@ -7,3 +7,4 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMzMwNjE0Mn0.rWNThQRoneONpMTujnfAadYiM85QIdAlw_XNQ4XYpRmfTf91vtYB2KnVzE1SwcKbEZSDXz6FUAbavUpVCYsE5YcfDxQ8p0jVfMv40XtHc0mJ2FXLz4zkC2oLO1s6lEvJ
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
 your_desssert   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-dc7c4ced16a20182a3201b6c22a0c1043cb77fb353a28dc74ff7fed924efa997_trns_h264/playlist.m3u8
+M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency

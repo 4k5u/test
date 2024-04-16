@@ -122,3 +122,5 @@ Tue Apr 16 18:18:28 CST 2024
 添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-dc7c4ced16a20182a3201b6c22a0c1043cb77fb353a28dc74ff7fed924efa997_trns_h264/playlist.m3u8
 Tue Apr 16 18:38:43 CST 2024
 删除ake_mi 
+Tue Apr 16 18:54:02 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
