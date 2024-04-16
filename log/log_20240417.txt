@@ -6,3 +6,5 @@ Wed Apr 17 00:38:47 CST 2024
 添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMzMyODc3OH0.lxFcYjnp1MKFhYwj7TScBxAV_9hLuGizf_ypxG1k5dD14F1qqaYT5XXpvjHv9L5iSFuNlcScvaqTqAGWPw-CZUAPgr68I1Ffva81hrAAEm_rsZxFN1UMY9fViHFxKWPX
 添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
 删除soso621 
+Wed Apr 17 00:53:41 CST 2024
+删除day59day 
