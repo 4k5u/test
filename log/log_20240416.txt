@@ -85,3 +85,8 @@ Tue Apr 16 12:20:17 CST 2024
 添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-edc8c7209dcee151dcd9368049b28f616d4c671a6f7cb5fd2972d36d79b40f96_trns_h264/playlist.m3u8
 Tue Apr 16 12:39:08 CST 2024
 Tue Apr 16 12:54:10 CST 2024
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f7c6dfa408aa59619f9373f892233e0fd57ee38daacadbe3270db9ba9bea848d_trns_h264/playlist.m3u8
+添加your_desssert https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b5a349bd1897de9f632330a6940c646ad68117c54138e5055944cb3570f6a081_trns_h264/playlist.m3u8
+Tue Apr 16 13:17:36 CST 2024
+删除my_eyes_higher 
+删除_PunPun18 
