@@ -23,3 +23,6 @@ Wed Apr 17 01:41:43 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 Wed Apr 17 01:53:37 CST 2024
 删除dkdlfjqm758 
+添加kiyoko_rin https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1afeadbc90d4daf60fb934960f3ae952b218844e79520682b39ef7b980b055eb_trns_h264/playlist.m3u8
+Wed Apr 17 02:20:04 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
