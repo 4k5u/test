@@ -49,3 +49,5 @@ Wed Apr 17 04:53:56 CST 2024
 Wed Apr 17 05:16:41 CST 2024
 Wed Apr 17 05:27:59 CST 2024
 删除charming_NaNa21 
+Wed Apr 17 05:39:16 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
