@@ -123,3 +123,5 @@ Wed Apr 17 17:18:01 CST 2024
 删除oda_assuri 
 Wed Apr 17 17:39:45 CST 2024
 删除your_desssert 
+Wed Apr 17 17:53:46 CST 2024
+添加choyunkyung https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vDFU4ny5JbUQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZERlU0bnk1SmJVUSIsImV4cCI6MTcxMzM5MDgyN30.JcVSc5TjbCv3Ob_zFTS2hEslbp4__q5fgyQ8SF51HJRJ9XzVbJgMQE29VrcDWkgB5AAG_USFvPi-8TOHKa3WZI7Qmwpq8KiUYrfcy3slfHV1cJWG0ACXgdam2e29wZMK
