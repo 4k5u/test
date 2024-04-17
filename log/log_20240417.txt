@@ -117,3 +117,5 @@ Wed Apr 17 16:21:08 CST 2024
 删除mode_bad 
 添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5c5ab2c766384cd440b6873fd92addc8f42634b0a3699b7af3bc18cf7488b0e9_trns_h264/playlist.m3u8
 Wed Apr 17 16:38:53 CST 2024
+Wed Apr 17 16:53:41 CST 2024
+删除mode_bad 

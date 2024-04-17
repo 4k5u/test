@@ -7,4 +7,3 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8?playlistType=lowLatency
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxMzM4MTY2NH0.cYtuj5TiM7mpwuB4qB0Q-eENh_UFSSvfUg1hxbURI03EwjeRxAsybwMc4MijDychVZT4b9Es7GnnQN2bcnyoUsgVTT4HJjnGOaJRs75RPj4eRNELIg5azhVEqVlLyzzC
-mode_bad   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5c5ab2c766384cd440b6873fd92addc8f42634b0a3699b7af3bc18cf7488b0e9_trns_h264/playlist.m3u8
