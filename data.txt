@@ -2,7 +2,6 @@ Sharon9sea   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
-SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8?playlistType=lowLatency
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ef950f028368dd6ebed433da997d847ffc322c7ae4d24636bc6db90cd68c327e_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxMzQ0NTgyMX0.6p0WsxPrpADR4QQgV2_850wI3OJ3P-cCzbMoCk-CFqKAPmvD9bUf6OKzhhBXOzVYWu9xzN-EAeIDk2JqgiOFMSyXfZGdAv_YAzmuNhh3nYHRXnAZYGPd5TiMevOl0xSw
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMzQ0NjA0Mn0.onpvA-6V0IHyiqm9xqB5Btwm0HF9tLsjD1NRvRweKjnN43vO4ChQPIZZKz8eMwmQF-ZFXtMH5JsFM_AERBGwHsCdFBt0HZodcbUreuHA6TnCpv4siLtq7CxaTuRdCOnq
@@ -11,3 +10,5 @@ acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8?playlistType=lowLatency
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+ake_mi   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-443516e013045e94af3613c3ee38d2d59fd58696710dd83755c4f6e29357c4b0_trns_h264/playlist.m3u8
+emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxMzQ1MDU4OH0.AxmKEGM0HCobK3uMlFudY8EfzYzmGROUhnbaKV-zB6_0cwmrwjQaR_RP8f2BjUdP20PP__5LrciBju60zFLTTCR0ilA0Hsdm-lZsaltsxeaoHUKeZfaxewwpx8jvpg6P
