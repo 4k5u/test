@@ -39,3 +39,6 @@ Fri Apr 19 03:53:53 CST 2024
 删除alicelebel 
 Fri Apr 19 04:18:25 CST 2024
 删除M--I--A 
+Fri Apr 19 04:39:59 CST 2024
+添加Sharon9sea https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMzUxNjI1NH0.fCNEmVO9lBR85D-hp7e1up2h45iirPINrhbn9LSwytQ3L5M8oeEcrvJvOz_fvI9fJqI7vQVTVsLn1MzPjlbsBAsNz67JBuIi4VoZ8QtPLm2iDXKDm4uh1jjHpkH551rj
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
