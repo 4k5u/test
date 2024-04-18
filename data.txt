@@ -13,3 +13,4 @@ EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 _meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cfa3e1327aa3f562489777d9b107ea141094b9f26678595425cde2d6840b2e7e_trns_h264/playlist.m3u8
+ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5916356c28ac742ed5130b91d6d482b8dc3abe6f8ddfc32b88f8d53bd8a654a5_trns_h264/playlist.m3u8
