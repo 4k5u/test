@@ -155,3 +155,5 @@ Thu Apr 18 18:20:42 CST 2024
 删除oda_assuri 
 Thu Apr 18 18:40:46 CST 2024
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxMzQ4MDI5MX0.ra0DcHhFa9Z_D6XpFlPMZZk1rEIAZ7ta7d6wHJBdSRBdRTOVJDQcZhloXI8lT7bXba4L-Arr2gtXueoIZysxSbvPQrnKLUEnuY8dET0g6KinIeoKSusD0VHG0llSxrWn
+Thu Apr 18 18:53:37 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
