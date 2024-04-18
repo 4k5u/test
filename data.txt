@@ -7,3 +7,4 @@ Sharon9sea   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
 sexygamesx   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2d5c5c700f923f11a04adc22fe4ceeb5b6f01eea645aa24b73f76253429c754c_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9b98b6b0abb54e06c0ca2a8187cd817c7f58093ab0c740f63b4ef5843bd63859_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
