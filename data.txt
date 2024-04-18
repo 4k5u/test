@@ -1,6 +1,5 @@
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ef950f028368dd6ebed433da997d847ffc322c7ae4d24636bc6db90cd68c327e_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
-ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5916356c28ac742ed5130b91d6d482b8dc3abe6f8ddfc32b88f8d53bd8a654a5_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-df2157827ecc07cffcce6f9b30c6439b381d8933e55ac1864e2cc3f108c69163_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 foxylovesyou   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0c28952a2a94dda63e1d5d4f79ebe16595cbc463612ce5a6bbb857e64ab6949a_trns_h264/playlist.m3u8
@@ -8,3 +7,5 @@ StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxMzQ2OTMyN30.Nqq93ah24ePKpQRN4NivSNogdL64weo7UXNbKtc98ue-Y6qaGpIv2vlZYMjXP-TwSsLAf8qU8NYE-Lk_VaSfVd3Mi8lU9ZdCwKXK-q29e_ukzgRC_hd4UPS0kRd_l91D
 your_desssert   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-64b611720f5115742067a7be9254cb3875e4fb6f5ddb6d3c887f94c01c5f71df_trns_h264/playlist.m3u8
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
+_meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-b8142c9b5bd7f0ecd71b31c2895a82b02ab102c4ea6278c6a9dc9171c94c4ea3_trns_h264/playlist.m3u8
+lovesong2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxMzQ3NTEwMH0.L_9JOkZGh0KRuxyTIu1lS1wO1R2ueU5yKLKm07DU7zOanjK-Ule9L71ZXTTEaWAQFRakyGWCzBcEtOYl0Fz6DNwG3MtZ17HUhI7fbvJvCYGrrR_F6Y4cBjBSXd4dcr0i
