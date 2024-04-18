@@ -170,3 +170,7 @@ Thu Apr 18 19:39:09 CST 2024
 添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxMzQ4MzY0M30.IxT3UKKqKEzm1me6LWnzzYIJ2p21x2-Nhm4tAEpUnWtNv0UMkqXY4nZMlo6y4nH2PiufY4IvDQ-EpG2RfTDVIZPbRw_gUV9uHEqrlaWw7MHz7iIYjGeLLlwGbkKPbErb
 删除AkiShina 
 删除StunnerBeauty-170cm 
+Thu Apr 18 19:53:54 CST 2024
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxMzQ4NDU5MX0.u1JfJ1OPIVE6WvoC6FLaZMAh0FP-r3Y-wlGTxtJ9syvNUfDpbcG-87QHXoFvyuDHOn85Kp07p_7tw0t6EIpA0KbKCsQjwSFKRrFnxM4iFJHadPYC1l77lnnHZG_PsFqT
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8?playlistType=lowLatency
+删除sigmasian 
