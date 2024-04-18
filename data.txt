@@ -7,6 +7,5 @@ M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
 100472   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxMzUwMzgwNH0.-DpBwPAzvEfvf8USWT6QM9R002zEtotjLi42FRHCKMfLjnWw6HxIwHxA871a3Ivhvqjme4SxMAwCl6fPeTTmJfbroNsrZL2pI59fkQQXM-eir88XbpUEVX1muRWfzkNT
-BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
 kiyoko_rin   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-a9bfff7e24bc6104a6799e0067dfda1f56ea0dd93da080c790f7e13b213908a7_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
