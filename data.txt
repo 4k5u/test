@@ -1,6 +1,5 @@
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ef950f028368dd6ebed433da997d847ffc322c7ae4d24636bc6db90cd68c327e_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
-_meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cfa3e1327aa3f562489777d9b107ea141094b9f26678595425cde2d6840b2e7e_trns_h264/playlist.m3u8
 ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5916356c28ac742ed5130b91d6d482b8dc3abe6f8ddfc32b88f8d53bd8a654a5_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-df2157827ecc07cffcce6f9b30c6439b381d8933e55ac1864e2cc3f108c69163_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
