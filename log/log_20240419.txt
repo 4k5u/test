@@ -33,3 +33,7 @@ Fri Apr 19 03:25:59 CST 2024
 删除BadAngels666 
 Fri Apr 19 03:38:54 CST 2024
 删除charming_NaNa21 
+Fri Apr 19 03:53:53 CST 2024
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
+删除ahri0801 
+删除alicelebel 
