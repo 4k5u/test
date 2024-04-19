@@ -204,3 +204,7 @@ Fri Apr 19 22:16:09 CST 2024
 删除cuddles_me 
 Fri Apr 19 22:31:38 CST 2024
 删除emforhs1919 
+Fri Apr 19 22:43:08 CST 2024
+添加imgroot5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.RmKlbVyIf6Tw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JtS2xiVnlJZjZUdyIsImV4cCI6MTcxMzU4MTA3NX0.4U6CyDjk_hhCNVbYGP2w6SFIalyo9CdgLj9v-5FptdD5kD_hyikt-6AJWkKNkl244lW3mfnuKb07IzdAiIUWarhwGbAjiDvzIW2POhLuZULlYPKTDSMNkMeG1c8xgUf7
+删除lovesong2 
+删除okzzzz 
