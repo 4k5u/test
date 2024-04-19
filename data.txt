@@ -1,6 +1,7 @@
-moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxMzU3OTQyOH0.CR_3LfaOpriMNoeTJCV6SxXvmSMOsYboSvWSZozFDnJeBSQUsPEKZU7-l6nzI3oMAeayHRTnUwPhgx8Rj3lz5VjwUkx60EbfsQEXIRvSImRpP0x6_7a5kUSAjFw3sdFU
 kiyoko_rin   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7792ae5625deb2c5a37c7c1fb366adffc6b8519822421551df6d092a6f446b80_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 Sharon9sea   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMzYwMzQ5NX0.avwjN60F70ZxJiC6uZSnFwOdwdp0v78kTIpC4W3N7God9D77ksa7A3-ALNVksZIDR7H1xm6ear_K99sjG-C6aQUP0dbqqU8v4ryEvsEKhCyhgBfvVuw6itxNpJInphl7
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8?playlistType=lowLatency
+my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d32fac9f1e214fc8ee9494167df8c17bee0404ed44680a06a0d8091afae0a041_trns_h264/playlist.m3u8
+_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
