@@ -211,3 +211,7 @@ Fri Apr 19 22:43:08 CST 2024
 Fri Apr 19 22:54:55 CST 2024
 添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxMzU4MTcxNX0.jNQSYu-Jc8e8-36DRVHbsqAyB5rmjA0HMfZR8czsKRxZXnyTblwrey1uFnQnVMpy2qt06F1qbJfiDI4SvE3g1KjG1CuBqsVxTfS5abBhbn1-0v8QEtnXdkfOiMLwLqNr
 删除soso621 
+Fri Apr 19 23:17:59 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMzU4MzE1OH0.sdiEmaYU9I1uSjDy9vp5dX1N3uIvD4eBP89QKyqgQiQg30VJvzpaS9WKFLzKK29tRRuFsf3Me9yyodz5dDmcA-x-CYA-6DCHtikFfoId0bHyZ17WTXAy7wFJZoLCL8SY
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
+删除onlyone521 
