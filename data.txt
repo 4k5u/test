@@ -1,4 +1,3 @@
-Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
 oda_assuri   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-cf1b10462d8a582d8317a99c4eeee5859952d2fcc4c49ed37c6c238ab71dd9a6_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
@@ -12,3 +11,4 @@ foxylovesyou   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-
 ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-115f8fedf904b839b41eb6d5ed5c99add0c2d198896f9fe5007f21e0d13beff6_trns_h264/playlist.m3u8
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxMzU1NDQ1NX0.8ZJzzMgsGsg8RG9brOSrJR3meQakySlkRcf9t7rAz7wjKZqbYB9GrO77tqgpXPiiKcd_alzlgmxNfgLUYZfPdOudCUPVMWk0-DLqIZYBPJTgQeqZbTd1BPraJ4IGceaq
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8?playlistType=lowLatency
+Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8?playlistType=lowLatency
