@@ -138,3 +138,6 @@ Fri Apr 19 16:53:46 CST 2024
 删除alicelebel 
 Fri Apr 19 17:18:51 CST 2024
 添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxMzU2MTU0NX0._MXBeJFyfz5btnOPncQEhblb1vpdHT75okxA-3ZiQ-dkGw2s6tfc3ymW5yP-Oa2on_DYxCDSJ5YAAkGqNS-t7se9KBwgm_Ifiw5i7i9JX5aGB6J3WIaoDx074IxINZ_j
+Fri Apr 19 17:39:34 CST 2024
+删除AkiShina 
+删除sigmasian 
