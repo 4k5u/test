@@ -153,3 +153,8 @@ Sat Apr 20 17:26:55 CST 2024
 Sat Apr 20 17:39:15 CST 2024
 添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8?playlistType=lowLatency
 Sat Apr 20 17:54:23 CST 2024
+Sat Apr 20 18:17:43 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxMzY1MTU3Mn0._n-PJUsHgaAccGCowbQT_Cuuefu8N1dlqh_zii4IYSxba5gFoaQYameAgOQbSZNRfm5PbfKK71X4zyvNgmCGhHJgjKArXSEUi0NnIsWsp0VO1JAQyd0bN6zMhPJwUsua
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8?playlistType=lowLatency
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
+删除EmiliaGuess 
