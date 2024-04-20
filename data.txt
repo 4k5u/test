@@ -8,6 +8,5 @@ day59day   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-bfe12ace6b24c89089b087547603cea14ec8547f64d0e259581c04fe3fb251e9_trns_h264/playlist.m3u8
 howru010   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxMzY2NjQ2NX0.MiliuRSDyrsITJXIXUm4qDLklX9BpQcmKz5w_PC7EoU4sswc_DQgVxD9_mzhIkWLDgOkT91FbNO8ovVGXIav-Onl5TEOLIYv5hBpZv3xHqhKKY1swOGVt9KVQJojfV5h
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
-777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
 mazzanti_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f49135b1e39e62e73fdd1828e5fe843d2861d985b383492e1641d73d4822c1a7_trns_h264/playlist.m3u8
