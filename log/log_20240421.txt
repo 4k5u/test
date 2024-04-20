@@ -20,3 +20,8 @@ Sun Apr 21 01:41:07 CST 2024
 Sun Apr 21 01:54:10 CST 2024
 添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
+添加kiyoko_rin https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3c5c392337a147b6bdb12cf0a4ecbb8c7db0052f20a9e9300d4fa774bce5acb7_trns_h264/playlist.m3u8
+Sun Apr 21 02:21:16 CST 2024
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
+删除seozzidooboo 
+删除saone451 
