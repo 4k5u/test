@@ -199,3 +199,8 @@ Sat Apr 20 21:38:57 CST 2024
 添加pupu28 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j8B0quU0vDrH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2o4QjBxdVUwdkRySCIsImV4cCI6MTcxMzY2MzgxOH0.51V-1CejpqvqI7v0MdM5vW93bBCE3gSpo17LcaFWBKBNBBAphHbnfkBn_AHmpb77fSy86FsYB4ATcwcKw81vvwIj6-j_KYE8-f0Ygua0F_-ka-Z9xGyBa83kjyyg45ZG
 删除2dayday 
 删除emforhs1919 
+Sat Apr 20 21:53:44 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZfJYKbS4tkGN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pmSllLYlM0dGtHTiIsImV4cCI6MTcxMzY2NDY1N30.jnXoH_a8xNqJ8jGM44HxXyomAuFPHkewqP-QKgV-WQjsULTZxwA4CsMLvy1gAHAYp9DrJagHr2GrFE-HrxpUjugnRO2QPSb7nwDIlCMFGFOEO6I07dxnWbxlr-Zxcnmb
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
+删除lovesong2 
+删除cuddles_me 
