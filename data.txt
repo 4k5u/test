@@ -1,8 +1,6 @@
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-bfe12ace6b24c89089b087547603cea14ec8547f64d0e259581c04fe3fb251e9_trns_h264/playlist.m3u8
-mazzanti_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f49135b1e39e62e73fdd1828e5fe843d2861d985b383492e1641d73d4822c1a7_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
 kiyoko_rin   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3c5c392337a147b6bdb12cf0a4ecbb8c7db0052f20a9e9300d4fa774bce5acb7_trns_h264/playlist.m3u8
-777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
