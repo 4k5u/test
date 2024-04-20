@@ -133,3 +133,6 @@ Sat Apr 20 15:26:08 CST 2024
 Sat Apr 20 15:39:00 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
 删除galantini 
+Sat Apr 20 15:53:46 CST 2024
+删除ake_mi 
+删除asuna_love 
