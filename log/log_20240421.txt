@@ -86,3 +86,7 @@ Sun Apr 21 10:06:10 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 删除Akiyama_Key 
 删除kiyoko_rin 
+Sun Apr 21 10:34:42 CST 2024
+删除SanySenise 
+删除sabrina_hk888 
+删除Xenomy 
