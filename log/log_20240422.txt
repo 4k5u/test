@@ -10,3 +10,6 @@ Mon Apr 22 00:39:19 CST 2024
 添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
 删除jenny9999 
 删除bongbong486 
+Mon Apr 22 00:53:52 CST 2024
+添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
+删除day59day 
