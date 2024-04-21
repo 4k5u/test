@@ -1,5 +1,4 @@
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8?playlistType=lowLatency
-Sharon9sea   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3ektKDCMkFoW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNla3RLRENNa0ZvVyIsImV4cCI6MTcxMzY4OTg1OH0.XvZGRQ4gmapRXw5c1kUnfJzc5vScRbRNWy8ZKFSZBNKKHMrKQUpLRXQoKInsoqgZwxWq8Ul7aR7T_jeoxwMwlToQ3c2f7ru67M_eBL5BC-uw0XF1rlWRvMTbI9Q-YuRh
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-02ebb4581454e779b09d3cfb4c8ff19c2e337f885124ab47a12ec7e1db7ea8fe_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-699d5d6e99c1f4ce5be67edff9ee7cc78b5cd8786e4dea7874a33be7ec2d4268_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
@@ -11,3 +10,4 @@ acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bbf26adc40f387c85beb7d93bd520d1bcd8d13abebcf183c96464762b0951fb1_trns_h264/playlist.m3u8
 sexygamesx   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63244702fc260fae45a5a63406d93532fcba67fedafa59042338c7a8fde65aa0_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency

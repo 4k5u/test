@@ -90,3 +90,6 @@ Sun Apr 21 10:34:42 CST 2024
 删除SanySenise 
 删除sabrina_hk888 
 删除Xenomy 
+Sun Apr 21 10:54:07 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+删除Sharon9sea 
