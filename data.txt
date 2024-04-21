@@ -1,5 +1,4 @@
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8?playlistType=lowLatency
-saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxMzc1MDIwNH0.zz76Y8zf0QvxvV6PMIjyuKkVrcn27TRqByZhzg750KkTAYMBJaZxPAPXUwzKL12aODVgo4kB3X0lx5qGQmovzaBG4IJjjcOsKLhrw-oH6mDVU5WqBupR6g3-7-M-L1nh
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e493ac706d3f4e91d787e11ebbad5b9d6597eabf81e1f37a207bc83ddcbcba28_trns_h264/playlist.m3u8
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxMzc1NDY1NH0.MJa0cZzRwgmjoPj6Nam2iE8J6Nd3TclMnxUOeEKM1rVqNvorKn-Q7h3vM7go3FWf9tLA74w25NT2XTsRWbkGn9rNBj9XaXPY7imsi8Za_KVCUQDBnNbzDBk3k7KebVXG
 starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMzc1NzM0Nn0.z0csUJ0tXBFQrmfL0gIn9xtWwgWBfChtJ0tATX4eWN1sUMSwmxjl8XLTJ46Pks1DU4uSCy8sNHwuWmEABDFjujFtWVu-kUxB5ojKAMz2FQ28QomBcVDObVQwkvbSnDQk
@@ -7,10 +6,8 @@ lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
 Lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8?playlistType=lowLatency
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8?playlistType=lowLatency
-mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3a62cbf3e4d260f3e32be2d4f4e23775bc2ff06b325fec6df0024a3402578182_trns_h264/playlist.m3u8
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8?playlistType=lowLatency
-777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8?playlistType=lowLatency
 kiyoko_rin   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-dc87010fae1eb443a1f1fdd1064b6273d81669780622761d5edc54a2f8c42038_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
