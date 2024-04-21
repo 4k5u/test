@@ -18,3 +18,7 @@ dmsdms1247   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 ii1liii1il   https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8?playlistType=lowLatency
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxMzc1NDY1NH0.MJa0cZzRwgmjoPj6Nam2iE8J6Nd3TclMnxUOeEKM1rVqNvorKn-Q7h3vM7go3FWf9tLA74w25NT2XTsRWbkGn9rNBj9XaXPY7imsi8Za_KVCUQDBnNbzDBk3k7KebVXG
 cuddles_me   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-32129de6cea3693729ddffc718eac191e0960aa6bae42270bd734e82dfd22b7d_trns_h264/playlist.m3u8
+starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxMzc1NzM0Nn0.z0csUJ0tXBFQrmfL0gIn9xtWwgWBfChtJ0tATX4eWN1sUMSwmxjl8XLTJ46Pks1DU4uSCy8sNHwuWmEABDFjujFtWVu-kUxB5ojKAMz2FQ28QomBcVDObVQwkvbSnDQk
+lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8?playlistType=lowLatency
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+Lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8?playlistType=lowLatency
