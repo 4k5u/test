@@ -80,3 +80,9 @@ Sun Apr 21 09:14:20 CST 2024
 添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8?playlistType=lowLatency
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 删除kiriko_chan 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bbf26adc40f387c85beb7d93bd520d1bcd8d13abebcf183c96464762b0951fb1_trns_h264/playlist.m3u8
+添加sexygamesx https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63244702fc260fae45a5a63406d93532fcba67fedafa59042338c7a8fde65aa0_trns_h264/playlist.m3u8
+Sun Apr 21 10:06:10 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
+删除Akiyama_Key 
+删除kiyoko_rin 
