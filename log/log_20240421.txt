@@ -122,3 +122,5 @@ Sun Apr 21 14:22:40 CST 2024
 删除Xenomy 
 Sun Apr 21 14:40:10 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
+Sun Apr 21 14:53:38 CST 2024
+删除EmiliaGuess 

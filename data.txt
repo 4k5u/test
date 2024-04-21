@@ -8,7 +8,6 @@ alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.
 emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxMzcxNzU4M30.InTvb2DEKFc9QmHy0jYJg5vsSlDKWHy6Uj-f7MVcV-NPEAPSxaiCcnyixME_SpTHkZbU4GBfP5ADyMko8UXLneMWqHtn__F_NVcREr97l10TpExf2bVscO-q1IPPX2it
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
 your_desssert   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-83044d2ca437cbbc46d5edc8366c15afaf567453c1833121d92e66966caaca7b_trns_h264/playlist.m3u8
-EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8a87f18867f16a0c19372301362e293b3f7c519706c729971363ef5d2193dc65_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
