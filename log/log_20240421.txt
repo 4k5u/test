@@ -120,3 +120,5 @@ Sun Apr 21 13:53:59 CST 2024
 添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8a87f18867f16a0c19372301362e293b3f7c519706c729971363ef5d2193dc65_trns_h264/playlist.m3u8
 Sun Apr 21 14:22:40 CST 2024
 删除Xenomy 
+Sun Apr 21 14:40:10 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
