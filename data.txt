@@ -1,5 +1,4 @@
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-02ebb4581454e779b09d3cfb4c8ff19c2e337f885124ab47a12ec7e1db7ea8fe_trns_h264/playlist.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0d90b0d0539946399c0a35e782c1a33cc3a458860a4b546d7fd928a315b606c1_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMzcwNTMwNX0.2QISr6nIK1fvXakou_2R16wqSrpkhLA_sdfelrYQ7M8e43gwFOaKSQEo6VTjGqi9BWtNazUaaYvu1Vqid8TZL3FPp3bmynQnNZaZoDaTLKwtTffMZXrDN9rnp3left92
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxMzcwNTU0N30.gPRoWbE2wxMcm4qddS7WxA0dChnPP6uakjH4Y2fZaSOhRl8gcIj3LwMzH0TBM_LfhJKZNTbeeXrPCQfM6DllraFFnCQAX2WrCFtmBdC3UbrmqA5EUHHqW1icEiGIYb_m
@@ -8,3 +7,4 @@ AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?p
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxMzcxNzU4M30.InTvb2DEKFc9QmHy0jYJg5vsSlDKWHy6Uj-f7MVcV-NPEAPSxaiCcnyixME_SpTHkZbU4GBfP5ADyMko8UXLneMWqHtn__F_NVcREr97l10TpExf2bVscO-q1IPPX2it
