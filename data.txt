@@ -1,12 +1,9 @@
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-02ebb4581454e779b09d3cfb4c8ff19c2e337f885124ab47a12ec7e1db7ea8fe_trns_h264/playlist.m3u8
-my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-699d5d6e99c1f4ce5be67edff9ee7cc78b5cd8786e4dea7874a33be7ec2d4268_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0d90b0d0539946399c0a35e782c1a33cc3a458860a4b546d7fd928a315b606c1_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxMzcwNTMwNX0.2QISr6nIK1fvXakou_2R16wqSrpkhLA_sdfelrYQ7M8e43gwFOaKSQEo6VTjGqi9BWtNazUaaYvu1Vqid8TZL3FPp3bmynQnNZaZoDaTLKwtTffMZXrDN9rnp3left92
-nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxMzcwNTQ3Nn0.1BZUNScl6eYdqHTOPOcX1c8m9AIaEA44rxBdNeXS1adzpgfWdNX3Ch7Ziu5nj5i52oZxZY4kmQH_LnCeeTdpTzdRybB6Gd9e2nMY00_zrDubohKezXptd3PG4iqV4ubk
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxMzcwNTU0N30.gPRoWbE2wxMcm4qddS7WxA0dChnPP6uakjH4Y2fZaSOhRl8gcIj3LwMzH0TBM_LfhJKZNTbeeXrPCQfM6DllraFFnCQAX2WrCFtmBdC3UbrmqA5EUHHqW1icEiGIYb_m
 ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bbf26adc40f387c85beb7d93bd520d1bcd8d13abebcf183c96464762b0951fb1_trns_h264/playlist.m3u8
-sexygamesx   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-63244702fc260fae45a5a63406d93532fcba67fedafa59042338c7a8fde65aa0_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
