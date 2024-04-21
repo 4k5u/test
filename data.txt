@@ -3,7 +3,6 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3a62cbf3e4d260f3e32be2d4f4e23775bc2ff06b325fec6df0024a3402578182_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-dc87010fae1eb443a1f1fdd1064b6273d81669780622761d5edc54a2f8c42038_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8?playlistType=lowLatency
-BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8?playlistType=lowLatency
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxMzc3NzMzOX0.WL2Dk2Y7_h244rtZ6v42FsTsCmwY6ahDf4tFZaI3RtluL5QXv6_UcBW8KOGVQuHI_YlXsiOZDnlzCsYZ2wFcT2NuE6jXvA3_TFweNtNIGR5a701fmM8_ClSCGmActJ2I
