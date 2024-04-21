@@ -93,3 +93,7 @@ Sun Apr 21 10:34:42 CST 2024
 Sun Apr 21 10:54:07 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
 删除Sharon9sea 
+Sun Apr 21 11:17:23 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8?playlistType=lowLatency
+删除_PunPun18 
