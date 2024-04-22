@@ -37,3 +37,7 @@ Tue Apr 23 04:19:07 CST 2024
 删除M--I--A 
 Tue Apr 23 04:39:07 CST 2024
 Tue Apr 23 04:53:53 CST 2024
+Tue Apr 23 05:15:44 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxMzg2Mzc0NX0.LcndD8DbdEwJOp0mvGkxTq0eMEoFPX6GLvVXLGincGtIHbnMa536SgvZSMf2gydhAticHRzlBhmyaI8HpMnKO-__dVqkAso4VrAsTxBFe_SkFSrBz6IuJSJdtGy08V5V
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
+删除charming_NaNa21 
