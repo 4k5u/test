@@ -47,3 +47,5 @@ Tue Apr 23 05:54:02 CST 2024
 添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9a00cbfc97a31b71e6c5bced822cff4d88f45ed82577df023d814c8d000f5a59_trns_h264/playlist.m3u8
 Tue Apr 23 06:18:13 CST 2024
 删除Sime_Naughty 
+Tue Apr 23 06:38:45 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8?playlistType=lowLatency
