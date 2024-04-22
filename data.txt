@@ -1,9 +1,10 @@
 _meganmeow_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bbbf8ffe988564717d2c32fae544611cded8d46fa9c90df10f4332018a4b6daa_trns_h264/playlist.m3u8
 oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-52a74bc04097d1bdac8ff3deb704bdd54a9d69282b97a96d00a54b921ceb1810_trns_h264/playlist.m3u8
-acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxMzc5MTc2OX0.7HFlr8vyY0Qw8CHfKdczm7A8nXankh9zbB0OVVG53BxSPfQLkShm8ON_z4A-YShBB5OVc6djp9BkKGVuqXzQDy7P823A3SuPpE4X0kEUMNkMTwhcTbiUM_bvay46QCLb
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxMzc5MTc4MH0.P9hlbBVkChpUJuSNixqe0xRm3fSdqJkERVNJtdBegnXGtvzuEQlP72sk5Cg0hvwFQVTH7t0HOII7WstjABcDGWA4xWOQtczyrhgwqk9jt6wglZyhWvStX29IXhgcPsUs
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxMzc5NjU4N30.mOjiAvbJWq5MIwdZG-SbuXVH6-Ets8blU-QtnebRkyG-fcUzzte_qtjtxiJI3MJtRfCC_cCZL5I7Kcmg0uOXnDL8GLd2y6VvqEEhhgFEV0Vj-wmOi8PQkxGjD0KCiTm2
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8?playlistType=lowLatency
+ake_mi   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4f796b5f35a25e42c8ccfc33736a6e74af1f5ea00c4f728c3c0f3c0ddc93aeb8_trns_h264/playlist.m3u8
+sexygamesx   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-253d2aa5c87e6da3800d2797df5279be40988203ec4f200df67eb4fc71632260_trns_h264/playlist.m3u8
