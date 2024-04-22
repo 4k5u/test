@@ -1,4 +1,3 @@
-_meganmeow_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bbbf8ffe988564717d2c32fae544611cded8d46fa9c90df10f4332018a4b6daa_trns_h264/playlist.m3u8
 oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-52a74bc04097d1bdac8ff3deb704bdd54a9d69282b97a96d00a54b921ceb1810_trns_h264/playlist.m3u8
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxMzc5MTc4MH0.P9hlbBVkChpUJuSNixqe0xRm3fSdqJkERVNJtdBegnXGtvzuEQlP72sk5Cg0hvwFQVTH7t0HOII7WstjABcDGWA4xWOQtczyrhgwqk9jt6wglZyhWvStX29IXhgcPsUs
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
