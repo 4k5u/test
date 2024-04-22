@@ -101,3 +101,5 @@ Mon Apr 22 13:17:32 CST 2024
 删除acac88 
 Mon Apr 22 13:38:45 CST 2024
 删除TefFfish 
+Mon Apr 22 13:53:39 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency

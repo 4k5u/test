@@ -7,3 +7,4 @@ getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8?playlistType=lowLatency
 ake_mi   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4f796b5f35a25e42c8ccfc33736a6e74af1f5ea00c4f728c3c0f3c0ddc93aeb8_trns_h264/playlist.m3u8
 sexygamesx   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-253d2aa5c87e6da3800d2797df5279be40988203ec4f200df67eb4fc71632260_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency
