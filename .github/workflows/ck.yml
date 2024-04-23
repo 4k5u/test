@@ -20,7 +20,7 @@ jobs:
         uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
-          bash check.sh
+          bash af.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
@@ -29,6 +29,7 @@ jobs:
           USERTOKEN: ${{ secrets.USERTOKEN }}
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
+          AFCOOKIE: ${{ secrets.AFCOOKIE }}
       - name: disconnect warp
         run: |
           sudo warp-cli --accept-tos mode proxy
