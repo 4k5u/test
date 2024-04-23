@@ -52,7 +52,7 @@ unreachableIds=()
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} -X POST "${synctv}/api/movie/clear"
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -w %{http_code} --data-raw "${jsondata}" -X POST "${synctv}/api/movie/push"
                 echo "$userId 已推送到Sync TV, removing from list"
-                #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+                #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址，sync维护！]($hls})\n\n[康康panda！](${m3u8site})\n\n"
                 #text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 #curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
             elif [ "$roomid" = null ]; then
@@ -67,7 +67,7 @@ unreachableIds=()
             else
                 echo "$userId 已推送到TG"
                 #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护中！](${m3u8site}?url=${userId})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+                text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护中！]($hls)\n\n[康康pandalive！](${m3u8site})\n\n"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
