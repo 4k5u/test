@@ -11,7 +11,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="eunyoung1238 zpdl1313 gusdk2362 glglehddl kvividn0";
+userIds="eunyoung1238 dign1461 gusdk2362 sol3712 namuh0926 m0m099 kjjeong0609 flower1023 hanny27 glglehddl";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926 
 #pop162cm
@@ -73,7 +73,7 @@ unreachableIds=()
                 #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
                 text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[J哥带你看比游戏还刺激的](${m3u8site})\n\n-----"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"1138220708\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
+                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
                 echo -e "添加$userId $hls">> $logfile
             fi
