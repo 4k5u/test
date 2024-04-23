@@ -49,6 +49,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
       - name: Retry Push on Failure
-        if: failure()
+        if: failure() && steps.push.outcome != 'success'
         run: |
-          git push
+          n=0
+          until [ $n -ge 3 ]
+          do
+            git push && break
+            n=$((n+1))
+            sleep 10
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
