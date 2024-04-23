@@ -95,3 +95,5 @@ Tue Apr 23 14:24:32 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
 Tue Apr 23 14:41:56 CST 2024
 删除asuna_love 
+Tue Apr 23 14:54:00 CST 2024
+删除Xenomy 
