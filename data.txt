@@ -4,5 +4,5 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f5e4bf0b683d35f043b9010cd7b6f867492d0fcc51b0cdf5ae6daf2c0085afb_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8?playlistType=lowLatency
-your_desssert   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-23d66c39d6e826459439f8e67c0cfc01c4ad10b72b4fdd9a178588edfe476957_trns_h264/playlist.m3u8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+foxylovesyou   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4c63fc489c986dc9cbd9e26274d0232ee30d79d1c3feed5241b1196c1a31c9c8_trns_h264/playlist.m3u8
