@@ -93,3 +93,5 @@ Tue Apr 23 13:53:39 CST 2024
 添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-23d66c39d6e826459439f8e67c0cfc01c4ad10b72b4fdd9a178588edfe476957_trns_h264/playlist.m3u8
 Tue Apr 23 14:24:32 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
+Tue Apr 23 14:41:56 CST 2024
+删除asuna_love 
