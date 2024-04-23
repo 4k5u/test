@@ -11,7 +11,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="eunyoung1238 zpdl1313 gusdk2362";
+userIds="eunyoung1238 zpdl1313 gusdk2362 glglehddl kvividn0";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926 
 #pop162cm
@@ -30,13 +30,13 @@ unreachableIds=()
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
         BNO=`echo $json| jq -r .broad.broad_no`
         timestamp=$(date +%s)
-        img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}"
+        img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}.jpg"
         echo $img
         startTime=`echo "$json"|jq .station.broad_start`
         
         echo "开始获取直播源"
         if [ -n "$BNO"  ] &&  [ "$BNO" != null ]; then
-            hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
+            hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
             echo $hls_json
             hls_key=`echo $hls_json| jq -r .CHANNEL.AID`
             sleep 1
