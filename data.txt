@@ -1,5 +1,4 @@
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
-EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 foxylovesyou   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4c63fc489c986dc9cbd9e26274d0232ee30d79d1c3feed5241b1196c1a31c9c8_trns_h264/playlist.m3u8
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6a9a845e5423ac8ae7d1914dce17f74b6223b6d614c5d913abd460685da3f7ae_trns_h264/playlist.m3u8
 your_desssert   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-23d66c39d6e826459439f8e67c0cfc01c4ad10b72b4fdd9a178588edfe476957_trns_h264/playlist.m3u8
