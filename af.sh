@@ -36,7 +36,7 @@ unreachableIds=()
         
         echo "开始获取直播源"
         if [ -n "$BNO"  ] &&  [ "$BNO" != null ]; then
-            hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" 'https://live.afreecatv.com/afreeca/player_live_api.php'`
+            hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
             echo $hls_json
             hls_key=`echo $hls_json| jq -r .CHANNEL.AID`
             sleep 1
