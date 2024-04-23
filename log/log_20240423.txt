@@ -130,3 +130,5 @@ Tue Apr 23 19:15:49 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
 删除EmiliaGuess 
 Tue Apr 23 19:28:02 CST 2024
+Tue Apr 23 19:39:04 CST 2024
+删除AkiShina 
