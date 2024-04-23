@@ -21,7 +21,7 @@ jobs:
       - name: Run a one-line script
         run: |
           echo "start"
-          bash -x af.sh
+          bash pd.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
