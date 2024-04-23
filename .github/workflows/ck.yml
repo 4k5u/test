@@ -16,8 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Setup WARP
-        uses: fscarmen/warp-on-actions@v1.1
+#      - name: Setup WARP
+#        uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
           echo "start"
@@ -31,11 +31,11 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
           AFCOOKIE: ${{ secrets.AFCOOKIE }}
-      - name: disconnect warp
-        run: |
-          sudo warp-cli --accept-tos mode proxy
-          sleep 5
-          curl ip.sb
+#      - name: disconnect warp
+#        run: |
+#          sudo warp-cli --accept-tos mode proxy
+#          sleep 5
+#          curl ip.sb
       - name: commit
         run: |
           git config --global user.email "you@example.com"
