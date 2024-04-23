@@ -32,7 +32,7 @@ unreachableIds=()
         timestamp=$(date +%s)
         img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}.jpg"
         echo $img
-        startTime=`echo "$json"|jq .station.broad_start`
+        startTime=`echo "$json"|jq -r .station.broad_start`
         
         echo "开始获取直播源"
         if [ -n "$BNO"  ] &&  [ "$BNO" != null ]; then
