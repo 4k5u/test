@@ -11,7 +11,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="eunyoung1238";
+userIds="eunyoung1238 zpdl1313 gusdk2362";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926 
 #pop162cm
