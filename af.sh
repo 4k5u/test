@@ -30,18 +30,20 @@ unreachableIds=()
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
         BNO=`echo $json| jq -r .broad.broad_no`
         timestamp=$(date +%s)
-        img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}";
+        img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}"
+        echo $img
         startTime=`echo "$json"|jq .station.broad_start`
         
         echo "开始获取直播源"
         if [ -n "$BNO"  ] &&  [ "$BNO" != null ]; then
             hls_key=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F bid="${userId}" -F 'type="aid"' 'https://live.afreecatv.com/afreeca/player_live_api.php'| jq -r .CHANNEL.AID`
+            sleep 1
             hls_url=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "https://livestream-manager.afreecatv.com/broad_stream_assign.html?return_type=gcp_cdn&broad_key=${BNO}-common-master-hls"|jq -r .view_url`
             hls="${hls_url}?aid=${hls_key}" 
             echo "${userId}获取成功。"
             echo "直播源：${hls}"
             echo "开始创建房间" 
-            room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"Panda_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
+            room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"Af_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
             roomid=`echo $room|jq -r .data.roomId`
             roomToken=`echo $room|jq -r .data.token`
             echo "房间id：$roomid"
@@ -69,7 +71,7 @@ unreachableIds=()
                 #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
                 text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}已在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[康康pandalive！](${m3u8site})\n\n"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
+                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"1138220708\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
                 echo -e "添加$userId $hls">> $logfile
             fi
@@ -93,6 +95,6 @@ unreachableIds=()
     # 在剩余的UserID中重新检查
     if [ ${#userIds} -eq 0 ]; then
         echo "All UserIds are reachable. Exiting."
-        break
+        #break
     fi
 #done
