@@ -80,7 +80,7 @@ unreachableIds=()
             reachableIds+=("$userId")
         else 
             echo "$userId 获取直播源失败！"
-            echo "错误提示：$json "
+            echo "错误提示：$(echo $json| jq -r .broad)"  #$json "
         fi   
         echo "-----------`date`--------------"
         sleep 3
