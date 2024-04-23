@@ -68,17 +68,17 @@ fans=$(echo "$json" |jq .list[]|jq 'select(.type == "fan")'|jq .userId|wc -l)
 isPws=$(echo "$json" |jq .list[]|jq 'select(.isPw == true)'|jq .userId|wc -l)
 echo " | 19+房间:$isAdults | 粉丝房:$fans | 密码房:$isPws"
 
+#cat json |jq .list[]|jq 'select(.type == "free")'|jq .userId
 #userIds=$(echo $json|jq -r .list[].userId)
 IFS=$'\n' read -r -d '' -a onlineIds < <(jq -r '.list[].userId' <<< "$json")
+#echo "${onlineIds[@]}" > userid.txt
+echo "获取到主播数：${#onlineIds[@]}"
 
-echo "${onlineIds[@]}" > userid.txt
-#个数
-echo "${#onlineIds[@]}"
-
+freeIds=($(cat json |jq .list[]|jq 'select(.type == "free")'|jq -r .userId))
 watchIds="jjine0127 howru010 emforhs1919 hyuna0721 lovesong2 20152022 jenny9999 choyunkyung jinricp pandaex happyy2 4ocari na2ppeum onlyone521 imissy0u moem9e9 likecho cool3333 100472 lovemeimscared starsh2802 imgroot5 okzzzz eli05021212 ohhanna dmsdms1247 54soda ajswl12 qwas33 getme1004 sseerrii0201 banet523 o111na homegirl cho77j chuing77 ksb0219 tess00 bom124 sonming52 banet523 giyoming axcvdbs23 apffhdn1219 3ww1ww3 bongbong486 duk97031 deer9805 romantic09 dkdlfjqm758 muse62 chuchu22 siyun0813 nemu00 Vvvv1212 xxaaop syxx12 day59day obzee7 dudvv7 ahri0801 soso621 missedyou imanatural Sharon9sea seozzidooboo saone451 acac88 hyuna0721 2dayday pupu28";
 
 # 使用grep命令获取group1和group2中的重复元素，并组成一个新的数组
-userIds=($(echo "$watchIds ${onlineIds[@]}" | tr ' ' '\n' | sort | uniq -d))
+userIds=($(echo "$watchIds ${freeIds[@]}" | tr ' ' '\n' | sort | uniq -d))
 
 # 输出重复的元素
 echo "监控中在线主播：${userIds[@]}"
@@ -95,7 +95,7 @@ echo $userToken
 unreachableIds=()
 #for ((i=1; i<=1000; i++)); do
 #    echo "Round $i:"
-    for userId in ${userIds}; do
+    for userId in ${userIds[@]}; do
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "https://api.pandalive.co.kr/v1/live/play?action=watch&userId=${userId}"` 
         hls=`echo $json| jq -r .PlayList.hls[0].url`
         img=`echo $json| jq -r .media.thumbUrl`
