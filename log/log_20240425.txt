@@ -53,3 +53,6 @@ Thu Apr 25 03:15:31 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除3ww1ww3 
 删除JessicaRewan 
+Thu Apr 25 03:29:37 CST 2024
+Thu Apr 25 03:29:43 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
