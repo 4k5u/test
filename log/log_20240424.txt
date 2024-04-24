@@ -240,3 +240,10 @@ Wed Apr 24 20:45:08 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ICRnzuiDqV3dPddpE6CB3lKGwp55ZG5JQn5f7Gn5cJDKL5_TGCOMV3VWG-xX1-Yf1jSoGG_UDEp_WNH8xVtzLQ
 删除sigmasian 
 删除my_eyes_higher 
+Wed Apr 24 21:12:06 CST 2024
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNDAwNzU1N30.2DTzM1JVV55Q4V9Hja-oIztdcCzu_uUxaFKFDNRLrQnrZtms-JU6GjF2ekYnyd7VXprdA9iztsJVHDu_lEhmohd0mFftqKtkEjvJFI9SMFTnR4wXsWhAo8J-DwqmOidK
+Wed Apr 24 21:13:04 CST 2024
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+删除foxylovesyou 
+删除muse62 
+删除acac88 
