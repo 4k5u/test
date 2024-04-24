@@ -90,3 +90,6 @@ Thu Apr 25 06:01:37 CST 2024
 Thu Apr 25 06:25:21 CST 2024
 Thu Apr 25 06:25:27 CST 2024
 删除TefFfish 
+Thu Apr 25 06:39:32 CST 2024
+Thu Apr 25 06:39:38 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
