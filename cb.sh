@@ -60,7 +60,7 @@ unreachableIds=()
                 else
                     echo "$userId 已推送到TG"
                     #text="*J哥提醒你！！！！*\n\nChaturbate主播${userId}直播源已添加到SyncTV\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${hls})\n\n"
-                    text="*J哥提醒你！！！！*\n\nChaturbate主播${userId}直播源已添加到SyncTV\n\n[直达地址，sync维护]()\n\n[直达地址②，带你去看好康的！](${m3u8site}?url=${hls})\n\n."
+                    text="*J哥提醒你！！！！*\n\nChaturbate主播${userId}直播源已添加到SyncTV\n\n[直达地址，sync维护]()\n\n[直达地址②，带你去看好康的！](${m3u8site}?url=${hls})\n\n_"
                     text=$(echo "${text}" | sed 's/-/\\\\-/g')
                     text=$(echo "${text}" | sed 's/_/\\\\_/g')
                     curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
