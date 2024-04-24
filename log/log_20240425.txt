@@ -102,3 +102,6 @@ Thu Apr 25 07:21:48 CST 2024
 Thu Apr 25 07:34:26 CST 2024
 Thu Apr 25 07:34:32 CST 2024
 删除gusdk2362 
+Thu Apr 25 07:49:14 CST 2024
+Thu Apr 25 07:49:20 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
