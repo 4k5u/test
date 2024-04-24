@@ -208,3 +208,9 @@ Wed Apr 24 19:00:10 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
+Wed Apr 24 19:19:20 CST 2024
+添加imgroot5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.RmKlbVyIf6Tw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JtS2xiVnlJZjZUdyIsImV4cCI6MTcxNDAwMDc2OX0.Vp_nGqf6s6LDPJLSvdYITw9Bc2A5xgtQEgI2oaN1KRWDkUJL62gQH1OPvCpu2YDPl0stmcfWiingaJXBqmwz62RYsg4sfk0E7oIPIqNUU73PQE1nbZ-DUw12fJeuvs4c
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNDAwMDc5M30.9dyoNbhZATGPTjvWvHA7wDIAJKqiSydd4hKVtBBSLI4LF3cRYUhvtuSpO8-6dR5k85vnL21bkPkemVCujeYEvm0KG0XanizqzpwcLKo2CQ3Tqwbn2a6NZ1DElvgwkPzG
+Wed Apr 24 19:19:59 CST 2024
+删除sabrina_hk888 
+删除EmiliaGuess 
