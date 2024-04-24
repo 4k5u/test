@@ -3,7 +3,6 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDAxNDAxNn0.Cu_rmV04XERDDNnkPQvegF0WSJNuq-TNO6E-ClUo3RDgIlOLHPL4Y9yFaWuSYgvlsbv68csyc-dtqbG7z0lTYil-RpsTlIPkcJLCLc32DDKTWZQs2PB9QXG1fJ4W6kwy
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
-100472   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxNDAxNTQwN30.b_xuxH02JnYwvptp_jpMMSx0f8p8eFIP6oXoTK1ruM_lWeyJ_lLXWjWAoNlcrUHgpApR9IxQ0_yhvWpkwTOf2gojjh5nufajo83Gz6qDuEFiZ7xKdqlK52B3ePvFrxhs
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
