@@ -9,3 +9,4 @@ ii1liii1il   https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxMzk4ODkxN30.qbdOazAx5trhC0RHFMqHOHExSj_3E57EptwkfrHCWo66rvihwqndQTkji1n7jWWAKZFW3iC6sMH33dRyyf_zIv-i_H8_Rpqp_DOLrDFZGrJWV6h9pfU6sIU1bMKvLTqT
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8?playlistType=lowLatency
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+your_desssert   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-7b7024044553f7a0a917c58ba01e2afc6b39e2e933f72549544915593ab9ce21_trns_h264/playlist.m3u8
