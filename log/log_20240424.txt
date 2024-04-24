@@ -202,3 +202,9 @@ Wed Apr 24 18:47:51 CST 2024
 删除Judy0523 
 删除EmiliaGuess 
 删除your_desssert 
+Wed Apr 24 18:59:41 CST 2024
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxMzk5OTU5Mn0.TDg-d-H2iP684snF0hV_NnJezBm3kRMVTJ3weef_4WxvrfBBWwnSd-INT1ReyKhOf-ieJCJKNf8qn1tnnRT_xYvwjE332l-hTBR_50dokseimVvM-Ce2_msFDpEjOgQ0
+Wed Apr 24 19:00:10 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency

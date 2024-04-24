@@ -14,3 +14,7 @@ dign1461   https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_pl
 hanny27   https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.n-NpDdgpDeMWlinBdT3wZMIwnjfP0N7UH4cOImSJOIlSGi6JlinktUjkCRdH0AyItL1-fkcxACKi9F4jJqdLnQ
 sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8?playlistType=lowLatency
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8?playlistType=lowLatency
+bongbong486   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxMzk5OTU5Mn0.TDg-d-H2iP684snF0hV_NnJezBm3kRMVTJ3weef_4WxvrfBBWwnSd-INT1ReyKhOf-ieJCJKNf8qn1tnnRT_xYvwjE332l-hTBR_50dokseimVvM-Ce2_msFDpEjOgQ0
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8?playlistType=lowLatency
+JP-KARIN   https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8?playlistType=lowLatency
