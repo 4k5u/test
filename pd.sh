@@ -107,7 +107,7 @@ unreachableIds=()
 #    echo "Round $i:"
     for userId in ${userIds[@]}; do
         if grep -q "${userId}" data.txt; then
-            echo "The UID $uid exists in data.txt"
+            echo "The UID $userId exists in data.txt"
         else
             json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "https://api.pandalive.co.kr/v1/live/play?action=watch&userId=${userId}"` 
             hls=`echo $json| jq -r .PlayList.hls[0].url`
