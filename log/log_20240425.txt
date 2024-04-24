@@ -75,3 +75,7 @@ Thu Apr 25 05:01:52 CST 2024
 Thu Apr 25 05:01:56 CST 2024
 删除TefFfish 
 删除JessicaRewan 
+Thu Apr 25 05:21:13 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDAzNjg3NH0.o3EbxGmnN6hRUCvWj_PUbAK2G41vlk-1wxmeCp3CNOGa1uDVBStTff94feRi4US7Y-38WqvXmrL4E_wbKomYYuKh7_hfnLHkJkM3Wc4kGvFhQ-lyvPBeaAa33cI-Hqs8
+Thu Apr 25 05:21:23 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
