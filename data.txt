@@ -1,5 +1,4 @@
 emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxMzk2NzY0M30.38O9_lFKPcAxwWShwqUEEH_3wWF97Yb7pAqKVcZerNrNX0jjuD9C84oAoE5mD4kxtwXHtd-nXivFU5vOsZ594cJVUdPkmn3rKcyBtZR4OFglI8BPlLDaXB9cYKY8I2Lp
-getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxMzk2NzY1MH0.9aONEn8aAlGW9YQ2cY-slCwCos-aPGU86xvBdpnY2TgF_tQmO7SPz0sekYFkkidJtExHEoTELuNE-EYSmY3jkZDJBk0hqiMMXywfaibDMvzWAavXBhMurGzXMZ4XPGD0
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8?playlistType=lowLatency
 ake_mi   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-df48dcf2f741af7ff73ec811019b6cc29bc8427f600b67b6c4595469c6f2ccc2_trns_h264/playlist.m3u8
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-8be5f543c9be18ed810d15598f635a6a7831cae62562b0a84dff8784b31ece85_trns_h264/playlist.m3u8
@@ -11,3 +10,4 @@ foxylovesyou   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-af34c5decd00ca57610a9575d320f6e1885ce7ab19647e3f0bb793e414bc1ef2_trns_h264/playlist.m3u8
 your_desssert   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c24ed3c80c9a21f2d1bf110edb66424cc38ec5f334adc585f7dafbc07eeae638_trns_h264/playlist.m3u8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8?playlistType=lowLatency
+ii1liii1il   https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8?playlistType=lowLatency
