@@ -11,7 +11,7 @@ m3u8site="$M3U8SITE"
 cookie="";
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="SexyModel-170cm grandeeney ii1liii1il asuna_love JessicaRewan Ailen_baby 0O0O_00O-O00O0 sabrina_hk888 lucy_1811 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A lucille_evans alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
+userIds="SexyModel-170cm grandeeney ii1liii1il asuna_love JessicaRewan Ailen_baby sabrina_hk888 lucy_1811 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A lucille_evans alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
 
 userToken=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' --data-raw "{\"username\": \"${username}\",\"password\": \"${password}\"}" -X POST "${synctv}/api/user/login"|jq -r .data.token`
 echo $userToken
@@ -29,7 +29,7 @@ unreachableIds=()
         echo "开始获取直播源"
         if [ "${islive}" == true ]; then
             echo "${userId}获取成功。"
-            hls="https://edge-hls.doppiocdn.net/hls/${sid}/master/${sid}_auto.m3u8?playlistType=lowLatency"
+            hls="https://edge-hls.doppiocdn.net/hls/${sid}/master/${sid}_auto.m3u8"
             echo "直播源：$hls"
             echo "开始创建房间" 
             room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"ST_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
