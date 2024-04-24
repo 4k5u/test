@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-#      - name: Setup WARP
-#        uses: fscarmen/warp-on-actions@v1.1
+      - name: Setup WARP
+        uses: fscarmen/warp-on-actions@v1.1
       - name: Run a one-line script
         run: |
           echo "start"
-          bash pd.sh
+          bash cb.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
