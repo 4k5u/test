@@ -3,3 +3,7 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+oda_assuri   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-396ed55dba6e9873f618fed41367a6418d19202ad8c2ffe229575bf4c86e7c1c_trns_h264/playlist.m3u8
+kiriko_chan   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-d06e03ab00fa57e84cbf85c7b349197bdad72830da05afcd72f30736bb9a6381_trns_h264/playlist.m3u8
+kiyoko_rin   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-963b1823b80d345722b14277426ffd65ea51a337408fba17ce6816272b48dd92_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-25c1cca1466354677eb8e2226600704726c408b1e1ee0eb05618d2b1044a1eab_trns_h264/playlist.m3u8
