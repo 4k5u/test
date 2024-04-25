@@ -200,3 +200,8 @@ Thu Apr 25 16:41:38 CST 2024
 Thu Apr 25 16:54:15 CST 2024
 Thu Apr 25 16:54:18 CST 2024
 删除glglehddl 
+Thu Apr 25 17:19:34 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNDA3OTk3NX0.cCm9IobvdpRc0h8A91cLwq0BhFm_mn_nMmE0eEzwOaAs3oBtJVb1aszj3UaQ1cQRXikG5C-Lx383UiaOX9ktMMQGm39Vld-y8pmslKJoH_D1kM4ZueGQp25m7_WBFz4p
+Thu Apr 25 17:19:43 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除oda_assuri 
