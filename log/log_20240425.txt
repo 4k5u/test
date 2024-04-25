@@ -310,3 +310,9 @@ Thu Apr 25 22:43:22 CST 2024
 Thu Apr 25 22:59:53 CST 2024
 Thu Apr 25 23:00:32 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+Thu Apr 25 23:23:47 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNDEwMTg0M30.qRg3p_NNCpJr9HYcnYLW94G4RIJh_pACmoKDq1AKasMmh13Ft3pfK3haLuAHLfQms18w1SjvLRljen8d5p3Sz8WARJF9kzgdVdEFbWsLpp-WtiE_Vu4MY9DGbyuhbltn
+Thu Apr 25 23:24:33 CST 2024
+添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+删除ohhanna 
+删除mikio_san 
