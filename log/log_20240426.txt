@@ -37,3 +37,9 @@ Fri Apr 26 02:24:40 CST 2024
 添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+添加kiyoko_rin https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6e272bfd817ddef1de1670cc2bd7984c6ae9d81b6ee7ee65e4ab80aa003d509d_trns_h264/playlist.m3u8
+Fri Apr 26 02:40:25 CST 2024
+Fri Apr 26 02:40:35 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hPa4U3L-rHYkd_w1TbLyOloCecU-xy2pU6Rb_xKu0J82_sufdAbysBcb6NZ6PrXrNoUxPX9-xCD_qYbPAmQEPg
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除dudvv7 
