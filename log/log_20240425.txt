@@ -259,3 +259,14 @@ Thu Apr 25 20:48:27 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除m0m099 
 删除mikio_san 
+Thu Apr 25 21:01:11 CST 2024
+添加imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y5ofSYtw8aXw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k1b2ZTWXR3OGFYdyIsImV4cCI6MTcxNDA5MzI4MX0.p-vIohleCxCFVC3DgZjuEgZN5s6mWat4elzbMWZYUcseFFvbgwa8U11ImB-VNXpcjnEUFbvEmcguXMcuH58O43FLiTl04Xkn9IJvNfY5OcG0WflO1p8rZW4bJMTYUMMd
+Thu Apr 25 21:01:57 CST 2024
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=null
+添加ii1liii1il https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除foxylovesyou 
+删除my_eyes_higher 
+删除EmiliaGuess 
+删除m0m099 
