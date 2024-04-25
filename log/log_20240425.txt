@@ -294,3 +294,9 @@ Thu Apr 25 22:00:17 CST 2024
 添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxNDA5NjgzNH0.XkMmVzHF4i9MUesPIC-TKM4W6dBD5ldUXIeVbmayW_Oh3tXdtijNsM4NkZHy8o_c2gKI_NpMxToc9_zv8VyLB0HuI8-vXgjBJR2dJag-ugzeSpUrZMVmc96MKbiS0a2U
 Thu Apr 25 22:01:12 CST 2024
 删除M--I--A 
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-de791e7ee33ba95a0bcb22074613498d7a9bf52e1f8b35cc84a27517c0ca64cf_trns_h264/playlist.m3u8
+Thu Apr 25 22:18:13 CST 2024
+Thu Apr 25 22:19:04 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除emforhs1919 
+删除EmiliaGuess 
