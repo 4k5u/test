@@ -26,16 +26,20 @@ echo $userToken
 unreachableIds=()
 #for ((i=1; i<=1000; i++)); do
 #    echo "Round $i:"
-    for userId in ${userIds}; do
+for userId in ${userIds}; do
+    if grep -q "${userId}" data.txt; then
+        echo "The UID $uid exists in data.txt"
+    else
         json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
         BNO=`echo $json| jq -r .broad.broad_no`
+        is_password=`echo $json| jq -r .broad.is_password`
         timestamp=$(date +%s)
         img="https://liveimg.afreecatv.com/m/${BNO}?${timestamp}.jpg"
         echo $img
         startTime=`echo "$json"|jq -r .station.broad_start`
         
         echo "开始获取直播源"
-        if [ -n "$BNO"  ] &&  [ "$BNO" != null ]; then
+        if [ -n "$BNO"  ] &&  [ "$BNO" != null ] && [ "$is_password" != "true" ]; then
             hls_json=`curl -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
             echo $hls_json
             hls_key=`echo $hls_json| jq -r .CHANNEL.AID`
@@ -66,17 +70,14 @@ unreachableIds=()
                 echo "创建房间失败，跳过此ID（错误提示${room}）" 
             fi
             
-            if grep -q "${userId}" data.txt; then
-                echo "The UID $uid exists in data.txt"
-            else
-                echo "$userId 已推送到TG"
-                #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[J哥带你看比游戏还刺激的](${m3u8site})\n\n-----"
-                text=$(echo "${text}" | sed 's/-/\\\\-/g')
-                curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
-                echo -e "$userId $roomid $roomToken $hls">> data.txt
-                echo -e "添加$userId $hls">> $logfile
-            fi
+
+            echo "$userId 推送到TG"
+            #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+            text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[J哥带你看比游戏还刺激的](${m3u8site})\n\n-----"
+            text=$(echo "${text}" | sed 's/-/\\\\-/g')
+            curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
+            echo -e "$userId $roomid $roomToken $hls">> data.txt
+            echo -e "添加$userId $hls">> $logfile
             reachableIds+=("$userId")
         else 
             echo "$userId 获取直播源失败！"
@@ -84,7 +85,8 @@ unreachableIds=()
         fi   
         echo "-----------`date`--------------"
         sleep 3
-    done   
+    fi
+done   
     #sleep 10    
 
     # 从原始列表中移除已推送的UserID
