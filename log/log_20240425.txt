@@ -165,3 +165,6 @@ Thu Apr 25 13:21:26 CST 2024
 Thu Apr 25 13:33:43 CST 2024
 Thu Apr 25 13:34:09 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+Thu Apr 25 13:49:36 CST 2024
+Thu Apr 25 13:49:57 CST 2024
+删除ajswl12 
