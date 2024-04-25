@@ -7,7 +7,8 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-de791e7ee33ba95a0bcb22074613498d7a9bf52e1f8b35cc84a27517c0ca64cf_trns_h264/playlist.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
-starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNDEwMTg0M30.qRg3p_NNCpJr9HYcnYLW94G4RIJh_pACmoKDq1AKasMmh13Ft3pfK3haLuAHLfQms18w1SjvLRljen8d5p3Sz8WARJF9kzgdVdEFbWsLpp-WtiE_Vu4MY9DGbyuhbltn
 777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-864195d921016a241f33d08b3f3fc0ead0e0c361b4beb14536de06495d78fd8a_trns_h264/playlist.m3u8
+JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
