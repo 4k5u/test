@@ -5,3 +5,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e440cd95bde2f737cd742b06e5e57b35ad451cdad17eaefd3566714b6cde226f_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNDEzMjk4M30.dCULHHFK33SDaHPWwuV6_qSsXl6MsYa3jSf8QoPpmMML41xG4sIe0sCApAeHxLfiBqknfcOuzEoHVnNgDrWsEUn90vE7o2lA_s6PsQI-vWf-3wJw7IfngbFz6shmVQqV
