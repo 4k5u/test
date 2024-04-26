@@ -212,3 +212,6 @@ Fri Apr 26 18:04:06 CST 2024
 Fri Apr 26 18:04:29 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FBriW2Zm2jpihq-LmKJwvDFfOZz_7kMVCD-aHDKZm7i0ykVDQOh5YAOum4eYkOpJMkRjA16JwP20qhzrqV6e8g
 删除_meganmeow_ 
+Fri Apr 26 18:27:44 CST 2024
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxNDE3MDQ3OH0.s4wrTXSYwjV0OHo70pSeLu5y9LEDn18AfU70EXvfCWxIci8E1T5YH5RXU7uFm2GRRhume0xnLJ11fMsMWpK5FqelkWG-LmeVp-im4ZfIAX1Rni_GygWaP-MKAs6BbcnV
+Fri Apr 26 18:28:10 CST 2024
