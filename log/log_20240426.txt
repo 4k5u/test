@@ -215,3 +215,7 @@ Fri Apr 26 18:04:29 CST 2024
 Fri Apr 26 18:27:44 CST 2024
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxNDE3MDQ3OH0.s4wrTXSYwjV0OHo70pSeLu5y9LEDn18AfU70EXvfCWxIci8E1T5YH5RXU7uFm2GRRhume0xnLJ11fMsMWpK5FqelkWG-LmeVp-im4ZfIAX1Rni_GygWaP-MKAs6BbcnV
 Fri Apr 26 18:28:10 CST 2024
+Fri Apr 26 18:42:37 CST 2024
+Fri Apr 26 18:42:59 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除Judy0523 
