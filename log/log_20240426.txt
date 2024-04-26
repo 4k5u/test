@@ -230,3 +230,9 @@ Fri Apr 26 19:17:24 CST 2024
 添加cuddles_me https://edge5-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-890243e853664c03759faaca987655c0c21130a13cd0e6a748987a129b157095_trns_h264/playlist.m3u8
 Fri Apr 26 19:30:24 CST 2024
 Fri Apr 26 19:30:52 CST 2024
+Fri Apr 26 19:42:33 CST 2024
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxNDE3NDk2NX0.EM_BroE3J8Bc7qZNNvgAAqbKg010-F-OsnhQspfccFPxQXMQFcWEKGXXhS0FG-J6UaptLkYYxlh0pvzq-aB3UYnJbWu1ZPcMDm6kDA9o99CesckRaG5P6WfCXSTEB7Cy
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxNDE3NDk3NH0.kYhNtt_rUmbAM-UKqg5ZsMdIuUrHHqZ-rfSTK7xASo9jhaiIsfD7b42zV7d4s-ybJjspYD2GCXlqi1_EgNj8I0WVtCqKMut0TuQCVeHWRFZzuxyCg2VNGcPy3CaYglKH
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxNDE3NDk4MH0.pd4AzErnxN1oIdjZ1TfMlA---pPW1qW9p9HDecEeTtDjJgRH4yfTaia4diqYYYXnIF5Fm_yopOVbZY68X3sUNs6cGRWrwrzehN6mIsaXGe9uda5WvtNJ9CiW_8qPAySA
+Fri Apr 26 19:43:21 CST 2024
+删除sigmasian 
