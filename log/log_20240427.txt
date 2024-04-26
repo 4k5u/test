@@ -28,3 +28,10 @@ Sat Apr 27 01:32:46 CST 2024
 Sat Apr 27 01:45:03 CST 2024
 Sat Apr 27 01:45:18 CST 2024
 删除homegirl 
+添加kiyoko_rin https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-9e3e055144156cc7a8ad65194604163cd442a8236d380e2c479aabc6d9da8a8c_trns_h264/playlist.m3u8
+Sat Apr 27 02:00:09 CST 2024
+Sat Apr 27 02:00:24 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除JessicaRewan 
+删除eunyoung1238 
+删除dmsdms1247 
