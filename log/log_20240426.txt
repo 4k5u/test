@@ -268,3 +268,8 @@ Fri Apr 26 21:32:59 CST 2024
 Fri Apr 26 21:33:54 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除acac88 
+添加honey_pinkgreen https://edge12-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e9b71c35e780522b73c1c202c529e9c3221ebc9908f587e6b78b0700dcc25cbd_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-21c753779f04882d4ee92d0431e7125611994e16c89f280e5a70c030c9f90bce_trns_h264/playlist.m3u8
+Fri Apr 26 21:50:22 CST 2024
+Fri Apr 26 21:51:14 CST 2024
+删除seozzidooboo 
