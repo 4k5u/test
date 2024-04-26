@@ -155,3 +155,7 @@ Fri Apr 26 13:03:21 CST 2024
 Fri Apr 26 13:03:38 CST 2024
 删除my_eyes_higher 
 删除mode_bad 
+Fri Apr 26 13:24:03 CST 2024
+Fri Apr 26 13:24:22 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除TefFfish 
