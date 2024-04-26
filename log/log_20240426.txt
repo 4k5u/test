@@ -227,3 +227,6 @@ Fri Apr 26 19:16:48 CST 2024
 Fri Apr 26 19:17:24 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g41MZh1kwB9W14AduLuXtxFTa5EsiaRbYYNJuI5eckv3Pgnl8OglkVbV7ijlzlZ0ODaMrtVNmV1tMOR2CP-gvQ
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+添加cuddles_me https://edge5-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-890243e853664c03759faaca987655c0c21130a13cd0e6a748987a129b157095_trns_h264/playlist.m3u8
+Fri Apr 26 19:30:24 CST 2024
+Fri Apr 26 19:30:52 CST 2024
