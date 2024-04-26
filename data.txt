@@ -12,3 +12,4 @@ _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-402
 mode_bad   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6daad761212062b32f734eea30d7a192c47ef5e598bcfd1515b642a67c2801bd_trns_h264/playlist.m3u8
 ohhanna   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxNDE0ODU4NX0.QVCt_eCoz-UaBMfjUcBXqn8CHO_hNo0p_lnymf4TCIoKEGzxHy7e38oGiNygMTDjEGInXcVLx-p8b6WvP44-O4sdxSGJfLlShr0FmVp8hozrkU_ZdgMb7C3tBfhzmmhp
 dign1461   https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EklVUV_jyj2Hnx04iy80t2lusO1fH30arxlR5xCD878BHGbbtPtbYWS-bhXnA7dUgKWLAkKOs5Lr7lmJ83-I8A
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
