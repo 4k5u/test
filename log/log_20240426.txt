@@ -109,3 +109,10 @@ Fri Apr 26 09:24:47 CST 2024
 添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNDEzNzkwMH0.-lP2TDkSYd-vByq-sIptNIwBgrBErQ_EeANgL4fF0nHkMkzpNqkoQ4uo7G4V9ZjeRfEig0tOwDJB_ySo910A2346tJkS7PyoEB_PJA_oGCp3BS0y3EBswq8SSEVm41aS
 Fri Apr 26 09:25:06 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f3b04e3550963381f2b5784bdb6d121534605fb3e64da99057f12af90ea1e338_trns_h264/playlist.m3u8
+Fri Apr 26 10:09:37 CST 2024
+Fri Apr 26 10:09:50 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiriko_chan 

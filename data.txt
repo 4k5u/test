@@ -1,4 +1,3 @@
-kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-864195d921016a241f33d08b3f3fc0ead0e0c361b4beb14536de06495d78fd8a_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6e272bfd817ddef1de1670cc2bd7984c6ae9d81b6ee7ee65e4ab80aa003d509d_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDEyMzQyMn0.I_qeuphAxbY5gO11V1Igi1-iURoxx6Glmvw8njJlLq4WKt2BoEt33RTAM1JCZfgm2tTt7TrCTcTL1XOmBLRc_wHDAoAZWtZa8cG4kf3337KGFCw3Z531w2tn-Vjhe5t-
@@ -9,3 +8,7 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNDEzNzg5NH0.HmxHbK-SPQmzxikm-ODcr4zTnQyb82O5vkoDN0R6SGUHfizXcrwYVKeRQGioU_OCwOrxgCYf2BTVEET9U98-qPT1k2A7trsVJWZZP04m1I9YE7CtN5jIr9vMOusyhWVN
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNDEzNzkwMH0.-lP2TDkSYd-vByq-sIptNIwBgrBErQ_EeANgL4fF0nHkMkzpNqkoQ4uo7G4V9ZjeRfEig0tOwDJB_ySo910A2346tJkS7PyoEB_PJA_oGCp3BS0y3EBswq8SSEVm41aS
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f3b04e3550963381f2b5784bdb6d121534605fb3e64da99057f12af90ea1e338_trns_h264/playlist.m3u8
+Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
