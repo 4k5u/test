@@ -22,3 +22,9 @@ Sun Apr 28 01:40:08 CST 2024
 Sun Apr 28 01:40:29 CST 2024
 添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 删除mazzanti_ 
+添加mazzanti_ https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6fcc44db9a0710df85b6b8ff9c877b7c64f3c6b695e0b29567f8a5a06360f23d_trns_h264/playlist.m3u8
+Sun Apr 28 01:52:23 CST 2024
+Sun Apr 28 01:52:41 CST 2024
+删除sol3712 
+删除eli05021212 
+删除777YikuYiku 
