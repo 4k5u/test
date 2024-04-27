@@ -231,3 +231,6 @@ Sat Apr 27 19:09:17 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
 删除sigmasian 
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-88de209a593922d8efc5c9e6b97e0468faa803141e4a4c4242e7fb4b9f3d6032_trns_h264/playlist.m3u8
+Sat Apr 27 19:21:10 CST 2024
+Sat Apr 27 19:21:37 CST 2024
