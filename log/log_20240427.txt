@@ -113,3 +113,6 @@ Sat Apr 27 10:05:28 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除kiyoko_rin 
 删除Akiyama_Key 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-820da23dae73016cc2e37c10839f4b19f52fb8f798b572213fc421d949949751_trns_h264/playlist.m3u8
+Sat Apr 27 10:32:52 CST 2024
+Sat Apr 27 10:33:01 CST 2024
