@@ -1,5 +1,4 @@
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d0d091b78d983b98bbb4f2692e964fda44fae5156490daebcd0d12abfa10c0a3_trns_h264/playlist.m3u8
-4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNDIyNDExMX0.pZ1zlXvhNXKlTZL9RQ9anYrgY_RQUSLv846wARACeaavudKVE9BavE0fcw0eCdby61NLtIIA9okgcr_e4dX-pCyreC1Ayby7A99NY25SQLgAnYW4WK2jLn5YO-6LH1-f
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
@@ -10,3 +9,4 @@ ake_mi   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-820da23dae73
 your_desssert   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e18f8dfa7f6db9b3da5d16d6f3918a67986164fc6a09096b9d900a2b1e098590_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a1a16c38373142c538d2627561fd522c8c58c5544987aee9140efe340e1fde3a_trns_h264/playlist.m3u8
 hyuna0721   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNDI0MzgwMn0.tZQgVPLuGru37mk5SRlHR9gPHBg5c-4FQuwtK9spU-BIGjqiGeAC7BFhW83eJJknDBIJwgZWLER9cZftdz4YAI5aIrspMgJe2R7hwglswAgbHXtW2os23YZoNbjeNZsk
+muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNDI0NjI4OH0.ytqu4ZLG_k2VU-00PJK5w_WIukpop4T2OAu0KNhIr7n5vl7t2nqlX_Bw6FcsuBr62DGeOBMAHLUfq_ms6D7OQGdODTyp1N_grVP0MjIlW2gVmuah7wl1c5fG9QgsmMTy
