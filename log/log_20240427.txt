@@ -136,3 +136,6 @@ Sat Apr 27 12:34:13 CST 2024
 Sat Apr 27 12:34:22 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除TefFfish 
+Sat Apr 27 12:50:09 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDIzNjYxMX0.XLfRKFRCdXi3eIGZq6WiXea3S8XmoYaAybRTMTTyDy7tmjoRUe3mcg6l49Od-cGyLWghgwvBNAGRYC5EoezY8Ym4HWYdZ37fg5qWO9-FUExfdFx7piy7wpnMD_Sq0KKk
+Sat Apr 27 12:50:26 CST 2024
