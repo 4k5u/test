@@ -246,3 +246,9 @@ Sat Apr 27 19:51:31 CST 2024
 删除cuddles_me 
 Sat Apr 27 20:02:50 CST 2024
 Sat Apr 27 20:03:26 CST 2024
+Sat Apr 27 20:37:55 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxNDI2NDY5MX0.oTfpchqqQYIOVzhu6Hz5NFfphNyd2HO1KnR46BL5NgXXsYELGsc1MSemq17eyPCWyiw4k0u8Uiy5WYHw_QZNyT8WZnUAT-sPUvXi_6MJqjcJdjmKGZB7ukZm_fLKS3y5
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNDI2NDY5OH0.szjFviXqxO_SE-Qwvfy8xdVGvaXfRnEM3QBE1cSaE-uOI0oUqI9_lbLKB1e0h7XRyncs-DZD9XNQbBh9MIOY2kjQ7wIgx_HzY1-3Kinfq9Cf-QyDQCqXagIa1p8gZIHX
+Sat Apr 27 20:38:45 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Z8Fdg4v4U-jNdNJA8WwrClRusTkRARl9fLxsOaTFm7nAId9TT9tkP5JwcxmBEBTcE5HgdQdnLy_GLP81Yur3jQ
+删除my_eyes_higher 
