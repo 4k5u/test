@@ -275,3 +275,8 @@ Sat Apr 27 21:50:36 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除oki_dokie 
 删除honey_pinkgreen 
+Sat Apr 27 22:02:13 CST 2024
+Sat Apr 27 22:03:02 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除M--I--A 
