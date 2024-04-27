@@ -85,3 +85,7 @@ Sun Apr 28 05:59:59 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 删除moem9e9 
 删除charming_NaNa21 
+添加_meganmeow_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a3f1043752da6d1feacb1120816bebea1b20b1ccbd84175d4075f8a15ea42283_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-25827926d45050d4f47c096cbf4b88017d9207ad1a7e2d02ddd432b547c7cac9_trns_h264/playlist.m3u8
+Sun Apr 28 06:21:02 CST 2024
+Sun Apr 28 06:21:05 CST 2024
