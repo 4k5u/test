@@ -1,4 +1,3 @@
-gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5eXkStFO_H-TL1uw-8cuPz8dLhH1SESQGgMGXbsevD-2wnIswLrB6lLj9OhExb8MqYX-EFQVqn6P4nZr6Xk1HA
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d0d091b78d983b98bbb4f2692e964fda44fae5156490daebcd0d12abfa10c0a3_trns_h264/playlist.m3u8
@@ -9,3 +8,5 @@ Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-820da23dae73016cc2e37c10839f4b19f52fb8f798b572213fc421d949949751_trns_h264/playlist.m3u8
+eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rU4SjPST2O3YaqHNsqbDPaLLMve-I6rFXisDe-TkVedwW1Q4zm-oL0tryP9k4ATTv9DJryF4Uryo8DiP4YP0yA
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
