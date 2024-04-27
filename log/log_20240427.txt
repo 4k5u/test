@@ -283,3 +283,8 @@ Sat Apr 27 22:03:02 CST 2024
 Sat Apr 27 22:21:03 CST 2024
 Sat Apr 27 22:21:49 CST 2024
 删除soso621 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-017a54ed9952bc7111eaada508591b8604b3e1e1fdebea9d8a023d675b43bbb7_trns_h264/playlist.m3u8
+Sat Apr 27 22:34:21 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNDI3MTY4MH0.1GWra8nFg10G9OaVD-NjjKdyhknst17v4BViocnMQDpkk2ypyMbvPM3-TKuNv8TM2zYLNlPPQry3vjy2hc-16yLORUhdJpobdHLTcXiQr_ZwvYZPtM3o5isiWTtA-Y7J
+Sat Apr 27 22:35:13 CST 2024
+删除ii1liii1il 
