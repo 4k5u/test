@@ -1,4 +1,3 @@
-chuing77   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.4yjxUhQ5ialm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzR5anhVaFE1aWFsbSIsImV4cCI6MTcxNDI2MTg2NH0.G4T-Q5edC79_MYqR_qSWvF9BiQxV8OFcZ1ULj0297qA0cnugxdSBguIh1jFcsUxBl6rZG2_hcNMR5XTyNoDUUSmGKmUPUvUuSvddrB1MqV0mysTQsydLYe2Yw_iEucVy
 kiriko_chan   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-f6a79b93e5444c840f426a782959a785b1815e5c3ff91235548825495bd95f20_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2e9567ceb60be7cf3ebe9b623fd97dcaf6e0be6ae5fb48ba7eaa156a4d9b6a4c_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
@@ -6,3 +5,4 @@ _meganmeow_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a3f
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-25827926d45050d4f47c096cbf4b88017d9207ad1a7e2d02ddd432b547c7cac9_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
