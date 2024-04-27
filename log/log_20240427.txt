@@ -106,3 +106,10 @@ Sat Apr 27 09:21:43 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDIyNDExOH0.gQ_wMSmZW8K_IiZemuv2QZMK48Z3v4yrgvIwY7nMesF6d1C3SgycavfhPD-R-3TsC2dxQin8n5IEFvMV337i_KF1o-kgjma_9Jd5jt2vKJly13ZlkL7xUasq6x03DKFr
 Sat Apr 27 09:22:04 CST 2024
 删除sonming52 
+Sat Apr 27 10:05:19 CST 2024
+Sat Apr 27 10:05:28 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
