@@ -221,3 +221,13 @@ Sat Apr 27 18:40:17 CST 2024
 Sat Apr 27 18:52:05 CST 2024
 添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDI1ODMyNn0.qsp5e8b_krgGdD0mF5sWAakEsxtpNqG9W8GdLXO023G_vfT3nD2EhfogG8jkxFZo4FPwAFhvsMM0UWVxEjDR-UXaIhdkDceH7VhVxaTNM5skK6k1Z7EWWrrbUgMjwoGe
 Sat Apr 27 18:52:29 CST 2024
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4ad3ec58cf681e04955217b885dfa8df7f54e5b866b4e8e4933c42602168d626_trns_h264/playlist.m3u8
+Sat Apr 27 19:08:43 CST 2024
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNDI1OTMzNn0.8VA89wtLaLf-v7vt5PBFw5lM3T197UyS15Ped7WD2eMVpDJC6zP3XOaWVAGD9Zv38Toissf2o8eE8rxqDEf7xqurmiHGimnKz3enq_Ciqg_L3iLbcOZoZKSaC3CE6zWz
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNDI1OTM0OX0.Ylzjdu8Fn81omQVUbh2zDq6RK1N5d6qBjxGYFjo16lBoUNZe-0sw7fBo1saU1eD7BmBrRx95e-6xalEX0z5LzSVxtpEdp5xvfbeCM0mTp2VJWoTVZCbqdg4X_C9c68-Q
+Sat Apr 27 19:09:17 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.PE1x83kvIsfFC9xvd-z1uVtqcyYzo823jeWganDQAovelHRcRxSbMUu5DZHwyq48b6PsFyQWMVPUmxyT6Ys2ww
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除sigmasian 
