@@ -143,3 +143,9 @@ Sun Apr 28 12:02:59 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 Sun Apr 28 12:27:03 CST 2024
 Sun Apr 28 12:27:19 CST 2024
+添加ake_mi https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-72b468e5d55de190839b16a9c4897e3f775aee5d92a512baee0f96f2287edb80_trns_h264/playlist.m3u8
+添加mode_bad https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-fc2e704ab2014429a7743c3e2d99fb5dfc93efe5e234da1170d7efe98c049ea1_trns_h264/playlist.m3u8
+Sun Apr 28 12:40:36 CST 2024
+Sun Apr 28 12:40:51 CST 2024
+删除TefFfish 
+删除mikio_san 
