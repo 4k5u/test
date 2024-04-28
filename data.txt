@@ -1,7 +1,5 @@
-saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxNDM1MjIwMX0.GdK7BD2jqaglyO5OJzqrHIxOvfXndz5pe2NeBkSExpNk_5oqQak-BztjHh12YDQa6_RskFqpWhiushZdLDAoFpIOi_Nzdkozh1HQ2Ql6Ma4ZHRC3If3Teid0sKM73pgc
 3ww1ww3   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNDM1NTQ1MX0.Wadcy4EQX3rBCbUa_-YCh3glArpt1dRPJ3CZIVraGy-wgKhwBcJpoEeiM3v7phee0uoWCZ8w4Kb4LUiZYSjygrLq3LKxG3pbgIWAzlezPCJmfUlb5DOcqr1M0IVdyYqg
 mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6c9fdf5b2b472441898af70c989a501e9dca6c05b8fe72d1dbc20f8c5588052b_trns_h264/playlist.m3u8
-cool3333   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bOcp3E4oOz75.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JPY3AzRTRvT3o3NSIsImV4cCI6MTcxNDM1NzM0NX0.7wH0Pw4VrQlD0mqlh5WkmlCSL4aFynAprlN7cu4_EHeroWRhtz3Lyg0UnyacY3UJT89DuHZz5u_aze3WSM7QRKxmRPJv2WCyFIuZavv1QbmKVxg8wEqvfKYnu13S3yxN
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDM1OTc4MX0.4GQ9RENZ3q2YD1j0XJExH5u0lcDV2jd_akrXwBDgJaAESOjsu8Wyk8r42bNS128jQ0O_G3Drmu5rWpt_-LSlXlbiXzSjMu5AY-9hncBgA7D03DHiihwFCDWTmVmCZCeZ
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9b94dd164dca5b4a4e4e5017e7dd16e5782f4868ad042b9e3eb02918b08ec5ff_trns_h264/playlist.m3u8
@@ -11,3 +9,5 @@ charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_au
 SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2408a53a03a6d630b83ab56c92a8eda5c15c3efafb83af8419d4c693083d52c1_trns_h264/playlist.m3u8
+BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
