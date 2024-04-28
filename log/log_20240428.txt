@@ -177,3 +177,7 @@ Sun Apr 28 14:41:13 CST 2024
 添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.jAlFNDouWkRV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2pBbEZORG91V2tSViIsImV4cCI6MTcxNDMyOTY4MH0.cnBNTKux7Vgw3NQOMeMP7R8IO2feY7ogW9tkovCvldyUOtwVv7bOqqJ_W-XJZUWDSzQjwkVfsMupGy9PL8kV8t6D_ZeaKzBC0W45GqxXZHq1yFCAoCtzs9_yr1d6WjOy
 Sun Apr 28 14:41:28 CST 2024
 删除Sime_Naughty 
+Sun Apr 28 14:53:47 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNDMzMDQyOH0.fKWwNC5piKgmpImMXuxcbtAljBuDXUmgRJmctfOPaQhAiz3NGWIs5YCRHJNfZBTj1CPTRZxgvGTWgnFN43RVv318O0bwTW6O5Uawu8qLoA_afDzs08dZrk5tLSpIdibG
+Sun Apr 28 14:54:05 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
