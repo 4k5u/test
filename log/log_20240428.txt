@@ -156,3 +156,6 @@ Sun Apr 28 13:19:10 CST 2024
 Sun Apr 28 13:19:19 CST 2024
 删除my_eyes_higher 
 删除nemu00 
+Sun Apr 28 13:31:34 CST 2024
+Sun Apr 28 13:31:44 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8

@@ -10,3 +10,4 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 ake_mi   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-72b468e5d55de190839b16a9c4897e3f775aee5d92a512baee0f96f2287edb80_trns_h264/playlist.m3u8
 mode_bad   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-fc2e704ab2014429a7743c3e2d99fb5dfc93efe5e234da1170d7efe98c049ea1_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
