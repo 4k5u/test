@@ -49,3 +49,6 @@ Mon Apr 29 03:15:30 CST 2024
 Mon Apr 29 03:15:36 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除mazzanti_ 
+Mon Apr 29 03:30:19 CST 2024
+Mon Apr 29 03:30:25 CST 2024
+删除Stbeautn_oO 
