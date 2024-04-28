@@ -10,3 +10,4 @@ acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNDMxNDA1NX0.uCg8Aypa87YwD8bHuTA00Ve1eX-ajyDsKkungVd_807l35DBp1ievs87QLpWY8VNnp37Q8CIxFV169kba5kJXXoKX2dOUp3GrlrXxEmBn1PCZmQYknxe5NwHKkLQjEhz
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
