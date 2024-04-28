@@ -7,3 +7,5 @@ SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f7d4cc729afedf6ac72d15f48a6291fce39e01d6f712fdcaf92ae977a7094c15_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNDM4ODU3MX0.9Puk672JWT6FErHI89sM3mOSXwr-tzYJDMN5V6mbeMYWnet4LFi3iIambvYKsFfYPSGJ7MxJFdpDn8V7_u1dHCiOSwK0rVHP0MTXRvXxLfZs8Gg0iprV3eYlWjCLpZv4
+my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f8b2f369041a7d24a9f7a93ac51325986170437d2edb55fc2b813fdb464cbd1c_trns_h264/playlist.m3u8
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
