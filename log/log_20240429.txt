@@ -7,3 +7,10 @@ Mon Apr 29 00:25:57 CST 2024
 添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 删除bom124 
 删除eli05021212 
+Mon Apr 29 00:40:40 CST 2024
+Mon Apr 29 00:40:58 CST 2024
+添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
+删除JessicaRewan 
+删除kjjeong0609 
+删除banet523 
+删除eunyoung1238 
