@@ -1,8 +1,9 @@
 kiriko_chan   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-a77546355d60b797b8039c5d93784e73110209f6e6109448eb1f5d37de6982e0_trns_h264/playlist.m3u8
-SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2408a53a03a6d630b83ab56c92a8eda5c15c3efafb83af8419d4c693083d52c1_trns_h264/playlist.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDM4MjM2M30.tyZ3JevuM0BRp2LmJtxuN9pX9ikLX_b_RiWK44syx3WZHfaTHfQh6o9gvJVn97UUXeVHeKgjFKU6P1OpVM5MB-OrDWQP4MmAxNCrwhGJ3TmHMH0E44efLSMtuGwdUX0m
 20152022   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f2rk2BIXjw3F.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YycmsyQklYanczRiIsImV4cCI6MTcxNDM4NDc5Mn0.V0vH1mhhE1du8T8p5Lf0HzQHzo5M7eUq4illN10JQsv9BzxLQn6goTLh71bOpj8utqzivyBb9a2WGl3B1ydFLIv-I09fJf0lBKhiIi0ugP63R88PhFQi2T_eMA6E9Ka1
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+_meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f7d4cc729afedf6ac72d15f48a6291fce39e01d6f712fdcaf92ae977a7094c15_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f8b2f369041a7d24a9f7a93ac51325986170437d2edb55fc2b813fdb464cbd1c_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
