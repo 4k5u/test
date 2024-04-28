@@ -187,3 +187,7 @@ Sun Apr 28 15:17:26 CST 2024
 删除4ocari 
 删除2dayday 
 删除mode_bad 
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-fc2e704ab2014429a7743c3e2d99fb5dfc93efe5e234da1170d7efe98c049ea1_trns_h264/playlist.m3u8
+Sun Apr 28 15:29:55 CST 2024
+Sun Apr 28 15:30:04 CST 2024
+删除your_desssert 
