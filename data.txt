@@ -1,7 +1,6 @@
 oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-b826e63ee6e0c8d5b9912f669513880fd7da130d0df0507cbfc34acfb85f7d86_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-72b468e5d55de190839b16a9c4897e3f775aee5d92a512baee0f96f2287edb80_trns_h264/playlist.m3u8
