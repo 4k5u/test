@@ -162,3 +162,8 @@ Mon Apr 29 13:49:46 CST 2024
 Mon Apr 29 13:49:58 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除Xenomy 
+Mon Apr 29 14:02:24 CST 2024
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNDQxMzc0NH0.rZXtjaLmF3Ic5R9y0wI3qyHsk2uOYyJSnhF4bczDgLc_d8hEUrBRI9s7vh_hdynC4rii5wsPYnWiII46veC-oR-agDO72gOL6NHJktfdzyzkOvMBnsC2y38IsjbCTLTG
+Mon Apr 29 14:02:42 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+删除mikio_san 
