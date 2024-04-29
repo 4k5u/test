@@ -106,3 +106,12 @@ Mon Apr 29 07:40:14 CST 2024
 Mon Apr 29 07:52:45 CST 2024
 Mon Apr 29 07:52:54 CST 2024
 删除my_eyes_higher 
+添加oda_assuri https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7908369808b8935f1ddba2c2bd5dd5bc0e2df9b82554b8b604fee5e0da40c33c_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-34f2e30bfefba9917cc8b8350358e5ce7602f8b714dfe267a3a40c1a261e83a1_trns_h264/playlist.m3u8
+Mon Apr 29 09:18:39 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNDM5NjcyNn0.MW-RESr1p0JvmR66npSCMpYq4hhadDuOjWZ-Yo86X5rTmkv7OGII2CY772zx2ZREY_GqBG_I2WdMY-jE3ekJ_K78LgkNPf_PDHWyJMj_PqQG_J6YZ5Fk5f49u8jR6shZ
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDM5NjczM30.Ey_RI3KKoHPSjrKC-IqHSwOOHKesGTMDgIkjZCBdaNlY4qRQ5ud2wuPMUEI9Nyf3O-6OJvl5rRBrMS3mSnZawh1nyxgq8KXaMHrvvjKoBD-O-SJgI-TtWoU6R0gclN_0
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNDM5NjczOX0.6li7g8otI7mWZtQtuVoH2Eh-6aozljWpPIVwyZUJPVyT2BVys8fp9-yWPUralzgV4qIyHb3nZeGhK-zt7RQjr_KrLKFqpZbXr8T_RQhS-dD_IXsNE0xKvlghi5i-BdBi
+Mon Apr 29 09:19:06 CST 2024
+删除SanySenise 
+删除Sime_Naughty 
