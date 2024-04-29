@@ -158,3 +158,7 @@ Mon Apr 29 13:13:20 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Mon Apr 29 13:34:32 CST 2024
 Mon Apr 29 13:34:44 CST 2024
+Mon Apr 29 13:49:46 CST 2024
+Mon Apr 29 13:49:58 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除Xenomy 
