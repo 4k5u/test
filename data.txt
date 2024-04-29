@@ -14,3 +14,4 @@ oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-362c797
 kiriko_chan   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1a2ff4c8145ac07737334dabf4c5beb262d840ca7e4eae269ebaaaa56fae096e_trns_h264/playlist.m3u8
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
+mazzanti_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-07e4d52404383562b2533e6fdda96b3d44fc7550ab72bdab7b8a92d538bbbdfe_trns_h264/playlist.m3u8
