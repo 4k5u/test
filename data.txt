@@ -4,7 +4,6 @@ ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a4e1188f3197
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNDQxMzc0NH0.rZXtjaLmF3Ic5R9y0wI3qyHsk2uOYyJSnhF4bczDgLc_d8hEUrBRI9s7vh_hdynC4rii5wsPYnWiII46veC-oR-agDO72gOL6NHJktfdzyzkOvMBnsC2y38IsjbCTLTG
-Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a09e4ca51b55d5bd86cdf7713a6a8a1f6ed057e9e3bad6a6d43dd8e016cac4a5_trns_h264/playlist.m3u8
 foxylovesyou   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-84c1c41c8a92c8a6a16c6bab34769012537b399ba7dacf1b464afc4795f9ce6e_trns_h264/playlist.m3u8
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
