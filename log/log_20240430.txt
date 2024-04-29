@@ -69,3 +69,6 @@ Tue Apr 30 04:33:09 CST 2024
 Tue Apr 30 04:50:55 CST 2024
 Tue Apr 30 04:51:02 CST 2024
 删除JessicaRewan 
+Tue Apr 30 05:03:57 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDQ2Nzg0MH0.KBkFLeTNZ9qd_bpXXzuPLIfeZNNo-NwscuAvr7-TxNZCZnxQsSlYLbKEMp5qxw-SBeOzh2xQyeQHuGtE1Q9FpzOrrs6xenw8IQbPS3vPM2fL7OUBNXSXmm60PY49ttku
+Tue Apr 30 05:04:09 CST 2024
