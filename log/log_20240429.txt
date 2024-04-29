@@ -167,3 +167,9 @@ Mon Apr 29 14:02:24 CST 2024
 Mon Apr 29 14:02:42 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 删除mikio_san 
+添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a09e4ca51b55d5bd86cdf7713a6a8a1f6ed057e9e3bad6a6d43dd8e016cac4a5_trns_h264/playlist.m3u8
+Mon Apr 29 14:29:23 CST 2024
+Mon Apr 29 14:29:32 CST 2024
+删除happyy2 
+删除acac88 
+删除asuna_love 
