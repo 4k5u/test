@@ -80,3 +80,7 @@ Tue Apr 30 05:40:33 CST 2024
 Tue Apr 30 05:53:07 CST 2024
 Tue Apr 30 05:53:20 CST 2024
 删除oki_dokie 
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b62f1bc6508b4db1ed161d138a229a533b47485ce1b2be12e8cb6590a1d59648_trns_h264/playlist.m3u8
+Tue Apr 30 06:18:25 CST 2024
+Tue Apr 30 06:18:35 CST 2024
+删除thgml1212 
