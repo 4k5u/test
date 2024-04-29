@@ -48,3 +48,7 @@ Tue Apr 30 02:54:28 CST 2024
 Tue Apr 30 02:54:46 CST 2024
 删除kiriko_chan 
 删除mazzanti_ 
+添加kiriko_chan https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1a2ff4c8145ac07737334dabf4c5beb262d840ca7e4eae269ebaaaa56fae096e_trns_h264/playlist.m3u8
+Tue Apr 30 03:15:50 CST 2024
+Tue Apr 30 03:16:05 CST 2024
+删除ajswl12 
