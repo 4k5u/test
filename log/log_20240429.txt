@@ -153,3 +153,6 @@ Mon Apr 29 12:52:16 CST 2024
 Mon Apr 29 12:52:28 CST 2024
 删除my_eyes_higher 
 删除AkiShina 
+Mon Apr 29 13:13:08 CST 2024
+Mon Apr 29 13:13:20 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
