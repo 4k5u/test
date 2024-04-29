@@ -1,5 +1,4 @@
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNDM4ODU3MX0.9Puk672JWT6FErHI89sM3mOSXwr-tzYJDMN5V6mbeMYWnet4LFi3iIambvYKsFfYPSGJ7MxJFdpDn8V7_u1dHCiOSwK0rVHP0MTXRvXxLfZs8Gg0iprV3eYlWjCLpZv4
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a4e1188f3197075dd4d2be39b5acf83616997fe1a005cede9a5fc917e028ec9a_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
