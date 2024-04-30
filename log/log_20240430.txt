@@ -136,3 +136,6 @@ Tue Apr 30 11:24:16 CST 2024
 Tue Apr 30 11:40:45 CST 2024
 Tue Apr 30 11:41:00 CST 2024
 删除Xenomy 
+Tue Apr 30 11:52:35 CST 2024
+Tue Apr 30 11:52:50 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
