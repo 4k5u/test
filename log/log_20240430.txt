@@ -234,3 +234,11 @@ Tue Apr 30 19:11:52 CST 2024
 Tue Apr 30 19:12:41 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.raMFAeFAb_yrUCc-SGX7Bn-wzQ7vKKTMyNTSazhiCu5WRewUH344luiuj9XG4H6XVMCPPNS6BR9FDc0XwHj8Ng
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+Tue Apr 30 19:25:14 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNDUxOTU0M30.BUCWuvzNOQ-vAa9oH6rqHCGw_0YwpvWeGb6AFkIG38Ijy-y_ryn8ZsgfGoHu8HuOMRMN2uE0QyIM3omFkVj6nW-RLySKPB1W3WIAJ7JmcSAn963JzuJHfzAIJFJum_KL
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNDUxOTU1OH0.UFj5XkvxEVfHSIYXqP0DdPAAPXUO_8pp6n9RnLQFIwHMZ5TcWl6ich4Nt329oqadfkMlPOcF_lXxb3Tfxt2vp2M3A5nOTa5BbPwXN-dkCRbc6RfNkJoUJTsvqe32emNX
+Tue Apr 30 19:26:07 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+删除AkiShina 
+删除your_desssert 
