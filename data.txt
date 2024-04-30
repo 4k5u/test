@@ -10,3 +10,4 @@ kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1347c
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
