@@ -167,3 +167,6 @@ Tue Apr 30 14:27:08 CST 2024
 Tue Apr 30 14:27:23 CST 2024
 删除happyy2 
 删除Xenomy 
+Tue Apr 30 14:41:41 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDUwMjUwMn0.XTwLI1Z4XFEsg5y5bNTLXvbWz867Y00VG3ryma-_1pz1zpTU64iqlh3aHhKEUIrrCGSSZT_Omc6sjT64BrB0aJ97KqncT_brkBd9B-JWCtwVFy4Oj2ctSCfLZrORMLJY
+Tue Apr 30 14:42:00 CST 2024
