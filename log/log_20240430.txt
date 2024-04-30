@@ -139,3 +139,8 @@ Tue Apr 30 11:41:00 CST 2024
 Tue Apr 30 11:52:35 CST 2024
 Tue Apr 30 11:52:50 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加ake_mi https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0571f44dba54d286a886205697d09bd05dc01fc8df9f54fe2fae511adea2c628_trns_h264/playlist.m3u8
+Tue Apr 30 12:23:21 CST 2024
+Tue Apr 30 12:23:36 CST 2024
+删除asuna_love 
+删除mikio_san 

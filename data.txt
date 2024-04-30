@@ -5,7 +5,6 @@ sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDQ4MzQ3MH0.u5yEcMRh4GqQX18Ve5ryOrcd3PJWbx3sbzUwWJjOEYrshM73A20HMCRAYx9_9hBFDuftdLZRdusT3KeBbC0Fe-HgRjxh0GXoPJMt93x4fzsVb8zUiVyNvJQX1M8Kd1rH
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNDQ4NjE1NX0.b88ID5B8EaerG_1QLgty9lPC4OeRnBK1AEYt05yyuVF1F0gDa9t4dmTLkila8FgvOSXY_HdRJH5aYh2Piz2-q91O8ZH3YuDgTCedNoaRxHrLXhZXmrIk_ABYpGLYlI0w
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+ake_mi   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0571f44dba54d286a886205697d09bd05dc01fc8df9f54fe2fae511adea2c628_trns_h264/playlist.m3u8
