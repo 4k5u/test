@@ -43,3 +43,9 @@ Thu May 2 02:42:45 CST 2024
 删除3ww1ww3 
 Thu May 2 02:54:01 CST 2024
 Thu May 2 02:54:07 CST 2024
+Thu May 2 03:17:55 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxNDYzNDI3Nn0.pbvMusI4n8em_DIh5vhDHP1kvlFPytO4gRQYqFYa36_afLS-hUY3pQXX72XNJz3EUB80jwxj6Y3qn1arXG6Z2snGOW56LXs5222fopkloJNRKqlHG_35pS04KbCcKhJt
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNDYzNDI4M30.vyUWmOTzBUBK620S-VjoEJlDO9tHctQmEnHGYek5XFvtXjp93RxnUZ9MXRAodLVpbOD7B8zToVJLTfEB4F4zaGAIJuoGieDoBtFdobhTm5ufIWvLvfrMl8vyHi2ACyqH
+Thu May 2 03:18:15 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除San___San 
