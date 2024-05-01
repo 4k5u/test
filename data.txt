@@ -4,3 +4,6 @@ oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9b324
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDU3MDUyMH0.CxMBfrqjdypy_9EAzMnBVqH2nYXFFzpekcdFEpl346SIFFhXPPuKX_3sih-LFJYtmW-cSLDIUi4sDGaQtX74KGFzy_RvKaeUnEpybguiIFmtLMtPea7hJ-c2RLZMmsJB
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+ake_mi   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-59dea9f64f0bee42bfb96229220ac00178b072a9201ddb648cd3208bb51a2adc_trns_h264/playlist.m3u8
+getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNDU4MDU1N30.8tVWcOrWroJI3EoHgSdGvrcx0opaEXqokgQmxjO1bnVRn2noXZkmL0nYqPiy0TvFoEURWZoPALkXlBUhVXMC2UF5XxNq4v5zN0XT1jJjsGMNCVdoV9QTW7NGqPR4MKT-
+mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
