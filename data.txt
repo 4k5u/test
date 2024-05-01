@@ -4,7 +4,6 @@ foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-_katekeep   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_katekeep-sd-7ce9da171c6ee702290cc94b50f70b852ccf82329f4eed2bde097830589ef082_trns_h264/playlist.m3u8
 somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.a2QsbUompKKJj_3_VtbH3r5_8rM6c9vyeLpU8D93d7Hv7t3VctuRAl7sB15rAxhFbqmb2qd25D-eOQk3ouKjVg
 hanny27   https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TZqvyu1rSl0bDGQ00-ochODeyUstkrPIVMR2HqngTZNR0R0UUYo5xQXORP_4sUlAAHtH1enSuBTmKn88vd0suA
 your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9273725f8d36074cf7e3ac7409063dcc9abf58fc50ea8b961bdc03ceb61d18e7_trns_h264/playlist.m3u8
