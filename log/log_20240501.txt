@@ -220,3 +220,9 @@ Wed May 1 19:16:41 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LcqkEPB_nYDuRqSeMkFP7HsE0rnkG_iK2RyLXALoe4FHTorq4pNT-B7MLockHaJtyNgLS-Ute4CZglrYYSRwew
 删除your_desssert 
 删除soso621 
+Wed May 1 19:30:08 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDYwNjIxMn0.dF2xGqpqe1HevFjDqENjsAjUNJAWW26bMqLo7xrInWngnkpnTfvgRgNeDqvT33ck_sQ0jznWVAuFXSfU_lVmCxK3oYbCxxueAHkEbxba4fQVXga4F9LJ7h-jPoztgbQk
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNDYwNjIyOH0.J6IpC6XVud0mACB2V_ztY6aCn0Vln13kOxgfXxbaGJLLNpzTXB2S2Gs07Y36XFvfs_hilOcTIc_NXyzj8HK7llEAo8PQQroYSWN0DbDyM2o4TP3bcXLIiEiugtDrKlkG
+Wed May 1 19:30:37 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除sigmasian 
