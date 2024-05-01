@@ -49,3 +49,6 @@ Thu May 2 03:17:55 CST 2024
 Thu May 2 03:18:15 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除San___San 
+Thu May 2 03:30:14 CST 2024
+Thu May 2 03:30:23 CST 2024
+删除axcvdbs23 
