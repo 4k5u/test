@@ -52,3 +52,9 @@ Thu May 2 03:18:15 CST 2024
 Thu May 2 03:30:14 CST 2024
 Thu May 2 03:30:23 CST 2024
 删除axcvdbs23 
+Thu May 2 03:42:46 CST 2024
+添加yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.47ZGh6pK1nKm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ3WkdoNnBLMW5LbSIsImV4cCI6MTcxNDYzNTc3MH0.igm4rX1ldEi5KY0vWt_lKvt2_rKjgFIlZ1LKow8AcwFnu1Rw6Ej9nYJAiu5YNoV9nZYAGGOdxFB9BYZdjIxehNtb5zl0LooPqlbhWnATOs_k0nw6gOwgJHHpMT_h63o2
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNDYzNTc3Nn0.LMI4q6lEgDfd_5bqCjGW-oYhuuYAdAkyJ8OqD3-NrTlBn171vIbljLNM0toWTeWdiG7NpjaqV9H2pP2wIazVOhYF2P8dVKvWaoE7s1bQP7_Q--jKo8i-gNgkq-mvBtGl
+Thu May 2 03:43:08 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+删除JessicaRewan 
