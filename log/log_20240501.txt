@@ -231,3 +231,7 @@ Wed May 1 19:42:28 CST 2024
 Wed May 1 19:42:49 CST 2024
 删除AkiShina 
 删除_katekeep 
+Wed May 1 19:59:57 CST 2024
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxNDYwODAxM30.beGX_QPIJXKKdWIqdH2bkf-USNuivdIKWLSEdZSzA8RBgv9XhIGA4S2f7dmFOn0jQQ_cVuIK-q_F5ytAVJ1n7e4J9Thg46v-NUdYuLYRc8kcaGC9uKok1S59pfWHiYMo
+Wed May 1 20:00:25 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KnSpmW5bW1yORwQQrnVtYv2Eb9MTr3AjJXC83Aq3Jb_8Xy2YSp-AuBgxB5fuzdw6QwoWmohzOj_7zuemtRKmKw
