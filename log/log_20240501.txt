@@ -245,3 +245,8 @@ Wed May 1 20:39:43 CST 2024
 删除foxylovesyou 
 删除EmiliaGuess 
 删除StunnerBeauty-170cm 
+添加mazzanti_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-3148f6e733684cdc2d383adf96ce86f80a02bc3901d606951740866454515370_trns_h264/playlist.m3u8
+Wed May 1 20:58:32 CST 2024
+添加cool3333 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bOcp3E4oOz75.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JPY3AzRTRvT3o3NSIsImV4cCI6MTcxNDYxMTUyMn0.xR2x0SKuhtvz3vRSwgMG6Kf_tydCT1sh1ucgeLNxLBkHy6odowvrAit1cqB5C5b2KIdZS8EkRL-hQgWO8rAJGwwdEntGOuXrsvdK72BOFGOdINFoQsVjmv9yJJh6WPoy
+Wed May 1 20:59:16 CST 2024
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
