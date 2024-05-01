@@ -282,3 +282,8 @@ Wed May 1 23:20:02 CST 2024
 Wed May 1 23:20:32 CST 2024
 删除dkssudgktpdy233 
 删除emforhs1919 
+Wed May 1 23:33:00 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNDYyMDc4N30.CEfpxCyA7xoNbUU51bGcDpBUVD8ooXykYv-YYW5gmnEVgq9VhV5LdNAwqA3dWklcFfg5S0MzH7-McfdKkStbA4hMBSWJVFD_XgJRgqKSYPGDCYvIqoeb0gxSnGvQVWFX
+Wed May 1 23:33:37 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除your_desssert 
