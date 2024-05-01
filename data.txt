@@ -1,6 +1,5 @@
 oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9b324f6df557df2fec85258bdb9dd8f5b076009a828acff2b2d1c27576f6f043_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
-getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNDU4MDU1N30.8tVWcOrWroJI3EoHgSdGvrcx0opaEXqokgQmxjO1bnVRn2noXZkmL0nYqPiy0TvFoEURWZoPALkXlBUhVXMC2UF5XxNq4v5zN0XT1jJjsGMNCVdoV9QTW7NGqPR4MKT-
 emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDU4NDY4NH0.GMV7lDyO7nmZKJtvD5WrQUEbSrKlpDs0ohFr6FyaOIR2ej_cCvPh7Gzhrsq8K3H_-ka61XMNUSb5AS_K3aWcvYDUompz2Bzi_Yq338l9jLZaIkKs1XWPy9JTqwihM6VS
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNDU4NjM5NH0.l4sG7kcgC1GfrbPm4Dr-B4WpPuugjM1438SS938CmlnHtXwrGO-9I_efqTzDUxfupEytim_lAX2Ynxu1m-_uL6tC9vjQAlAqMpwHNRYaqz9-8DHmYQ-s1O7WIKJz5FKV
@@ -8,3 +7,4 @@ foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8
 your_desssert   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9273725f8d36074cf7e3ac7409063dcc9abf58fc50ea8b961bdc03ceb61d18e7_trns_h264/playlist.m3u8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
