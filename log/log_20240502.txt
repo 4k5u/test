@@ -185,3 +185,8 @@ Thu May 2 15:00:00 CST 2024
 删除2dayday 
 删除getme1004 
 删除EmiliaGuess 
+Thu May 2 15:20:52 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDY3NzY1M30.ct6aoDfEBM9YGuNFIOZp4GrUmqYtP1R8N-yc1krst6kGkZD_YA1bz4DeXQZRq-lzSUPRsOWEThPeUJYqRZjKfJssU5i-KQ25Bx_rMJaO-osSvl1uW5-Q_TyoNNQ9pgc4
+Thu May 2 15:21:04 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
