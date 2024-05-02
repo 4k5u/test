@@ -216,3 +216,6 @@ Thu May 2 17:20:25 CST 2024
 Thu May 2 17:20:38 CST 2024
 添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
 删除oda_assuri 
+Thu May 2 17:33:23 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNDY4NTYxMH0.cO0PKCMObdQIao3njTJPbPQNyuti_cF3HV9k8c8y4AaqD3hsmXyVB4jVA0Bi8kuI97scWGEdS2XvnAqZV-VllGs8jWSG6B8xeEaAKWAgwCE3E5WtWazSv0qBmrjpOrEY
+Thu May 2 17:33:43 CST 2024
