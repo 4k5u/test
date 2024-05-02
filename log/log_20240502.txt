@@ -167,3 +167,6 @@ Thu May 2 13:50:24 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxNDY3MjIyNH0.MSiTKmmp8aea3TGBOJ4l7feip_DW8CtZXyVOhXKFFf39ChCQkIthHQBN_GQxWLR9nQAc3j_2X5Vf3fVZ3rli0diTHbafQh-20yry6-JA310tOVvLzShBScp4McfsvOtc
 Thu May 2 13:50:41 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+Thu May 2 14:02:38 CST 2024
+Thu May 2 14:02:54 CST 2024
+删除ake_mi 
