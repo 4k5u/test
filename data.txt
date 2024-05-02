@@ -9,3 +9,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c95bef2cbdd39209f0ebaff2f4195d15748448debd6e61fbbaa6a11edaddef79_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b8b8247ee298a84b9b03c623f35dd389ec295629ba67449158afe2ce6dbc9b03_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
