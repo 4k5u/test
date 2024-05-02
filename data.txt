@@ -12,3 +12,4 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5fa5ac3e2c3f8da94fb24ef920224a72eaf7f6730ca366a6045ab6e575ce7fb5_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4487809b64de42fe444456f91508eb913e8b15ea0b3de1951f92ecbae4dcf3fe_trns_h264/playlist.m3u8
+ake_mi   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-439d7032f68b4b1d65c1af9b49fa64c0265c2de6f83da294f2f406fe58c3076f_trns_h264/playlist.m3u8
