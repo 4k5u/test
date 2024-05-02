@@ -24,3 +24,4 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDcwNTk2MH0.jQlwiq0j-mcZL6pZhICmdgCxIwBMj9cEEPBfYq87T2o2QCEn-6tBCj_5NkaRgklWuuv8LMIslBhUSZ_43OEoyikp_qQ3G1f92vrrkBQ6ymQHbCklHCaok7fH-J4-TbGf
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
