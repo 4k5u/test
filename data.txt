@@ -11,3 +11,4 @@ kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c168
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 777YikuYiku   https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
