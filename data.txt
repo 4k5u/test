@@ -5,7 +5,7 @@ SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c16837d60334362823edd1568ecb18a23eb992b74d645608fae3341f0b3e14c2_trns_h264/playlist.m3u8
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDcyODA1MX0.4PF3HbGGK6yZUrXsN8nttU1B1YXQdTd_xfMasq8HqGjtLhs3bRBUFXVrC4Y1ZQL2xK0viBUg6m-uzbnRon2ptnZkWfCB_dqltDY1y07LdichI08VMwZmcrZszujq4QIk
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c95bef2cbdd39209f0ebaff2f4195d15748448debd6e61fbbaa6a11edaddef79_trns_h264/playlist.m3u8
