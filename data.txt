@@ -9,3 +9,6 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNDY1OTAzOX0.jdT-mVPaVd0W2RPZ2KDLtnHpnKxgKB9Ir4wwo6yKKjccr84rdmj6ReYApggnTgcNjxDo15GCu4QVW_8E1sEsXvfvFnUnCBsLiEefnzOuZ__ih0JYT9CXUnxEyMm0LcVr
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+ake_mi   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-439d7032f68b4b1d65c1af9b49fa64c0265c2de6f83da294f2f406fe58c3076f_trns_h264/playlist.m3u8
+intim_mate   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-39440be89c813e3da3084a209f699b96fe6b9fb420b0883e5ea07ac198c3d84c_trns_h264/playlist.m3u8
+asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
