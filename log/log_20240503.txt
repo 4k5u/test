@@ -30,3 +30,12 @@ Fri May 3 01:44:01 CST 2024
 Fri May 3 01:44:28 CST 2024
 删除tess00 
 删除dudvv7 
+Fri May 3 01:59:55 CST 2024
+添加dudvv7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vkjtUrV7g9zP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZranRVclY3Zzl6UCIsImV4cCI6MTcxNDcxNjAwNX0.zDGEaWcd_f3CICx-PkVcN4wNc63WslzGTtaZH4RtRCwyLgp0H9Sv8yudVDAMj28g6svvmAy8K2t5FryYghftCLSdVranoBVx7uqtUdaBsSFfZdFDAnatsryZIp2AblA2
+Fri May 3 02:00:20 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除pandaex 
+删除Reaowna 
+删除362540 
+删除eli05021212 
+删除day59day 
