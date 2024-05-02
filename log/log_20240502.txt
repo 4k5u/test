@@ -112,3 +112,11 @@ Thu May 2 07:49:38 CST 2024
 删除morphesoull 
 Thu May 2 08:02:14 CST 2024
 Thu May 2 08:02:18 CST 2024
+添加oda_assuri https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-84be53e271a9fc1fe568c2b292d1b9d2cf83112da99af13a85f273c4c8b9e021_trns_h264/playlist.m3u8
+Thu May 2 09:24:35 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNDY1NjI3OX0.gI_qP30e2n0_wdvJFH2OudUx-A-KQjS7GeTTWOUODnrJnOCuFI9eMyqbO2TOCjAYDY2XR_xyz35M9IHI1TwVAuqKFkSbgCTdY54gVBmOIHsBkTdXHKO9Xqwf6fGHQPhR
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDY1NjI4Nn0.RtFqBdRekifGeGdPBFmLQJvIiccdtuEoffUCSPP5jJcZumyVPNefYJU3es3QTpPXd_O1HEObwvhxCMiiQ7V6yPkZsUHkCL9cbLTjLAsAKhUYVzT64o1tlpAKhhaxbc6O
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNDY1NjI5Mn0.4M5pmLBrImUdP9BcZfQFWAeyT8RagTweA9xtOr_9ZjWYdYbwsQjwLpFniX9FTWoFgFsidwvDNGB5W3q1UauqtZY2vI3EqgKSXdU4CyxkT2wf-ifiIEhVgdHchEll3D3V
+Thu May 2 09:24:58 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除sexygamesx 
