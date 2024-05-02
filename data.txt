@@ -12,7 +12,6 @@ day59day   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDcwNTk2MH0.jQlwiq0j-mcZL6pZhICmdgCxIwBMj9cEEPBfYq87T2o2QCEn-6tBCj_5NkaRgklWuuv8LMIslBhUSZ_43OEoyikp_qQ3G1f92vrrkBQ6ymQHbCklHCaok7fH-J4-TbGf
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
-Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 kiriko_chan   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e01281f61f7d579265ae1934de489a99206eb6d957c4ee1b6f785b6a5e9810f1_trns_h264/playlist.m3u8
 bom124   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNDcxMDI2MX0.4qfzcRWsQvl8-G0XqlnOsIpCM9DuWk1OaGcJiCLT7PZ7NCQMaOR-abNlWid4ytVgHF0Ajdrvf75WrOBIC3esTBoMdktW3pUO5Wtj0xtsEN34fTj7t7SsKYcoTtzKTP1U
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
