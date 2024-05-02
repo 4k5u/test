@@ -1,4 +1,3 @@
-ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDcwNTk2MH0.jQlwiq0j-mcZL6pZhICmdgCxIwBMj9cEEPBfYq87T2o2QCEn-6tBCj_5NkaRgklWuuv8LMIslBhUSZ_43OEoyikp_qQ3G1f92vrrkBQ6ymQHbCklHCaok7fH-J4-TbGf
 kiriko_chan   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e01281f61f7d579265ae1934de489a99206eb6d957c4ee1b6f785b6a5e9810f1_trns_h264/playlist.m3u8
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
@@ -8,3 +7,4 @@ kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c168
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
