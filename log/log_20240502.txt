@@ -313,3 +313,10 @@ Thu May 2 22:53:20 CST 2024
 删除emforhs1919 
 删除somsom0339 
 删除qwas33 
+Thu May 2 23:11:48 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNDcwNTkzMH0.HbWoF9LOlD1-ycLdiWlKOqKVtuDTwF-OgOp4lmrBlAmF-uURVEZrdfzvQoHKVwhSTWOoy-Bi0TJ2WOja-URbInATnUig318mXyJ5qZ_DYVnOzDYc-QfoAuaLuXC3i8mh
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDcwNTk2MH0.jQlwiq0j-mcZL6pZhICmdgCxIwBMj9cEEPBfYq87T2o2QCEn-6tBCj_5NkaRgklWuuv8LMIslBhUSZ_43OEoyikp_qQ3G1f92vrrkBQ6ymQHbCklHCaok7fH-J4-TbGf
+Thu May 2 23:12:55 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除lovesong2 
+删除dkssudgktpdy233 
