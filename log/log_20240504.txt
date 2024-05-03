@@ -96,3 +96,7 @@ Sat May 4 06:03:20 CST 2024
 删除yasexy 
 Sat May 4 06:24:42 CST 2024
 Sat May 4 06:24:57 CST 2024
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fd07b38e8bf18ebfb453e7a85b6337c81baef45cf58cc622f8b6d37aa96612ce_trns_h264/playlist.m3u8
+Sat May 4 06:40:05 CST 2024
+Sat May 4 06:40:20 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
