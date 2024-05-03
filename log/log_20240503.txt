@@ -217,3 +217,9 @@ Fri May 3 16:40:31 CST 2024
 Fri May 3 16:40:49 CST 2024
 Fri May 3 16:52:52 CST 2024
 Fri May 3 16:53:11 CST 2024
+Fri May 3 17:21:54 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNDc3MTMyN30.9aRIarbeYX0MR_wFtM21TYLEljsYaC-Jy03o9WZjlxML-c2wRBQh6LXj9KlUbVBTD7J6c9kyZ7aOn64OvchfRFZjFrhEZKfRmU5uymCkWKVlFJWxGt08d60f1kUEXHy6
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNDc3MTM0MH0.y8vmLT2uUzCSLhg0qrgdCVS1l6r9oZ1wGo8FauvURg95xzoRUDEGsJFnBvnn3XjzsSVJ8y2Gul4XhWKLoyBjuKMpUpyIFYon9Rj-KE9lPeijlGObUF9yPZD3GHKGY9VC
+Fri May 3 17:22:25 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lecNLWcWQ-v1zT9JpuGnoIOeKHSZeldegRDJDaVMmW29eqMmcfWR_O5qy-xtsKiMph5uc2wyCJ6ab6ZQ6VHJYQ
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
