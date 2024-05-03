@@ -248,3 +248,8 @@ Fri May 3 19:10:18 CST 2024
 删除your_desssert 
 Fri May 3 19:22:33 CST 2024
 Fri May 3 19:23:09 CST 2024
+Fri May 3 19:35:21 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxNDc3OTM1MX0.bIbP79ZF8EjYIoh3mX34PPNGvv9qR26KwBXH2g9nIdKQN_fqZ2yZjM_vfjm_6LgPE3lPuake1BRcCuzBStvQrdqXs4fiS58WezaDWH3MoyCfTW1PxkV9Zr80U9sTj3Gs
+Fri May 3 19:36:02 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7oaqpFw_EHrOh9WNxReLdnsAPvK9PgwT5PNp6v7NocGG37aT9ogHXzw16dKPQ2un5TfzMxomAqiuHBDmAxBqoQ
+删除AkiShina 
