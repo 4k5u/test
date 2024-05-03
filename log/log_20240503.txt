@@ -177,3 +177,10 @@ Fri May 3 14:00:22 CST 2024
 删除Sime_Naughty 
 删除dign1461 
 删除ake_mi 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a74b7f1c8089aab4718e685f9ace1edd45ed7554f865a97ae55bbcdfaba2a84e_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5614e659477d48f086271d2ef24ca11cc2213a1ca184fd99cb162b6dbc80ed17_trns_h264/playlist.m3u8
+Fri May 3 14:28:46 CST 2024
+Fri May 3 14:29:24 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.V3Iy149ZeYKfgEi0qdwlpa9YWcYrwlg0utKZeR6-XDo5QOO8iY77YTEmc6oiaCi20a4A-TuEcZVxy3dC6pvYsw
+删除happyy2 
+删除ake_mi 
