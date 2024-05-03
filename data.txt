@@ -1,4 +1,3 @@
-Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-3c2ce01d8960b0b0e99fa103216af7a24b09980fc0dccbc39246c80c57ebbb65_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNDc0Mjk3Nn0.jN9DdFijpQyPeoRRryrRVSPGS_KYVdIAlgljVzrF-5zlb5ADJBdiEBpz7BU0RUoEZcPZ1wQXdowSqY36rBWzEbAP5fXkxaXa7k-MpLN0os5GwttfJITcKtZ001-yCGjk
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNDc0Mjk4MX0.pm3d3yTFakDL_dByHmMij0_36wyV2wbpTe0lS09G7kaqtAyg678h1rbc_YTIsEEObczzPw5AOMZjJVgcJ5dGItjMX3V0L9IcEwGPX16hDaUqe_V9s_4YIFwcQrTN4ujv
@@ -9,8 +8,7 @@ getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
-dign1461   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1G_XdE6Lu5UXr5bxKT96SUtTE90mt_HXA6TxyANVFX60E96gFlXy33TP7y3hT5IU95nWhRh-1-DJfQasBD1bIQ
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
-ake_mi   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a74b7f1c8089aab4718e685f9ace1edd45ed7554f865a97ae55bbcdfaba2a84e_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 your_desssert   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f5f372433a761ca3c55285bd0553a9a3fa7b28ab76c710648766dc34bf7c33d7_trns_h264/playlist.m3u8
+jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNDc1OTIwNX0.46OQuSaA9WW9BORgSOjkN3fcEEmoB-AoBy-fi-4DjOUp9o0lbhuj9CXUyDeBQlle4GdAsm6wr5EyL9-I9GIFAMDR2W9lWdqknCk6l4qzgfhugdQGVgOoDN3Cm-QaRxeK
