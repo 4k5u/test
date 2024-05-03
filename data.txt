@@ -1,8 +1,4 @@
-kiriko_chan   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e01281f61f7d579265ae1934de489a99206eb6d957c4ee1b6f785b6a5e9810f1_trns_h264/playlist.m3u8
-Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
-kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c16837d60334362823edd1568ecb18a23eb992b74d645608fae3341f0b3e14c2_trns_h264/playlist.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDcyODA1MX0.4PF3HbGGK6yZUrXsN8nttU1B1YXQdTd_xfMasq8HqGjtLhs3bRBUFXVrC4Y1ZQL2xK0viBUg6m-uzbnRon2ptnZkWfCB_dqltDY1y07LdichI08VMwZmcrZszujq4QIk
-SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b8b8247ee298a84b9b03c623f35dd389ec295629ba67449158afe2ce6dbc9b03_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
@@ -12,3 +8,8 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNDc0Mjk4OH0.hcOYNifewGerwTV_-hBWb64V0GrPawB1f_DDysG7qnLZFTDftJYtiaCffEQdIcYWHBPfO9OMGDsvGp3Kz9upCOSVDckrDohNT-1ef5c1i-XOpqlaxs7IOIjyJgKwGx9-
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNDc0Mjk5NH0._Eg0pQgbKzfkMZiyzhPmpCNJAJ1VXCCDzL9oVDvw__1eNgiNz63-m1PzPYwHHbGoLapT1KRS3DuJsxJXjkf1Xxa8i1hMYsieR1MYkVuKOmDbSsBi9NZ_1-ZI8_ivEJTy
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+ake_mi   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a74b7f1c8089aab4718e685f9ace1edd45ed7554f865a97ae55bbcdfaba2a84e_trns_h264/playlist.m3u8
+intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-b487b5cb80f3731e721423e7af3c7503cbbfd4cc72413901c555426ef86212a3_trns_h264/playlist.m3u8
+getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNDc0NTY3Nn0.5dxUTkPEHBVIRRjr2UgettQ2Rw5lgoe2my-tX4NBqYJFEDyu88_MlNu8KocWHSN0gcr1you-0yLJBkGNX5O3hVnC8f9ey3Gkjex0N3OxaS56jvmGWWny3kDYUzQwsExj
+asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
