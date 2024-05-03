@@ -1,4 +1,3 @@
-jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDcyODA1MX0.4PF3HbGGK6yZUrXsN8nttU1B1YXQdTd_xfMasq8HqGjtLhs3bRBUFXVrC4Y1ZQL2xK0viBUg6m-uzbnRon2ptnZkWfCB_dqltDY1y07LdichI08VMwZmcrZszujq4QIk
 my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b8b8247ee298a84b9b03c623f35dd389ec295629ba67449158afe2ce6dbc9b03_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
