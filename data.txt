@@ -13,3 +13,4 @@ jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 my_eyes_higher   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5614e659477d48f086271d2ef24ca11cc2213a1ca184fd99cb162b6dbc80ed17_trns_h264/playlist.m3u8
 dign1461 null null https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.V3Iy149ZeYKfgEi0qdwlpa9YWcYrwlg0utKZeR6-XDo5QOO8iY77YTEmc6oiaCi20a4A-TuEcZVxy3dC6pvYsw
 foxylovesyou null null https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-fc72aa7ff9769dbc4af55e3b7983bf422652e24bee9645f2fb3006498996eb0d_trns_h264/playlist.m3u8
+ake_mi null null https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2a034fcd0262584867c469b96edfdcc52063c54b7339acac2b55c961f7de889f_trns_h264/playlist.m3u8
