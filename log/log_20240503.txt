@@ -240,3 +240,9 @@ Fri May 3 18:40:23 CST 2024
 Fri May 3 18:52:21 CST 2024
 Fri May 3 18:52:52 CST 2024
 删除sigmasian 
+Fri May 3 19:09:35 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNDc3Nzc4NX0.AvE_5JU1-t7Hu0uf-ls4TvtiTslcWwlpKNbg2qNj1s6ej95JDnY2CHE1QTZavtPUveyYkuGSDnadkiggH4XD70fJnrv7H1LePROKEUVYXT396WTHWyj7oeTcajvsJRLq
+添加cool3333 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bOcp3E4oOz75.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JPY3AzRTRvT3o3NSIsImV4cCI6MTcxNDc3NzgwMH0.3CrTnb3wUV6oAaatV8YMc11Kc5xjMoldcwfqHvtomDnefAJcaKOnUSUCJJR4dn3_ZmMFcwK43PRHrPmju86BWdV-GVyaX8swwFPadx12c_KZQTy0NNcfFKdSPEGwe7t7
+Fri May 3 19:10:18 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除your_desssert 
