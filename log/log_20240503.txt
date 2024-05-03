@@ -292,3 +292,6 @@ Fri May 3 22:13:15 CST 2024
 删除emforhs1919 
 删除lovesong2 
 删除M--I--A 
+Fri May 3 22:29:33 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZfJYKbS4tkGN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pmSllLYlM0dGtHTiIsImV4cCI6MTcxNDc4OTgyNX0.KDTmLCVyJ4U_EmBy74WiOzJF1d_kxw_pknj-__WG6KpjBmk9_x7CBPgRCLl0cGzxSjOk_GJjR5xUlQs3WrqHGHOlfyYJj8CRTU0K51UjlAPGAR59DRet82Ccew4f-aoU
+Fri May 3 22:30:36 CST 2024
