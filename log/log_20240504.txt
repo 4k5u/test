@@ -243,3 +243,10 @@ Sat May 4 19:17:52 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 删除your_desssert 
 删除EmiliaGuess 
+添加galantini https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-24fcfc509d933f76bbbedf0d787c78aafac18583425e8a697cf2f1b7be13409d_trns_h264/playlist.m3u8
+Sat May 4 19:30:15 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImV4cCI6MTcxNDg2NTQyNX0.5mHQek2GcaN6bBv83s5dtVbGWwEtpqtwJ26vaalAYs98UHqdu9Pnpk4_z5sL7FbTl-2p1ekD1En_Ccyr-vz1eEjVG2PUjRqtZqlNRIexYD7NTg4b-dzkjUJcrY9VrXGN
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNDg2NTQzMX0.m9C9siNSR73OB-T2u4vhTF5nwSKqFtaCGFiDK6y773Kn4vfvmhELlBCdYzDPe0kAqtSacjjFBQfRzZ5v7ygxzDEx4hJYqVEpE5kwjMJUC7VLhFgVMclOzopO2hVhZ9gs
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNDg2NTQ2MX0.NV9KFaosXqtZn05MyA3wfP5s_bmDFZr-S-SH7R-IDY1iNVMT2HMGohWKJTz8glkpLYnhRsx6JPpPh3dxEWvKm7P8LHpF4FE80GVUdxd1F4auZWjiK0poqJYud4tsRedS
+Sat May 4 19:31:12 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
