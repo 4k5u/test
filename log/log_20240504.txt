@@ -236,3 +236,10 @@ Sat May 4 19:00:03 CST 2024
 Sat May 4 19:00:40 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 删除onlyone521 
+Sat May 4 19:17:10 CST 2024
+添加lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImV4cCI6MTcxNDg2NDY1MH0.6AhfxcdDzTCac403ueznK9wcD5NuODnHoxB4lF18oxVOgKBCbC0q15xwMUQO5VXL1JL5ZaJglgEv7dxQb0wuVclQVJP3tahuAhaK6yKRkc08F8ud-Enb8RWDilrAE2Xi
+Sat May 4 19:17:52 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._cEan7sEtHXrTdZJxFIzUhi17I0lYQMXfh5AC9e2EBZ24cs4JuMbtkUuNOA8KZA1uge1jbMsLu7re7eIvv55LQ
+添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+删除your_desssert 
+删除EmiliaGuess 
