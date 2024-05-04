@@ -309,3 +309,9 @@ Sat May 4 22:53:04 CST 2024
 添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNDg3NzYxMn0._YnO4FYFCV-dOxQRZd8QJ4JCzIxyF2IelOiHXr27KCY5-l1y02xSISEFpPPg_X69vN_JbYCHO4zT1Q-LLmQU3owmgvn7bUnsJnAhavAD9w4zT2atPYDhaPAhuiQ53BAI
 Sat May 4 22:54:09 CST 2024
 删除54soda 
+Sat May 4 23:19:23 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxNDg3OTE4OH0.KBT0qFZIR02ay5bHtMbzmgTB8WiPxc0NuD5SBx0IXYZWFgCaqMMqlbjx-86qwD-hRy7irVig7Qw22ZXq0R2prsbtpWGTq0cXppNQm83asE1ammicGnxwqWhvjnPf_Bl7
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNDg3OTIxNH0.MAfwDYMMktMtQ6ZncoC1by_YvYsVxDGUJPuXcnc8In9pUWBeLStd8I21nhaopbnU-jtr1XNHVIBXNw86pC5BOUA-jAdFiY-GID0hI5jQhuj4yH0CdClZ5ue7Op28lp9V
+Sat May 4 23:20:28 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+添加777YikuYiku https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
