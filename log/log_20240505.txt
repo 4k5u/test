@@ -48,3 +48,6 @@ Sun May 5 02:39:55 CST 2024
 Sun May 5 02:40:10 CST 2024
 删除starsh2802 
 删除BadAngels666 
+Sun May 5 02:52:38 CST 2024
+Sun May 5 02:52:53 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
