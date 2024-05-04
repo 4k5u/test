@@ -1,7 +1,6 @@
 San___San null null https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 jjine0127 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNDgxNDUwNH0.ZtVcwm0ebt7iRMZ3FzfkllJ3_ix_QBh0DCy6ETDTFvWP__QMK1tefiaHV1rENJSMHpabq0RAdadbbo2adDe-geaHY1geOIwcdHEoHu2nv69E_87T8GQxQUniKbdnYW6T
 my_eyes_higher null null https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fd07b38e8bf18ebfb453e7a85b6337c81baef45cf58cc622f8b6d37aa96612ce_trns_h264/playlist.m3u8
-Sime_Naughty null null https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 TefFfish null null https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 oda_assuri null null https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-71c56403f1dc7edd2bcc0189a2c77c07c1eeb63211f1ef507e1ecd27b7765046_trns_h264/playlist.m3u8
 happyy2 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNDgyOTA2OX0._iqh60fiOfIPdgGP-wVoG7EDciqd63yfdZYuoLQqyriS_28U0wYcU1JfY8nSnDH49jFMAC4Lt6ppZEr9ovxlb3Y4ZRJPYC9Oao46A2u86sRnIXy7QFuu6RyBiKt9iHLV
