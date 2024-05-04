@@ -285,3 +285,9 @@ Sat May 4 21:50:59 CST 2024
 添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
 删除galantini 
 删除grandeeney 
+Sat May 4 22:03:05 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNDg3NDYyMn0.2kPhoX2Y4QCDuio2RI_U6Y8taVWzFj88daF1fsCWjEvTmaicgbVGOpC8ggNRk2TaJedl6UXohataYwsnJOo_INg-p0nhRK9wdvrnHHZpvT1JyZlFgEvrsb8JaALsvY7h
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxNDg3NDYyOH0.9k7_VmaQUTCSn_3Lw2pp90SlcoRB2P8U5n15bfSqOEL5EulBPmdiLt7f1F55Itfkjd7gfE5rR8Uq--fX0Pg50L5zhta_fbzxaJLY89bC6m6zKNaBEliTWUzgzR2F4Ina
+Sat May 4 22:04:23 CST 2024
+删除2dayday 
+删除M--I--A 
