@@ -299,3 +299,9 @@ Sat May 4 22:25:58 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 删除lovesong2 
 删除eli05021212 
+Sat May 4 22:40:18 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNDg3Njg1M30.txBeCAAm4XTHamOZgtbD2DhD99gn9rIdhV9rSIElKR7sKja8oIzW1ZCxFLzaDcFeUWKng6SXU9y46hjduMiwyXIT2e2VCjwkjRAKMwJzTAtaUkynaOMDZ-75Koe2cYVP
+Sat May 4 22:41:27 CST 2024
+删除emforhs1919 
+删除soso621 
+删除hanny27 
