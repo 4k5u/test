@@ -228,3 +228,7 @@ Sat May 4 18:32:22 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VBxTwwB930OAgvN_WBkqTj3ri_bGYXrna_NUq51duOJNJliTnqYBvIFlz1_Qc5vOC1SNs2mT046Td1Lk4nsylg
 删除EmiliaGuess 
 删除cuddles_me 
+Sat May 4 18:44:00 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNDg2MjY2Mn0.hjDAgrHGoVGrutFA4tt-jKrR4bTSJ0xg51y3C0lx16GAgjkGpJMcpFKk6gc-6q67flwGA6dQdPwCw_WWdvvK0bdSvSFjsAizbV-ZFFjzWHZQtuXsH1rnCHa2CBinLLI8
+Sat May 4 18:44:42 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
