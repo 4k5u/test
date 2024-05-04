@@ -256,3 +256,14 @@ Sat May 4 19:42:30 CST 2024
 Sat May 4 19:43:30 CST 2024
 Sat May 4 19:54:56 CST 2024
 Sat May 4 19:55:50 CST 2024
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-29527181aee34399d975099696acd8224ebbf9104d61ba164fa901f428c99edd_trns_h264/playlist.m3u8
+Sat May 4 20:32:14 CST 2024
+添加imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y5ofSYtw8aXw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k1b2ZTWXR3OGFYdyIsImV4cCI6MTcxNDg2OTE2MH0.fsPBoK8qa2qVNutfl17bR-iYwEj6EnccZlBwYX5Ni0hyYgfLyhOgKZ0uaO4Mpm-aXjB-D8adegVuG-2dVmsT9ehXlzZEBh3rjNRbyIGTH9rTgqe2OBuh1np8NSkUCBgg
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcxNDg2OTE3OH0.LGHOO6hYE7l0JXsdDDHN8AJ6f_Jy3CNnUMJ0PtALRDDettz96-6fSaRxZGwuBhZNfncyQ0NOclMYU0hCMJb71eJA3HNV8VSIwnwOBXLG1mfrNvQLvDA2PfIyl3G-bSPr
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxNDg2OTE4M30.zjBapvdccDDPlghmvJOClpE8WId44ptNtHD320dWfTolfiXfQsJkd81KiVvPRUYtBkEoWH7tAWj2MR4MoEtM9xs9JKL6ThAiZq1N6ilCEosNbiOq4nECDB9aTYysWPdq
+Sat May 4 20:33:20 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YU64syfmRGY4NCzYmhgt-Z8WzJgC3DYjTPFPOo0KHJwrMiAlaGvRjFEi6zfvsSe5jcgQosKaDjP6TiFnmzBSfQ
+添加ii1liii1il https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
+删除my_eyes_higher 
+删除_katekeep 
+删除ajswl12 
