@@ -149,3 +149,6 @@ Sun May 5 11:53:37 CST 2024
 Sun May 5 12:23:56 CST 2024
 Sun May 5 12:24:02 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Sun May 5 12:40:24 CST 2024
+Sun May 5 12:40:30 CST 2024
+删除TefFfish 
