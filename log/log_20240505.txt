@@ -227,3 +227,7 @@ Sun May 5 18:32:59 CST 2024
 Sun May 5 18:50:05 CST 2024
 Sun May 5 18:50:23 CST 2024
 删除my_eyes_higher 
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0a3abff8a45d6a265fddd779e85b9e1320c2d08ed44d3e115b16a87d5df91f31_trns_h264/playlist.m3u8
+Sun May 5 19:02:48 CST 2024
+Sun May 5 19:03:06 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
