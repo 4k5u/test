@@ -16,3 +16,4 @@ ahri0801 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/vi
 M--I--A null null https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 alicelebel null null https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 Reaowna null null https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+mikio_san null null https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
