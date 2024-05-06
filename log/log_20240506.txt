@@ -181,3 +181,7 @@ Mon May 6 16:41:28 CST 2024
 Mon May 6 16:41:40 CST 2024
 Mon May 6 16:54:01 CST 2024
 Mon May 6 16:54:14 CST 2024
+Mon May 6 17:21:25 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNTAzMDQ4OX0.Q1ma6DIZ3CMITvnD7ZhCpn6DspjeZ6zoy9ocbuBzmhLJXcQpkh84IRwvgr3_0wJmlpfUGB75APpsHqQNHx-jzFyfoWQev4yh4dT-ktjr7g4IQZIU-Ur3mjsnwx6YfVdC
+Mon May 6 17:21:43 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Nw_JQ0cArdELns7VnJIoDV65c8jRCPfHZtIef_pbgc5JD2vph89QzGTw5I1Z7XhjXEQUwDNBJ_RmFoy1N8KmmA
