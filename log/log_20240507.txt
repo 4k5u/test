@@ -34,3 +34,7 @@ Tue May 7 02:03:43 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除jubin0725 
+Tue May 7 02:30:11 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNTA2MzQxOH0.AOwIaEnZCFT9-gvd3nNh_beXcncJoYE3XckyqEJKDLO_CJ8toGVkWVzDaJYN1fhGeYUEmguAyCTB-ycba6DOzHyhOVfq2peKf3ipvLalJkXA27JC4L-BzRK_tR2fQSTw
+Tue May 7 02:30:22 CST 2024
+删除homegirl 
