@@ -79,3 +79,8 @@ Tue May 7 05:52:07 CST 2024
 Tue May 7 06:10:59 CST 2024
 Tue May 7 06:11:03 CST 2024
 删除Hahaha_ha2 
+Tue May 7 06:30:08 CST 2024
+Tue May 7 06:30:11 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
