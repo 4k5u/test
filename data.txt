@@ -9,3 +9,4 @@ getme1004 ca0e928e305449f38bf8778b6cc2b87f eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 intim_mate null null https://edge10-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-3131d1bc746e76bad0af4ad29e2d1be2a08b293c4edddaa8cfe15297a8cfaa53_trns_h264/playlist.m3u8
 asuna_love null null https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 ake_mi null null https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b9da49cb0fe8d198d6b6d085950979750d62d2df614e631a19e239af15bf15db_trns_h264/playlist.m3u8
+alicelebel null null https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
