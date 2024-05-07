@@ -194,3 +194,7 @@ Tue May 7 17:49:44 CST 2024
 添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNTExODU4NX0.swCkiAN9d0yS_4qF7Le-jVKYPuX0vbW1iax0S0o2kem1rDxIuGhOUYTVwUBZr47V5O5frGcGuBZMm4lQEN3k8Vl3V3wyzLy_Q_cPk7lKhQGSTbYN3j1nRcKupHWZvfBb
 Tue May 7 17:50:05 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Op6CFBZ0FUDSe6yxCmXnsKZvgGla0uS01LYbyObf5j8eD46zBOqmSw-fJkYonKEPY0cpOCIvfM6Q02kwv5xG7Q
+Tue May 7 18:02:03 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImV4cCI6MTcxNTExOTMzM30.mC4QAT6uPpccS2F4e41QbPcFeiQ_KxKyZCQcmNzf4Rd8q_viRNcJV6hHGFKuR_3Ur3C4OhvHzqQXe5zxnDfxMbgo2p4lFNhJCGmQhFnk_c4jrqJtgvydQRMi8LNYkCwV
+Tue May 7 18:02:28 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.a6xIzu3qKfmaSuDtl6yvPp8fZ-5V3l6wv1ZnBBAF-XlwvBdCmc281TKAbJxhMohHvTF_YHamSXAzCdFVIM3rrg
