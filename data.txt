@@ -1,5 +1,4 @@
 oda_assuri null null https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0206339c24a7227a0b5be0330bf8d7a91e5670fca751bb751dc4fe53b1f56698_trns_h264/playlist.m3u8
-intim_mate null null https://edge18-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-5222a2e9813334a8aad194236c0e75aade500c5469af179303d471a268c04905_trns_h264/playlist.m3u8
 asuna_love null null https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 alicelebel null null https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 ake_mi null null https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4c882f9da5ae7b0fe1b1695c843df2bc63ba774402b221ca374e798de1ec55c7_trns_h264/playlist.m3u8
