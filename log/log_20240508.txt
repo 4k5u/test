@@ -1,3 +1,14 @@
 Wed May 8 00:02:52 CST 2024
 Wed May 8 00:03:29 CST 2024
 删除362540 
+Wed May 8 00:29:34 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XSFMov6umQtJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hTRk1vdjZ1bVF0SiIsImV4cCI6MTcxNTE0MjU3OH0.iVL0yk9zqCJx_fReQP1Ou1vER03nXjM7y5rak4Tdd49OvvmdxJVjbmCEqRs9UKyyEqePg_waSAOFvSH-mTnRjuwm0dBObZZMTTkJzvgF1bAjAVYZA8D7cLMiIOJPwwp-
+Wed May 8 00:30:13 CST 2024
+添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+删除dign1461 
+删除ajswl12 
+删除kjjeong0609 
+删除ii1liii1il 
+删除galantini 
+删除grandeeney 
