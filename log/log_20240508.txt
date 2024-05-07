@@ -91,3 +91,6 @@ Wed May 8 05:59:54 CST 2024
 添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-30489cbbc84b1d2d2892408a2588d739d0b5a35cee3649f6f1a4cf24ee19564f_trns_h264/playlist.m3u8
 Wed May 8 06:21:47 CST 2024
 Wed May 8 06:21:51 CST 2024
+Wed May 8 06:34:34 CST 2024
+Wed May 8 06:34:37 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
