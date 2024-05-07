@@ -27,3 +27,4 @@ day59day a69ede8f52654cad85a5b5aa06cc1789 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e
 glglehddl null null https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zj0teGXeMRfjayAiSz4dTqOPzGBNoMOSpeWBwo8kySlIhV_EWPXGdnI3ARbQgyft6Kjhrwey6Ho2lpJXwmM2Gg
 grandeeney null null https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 sabrina_hk888 null null https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+moem9e9 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxNTEzNzIwN30.gbR45ddBbDKnVbsj62tYd8JxAvEYtIvrq7tjP13JkfuenXrXuOODhVCo6CKmESXAfx8qYr0p8D9Pnx0Tzs1u5BYuxmrFRmQO3aMY99U8Npi7_2krrmo0ndcttUj4Yq-o
