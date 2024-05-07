@@ -8,3 +8,4 @@ gusdk2362 null null https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_
 BadAngels666 null null https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 777YikuYiku null null https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 _PunPun18 0bd913d81c7a45c9a6064ae139968207 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1IjoiN2I1Zjk3ZmZiNDUyNDQyN2E0ZDRkYjQ1MDZiZDMzNGMiLCJ1diI6MTQ1OTgxMjExMSwiZXhwIjoxNzE1MjgyMzczLCJuYmYiOjE3MTUxMDk1NzMsInIiOiIwYmQ5MTNkODFjN2E0NWM5YTYwNjRhZTEzOTk2ODIwNyIsInJ2IjowfQ.ymoR97AzbKbbZC-J3FCeJFhgRk5X1PIHI6L0YocQDDk https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+morphesoull null null https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
