@@ -9,3 +9,5 @@ Akiyama_Key null null https://edge-hls.doppiocdn.net/hls/121137535/master/121137
 BadAngels666 null null https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 TefFfish null null https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 morphesoull null null https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+mazzanti_ null null https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2c3213329b0e8f8dec7a056161f8964d3deb436a3111cdaebc47ae71604ec740_trns_h264/playlist.m3u8
+_PunPun18 null null https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
