@@ -214,3 +214,9 @@ Wed May 8 18:02:55 CST 2024
 Wed May 8 18:32:01 CST 2024
 Wed May 8 18:32:10 CST 2024
 删除Judy0523 
+Wed May 8 18:43:10 CST 2024
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxNTIwODE5MX0.ScFpfnQr_bZo23eTOZId2W9TgUbfirTEHYaDxiysXLFVHi6BE831pbqPzOkEHuJWvGJC217PJYJ_NwjwBhXZkACyytGW7GSEFH35nSs5VeYC8OzVpV5lFUWxMtEFDXkr
+Wed May 8 18:43:25 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除ii1liii1il 
+删除sabrina_hk888 
