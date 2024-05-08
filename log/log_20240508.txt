@@ -234,3 +234,6 @@ Wed May 8 19:32:22 CST 2024
 添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNTIxMTE0M30.-LVEPjiNs8NwYL0PBjm7kGD3kyFOw5ZhpmtuAaQQXeuhm8HLwDGEgF4qd98LaadtaHWiVZ45PwJbi7Vk8NydoYgBDkVWbOmI55tTTJ6mevplu-lh1RdfmcVhJt3w8_yp
 Wed May 8 19:32:47 CST 2024
 删除sigmasian 
+Wed May 8 19:44:42 CST 2024
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxNTIxMTg5OH0.PwdNjDzePAv0EWwW3B9xfjJfJ9zy43YQNnkM8kVhYoVguJ7bY8jYZL-zaxs2PQa8QQG5192ZyM3mg4eavCnazKWnl3H_io69579fBeSjWWzdY87BGlV49iIyiju4YLGj
+Wed May 8 19:45:08 CST 2024
