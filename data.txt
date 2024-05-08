@@ -6,3 +6,4 @@ jjine0127 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/v
 sexygamesx null null https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-221786c1889833ce4fd5d9a5d4d131eaeb1dd6ed33defa34ef7cc175ab8b65ba_trns_h264/playlist.m3u8
 TefFfish null null https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18 null null https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+SanySenise null null https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8

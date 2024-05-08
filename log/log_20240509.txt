@@ -108,3 +108,6 @@ Thu May 9 07:23:28 CST 2024
 Thu May 9 07:40:55 CST 2024
 Thu May 9 07:41:02 CST 2024
 删除SanySenise 
+Thu May 9 07:53:18 CST 2024
+Thu May 9 07:53:25 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
