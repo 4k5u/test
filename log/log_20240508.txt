@@ -229,3 +229,8 @@ Wed May 8 19:20:16 CST 2024
 添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNTIxMDQzNH0.nrbxQLdggjkain4BEWFRe4p4u4kDDdHarQVKgNW09OaaQiYoJNacT3S-30UgPa-a_W9MD5H-1Mz8BXnNAwzRO_8vPKVqx4ilLAKwsJG_JrXPnbXEWCTkjXwqWuG1pUQd
 Wed May 8 19:20:39 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sVHAYj0iMaVsRvp7Na41pUTNdTPqkUGVROukRa6XB6tLoHnZ7anyR0p-eNUZkmT4L7QWQRqNLPg9-6SXj2MSgw
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-93ef8f9c15a71b86db6939b65fad72ced3df8a4b928e9fa0154f792f6712647d_trns_h264/playlist.m3u8
+Wed May 8 19:32:22 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNTIxMTE0M30.-LVEPjiNs8NwYL0PBjm7kGD3kyFOw5ZhpmtuAaQQXeuhm8HLwDGEgF4qd98LaadtaHWiVZ45PwJbi7Vk8NydoYgBDkVWbOmI55tTTJ6mevplu-lh1RdfmcVhJt3w8_yp
+Wed May 8 19:32:47 CST 2024
+删除sigmasian 
