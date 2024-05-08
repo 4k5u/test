@@ -280,3 +280,6 @@ Wed May 8 22:44:18 CST 2024
 Wed May 8 22:45:00 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除okzzzz 
+Wed May 8 22:59:43 CST 2024
+Wed May 8 23:00:26 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
