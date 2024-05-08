@@ -171,3 +171,6 @@ Wed May 8 14:03:34 CST 2024
 Wed May 8 14:03:48 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除Sime_Naughty 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-edf2dbe7b20bb58f12df29d866ac9f24ad4d73d4840a0288a1a2cd292459a579_trns_h264/playlist.m3u8
+Wed May 8 14:25:38 CST 2024
+Wed May 8 14:25:50 CST 2024
