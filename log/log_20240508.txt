@@ -266,3 +266,6 @@ Wed May 8 21:26:30 CST 2024
 删除foxylovesyou 
 Wed May 8 21:40:38 CST 2024
 Wed May 8 21:41:20 CST 2024
+Wed May 8 21:52:47 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ZfJYKbS4tkGN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1pmSllLYlM0dGtHTiIsImV4cCI6MTcxNTIxOTYwMn0.Ju-RTaw1UjWz9Co6Sa244wcQWfitP-qKM4SM2SijY0hUkRVYhJB4-U3iLvwplDwCBOe1aNC5fPI41RwF5MCtRwh7z9NRCKcVgQz7oV8-ecsZwkGcJmgPMivQ8PRYpuad
+Wed May 8 21:53:35 CST 2024
