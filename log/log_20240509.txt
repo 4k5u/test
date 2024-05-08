@@ -48,3 +48,8 @@ Thu May 9 02:54:37 CST 2024
 Thu May 9 02:54:37 CST 2024
 删除3ww1ww3 
 删除mazzanti_ 
+Thu May 9 03:16:00 CST 2024
+Thu May 9 03:16:00 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+删除oki_dokie 
