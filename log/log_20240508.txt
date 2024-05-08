@@ -111,3 +111,9 @@ Wed May 8 07:50:00 CST 2024
 Wed May 8 08:02:33 CST 2024
 Wed May 8 08:02:36 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加oda_assuri https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-dd43def45f78f57b6d43578e04fa9257b414a03d7925361dd82bd77ff99e73f2_trns_h264/playlist.m3u8
+Wed May 8 09:13:20 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNTE3NDAwNH0.i4teSJzqoroSLfOYuO8cSVxXyhcoxoEkVg8JoLb_1HnobDtyoHWR7knbgj6G7oCu4H8zkrDG0LUo2cS3Azs0-JWm2-u5rYEyy8HB66jUejBF3jlR25Y3mwKa1Yhv3e7q
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTE3NDAxMH0.jIaFf_y54AHo-JzcsLHLd-QG3BmAXaJMviVPs4cWKA9mQXEQTmjwu51G8uXq9XA240mizRHAGIOOPomnRjS6ENAnqAB9tMj0MsvyHKKwRtCYJPZ1adKZxXHcJJXp-2Tb
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNTE3NDAxNn0.oSpqFFnnv9BCiHXpj7CHIAgobZmO2qrX_rTfzgNhpxZhUPU55gfSv1Vg4fedopD-ylgRNSycYqGbkIZM69yltMJ226IJ9kZXSjVIwtPZUOL7AbrCsqMuUZrMCcqpFuIH
+Wed May 8 09:13:40 CST 2024
