@@ -6,4 +6,3 @@ getme1004 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/v
 intim_mate null null https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-0e506463f5d0b8c3d1f9c2eceb08c8bfbee7857670ce203308aee317d79a34dd_trns_h264/playlist.m3u8
 asuna_love null null https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523 79992d12489448c39ec6f0abd5c5fb46 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1IjoiN2I1Zjk3ZmZiNDUyNDQyN2E0ZDRkYjQ1MDZiZDMzNGMiLCJ1diI6MTQ1OTgxMjExMSwiZXhwIjoxNzE1MzEwODc3LCJuYmYiOjE3MTUxMzgwNzcsInIiOiI3OTk5MmQxMjQ4OTQ0OGMzOWVjNmYwYWJkNWM1ZmI0NiIsInJ2IjowfQ.hTQzuwNrdSn7Zj9CSy747m-JnsGDTKyz7tW1Qw3-iek https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-mikio_san null null https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
