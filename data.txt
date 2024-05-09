@@ -1,9 +1,7 @@
-JessicaRewan null null https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 dkdlfjqm758 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNTI5OTQwNH0.nj1cpMahImHGfC8wVK21Bwg9HNRlXzejjNtO3gMllwB8SqgY_6gfo1jJSv6IXzAlVbVyPZbp39OI5zdaRGzfBgltkfGYeNeiw4N-nNp-OXWXKenXR_Wf_86muw9QwN52
 starsh2802 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNTMxMzE5OH0.67GsCHN6g6aEnlftgOsYd2LG2TKXhdgBlFT4aI_rdqP8vuQiL6ZaiuNhfgSNsE3sgFdwEOEmyuYVzZ_Qs0yM9esXP8Y7ieDeIdSvvTjPExzNDEodp7yXIdNPYpo-nAtT
 kiriko_chan null null https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-c8cf324fad2010f5bce9b0527e8e98302d00d5a4e7feae6060499ae45cb1995c_trns_h264/playlist.m3u8
 SexyModel-170cm null null https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
-mazzanti_ null null https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-17e8fdb3d11a7818911236ac8e93a83bf7181901a5447a43e56a14198eeccfdb_trns_h264/playlist.m3u8
 kiyoko_rin null null https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-67a8a90e069d65f16bd1437a3168caf455024cec3f0a4c4946f64600da785a93_trns_h264/playlist.m3u8
 Akiyama_Key null null https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 nemu00 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNTMyMjQ5Mn0.uqcJLFrgfigXsmFsSdj1fXz5tMGpuBf5f80yW1OKeE_Ea-DvqSzV70v3n22HUGSjN31X1TB4eyKx1JkGjT9f8b5SRMrv18PqGiaU_EBwL9F5xxcfLUrnxKG4yS8JJGxi
@@ -13,3 +11,5 @@ jjine0127 null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/v
 Sime_Naughty null null https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 SanySenise null null https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher null null https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-26c64bd4d5d66b9b99dffb6dfc14de9ba1e667e8e6d0db87a9a234cedb7d6ac3_trns_h264/playlist.m3u8
+lucille_evans null null https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
+Lucille_evans null null https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
