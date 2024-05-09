@@ -71,3 +71,10 @@ Fri May 10 03:42:24 CST 2024
 Fri May 10 03:54:59 CST 2024
 Fri May 10 03:55:02 CST 2024
 删除BadAngels666 
+Fri May 10 04:20:17 CST 2024
+Fri May 10 04:20:20 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+删除sol3712 
+删除my_eyes_higher 
+删除M--I--A 
