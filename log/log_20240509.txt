@@ -167,3 +167,6 @@ Thu May 9 13:52:47 CST 2024
 Thu May 9 13:52:57 CST 2024
 删除2dayday 
 删除mikio_san 
+Thu May 9 14:26:12 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTI3OTE4Mn0.rmZQynrsNHW9TOH-x5SlWUDUvSp1RqdjKmiuyaAhKZhcpBBdVa5unUkGgQv4KXVeF-7rbJcr0pnhWs70on480dd6WiZm4hzlpZAJWVV4F1mv2dBZCG5fbhBMTEq-a1eB
+Thu May 9 14:26:30 CST 2024
