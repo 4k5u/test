@@ -157,3 +157,6 @@ Thu May 9 12:50:10 CST 2024
 Thu May 9 13:02:10 CST 2024
 Thu May 9 13:02:22 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+Thu May 9 13:26:03 CST 2024
+Thu May 9 13:26:15 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
