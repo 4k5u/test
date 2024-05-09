@@ -132,3 +132,5 @@ Thu May 9 10:43:04 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 删除kiriko_chan 
+Thu May 9 10:49:55 CST 2024
+Thu May 9 10:50:08 CST 2024
