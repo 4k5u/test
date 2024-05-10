@@ -107,3 +107,8 @@ Sat May 11 05:52:38 CST 2024
 添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6249c7756a3c28b222f7e7ab20d61bf704289f149a5d4c7461e8ef329f50b557_trns_h264/playlist.m3u8
 Sat May 11 06:19:56 CST 2024
 Sat May 11 06:19:59 CST 2024
+Sat May 11 06:32:49 CST 2024
+Sat May 11 06:32:52 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除_PunPun18 
