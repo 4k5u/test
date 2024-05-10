@@ -1,4 +1,3 @@
-IdaJonesy null null https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 oda_assuri null null https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-b4c1d167d8cd59febfc87793491c56c3552f91439f343223e149a66571e2bad1_trns_h264/playlist.m3u8
 intim_mate null null https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4e1124677600ffbd08e05031893e29bbaf334c48c43802ebe6919c9bc8aa827b_trns_h264/playlist.m3u8
 4ocari null null https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNTM0NzIxN30.MEZ9m9F-OH5s2CnyEmVJ_c9kaYNTyYuPZwVHgQF-geCe2J_M15T4HGiBzPVUj1Fg6q1PUWlj-M5c80e7iTPSJRKqtKOzWdPqcole9BOf--ULicBq9RaSWcSZDl32ipz8
