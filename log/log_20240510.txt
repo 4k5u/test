@@ -197,3 +197,8 @@ Fri May 10 14:28:00 CST 2024
 Fri May 10 14:28:16 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除4ocari 
+Fri May 10 14:41:49 CST 2024
+Fri May 10 14:42:05 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+删除EmiliaGuess 
+删除your_desssert 
