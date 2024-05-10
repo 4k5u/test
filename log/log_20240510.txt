@@ -230,3 +230,8 @@ Fri May 10 16:40:31 CST 2024
 Fri May 10 16:40:40 CST 2024
 Fri May 10 16:52:55 CST 2024
 Fri May 10 16:53:04 CST 2024
+Fri May 10 17:20:50 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNTM3NjA1NH0.-bsvPB7y7y5idrvaBturdjVot1uiqFiCPjx6maSSeLHCZ9pL6lqZIG-74cLKsM6RJHcQeZ1PHfiB5g_sZ-B-d6WPuTZMzt_D2Bh8koHCSvY1Ej60zuAMFccNbFnLK5eL
+Fri May 10 17:21:06 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._-6FQxSuQRcqdRtk2n3xc1UBYdMgXXZ1w501DC-T8qVVo2PW2JwEyOuJaptJj-PdzEPk5t6Y6Kuwnn8zu1zohQ
+删除IdaJonesy 
