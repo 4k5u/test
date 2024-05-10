@@ -307,3 +307,12 @@ Fri May 10 21:53:34 CST 2024
 删除nemu00 
 删除galantini 
 删除grandeeney 
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-01497f406d91db204565996bde117dbe8ff5dea7cb64bff16254f08a6109fdee_trns_h264/playlist.m3u8
+Fri May 10 22:32:06 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxNTM5NDc0OH0.wA9wmV4aG1KzZ0Wkznhyx3nuM6fffKnPBrtu3lwOiU_unoSiUwR7YYkjTPwwLzEO3UdKpenAodT_3IdDws9Z2S5Vxaie9gGx-Zmgd5ZaTHYT7hJ7-oi3wGjWicLEd26Y
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxNTM5NDc3MH0.Noi1di2F1QNmzeBhv2nmzDCi2XzR1pVgRMMwVV1V7ZY0vMyCL0LlEICYUAXeNqDmoKapJBt7qFtcYYefS4xTp3wma8UDuscK7W232C4ivfodnR4UXfJF6-LbTaM_KEuR
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNTM5NDc3Nn0.aX-EU2Zp6I_6rb37b3Tc37Kk02t44s6Uv0rm0ZLCMVRrLZRieYotofRK8Wvtr_Gi57KJAdOuOiSnu2IUXuOFNQJGAfWUp9qbyzCYqUlFhSrvrjFa-OsfEhQSATmGUKXa
+Fri May 10 22:33:12 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+删除M--I--A 
+删除sabrina_hk888 
