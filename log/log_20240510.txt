@@ -297,3 +297,7 @@ Fri May 10 21:23:13 CST 2024
 Fri May 10 21:24:03 CST 2024
 添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
 删除muse62 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2844b91df1fbd88bd52ab3d30f7a2980d14f8f8080ccc40002c137eeab1e308c_trns_h264/playlist.m3u8
+Fri May 10 21:40:12 CST 2024
+添加pyey3380 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.O36mav8TiKDG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL08zNm1hdjhUaUtERyIsImV4cCI6MTcxNTM5MTYxNH0.dyT4QitRVfooA7HAWCaR5oOHViV9DJ31trCxWSyOPmGdnXqx4KTt7XqBezznKBRIlatXxu0nD2XMoESsNSPluqBmn9u7d08bQ1UJRMqARxvZbnOyaMsISiZ8efcYgOU5
+Fri May 10 21:41:02 CST 2024
