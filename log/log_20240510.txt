@@ -154,3 +154,8 @@ Fri May 10 10:52:12 CST 2024
 删除_PunPun18 
 删除jjine0127 
 删除San___San 
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2337fa442262a37cfb64967f38ced4d43a0b34f6c28df801ad8f8414d3125302_trns_h264/playlist.m3u8
+Fri May 10 11:11:35 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTM1MzkwMn0.oH4i1xxImhpy5Da-YBGVCO-b_9khdWmD4dYL9mZuKxnfsWsL2nHXs3tcq-MZs4-j_vDEYI6quJ2haTFDj3j7LF1-SEPd9g9wMhu9hW5eYV0TkgV2yWoQZRkXd4Pv4Rmv
+Fri May 10 11:11:50 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6flptUWqrFEAlPTcLMVtnx7B8Sxn45VLiLQQ5zOqVmplMIhlAok8kln5ZqilN4wSe8M9ePRscb9H3ug4YuVZUg
