@@ -206,3 +206,8 @@ Fri May 10 14:54:24 CST 2024
 Fri May 10 14:54:39 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除dign1461 
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f833b90ec7ddb4995a21ff81bf104ac543584df92759d5c4e46033dcf9524ef5_trns_h264/playlist.m3u8
+Fri May 10 15:20:11 CST 2024
+Fri May 10 15:20:23 CST 2024
+删除2dayday 
+删除your_desssert 
