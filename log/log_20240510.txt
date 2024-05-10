@@ -316,3 +316,6 @@ Fri May 10 22:33:12 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 删除M--I--A 
 删除sabrina_hk888 
+Fri May 10 22:44:37 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNTM5NTUyM30.54_l_dGtHgOO8fsB4Qbe3c2V__ZDrUd9FmO_VjsSzFLyRGTEiU68eqK8iJB0RgpG7lElGBi-qBWi961W95PhzWwOylLj6NDOHwK-jaYdRh5-Wd4xSVz0q7l5tWhz_mYW
+Fri May 10 22:45:35 CST 2024
