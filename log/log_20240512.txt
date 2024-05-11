@@ -37,3 +37,8 @@ Sun May 12 01:44:08 CST 2024
 删除anystar00 
 删除Daji-Lovely 
 删除charming_NaNa21 
+Sun May 12 01:59:57 CST 2024
+Sun May 12 02:00:35 CST 2024
+添加charming_NaNa21 https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+删除pandaex 
