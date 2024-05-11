@@ -105,3 +105,6 @@ Sun May 12 06:20:18 CST 2024
 Sun May 12 06:20:21 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除sabrina_hk888 
+Sun May 12 06:32:31 CST 2024
+Sun May 12 06:32:34 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
