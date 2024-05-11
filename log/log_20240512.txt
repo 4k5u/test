@@ -1,3 +1,10 @@
 Sun May 12 00:02:32 CST 2024
 添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNTQ4NjU4M30.YuJBXB46XLvG3zkAMPJuxtq1XQYE9rWIRgq9-BXJy3COhZdZqhBQFUd_lMmcEeUtIeqZEAK9Tl7kxwyEsu4s8n_w3s79721SFv0IKaiOHWcU-qWYG8noidESzaWwjY-R
 Sun May 12 00:03:39 CST 2024
+添加kiriko_chan https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-6791839436bcfeb11e87859efef7453b6c27314ac7a65aabbc2617eaa5faeb6e_trns_h264/playlist.m3u8
+Sun May 12 00:29:23 CST 2024
+Sun May 12 00:30:20 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除kjjeong0609 
+删除imissy0u 
+删除banet523 
