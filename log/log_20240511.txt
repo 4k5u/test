@@ -287,3 +287,6 @@ Sat May 11 20:37:52 CST 2024
 Sat May 11 20:56:27 CST 2024
 添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxNTQ3NTQyNH0.Lrdn71KhQkjmzOI7Dt9ayY36HcHjkvVWvV9yNfr2mVr3sNcPl4u1hXTWz7YTp-P6fUZ01mlTWy5far0mi6o2RAPD5axsUkSiFr0GaeCa2vRZax-tVndKX8eUe-1mCaGh
 Sat May 11 20:57:31 CST 2024
+Sat May 11 21:19:43 CST 2024
+Sat May 11 21:20:45 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.df8SQuhgSMJpChGTF-JE-8Nstz5DG27zwUXnW-gjVv2Hmls9d-3SnpP_xxX3HXcs5ch5Zp7O1GpXZWE7HJf64A
