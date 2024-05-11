@@ -221,3 +221,8 @@ Sat May 11 16:52:46 CST 2024
 Sat May 11 16:52:53 CST 2024
 删除Judy0523 
 删除IdaJonesy 
+Sat May 11 17:20:10 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNTQ2MjQxMX0.XdmiAuZDCmOfyxsR4o6YVV4MXfODmn13tkR9-_LTyyGJEiwTy4YK0iwkNbmX0fIk2a3Fc7rNPDWgBF4RIceY8Zfh6N16ndpjcD2RTjmOj70nC8j8_4VP-fRmuA747-7N
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNTQ2MjQxOX0.NyHGpTg8nOtay7FGJqoOhCz9VFVCe3qJD1VDq5Kyfa9Fzf4afqbjZLPtfmssKDoms3KN1NrBLLWZf-GLqMUB5DLpSrCGiVVt84Fi6mJ-Mkzc5bwq4Xcx5OMC84bwUebp
+Sat May 11 17:20:31 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
