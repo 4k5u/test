@@ -316,3 +316,10 @@ Sat May 11 22:50:00 CST 2024
 Sat May 11 22:51:13 CST 2024
 删除Daji-Lovely 
 删除cuddles_me 
+Sat May 11 23:02:32 CST 2024
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNTQ4MzAwMX0.rQnMbcn5fbPB4bgje6UUN-hFS5QouaLe7yfQ2FOI_emnmM_ranON5-GExmvYo74-a-p4HV8UZZGmug4lmLwF5mkMUbQrGR0wdtbk2Zbz0cUJVJB6XCmrGTDbvnxKa0wD
+Sat May 11 23:03:45 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除emforhs1919 
+删除onlyone521 
