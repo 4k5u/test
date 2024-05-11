@@ -29,3 +29,11 @@ Sun May 12 01:19:20 CST 2024
 Sun May 12 01:30:55 CST 2024
 Sun May 12 01:31:34 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bedd67ae4373caa631e4cc1ac5b56fa22afa3b07719774c79e50e653932572b4_trns_h264/playlist.m3u8
+Sun May 12 01:43:34 CST 2024
+Sun May 12 01:44:08 CST 2024
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+删除thgml1212 
+删除anystar00 
+删除Daji-Lovely 
+删除charming_NaNa21 
