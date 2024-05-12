@@ -301,3 +301,10 @@ Sun May 12 20:09:42 CST 2024
 删除foxylovesyou 
 删除acac88 
 删除cuddles_me 
+Sun May 12 20:37:55 CST 2024
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxNTU2MDY5MX0.HyhQ3zfE2sybxcGISfkC1sLrosvYYbVkckMn_zSM6kFmAR8dH-Y6g6E5mKmuGuCmlKJcoTFVDVolgoJ9T4eHLPHP-JxPw8L8URn3KyavamnsHNROE-pfbESo1YHUafZh
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNTU2MDcxNn0.UMpKXhg9Q1Oxn826PiittyijHdVOnT2SWijvDImjhodWDy7tRmu9USq3nVg-aGYs-YW7DWYDxDOfB_iD4gYjYOardgvyo9x4WXhZ2chV8vEZCHgYpRaSt0lSqNIbTmXN
+Sun May 12 20:39:02 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除somsom0339 
+删除EmiliaGuess 
