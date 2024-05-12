@@ -268,3 +268,11 @@ Sun May 12 19:00:08 CST 2024
 Sun May 12 19:00:30 CST 2024
 删除muse62 
 删除EmiliaGuess 
+添加cuddles_me https://edge14-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-7e5f2e4ac3aa6308d5a5c68dd8db1fd498410842c8a518588f43e48d879663bc_trns_h264/playlist.m3u8
+Sun May 12 19:18:17 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNTU1NTg5OX0.clZIxjL4ArpaZuy2rIELFxv3FhuRyI9z7KSXUy1aZtKtLXdISYEM5UQS-MLIsFFLOYGy6FS7m0GUKEX-DGKlePUkP7uIEb1-OPbOzDKCaP9Na6ZW4aEBWtSFSPoSdOuK
+Sun May 12 19:18:46 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Tu61tQ0WIlPObfoBuQ6MGfg0alnKlb6jyxDsHvOu5T6zNXZ6z8uvrdj0R6d9LN-vT8tG-Rskd3YXhs65PqQPcg
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除your_desssert 
