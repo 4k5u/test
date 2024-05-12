@@ -241,3 +241,6 @@ Sun May 12 17:25:34 CST 2024
 Sun May 12 17:25:52 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 删除your_desssert 
+添加my_eyes_higher https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d26b695014a405a73289e6383b1ceb2e17bde28cde0ce38bd91fb961ac9a0103_trns_h264/playlist.m3u8
+Sun May 12 17:40:54 CST 2024
+Sun May 12 17:41:12 CST 2024
