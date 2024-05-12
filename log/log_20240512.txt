@@ -227,3 +227,7 @@ Sun May 12 16:39:59 CST 2024
 Sun May 12 16:40:14 CST 2024
 删除oda_assuri 
 删除ake_mi 
+Sun May 12 16:52:15 CST 2024
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNTU0NzE0Mn0.Z9xbNmtjIjLLm8xFQkHfwn6yrjeAHmDbQg6iNWCQKkv7Mo5Dnvf-w1ISbPuU9K0JBMf6mEDof_vrcJMMy8_476J4cRkYtlJvFMZe6yh8LQLcZYOYPUtXjl_PaUkueJ_8
+Sun May 12 16:52:37 CST 2024
+删除my_eyes_higher 
