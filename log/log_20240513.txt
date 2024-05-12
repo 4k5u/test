@@ -100,3 +100,6 @@ Mon May 13 07:10:38 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除sol3712 
 删除San___San 
+Mon May 13 07:25:51 CST 2024
+Mon May 13 07:25:55 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
