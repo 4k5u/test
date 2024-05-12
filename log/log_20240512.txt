@@ -308,3 +308,7 @@ Sun May 12 20:39:02 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除somsom0339 
 删除EmiliaGuess 
+Sun May 12 20:57:06 CST 2024
+添加okzzzz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d1fcZvHwxE8U.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2QxZmNadkh3eEU4VSIsImV4cCI6MTcxNTU2MTg1NH0.6o5FY3G0xEHsKV_Kvj0jitU4aM_6ms061o7p-qrfdSP51_jFSZ_SMcQ6gIiXIa7a6q5wrjbRk_sqirxcHbZZoGunONH_5ywMP73mYfBP4MX13tuiMAWHtlphBAVlEujN
+Sun May 12 20:58:13 CST 2024
+删除my_eyes_higher 
