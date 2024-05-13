@@ -247,3 +247,6 @@ Mon May 13 19:32:12 CST 2024
 Mon May 13 19:44:18 CST 2024
 Mon May 13 19:44:39 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+Mon May 13 20:00:08 CST 2024
+添加choyunkyung https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vDFU4ny5JbUQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZERlU0bnk1SmJVUSIsImV4cCI6MTcxNTY0NDgxNX0.Qx8gkL3Q4mW5aDvBz_031l_0KSP2IA-l0T_vnDQK92HI3O-mptYgYkEiE9EILAij5NaTu-vOQlj3JF66qSMOLelWFW5qi8gzf9gkdbpH8Oo-efFu7ynesFXS5QTXmIq9
+Mon May 13 20:00:37 CST 2024
