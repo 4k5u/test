@@ -117,3 +117,10 @@ Mon May 13 10:10:26 CST 2024
 Mon May 13 10:10:40 CST 2024
 删除kiyoko_rin 
 删除Akiyama_Key 
+添加intim_mate https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-f37ca88b785c44d2ef32cc09d5e73fcfb44b0cbe92d2180600a83471d7afdeef_trns_h264/playlist.m3u8
+Mon May 13 10:38:27 CST 2024
+Mon May 13 10:38:36 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除kiriko_chan 
+删除_meganmeow_ 
