@@ -156,3 +156,6 @@ Mon May 13 13:23:09 CST 2024
 Mon May 13 13:36:55 CST 2024
 Mon May 13 13:37:04 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+Mon May 13 13:50:09 CST 2024
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNTYyMjYxMH0._72nqUNrA3zvvX-o9GIBiruBOyDOhPa23ZLISAtrk1-CXu0keh_L7Ty_qlnCI0oZmAUbAcTyc4pOLvRswuecwpTgXg2YxMTYxgn1mRhhpe1XNeUnGQ-3fD8aGRsOfvLx
+Mon May 13 13:50:26 CST 2024
