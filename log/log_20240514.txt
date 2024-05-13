@@ -80,3 +80,6 @@ Tue May 14 05:53:29 CST 2024
 添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3f42fc99d48d8f3c3876a3dbd2ca085fcae3536b65f1495651ba7cbcffdbc5a4_trns_h264/playlist.m3u8
 Tue May 14 06:19:59 CST 2024
 Tue May 14 06:20:02 CST 2024
+Tue May 14 06:33:01 CST 2024
+Tue May 14 06:33:04 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
