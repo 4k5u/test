@@ -305,3 +305,7 @@ Mon May 13 23:26:03 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 删除bongbong486 
 删除dkssudgktpdy233 
+Mon May 13 23:41:05 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxNTY1ODA2Nn0.crz1tWPHqYT9BYoJLMHQG-qjugpZs_-eS90l_uZzP2z10Pore79IyfyrIi4xg5jj-RmwPrNZRxSIfCIwC8gpMkJgbwqYRKOlRoq3in34IyF3MJTyQ28dB0RQlnbRwj2W
+Mon May 13 23:41:55 CST 2024
+删除cool3333 
