@@ -163,3 +163,10 @@ Mon May 13 14:03:04 CST 2024
 Mon May 13 14:03:13 CST 2024
 删除happyy2 
 删除lucy_1811 
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-88535f24db9bdff36d265dc5e90620c4f7b40c9ed2bfcac1f6f499a3e3519be7_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-39dd8b3bbc51d53fc79f41601249601727361b3a9918b4cd2bf646193041b7fa_trns_h264/playlist.m3u8
+Mon May 13 14:32:26 CST 2024
+Mon May 13 14:32:35 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除mode_bad 
