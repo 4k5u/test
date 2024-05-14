@@ -290,3 +290,11 @@ Tue May 14 23:03:58 CST 2024
 删除anystar00 
 删除onlyone521 
 删除Daji-Lovely 
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e259d9cfa4b42fde83b78970779871a6f4c26f4754b1b88b97bfb3feddc9dc37_trns_h264/playlist.m3u8
+Tue May 14 23:27:01 CST 2024
+Tue May 14 23:28:10 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除bongbong486 
+删除redholic377 
