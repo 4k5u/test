@@ -281,3 +281,12 @@ Tue May 14 22:51:21 CST 2024
 删除somsom0339 
 删除na2ppeum 
 删除your_desssert 
+添加galantini https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-aafc31ef2601a688551986453a0f6862b2a3131b23e141fc3dda5e6474927d15_trns_h264/playlist.m3u8
+Tue May 14 23:02:36 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNTc0MjIyNn0.1X33s8R5T4n-YGR_FfrwBvUjwW-xt2NuYHpHuceWukOdckOHx1pq3qpCBAtgLt6ECV7moSiv5iERcW6e7MAaMp9sAmsmT5odJDe0JlYocxo9xe_gxrRAskplXzhO2hzB
+Tue May 14 23:03:58 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除lovesong2 
+删除anystar00 
+删除onlyone521 
+删除Daji-Lovely 
