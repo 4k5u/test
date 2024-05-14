@@ -213,3 +213,6 @@ Tue May 14 19:16:57 CST 2024
 Tue May 14 19:17:44 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+Tue May 14 19:30:31 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxNTcyOTQzMX0.blRuLTLxlbvObJOVDPl9rlNvwE61m5DwjdbtvmlxmQ7f_UKqqMLNLdN8YSUdq829zH6JEyLyheF61aoHXo5oZnQ9_cboNChtdobkU-0fFiEROmw09WXu6i3D_-P7egrB
+Tue May 14 19:31:13 CST 2024
