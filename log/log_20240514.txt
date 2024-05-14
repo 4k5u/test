@@ -172,3 +172,6 @@ Tue May 14 16:02:25 CST 2024
 Tue May 14 16:29:22 CST 2024
 Tue May 14 16:29:31 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+Tue May 14 16:43:27 CST 2024
+Tue May 14 16:43:36 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
