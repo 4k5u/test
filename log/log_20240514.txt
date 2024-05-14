@@ -145,3 +145,8 @@ Tue May 14 14:00:06 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxNTcwOTYwN30.jPbnf4eXrbB-CTY4izZyEUgb8393QqNJp31wVDte_j7qfgfyqE6uqy84mkayrlwIruekHvHR2NibCHdZd8VRoJIQQCi7UfGiGqQ0NV4E1t3r3K8uPxZO2MEvp5RnMSLQ
 Tue May 14 14:00:26 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3efa032cc838b79accdfd0a6ae8f7c81cc7ebdf3d13ba43ba297f536b5a44940_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e2c1206cd31bccd4f8744a1040e0957287b657679af0b12e3ca8cd0d65d93f7f_trns_h264/playlist.m3u8
+Tue May 14 14:30:41 CST 2024
+Tue May 14 14:30:53 CST 2024
+删除happyy2 
