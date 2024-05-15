@@ -145,3 +145,7 @@ Wed May 15 11:53:31 CST 2024
 Wed May 15 12:24:18 CST 2024
 Wed May 15 12:24:33 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+Wed May 15 12:41:02 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNTc5MTI2M30.QaVaL4awFZyJtbeEvbtKsf39Kt1XFBb1toD3hRdxDguP56RDkfqqVdOd38LOlURbLWNJzH8jme2K_ecFKhHeufxQUNusmsSZszGTrBWLqWNv3-KSaCLzkRQRd5Cprfdh
+Wed May 15 12:41:21 CST 2024
+删除20152022 
