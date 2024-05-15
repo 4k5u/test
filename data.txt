@@ -10,3 +10,4 @@ TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
