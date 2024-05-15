@@ -1,4 +1,3 @@
-M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 kiriko_chan   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-85ff052357cdbf4706f497f60b1f2b694c91bf4e738eefb6d4d0c365172cb9ba_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pI70B7U7pWM4XOzYLWAhbRhRN5AqpsiFo6pdgl7QITeiVv6iFcBJHD3X4hNEc_nXh25TH-RyxeoJ-yw4W6u8rg
@@ -10,3 +9,5 @@ BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.
 kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1432e58190f1f15fcd2b725ac45ffa3f9c84bc69cd3df38852d51f1f01c13aee_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxNTg0MjQ0OH0.Q_NCeErjaK1OZjvgLJvDp4REQoZ-woum72VHwRIXD4y5sivxl7Be_GtO7By9eRQRh7M0SkWx1_MmIjRehO_Vx9FwlRsADRHBZBx9USQz10Z04AC4p8M0cxPT7HPDwQNm
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
