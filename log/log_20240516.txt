@@ -52,3 +52,8 @@ Thu May 16 02:41:21 CST 2024
 Thu May 16 02:41:33 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 删除pyey3380 
+Thu May 16 02:53:58 CST 2024
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxNTg0MjQ0OH0.Q_NCeErjaK1OZjvgLJvDp4REQoZ-woum72VHwRIXD4y5sivxl7Be_GtO7By9eRQRh7M0SkWx1_MmIjRehO_Vx9FwlRsADRHBZBx9USQz10Z04AC4p8M0cxPT7HPDwQNm
+Thu May 16 02:54:13 CST 2024
+删除JessicaRewan 
+删除na2ppeum 
