@@ -239,3 +239,11 @@ Wed May 15 19:50:33 CST 2024
 Wed May 15 20:02:42 CST 2024
 添加choyunkyung https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vDFU4ny5JbUQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZERlU0bnk1SmJVUSIsImV4cCI6MTcxNTgxNzc3M30.wTFcZ4aGuqXTF4WW-TepOqHRIJD91DswK5JsLOFxmqV-UFukVE17RG3-FMUvc9AdL_xGjR9lEniiwPiIxJaxk2JJQUDOucARefc-G0xcggC_YGpjx7wce86PfnlR--Li
 Wed May 15 20:03:14 CST 2024
+Wed May 15 20:41:47 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxNTgyMDEyM30.5WsdV3YRAM7-rH_g9ZdodTYh10UcLFksU_xOyHdYYstmw5E1Dkf43g9_vCdGXRqy413Oeyid-GMemaWwlr1DZJ9rvTX_vdD6bqaCW-qVqqHT3tYT8f3KrcjL45ogNW1z
+Wed May 15 20:42:21 CST 2024
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.j0DdJg84sUuIdbwUdwl0AWqQAGpkBLA7YTXXcGh1jn06W0MI5_agkbRRFxIC3r9S6ORx43mEyWFQxSCGG3osBQ
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加ii1liii1il https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除my_eyes_higher 
