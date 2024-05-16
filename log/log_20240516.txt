@@ -125,3 +125,9 @@ Thu May 16 08:43:38 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 删除TuTu-1001 
 删除TefFfish 
+Thu May 16 09:46:28 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNTg2NzE5NX0.nfh5KYPx-H7-Y3q6ZL1FMrWGre-QxOFzE464VqzPqh-5AFo66cidoEbjHNL9qc99QKMAqBOH1MFhNqvvJg1DXK8vsYs-EI2bZsJ9ILCkJpfctYf7R5B-oPRGKmsIswXa
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNTg2NzIwMn0.__4Yx8mUBxBhrNDfWfQsplDiwHzDnuMgxm_B3BgYOVmUMwtAFrGqXXXPDxM1b5jgO5SPahcHktqXf6-Vz31gdc4EygBABP2Sr0K6b5ydN9rQiKIZgBwaq0Om7xsOEnR6
+Thu May 16 09:46:48 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除kiriko_chan 
