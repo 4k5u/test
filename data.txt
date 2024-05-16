@@ -11,6 +11,7 @@ getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTg2OTMzNX0.EzVp48ewmzYX7zjB_dljwTqGtpx2OqHafuq0GRNftC7Y4huA-NDlJ_SPh1aAWGe-FxPlrLBEiSRRhPunpJ0sEP0rg-wmeHdhcOTYiFzs6b6d8K7-LwfzUCLRKY2-F8zy
 SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-hyuna0721   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNTg3MzA2MH0.wgqB4BncrXBLFcixUvan7wxF7lj9N1JYnG3twau8_gskCfK0QcFILILeXMxDwbQ23t_B61TN8AxhYp6XeatERW4iS3RCTaWMRM4UppPuhXoOAuovSjJZYBB80er2An37
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
