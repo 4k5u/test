@@ -29,3 +29,9 @@ Fri May 17 01:44:14 CST 2024
 删除ksb0219 
 删除o111na 
 删除Daji-Lovely 
+Fri May 17 01:59:57 CST 2024
+Fri May 17 02:00:27 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加SexyModel-170cm https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
+删除saone451 
+删除BadAngels666 
