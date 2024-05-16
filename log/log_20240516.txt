@@ -244,3 +244,10 @@ Thu May 16 18:35:30 CST 2024
 Thu May 16 18:35:46 CST 2024
 Thu May 16 18:49:52 CST 2024
 Thu May 16 18:50:07 CST 2024
+Thu May 16 19:02:20 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImV4cCI6MTcxNTkwMDU1MX0.aAsCxAg5tM9OiuchAfC87BHHMyBQWA8Y4hwYcwa-gyIQImwvX5wSaTa8P_PYDyZQ6OAHv8MpORzzRsGuEQaxUbOthaBAiqMEzXxQuA8OKT_8J4erOkOnvkyz5QY5u4lh
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxNTkwMDU1OH0.M9XWnm18YXyxDGj93JdoptGXOwDFoS6mDvAOL-FbCOBTzEINQujL15J7mFdXTRGUHL8loiV_7_6vgB7tE8TUmTBcrLjoNa-cTtzKHH3h9MEeKzKaKxBTvOxEiscpQBjD
+Thu May 16 19:02:49 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除your_desssert 
+删除foxylovesyou 
