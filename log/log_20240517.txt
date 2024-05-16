@@ -104,3 +104,6 @@ Fri May 17 06:52:30 CST 2024
 Fri May 17 07:11:31 CST 2024
 Fri May 17 07:11:34 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Fri May 17 07:26:30 CST 2024
+Fri May 17 07:26:33 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
