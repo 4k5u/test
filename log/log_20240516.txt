@@ -208,3 +208,8 @@ Thu May 16 15:42:43 CST 2024
 Thu May 16 16:00:10 CST 2024
 Thu May 16 16:00:19 CST 2024
 删除alicelebel 
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8efaf1657b23917e57b17c29c6b495ffac7b3432c0b6907e66e7984d3c1e482b_trns_h264/playlist.m3u8
+Thu May 16 16:22:38 CST 2024
+Thu May 16 16:22:44 CST 2024
+添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+删除getme1004 
