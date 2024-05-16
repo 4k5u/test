@@ -1,7 +1,6 @@
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-1b3025cc1ccfd1410ed85736232cd90bf8ad9a7d756da13dd12d6cdbb6f5e376_trns_h264/playlist.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNTg2OTMyOX0.fWTLl5JBTx2RQ9Klxiga_iYcozBBkDLQdHHF8Ccz_hirKl5Di5cfYW26_XlK6za0kZPP4dj4m6UXcOQ8oqxynNSy1MRtHXUpI3t6XAh2NzcpBBXXLf86-T9NLxPtLHSs
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 dign1461   https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.PfyQLOa13kMa7R3ZU_zW4cAwoIUn7xF1Q71SxpIaTLEz6mT0GnTU0U1MPZtKXnFD23DGJ7d8yNk4SEieMLM6sQ
