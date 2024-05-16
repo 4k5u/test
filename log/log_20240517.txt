@@ -91,3 +91,7 @@ Fri May 17 05:50:37 CST 2024
 删除3ww1ww3 
 Fri May 17 06:02:00 CST 2024
 Fri May 17 06:02:06 CST 2024
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-df95422ddee3b4e5b2120b79be5a83e8e99f95b61ffaf96a4c764a06da5c4e66_trns_h264/playlist.m3u8
+Fri May 17 06:26:27 CST 2024
+Fri May 17 06:26:34 CST 2024
+删除TefFfish 
