@@ -311,3 +311,8 @@ Thu May 16 22:13:36 CST 2024
 删除M--I--A 
 删除galantini 
 删除grandeeney 
+Thu May 16 22:30:44 CST 2024
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxNTkxMzA2MX0.Z1X94AzEB1hIekK5hEJHrlRQebNe6Vo1symvsmJhwaXWVO6SSybS0KL5rUqt5AYdYlsU0LC9Ipu7XkprYwARgF3u44mwZTj2o93UkWeSbnlblAE_-Ii5sWQDNG5H5_c7
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNTkxMzExMX0.Upk2Z7THJUFPFBfWq28LAyAa1SSutEQlmRUwpygRsmUQY3ir6VrxRDDPmP1BnDYvCylBvbYzBrb-U3uZDAaHkhR6SKWa_VO7n2vlTdaC3b5xv5rGi0MpcSu0m5tTJEHb
+Thu May 16 22:32:11 CST 2024
+删除yasexy 
