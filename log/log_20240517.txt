@@ -80,3 +80,7 @@ Fri May 17 04:49:54 CST 2024
 Fri May 17 05:02:27 CST 2024
 Fri May 17 05:02:33 CST 2024
 删除ahri0801 
+Fri May 17 05:22:27 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNTkzNzc0Nn0.Z7fkO7Gh5ttYl2zP1Hgd3fMnZSWmMtOJ0bFhXVuXXxMDhyOg52e-Fy2MfxSbWL-QbiVezY9nph6KQYbOhI6B4kBsj1mb0fmatcPDU7OMs8nLMJ4tNK-00gNRzx4QqucZ
+Fri May 17 05:22:39 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
