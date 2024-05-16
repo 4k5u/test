@@ -322,3 +322,9 @@ Thu May 16 22:45:09 CST 2024
 删除emforhs1919 
 删除54soda 
 删除flower1023 
+Thu May 16 23:00:45 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNTkxNDkxOX0.UAiVZzveDcpuG67VSODEXZgsi2kHg3kUBtG0dqhTqjqemICq7-XP0eSOncuHiT3mLeNdUlMAUvMCTNKhymNsXR_b1CkguXamZs9kXm-85aQ7Q6ESbNqW4MJDPenevPf7
+Thu May 16 23:02:08 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+删除your_desssert 
