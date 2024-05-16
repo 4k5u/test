@@ -7,4 +7,3 @@ kiyoko_rin   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c90df
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 3ww1ww3   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNTkyODA5NX0.cW0uSElnECsd2UjIApdwyVAhcDSD_s4APUik4RLpt-INdVDoIWEW9fdzN8Q1ijQzCG5POFPWKG3BNNKmhYp-tIhWoWXgkmWpZyDO-v4Ln0JmrZFDpOC2xZb7SW-X-8A-
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
