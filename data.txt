@@ -6,11 +6,9 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNTg2NzE5NX0.nfh5KYPx-H7-Y3q6ZL1FMrWGre-QxOFzE464VqzPqh-5AFo66cidoEbjHNL9qc99QKMAqBOH1MFhNqvvJg1DXK8vsYs-EI2bZsJ9ILCkJpfctYf7R5B-oPRGKmsIswXa
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNTg2NzIwMn0.__4Yx8mUBxBhrNDfWfQsplDiwHzDnuMgxm_B3BgYOVmUMwtAFrGqXXXPDxM1b5jgO5SPahcHktqXf6-Vz31gdc4EygBABP2Sr0K6b5ydN9rQiKIZgBwaq0Om7xsOEnR6
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNTg2OTMyOX0.fWTLl5JBTx2RQ9Klxiga_iYcozBBkDLQdHHF8Ccz_hirKl5Di5cfYW26_XlK6za0kZPP4dj4m6UXcOQ8oqxynNSy1MRtHXUpI3t6XAh2NzcpBBXXLf86-T9NLxPtLHSs
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTg2OTMzNX0.EzVp48ewmzYX7zjB_dljwTqGtpx2OqHafuq0GRNftC7Y4huA-NDlJ_SPh1aAWGe-FxPlrLBEiSRRhPunpJ0sEP0rg-wmeHdhcOTYiFzs6b6d8K7-LwfzUCLRKY2-F8zy
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
