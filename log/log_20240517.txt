@@ -41,3 +41,9 @@ Fri May 17 02:27:57 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 删除thgml1212 
 删除3ww1ww3 
+Fri May 17 02:41:18 CST 2024
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNTkyODA5NX0.cW0uSElnECsd2UjIApdwyVAhcDSD_s4APUik4RLpt-INdVDoIWEW9fdzN8Q1ijQzCG5POFPWKG3BNNKmhYp-tIhWoWXgkmWpZyDO-v4Ln0JmrZFDpOC2xZb7SW-X-8A-
+Fri May 17 02:41:43 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i_PfXQdYDZECEEG42-yIfzSAZq0HUjL-OoB5Yw7Sqyx24LSa_45ctMS0pDRbEwMtGYiEif6_ab0dPcHXMhftiA
+删除pyey3380 
+删除bom124 
