@@ -213,3 +213,7 @@ Thu May 16 16:22:38 CST 2024
 Thu May 16 16:22:44 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 删除getme1004 
+添加_katekeep https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_katekeep-sd-e89a78e5ff47ef72c4bd19049d2dc3c3f1be47b3a4e7c3cf9ff6f4f1af04c2b5_trns_h264/playlist.m3u8
+Thu May 16 16:36:33 CST 2024
+Thu May 16 16:36:43 CST 2024
+删除sonming52 
