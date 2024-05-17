@@ -1,4 +1,3 @@
-kiriko_chan   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2f368d1f9e9e9f8afdb14b26cd783dd88d5e632973681d9568e4a31b944b51b3_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c90dfaa3bb5c09c78c8840fbbb5bb142b7ba62efbdd44d0c2e484984e45a4cea_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNTkzNzc0Nn0.Z7fkO7Gh5ttYl2zP1Hgd3fMnZSWmMtOJ0bFhXVuXXxMDhyOg52e-Fy2MfxSbWL-QbiVezY9nph6KQYbOhI6B4kBsj1mb0fmatcPDU7OMs8nLMJ4tNK-00gNRzx4QqucZ
@@ -13,3 +12,4 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNTk1MjA1MH0.crKadWQCf4kjQO8mkMOQw-69WMkrP3WgVLWYLzzbLwnTuy_5aIGDeXZz37oH9NquNr7MK-46N7L4yD_lZYdq1Wp4_GN-wbVbQIOsoPWYZPw9YkH_JIaXWiWv28ueIfSe
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNTk1MjA1NX0.Wn_4yD1981gVxq4YzD90kALzbn4w8-NLJtHP5fjKQlWq_nGyJZjNbblF1BdHk1k59SU4jM7xE1FWUrUutcF33N4OH1gdc52gAn5BKHLzdgoFkM1BoYB_NTa77E6E5d0-
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8

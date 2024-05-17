@@ -125,3 +125,7 @@ Fri May 17 09:21:00 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 删除dkdlfjqm758 
 删除Sime_Naughty 
+Fri May 17 10:07:58 CST 2024
+Fri May 17 10:08:13 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiriko_chan 
