@@ -142,3 +142,8 @@ Fri May 17 11:02:21 CST 2024
 Fri May 17 11:02:34 CST 2024
 删除jjine0127 
 删除SanySenise 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-009402c7329af28ecc2b4d10f5f6f01b721ce1570788b317525daa6c3d7c3546_trns_h264/playlist.m3u8
+Fri May 17 11:24:59 CST 2024
+Fri May 17 11:25:11 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除_PunPun18 

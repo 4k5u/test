@@ -1,4 +1,3 @@
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-df95422ddee3b4e5b2120b79be5a83e8e99f95b61ffaf96a4c764a06da5c4e66_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
@@ -12,3 +11,5 @@ AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fa00eed3429ae1aa59597eb9aefdd0982e3790285273b73eaecc7461fa19778f_trns_h264/playlist.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-009402c7329af28ecc2b4d10f5f6f01b721ce1570788b317525daa6c3d7c3546_trns_h264/playlist.m3u8
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
