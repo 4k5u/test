@@ -1,10 +1,7 @@
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6221d112eb550d30899d11d09f8466aad37c234769901b56b3bace69b596016b_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fa00eed3429ae1aa59597eb9aefdd0982e3790285273b73eaecc7461fa19778f_trns_h264/playlist.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-009402c7329af28ecc2b4d10f5f6f01b721ce1570788b317525daa6c3d7c3546_trns_h264/playlist.m3u8
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 foxylovesyou   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f2ee12dd3fc661f474e362bc14c2d2268a047ef0336dec89e09374384e058838_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ea77f4f40f8da0c78aba26692647e2b58e23c981349ca93d6eff70ad9f573657_trns_h264/playlist.m3u8
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
