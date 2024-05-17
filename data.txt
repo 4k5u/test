@@ -4,8 +4,5 @@ Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-009402c7329af28ecc2b4d10f5f6f01b721ce1570788b317525daa6c3d7c3546_trns_h264/playlist.m3u8
 foxylovesyou   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f2ee12dd3fc661f474e362bc14c2d2268a047ef0336dec89e09374384e058838_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ea77f4f40f8da0c78aba26692647e2b58e23c981349ca93d6eff70ad9f573657_trns_h264/playlist.m3u8
-StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
-galantini   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-96c195a7a821c50bb3147f103803b96be4efad9496a5a885023ede62d45db7dd_trns_h264/playlist.m3u8
-grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNTk3MzcwNH0.S8kuwmd_6DisqqIP7B7XCHTYER4DGS7CuxAdu2UWTF1ruWNn0XiJFGi7kzEh984EphC3RU8usDL8h2xNeE9f8jt98Lk6WxOR0QhSktHxv4AHxTPCYQ_KSa6n94VWvEUD
 jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNTk3NjE2OX0.0o0lob5THBxex_9vMkKauEucUgdxk1zgHf0HVnh58EtW3QkM-x050SpXL7wXSgSsuHWK4uklAO9ZT37yUkR7ChFzpxotGuTUFmdxw_rX-eOCT6UNX9M-SIdtTI6u9_04
