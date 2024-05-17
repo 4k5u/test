@@ -106,3 +106,6 @@ Sat May 18 06:12:10 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 删除thgml1212 
 删除TefFfish 
+Sat May 18 06:30:26 CST 2024
+Sat May 18 06:30:29 CST 2024
+删除gusdk2362 
