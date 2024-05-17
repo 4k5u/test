@@ -187,3 +187,7 @@ Fri May 17 15:01:58 CST 2024
 Fri May 17 15:02:01 CST 2024
 删除4ocari 
 删除lucy_1811 
+Fri May 17 15:21:45 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNTk3MzcwNH0.S8kuwmd_6DisqqIP7B7XCHTYER4DGS7CuxAdu2UWTF1ruWNn0XiJFGi7kzEh984EphC3RU8usDL8h2xNeE9f8jt98Lk6WxOR0QhSktHxv4AHxTPCYQ_KSa6n94VWvEUD
+Fri May 17 15:21:51 CST 2024
+删除2dayday 

@@ -1,5 +1,4 @@
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6221d112eb550d30899d11d09f8466aad37c234769901b56b3bace69b596016b_trns_h264/playlist.m3u8
-2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNTk1MjA1NX0.Wn_4yD1981gVxq4YzD90kALzbn4w8-NLJtHP5fjKQlWq_nGyJZjNbblF1BdHk1k59SU4jM7xE1FWUrUutcF33N4OH1gdc52gAn5BKHLzdgoFkM1BoYB_NTa77E6E5d0-
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fa00eed3429ae1aa59597eb9aefdd0982e3790285273b73eaecc7461fa19778f_trns_h264/playlist.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
@@ -11,3 +10,4 @@ my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
 galantini   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-96c195a7a821c50bb3147f103803b96be4efad9496a5a885023ede62d45db7dd_trns_h264/playlist.m3u8
 grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNTk3MzcwNH0.S8kuwmd_6DisqqIP7B7XCHTYER4DGS7CuxAdu2UWTF1ruWNn0XiJFGi7kzEh984EphC3RU8usDL8h2xNeE9f8jt98Lk6WxOR0QhSktHxv4AHxTPCYQ_KSa6n94VWvEUD
