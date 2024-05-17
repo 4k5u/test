@@ -278,3 +278,10 @@ Fri May 17 21:40:45 CST 2024
 Fri May 17 21:52:33 CST 2024
 Fri May 17 21:53:13 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+Fri May 17 22:11:59 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7Cfy3ql0Mhx5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdDZnkzcWwwTWh4NSIsImV4cCI6MTcxNTk5ODM0OX0.k510jqmz4dgxB4uxhk8jE3KtnBxCdpcyGm2O-rnW2u6qfHbN3owNUSIeZgOEkQR2q4Q_r5RkBqzzXjTw0HBRfHkYVHKBQmvKPtznwMUWCiV06wADK2EnZrezQPqT_bop
+Fri May 17 22:12:40 CST 2024
+删除somsom0339 
+删除dkssudgktpdy233 
+删除M--I--A 
+删除yourare 
