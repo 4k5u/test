@@ -100,3 +100,9 @@ Sat May 18 05:40:07 CST 2024
 删除mazzanti_ 
 Sat May 18 05:52:18 CST 2024
 Sat May 18 05:52:24 CST 2024
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-25b80bd150f9dc0a8c4642706c21bf95c19109f1c754a3592a1bb75ebffe7f42_trns_h264/playlist.m3u8
+Sat May 18 06:12:07 CST 2024
+Sat May 18 06:12:10 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除thgml1212 
+删除TefFfish 
