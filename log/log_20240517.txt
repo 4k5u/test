@@ -212,3 +212,9 @@ Fri May 17 16:42:35 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 Fri May 17 16:54:55 CST 2024
 Fri May 17 16:55:02 CST 2024
+Fri May 17 17:22:08 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNTk4MDkyN30.sFZId8od2LsqPbh51F7nUeIpmSmcMttYXYuoiQ3E4-KPK5JxYGFe8mR0OZvenAFThkgUmK2w2PmHUn5gpkm4adyV7dusYSIDF4b9NSuK7T3_yBIQbm99vmgAebRFoq4M
+Fri May 17 17:22:20 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nL94bp0x2J2kEB32cEa0XnlIJtJncE_ZrrkAuRtIvlp5yIrAwj4N2g1aGZQ5F35F0IlXk9lufTeY7JNGocPe_g
+删除oda_assuri 
+删除Judy0523 
