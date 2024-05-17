@@ -23,3 +23,9 @@ Sat May 18 01:22:44 CST 2024
 删除lovesong2 
 删除howru010 
 删除ksb0219 
+Sat May 18 01:34:41 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxNjAxMDQ4M30.bEyI6vkWAjHFnsc2gOPBTcA4Vg7lHMS6UMoRuvPF_VUTw3fKAiY8Q3o1fg3tVp006NTRbw_ANvphbt3oL7QiO0Stdia9OEqjlyZkgdDV0OaaGyYbZa62v4EG_Vh6FLvz
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UAaJouFWA7Fx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VBYUpvdUZXQTdGeCIsImV4cCI6MTcxNjAxMDQ5MH0.WrlubZoDe3-MyPttt4WdZFqRxNM243x7AL7F5FThti9y8sc0U-b2BTM8bGSdVygh_uA-GeiHLfcU4717vhyI-IYYP9L610Sx7nIad7olyb0joqki6Qhr3-oBwExXsoeN
+Sat May 18 01:35:32 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CffhIKCIFl_okdeF2Qs854eizujXyDYi9M0JCgEtjh5sdOG64Gv9AIm4TN627Cag9cboDjW-edfL-CSh2VobAg
+删除Daji-Lovely 
