@@ -129,3 +129,10 @@ Fri May 17 10:07:58 CST 2024
 Fri May 17 10:08:13 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除kiriko_chan 
+添加intim_mate https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fa00eed3429ae1aa59597eb9aefdd0982e3790285273b73eaecc7461fa19778f_trns_h264/playlist.m3u8
+Fri May 17 10:35:25 CST 2024
+Fri May 17 10:35:40 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
