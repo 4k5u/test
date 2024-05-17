@@ -10,3 +10,8 @@ Sat May 18 00:42:58 CST 2024
 Sat May 18 00:43:31 CST 2024
 添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 删除jinricp 
+Sat May 18 01:00:08 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNjAwODQxNH0.GJEEjFg-VFCvYapY_9q-oKsMITK9yxuezxf4O8ZFI_RByIE5xm4FqymtSBLpjVnavjEjUrfniIzwTTDPaRT2zcQ0KiQFlWd87LViAoxQgUeIxmpGj5VXnlb26Ayucv1H
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNjAwODQyNn0.NB-RFQ27-jzWqkm38J8PFXxmSCkfSYI7QdgFeG-cHVHU1_rJDykp_-bwYaW1-u3_7vVuKl7FdhMfYCgISisz2AZbFIrJ5deZEsg_EVkCvtxyB5xByhsHSbKGFEwcnzyi
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNjAwODQ0NX0.xmGVZC4bhK0-4NKf5RBfxXUAh2HFtCQrRRj07g6TUSK7timmO7LpDvhx8NUfeR-GTRVWMGhm40-NfBsjEr1KK4S7yom2cBA8cVAkogDiB2Bus9WwN1vlEN7ArnZep0WX
+Sat May 18 01:01:01 CST 2024
