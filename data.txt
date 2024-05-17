@@ -11,3 +11,5 @@ lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m
 foxylovesyou   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f2ee12dd3fc661f474e362bc14c2d2268a047ef0336dec89e09374384e058838_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ea77f4f40f8da0c78aba26692647e2b58e23c981349ca93d6eff70ad9f573657_trns_h264/playlist.m3u8
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+galantini   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-96c195a7a821c50bb3147f103803b96be4efad9496a5a885023ede62d45db7dd_trns_h264/playlist.m3u8
+grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8

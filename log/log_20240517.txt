@@ -179,3 +179,7 @@ Fri May 17 14:12:34 CST 2024
 Fri May 17 14:33:01 CST 2024
 Fri May 17 14:33:07 CST 2024
 添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+添加galantini https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-96c195a7a821c50bb3147f103803b96be4efad9496a5a885023ede62d45db7dd_trns_h264/playlist.m3u8
+Fri May 17 14:49:47 CST 2024
+Fri May 17 14:49:53 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
