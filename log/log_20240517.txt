@@ -291,3 +291,6 @@ Fri May 17 22:31:00 CST 2024
 删除bongbong486 
 删除emforhs1919 
 删除JP-KARIN 
+Fri May 17 22:42:44 CST 2024
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNjAwMDE4Nn0.0y4NXwTqLkzx-W45b4yx12i4WKVoBbKk2c1zbW168JWNeDf_0mjE3W0BfCOPkAU51jsCxP29u-CtfCVnkLQx4Bbr29pbUri2n9-5zJReDqICx3M3VuiIsMdEd5Qctm3v
+Fri May 17 22:43:25 CST 2024
