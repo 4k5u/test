@@ -10,3 +10,4 @@ Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-009402c7329af28ecc2b4d10f5f6f01b721ce1570788b317525daa6c3d7c3546_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
+foxylovesyou   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f2ee12dd3fc661f474e362bc14c2d2268a047ef0336dec89e09374384e058838_trns_h264/playlist.m3u8
