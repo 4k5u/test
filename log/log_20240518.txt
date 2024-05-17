@@ -120,3 +120,7 @@ Sat May 18 07:22:49 CST 2024
 Sat May 18 07:41:12 CST 2024
 Sat May 18 07:41:15 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+Sat May 18 07:54:06 CST 2024
+Sat May 18 07:54:09 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除Sime_Naughty 
