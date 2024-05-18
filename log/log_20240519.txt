@@ -17,3 +17,9 @@ Sun May 19 00:42:23 CST 2024
 删除o111na 
 Sun May 19 00:54:18 CST 2024
 Sun May 19 00:54:48 CST 2024
+Sun May 19 01:16:50 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNjA5NTgxN30.z8WpTrbvvctZ8EjJ695AHp5r-CQKZAKYGgJT-ToWm_2l6zbKivSTN6Ekp-thtnCpy6JjM3BKQZWCigv9KTqqKoSJXKutHjxT2CpZPWTYRSSCWomHAuTYPjRA6DRgPEg9
+Sun May 19 01:17:27 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.o0N0EyztKNINQlVP5lvr73pmCz1Hz5LTmupOVYtk8mEkO_x-JEbwufsvnlII-6ZA7phEGVUznzPH5eX6fivR6A
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+删除eunyoung1238 
