@@ -3,3 +3,11 @@ Sun May 19 00:03:24 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除banet523 
 删除alicelebel 
+添加kiriko_chan https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-5296628690b43c3b90ea8839105aa0bbd62fa5701dadff020f87d976e34ee297_trns_h264/playlist.m3u8
+Sun May 19 00:29:37 CST 2024
+Sun May 19 00:30:13 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除lovesong2 
+删除qwas33 
+删除kjjeong0609 
+删除your_desssert 
