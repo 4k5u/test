@@ -102,3 +102,7 @@ Sun May 19 06:44:45 CST 2024
 Sun May 19 06:59:57 CST 2024
 Sun May 19 06:59:57 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Sun May 19 07:20:59 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNjExNzY2M30.5LcB8mTj26hiLaNbUowUMlGp6EcRtSB1QfMKx5daiLnVKonCn5g83xW96W8lBGclevnoqbghNXBV7AH12gjeK1Dubz0EZZGfzOUGJnhLvdrgDALQEbPnvrpDNYNyeZUy
+Sun May 19 07:21:06 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
