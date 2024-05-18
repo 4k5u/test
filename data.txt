@@ -6,8 +6,9 @@ kiriko_chan   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-529
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 charming_NaNa21   https://edge-hls.doppiocdn.net/hls/44356188/master/44356188_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.o0N0EyztKNINQlVP5lvr73pmCz1Hz5LTmupOVYtk8mEkO_x-JEbwufsvnlII-6ZA7phEGVUznzPH5eX6fivR6A
-BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6f3a8da48f0259e5006c45b1f64a9ca272547fef2e89c9a3d9c2f0bc32a378ba_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+mazzanti_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4597d4d482abe6e4d883bafd6c6599eac69623edd40b0826a2d61eee46c012de_trns_h264/playlist.m3u8
+_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8

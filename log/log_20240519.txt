@@ -60,3 +60,8 @@ Sun May 19 03:21:03 CST 2024
 删除dudvv7 
 Sun May 19 03:33:58 CST 2024
 Sun May 19 03:34:04 CST 2024
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4597d4d482abe6e4d883bafd6c6599eac69623edd40b0826a2d61eee46c012de_trns_h264/playlist.m3u8
+Sun May 19 03:50:04 CST 2024
+Sun May 19 03:50:10 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+删除BadAngels666 
