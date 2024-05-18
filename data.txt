@@ -11,3 +11,5 @@ gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_p
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6f3a8da48f0259e5006c45b1f64a9ca272547fef2e89c9a3d9c2f0bc32a378ba_trns_h264/playlist.m3u8
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
