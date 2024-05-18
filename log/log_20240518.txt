@@ -129,3 +129,11 @@ Sat May 18 09:19:26 CST 2024
 添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjAzODM2OH0.88yQJXZmty3kZqO-rZk1Q6z4Nj_3YL1_ldRzhI0YCstFiM-sruJC25AfarbI5Pn8_2G8fiXdqZlF2lmfwGGNQRiNPxNe_LTVqG60WZmQ3NPl3zZEm6Q4sEoOnjY-x8HU
 添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNjAzODM3NX0.DnX1a02Mv7m2YmV4uC7VQq9xaB4vpYfMGnL1Hr1ru-sCC1bZeYIzDp08HIeCPtL2GDPqM6rJ7mT_qXp-BCpK5jQtVDUA33K2u84r9waLlyw12qxI6RdsvoXV-k8eM55p
 Sat May 18 09:19:42 CST 2024
+Sat May 18 10:06:42 CST 2024
+Sat May 18 10:06:52 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
+删除SanySenise 
