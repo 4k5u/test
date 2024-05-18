@@ -177,3 +177,6 @@ Sat May 18 13:29:29 CST 2024
 Sat May 18 13:29:48 CST 2024
 删除Xenomy 
 删除TefFfish 
+Sat May 18 13:41:44 CST 2024
+Sat May 18 13:42:02 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
