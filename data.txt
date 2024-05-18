@@ -1,4 +1,3 @@
-AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UAaJouFWA7Fx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VBYUpvdUZXQTdGeCIsImV4cCI6MTcxNjA1MjMwNX0.EPjMbix_MXYNK0NX59FuGO44cN1bEVTedGaQyRWnggQJbZlpZcRyyW8CE6kKSqjT61MYD9nkdhoaR5-Io2oXR_jdXY0YxYkIKfR7m1HKnLE7yr-PABaTylrjK1zJ9fRk
 pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxNjA1NDg3NX0._kk6k2ZEOBdHkjjIApFtIT88bhJJf8iBGZrtfvseW8wR4itM1ox-Uk_ksiGWgqyej6Hlom4m2wtVTx4Rxnxm2OeJpHZ840-MBFVbUL1Tbg39V9W8iDAPlb6vxDg5uBwk
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b6df48cbd75c6a48d2e07fddb0f3fa09c672aa93509bc16393d4408d572becf5_trns_h264/playlist.m3u8
@@ -17,3 +16,5 @@ homegirl   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 tess00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxNjA3NDE3Nn0.T14gu3SdJEbR2jelVQKSLgJrgqihu3nIk2O_rB7USjpOgfqemjb44MxPYE_aKyRlBpiFrp_BLpywCOLThJqp-dl9lxRPcOlaK40Ct1_M1bALtYrSYobqK-o59CNW6Qo1
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 JP-KARIN   https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+kjjeong0609   https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4scKwcDwKOBaHlW2yJGIOWCEreb0VLab69HJUrUhs8yMFn6WJXguLKUut5GVWwHkMMCaHC-09-bGcEpAtlx8lA
+San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
