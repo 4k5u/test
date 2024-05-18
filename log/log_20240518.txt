@@ -251,3 +251,13 @@ Sat May 18 18:40:39 CST 2024
 Sat May 18 18:52:21 CST 2024
 Sat May 18 18:52:51 CST 2024
 删除ake_mi 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-af42db38d81630b474a9e669ff19b78925e74e9fc6fb88bef936a8ff595f4513_trns_h264/playlist.m3u8
+Sat May 18 19:15:46 CST 2024
+添加qwas33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bDL9fG4ShenS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JETDlmRzRTaGVuUyIsImV4cCI6MTcxNjA3NDE3MH0.hlg-zCJzc6zhsoMme2Zp9wKrfyAdf8fMs9DkLMi5BP0JOqqJriFLN27kl-3Wm5O8wGlLlmvA0o7ZiGksOiAJp3FSwYm0II6ucMAdr1tNt_GOv9g2CZomvlCFm920Xmmt
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNjA3NDE3NH0.KAedq5m9NjrMG3P9kuhHstPJrMnDK5x1gRnwD9a_zJS8V4oHIeEFKycFrOjSI2n0NeeT436GQoJ_NNKx8npK6jXvnpE_7mYi4AOezYLk-S-6zLKqB9vrNLzYqQbQDrJA
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxNjA3NDE3Nn0.T14gu3SdJEbR2jelVQKSLgJrgqihu3nIk2O_rB7USjpOgfqemjb44MxPYE_aKyRlBpiFrp_BLpywCOLThJqp-dl9lxRPcOlaK40Ct1_M1bALtYrSYobqK-o59CNW6Qo1
+Sat May 18 19:16:33 CST 2024
+添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除hyuna0721 
+删除IdaJonesy 
