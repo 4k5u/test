@@ -304,3 +304,8 @@ Sat May 18 21:50:12 CST 2024
 Sat May 18 21:51:10 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除San___San 
+Sat May 18 22:02:27 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxNjA4NDE3OH0.yZk_w3N6Y97UD-tHyRLOLkrHQC3j-NOu4G5FiacdiLfm4FsnonWRv33ZMYPzrZmQ5LXZp7c_hKEsESp2IAr57jr8TpBrc9ZDBuYuX2FJb-Sfn255wSeuzBsABlYLM-y7
+Sat May 18 22:03:31 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除M--I--A 
