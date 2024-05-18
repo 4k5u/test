@@ -1,6 +1,4 @@
-TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNjAwODQ0NX0.xmGVZC4bhK0-4NKf5RBfxXUAh2HFtCQrRRj07g6TUSK7timmO7LpDvhx8NUfeR-GTRVWMGhm40-NfBsjEr1KK4S7yom2cBA8cVAkogDiB2Bus9WwN1vlEN7ArnZep0WX
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-17cc076900985868b01b5ef873b90821adfc096fce75e85f273977c0e5ea550e_trns_h264/playlist.m3u8
@@ -11,3 +9,4 @@ mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-95c50213bb6f3e17aa34897fbafa2de97039938b0df765a118383271f32de0e4_trns_h264/playlist.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNjA0NTg3OX0.XLzYoDN_WVRsVWVLQICBuekY0cB7FmuHxmaa4iarJakZWmvpOLZaiErieO3RKImKoyOL9Oqlmvj9n0kZMW8EQPjkV-GnhUD6zZRWgGmz1pC74NBofxGRPY998tesb684
