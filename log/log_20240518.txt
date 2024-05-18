@@ -309,3 +309,8 @@ Sat May 18 22:02:27 CST 2024
 Sat May 18 22:03:31 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除M--I--A 
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9b14694121cb3ec317812bfccf0ea288ce3c116312c0ea3479b0224e7172b7fa_trns_h264/playlist.m3u8
+Sat May 18 22:23:13 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7Cfy3ql0Mhx5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdDZnkzcWwwTWh4NSIsImV4cCI6MTcxNjA4NTQ0M30.6SlAFyaVqcDc12SPRVfEhkrx-IIUwXAT4pW5j5AOmxCVpHDTtP8hs0-DxSUDaNXOFf-3E63jNZFyqyPCs_-IrQRr-W52wgrTXPkI1KqJE0XgcfOVqti5S9GHrlR0DrKI
+Sat May 18 22:24:18 CST 2024
+删除2dayday 
