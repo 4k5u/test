@@ -188,3 +188,8 @@ Sat May 18 14:24:52 CST 2024
 添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxNjA1NjcwMX0.QV7nNvaqeIi-UfDUs6nTXi18QomiD8mdEyO2KAGnN0GKE818mdIR9zr-7dzyHpYqCSZMgwK3AiuyrY-WR6tnB-I5rjqchuhQnep00PqHgUbC252LvjE5k6G5TfMjHqRC
 Sat May 18 14:25:16 CST 2024
 删除happyy2 
+添加your_desssert https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c2ee1b95773a420294db2a6d157f7fbbb4fbcded9c2388c4fdb65474c7ab8b01_trns_h264/playlist.m3u8
+Sat May 18 14:40:23 CST 2024
+Sat May 18 14:40:44 CST 2024
+删除IdaJonesy 
+删除mikio_san 
