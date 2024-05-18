@@ -90,3 +90,8 @@ Sun May 19 05:42:07 CST 2024
 Sun May 19 05:54:35 CST 2024
 Sun May 19 05:54:35 CST 2024
 删除TefFfish 
+添加_meganmeow_ https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-49e41431da7718821bf328a21dfcddde0d3cc7c53ddc17c5bdade52442ec25e6_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-018cb600935945e7e447e1a1b40211cf54396622f32898e909411b4717856615_trns_h264/playlist.m3u8
+Sun May 19 06:17:49 CST 2024
+Sun May 19 06:17:50 CST 2024
+删除gusdk2362 
