@@ -263,3 +263,8 @@ Sun May 19 19:29:55 CST 2024
 Sun May 19 19:30:32 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 删除your_desssert 
+Sun May 19 19:42:27 CST 2024
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNjE2MjE1OH0.5b2NyZqeb2czL8B5HiGjE7W9-5oA2RAQvuZz15-99cBPlj3Mf_GcAWCJQADyokCUqwkict0JqlLhltR-wAqOTgCcs8F3uqneBRCIbOeuaVg7x7Epiz2W-FNsABczZcCy
+Sun May 19 19:43:07 CST 2024
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+删除thgml1212 
