@@ -3,7 +3,6 @@ kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-d58
 SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-0cdf71b50933ee5259d66547df84d5ff28fab70785f78db08c41c620f4d12df1_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNjE5NjcwOX0.SpHi-pSD7OrCJHLPOFj_FW3dsxLVM7IdrplG_d7Gksv6_n1nLLy-uxyw34IqRjDUmoNY7EX_UUPudtugeel9Nb3tQOO7tN1E5uhWNbwV7IUPm4fq4cBhy7FyI8i2PyQE
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
