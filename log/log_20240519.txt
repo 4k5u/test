@@ -198,3 +198,9 @@ Sun May 19 15:42:13 CST 2024
 Sun May 19 15:42:25 CST 2024
 删除your_desssert 
 删除StunnerBeauty-170cm 
+添加your_desssert https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2c2db48fe73083e551d6c977cc93eea10b108b380b085587c913594ceff634da_trns_h264/playlist.m3u8
+Sun May 19 15:54:54 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNjE0ODQ5M30.XjcKAMIK1F8_mbASpQ0e8Yz-omAhFiCVf3Pg5IAF0UVHu5yKnDS2zslIPAJZssuWbVUbY2EP8HK6Gt0UD64VbX1SO3jTxLI8FZ9KZzwqPpbegqprwWG6XglO-K0wUJMA
+Sun May 19 15:55:12 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3hax7Lidl9Jf24RyNSSiaQFWReIXoFqUgGeTbTMQQmAst5nC9khZQApU5LGzJWyNK995kE-sReQ6PNp5Bzo_kA
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
