@@ -318,3 +318,8 @@ Sun May 19 22:21:51 CST 2024
 删除bongbong486 
 删除soso621 
 删除Daji-Lovely 
+Sun May 19 22:33:53 CST 2024
+添加pyey3380 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.O36mav8TiKDG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL08zNm1hdjhUaUtERyIsImV4cCI6MTcxNjE3MjQzNH0.j66mytr8RLqHpynUUDrDvlFwqeF0lLjuowpxCFBqsQI5qKQlblAFh5U31yNg_7DSwRUoiAhd5HNunxWm3LKMTfHwkg6PO1vMKcfQTei-P1fbnm_giJUAX4X3KyT3eGLY
+Sun May 19 22:34:45 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
