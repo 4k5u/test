@@ -8,3 +8,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0051fa6a4e79fb96bab583e089d5f34f765f00d6dde2236a6683f644996e77a3_trns_h264/playlist.m3u8
 _meganmeow_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-659c265a89b7a72671e3e3e96118bc27994d362e94e5c42fe05d723a55e637fe_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
