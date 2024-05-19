@@ -177,3 +177,11 @@ Sun May 19 14:27:19 CST 2024
 Sun May 19 14:27:41 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除mikio_san 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1ff688030db9514116cc3fb9b115d95a4de50af5eb3e70bc19d67cdf6404d99e_trns_h264/playlist.m3u8
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2c2db48fe73083e551d6c977cc93eea10b108b380b085587c913594ceff634da_trns_h264/playlist.m3u8
+Sun May 19 14:40:41 CST 2024
+Sun May 19 14:40:56 CST 2024
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+删除happyy2 
+删除intim_mate 
+删除asuna_love 
