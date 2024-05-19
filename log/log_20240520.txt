@@ -53,3 +53,7 @@ Mon May 20 03:21:18 CST 2024
 Mon May 20 03:21:24 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除Daji-Lovely 
+添加mazzanti_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0051fa6a4e79fb96bab583e089d5f34f765f00d6dde2236a6683f644996e77a3_trns_h264/playlist.m3u8
+Mon May 20 03:33:56 CST 2024
+Mon May 20 03:34:02 CST 2024
+删除TuTu-1001 
