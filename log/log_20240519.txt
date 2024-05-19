@@ -273,3 +273,11 @@ Sun May 19 19:59:51 CST 2024
 添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcxNjE2MzIxMn0.F0-C_J1rvOlB0CLvwdd91XprcOP75gj7Kff94VNvBXdrMW_NKhuIoDfVBvWd5rOIpdPxHrfcu6eYOxUutia1GL_jaKTzryK1zR1V5QuwOWduVtVcSQITiou4tjAVeXp1
 Sun May 19 20:00:40 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+Sun May 19 20:18:00 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNjE2NDMwM30.EjLm2fcz8H8y3qrL7jZsjnIdnIFH4PouEYUxeRzFIbs-waV_LJVgdDd8JpRtUAsgn8ClU2heNDMdBAeUuUfZmmrkpVMZ-EN4IxXSpqpNFD2mKp-tJo0mL9Uoh_4RfIyF
+Sun May 19 20:18:49 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lYf_RhBi68Lwofw9Gl6XQg-HTKNJyYwZPDTkUjoNzWELWGIu_M0_bl1jhwAIXXSFSrUNcPHw-z5-ew4TawwN5A
+删除AkiShina 
+删除honey_pinkgreen 
+删除EmiliaGuess 
+删除San___San 
