@@ -323,3 +323,9 @@ Sun May 19 22:33:53 CST 2024
 Sun May 19 22:34:45 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+Sun May 19 22:50:10 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNjE3MzQyMX0.Vgv7xsb5k6vzAEEQYHqhd0a261PRFr5vB7uaj8lJ2zRhqfBz8hNQePjs4XC0GwVamLiquUStUUZNeC7smkmZF6yYsLiwdv-eZfXR0vEbaC_Ai8KiVlpQV6tsPah5WAu7
+Sun May 19 22:51:02 CST 2024
+删除362540 
+删除emforhs1919 
+删除Ryo-sama 
