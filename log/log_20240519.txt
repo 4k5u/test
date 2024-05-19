@@ -204,3 +204,9 @@ Sun May 19 15:54:54 CST 2024
 Sun May 19 15:55:12 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3hax7Lidl9Jf24RyNSSiaQFWReIXoFqUgGeTbTMQQmAst5nC9khZQApU5LGzJWyNK995kE-sReQ6PNp5Bzo_kA
 添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+添加honey_pinkgreen https://edge5-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-f20a9086cdb99639e8c62a896a833f89b00854ad2c837d52556bb075afcdf103_trns_h264/playlist.m3u8
+Sun May 19 16:23:10 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjE1MDE5OH0.DoXtl7_btttUdQZhztUZIj87hbDys0c7zDY4MJ7my_svIbpSaiqGNZq_6j72pNz4v-NKQ6Zd_lmhFopIY71TMX6TTpzpO_WgJv0DZMVYR9BvAtaCKkEzWg3l-vyIBruj
+Sun May 19 16:23:32 CST 2024
+删除alicelebel 
+删除my_eyes_higher 
