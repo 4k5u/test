@@ -226,3 +226,9 @@ Sun May 19 17:34:17 CST 2024
 Sun May 19 17:34:38 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LvL5XAhRuidZDGCGOi0tShAHFg31P6004PvkYI7gCQze_oIzKmollN5bnOOdn9KKNL74FC7v3erb95hW62I1nA
 删除StunnerBeauty-170cm 
+Sun May 19 17:50:08 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNjE1NTQwMX0.FwgH0XjlI1BaMmSbMKbAMiybAYpnVBxDjtXL5G851bASD6hCvdHipWXvbNUdXTj3RuTxrcDHCEndHofpJl9TId2gDTYvjgY_LFwXfa0mbIzHdVY7kAQrMmdKWFyyxNDQ
+Sun May 19 17:50:36 CST 2024
+添加StunnerBeauty-170cm https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除oda_assuri 
