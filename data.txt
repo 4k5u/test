@@ -9,3 +9,4 @@ Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_au
 Lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNjI0MTMwOH0.fZOmhw4SE99sgnLjDx7X8rYKWFiTqePLFx7WCOsFH7bSlG2eh-j19ckIrkPKiy-Xc3Emss2svCpDv-OzoTTsVrwWAoluvEn9qql6z2FG7kwx_-a2Qk-aHXOZgzZnhuLr
+Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
