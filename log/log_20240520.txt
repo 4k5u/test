@@ -112,3 +112,11 @@ Mon May 20 09:34:07 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 删除Sime_Naughty 
 删除happyy2 
+Mon May 20 10:22:23 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjIxNDk0M30.lxC95EHJFKyKvy0BbykkNaR9stosdDUbqSWOCIHbHRfMRzLD9eHDFoI7YHBSZlZoKJMp94c-WzKAn_KyzYskqZD6t9A3wtLhVVUuvv94fiUHorViFDxPDo1u45PLE6hw
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjIxNDkxOX0.PFURFhbE1glh5YdbLN1UdrLYt5v0fhNER17LYlHj4NescKB9uSZVzVG3CRszdxms8IMNOTe-irN-xWA32nndvWgKGvQUSeaMRvHvmGlJbJAJzyE97jyOkz9-tTa0o8E_
+Mon May 20 10:22:43 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiriko_chan 
+删除kiyoko_rin 
+删除Akiyama_Key 
