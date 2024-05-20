@@ -120,3 +120,7 @@ Mon May 20 10:22:43 CST 2024
 删除kiriko_chan 
 删除kiyoko_rin 
 删除Akiyama_Key 
+添加intim_mate https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-523122bd9f210b9e1c0a71a7099c3058bc5cd78f3c0ebc2954c7540563217913_trns_h264/playlist.m3u8
+Mon May 20 10:44:43 CST 2024
+Mon May 20 10:44:56 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
