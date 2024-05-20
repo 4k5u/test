@@ -2,8 +2,6 @@ somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_
 oda_assuri   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-293e12293ba010819022e399e6d40ff6106992dc47449740a362539b26e0929a_trns_h264/playlist.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjIxNDkxOX0.PFURFhbE1glh5YdbLN1UdrLYt5v0fhNER17LYlHj4NescKB9uSZVzVG3CRszdxms8IMNOTe-irN-xWA32nndvWgKGvQUSeaMRvHvmGlJbJAJzyE97jyOkz9-tTa0o8E_
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-523122bd9f210b9e1c0a71a7099c3058bc5cd78f3c0ebc2954c7540563217913_trns_h264/playlist.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 chuchu22   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ChS44Co1wr8M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NoUzQ0Q28xd3I4TSIsImV4cCI6MTcxNjIyNTg4MX0.Hl2RYayzm1oAxHRczv1Zm1ydOk2bxnd-9dwha8CPhUB3rG8AT3_yZJIQvK8Th1MjPxIwB40p1On-2xJYznTqjQzB1LXL9rJMROEX-SB_ip58N7wevoyZnwAFpOR0pwWr
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
