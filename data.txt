@@ -8,3 +8,4 @@ muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8

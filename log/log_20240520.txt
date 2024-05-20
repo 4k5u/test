@@ -190,3 +190,6 @@ Mon May 20 16:50:08 CST 2024
 Mon May 20 16:50:17 CST 2024
 删除IdaJonesy 
 删除EmiliaGuess 
+Mon May 20 17:02:24 CST 2024
+Mon May 20 17:02:33 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
