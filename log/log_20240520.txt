@@ -202,3 +202,9 @@ Mon May 20 17:41:54 CST 2024
 Mon May 20 17:53:57 CST 2024
 Mon May 20 17:54:10 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+Mon May 20 18:23:00 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNjI0Mzc4MX0.T-80uC_PMwyNvHrKcRanpxrY0YXCHCVyHdbdDQKiFHYSuLIkyZfO-AmEirInZdtkZFDcWR1flBkDlJB6PRibsjiBEO48dv2J7jNwXpvWqtKjgoD7UEjteLOMydgTNdOM
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNjI0Mzc5N30.EqNNdxMjt0_W2DXB1Un6-ZlmRaZtSJZqr4UxJzwWtTh5D5FOH64X1fbt55sML7xCfa7_YlN304FYA-7ad9jXyzGi98T-xYCIZ17skRSNmBVuu2g-UbbcGulRZjJqaq9N
+Mon May 20 18:23:22 CST 2024
+删除Judy0523 
+删除chuchu22 
