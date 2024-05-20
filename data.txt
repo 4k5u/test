@@ -1,6 +1,5 @@
 somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iwQ-02EoU8WZNnisCYG68dJ2jxgX-jTqXsxOwTFni_osPaCCQ_NgH1j4A-qy1TWLf8CeUDbXnJ_T2fm0UzN6Nw
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-d589118c20609c444407886a5c4d1d6f5b7ef2ccaa5a9271b02a6c966e36eae3_trns_h264/playlist.m3u8
-SexyModel-170cm   https://edge-hls.doppiocdn.net/hls/131577839/master/131577839_auto.m3u8
 kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-0cdf71b50933ee5259d66547df84d5ff28fab70785f78db08c41c620f4d12df1_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
