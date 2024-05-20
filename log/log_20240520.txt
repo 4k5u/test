@@ -232,3 +232,11 @@ Mon May 20 19:52:37 CST 2024
 添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxNjI0OTE2N30.xwhwTzhhDtzbdohgDoVtaEYFYdwtC8pMGbLJv_ePkOqKj9oeHNqNyauZ-ZMV2FkUlt2NxVOzTdnMRGzCcdedoGBHNqrNq-6zsfmzyW6hQs2Z41JO1YjJezSDzYxxjAsz
 Mon May 20 19:53:11 CST 2024
 删除EmiliaGuess 
+Mon May 20 20:38:09 CST 2024
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxNjI1MTg5OX0.GBrE1cZHdUpV9yONL_eH6HpgiZ-9h6iRcgof9wQ6QIaJCUJgbfZh_Hm0lOGCGkFGBBVr6vnMt7OWdv4L9suAJJen0hS0cBh3mRC8Enj9ck4HwoVRpiSVJLbk_X0jOipm
+添加dudvv7 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vkjtUrV7g9zP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZranRVclY3Zzl6UCIsImV4cCI6MTcxNjI1MTkyNn0.aGjJ84ZG3rw_c43rOpayMeq98NqFMmfYZagCJBlBzufSlnYXxQq14IPSjFq38awLEvfoijsofyhyvYNcpVivroFoNO2nFVpG9kWf8DLRYqjYy-JTMiqZmJj3pR98DZBH
+Mon May 20 20:39:01 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除muse62 
+删除mikio_san 
+删除Happy-_-puppy 
