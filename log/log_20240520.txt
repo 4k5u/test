@@ -218,3 +218,8 @@ Mon May 20 19:03:01 CST 2024
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxNjI0NjIwMH0.l5ydnF-rXUCf2flyHinjSNH2vygS2la-1Yb103K4pQbbw390H4IbXqhXuokDPb53_psiz3FczpDa1w5VvF3rdUEpdT5Cfc8E3mi_5-hZQlCJ4FwFzpsngdOz2SzEXM09
 Mon May 20 19:03:29 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+Mon May 20 19:23:47 CST 2024
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxNjI0NzQzN30.QK1vifBNCpafwQYA9iJxfBBY6OxLNNmqQecFRIyOkYZYVjAMhdnh8gdtEOCpHxBsD7wu2PhAYg442UwpOziR2j9B1ly_sM4sPnDDmVrmX-BF2vjN-wfOurTQMuP10VRH
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNjI0NzQ1M30.AjpDp0L8xvBYHEUkATW4XmX1iaGUbqkKyS1R7bEPca053_glSyltYRgX6RcUdp2UkxQ22Q-19ycel7J5lDumNQKmXGBio-Hv8_g-jU4QNqJKiFeu7wTu8p3nrir_aFAt
+Mon May 20 19:24:22 CST 2024
+删除Daji-Lovely 
