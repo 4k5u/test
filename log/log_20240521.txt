@@ -120,3 +120,8 @@ Tue May 21 10:07:42 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除kiriko_chan 
 删除SanySenise 
+Tue May 21 10:36:30 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjMwMjIwMX0.MX3dT0r-Wvw08_3nEqQt-uJlIcE9kTfzW0Od_6JkyjIr7Cu737XGcK2pCxd9pqwuxLfvu9hMxugJrNFFfPffPgG16TyCPlfrIXs2oeIJDwbJKeRr3BPtGA9tSaSP_Hh8
+Tue May 21 10:36:46 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除nemu00 
