@@ -247,3 +247,5 @@ Tue May 21 19:19:39 CST 2024
 添加M--I--A https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
 删除dkssudgktpdy233 
+Tue May 21 19:31:09 CST 2024
+Tue May 21 19:31:57 CST 2024
