@@ -171,3 +171,7 @@ Tue May 21 14:31:09 CST 2024
 Tue May 21 14:31:22 CST 2024
 删除happyy2 
 删除Xenomy 
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a0bf79221004aacd16d8fa00101971b30312a5668242a5621b805a616ae462b4_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ba718692d8a690b19a46a4e418c48a20b1c935985168f6cbb36153fc4ccd39ae_trns_h264/playlist.m3u8
+Tue May 21 14:44:28 CST 2024
+Tue May 21 14:44:37 CST 2024
