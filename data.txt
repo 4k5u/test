@@ -10,3 +10,4 @@ EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m
 StunnerBeauty-170cm   https://edge-hls.doppiocdn.net/hls/133445364/master/133445364_auto.m3u8
 Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
