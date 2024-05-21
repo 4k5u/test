@@ -1,5 +1,4 @@
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxNjMxNDUzMn0.MlQQC1ejHK852wghyQtYDxkoJPiiuqKnUGSD5HCsMCn2VDCIyaVUz3cJYNjM3PQny6e02F1eN3CrJnMSkyx_V4Gjum_FU2uwelhU8W0WdaUx6F0w92xLI01i8ya_y5Sp
 ake_mi   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-958dff064390e62b95026cb27079c009536eb6b19264879e6568df893f2a0457_trns_h264/playlist.m3u8
 foxylovesyou   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a0bf79221004aacd16d8fa00101971b30312a5668242a5621b805a616ae462b4_trns_h264/playlist.m3u8
