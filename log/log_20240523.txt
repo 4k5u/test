@@ -49,3 +49,6 @@ Thu May 23 02:44:11 CST 2024
 Thu May 23 02:59:50 CST 2024
 Thu May 23 03:00:14 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Thu May 23 03:18:38 CST 2024
+Thu May 23 03:19:00 CST 2024
+删除na2ppeum 
