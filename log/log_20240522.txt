@@ -244,3 +244,10 @@ Wed May 22 19:50:31 CST 2024
 Wed May 22 20:02:28 CST 2024
 Wed May 22 20:02:50 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pPskW9Cxqg7GjZiy0BbwmKu6xraVQlom06ZnNQ4h_xpiLTNva_7QsSQ0BLzscspU8zhtG15i_xSxU0twk4qO6A
+Wed May 22 20:41:18 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxNjQyNDg5NX0.amDr5mTpoT6FygmIIMMTCwr1rftyo1JvsqblCq1-CQ1dTXI_YEhWfRs32CMCREopn3WsT-A0_16AOrNw94XcN6cOXdz71puNe6zbMa8D7LpyR_MCJdK3Zis-cChX3pPr
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxNjQyNDkwMn0.EGUHTqYOJqpASU4OuHNlwDUjrLa0nS12VFi6dEgYLD2K2CmU72Gt6g3xS6jJ7n_JlUGaMV-gwIa4VhAP_jQfOQhDMGxTvK1F0lar2qur5116WSV907EHpcYe6UFl3Hit
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcxNjQyNDkxMn0.fTbMgkHGPSq0fz-48p-llsPick3oSZz1YY8BW34xJlBAjA_MZ-O1P1RBwC-x1YmK1snFoXMcELAdBG85QR3NFX0fm8iHqoxbULRCQGfhL-9cd8py83DoKp1l3kyZLfv9
+Wed May 22 20:42:01 CST 2024
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.v79Uvv1IOANiy_ZolN9eJbZaM6Al0CQ0oE8B6ftXeQWMibrP5fZlAh0Obhd5gVQVIPmhH_69Gz4FA_9weW9z5g
+删除dign1461 
