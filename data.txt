@@ -1,5 +1,4 @@
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-chuchu22   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ChS44Co1wr8M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NoUzQ0Q28xd3I4TSIsImV4cCI6MTcxNjM5OTM1N30.8akRGVUPBKzzWkRpQET-jBEUQKsc2akdq-ZD75jy28UN-R2n0lRjIdgPDysUj7fxcR9yugVEzJXELrGKhJF6NaIjX44kMMrh9tmeNzaMeW5MV1n7pMEldqHTwm0w2EF9
 your_desssert   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-495488e6f2bc06659283adde457fa9dcb94c784d4e65a3369db67e00fb6df8fb_trns_h264/playlist.m3u8
 jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNjQwMDIwNX0.H6fBlGowZrBXTsQ5XpB1Apfy9Ed4Sy7f-3g0AN3Zd1YAYNouAomppYI5YyK4KmoiciJwUPVPj5FZt_xdhFrLpQUVknaYuXxWWQ4T4LYrE00S2GG7JdrcZVDS-5621I--
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
@@ -9,3 +8,4 @@ ake_mi   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fd6d772b2f92d
 sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxNjQwNzQwNn0.qBUDtyShulN9BgyocmCK-uhmd7Azfzm4vLr-ozrrVQss7My22WI1bm1NPVrR8v--nc-K2pXozItzdH0IDhHsVmWEzc6ZIWdjxvxNP_trNi0w8vD9hUs8QNfhsZZsAG1y
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Q6CIkGGf1XW2jHvgibo-zX7BEYLAOsyUBN14gTogeDJRoGF1nlesMwsiP76J0lvAaL52K2OxfTESROdK9SEKjQ
