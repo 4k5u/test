@@ -237,3 +237,7 @@ Wed May 22 19:21:06 CST 2024
 Wed May 22 19:33:02 CST 2024
 Wed May 22 19:33:21 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kC0dsu1F05lSaNorv_zbyVXIUj-nhLYZ_5hkFUk7-hXjr9TII-LjnXRBL7VSF6DBcVEa1jM4IEUWvXb9zfW_SA
+Wed May 22 19:50:06 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNjQyMTgyNX0.iIh2FbLgdmglL35uQJ7sEAXqF8whCbviPLzw9zMHhcRg68Mth09nTDTgoiuwPnTXqmlaiylec4ZE9tZshoZoMQOSDSfFs5gcBlgV29pCmyR0NsovGKtnPe6y-K-3eJhI
+Wed May 22 19:50:31 CST 2024
+删除AkiShina 
