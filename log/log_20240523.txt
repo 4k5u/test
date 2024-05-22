@@ -102,3 +102,6 @@ Thu May 23 07:23:59 CST 2024
 Thu May 23 07:24:00 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Thu May 23 07:41:14 CST 2024
+Thu May 23 07:41:14 CST 2024
+删除San___San 
