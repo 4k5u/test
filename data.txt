@@ -5,7 +5,6 @@ homegirl   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kiyoko_rin   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4e0c87c32f94fcc1461f192e581c95895d2f9a5616e4707302ed331f6d93444b_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yLc4oyp4LqP6Zz9eg4h1rbWL4HdYaB46GdYGLwKiutdzX5vwqBIefp6DyHruOtJK_mGMVGUzLSzljOvcz6ztEQ
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8

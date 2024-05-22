@@ -87,3 +87,6 @@ Thu May 23 06:18:54 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除thgml1212 
+Thu May 23 06:32:57 CST 2024
+Thu May 23 06:33:03 CST 2024
+删除TefFfish 
