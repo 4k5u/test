@@ -25,3 +25,7 @@ Thu May 23 01:33:53 CST 2024
 Thu May 23 01:34:18 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除eunyoung1238 
+Thu May 23 01:50:08 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImV4cCI6MTcxNjQ0MzQxMn0.VAXHCA6VBe5EYdCZEDK-r3YMqs-gzizlSdFFLUIuv--3r9vxtdZV7IIHxA05pGI7hbhfeZjTQl7d2A26406pORA6bP_4QxyH_fskmGRn5_QRO5Jw-q6fesNtESWco4vT
+Thu May 23 01:50:35 CST 2024
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
