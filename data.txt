@@ -4,7 +4,9 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 homegirl   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNjQ0MjQ0M30.RTtoWtI8iLToV6SN4L8NiHONIykDFY_q0NUdzHp_fuCxoI23zpaLUdgtZ7cseXU6lPlk19dNZFwD9F7QIVR9Oe0tuMoc0dOKwfrHzYmPEfxeYg9HeQ6qfXuf07g5_ler
 kiyoko_rin   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4e0c87c32f94fcc1461f192e581c95895d2f9a5616e4707302ed331f6d93444b_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yLc4oyp4LqP6Zz9eg4h1rbWL4HdYaB46GdYGLwKiutdzX5vwqBIefp6DyHruOtJK_mGMVGUzLSzljOvcz6ztEQ
-thgml1212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImV4cCI6MTcxNjQ0NjYyN30.ULTljHGG-Zqk5bTLSBPodsVjs819ig40sHaAPwkKJJMVrRavio4L0XyvwSEaDWFWCBVrtUt-D0OF2HGDWORjFCj7txzomJ0-q_asETqc_ludBV6HLkN150xAKfnYoS8-
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
