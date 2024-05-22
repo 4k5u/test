@@ -13,3 +13,4 @@ Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto
 M--I--A   https://edge-hls.doppiocdn.net/hls/82290028/master/82290028_auto.m3u8
 your_desssert   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f53e42041ff4de1fce164ef03cad90b43663bea9f86e0ec9d1f16aa0c395cff0_trns_h264/playlist.m3u8
 kjjeong0609   https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wMZbKTh1ZL2XmuGbSgmh8MbyBIMymPARynAgXckEd28VQV7ZSDpIPb7TcbZHhEBvP0tEwwKoukPM10XUAJQwTw
+eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kC0dsu1F05lSaNorv_zbyVXIUj-nhLYZ_5hkFUk7-hXjr9TII-LjnXRBL7VSF6DBcVEa1jM4IEUWvXb9zfW_SA
