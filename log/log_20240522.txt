@@ -265,3 +265,6 @@ Wed May 22 21:26:28 CST 2024
 删除JessicaRewan 
 删除Daji-Lovely 
 删除TuTu-1001 
+Wed May 22 21:40:01 CST 2024
+Wed May 22 21:40:30 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
