@@ -5,5 +5,5 @@ jenny9999   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 kiriko_chan   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1a4d81a858ae9ea4302c9568de83d0ef6b80679644e371f2df6b17bcae1864d4_trns_h264/playlist.m3u8
-BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 iminako   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-f572c00b8ee2f0c1d2deac17be7ac2719759c95590189c8bdaeb7eb11139d2bc_trns_h264/playlist.m3u8
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
