@@ -295,3 +295,10 @@ Thu May 23 21:41:32 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除hanny27 
 删除mikio_san 
+Thu May 23 21:53:03 CST 2024
+添加choyunkyung https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vDFU4ny5JbUQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZERlU0bnk1SmJVUSIsImV4cCI6MTcxNjUxNTU5OX0.Qkieu-Fi3cLCh7YLxX6BjX-TkkZdmc3k6f8YhGV8VRTuaXg4NbI-XV7eikytseywbFXVuVstcz020h6RPu-gPYsCR5cw_oSI76paz111vdWx3fKPed4e6eLG_jlU6auq
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxNjUxNTYyN30.riQm22GrYQGguSuC--OCFJQDXXbbVY6m2ZU1i13c12hTiworl5_i9s41qQe0lCP2C9kaI-MF3QNqmj7SKfVF_T9FlHqECPqnJDJ_q_mYALOIJ69AYK6RoNDO_4fJDMAj
+Thu May 23 21:54:30 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OQBRGe2Jww07_nUQDEXxrnc1GtEp7MAqOjKtZdGd0jL-73_Q7S0Spfpqbx04fYNFVNDrQ_eaKyTbj8p8uEjd0g
+删除foxylovesyou 
+删除ii1liii1il 
