@@ -222,3 +222,7 @@ Thu May 23 17:35:53 CST 2024
 Thu May 23 17:50:08 CST 2024
 Thu May 23 17:50:26 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zt6l9de8VfL9CnBFir3Qr9jKR2ErB8e_WeCH0vfqVDpwzSZF6Nm3-j1uaMW3qmaXglPxnXGMC4tOb_EUrKBFUQ
+Thu May 23 18:02:46 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImV4cCI6MTcxNjUwMTc3Nn0.PWYBQ9aPW1k7STuqQua-p7I3I0srhb8BgKIihdHcHw74FLU6wYFAh72hbKDdP8q-9gb_IB8CRlsUnS1VkcaLgkTvxilJHi86jia51MHtXxFJVc3d_7y51nn-RU8BwVrP
+Thu May 23 18:03:11 CST 2024
+删除mikio_san 
