@@ -4,5 +4,4 @@ pyey3380   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 jenny9999   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxNjUyMDkzN30.1nYrus0A5I2x2EeZFR436ULH0GOdU3TpgFNKEPUbJ23qboaEYRQjG1V8nZuSGtUQvUzK34jBQ1qylJMhkaJQLMS-ksFTZd-Erl6JO1J11e2OtQIk9_Wc1uQ4UXAFKrse
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 kiriko_chan   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1a4d81a858ae9ea4302c9568de83d0ef6b80679644e371f2df6b17bcae1864d4_trns_h264/playlist.m3u8
-iminako   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-f572c00b8ee2f0c1d2deac17be7ac2719759c95590189c8bdaeb7eb11139d2bc_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
