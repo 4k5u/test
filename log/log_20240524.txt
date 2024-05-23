@@ -108,3 +108,7 @@ Fri May 24 07:40:21 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 删除_PunPun18 
 删除Xenomy 
+Fri May 24 07:52:52 CST 2024
+Fri May 24 07:52:58 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
