@@ -1,7 +1,4 @@
-kiriko_chan   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-7d5ed4163f5a3f3ff697088e2d0e1cd0b53aebeb5d239667495a729f427de3bd_trns_h264/playlist.m3u8
 starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNjQ0MDQyNX0.f0MGPiRC4meil3g5WPF6SZfuY7ial223d6fdT-Bi4_Y_C3lKCoglh0hSdidqU-JwTYOZtrPMOdQYjI7EDuZZdFbQRj9RiuJPI6hSHfeAerD4c26rcddioWKtsXncsCwu
-kiyoko_rin   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4e0c87c32f94fcc1461f192e581c95895d2f9a5616e4707302ed331f6d93444b_trns_h264/playlist.m3u8
-Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
@@ -12,3 +9,5 @@ San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2c9584cef6e36caee5d584030be3c5ca5f72f15c7d1f714c77031fe1a4f552a0_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNjQ3MDM5Nn0.aorBc8do-q5mSW2a4LhS1Y6455_hDPxPcEAQin_v4PoXOsz2ETx_6P4uSUwzQgYV4_K0ExfZdr1RV0NZeMtCKIrUQz2JggFGFr_TBiIF9s29Z0_cBRwkyXp9DHePI8tl
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjQ3MDQwM30.l1r_NeOqg6PQTQHIWPqVnN2Np2OyxPk0eLXvixhu-tiY2DPFoec8jWI8krj6lX8o4L2_g-5N4wHPMgQjDCGhRKpVAlV8zK3LeVenaJm-JkJ4IdBz2Wqd_zR3HUV7kO1P
+Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
