@@ -1,5 +1,4 @@
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2c9584cef6e36caee5d584030be3c5ca5f72f15c7d1f714c77031fe1a4f552a0_trns_h264/playlist.m3u8
-2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjQ3MDQwM30.l1r_NeOqg6PQTQHIWPqVnN2Np2OyxPk0eLXvixhu-tiY2DPFoec8jWI8krj6lX8o4L2_g-5N4wHPMgQjDCGhRKpVAlV8zK3LeVenaJm-JkJ4IdBz2Wqd_zR3HUV7kO1P
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
@@ -11,3 +10,4 @@ IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m
 foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-aeff3f4bb9c57075d7ab075afafd7ecf39407044f5b85d1fec48af115bee338c_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjQ4OTA1MH0.UqMakOe6TCF_pM8gMV89z8qPT0cH91khINrs6rElMQmfYzhh6hKpSVN4NA4ABdiO9O_3HKcxxpKuia7Pf276nOcg2lijBxfsjQwXt9VK3jReIHjVQ8UDFE2qEgcbqc57
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNjQ5MDgxMH0.vCSHeYT1bmo7EypFXMOnDR1IAYfCv0tmsYTMqdQLE5AAWrRLsnzkqGsFmXm-Nk95fbq7D2wtsTFnHTznn8nOvGak55gu5tzufCQP6thIkG9q16lzgI9Q1fjeo3_PPIqm
+sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
