@@ -235,3 +235,8 @@ Thu May 23 18:32:22 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除your_desssert 
+添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-af8de6c91d6402112f54a274bf7342a2172d7da1fa68a714925330b6c73d5840_trns_h264/playlist.m3u8
+Thu May 23 18:44:12 CST 2024
+Thu May 23 18:44:42 CST 2024
+删除ake_mi 
+删除your_desssert 
