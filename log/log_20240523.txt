@@ -302,3 +302,6 @@ Thu May 23 21:54:30 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OQBRGe2Jww07_nUQDEXxrnc1GtEp7MAqOjKtZdGd0jL-73_Q7S0Spfpqbx04fYNFVNDrQ_eaKyTbj8p8uEjd0g
 删除foxylovesyou 
 删除ii1liii1il 
+Thu May 23 22:10:39 CST 2024
+Thu May 23 22:11:57 CST 2024
+添加ii1liii1il https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
