@@ -1,7 +1,6 @@
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2c9584cef6e36caee5d584030be3c5ca5f72f15c7d1f714c77031fe1a4f552a0_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 chuchu22   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ChS44Co1wr8M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NoUzQ0Q28xd3I4TSIsImV4cCI6MTcxNjQ4MzgxMn0.mrpfWFqyR_q7cKITAqiZlseyC71t1tEjzaRxHhqNDSFnlPhGlyjFUoOwcSA2qVAHULNLyHHrwxQQndRjeF5kieWiWNP46fNmnHvgUoBTfvfSV8stfWXCcPDVq4vYbe-p
 your_desssert   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-7038dfb0e4a7dd0b2e0083b2abe4a68eb3c6ed3d3f564369f6e509795fd7ea71_trns_h264/playlist.m3u8
@@ -11,3 +10,4 @@ foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjQ4OTA1MH0.UqMakOe6TCF_pM8gMV89z8qPT0cH91khINrs6rElMQmfYzhh6hKpSVN4NA4ABdiO9O_3HKcxxpKuia7Pf276nOcg2lijBxfsjQwXt9VK3jReIHjVQ8UDFE2qEgcbqc57
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNjQ5MDgxMH0.vCSHeYT1bmo7EypFXMOnDR1IAYfCv0tmsYTMqdQLE5AAWrRLsnzkqGsFmXm-Nk95fbq7D2wtsTFnHTznn8nOvGak55gu5tzufCQP6thIkG9q16lzgI9Q1fjeo3_PPIqm
 sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+ake_mi   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1ea01ee1f89fd4ea11f8e05eaf0cd3787579ed4ca906cb672f24dd7362c025a8_trns_h264/playlist.m3u8
