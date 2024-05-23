@@ -281,3 +281,9 @@ Thu May 23 21:00:56 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 删除Daji-Lovely 
 删除qwas33 
+Thu May 23 21:24:27 CST 2024
+添加bom124 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8uMFjMP1LmT4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzh1TUZqTVAxTG1UNCIsImV4cCI6MTcxNjUxMzkxMH0.GKgMSSXRY-lRVmAcZKmGICXzfng-5gmW3kQVwK8ejsWPe4aYpPaWoYoko2aVZGJBWJX7CvFTUHW_EBReSlxKp8RhzdmnOKqY4uYBdrdzxoqJzdz4ME1KeR6OibXMumua
+Thu May 23 21:25:34 CST 2024
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.in6uyMq4Ex99Q3lq0PYccjP7hLjrce7ZWeBGKc14hzxmJYkUUm0u6kpyLrkVmQoqRDsDjn6tI7UrvoNCAmwd4Q
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-F0-2eOgbWgbU1adm0sAwk1DUCqHl4tZXoP4SD71hO6FiMYn7NDyrsZd6gwHGQ52PdtjKL1YHb5qTsiuCEadKQ
+删除muse62 
