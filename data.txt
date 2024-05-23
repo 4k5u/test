@@ -1,5 +1,3 @@
-starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNjQ0MDQyNX0.f0MGPiRC4meil3g5WPF6SZfuY7ial223d6fdT-Bi4_Y_C3lKCoglh0hSdidqU-JwTYOZtrPMOdQYjI7EDuZZdFbQRj9RiuJPI6hSHfeAerD4c26rcddioWKtsXncsCwu
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
@@ -14,3 +12,4 @@ eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_maste
 cuddles_me   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-eff58409e82f28e60fe47bdd4ab247c5c76a2a32e34b814f94d9a65e55008a89_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 ake_mi   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cad65093419d1cbf72c8da4c32eb7e38bd84d6416e8e14ef1aaadeedd14650e6_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
