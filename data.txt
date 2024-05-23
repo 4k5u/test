@@ -1,11 +1,9 @@
-San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2c9584cef6e36caee5d584030be3c5ca5f72f15c7d1f714c77031fe1a4f552a0_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNjQ3MDM5Nn0.aorBc8do-q5mSW2a4LhS1Y6455_hDPxPcEAQin_v4PoXOsz2ETx_6P4uSUwzQgYV4_K0ExfZdr1RV0NZeMtCKIrUQz2JggFGFr_TBiIF9s29Z0_cBRwkyXp9DHePI8tl
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjQ3MDQwM30.l1r_NeOqg6PQTQHIWPqVnN2Np2OyxPk0eLXvixhu-tiY2DPFoec8jWI8krj6lX8o4L2_g-5N4wHPMgQjDCGhRKpVAlV8zK3LeVenaJm-JkJ4IdBz2Wqd_zR3HUV7kO1P
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjQ3NTAxNn0.Udxhcyx8dTY5LskfHFjDM2phkBkJ4vwCGpb4WH1FOLn_OnE255CvyihOY2-OqJYwKT8amyd0UEo92p93TLBJIgWYbgRJqjkLthwWglzw7Haykd6yte7SfwoskIkiKZeE
-eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4jlQFZQYhck68fRyWN3_zMMsL8pPigYXQxirCGWM9HMWMPfyI2sis9qZq9-B_uAx0IpTDOtVvVZynCb4YEPVVA
 cuddles_me   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-eff58409e82f28e60fe47bdd4ab247c5c76a2a32e34b814f94d9a65e55008a89_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
