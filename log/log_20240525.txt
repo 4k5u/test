@@ -28,3 +28,7 @@ Sat May 25 02:26:19 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除choyunkyung 
 删除dmsdms1247 
+Sat May 25 02:41:27 CST 2024
+Sat May 25 02:41:42 CST 2024
+删除jinricp 
+删除day59day 
