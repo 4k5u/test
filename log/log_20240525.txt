@@ -67,3 +67,10 @@ Sat May 25 04:41:41 CST 2024
 Sat May 25 04:54:01 CST 2024
 Sat May 25 04:54:13 CST 2024
 删除362540 
+Sat May 25 05:19:28 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNjYyODc2OX0.1m8y4-qQRhE1alHjuCdmYTHrKsjF5f3yVLf2m53h4vyll0X2mBnrqVDTpmRlLqc1NdtoyScIYi_PQm3vY7yenYMLHrbJiCN53m0p3NjGYQlWGudLHNqJVREiJovsuPvf
+Sat May 25 05:19:41 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除jenny9999 
+删除pyey3380 
+删除homegirl 
