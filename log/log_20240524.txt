@@ -117,3 +117,11 @@ Fri May 24 09:20:34 CST 2024
 添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjU1Njg0NX0.KRKr_ws-soVcgvEeogeaj2UimuznXGgpv-xMFvzdQabsk_F_6VX_YZ08vqgYXeh56AvDc62j7MLKrR9Qp1iz_sGWzWYnfMlZU6wqVKsRFpkpMTQIxmj5tPCK0HgmguuZ
 Fri May 24 09:20:50 CST 2024
 删除sonming52 
+Fri May 24 10:11:09 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjU1OTg3Nn0.WuTSY9D68X2FImHTXhd-nOsaduKO466AVJWt211YRt9cr72NE4vIw7LPoYM3gxYZ8_CT0SuJ9J_igM57yVDQHybNQnwohdEMHzTMYJT7zX3v8Ax1jCAuKRSDjlHzCo0i
+Fri May 24 10:11:22 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+删除kiriko_chan 
+删除2dayday 
