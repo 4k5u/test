@@ -209,3 +209,8 @@ Fri May 24 16:41:54 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除sigmasian 
 删除foxylovesyou 
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6fd62982f3f982d650b9da3ef5a83e6ead983cc17a5e9ef98d17eef1d886bd72_trns_h264/playlist.m3u8
+Fri May 24 16:54:17 CST 2024
+Fri May 24 16:54:39 CST 2024
+删除ii1liii1il 
+删除okzzzz 
