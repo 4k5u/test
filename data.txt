@@ -4,3 +4,6 @@ thgml1212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4d5b662db1a771fb43b49168ed34c226d2faccd65c4afd647ebb9d102705fd21_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf99c661ab705ec75ca94cd630e82c254355035548ee8bcb39e99c7d28ec0e87_trns_h264/playlist.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
