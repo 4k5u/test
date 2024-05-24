@@ -125,3 +125,6 @@ Fri May 24 10:11:22 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除kiriko_chan 
 删除2dayday 
+Fri May 24 10:37:01 CST 2024
+Fri May 24 10:37:10 CST 2024
+删除SanySenise 
