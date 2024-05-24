@@ -8,6 +8,6 @@ _meganmeow_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d74
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 mode_bad   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4941f99bae06ff5f9cdf31b4136acf7d020df0e6bd942bcdc9f946ba2f765e0f_trns_h264/playlist.m3u8
-eli05021212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNjU3MDAwNn0.U1tCXeM78SKGRYUKur1egfELZP0_qcR_u_Ckcd7KT0YXW8uWLdF0xfAs2v1GDuwNHXom7iT7aBAmu883_crWWw6eGl_ElctasU5cX92pofNEfxyc3pgd2Au8CdAHQ7-V
 ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-619abf53a6cac9fe25c1fd6df7c9ecdfc8570eb22540d74947b619a51242d0fe_trns_h264/playlist.m3u8
 chuchu22   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ChS44Co1wr8M.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NoUzQ0Q28xd3I4TSIsImV4cCI6MTcxNjU3MTM5N30.f-ROyLlyTphaxasOzga8SgNfMC4gO4LUzgeUw1ADFeDLnuEEc8--rsfZmEumJHbiZIJocXmRpQJ-_2MhYCMEQKSq-FkvzD54u02qbyqiTx3R8WsiRGC_SBiNvfPu3qtd
+ii1liii1il   https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
