@@ -254,3 +254,7 @@ Fri May 24 19:50:12 CST 2024
 添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxNjU5NDYzNX0.kO3_9JSqu2n2eTkTornIxuuZMF4sPZOQTwS7rsdZl8_EirCN1rX7fR3DdWSw2F3VAeRU0SDb7rFxFJqcT6fA2SIw3V-sdUe2xhfzUyagFXRQ-1typgGgIT6gDZO6aCOs
 Fri May 24 19:50:57 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OUVO6um3pM7QQ3PYWpK-0wI2jq7oGssEvrhDwpP9lABVY1E0i12dGq-lNUuoafpSBXK0kMZ_c2swedHjmjzR4w
+Fri May 24 20:02:29 CST 2024
+Fri May 24 20:03:08 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除lovesong2 
