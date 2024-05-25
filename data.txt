@@ -1,4 +1,3 @@
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7c8f60486eafeb08e1e4efa3ff9c2623ebbd73532205f944762d715c2b18d6f3_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf99c661ab705ec75ca94cd630e82c254355035548ee8bcb39e99c7d28ec0e87_trns_h264/playlist.m3u8
