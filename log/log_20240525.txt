@@ -130,3 +130,9 @@ Sat May 25 10:41:23 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 Sat May 25 10:52:55 CST 2024
 Sat May 25 10:53:01 CST 2024
+Sat May 25 11:24:35 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNjY1MDY4MH0.6joRpgDxA8BBAaFGK5KTp5F3FwxGZ0Il1_XHdjC2kUFyerW-RsA96mdkTq13fxgFx3X7E1mb32IZma5HFJKKgzDjzKCNvYnY-owZ_i_ydvEvNheyqNXoWDMnNFx9uKLO
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNjY1MDY4Nn0.PYOVVlrgIOd04719T9XM9Dt5PNGkxUKcjUQrtfcsVjXan4ISwshnWiXmsafWMD4G9YtVUS7uI4WicUWx-0HaAqp0W9NOeA50Gn1nvLz6FSG6LmuOuMSaTGH2zuXiUrrq
+Sat May 25 11:24:52 CST 2024
+删除jjine0127 
+删除_PunPun18 
