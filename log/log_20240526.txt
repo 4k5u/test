@@ -42,3 +42,6 @@ Sun May 26 02:53:01 CST 2024
 Sun May 26 03:16:29 CST 2024
 Sun May 26 03:16:45 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+Sun May 26 03:29:57 CST 2024
+Sun May 26 03:30:13 CST 2024
+删除starsh2802 
