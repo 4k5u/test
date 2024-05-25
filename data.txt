@@ -1,13 +1,10 @@
-IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7c8f60486eafeb08e1e4efa3ff9c2623ebbd73532205f944762d715c2b18d6f3_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf99c661ab705ec75ca94cd630e82c254355035548ee8bcb39e99c7d28ec0e87_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNjY0NDA3M30.PCB_0F42kl8hg5Iid3nS9FtrvyFgrz5D0JnM94v04RncaiVJnGMFtxWg74GMCpn0qmF1YNsCmXX-SHVyJql9PHG5jyvzxJMHkYnHMkkT8OY5wQaSJc0bcAwubx-UiLSZ
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
-morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-6fc05e382a08baafeeee9afca7087ee315637f99165dc8e0818c1b1524a90304_trns_h264/playlist.m3u8
-eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r17-vshqbYatZ2tLEhmGe09KrYoC7TTFKk4vJkc_8Qa2WiI7lEu5rZjMW1A3UQ6Q7hD5eGA828mM2bXQ9ed4BQ
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNjY1MDY4MH0.6joRpgDxA8BBAaFGK5KTp5F3FwxGZ0Il1_XHdjC2kUFyerW-RsA96mdkTq13fxgFx3X7E1mb32IZma5HFJKKgzDjzKCNvYnY-owZ_i_ydvEvNheyqNXoWDMnNFx9uKLO
