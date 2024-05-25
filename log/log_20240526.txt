@@ -92,3 +92,6 @@ Sun May 26 07:10:29 CST 2024
 添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNjcyMTgzMX0.pwzBX4eOwyBhroKWkTKJjtXT5C2INne--obWvVoBYRJq2z4FNbMeKhMsXsrxFwp6PiNhCN360fuLXreYHqh9Wh0KsdIpPHNKYSzRZb_eK9uO2z1z1YWFLoIZ0MM7URbh
 Sun May 26 07:10:36 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+Sun May 26 07:25:28 CST 2024
+Sun May 26 07:25:31 CST 2024
+删除TefFfish 
