@@ -4,8 +4,8 @@ chuing77   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 eli05021212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNjY5MDI3MH0.HkI9ki_oaj6wG85VLNzT52vjFrnCdAuV4uGmUy6Ei3L9xY7ybuQUsx-ewCNUeaNSo-m0Bw1UqgxWz50mwagFrchkDPJ3qLEp5twALlzOAtZTaFBR0L1fqDzncSgb8zS5
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNjY5MzcxMH0.29Wo_TIz9W2oLqn9mT0tCEqoj4kFMbNlx-d_ENs5zTMzYVGvz54egjrMXVDezeyOdw0ZFTODcJXJK-0A2Dr98NgJzOaYZP9a-AFFy4jmu022dRpV7C4MxcYtypKEHTfd
 kiriko_chan   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-c47ef54c87f4e7e9138ad08e8f15e3f28d093358ff04298cf61e29531fe812d0_trns_h264/playlist.m3u8
-BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.H5f2DiA7zrIgg7E5aOgv1Rl3_GDkliz4-Zsbwe_-pDDEqpt2dPr86XNJlsoioRj7cbSQb_wu5SMU0-lpmHAGpQ
 sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9a26e590b5a6c91891ec4500ea1548f4500894ddd09213747a935d496cc989bc_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 mazzanti_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-81a2f9d40572a74162080db71b13d12bf6dc6b3710472ed477b2235f2d65135d_trns_h264/playlist.m3u8
+TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
