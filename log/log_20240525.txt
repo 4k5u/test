@@ -211,3 +211,7 @@ Sat May 25 17:20:25 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aPSPJDsmh2M_kga867PdJtcHjOgJLFPIO8WLpPSuZ1iDfUF9Sxb0hHhaYX7S9slfU5dHzQ7at8zT8oKP2fWYfg
 删除oda_assuri 
 删除dkssudgktpdy233 
+Sat May 25 17:32:15 CST 2024
+Sat May 25 17:32:30 CST 2024
+添加ii1liii1il https://edge-hls.doppiocdn.net/hls/118055446/master/118055446_auto.m3u8
+删除your_desssert 
