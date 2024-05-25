@@ -220,3 +220,9 @@ Sat May 25 17:45:09 CST 2024
 Sat May 25 18:00:09 CST 2024
 Sat May 25 18:00:24 CST 2024
 删除EmiliaGuess 
+添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4bd46917ad53ee92cda1fb6426f0ec6cab0f95493254ff1b401635357c1e5d81_trns_h264/playlist.m3u8
+Sat May 25 18:25:09 CST 2024
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNjY3NTkxM30.IVA4pAWX4iEeLM_fJ_jf895I_XSFAySTli9opuTSQ2VBIdyo6BtX8JpprXoZN9vtdcG9wazvzPgigsWr0NpdVUjHUZYfV7GLee1aENHVd_-t6hl89EkFksc47de6SaBe
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNjY3NTkyMH0.XV1_33VpDYb0mGJiOzjSaL9eKyUez-TEuWVGREO4XG6hxTc938-aSe2pCGwsQKNJZFm96YAG7rGwtWQeDIdVXJsZzmyfefXf3vgx53Yodxer1wesjA8BQzQ_zAf3w-T4
+Sat May 25 18:25:38 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
