@@ -163,3 +163,6 @@ Sat May 25 13:33:00 CST 2024
 添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4bd46917ad53ee92cda1fb6426f0ec6cab0f95493254ff1b401635357c1e5d81_trns_h264/playlist.m3u8
 Sat May 25 13:44:18 CST 2024
 Sat May 25 13:44:33 CST 2024
+Sat May 25 14:00:02 CST 2024
+Sat May 25 14:00:18 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
