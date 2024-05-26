@@ -230,3 +230,10 @@ Sun May 26 18:54:18 CST 2024
 Sun May 26 18:54:39 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wNmf-DVRa09pHSNzY_kF_S8aoi2lhgneq-GKG5PFsJ7bSo2SDB_oAsdgVRl1V0GCm95_ZcauUsZfJJkTQqvDlg
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a1aee4740ddd673924b0a044a973b1d3a9c884440be7dda7192ea15c2d66ca32_trns_h264/playlist.m3u8
+Sun May 26 19:17:03 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNjc2NTQyNX0.mGSlRKQYrLbnyL-lCjnMtJHj2Qx0MUAIsYU5lKBU9wOi4c3GdLev9v-_HprdxDTsXZw890S-gTpAWohp2zqS1xNOz3kHvnVtBnFiFPlpTf3C5PZcTMuciYN2_a2jZ_oU
+Sun May 26 19:17:32 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Lu8dadl3Ee1-MqLws1NN8ESA7LzED91KQg42gHTLJesQijZeIsii6m5OUOy4lYHvBvFWWoPWPBOhhL66tmg0RQ
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除ake_mi 
