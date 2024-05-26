@@ -104,3 +104,5 @@ Mon May 27 07:23:44 CST 2024
 Mon May 27 07:23:58 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 删除TefFfish 
+Mon May 27 07:40:04 CST 2024
+Mon May 27 07:40:10 CST 2024
