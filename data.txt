@@ -2,10 +2,10 @@ eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master
 ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNjc3ODk3OX0.ajkeQkB_cF1lxI3fuQnoHvYH1oQXkLFIWqLBWuoTbQzbbvX0rf2fKRJIwIiorKPjrKb_lIQxegJVkmw_mbx9nn9Wj4UztBHfyKYQXu2PyrSo7_eGhpW2w9KBNL5VHqI1
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 kiriko_chan   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-6231d69775867166007ab26c37a3fded8808bd37e4d6e4b1546be6d3df7fd3c0_trns_h264/playlist.m3u8
-yasexy   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.47ZGh6pK1nKm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ3WkdoNnBLMW5LbSIsImV4cCI6MTcxNjc4NTQ0N30.kszPNDXKPXerNfQp-mqgcUUjlsPDX6vHU-kRIjK243T_XrhPDqWXDyRCFt7xeujaj1LzV5uAFKf3hrnJesSv-WVckOPSVKVLCUwqhYvzcdPbFM9AWzevoLE8vWnS-8s2
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 mazzanti_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f214f71f0855683f12ffaca96a3c48efd126dbde16a56d2e1e172220c13f85b5_trns_h264/playlist.m3u8
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0cspBCP83UbQqGyVlvTXDHcfjkyPOmXVIaKDPgmTXCTzDO8yRhLlGnQCozxV_Ujq_rqeubOym31QeYYlQHiz0g
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 sexygamesx   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-22d66e98830dcfc50d370a6ab988209aaec3550e80b8bc16170984f4dd482484_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
