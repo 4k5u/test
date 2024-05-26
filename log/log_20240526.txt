@@ -100,3 +100,8 @@ Sun May 26 07:39:59 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 Sun May 26 07:52:20 CST 2024
 Sun May 26 07:52:23 CST 2024
+添加oda_assuri https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-515d266fd2e3d830e2741518206b65c20a0b1f8bd46507db3cf5f8ebebab353c_trns_h264/playlist.m3u8
+Sun May 26 08:46:30 CST 2024
+Sun May 26 08:46:33 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除kiriko_chan 
