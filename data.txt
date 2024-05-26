@@ -1,5 +1,4 @@
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
-Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c32a1ad69c3f4e6172479cb3fe8d2ab1442f23e154b4de8f233504a417694dab_trns_h264/playlist.m3u8
@@ -8,8 +7,8 @@ alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.
 kkkku96   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CnaCGc68jCkGAfLTnTRnsLjLOvMRBNpOtmh8tf4JKiST5TZVDdT837a2pnvSRYlWZAm675lErfxSbOCloitzWg
 mode_bad   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f8540018a2ce309859d6aa3069044354a5b400df398ab13f6c9773632a87a36d_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
-your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-80fcb71ef2b9cb1a241ef43607dc56a0b3129ca65ee757384f68e0a263a0dae5_trns_h264/playlist.m3u8
 ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-53f94c95e6a8f3fb21f9ae7025554158c06653783a2862906d66155a68d0ee2b_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-adade499f9e707a19d5f45c35d93e5ba231aa978516435f62267f9058681e51e_trns_h264/playlist.m3u8
 jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNjc0NjQxNH0.W17FCv0LbuK5o5hEeC6BwyCWeBsPrRk-D-EKidDMPOxH8IqkTDD1cZxkFxWEVyEfwg0iNKAIiSxkA6pSZRDLb29ATcW-1sDxIXlSN7sgS_hDXsjFTLGMe21JSuD-A87D
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjc0ODEwNX0.vjZZrBYvg1f_JSOHj_upg0TwxQTcfQXBPaUMRh1uFcLpo2SG6tzrwxGSHDSM5KpD30FguqXLONPzST-zaFKDdIVrOZHsZVO4QhfosJpwVy0a4FOKwrL7dkwyggLapzFY

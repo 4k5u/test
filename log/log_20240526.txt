@@ -159,3 +159,8 @@ Sun May 26 14:00:13 CST 2024
 添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNjc0NjQxNH0.W17FCv0LbuK5o5hEeC6BwyCWeBsPrRk-D-EKidDMPOxH8IqkTDD1cZxkFxWEVyEfwg0iNKAIiSxkA6pSZRDLb29ATcW-1sDxIXlSN7sgS_hDXsjFTLGMe21JSuD-A87D
 Sun May 26 14:00:20 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+Sun May 26 14:28:21 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjc0ODEwNX0.vjZZrBYvg1f_JSOHj_upg0TwxQTcfQXBPaUMRh1uFcLpo2SG6tzrwxGSHDSM5KpD30FguqXLONPzST-zaFKDdIVrOZHsZVO4QhfosJpwVy0a4FOKwrL7dkwyggLapzFY
+Sun May 26 14:28:31 CST 2024
+删除Xenomy 
+删除your_desssert 
