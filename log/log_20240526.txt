@@ -114,3 +114,7 @@ Sun May 26 10:36:22 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oF5h6lvOlo4_UykE5tsYQkn04yuM8BSMVYBAdqRQVZi0mUEd9xLttyLR5Un2fEbrkzSObO0SSrUi21vAXhVp-w
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+添加intim_mate https://edge9-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c32a1ad69c3f4e6172479cb3fe8d2ab1442f23e154b4de8f233504a417694dab_trns_h264/playlist.m3u8
+Sun May 26 10:50:20 CST 2024
+Sun May 26 10:50:23 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
