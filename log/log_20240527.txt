@@ -98,3 +98,9 @@ Mon May 27 06:43:58 CST 2024
 删除gusdk2362 
 Mon May 27 06:59:53 CST 2024
 Mon May 27 06:59:53 CST 2024
+Mon May 27 07:23:44 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNjgwOTAyNX0.h6xVX1YNPo-HRgiOERULpzCBCQKEQ53gneZkWlU_9TdAhC2-Qciyaz9Upg0HzTBdHxqEXtcffDK9GvY7ow4oS-iDYa_C21P46Yi-iqaYcPBugEe4D-2Z2npoOJZBWzj6
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNjgwOTAzMn0.hJgWDoRYPMj2njPVxGCtGbIZyL1nXKqA9MJ53ng-s6Ji65ikj3AEC9JX_sY-V66mP4p5lAskOczZtzuPstW23mIQ7CqdOaZ4frIWmLWmUX_wa5bZBFHE8VYWE-A9ty-E
+Mon May 27 07:23:58 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+删除TefFfish 
