@@ -221,3 +221,8 @@ Sun May 26 18:02:50 CST 2024
 Sun May 26 18:27:48 CST 2024
 Sun May 26 18:28:06 CST 2024
 删除EmiliaGuess 
+Sun May 26 18:42:08 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNjc2MzMyOX0.h_ibKkWvE-7TGGS4mAN0Bqfoyezf_yKgDvL7p_OE3mXQyvIgTlI1xnfAjAHMQNa5XCuWOHYSehoxD8wAjopg4cgwHKI7nCJRlipgSZSFaYFcQpHf4vxkNdvs2VBksBlt
+Sun May 26 18:42:33 CST 2024
+删除Daji-Lovely 
+删除honey_pinkgreen 
