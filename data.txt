@@ -9,3 +9,6 @@ Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9e0fddea76edb09aafdbe2b8d46fe84d891ebbaa91bf45e6404b8fe6e2f80b30_trns_h264/playlist.m3u8
 Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+your_desssert   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-80fcb71ef2b9cb1a241ef43607dc56a0b3129ca65ee757384f68e0a263a0dae5_trns_h264/playlist.m3u8
+bongbong486   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxNjc1OTI2Nn0.A1Q2zifqJ7iAD7tRn-7Mq_NU1zEv8sXcWni6n4xVhCksKuOt4MKnJBXDIJapGNQkIF8n9XrVQKo9KuPLwpmnpwZT7c3lUaYfeEIJ5a2on2GdQwVyGmxPECHp7I1w3cd7
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
