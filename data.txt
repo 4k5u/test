@@ -1,7 +1,5 @@
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-intim_mate   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c32a1ad69c3f4e6172479cb3fe8d2ab1442f23e154b4de8f233504a417694dab_trns_h264/playlist.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 mode_bad   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f8540018a2ce309859d6aa3069044354a5b400df398ab13f6c9773632a87a36d_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
