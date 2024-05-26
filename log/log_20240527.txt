@@ -5,3 +5,9 @@ Mon May 27 00:13:31 CST 2024
 Mon May 27 00:14:27 CST 2024
 删除kjjeong0609 
 删除dkdlfjqm758 
+添加kiriko_chan https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-6231d69775867166007ab26c37a3fded8808bd37e4d6e4b1546be6d3df7fd3c0_trns_h264/playlist.m3u8
+Mon May 27 00:35:04 CST 2024
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxNjc4NDUyMX0.RmXfSv1XnnZUMj-eSErTHSj1srudwnLc_0X1KqINd6WMBEMzjKYzJQ9sZTF781Ez60w0UksQmRUKIhJ68psJjMRVR9Ar1tuBwCDijZJMLQ-GWIQpLdXfSduKuwX7Djj1
+Mon May 27 00:35:57 CST 2024
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+删除soso621 
