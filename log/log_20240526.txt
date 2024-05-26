@@ -183,3 +183,9 @@ Sun May 26 15:44:08 CST 2024
 删除asuna_love 
 Sun May 26 15:59:43 CST 2024
 Sun May 26 15:59:55 CST 2024
+Sun May 26 16:26:09 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNjc1NTE3OX0.jGh53OEGai3RyrTON1FFgt__C35Ccfr79R7qlS4dAG0WokFe1mRgj_Ie_5NhJmf5efCe-PodVEwYZDSr0KRfd-qo4Th8sSwbsVQkzbhlS2yEvSIBvqA1Sld29qnkNHvm
+Sun May 26 16:26:25 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除alicelebel 
+删除lovemeimscared 
