@@ -6,3 +6,4 @@ TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bbb9b2a3be880e3aa2a024243317e0d13abb57270f739ea32da9df31b72e63d5_trns_h264/playlist.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
