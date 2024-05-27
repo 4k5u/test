@@ -4,6 +4,7 @@ sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 kiyoko_rin   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-d378f44c25e07874ba8400d13c41ca38a2b403f4d66e97ff5d8801e36f9802e3_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 sexygamesx   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-181cd8feeaf6410f69d6d6b988942666ef5419ec5ae32bb461eca2e6b519848f_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9d81ba91b4994c6673b6d5e0a2ccd54609a29d0a25299a4631b2601b06ffba7f_trns_h264/playlist.m3u8
+dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNjg5MTgzM30.PYiu9E3IfD8diGqJlPuD8QrIpAjxqqX1d9poptEcWPiYCGNQRK4h6Hz3FgDrLLNxqHWs1gDfdU7kCe-886WAtRlY5clbs-IuGG7IGk5Oh7f7WuEVhIWb9jvmpRWYQvBo
