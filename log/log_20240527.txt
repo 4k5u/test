@@ -163,3 +163,6 @@ Mon May 27 13:40:09 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 删除Xenomy 
 删除Dolv_1o 
+Mon May 27 13:53:26 CST 2024
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNjgzMjQwOH0.4Lg4yLolKDHsZ_uERvHdllCxJO_XbZr1HtD7c9zxx-R9jCulkR7TPLnP9Q6FI0iUMydLMeHKfI6qImRHKxnHHGXx07YS-lHJBkvn35QouVzlHsNYliHbENHxg4257hWB
+Mon May 27 13:53:40 CST 2024
