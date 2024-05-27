@@ -110,3 +110,11 @@ Mon May 27 07:40:10 CST 2024
 Mon May 27 07:52:32 CST 2024
 Mon May 27 07:52:38 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+Mon May 27 09:22:30 CST 2024
+Mon May 27 09:22:36 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除kiriko_chan 
+删除mazzanti_ 
+删除mikio_san 
+删除cuddles_me 
