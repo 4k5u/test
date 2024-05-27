@@ -147,3 +147,6 @@ Mon May 27 12:30:30 CST 2024
 删除jjine0127 
 删除IdaJonesy 
 删除TefFfish 
+Mon May 27 12:42:55 CST 2024
+Mon May 27 12:42:59 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
