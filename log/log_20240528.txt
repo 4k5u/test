@@ -18,3 +18,7 @@ Tue May 28 01:02:26 CST 2024
 Tue May 28 01:03:11 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除dign1461 
+Tue May 28 01:23:19 CST 2024
+Tue May 28 01:23:55 CST 2024
+删除jinricp 
+删除dudvv7 
