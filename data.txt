@@ -12,3 +12,4 @@ intim_mate   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-7a40
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+cuddles_me   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-93f21686bb0352fefb143641c0286c10781037a9a99e80243073da89236c5fa0_trns_h264/playlist.m3u8
