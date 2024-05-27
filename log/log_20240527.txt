@@ -191,3 +191,9 @@ Mon May 27 15:50:23 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 删除Happy-_-puppy 
+Mon May 27 16:02:31 CST 2024
+Mon May 27 16:02:47 CST 2024
+添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+删除Glenda_1 
+删除alicelebel 
+删除Dolv_1o 
