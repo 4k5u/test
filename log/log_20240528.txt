@@ -288,3 +288,5 @@ Tue May 28 21:40:51 CST 2024
 Tue May 28 21:42:02 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TN68qEy3d9bhKmQJoYdEN99pQOnpH1TBXESyIWd1q0rhQJAc95GAv9D2g1e8VVee2ENx42c9gT7KStAf9_sj0A
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+Tue May 28 21:52:55 CST 2024
+Tue May 28 21:53:58 CST 2024
