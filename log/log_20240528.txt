@@ -290,3 +290,8 @@ Tue May 28 21:42:02 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 Tue May 28 21:52:55 CST 2024
 Tue May 28 21:53:58 CST 2024
+Tue May 28 22:19:07 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxNjk0OTE1MX0.ApxluMDzl0cbiRXpbzKIOEzSaiOl7JDs-L84nZCo__4C4IM035otBYO8sUP9hB4K6pug2xifbTVMZ7GaGsHC3QACSWSIbcc19BGtnRb-lerK7SRnBwa9ym_IaqpcmhwR
+Tue May 28 22:20:13 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.d7qdNNseqEiRK9s1GsD74j1qWYdeHnEPiSyfmeCyD3wWzwJCtyOl62fKZDYA9qfJ0bdsG8muT9zYG7KgYu_A8A
+删除EmiliaGuess 
