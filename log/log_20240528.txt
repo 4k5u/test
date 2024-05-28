@@ -251,3 +251,10 @@ Tue May 28 19:45:21 CST 2024
 Tue May 28 19:46:01 CST 2024
 删除EmiliaGuess 
 删除your_desssert 
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a26ef1f90858e2160ce32cc47f1c017e1ca97f89a555354bd69aa5e754a8e409_trns_h264/playlist.m3u8
+Tue May 28 20:00:01 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxNjk0MDgwMn0.xkhQLlfXlUJfi-czY_uWXEIMlolxGEku7s-ZMrbDYbf_mWXKQT02RoJAIjUj71Pzgnh43iAacWqye1kwR9TlqOwZfXZvUuiX0_SCDD8p9qngKAprJpwaIQ9ydCa7iLck
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNjk0MDgzOX0.XJ0gPkXchuuD7y8plZRPXHAoiS-78hWImaJGO6aSkaDxPka9o7wCGhyHB_UOkk7efB6ypCm4jwk8qgb35uHgyIqi0x1UtOPwNcQMzCDuBP1AamINSTObqgPvXA73IjfG
+Tue May 28 20:00:47 CST 2024
+删除foxylovesyou 
+删除Happy-_-puppy 
