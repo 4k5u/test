@@ -103,3 +103,13 @@ Tue May 28 07:50:02 CST 2024
 Tue May 28 08:02:15 CST 2024
 Tue May 28 08:02:27 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加intim_mate https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-ad7bf8b63de155f9385a120241b1981a8b930edd7832029304daf15582368bc3_trns_h264/playlist.m3u8
+Tue May 28 09:33:56 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNjkwMzI0MH0.ss_O0ag63BsoAblMKS-E8DpA-7VDHOmg5RbkkOwWwLWvsfBIBHt1NJHsZlL04czJScaQfRU-K37JH0jEElryenw2_Hi11mTOkzkVsWeuAHb2UhRhBqEMzJ6AfDwEfc8Q
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNjkwMzI1MH0.4HGaE7JpJXoIGbNMy10y3Jei1AQsZrS54HNXZwvyZ8r-5HVJ20gQ6ZGvRLSBcssUYseJByEQt-TXypIFpsDyS76CCYt19Y2Obhh-AXp5M05Ki3LKpF9Tru5iEuqVFbX9
+Tue May 28 09:34:15 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+删除kiriko_chan 
+删除sonming52 
+删除cuddles_me 
