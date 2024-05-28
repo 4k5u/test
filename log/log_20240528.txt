@@ -157,3 +157,12 @@ Tue May 28 13:40:00 CST 2024
 添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fc227747eef20a11488bab9fa1912ae623334f4a3302683d3ba34d7328034508_trns_h264/playlist.m3u8
 Tue May 28 13:52:16 CST 2024
 Tue May 28 13:52:22 CST 2024
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9bade462dd8a88f5447dae50c2cb4e289c9efa685c7505bf718c8762120a7149_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-51a82cb7405141fd11f3ce2f6332718324c26232b3036968bddaefc179bc9c6f_trns_h264/playlist.m3u8
+Tue May 28 14:15:00 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxNjkyMDEwMX0.sN701ofeWcF7BZxOjenuPBV50N2AzSJLWnQZxXlVgNrGdJBWJeMo57c91PxXXK6jbgpjIZH6ejcGupuQHGS5g2eDGTsaTFR_34qFsbR2Z3O2OkN5iaH8WpXJqq6CTp3Q
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNjkyMDEwOH0.lD-InVekPb6S8xpQUQMm5QdzqH9jJfJSp54ntTyMtbOZx8zFvvFyFiaqt1KdU9uTzpDHBSsC6y3EbZN3pmPOASFiq18R3K8_xPRWkOvk3oFCscvsTTd9vFXDUG87mBy2
+Tue May 28 14:15:20 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除San___San 
+删除lucy_1811 
