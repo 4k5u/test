@@ -1,5 +1,4 @@
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNjg5NTM5N30.FY5yuWf4hJdLS6yBrmWjlA4_nJq6AF29NsL8Vigy1zEeaPGnDBLqZQglGvM6au4SHbIN8ArgQpqUG8vs2FqfnHNtgAlJID_AaPQEMWlKRAOZhgFPyqdXtq9M4ufPrzU-
-getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjkwNjE1Nn0.MbH9cZvyMyXyMoRXjOdTT99PuS1wGrdBN4GMByr-urRbrTeTjZ_LpdypaNvABZfjM5Ky7sYkNDBMxh5UiQ-xY1J0x3oSImSE_AD6zIQ14EoL3K7dbAB2bNNtHqN8hLXb
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
@@ -12,3 +11,4 @@ Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d3eb22fb3f163d59bf4ab0f227de2aed8dd38c912185918ebf04148bd7f8e11e_trns_h264/playlist.m3u8
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNjkyMjk2OX0.jBdSM8whz0DbtjgsDVWh-YhRUT82qu-G-UfW-M1hdNVI8hEUiW3NTFqRNgMJIWSsYpsTcwwlF2tSChMEsr83iUT6rptBXY2Ql9dwkDKG_AVh6pxHUi9iYVjBS3YFK9uX
 Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
