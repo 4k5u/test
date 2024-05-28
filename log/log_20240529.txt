@@ -35,3 +35,10 @@ Wed May 29 01:33:53 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除dign1461 
+添加kiyoko_rin https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-486424abfc1f784eeab7323f1ef45f172a578f624e6c769128c71692303d9bdf_trns_h264/playlist.m3u8
+Wed May 29 01:50:00 CST 2024
+Wed May 29 01:50:24 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除seozzidooboo 
+删除362540 
+删除BadAngels666 
