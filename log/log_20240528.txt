@@ -225,3 +225,9 @@ Tue May 28 18:33:34 CST 2024
 删除your_desssert 
 Tue May 28 18:49:59 CST 2024
 Tue May 28 18:50:14 CST 2024
+Tue May 28 19:02:17 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImV4cCI6MTcxNjkzNzM0N30.5bX97rSj6JoepUz6pxmjH7sfJyzWiQKHRCVXoCLe4wxThEcDdCgBT0Awe80pGk5WaYjT2L5I58Qtn7JMPu6rcF9jE9KS3M9cq1Y1YdG0xZ1xW7Ux0Z3ME-gUpj4z8Z0N
+Tue May 28 19:02:38 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AkIb-4APhm3yfB9dQJwWcX2Jc5NQ25QU-R3X85WykMWOfxdo2NRG4wHmHAnfG4zU0vv7h-m6Yd3DO8ZA1te31g
+删除muse62 
+删除EmiliaGuess 
