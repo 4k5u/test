@@ -10,3 +10,4 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 cuddles_me   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-33ea60ffcebe23e212e18a7ea7a6d1b581c7d67c090a82fdb638a6ecd846a501_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
