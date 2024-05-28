@@ -9,3 +9,4 @@ Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d3eb22fb3f163d59bf4ab0f227de2aed8dd38c912185918ebf04148bd7f8e11e_trns_h264/playlist.m3u8
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNjkyMjk2OX0.jBdSM8whz0DbtjgsDVWh-YhRUT82qu-G-UfW-M1hdNVI8hEUiW3NTFqRNgMJIWSsYpsTcwwlF2tSChMEsr83iUT6rptBXY2Ql9dwkDKG_AVh6pxHUi9iYVjBS3YFK9uX
 Happy-_-puppy   https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8

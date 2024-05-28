@@ -199,3 +199,6 @@ Tue May 28 16:43:48 CST 2024
 Tue May 28 16:43:58 CST 2024
 删除Judy0523 
 删除Angel-Bei-bei 
+Tue May 28 16:59:41 CST 2024
+Tue May 28 16:59:50 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
