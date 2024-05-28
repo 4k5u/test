@@ -192,3 +192,6 @@ Tue May 28 16:02:30 CST 2024
 Tue May 28 16:02:40 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 删除getme1004 
+Tue May 28 16:29:39 CST 2024
+Tue May 28 16:29:49 CST 2024
+删除ake_mi 
