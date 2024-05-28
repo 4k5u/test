@@ -20,3 +20,6 @@ Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 iminako   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-13c47ace023aa844c361ce53f89fab3f9ba1a351fca7817009bc59d5c60b10e2_trns_h264/playlist.m3u8
 starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNjk1NjY5OX0.Etv1TC6rTXy2-00pDvxz8xRt7Rk2zvZhB-qufSXeHIueGOB-to-CE8CuzZGM4o-CaZFxj5HHm4nxKhyhGWm162O4BDmESnpZi72LY6zPjgWy7Xzs48YBeSx6iuGf_vNM
+kiriko_chan   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-91b27d57d407187f5c358eb00a4d44fbd11c5aa62b92fefdaab0e7ca9e829669_trns_h264/playlist.m3u8
+Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
