@@ -135,3 +135,8 @@ Tue May 28 11:42:10 CST 2024
 Tue May 28 11:53:13 CST 2024
 Tue May 28 11:53:28 CST 2024
 删除SanySenise 
+Tue May 28 12:26:03 CST 2024
+Tue May 28 12:26:12 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除_PunPun18 
+删除acac88 
