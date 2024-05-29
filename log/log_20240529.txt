@@ -284,3 +284,10 @@ Wed May 29 21:41:29 CST 2024
 Wed May 29 21:52:55 CST 2024
 添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7Cfy3ql0Mhx5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdDZnkzcWwwTWh4NSIsImV4cCI6MTcxNzAzNDAyN30.suVGEoVst2g07dDCyEdfRHcgvR88fLiFkWcJ-R_FAIg3pob2Uv2YUvUD3mfABgBt-rwUImO80XZljHuZcq9cqYgHeYoIjkUeI1cfNvJl_gYBGhZhjYTrFRgblK72Om7S
 Wed May 29 21:53:55 CST 2024
+添加iminako https://edge12-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-d108c8645fa912f4e611ac964b28a07d74823e59671628855a8bdcb34e7c4f92_trns_h264/playlist.m3u8
+Wed May 29 22:20:10 CST 2024
+Wed May 29 22:21:07 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iE7mk9vLMvezpSIBf-V2ClZLK-p7YK-rZGlFdiqYbsaUi37mP-2s2r2V_MBD20eNLYD_2Yqc887E6hkmyrwY_w
+删除somsom0339 
+删除mikio_san 
+删除EmiliaGuess 
