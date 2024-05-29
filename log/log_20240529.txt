@@ -161,3 +161,6 @@ Wed May 29 13:34:56 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 Wed May 29 13:49:59 CST 2024
 Wed May 29 13:50:06 CST 2024
+Wed May 29 14:02:33 CST 2024
+Wed May 29 14:02:40 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
