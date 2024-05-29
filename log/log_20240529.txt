@@ -130,3 +130,8 @@ Wed May 29 10:48:07 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Wed May 29 11:00:36 CST 2024
 Wed May 29 11:00:46 CST 2024
+添加_meganmeow_ https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-10957672645cb3a8ba08e898fcfb5626888ebda88d891936a453c151c2984496_trns_h264/playlist.m3u8
+添加intim_mate https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1cf2c7cef35c21ef1d6992c23c490237603dcba92823a39979220f6a31ad2554_trns_h264/playlist.m3u8
+Wed May 29 11:25:29 CST 2024
+Wed May 29 11:25:39 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
