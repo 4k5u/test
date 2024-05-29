@@ -244,3 +244,8 @@ Wed May 29 19:40:03 CST 2024
 Wed May 29 19:40:45 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除EmiliaGuess 
+Wed May 29 19:52:44 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNzAyNjc4M30.dl3UZ0INNnkQr9SP60fvaup0WM9JKSJCjUjMVv5eULWAcSzPp-apC2-t9RXuiBDMtO-0V7qcXoRYYwoLPwenjzex8R626Rfa_GPFC-iuHR7wtjK50Q4zqiTX92K7Pa84
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l3eXq5MSl6xY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wzZVhxNU1TbDZ4WSIsImV4cCI6MTcxNzAyNjc5OH0.4hUq4WnVL0sg1culjk5ENLAfjyuVJV1_lvCHJ8WiqCGDLU3F_nCoxjJ56D2VrBCMEpKX3gm1GeuPknvUoeQTLopm8JEg2ZA_o6sXDRW3gTWjJVPQGb7TNnpLrg8ioY76
+Wed May 29 19:53:29 CST 2024
+删除AkiShina 
