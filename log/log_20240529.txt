@@ -156,3 +156,6 @@ Wed May 29 13:21:00 CST 2024
 删除jjine0127 
 删除Dolv_1o 
 删除Glenda_1 
+Wed May 29 13:34:49 CST 2024
+Wed May 29 13:34:56 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
