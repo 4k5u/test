@@ -5,3 +5,5 @@ Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+cuddles_me   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-02e013eb204437ff4486904337448a26aced957dff0b4c10e0b9d58bac00c3e0_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bd07c0eb05fb77ca132c041dd27306e32e68f28807661dd036f75d47efef8eec_trns_h264/playlist.m3u8
