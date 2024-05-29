@@ -2,8 +2,6 @@ getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-10957672645cb3a8ba08e898fcfb5626888ebda88d891936a453c151c2984496_trns_h264/playlist.m3u8
-intim_mate   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1cf2c7cef35c21ef1d6992c23c490237603dcba92823a39979220f6a31ad2554_trns_h264/playlist.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-664a21f25cebdf6956bb39797cd022378597ee8bb1046a7e036989a7728a8ddc_trns_h264/playlist.m3u8
