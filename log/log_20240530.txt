@@ -72,3 +72,7 @@ Thu May 30 04:40:03 CST 2024
 Thu May 30 04:52:39 CST 2024
 Thu May 30 04:52:42 CST 2024
 删除San___San 
+Thu May 30 05:19:03 CST 2024
+Thu May 30 05:19:07 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
