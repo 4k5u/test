@@ -180,3 +180,6 @@ Wed May 29 15:20:58 CST 2024
 Wed May 29 15:21:04 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 删除Glenda_1 
+Wed May 29 15:33:40 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNzAxMTIyN30.T-pQ8FnBNeOEVLmKUstjV2IhETv0BrAS6lvoJM6y8H77fBnPwQnJbucN_8UHmXGMFMPGNnU1tEduN0WFKP3L7XHnZeieXzhN8ucLc9A8iXa2vj3LxrenU_0DnUyvemur
+Wed May 29 15:33:53 CST 2024
