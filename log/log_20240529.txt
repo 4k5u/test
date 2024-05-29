@@ -121,3 +121,7 @@ Wed May 29 09:37:58 CST 2024
 删除kiyoko_rin 
 删除Akiyama_Key 
 删除SanySenise 
+Wed May 29 10:24:02 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNjk5MjY0OX0.70gLJ2AA_3-Q0afjlacm29tv_WjLXDUUJBinoHNUVVJdtoOyi-3wQhLt7K-V7rDXvDkjlu5SQAvwEd_3_Ll1QIoEjFJrVBX4DE71k16dOC1eAnqePYUVVSo3svxspABk
+Wed May 29 10:24:15 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
