@@ -263,3 +263,10 @@ Thu May 30 19:20:36 CST 2024
 删除muse62 
 删除IdaJonesy 
 删除EmiliaGuess 
+Thu May 30 19:32:44 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNzExMTk4M30.hWCNFULBEv17074xwtF5mtAl460cP1RqXikbn0wREL6rY2ZZYcmmqbEVTBylSK3m-zUoj80UtHU1hXKDlmMvWHvnlmLngm94n2PvVheDURLlLgpFAIhisgs2K_b_31qT
+Thu May 30 19:33:12 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除yasexy 
+删除dkssudgktpdy233 
