@@ -243,3 +243,8 @@ Thu May 30 18:37:39 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除AkiShina 
 删除ake_mi 
+Thu May 30 18:49:53 CST 2024
+添加yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.47ZGh6pK1nKm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ3WkdoNnBLMW5LbSIsImV4cCI6MTcxNzEwOTM5N30.0F84tSToo9dDUFt4bmhQ_EJ_zDgE4Hf_nmWWA2kPX9GG44r9hDDU8y4UDNYyPpOq-pMJa-DKrz-rl3MtZL_rBlKRMeIzpy0rIb1uwLKxvkgzQaJ1GO3FLOipbKri_MxW
+Thu May 30 18:50:17 CST 2024
+添加raisy_000 https://edge-hls.doppiocdn.net/hls/153591971/master/153591971_auto.m3u8
+删除Angel-Bei-bei 
