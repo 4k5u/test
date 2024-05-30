@@ -8,7 +8,6 @@ Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d85c4062b398015e01e3154145593a6b481e006182f0b14ee7b90937229e3f7f_trns_h264/playlist.m3u8
-San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 cuddles_me   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-7af912d79ef33aaf63cbd5a4d575d7e3f0b9d3c3c673085a674e9b44a386f361_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
