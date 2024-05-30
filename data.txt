@@ -1,9 +1,7 @@
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNzA2ODAzMn0.s1efYSEAeY26-V4lvgp4cdAnmisioFOO_xdB7IFLm3i2CLzYnXjW6VIql3a8_7b_XZNNEKqFr2izC9y_Xz-7REIJpHSzyhIibWK-TyVYnx6VE7VSYBKfHesHb2aMfRez
-nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNzA2ODA0MH0.pGXOwhMDO1HHRBl-rvmiYYjZ0eL6OHUPNQmJiTcgEFM2JqJHEpzwqck4m7u1Ts6j6CX0-E9vMdJ6U4o5webr10ZWChj0wmSizqZnxIRejKTohajcc51P-zQcVfGH41i2
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bd07c0eb05fb77ca132c041dd27306e32e68f28807661dd036f75d47efef8eec_trns_h264/playlist.m3u8
-Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNzA3NjA4M30.el_KZ9jCp8GLMjbTOaL-6WJwd-dP6Cpg1daZDRj5dtosJeThg52v3ZMp4Yl3ow1CpyLKbXoTsGIeCEQmbzHL_thYVekayVKlU6Xl4ZFxyrbDNbif0lpzP4fEkFBK-Z56
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 intim_mate   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-859f568efcb5af1df6cda123f88cd53f69b09bd6a7143f7dffdc14f403db1eae_trns_h264/playlist.m3u8
@@ -13,3 +11,6 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UAaJouFWA7Fx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VBYUpvdUZXQTdGeCIsImV4cCI6MTcxNzA4MjcwMX0.NJ_oVdXRg0ZEgYiGCmb4ZMKX7sCpPH0_u5js5IaIYwkexsHgVdWp4s-FUqAg6yFIKwTxkuE00bZ3ZxFSZYLMh4P6uIbryxMGmArys_A_t_jwYiqYlu4PA4jlKvLBW2Ms
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
