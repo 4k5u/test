@@ -220,3 +220,9 @@ Thu May 30 16:43:19 CST 2024
 Thu May 30 16:59:45 CST 2024
 Thu May 30 16:59:58 CST 2024
 删除Angel-Bei-bei 
+Thu May 30 17:24:03 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxNzEwNDI1Nn0.eGvPWHSeULt-Ocs7r4QBe_fD1rpfiCgA6jKq3RE8SdNWRJ1cqfJoYBjdH0TQgL1j7Pg0kFYFyigkFJytYSTXW3X0SKhQHZMLDJhBTXf_P7Ba9p8-WCmtCD-SVt03gjBO
+Thu May 30 17:24:21 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ab9GTf6WDjzxON1GE5ivvBujPiK8mwPbu5ATzLhUXt4sMRvKAb1bSb8iEi_AJyhQ6_z_5GpEH1iOqtRVZo6T8Q
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+删除sigmasian 
