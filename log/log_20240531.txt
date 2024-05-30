@@ -90,3 +90,8 @@ Fri May 31 05:50:40 CST 2024
 Fri May 31 06:02:59 CST 2024
 Fri May 31 06:03:11 CST 2024
 删除San___San 
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d85c4062b398015e01e3154145593a6b481e006182f0b14ee7b90937229e3f7f_trns_h264/playlist.m3u8
+Fri May 31 06:26:04 CST 2024
+Fri May 31 06:26:16 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
