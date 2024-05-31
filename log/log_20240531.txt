@@ -172,3 +172,12 @@ Fri May 31 13:41:57 CST 2024
 Fri May 31 13:54:08 CST 2024
 添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxNzE3ODA2MX0.CIEQ4IgJSDFrN0rP9IeshFd4gle-OOit-axxSN8BQ2SiBJeTJjQL9sNLRD9pvqmbi1WxrL9fnyIHrD6VRwf8ER80Z7tn8b6O6UsCTGLOqrhj_QeE9ahalbE_iR9vxqBy
 Fri May 31 13:54:42 CST 2024
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-182ef790a634cc3a8024bc42dd5ade49ada292641d0cea1496658317d9c15df6_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1202bd846fec87654dcf015a0064d8b1eeb88fe05cdd7cdb2f0759d038891c8f_trns_h264/playlist.m3u8
+Fri May 31 14:28:19 CST 2024
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxNzE4MDExOH0.yS3-G-23qvmneO_IAem6Lp-P3Ut_1KFzMMY9ptsZHBjsOj98NdB7PXfFPlxLROgqjeiKyISohdC-pP8GKkrtOHmJfOnwi15bWtgYIoMohHWpXovTBa8nkm_qvzP0bLVp
+Fri May 31 14:28:52 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.78_Kh91J6JROyPjSPxwuQUa5zJ7LwfzTh91tmNOxwbdadOIbc2JXfyevHuHSFuba2co48AnptR38Fg8z4zymwA
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+删除getme1004 
+删除Xenomy 
