@@ -45,3 +45,7 @@ Sat Jun 1 02:50:24 CST 2024
 Sat Jun 1 02:50:51 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RZ1jTbNwE2DpxxelmLzOPO106T5D9hweANru69DuZEOUDHNq7wDjhxIii_keZ4kfXXTyEZBTt57vqCYXYcUShw
 删除iminako 
+Sat Jun 1 03:03:04 CST 2024
+Sat Jun 1 03:03:28 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除jenny9999 
