@@ -7,3 +7,4 @@ Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0e200ca3c14a4197d3affe12fd396dc01a26b4eb57e74bee36d80ed58b219d73_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c9667945fe50a53ce32acd4a41e551a50e9219e457d8ccce6a3b2dadd4c32d17_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
