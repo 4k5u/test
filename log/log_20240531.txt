@@ -256,3 +256,8 @@ Fri May 31 19:23:05 CST 2024
 添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxNzE5Nzg0Mn0.WJcfVkHP-2aeUT01Ns8aNGEk8yhLsvPmCVsoUvQIOjFUkrxQTJLtN5E3NrbiGJplOjW-CfEppMzjIkfZCcYy8THUGqCE7VxEkbjXbmqXFKc7znu-wzH6PuPMPZ-KQ8O2
 Fri May 31 19:24:16 CST 2024
 删除howru010 
+Fri May 31 19:40:52 CST 2024
+Fri May 31 19:41:31 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K-6AVvGdQ6VgVhNZnrCzZKENJv3zMCpxvveLyPB5tVsNxAgh-qeVLhNsbzlKU0MsNxw0oWSX5f4m5uEDHymd9A
+删除AkiShina 
+删除muse62 
