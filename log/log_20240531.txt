@@ -191,3 +191,9 @@ Fri May 31 15:01:02 CST 2024
 Fri May 31 15:22:54 CST 2024
 Fri May 31 15:23:12 CST 2024
 添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+Fri May 31 15:36:06 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNzE4NDE4NX0.sN1FU8sQV-Mg-oRX5yzgc6vdhpcHvRqMWhE4cTEM7varCFORVTRYDEHEvLiQFwYKA-BcbnUd1QKCwOgOLajobbgC162mhnaqLd1w1LGyH3dJCSuw3sfRV7CDdrzm_rth
+Fri May 31 15:36:39 CST 2024
+删除intim_mate 
+删除asuna_love 
+删除EmiliaGuess 
