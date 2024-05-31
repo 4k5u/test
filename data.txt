@@ -7,3 +7,4 @@ mazzanti_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b85ff9
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 cuddles_me   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-86d87a4c076913fd6ec2695168c059e2975bbb3caacdf1a67e6b907b4803c519_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8

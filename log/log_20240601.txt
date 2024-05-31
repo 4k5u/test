@@ -71,3 +71,6 @@ Sat Jun 1 04:41:07 CST 2024
 Sat Jun 1 04:53:30 CST 2024
 Sat Jun 1 04:53:45 CST 2024
 删除thgml1212 
+Sat Jun 1 05:20:31 CST 2024
+Sat Jun 1 05:20:43 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
