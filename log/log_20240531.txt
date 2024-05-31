@@ -275,3 +275,7 @@ Fri May 31 20:39:09 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除foxylovesyou 
 删除my_eyes_higher 
+Fri May 31 20:59:03 CST 2024
+Fri May 31 21:00:01 CST 2024
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KwGrZO9OIDrjV0rNjWVUVmXupdjIs2OM4UxrSnYMgZ0b8vPWJrPM-m5R5phy3LAs9Zq6wGjHZXZ6eGnIHPheTw
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
