@@ -181,3 +181,6 @@ Fri May 31 14:28:52 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 删除getme1004 
 删除Xenomy 
+Fri May 31 14:43:50 CST 2024
+Fri May 31 14:44:11 CST 2024
+删除sigmasian 
