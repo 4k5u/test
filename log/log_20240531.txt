@@ -166,3 +166,6 @@ Fri May 31 13:26:07 CST 2024
 Fri May 31 13:26:25 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.A7QT9fBhBYGEqcU5sme4RD-SYzDwPp_uMpaGtzUDI4pr5oqSy45yg16Z032v8ZN7ZQ9HwFjVmQOwv-8oDVc3Wg
 删除IdaJonesy 
+添加your_desssert https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-55fb465e1e883daa954d1ede8a521e37c9ae88b0a5980f83b7efebbfd3c4e754_trns_h264/playlist.m3u8
+Fri May 31 13:41:39 CST 2024
+Fri May 31 13:41:57 CST 2024
