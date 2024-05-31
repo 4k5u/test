@@ -112,3 +112,11 @@ Fri May 31 07:42:55 CST 2024
 Fri May 31 07:55:23 CST 2024
 Fri May 31 07:55:35 CST 2024
 删除San___San 
+Fri May 31 09:22:30 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNzE2MTc2MH0.dLtTj9b65IuPTae-sa526nxjc386K2e7dLa1-AiwlGTboYCesMuGiVyHPq7ZceJxxn_05DlKKs2wttegTRI2jQerJ1FhdYTuxLvReNj_1ITNMfnbtxN5saJLRl7SydDC
+Fri May 31 09:22:54 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+删除thgml1212 
+删除Sime_Naughty 
+删除morphesoull 
+删除cuddles_me 
