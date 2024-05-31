@@ -188,3 +188,6 @@ Fri May 31 15:00:41 CST 2024
 Fri May 31 15:01:02 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除4ocari 
+Fri May 31 15:22:54 CST 2024
+Fri May 31 15:23:12 CST 2024
+添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
