@@ -157,3 +157,8 @@ Fri May 31 12:43:12 CST 2024
 Fri May 31 12:43:27 CST 2024
 删除starsh2802 
 删除TefFfish 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-effe6986d460bbd35bdfe432ede7db67f04edec9dfb5c0a9266cf5256019e5ee_trns_h264/playlist.m3u8
+Fri May 31 13:00:44 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNzE3NDg1NH0.Z_GJjNb5HasnF532Gi2rjKCUA7f5SEF0zXcC7XpGffnQ6qlGL_VM9zSQSXubgqTxpJL40yAs03pZ1bJVfANIu2ukcaVfB09LthpT7P2bMCiwildG0SG_iwU8RTqOAyAm
+Fri May 31 13:01:15 CST 2024
+删除my_eyes_higher 
