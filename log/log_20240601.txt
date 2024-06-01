@@ -182,3 +182,9 @@ Sat Jun 1 15:00:11 CST 2024
 Sat Jun 1 15:00:41 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 删除4ocari 
+Sat Jun 1 15:20:47 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNzI2OTY3Mn0.Y991EXOlYdAvjH0vVXTlkyzA81bCkKrgS9JYskcfkxnY4Y3CHdc55E4DWisPyhTcmPYJRHsH2Uoy9IoP72wh0dZM5aK8JHB1-URaaotwWDxropPcDyb4qcf29Ngfef_u
+Sat Jun 1 15:21:26 CST 2024
+删除2dayday 
+删除alicelebel 
+删除lucy_1811 
