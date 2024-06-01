@@ -178,3 +178,7 @@ Sat Jun 1 14:31:07 CST 2024
 删除asuna_love 
 Sat Jun 1 14:43:35 CST 2024
 Sat Jun 1 14:44:05 CST 2024
+Sat Jun 1 15:00:11 CST 2024
+Sat Jun 1 15:00:41 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+删除4ocari 
