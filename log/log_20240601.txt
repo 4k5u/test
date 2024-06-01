@@ -294,3 +294,9 @@ Sat Jun 1 22:26:26 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
 删除somsom0339 
 删除Hahaha_ha2 
+Sat Jun 1 22:39:54 CST 2024
+添加pyey3380 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.O36mav8TiKDG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL08zNm1hdjhUaUtERyIsImV4cCI6MTcxNzI5NjAwOH0.Hmjr2cDoWbArlBFovVs4l3vVY7l2_UADz2_FkjHxhpeOYsjGXnUMY4tfJiHqwBS3dAG7sjqwVyT0uHE7S1PVd7DBbUtJ2VEkTslqGK6j5fpcEVnSE9IAI5BY2QHFrAui
+Sat Jun 1 22:41:22 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OEnUK7XQ4NG86UDb3DVYwLXQ3YD5KbagIgbGoTQzppoYqhalAThT_icTtJlC7RwZE0THPJoH7DzYbYAWX5d1bw
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除hyuna0721 
