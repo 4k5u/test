@@ -117,3 +117,11 @@ Sat Jun 1 09:28:04 CST 2024
 删除dkdlfjqm758 
 删除Sime_Naughty 
 删除my_eyes_higher 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c5c437ee95110a7ac7c411380bcb183d57eee2cde7fc764a2fb3b3450c0e82e0_trns_h264/playlist.m3u8
+Sat Jun 1 10:23:32 CST 2024
+Sat Jun 1 10:23:53 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IFGYVlndwSCNrj1Du5lvo64JpJ3BYYExua3greo01R2VTiL2SZDL3Pjv2ww4KexIO3PCfNpHUZO6Z27eWLEoDQ
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
+删除SanySenise 
