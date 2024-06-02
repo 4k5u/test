@@ -6,3 +6,4 @@ alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 BadAngels666   https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
+mazzanti_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e77a0feee7e09b6ab86b7c58f7c20c3ed1c34acdd3da9bbe4bbedd6f2c58a965_trns_h264/playlist.m3u8
