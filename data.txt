@@ -7,3 +7,4 @@ oda_assuri   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-eca93
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNzMzNDg0M30.iNnn2Lov9ZLO9mVXgkKDMfZknKUN0vTpcFr6tUBrl0IKLqOg_2rQwEaHtsDyLMX2vWXZuM0WG44o--kxqaankFcXlCyHmX6OS43qu3LYATsMgl0KbSLWG0wC4Ev2vJB1
 Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
