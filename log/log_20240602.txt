@@ -268,3 +268,7 @@ Sun Jun 2 21:34:09 CST 2024
 Sun Jun 2 21:35:15 CST 2024
 删除galantini 
 删除grandeeney 
+Sun Jun 2 21:50:14 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxNzM3OTQzM30.hPmt3ErSxMBa8W2jh_VxcngnPX51pDHzvLIxfu9sFM1Yh2usLidEShsaOLe_ZW2IGcMuvk-nUY98P58gOl8AGnqvYhXBMEWioSTVOcK3fBkL_pDcfGSPx8od2_53idCc
+Sun Jun 2 21:51:33 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
