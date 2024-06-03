@@ -268,3 +268,16 @@ Mon Jun 3 21:42:26 CST 2024
 Mon Jun 3 21:52:59 CST 2024
 Mon Jun 3 21:53:57 CST 2024
 删除galantini 
+添加galantini https://edge16-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-dedaad8aff4903628bfe0998dad0c2e3ca17f37a71807d47e8684df731b29bab_trns_h264/playlist.m3u8
+Mon Jun 3 22:21:10 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxNzQ2NzcxNn0.69-YZrCoWm5Ctb7vJhfTC_FBIBEC_5xwld9dCw7ZNeFx7waxaV79UJDk0DeJSY7GQ9ttaHaA_lsLAD9vpQlagOU-PqFynXCsC1YmF5Tp1PdUFqiYgMp4Q7LIScdpOtTF
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7Cfy3ql0Mhx5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdDZnkzcWwwTWh4NSIsImV4cCI6MTcxNzQ2NzczNX0.7Dr0r1pbzOMHJ7lmwIfuMXfbgaSLog2EGDgMAn_1QElKL5GOCdJFJp7rhbSGM3XSB8seD6xPcVmH0Athv3M4SkI8XVVznaD-Zpk4FXeUeA7ycjcoyWsm1gBwv-n03ZjY
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SRnz7NoABErK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1NSbno3Tm9BQkVySyIsImV4cCI6MTcxNzQ2Nzc1MH0.P6pmzEs3fIoSa2fsbySK6Ft_T_lhfqCWG8HKIM_JNNZU3C6Jnm3IbiIulcFXhh4scvrjIbLbVMagiKxnib51Z4BIlnq1U59xBXNFz4MJw_Nw3460jl06mmmKmBLx5mIz
+Mon Jun 3 22:22:48 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+删除howru010 
+删除somsom0339 
+删除mikio_san 
+删除hanny27 
+删除Daji-Lovely 
+删除redholic377 
