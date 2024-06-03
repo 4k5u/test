@@ -118,3 +118,7 @@ Mon Jun 3 10:24:31 CST 2024
 Mon Jun 3 10:25:04 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+Mon Jun 3 10:48:50 CST 2024
+Mon Jun 3 10:49:11 CST 2024
+删除morphesoull 
+删除Xenomy 
