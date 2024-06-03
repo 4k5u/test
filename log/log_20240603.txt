@@ -202,3 +202,9 @@ Mon Jun 3 17:40:30 CST 2024
 Mon Jun 3 17:41:01 CST 2024
 删除oda_assuri 
 删除Sime_Naughty 
+Mon Jun 3 17:53:35 CST 2024
+Mon Jun 3 17:54:05 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dO9EwNgf5KRmJF8eWigFYUDbLDm1-nLA8n0bSwmZO-v5B0nHMn8EGPM_HzHFYrIiG7LROTc50b4k7UjMZo_-qQ
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除ake_mi 
