@@ -96,3 +96,7 @@ Tue Jun 4 06:41:01 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 Tue Jun 4 06:53:19 CST 2024
 Tue Jun 4 06:53:28 CST 2024
+Tue Jun 4 07:22:01 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNzUwMDEzMX0.fw02wJHi8uT7OTR1kMEKAw4kgPXp5bALDj4kW4eYtNpcGGVx4kWM3-9AVl0jZqkWkWQ4iCLpKxFmKHzUSgMKMXhZnrUw0IcUfHO-F0NWez1frl0jA08jj3VcmThRlHQC
+Tue Jun 4 07:22:26 CST 2024
+删除morphesoull 
