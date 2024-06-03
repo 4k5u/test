@@ -22,3 +22,6 @@ dmsdms1247   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 day59day   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7Cfy3ql0Mhx5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdDZnkzcWwwTWh4NSIsImV4cCI6MTcxNzQ2NzczNX0.7Dr0r1pbzOMHJ7lmwIfuMXfbgaSLog2EGDgMAn_1QElKL5GOCdJFJp7rhbSGM3XSB8seD6xPcVmH0Athv3M4SkI8XVVznaD-Zpk4FXeUeA7ycjcoyWsm1gBwv-n03ZjY
 imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SRnz7NoABErK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1NSbno3Tm9BQkVySyIsImV4cCI6MTcxNzQ2Nzc1MH0.P6pmzEs3fIoSa2fsbySK6Ft_T_lhfqCWG8HKIM_JNNZU3C6Jnm3IbiIulcFXhh4scvrjIbLbVMagiKxnib51Z4BIlnq1U59xBXNFz4MJw_Nw3460jl06mmmKmBLx5mIz
 grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8

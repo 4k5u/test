@@ -281,3 +281,8 @@ Mon Jun 3 22:22:48 CST 2024
 删除hanny27 
 删除Daji-Lovely 
 删除redholic377 
+Mon Jun 3 22:35:10 CST 2024
+Mon Jun 3 22:36:08 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
