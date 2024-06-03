@@ -144,3 +144,7 @@ Mon Jun 3 12:42:42 CST 2024
 删除acac88 
 Mon Jun 3 12:54:48 CST 2024
 Mon Jun 3 12:55:04 CST 2024
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0c6fd64b366b32832abb8715b2e6c2fbd16badb30e84c34fd4da7b69b5a84a8a_trns_h264/playlist.m3u8
+Mon Jun 3 13:22:07 CST 2024
+Mon Jun 3 13:22:19 CST 2024
+删除jjine0127 
