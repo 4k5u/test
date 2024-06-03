@@ -47,3 +47,7 @@ Tue Jun 4 02:43:57 CST 2024
 Tue Jun 4 02:44:18 CST 2024
 删除moem9e9 
 删除day59day 
+Tue Jun 4 03:00:10 CST 2024
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxNzQ4NDQyN30.xgAIvCnKED1_krI1BtwWNNIQNyo_DPNh25wpdry7nHMNRXUQTWu_oLcSMNIF3Kk6sFijlPsrxiUsnWxVsg5WL5SIFW2oiV0jshrPNA5Jmm3Idp6ORl5y2GNUljzJcY-G
+Tue Jun 4 03:00:47 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
