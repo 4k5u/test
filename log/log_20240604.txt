@@ -3,3 +3,10 @@ Tue Jun 4 00:15:28 CST 2024
 添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除banet523 
+Tue Jun 4 00:37:52 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNzQ3NTkwNH0.kI0m38DxUYUgCFaq7QheaG7elM-xpb3I3BeVYJAbETqo0Tunii2S39Hzs9hUOowngJ3esUYGwB1EgHId9nt4Bmk7sza2-4MuXZgcRqt8Ft2-mgq0faZXBVaAae0RThjN
+Tue Jun 4 00:38:56 CST 2024
+删除kjjeong0609 
+删除yourare 
+删除cool3333 
+删除Daji-Lovely 
