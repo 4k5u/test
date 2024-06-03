@@ -8,3 +8,5 @@ alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 mode_bad   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0c6fd64b366b32832abb8715b2e6c2fbd16badb30e84c34fd4da7b69b5a84a8a_trns_h264/playlist.m3u8
+ake_mi   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-8bad2a2f09905eaaefb148edb970c37fbc94a10f10b813af1702cb4e604d66bd_trns_h264/playlist.m3u8
+howru010   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.l1Bv64tPTV69.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2wxQnY2NHRQVFY2OSIsImV4cCI6MTcxNzQzNzA2Mn0.E2wFpx4CbfRKIv74XaIflfd65HkUll8_BNx-mblzIa9MiU7W_f1MlWYPzfaSD6f9V5spKr42FjTNFksPA82mfQPGHmHiJI8Wg4wIYKJjf9P88yAEOlA-7jLp8tvM-4zX
