@@ -216,3 +216,9 @@ Tue Jun 4 17:42:13 CST 2024
 Tue Jun 4 17:53:37 CST 2024
 Tue Jun 4 17:53:55 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+Tue Jun 4 18:22:42 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxNzUzOTc3Mn0.t9IpRYEoA3mEzbUZ7frpiiceZkSKV1JWdJOGh-Q3eyp-t2cfMv9gCcneL9M_iPNQCXMiS8eGovPrxqCny0x4Et5E1s8Bf5Ym16uWMj9oWS9fk2OSsfOek55KNti97l1v
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxNzUzOTc4N30.TOtVkB2ci0Ld7bEmIme1kpMohIEw5WnPdAtf6bCf7-8TYI3u-ulp9c1TuhlSuiBbCh_C86zL1uyJvxf7xAM5rJgMzHOZZsgu7C0a_cxHM3VxikrpRz8GLqcZWQbPBaGF
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxNzUzOTgwNX0.3ESQU7nSKx4sUop22LYP0wIsaHkqK1tmzwlI6ijeJGX5lrEiufPb0_yZvfwYE53EdQnp6mjAnntA_d7VaTqSoHvKPpNHKOo93L7s3EO-expY5_zN_WDkLkLwo2lMjNJl
+Tue Jun 4 18:23:46 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0osuXtfnMDmXr8o_cbDTrmwZFLi74NeTH3XLXlRpG2jyc-s0ZsPIhQ_aaVt3aOPzEiMe7skLsTIlBrkVH0LL4Q
