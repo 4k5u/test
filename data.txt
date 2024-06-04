@@ -1,6 +1,5 @@
 dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNzU1MTY3OH0.HKiFYlE5ZKxXEAQl0fGfgeQd4TyjJvtwTkRDiMuxrZm2x9ybltZQ9MDJ9w1vtV-SZNVut92uNWZSFe9iSagEVssLqrFFeo4Fuh2Wjl7v_RM-5GmvB04L2g2HLdvZ9Nug
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
-gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yI_yfGKZWbW0xSqs1AEgzKL7nho3-gIQ39IgfPd8xWPrFHqPVc3q0nHdliXY2fZdOB-80dcy6Wv5y-NutXGGGg
 starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNzU2MTYwNH0.Zl1Z7IGP8geJHWpLCYgF4TOknKsDaAT_o0QY5R3wyn-IyQ4AVWA6NETQ1Pc5oDC3b3BJnL6FkxatLZMF7J4-oarrCxsKNJ49d_xxfdFtpXvg3xhu63B22nT0RdDqCMCD
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
