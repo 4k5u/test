@@ -315,3 +315,9 @@ Tue Jun 4 23:03:47 CST 2024
 删除jubin0725 
 删除lovesong2 
 删除onlyone521 
+Tue Jun 4 23:27:59 CST 2024
+Tue Jun 4 23:29:00 CST 2024
+添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除flower1023 
+删除EmiliaGuess 
