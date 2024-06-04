@@ -62,3 +62,6 @@ Wed Jun 5 04:41:01 CST 2024
 Wed Jun 5 04:53:32 CST 2024
 Wed Jun 5 04:53:42 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+Wed Jun 5 05:19:25 CST 2024
+Wed Jun 5 05:19:34 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
