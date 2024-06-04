@@ -302,3 +302,7 @@ Tue Jun 4 22:21:02 CST 2024
 删除emforhs1919 
 删除54soda 
 删除Daji-Lovely 
+Tue Jun 4 22:34:12 CST 2024
+Tue Jun 4 22:35:24 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除TuTu-1001 
