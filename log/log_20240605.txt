@@ -204,3 +204,6 @@ Wed Jun 5 18:38:19 CST 2024
 Wed Jun 5 18:38:40 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除imanatural 
+Wed Jun 5 18:50:30 CST 2024
+Wed Jun 5 18:50:51 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.F_YJXxzr9_EbO7zQ7jxXh4MLhLvvuHpArbzDHb_2Q_LmQUeX53kyGVysiFou0IZ1qKw7yTBv0w3d2AFlYQlZag
