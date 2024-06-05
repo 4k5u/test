@@ -42,3 +42,6 @@ Thu Jun 6 02:44:27 CST 2024
 删除jinricp 
 删除Angel-Bei-bei 
 删除BadAngels666 
+Thu Jun 6 02:59:51 CST 2024
+Thu Jun 6 03:00:18 CST 2024
+添加BadAngels666 https://edge-hls.doppiocdn.net/hls/72074659/master/72074659_auto.m3u8
