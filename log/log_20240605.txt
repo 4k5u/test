@@ -249,3 +249,9 @@ Wed Jun 5 21:26:08 CST 2024
 添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxNzYzNzIyMX0.J3UC9q2mupHgQ2AGcCmQnSMwq4WsMyY2O1s8RCnwVXejKXbm_-fCav2rxzMfBC61jkdiMG4XhbGhrYbGOh7QvMM16m4VmGLu1FKIVY0RGkyIHGOFHL2DDmHqFOqR9E2u
 Wed Jun 5 21:27:31 CST 2024
 添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xV-wjfFTiV51T4JoknxFyzLxweiyn9odvE09Cg-ETEf2oyf7Ep4ym0MRjlVpzlZcxVrcBsrug66iYQeQ2-S-fw
+Wed Jun 5 21:40:17 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxNzYzODAzM30.lDAUTcumDpz8A_b8bKWGBj4KpPe_0w04cKFGEcGdUy7Nk8BqGdcXgfqUP_J1Tu1QGcu481VW2cZZJJmr1xSUSqs4vf-5nfcm02HcSwxyuMZ3p2lksgxuTLYBG4ZlnizH
+Wed Jun 5 21:41:16 CST 2024
+删除imissy0u 
+删除sabrina_hk888 
+删除EmiliaGuess 
