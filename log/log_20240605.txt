@@ -200,3 +200,7 @@ Wed Jun 5 18:22:32 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNzYyNjE4M30.DkJUDBx8L-yE72bO4Z2-C4CyjudhF8VI_yC8ldG6d9bq-e-hIoqWRr0HX5ZWUD9DrXQ9y3wxpU8_wI_z81sB2u2wYa0dzozLkLenV8qoZ00lzf4niBL1Q5Zz1k8EQkS2
 Wed Jun 5 18:23:18 CST 2024
 删除EmiliaGuess 
+Wed Jun 5 18:38:19 CST 2024
+Wed Jun 5 18:38:40 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除imanatural 
