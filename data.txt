@@ -3,7 +3,6 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 oda_assuri   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-43c38b98a6979ea368aacf498b468b3067ff928ed0bca9aee46b27c55d51f5cd_trns_h264/playlist.m3u8
 4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNzU5NDU0NX0.SIO6LxgNalSewX3kmBu6CAELrlnM19sAk9qbxCXv5AYu71BS9h5_65kR_67JMeO9xru-5VDZpmbSru4t9_4NheKxOiS1xPXdIDax-qpfZFgi3ZNmwSGqxQ5Ts1epe2UA
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNzU5NDU2MH0.qeOPTOKtHafD4tN0gRvoYG5onFX0vQ7nYz1rmp59XO9D_lS4_Nt6pHGuSPT22SopAcuyIZvX341Z3452hbYKgof9ZgwFDeEiGdqHCakXRo_FSO_yOY_D0IcnqGbk1jCN
-Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
@@ -11,3 +10,5 @@ getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 TuTu-1001   https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
