@@ -266,3 +266,7 @@ Wed Jun 5 22:37:31 CST 2024
 Wed Jun 5 22:51:05 CST 2024
 Wed Jun 5 22:51:51 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+Wed Jun 5 23:02:08 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNzY0Mjk2OH0.yHyzi5HO2CoIrZKrslukV0NOktcleLDBUEdj-9RMJLVOgvKHPKI_IlR8rYzWVgvEw88erBbchpmhoudfWbDaORGmno11xxk3q79_lbQDskN13ZGwKcP7waCjhebZ5aPk
+Wed Jun 5 23:03:06 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
