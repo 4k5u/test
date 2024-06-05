@@ -184,3 +184,9 @@ Wed Jun 5 16:30:52 CST 2024
 删除Stbeautn_oO 
 Wed Jun 5 16:44:15 CST 2024
 Wed Jun 5 16:44:30 CST 2024
+Wed Jun 5 17:27:22 CST 2024
+Wed Jun 5 17:27:37 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除oda_assuri 
+删除Ryo-sama 
