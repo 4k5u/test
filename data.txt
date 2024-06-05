@@ -1,5 +1,4 @@
 oda_assuri   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-43c38b98a6979ea368aacf498b468b3067ff928ed0bca9aee46b27c55d51f5cd_trns_h264/playlist.m3u8
-2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNzU5NDU2MH0.qeOPTOKtHafD4tN0gRvoYG5onFX0vQ7nYz1rmp59XO9D_lS4_Nt6pHGuSPT22SopAcuyIZvX341Z3452hbYKgof9ZgwFDeEiGdqHCakXRo_FSO_yOY_D0IcnqGbk1jCN
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxNzU5NzQwOX0.A5spq8VsQyk7cEfNh32OqQXGzKcD_Xnj8U5dJhNLiSLuK6BRc9eHltACI5jZPUPIgFIGy-vKj44GqsLFAAy5m_8pNScQ9v2w18LLnSbzxb_qXIPZYKADiZfbDWXTewsc
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
@@ -9,3 +8,4 @@ foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-47a2140e1199ab04c2503e5fe9fd3e54a7ee7a2ba7e872709c8d2dfa59ffe949_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNzYxNjE1M30.3c0r87klxVNReKbl5tFyHTyPYIVbiM0e1tjRaJgzBB3UkZQbZ5IWTLoqZ4iF2gsY8YfJbAbXPnHM-OsrXEsKbTi5Y7-srUujm3k28X8bqInek-TnYhAp7JxANrxtw53z
