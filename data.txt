@@ -7,3 +7,5 @@ Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SRnz7NoABErK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1NSbno3Tm9BQkVySyIsImV4cCI6MTcxNzYwNDg1NX0.q21xBFP-F_cUly_tm_PtCykaxOUPUC3wbTaTZL7bCjqnioUPKW_-5UsEa2rE-_HAImBT_aTDOEiy9H0yaK5YB86cXlMHBdRBOkVcK46nvKwit2nxPhjr28-F3kUseMsF
 foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-99d7acb6658a39a08a8a952bb9225308ec7a21f5749ccc08ce5b66ea54a2703d_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-47a2140e1199ab04c2503e5fe9fd3e54a7ee7a2ba7e872709c8d2dfa59ffe949_trns_h264/playlist.m3u8
+Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
