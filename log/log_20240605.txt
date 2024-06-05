@@ -148,3 +148,10 @@ Wed Jun 5 13:40:52 CST 2024
 Wed Jun 5 13:52:54 CST 2024
 Wed Jun 5 13:53:15 CST 2024
 删除TuTu-1001 
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-99d7acb6658a39a08a8a952bb9225308ec7a21f5749ccc08ce5b66ea54a2703d_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-47a2140e1199ab04c2503e5fe9fd3e54a7ee7a2ba7e872709c8d2dfa59ffe949_trns_h264/playlist.m3u8
+Wed Jun 5 14:28:37 CST 2024
+Wed Jun 5 14:28:58 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jNV47mIeRJEj6H5yus2G3ERbQ9pistmt4zy3ehGaLKFRbTKBQ4amaLvaAZAWrn08-WkH_7rAdsqMNmg5fpjlQA
+删除_PunPun18 
+删除Glenda_1 
