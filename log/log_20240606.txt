@@ -218,3 +218,8 @@ Thu Jun 6 17:26:54 CST 2024
 Thu Jun 6 17:27:27 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除grandeeney 
+Thu Jun 6 17:42:04 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UAaJouFWA7Fx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VBYUpvdUZXQTdGeCIsImV4cCI6MTcxNzcxMDEzNH0.lbqqpXsrsHnoOKC5LAXQFhpYrRf03mGAIS4hHx6koEWzF5o_H35wAy39IRK4AvoH7QQ0H2ZxeSvXlEE4YM4MK1alU38mu1HChdR0JGN9sOlUcjmJM0VTKOGts18Rfp8v
+Thu Jun 6 17:42:41 CST 2024
+删除mode_bad 
+删除ake_mi 
