@@ -317,3 +317,10 @@ Thu Jun 6 22:51:47 CST 2024
 Thu Jun 6 23:02:45 CST 2024
 Thu Jun 6 23:04:03 CST 2024
 删除lovesong2 
+Thu Jun 6 23:26:19 CST 2024
+Thu Jun 6 23:27:31 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除qwas33 
+删除your_desssert 
