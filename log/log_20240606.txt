@@ -193,3 +193,7 @@ Thu Jun 6 15:04:05 CST 2024
 Thu Jun 6 15:24:36 CST 2024
 Thu Jun 6 15:24:54 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IbL02bnbPJOWaAkUtEbHyCYu_jgYCr5LV0oewjlaA11hFSvJGhvU51NOpsPAQMp-0BgFwQg1TQL8DG3tqkpPwA
+Thu Jun 6 15:41:16 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxNzcwMjg5Mn0.SzLaq6F5cj5Aww3tqPicWgFf2t8JAJGYQYm8cnbhhp3rqs9yi3EwIwtyplcCh9DheIRRRhJgrZBUw20Qe3klxTnBo9UKbQroNmulXqhqPVVRCRNLIkiT-1bSJR3oAEVx
+Thu Jun 6 15:41:47 CST 2024
+删除4ocari 
