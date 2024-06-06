@@ -253,3 +253,8 @@ Thu Jun 6 19:34:31 CST 2024
 Thu Jun 6 19:35:10 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+Thu Jun 6 19:50:46 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxNzcxNzg3MX0.6qIJL4hG0YFg_uaBtPEIKzx-GSfBh9sj7CVYkiKThDc0xWvXqEzyw1GyT_fP4syuDxRiqRlrnzeXI9w_94myyszpOt9Ne9aML3df80KGFEJIVPH68skuVh1OcI5NRObe
+Thu Jun 6 19:51:40 CST 2024
+删除AkiShina 
+删除JP-KARIN 
