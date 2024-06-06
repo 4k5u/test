@@ -7,3 +7,4 @@ Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
