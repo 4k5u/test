@@ -149,3 +149,6 @@ Thu Jun 6 12:25:03 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除imanatural 
 删除jjine0127 
+Thu Jun 6 12:41:52 CST 2024
+Thu Jun 6 12:42:07 CST 2024
+删除TefFfish 
