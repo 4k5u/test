@@ -1,5 +1,4 @@
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5fbdae8ea2a086eef80e262f81482e571484bfb0c12dc65348f75a8a64afa681_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-a30f239918238ae62d23af380f9e1d746c9ba5f8caa4f0557eb026d8ff5e3696_trns_h264/playlist.m3u8
 intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-a57891134e8e33ed2e3e3533b8b97489eb483663b37c3787f59bc61f76d34085_trns_h264/playlist.m3u8
