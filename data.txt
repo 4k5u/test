@@ -2,7 +2,6 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5fbdae8ea2a086eef80e262f81482e571484bfb0c12dc65348f75a8a64afa681_trns_h264/playlist.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNzY3MjkxM30._0Tj1PlK-W5A6hY731XElOe-PfegP7091Igcqd70oZ49yFpa2NN6jcHtbVnGy_agudNwgAo6iGJMcL8ry_AaEtbAXoAaDG0p6e2b_Z-R2en7Mb87OuZ8nwb4FG5cS5fi
-nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNzY3MjkyOX0.pjS92anMvJ9Gf5dBlgSwaMkfSyIJ4vyV50TPlIMLVzOxqs5kp9A1yD2NkKZLS4nHIQdy39dlpbOiFFXbmx-7zm931ciyvnvn7NnyEYINrq8mNB72aFYWENUgRvxXUGkc
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-a30f239918238ae62d23af380f9e1d746c9ba5f8caa4f0557eb026d8ff5e3696_trns_h264/playlist.m3u8
