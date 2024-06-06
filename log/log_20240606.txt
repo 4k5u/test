@@ -249,3 +249,7 @@ Thu Jun 6 19:21:40 CST 2024
 Thu Jun 6 19:22:44 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除Daji-Lovely 
+Thu Jun 6 19:34:31 CST 2024
+Thu Jun 6 19:35:10 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
