@@ -14,3 +14,5 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+_meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-8993956ad8f501f3a7f4b9fac114174592c55592bcb4ff547862b9062d18c7d4_trns_h264/playlist.m3u8
+Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
