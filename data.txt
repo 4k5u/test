@@ -7,3 +7,4 @@ TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3
 lovemeimscared   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImV4cCI6MTcxNzc1OTQ4N30.gTM81anAEJdN-pPwmUT3G3pqMQ79jlanhp9UQnVk4FSTRwO7qFjm4aTtpiF1Itf5NxY08S2E4QSxx8K9gmTfPWVLA_nPjZ-_34nlHv8W2zTJf_D2luJR1X9ZQlqAwmJs
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
