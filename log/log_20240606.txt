@@ -213,3 +213,8 @@ Thu Jun 6 16:51:30 CST 2024
 Thu Jun 6 17:03:24 CST 2024
 Thu Jun 6 17:03:42 CST 2024
 删除oda_assuri 
+Thu Jun 6 17:26:54 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNzcwOTIzM30.vTL6KFJw22Zg411RDhBvTF-KtWgpKRFA_Lcs7rFM_slpFSRUGIhebqvBrazsG-yDLU_EtdoCUkls9uDIKFTTxhtN5Ar7A5MUQUeIdZH5QZYgRGLmnLjLN2To4MHXmSZb
+Thu Jun 6 17:27:27 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除grandeeney 
