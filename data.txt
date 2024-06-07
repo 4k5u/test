@@ -29,4 +29,4 @@ glglehddl   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_pl
 Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 sabrina_hk888   https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
-San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+jenny9999   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxNzgxNTE5MX0.0-rJ1SeaUYZqbJS4Yx8Ka6KgX48wBthabsa47oZuFk5DsvC1D3mU_2VTXQaJ1RrGGC8REPcVJqGtj1owtLOPcMHvBgS0hkQOH7-EnItlwYwHEJxdvkQpKv7msPBerG4g
