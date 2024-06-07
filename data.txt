@@ -4,7 +4,6 @@ AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-72e62602a8ba05763e82b4ec8a7b341343c1356c6db2618d10ae2c6279273675_trns_h264/playlist.m3u8
 ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-412e56e2eb66be8d2edff590bec6ed4ced9ebfd05c8541e9d06bb35adfce0ed3_trns_h264/playlist.m3u8
-mode_bad   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-02b31f65d7e5b565174a762bf2fa164958be335f494df788196fdf352e924729_trns_h264/playlist.m3u8
 dkssudgktpdy233   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxNzc4MjA4MH0.4ecKqs21ceLjT-wZd6dG5c5oOkQVrNNuVVZB8xLECGqfRRZ-0-Pto_AHSvyh5SszgVrDUk-hyhAJhlQa-rr9H1rwRsSc6wJ9fiKX_Bjc2A0w-CtQPjQbd5E14OuYRshH
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e838f7a88635bb1114142a798cbdfb9fbd83ddcfafbe7fd25783b89bbaa3f452_trns_h264/playlist.m3u8
@@ -12,3 +11,5 @@ my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNzc4NDk5MH0.JwADh8EB7SgCOZ687ENC3KKLKwd72yj8YdIa7PHeeLTCBZwWwq3MgZG7ROX2ioaq-C6JLqF8ZYa0KuLf3NqayXXDkj5DP8vUNE01Rd4zxv7XCGRPGknT_v3_ekGfbHdX
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Xi8Tr90o30uW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hpOFRyOTBvMzB1VyIsImV4cCI6MTcxNzc5MjE4NX0.ywn_qzfwfcceD34Pnwg2-BJ6i_zhaHSz2i4JaUsnLvo8VU9-NomPgR_AxazSu7MijqYfPs3GEP5vlbkEojGi51Lbtspk0p6xTBW8LmkEAc-VNLKz4iIwClrViXSHY4WI
+Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
