@@ -4,7 +4,6 @@ my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
-Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-e4a53dd78e3d4ba59a307075f52e2f5125f5a87a800e6f4148871e9c06c81e5c_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 intim_mate   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e6c423730d78ed2fe91193119edb03f97ab4dec70d449602e93d1d815746b175_trns_h264/playlist.m3u8
