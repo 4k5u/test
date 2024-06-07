@@ -232,3 +232,8 @@ Fri Jun 7 19:24:25 CST 2024
 Fri Jun 7 19:25:26 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VXwsJynz6SJUFAUn35MgSg-HqzQLmLRGIikAzQq13zQoEyr77gCvYYsJB6f_PI4ljnP5cSOSk5fEFwTvfgtZKQ
 删除EmiliaGuess 
+Fri Jun 7 19:40:33 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcxNzgwMzY2MX0._waJY8if-SMlBbbGUT-R7RemdmT-_5cM55Y6NuEem5Pg_qIb4VcQ4OsFvzwxX8Cqmdxi0ABcv_3tn3K9_gi0kDVDQ32YZ2EVgtHz2i8Ga06OBKG0x6ZyyfmTP6EfEN92
+Fri Jun 7 19:41:24 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除AkiShina 
