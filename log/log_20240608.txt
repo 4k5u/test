@@ -88,3 +88,8 @@ Sat Jun 8 06:42:42 CST 2024
 删除ajswl12 
 Sat Jun 8 06:54:51 CST 2024
 Sat Jun 8 06:55:00 CST 2024
+Sat Jun 8 07:22:10 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNzg0NTc0MH0.yhwo9LhwnLYCAI-Lus83INtdhwXMZzMitjkZ12dOcF9w_7LJojJCw788D7kp2n3oB8irHS6qOxpIYBVu_BucAkecnIqu49EDEk2-fKmveImFAqkWGkeNzJFJbPB26Gnp
+Sat Jun 8 07:22:34 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+删除mazzanti_ 
