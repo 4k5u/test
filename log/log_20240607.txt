@@ -184,3 +184,8 @@ Fri Jun 7 16:29:32 CST 2024
 Fri Jun 7 16:30:03 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除mode_bad 
+Fri Jun 7 16:43:58 CST 2024
+Fri Jun 7 16:44:16 CST 2024
+删除Dolv_1o 
+删除Sime_Naughty 
+删除Daji-Lovely 
