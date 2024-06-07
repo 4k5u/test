@@ -127,3 +127,6 @@ Fri Jun 7 11:34:48 CST 2024
 Fri Jun 7 11:50:36 CST 2024
 Fri Jun 7 11:50:51 CST 2024
 删除Judy0523 
+Fri Jun 7 12:02:52 CST 2024
+Fri Jun 7 12:03:07 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
