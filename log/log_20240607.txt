@@ -141,3 +141,10 @@ Fri Jun 7 12:43:51 CST 2024
 删除Reaowna 
 删除my_eyes_higher 
 删除TefFfish 
+添加_meganmeow_ https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-72e62602a8ba05763e82b4ec8a7b341343c1356c6db2618d10ae2c6279273675_trns_h264/playlist.m3u8
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-412e56e2eb66be8d2edff590bec6ed4ced9ebfd05c8541e9d06bb35adfce0ed3_trns_h264/playlist.m3u8
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-02b31f65d7e5b565174a762bf2fa164958be335f494df788196fdf352e924729_trns_h264/playlist.m3u8
+Fri Jun 7 13:00:50 CST 2024
+Fri Jun 7 13:01:05 CST 2024
+删除San___San 
+删除sigmasian 
