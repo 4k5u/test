@@ -97,3 +97,7 @@ Fri Jun 7 07:40:29 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 Fri Jun 7 07:52:39 CST 2024
 Fri Jun 7 07:52:52 CST 2024
+添加oda_assuri https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-e4a53dd78e3d4ba59a307075f52e2f5125f5a87a800e6f4148871e9c06c81e5c_trns_h264/playlist.m3u8
+Fri Jun 7 08:46:19 CST 2024
+Fri Jun 7 08:46:31 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
