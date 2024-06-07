@@ -193,3 +193,9 @@ Fri Jun 7 17:01:00 CST 2024
 Fri Jun 7 17:01:18 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除ake_mi 
+Fri Jun 7 17:24:49 CST 2024
+Fri Jun 7 17:25:04 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除oda_assuri 
+删除dkssudgktpdy233 
+删除IdaJonesy 
