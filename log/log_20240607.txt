@@ -219,3 +219,10 @@ Fri Jun 7 18:38:50 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 删除EmiliaGuess 
+Fri Jun 7 19:03:43 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxNzgwMTQzM30.8bJ_oX2WsfnnbF9mpOsjDYMZIjE5Mbwo_Ielyf7JEJGivLPLRGTcds-3luYtYmsML2svzQQexYbJkirOSXbKJU8c6HkUE4qG6d93VkbNcVPWAwrBsuvXJt0LgeGbjdtV
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxNzgwMTQ2MH0.z4n7qTylvDEuj5XC7bhAF1Rqa6Bu1Fb--S2mJCSE0b0_N63jJA68ODBQh33FHnKYFsD0zNBUXoud770u5Y0hwmi62ytA-PiDek1TqEcE2gCoCXf1GVb9fr4SsIUG0qAX
+Fri Jun 7 19:04:38 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除_meganmeow_ 

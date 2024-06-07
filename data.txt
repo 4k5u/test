@@ -1,5 +1,4 @@
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-_meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-72e62602a8ba05763e82b4ec8a7b341343c1356c6db2618d10ae2c6279273675_trns_h264/playlist.m3u8
 foxylovesyou   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e838f7a88635bb1114142a798cbdfb9fbd83ddcfafbe7fd25783b89bbaa3f452_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ab9d49d1a4c78e43601d67a63a81ee3e3884a1b3aecc01bbb86152ad7d5d0e6d_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNzc4NDk5MH0.JwADh8EB7SgCOZ687ENC3KKLKwd72yj8YdIa7PHeeLTCBZwWwq3MgZG7ROX2ioaq-C6JLqF8ZYa0KuLf3NqayXXDkj5DP8vUNE01Rd4zxv7XCGRPGknT_v3_ekGfbHdX
@@ -12,3 +11,7 @@ mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u
 galantini   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-2e01a07e99ec8be90ae6b0b23a64e8ec19dab10eaf4875f235aa7e66aeec82ef_trns_h264/playlist.m3u8
 grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+yourare   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxNzgwMTQzM30.8bJ_oX2WsfnnbF9mpOsjDYMZIjE5Mbwo_Ielyf7JEJGivLPLRGTcds-3luYtYmsML2svzQQexYbJkirOSXbKJU8c6HkUE4qG6d93VkbNcVPWAwrBsuvXJt0LgeGbjdtV
+bongbong486   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxNzgwMTQ2MH0.z4n7qTylvDEuj5XC7bhAF1Rqa6Bu1Fb--S2mJCSE0b0_N63jJA68ODBQh33FHnKYFsD0zNBUXoud770u5Y0hwmi62ytA-PiDek1TqEcE2gCoCXf1GVb9fr4SsIUG0qAX
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+JP-KARIN   https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
