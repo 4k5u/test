@@ -1,4 +1,3 @@
-Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 eli05021212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Axs2YgG9SJZX.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F4czJZZ0c5U0paWCIsImV4cCI6MTcxNzg4NDA0NH0.FBjttIeGmsxavGWiV5FoYKp8Og06Kmpga3KSgAAvBaqteYuuhEU5_IUFrVmKnVaydEqVKBw77JiFM304XBXiZ6r6r7r7zRAjJ48EE02sSez7hhU2X8Ww_tR45FgV8E47
 iminako   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-7059e440b61b9909c9a1de85d50db966f2f387d77c849180f63d9391d5288c47_trns_h264/playlist.m3u8
@@ -9,7 +8,6 @@ cool3333   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kjjeong0609   https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VOE1lZUy1WtbbsM87FRRvVks4xjAjK1tEVhCO1Tyt4OhZjcT29yx3uH6asp3bzUP-NRTvHBZuez3wG-E6Y8LzA
 hanny27   https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VOE1lZUy1WtbbsM87FRRva_R02E6WZDJlu8kN4vknfE2Cpdip3vKUNFN_4JKlQ5G6mcCLkN6QC1raiQOlz3n0Q
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
-54soda   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxNzg4OTA1OH0.KCuQ4tY6WxorVQc4QazUN8KsoMgVc-1xpAFEroCCQ7xQxzUWoe5UL_ALjLcV9PwB0m-61j5jQ8OVIoRY-bkAwREIFPGvJlYwEFmpzjO5y4HCekL64PXQDY4_sn4ibDhJ
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxNzg5MDAzNn0.IfB701A0E32XX68XAn7M9lufUGeS2BLnfGXt-trKDDZwH5e6uu5bVsQrLtVkKPm302GeK7ZDHscnneVc-iG2fFTjsVrK_dLyWp7exnTCvC65tI2xgXfUXWbbAI4SECqx
 kkkku96   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-MG691LA2Ueg_1O1ZvIM1tWp2Wt-xpjqvzua8oVfGWVcJvQcLa18J5KBtCoXhyO9DRYxvy2pAdZGV3EMBrHI4Q
@@ -28,3 +26,5 @@ Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNzg5Njg5MH0.KXaBJZueWKfnALCOQF_yTFVOOcMYVUEmOPFpvype-p3iHwuga7s288jx_0s9AxoEylWNA18e13IkJ6a1KBqBtmpawoeE06wAkfULAFOeBAILJc26-L1pxCWl86-T1lg5
 saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxNzg5NjkwOX0.DKadItFGcgTCcm4pSlut6IaHRTAHeITPHUz_1-C21pfNVmfIvp4znx9z97WqkQQkhbBmRZWmqfvS-asld6Bxuc5G_2EBRiR8l-tIwEaBEDMA7ajg8bgTh1Mja32lWGTW
 grandeeney   https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
