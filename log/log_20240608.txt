@@ -283,3 +283,9 @@ Sat Jun 8 22:41:38 CST 2024
 删除mikio_san 
 删除hanny27 
 删除Hahaha_ha2 
+Sat Jun 8 22:53:01 CST 2024
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxNzkwMTYxM30.710xllJjYPp_Bu4lLC_9wZdorJGp9kjjdToFnGirLeWuIRxVF5j-p_Fbh_wGAwymNNdW4kiRtsoXhYspE-gC1BsoEswQHp8s8mNAOxaT33QiHu4Y4hBg6XBvl3b2yAOo
+Sat Jun 8 22:54:08 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除lovesong2 
