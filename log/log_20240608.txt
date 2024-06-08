@@ -97,3 +97,13 @@ Sat Jun 8 08:02:50 CST 2024
 添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNzg0ODE4M30.WEdPGy0E9Xc3L--_IhXrrPnltSa0gx3e1GBjBCIr5PidvnoBTn_G02DbciHAS9DdOmA5nJx0hr21lD4Af-INKI72YFlR2iYy9wOqZRcG5C_pk558cozCA7112exdQHIy
 Sat Jun 8 08:03:18 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+添加oda_assuri https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-36fadbb4fc8af6af959feb15f23252240699d8a3b053e80dcb35b682e419fcdc_trns_h264/playlist.m3u8
+Sat Jun 8 09:37:59 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxNzg1Mzg5Mn0.vGXkKd743I6qoxai_jgLKnMPaBF6Mi5NZP8FRYvtnzqxJ2TQIHMPNyAqxiKRGHAZKnmFyEvo3HpjEUppDQWZ9mdRIqfr6vs7SOdPOS3WLQaIyrFpzS8aMCCCA7CRLTXk
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNzg1MzkxMH0.kLZ-1EqG90wHcnHqKYWLxxpXCekj64CSu9GRpFeuTiyA_zmQqIAhh1WPlF1tfsywe9K1La0sHelB0GNPihk2m905AVw5JA0jHbW4_A2Ioo69ihQfnG37iZ1ifw6CS2hp
+Sat Jun 8 09:38:45 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除sexygamesx 
