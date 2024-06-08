@@ -5,7 +5,6 @@ oda_assuri   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-36fad
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
-acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNzg2MDMxNX0.TIvmPPwKwdc9eNWL_MubfhBMEtbyalK3YwbZIWe2zdSyvXJMbcs8AYsvtsKY1M7p-c2kiAgC6Ia2BHOsPL0cOqOAzpKH8JH2NaMGt1lAhLod8vB8MgyFZN_3nfYGxFE3
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
@@ -15,3 +14,4 @@ eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master
 ake_mi   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fd0107c80e17831d8f3eb2c2b0f5f440a948b095170e6ed3b420d2079af860d4_trns_h264/playlist.m3u8
 362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UAaJouFWA7Fx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VBYUpvdUZXQTdGeCIsImV4cCI6MTcxNzg2NzUxOH0.UQbpjubHHzB9mIVOn9gTavVt1yJRXa3Txc9-XMrYnuMeAwxpWRFgXlirYKxZ2RzVoSW6dXyiJiMDcfEViBmidXGVhSGtPcR955qu_L_I18MLwlXZgPesFx1gn5m1lwdi
 your_desssert   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9c8506fee7e30425a7077f330a60b39939a2240660cea1b31679e8c6de5b296a_trns_h264/playlist.m3u8
+flower1023   https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3FX36hDhEoV5cQAsxwoGwulMOrIEwSMPZFFRb5J9E36BaDMFzkOZu_D5ACUo2oYEkthm_kJyVDV15UP6N_oHTw
