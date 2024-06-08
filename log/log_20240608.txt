@@ -221,3 +221,10 @@ Sat Jun 8 19:11:40 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VOE1lZUy1WtbbsM87FRRva_R02E6WZDJlu8kN4vknfE2Cpdip3vKUNFN_4JKlQ5G6mcCLkN6QC1raiQOlz3n0Q
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除sabrina_hk888 
+Sat Jun 8 19:23:53 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxNzg4OTA1OH0.KCuQ4tY6WxorVQc4QazUN8KsoMgVc-1xpAFEroCCQ7xQxzUWoe5UL_ALjLcV9PwB0m-61j5jQ8OVIoRY-bkAwREIFPGvJlYwEFmpzjO5y4HCekL64PXQDY4_sn4ibDhJ
+Sat Jun 8 19:24:32 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+删除20152022 
