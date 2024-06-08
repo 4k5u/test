@@ -13,3 +13,4 @@ Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto
 Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+intim_mate   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-2bec8728b5c1f255d1f6c63a41e555da52005368865c1835ba4857c52cde9d15_trns_h264/playlist.m3u8
