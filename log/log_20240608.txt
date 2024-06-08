@@ -271,3 +271,6 @@ Sat Jun 8 21:51:12 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除Daji-Lovely 
 删除54soda 
+Sat Jun 8 22:02:40 CST 2024
+Sat Jun 8 22:03:34 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
