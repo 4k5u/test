@@ -93,3 +93,7 @@ Sat Jun 8 07:22:10 CST 2024
 Sat Jun 8 07:22:34 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 删除mazzanti_ 
+Sat Jun 8 08:02:50 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxNzg0ODE4M30.WEdPGy0E9Xc3L--_IhXrrPnltSa0gx3e1GBjBCIr5PidvnoBTn_G02DbciHAS9DdOmA5nJx0hr21lD4Af-INKI72YFlR2iYy9wOqZRcG5C_pk558cozCA7112exdQHIy
+Sat Jun 8 08:03:18 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
