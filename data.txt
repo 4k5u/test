@@ -21,3 +21,4 @@ glglehddl   https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_p
 Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
+San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
