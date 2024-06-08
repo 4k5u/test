@@ -252,3 +252,10 @@ Sat Jun 8 20:37:11 CST 2024
 删除somsom0339 
 Sat Jun 8 20:58:40 CST 2024
 Sat Jun 8 20:59:28 CST 2024
+Sat Jun 8 21:21:24 CST 2024
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SRnz7NoABErK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1NSbno3Tm9BQkVySyIsImV4cCI6MTcxNzg5NjEzMH0.-8yO_oDKZdfxYZE93nSy62nYMCNiJDJC--S-BbDhHryPlnEEs4CMfiiLIwJ8fgh4Pb4Sj1maQ_XaT9xq8UptaTGq70W95a-n5AoVussJs7mJeIWbGmZ-XFQn89SnoDZN
+Sat Jun 8 21:22:28 CST 2024
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pcUGb49YXaS7ElqWTBhqgcb-Z0qjznOR4pdCAnM-kJiyLAGu4hVvpkMz0XwAM8GqaWCeDsGbAGuJKiPG078dsg
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除Dolv_1o 
+删除grandeeney 
