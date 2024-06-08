@@ -1,4 +1,3 @@
-TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-81ba914cc2263439f01fb557cf0f3601faaf366580a2461f44c36f48bd4fbfd0_trns_h264/playlist.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxNzg0NTc0MH0.yhwo9LhwnLYCAI-Lus83INtdhwXMZzMitjkZ12dOcF9w_7LJojJCw788D7kp2n3oB8irHS6qOxpIYBVu_BucAkecnIqu49EDEk2-fKmveImFAqkWGkeNzJFJbPB26Gnp
@@ -17,3 +16,4 @@ intim_mate   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-2bec8
 acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxNzg2MDMxNX0.TIvmPPwKwdc9eNWL_MubfhBMEtbyalK3YwbZIWe2zdSyvXJMbcs8AYsvtsKY1M7p-c2kiAgC6Ia2BHOsPL0cOqOAzpKH8JH2NaMGt1lAhLod8vB8MgyFZN_3nfYGxFE3
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
