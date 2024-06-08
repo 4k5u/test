@@ -259,3 +259,9 @@ Sat Jun 8 21:22:28 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 删除Dolv_1o 
 删除grandeeney 
+Sat Jun 8 21:34:04 CST 2024
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxNzg5Njg5MH0.KXaBJZueWKfnALCOQF_yTFVOOcMYVUEmOPFpvype-p3iHwuga7s288jx_0s9AxoEylWNA18e13IkJ6a1KBqBtmpawoeE06wAkfULAFOeBAILJc26-L1pxCWl86-T1lg5
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxNzg5NjkwOX0.DKadItFGcgTCcm4pSlut6IaHRTAHeITPHUz_1-C21pfNVmfIvp4znx9z97WqkQQkhbBmRZWmqfvS-asld6Bxuc5G_2EBRiR8l-tIwEaBEDMA7ajg8bgTh1Mja32lWGTW
+Sat Jun 8 21:35:26 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+删除sabrina_hk888 
