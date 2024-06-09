@@ -275,3 +275,7 @@ Sun Jun 9 21:25:30 CST 2024
 删除JP-KARIN 
 删除EmiliaGuess 
 删除Hahaha_ha2 
+添加iminako https://edge3-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-dc2f352b4e7d38a8774d1e7c7579efb7ba8cffc78e635e6f50d6d9f218d0d3ad_trns_h264/playlist.m3u8
+Sun Jun 9 21:41:04 CST 2024
+Sun Jun 9 21:42:10 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
