@@ -240,3 +240,11 @@ Sun Jun 9 19:50:52 CST 2024
 Sun Jun 9 19:51:57 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 删除AkiShina 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bb9d4220d194029a21366cb187b620a38d1cbb5302d83eb7ee293be82b99e087_trns_h264/playlist.m3u8
+Sun Jun 9 20:03:12 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxNzk3NzgyNn0.d2zfgbxkJT3XTXxl2z0sjLVrc7dJYfgsU9hJKk1Ptdubn3dz14nDRNab3BBP_eeGJNQtAoXD5_-DlcEevYMBYgFvHB855z1lEsNn3d1d5Bc4ghPRmKwtipbJ-pXk_XBs
+Sun Jun 9 20:04:07 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.R9tDDAjTL9yEwYBdGlJnRJunnx4v0RWwUdX7jbU1E82kzmwvFl5xZ__AU7Ur6yq9BQQ37aXjbz7sgv4Ky9t-Iw
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.d8gu-hnKp95WYDct8OSdv7Ns8BU2XHA1WEz9QzL9DHywT8VJot9ttnmdIO37tOYOc6O5ZPFDSfJtprOBz_SYWA
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除happyy2 
