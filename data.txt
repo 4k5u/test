@@ -5,6 +5,5 @@ y1026   https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playli
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNzk4OTgxMX0.4ZVKMawEdV41NWl5lnwdl7WMcqxoEKxT7rHGSDn22XPxWy8RX51rXoSJfcreDXVN3FqArhcxewXBB0yncTHN3D68VqH_cfRrykQq_WI6bV8B98nOQjdDl7ELbxPvBjeN
 ajswl12   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxNzk4OTgzM30.GovD19mq2puSCVP0EfXdiGpwDLJD8LieSMCuXe49lFgdLPepreoTZFiys-BWJwzUI3JVf-91jDdrpaErSd4OxEsZ3-6V9tjFJLFjHJgWxG3ddRkAjVL8aTnWdXvgy8y1
-Stbeautn_oO   https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
