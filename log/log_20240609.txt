@@ -97,3 +97,13 @@ Sun Jun 9 07:50:11 CST 2024
 Sun Jun 9 08:02:22 CST 2024
 Sun Jun 9 08:02:38 CST 2024
 删除Reaowna 
+添加oda_assuri https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-f67366a3d18d87306f0647703fd3be0de235dd6dd07172afbfe75487ac193b85_trns_h264/playlist.m3u8
+添加sexygamesx https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4374db13123ca43081c18d102055eb6b319f00fd4ac09ad184859fee1784d641_trns_h264/playlist.m3u8
+Sun Jun 9 09:43:37 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxNzk0MDYzMH0.dO5qMRHYJPY7eq73V_A0lnJNBTq-YTjFIF99ybGmgpgh3JfH3gKAjsRShkfaVM09eokrGDhxQEr9Zpoy91i3tSqjs7ml7PQuvrhijlGgPPXjoTROSl2AiAQycfoTCHKw
+Sun Jun 9 09:44:05 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+删除imanatural 
+删除dkdlfjqm758 
+删除ajswl12 
