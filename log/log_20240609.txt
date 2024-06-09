@@ -127,3 +127,9 @@ Sun Jun 9 11:43:42 CST 2024
 添加lucy_1811 https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
 Sun Jun 9 12:00:25 CST 2024
 Sun Jun 9 12:00:40 CST 2024
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3b95531d4fbcced2561b7caf3ca7d2eba936f00f0994481cd9f8c14ab23c9da6_trns_h264/playlist.m3u8
+Sun Jun 9 12:27:27 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImV4cCI6MTcxNzk1MDQ1N30.NqqZcJ0Gh2VW2o3b85Pa5Akce3PmMfBQfr3jCrCkeizN70h82_-rCpotGLtgMvPxEybGmJHaAKjWcpJWkrZh6Vf_rX2e_ANEip0AHswKrn2edv3s4h7HTiyjCkrvDaZp
+Sun Jun 9 12:27:58 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除sexygamesx 
