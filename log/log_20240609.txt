@@ -133,3 +133,7 @@ Sun Jun 9 12:27:27 CST 2024
 Sun Jun 9 12:27:58 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除sexygamesx 
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-085f7d55e76fb11d7fd6244dbe8d0f826204ce3c7361b6a073190fcf7eb355f6_trns_h264/playlist.m3u8
+Sun Jun 9 12:42:10 CST 2024
+Sun Jun 9 12:42:28 CST 2024
+删除TefFfish 
