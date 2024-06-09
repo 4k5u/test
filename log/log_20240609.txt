@@ -309,3 +309,12 @@ Sun Jun 9 22:46:38 CST 2024
 删除Glenda_1 
 删除emforhs1919 
 删除starsh2802 
+Sun Jun 9 23:00:43 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxNzk4ODUwN30.03dSlZu99_1hUuTTgGuFrhz1VWJ41hSsMgBtReNXimUjLQ8NbozKNN8UmSwnBQxq2ThiCUdEITYTyWWgsfWn2EHHEyWWnDMd8jz57eJ9hbxeSSDuwE9IaTwBSLEvS9XT
+Sun Jun 9 23:02:08 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除Daji-Lovely 
+删除Dolv_1o 
+删除oki_dokie 
+删除your_desssert 
+删除ake_mi 
