@@ -5,3 +5,5 @@ y1026   https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playli
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 sexygamesx   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6b07a010e42107b4d78785b292eae96068f28eac866adc0416b5ce47220378d7_trns_h264/playlist.m3u8
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-93d9a98935613fed15b8eb123aa66b272ec71852946cd6cdf5409b79a230a616_trns_h264/playlist.m3u8
+jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxODAxODU3Nn0.vWF0UtClJ7JAp2Kr8uhuV-5xfavgZnGLaNOBfoLaKjbuvMwR2Ktu1kpT5DUcNvvb1Ha9j10-rriXwakANrj0Ch8rSlHraIygw5stoQTGqsFtTpnw-vi_0pHsnjiBirGl
+TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
