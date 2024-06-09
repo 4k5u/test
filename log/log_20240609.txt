@@ -293,3 +293,12 @@ Sun Jun 9 22:21:26 CST 2024
 删除hyuna0721 
 删除somsom0339 
 删除Hahaha_ha2 
+Sun Jun 9 22:32:46 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNzk4NjgxNX0.6k7Zah_Q4ZDryhwjZqrT3yCNoPZ4JmNaN1JlyvQZD38LPR5vuMxyvuM__3sbOUY1Z75uF72cFv53EU0U5oxmAzJgyjieX4LZzKE55F0BNNRmayoLz-WHBH67T4JN7vLb
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SRnz7NoABErK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1NSbno3Tm9BQkVySyIsImV4cCI6MTcxNzk4Njg1MX0.L3E2KEXiVck5q4vpIX_dopeH18vXFq6SZUq3GdPucn1MduK2rHX7WrB3saz8al-ErkxbYPLSgsGK_Kt0BLr3NtGjdeAkuUJrg2tfyJM0OzOUFhkB5GWlOn9X5b51KALJ
+Sun Jun 9 22:34:29 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gSKbkBLqlJrWYyAbetsvSNcEDfPFfhOL-3Rj2pb9uJ0f-Gl-nQTU0Ndgwo4xEXogwuv9UhY_oLoVFnIXjGb0Ww
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除onlyone521 
+删除starsh2802 
