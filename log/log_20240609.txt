@@ -197,3 +197,8 @@ Sun Jun 9 17:29:11 CST 2024
 Sun Jun 9 17:29:32 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+Sun Jun 9 17:42:42 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxNzk2OTM3OH0.c2FEUqxVzTUav26-BJAb3zGyYcdkhbUaB3QE2MGJuuv3gDfVc4biotEswZoYUBdhjxKo3EFa-sYcNmx5N1rU0JgqGIWFFe-HWq2wNs0QCob29ZTHlv2ngv7I7wqudEoY
+Sun Jun 9 17:43:16 CST 2024
+删除oda_assuri 
+删除thgml1212 
