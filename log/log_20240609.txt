@@ -302,3 +302,10 @@ Sun Jun 9 22:34:29 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除onlyone521 
 删除starsh2802 
+Sun Jun 9 22:45:10 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxNzk4NzU1Nn0.monBZZxiLWW0PWHG1RA8zdJ_fwjUtOFZodXTriyyJEggIkKws7KMOQKQumPbN2LtTqF-Ao8UUQq_4EntKqam22ZLUYf4UNEbRAE0MXf2sOnNFYt5uSAwHbJF-QEWTYeU
+Sun Jun 9 22:46:38 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MU32gbmVBhYkCbQzXeyXual2B7Dy7P4QH0dbieAFj_c2gfs419WcNCjdwMarIxIDuy9ikXmVK4ecOkOjc8iQzg
+删除Glenda_1 
+删除emforhs1919 
+删除starsh2802 
