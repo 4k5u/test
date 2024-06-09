@@ -4,3 +4,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 y1026   https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gSKbkBLqlJrWYyAbetsvSNcEDfPFfhOL-3Rj2pb9uJ0f-Gl-nQTU0Ndgwo4xEXogwuv9UhY_oLoVFnIXjGb0Ww
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 sexygamesx   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6b07a010e42107b4d78785b292eae96068f28eac866adc0416b5ce47220378d7_trns_h264/playlist.m3u8
+_meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-93d9a98935613fed15b8eb123aa66b272ec71852946cd6cdf5409b79a230a616_trns_h264/playlist.m3u8
