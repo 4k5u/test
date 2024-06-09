@@ -5,7 +5,6 @@ intim_mate   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-5b4e3
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
 oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3b95531d4fbcced2561b7caf3ca7d2eba936f00f0994481cd9f8c14ab23c9da6_trns_h264/playlist.m3u8
 thgml1212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImV4cCI6MTcxNzk1MDQ1N30.NqqZcJ0Gh2VW2o3b85Pa5Akce3PmMfBQfr3jCrCkeizN70h82_-rCpotGLtgMvPxEybGmJHaAKjWcpJWkrZh6Vf_rX2e_ANEip0AHswKrn2edv3s4h7HTiyjCkrvDaZp
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
@@ -14,3 +13,4 @@ San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m
 your_desssert   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b8e67e1c158e67330d6b2a6b64ead2e1ee05b5a836ca3644df203fef06235b08_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3deb30274446f6f02ce4ccf14890ce9d82c7b574dd9022cf7af2b00908e29032_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxNzk1NzkwM30.saSZc0Q1UEfhQ3eOc1FIQQr5QZkBLSaQRoRmKtxjZunjpz-G9WfLkzRetGMpWaXI6om5H8nKcKeU8VRgEBROR11OITsrvczjm-70bfovWlDmc451w08n-9tSLHq8Jv35
+kjjeong0609   https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kjzZy2jv1UEQBJ8l0ViAU3z87nYd_H9PuNQXYZ6SPAfeIFxiO6Mp_uWUJXpmIiYAwgxapzZiv-_CJYHq3P8eIw
