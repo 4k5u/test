@@ -174,3 +174,6 @@ Mon Jun 10 15:00:49 CST 2024
 添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bc7cefbcd63d2520fa8cc7f44ce9965214b9a6990ef6099d290954af1b95d958_trns_h264/playlist.m3u8
 Mon Jun 10 15:22:16 CST 2024
 Mon Jun 10 15:22:34 CST 2024
+Mon Jun 10 15:35:12 CST 2024
+Mon Jun 10 15:35:30 CST 2024
+添加Stbeautn_oO https://edge-hls.doppiocdn.net/hls/140571887/master/140571887_auto.m3u8
