@@ -97,3 +97,8 @@ Tue Jun 11 06:41:28 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 Tue Jun 11 06:53:51 CST 2024
 Tue Jun 11 06:54:00 CST 2024
+Tue Jun 11 07:21:36 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxODEwNDkwNn0.8Y8aMQIjE_J5OKCmR6kWB-aISIBJ9cWPG2RcHhQesXj-lHoka7fMp8vOysM4uVHRaRNXlAtHGczvxvDQ4X-kUEroQpL43xVnLJUmdlJ7RXo5xuEo8SzLwWpOlf9sA5bb
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxODEwNDkyMX0.JicSOLk60rODG2HbpLq8rgq5muCJP9qhxPwKkEuehWCwiSuWwsDzLoRhVVs4S5RJau24JPxcB_kMgkmdVsynruRm5NuhX_cjE5KWLzfGEzEghGVwj1Z1qGiT-dkmMU5E
+Tue Jun 11 07:22:16 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
