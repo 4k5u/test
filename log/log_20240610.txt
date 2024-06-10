@@ -228,3 +228,6 @@ Mon Jun 10 19:33:09 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除AkiShina 
 删除happyy2 
+Mon Jun 10 19:45:08 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxODA2MzEzNn0.WU2c1IEtr3nVmkIxpkI8i746BUr9R6VRqOI2KgbP8keXJHmFHpeQsuSp2nBuh2EF6C3l1DyH8eboEfE3mfX3hKBjH-w8RAX7qHHc2uMXwrY2b-bQf-B3M0D_GuXwaOaW
+Mon Jun 10 19:45:59 CST 2024
