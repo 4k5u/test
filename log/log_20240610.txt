@@ -130,3 +130,8 @@ Mon Jun 10 11:10:02 CST 2024
 Mon Jun 10 11:30:44 CST 2024
 Mon Jun 10 11:31:00 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+Mon Jun 10 11:43:43 CST 2024
+Mon Jun 10 11:43:58 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除_meganmeow_ 
+删除Xenomy 
