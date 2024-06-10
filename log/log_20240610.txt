@@ -115,3 +115,11 @@ Mon Jun 10 10:27:46 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除San___San 
+Mon Jun 10 10:51:02 CST 2024
+Mon Jun 10 10:51:17 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除imanatural 
+删除Reaowna 
+删除Dolv_1o 
+删除AkiShina 
+删除Judy0523 
