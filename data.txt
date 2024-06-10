@@ -10,3 +10,4 @@ hanny27   https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_play
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
