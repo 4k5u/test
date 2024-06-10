@@ -135,3 +135,7 @@ Mon Jun 10 11:43:58 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除_meganmeow_ 
 删除Xenomy 
+Mon Jun 10 12:00:37 CST 2024
+Mon Jun 10 12:00:52 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+删除nemu00 
