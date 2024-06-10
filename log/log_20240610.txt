@@ -268,3 +268,8 @@ Mon Jun 10 21:42:04 CST 2024
 Mon Jun 10 21:43:00 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 删除sabrina_hk888 
+Mon Jun 10 21:54:38 CST 2024
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImV4cCI6MTcxODA3MDkyMX0.abMo0IJKo2oaxOaJlZDO9h1d6cjmNsdfWQdR2-2uNp1y9nRyDvVOSF96lYzqSrYy9PRNLf55FkBxsqam6WsnrKuv2ZxXr99zGtWCHIPL6MxUIno01hzqU8IrxRVQhHyG
+Mon Jun 10 21:55:45 CST 2024
+添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
