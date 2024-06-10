@@ -31,3 +31,10 @@ Tue Jun 11 01:35:23 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除saone451 
 删除grandeeney 
+Tue Jun 11 01:50:49 CST 2024
+Tue Jun 11 01:51:22 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除howru010 
+删除JessicaRewan 
+删除glglehddl 
+删除EmiliaGuess 
