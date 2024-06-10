@@ -273,3 +273,12 @@ Mon Jun 10 21:54:38 CST 2024
 Mon Jun 10 21:55:45 CST 2024
 添加sabrina_hk888 https://edge-hls.doppiocdn.net/hls/152277747/master/152277747_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加galantini https://edge3-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-522a36c97f9d802c05edd0d37387a9704040a6e871f208b4057624b185d0aed4_trns_h264/playlist.m3u8
+Mon Jun 10 22:22:16 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxODA3MjU2N30.HpO9-m5LvcXD-1IjW9bnIh6Ko6y5F6d0bpP4EQXx1nUXSy4OBRMd5FQVB5ulWHWR6cDaEGmwSOSsEZAymXivnIb53BF2VIOyxXbz5yf5mKBM-CidBoTPK2C4QzT9epRd
+Mon Jun 10 22:23:22 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除iminako 
+删除acac88 
