@@ -210,3 +210,7 @@ Mon Jun 10 18:25:29 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 删除ake_mi 
 删除my_eyes_higher 
+Mon Jun 10 18:42:51 CST 2024
+Mon Jun 10 18:43:21 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lOA9LC99_T5CulM37o4AwBUQpfXNnqnygoSLUtLv9o_HlnGwQytwNg2UqA3iJeng41Q7-Z28fbhG-t5hqOxftQ
+删除Judy0523 
