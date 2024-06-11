@@ -62,3 +62,7 @@ Wed Jun 12 04:42:13 CST 2024
 Wed Jun 12 04:42:25 CST 2024
 Wed Jun 12 04:54:33 CST 2024
 Wed Jun 12 04:54:46 CST 2024
+Wed Jun 12 05:19:29 CST 2024
+Wed Jun 12 05:19:38 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除ajswl12 
