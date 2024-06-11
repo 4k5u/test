@@ -27,3 +27,5 @@ banet523   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kkkku96   https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K7vLPFq17p9MQqP8jhmvfYxp0isiN5vmKD3LWHbJhSRrQEugNnNyi7-t18EcIX0BYzdeusaKWMszZZrQyCWS9Q
 eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.t1Nf-LgWDhIiohFE4Cbs-VuYq4b57VE7XeyBNERWMzi6TC0UkeIIWmQNIXXADVqZuHvR6fPjAFzEt9-gDiSHPQ
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+m0m099   https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dgb4U-qXoHe7eSy6aVUXq9kHnxxBa58luPlWM-WfS1XSsqG_36ytN_hQtohe8OQ92Z5wzRgrcaXOajr8mjb0gg
+yin2618   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LTeNhdqjmrDkSrRmgwknjLxoamJD9dAk1YqZIiVhuP7kU5M0YYIb4kTXNaspUJZCSwJoHzLsITi1CUel8YKlHQ
