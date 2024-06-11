@@ -281,3 +281,10 @@ Tue Jun 11 22:51:24 CST 2024
 删除na2ppeum 
 删除imanatural 
 删除EmiliaGuess 
+Tue Jun 11 23:03:18 CST 2024
+Tue Jun 11 23:04:27 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除lovesong2 
+删除Glenda_1 
