@@ -74,3 +74,6 @@ Wed Jun 12 05:59:59 CST 2024
 Wed Jun 12 06:00:08 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除Stbeautn_oO 
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2712ecf85fcbbf94ad326289923ab455072ca39aae9df1ce27c310ce4aaa981d_trns_h264/playlist.m3u8
+Wed Jun 12 06:22:38 CST 2024
+Wed Jun 12 06:22:47 CST 2024
