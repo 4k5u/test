@@ -286,3 +286,7 @@ Wed Jun 12 21:42:56 CST 2024
 Wed Jun 12 21:53:54 CST 2024
 Wed Jun 12 21:54:57 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+Wed Jun 12 22:20:18 CST 2024
+Wed Jun 12 22:21:19 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+删除m0m099 
