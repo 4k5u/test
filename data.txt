@@ -1,7 +1,10 @@
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2712ecf85fcbbf94ad326289923ab455072ca39aae9df1ce27c310ce4aaa981d_trns_h264/playlist.m3u8
 sexygamesx   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-21081fafb9634e191f3d7d5372b1493306758af05ef8d302405d4bda09b48988_trns_h264/playlist.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxODE5MDE1N30.zcIT4rbcRiIZ9nLGQjuf4yezntLJqqd5uZer6eqjdUvgqRIyV2UloS1xiD0gTetEOGES4D-5UKFx5gZrEbFDE7NS5ChnFuPu6JopCQUfmtjURqjfeSOAxi9dohlc57gh
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-cuddles_me   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-d2b531f63ee4ac98d456f49b1addec77ce722836cce6462450f38d0d650cabe1_trns_h264/playlist.m3u8
+oda_assuri   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5a73a5ab18841a7686282fe40dea81e25bbb8366e9de5e6a209f48b49e58c807_trns_h264/playlist.m3u8
+4ocari   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxODE5ODY3NX0.TP4PS9d29oG6SHqAJE6JDuZkkUFNTPlX7nHerEx2EcMbTGGOGe58r00G9vEpmKKfn2yptflUPXGoe7KgASyQQVDYSnykVjWwBHBYKRaQnlRGTJFG4DBJtjAhx6h_L2WS
+2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODE5ODY5MH0.taMxok98KCUqgk1ejtJVyde8SpUSzF9zf2AfqY4Eel2XQRUICqIEHyC2IYY6ZpV2iLQUWiBQh5kl_19_URxxR7BDOqm1Q1B77omFHy2dt_7grvMuTQTiduN-86RTcK42
+Xenomy   https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+morphesoull   https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8

@@ -95,3 +95,12 @@ Wed Jun 12 07:42:02 CST 2024
 删除Glenda_1 
 Wed Jun 12 07:54:24 CST 2024
 Wed Jun 12 07:54:36 CST 2024
+添加oda_assuri https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5a73a5ab18841a7686282fe40dea81e25bbb8366e9de5e6a209f48b49e58c807_trns_h264/playlist.m3u8
+Wed Jun 12 09:24:22 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxODE5ODY3NX0.TP4PS9d29oG6SHqAJE6JDuZkkUFNTPlX7nHerEx2EcMbTGGOGe58r00G9vEpmKKfn2yptflUPXGoe7KgASyQQVDYSnykVjWwBHBYKRaQnlRGTJFG4DBJtjAhx6h_L2WS
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODE5ODY5MH0.taMxok98KCUqgk1ejtJVyde8SpUSzF9zf2AfqY4Eel2XQRUICqIEHyC2IYY6ZpV2iLQUWiBQh5kl_19_URxxR7BDOqm1Q1B77omFHy2dt_7grvMuTQTiduN-86RTcK42
+Wed Jun 12 09:25:05 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+删除Sime_Naughty 
+删除cuddles_me 
