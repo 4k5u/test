@@ -78,3 +78,6 @@ Thu Jun 13 06:00:08 CST 2024
 Thu Jun 13 06:23:21 CST 2024
 Thu Jun 13 06:23:33 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+Thu Jun 13 06:40:05 CST 2024
+Thu Jun 13 06:40:17 CST 2024
+删除TefFfish 
