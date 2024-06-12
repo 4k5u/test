@@ -224,3 +224,7 @@ Wed Jun 12 18:37:52 CST 2024
 Wed Jun 12 18:38:25 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除your_desssert 
+添加cuddles_me https://edge3-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0bf8f5b4105847d754feb62cb5bc3125dcfa07375fc37ff732ef21ff239f795a_trns_h264/playlist.m3u8
+Wed Jun 12 18:50:54 CST 2024
+Wed Jun 12 18:51:16 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
