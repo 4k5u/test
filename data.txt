@@ -1,6 +1,5 @@
 Reaowna   https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2712ecf85fcbbf94ad326289923ab455072ca39aae9df1ce27c310ce4aaa981d_trns_h264/playlist.m3u8
-sexygamesx   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-21081fafb9634e191f3d7d5372b1493306758af05ef8d302405d4bda09b48988_trns_h264/playlist.m3u8
 jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxODE5MDE1N30.zcIT4rbcRiIZ9nLGQjuf4yezntLJqqd5uZer6eqjdUvgqRIyV2UloS1xiD0gTetEOGES4D-5UKFx5gZrEbFDE7NS5ChnFuPu6JopCQUfmtjURqjfeSOAxi9dohlc57gh
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 oda_assuri   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5a73a5ab18841a7686282fe40dea81e25bbb8366e9de5e6a209f48b49e58c807_trns_h264/playlist.m3u8
