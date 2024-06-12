@@ -126,3 +126,7 @@ Wed Jun 12 11:42:02 CST 2024
 删除sexygamesx 
 Wed Jun 12 11:54:10 CST 2024
 Wed Jun 12 11:54:31 CST 2024
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1f9b396f0d42401975cdd91828cfcf0f13445be3d029158efaee58e8c3444d3c_trns_h264/playlist.m3u8
+Wed Jun 12 12:25:27 CST 2024
+Wed Jun 12 12:25:48 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
