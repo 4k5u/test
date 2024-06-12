@@ -12,3 +12,5 @@ muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 cuddles_me   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0bf8f5b4105847d754feb62cb5bc3125dcfa07375fc37ff732ef21ff239f795a_trns_h264/playlist.m3u8
 JessicaRewan   https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+acac88   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxODIzMzQwNn0.hhQgLQX55K4EP0zxbnYMwKKLGkr0ielmXEXaYhbbt9jJPxzp6W1jPZSsNwZoHCIiBA7MRFdeDgAtxPkQhWFVsUAMJjPrtw4jWaoCqwTHfd1Ni793wakOwI98RzjMqTyT
+JP-KARIN   https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
