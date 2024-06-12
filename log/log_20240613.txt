@@ -58,3 +58,6 @@ Thu Jun 13 04:02:48 CST 2024
 Thu Jun 13 04:03:06 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除alicelebel 
+Thu Jun 13 04:27:50 CST 2024
+Thu Jun 13 04:28:05 CST 2024
+删除ahri0801 
