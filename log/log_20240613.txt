@@ -252,3 +252,5 @@ Thu Jun 13 21:28:20 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除cuddles_me 
+Thu Jun 13 21:40:12 CST 2024
+Thu Jun 13 21:41:03 CST 2024
