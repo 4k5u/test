@@ -12,3 +12,4 @@ ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7453563501157
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-356fa81743681b5b0006839ec999ce40bf7ec7e204acb75eacd407b32ae49508_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+hanny27   https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.z7V2luFnyQPRJzBCqHb9DNiak74eGamqYCVkXPiCEstWSGQZ37b3kWwVgWqNbIOPQ8c5q7ylicv75B1OU4LqpQ
