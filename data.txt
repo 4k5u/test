@@ -7,4 +7,3 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxODMwNTQ1MX0.raa-uMoIAhfls_BImIv2Tb_D0UJEvdsGa0pIMGIYQNkDwfad2iOaOzrcZW8z9LYlLDvKXcl2QKT5ShSsUzxcIfWoyDHa2t7hNytSHdlpuR9Tp_bttQH3zbJfDpA71eG6
 sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-21fe7b7f71822aac46c29adbefd1f5ebc71b05f3e829d051ee80f2d199da91d4_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-hanny27   https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WGsSsUOEHr3PhtGSiHlqQfF8wNXE9bfoz7HrcnuVMHqWR5wdkaS8vjT43veQUGECS8DBdPkXGvD1XeX6Sq2ASw
