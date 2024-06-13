@@ -72,3 +72,5 @@ Fri Jun 14 06:52:43 CST 2024
 Fri Jun 14 06:52:52 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除gusdk2362 
+Fri Jun 14 07:12:16 CST 2024
+Fri Jun 14 07:12:25 CST 2024
