@@ -98,3 +98,10 @@ Thu Jun 13 07:41:12 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 Thu Jun 13 07:53:30 CST 2024
 Thu Jun 13 07:53:49 CST 2024
+添加oda_assuri https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-75e47c8601cb5dd953559c86c03ed842e2a6a4b3968c5f683142a349606d187b_trns_h264/playlist.m3u8
+Thu Jun 13 09:23:19 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODI4NTAxOH0.tF4JKTR73C4h2O1aGJ5O4YoeNZZwI4eYPxVbAkPjHM1lD6dIq1uVSZAuKvVD5OSm8j9_LLYES3VMgQX1vK0Jywh9ID8dTNiHI0Jq62GeuVpKNiKBS0ar83KYzU5hZSb7
+Thu Jun 13 09:23:54 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+删除imanatural 
+删除Sime_Naughty 
