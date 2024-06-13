@@ -11,3 +11,4 @@ alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7453563501157b8e40fb0da2086bb660d58e1e5d85ecfc532cb70c807ca07f90_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-356fa81743681b5b0006839ec999ce40bf7ec7e204acb75eacd407b32ae49508_trns_h264/playlist.m3u8
