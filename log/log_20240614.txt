@@ -205,3 +205,8 @@ Fri Jun 14 19:32:38 CST 2024
 删除nemu00 
 删除AkiShina 
 删除EmiliaGuess 
+Fri Jun 14 19:44:28 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxODQwODY5N30.H-eWpbOVuZmbRTgZrwWE_22ubfCbVS7wO_MpYlFcj9EPpZpnBdzwlR_hJOLZGtvskY4nTpjC2r6j1CDb-zu9yf_NIGgLX6s2IZ8eSna4OyY5Lk36N_2jEVQCXohd977C
+Fri Jun 14 19:45:15 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除EmiliaGuess 
