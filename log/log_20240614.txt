@@ -237,3 +237,10 @@ Fri Jun 14 20:43:06 CST 2024
 Fri Jun 14 21:02:09 CST 2024
 Fri Jun 14 21:02:54 CST 2024
 删除jenny9999 
+Fri Jun 14 21:26:47 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxODQxNDgyMH0.ecX6BS5l--Ba-hgU0-5x2W5nqBJ0nuhaIabqWjZuLCgiLiZbJV2GQZdYcOG4FKdeMouORU65ZkaLyDoAL6e0zt1lfFu6InaFL1JE1BpnwsMWWjoeLobAP1CCY3AO4-2u
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxODQxNDg0MX0.sX_VCFjSEdCkx36dK7d-Ry5IgInfqqZC1cRpUaMPY2RtANa3oInD47D4hAQbiBnkvNxOvZid9B_2eWCBPwP7cCiHGp9Eo3rUShiYDMM9-yDpsVnbd4Qd3J6DVRGW0oHB
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxODQxNDg1N30.RpCdwTgzP7lBAWei99-3LbpGpVN9Yh3MypsWJ149w1Xkhr1Gx4mL-Q2BHCxvbReGzqQARRp2BgF3I61tX1x3GZIP1JZzB0R1aUHIjPhhsn2Mh9weIaD82SGuKL9UcuEK
+Fri Jun 14 21:28:19 CST 2024
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GNhluWxsOw0Jysq0fpeHuDGLeTZ9LyhmMmLa1L7S4nZBPWJmudhYHpNWZrnnnPiyv9j6AsVfWSQoKpJT5nWk-w
+删除oki_dokie 
