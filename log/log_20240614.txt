@@ -88,3 +88,11 @@ Fri Jun 14 09:24:01 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除Lucille_evans 
+添加intim_mate https://edge7-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-5d641446d8e7803fc35ee5f68bc1da8d393e02dc54c1e5c4b602bd13b00b374a_trns_h264/playlist.m3u8
+Fri Jun 14 10:23:40 CST 2024
+Fri Jun 14 10:23:49 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除dkdlfjqm758 
+删除morphesoull 
