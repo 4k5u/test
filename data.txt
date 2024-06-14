@@ -10,3 +10,4 @@ intim_mate   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-5d641
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+_meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-b92d3240bd01750eae9dbd3fdb5bc0eff142ca4f89f4b83f2665240425f81cea_trns_h264/playlist.m3u8
