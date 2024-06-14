@@ -81,3 +81,10 @@ Fri Jun 14 07:40:44 CST 2024
 Fri Jun 14 07:40:56 CST 2024
 Fri Jun 14 07:52:58 CST 2024
 Fri Jun 14 07:53:11 CST 2024
+添加oda_assuri https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-e81fbddb01ab864847d50e2fcf671bee7eff7fc3f4c20db0ec019edec172a8a7_trns_h264/playlist.m3u8
+Fri Jun 14 09:23:34 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODM3MTQyN30.FaTLb-e3YLMWO6V8yLipJagVkDjm13G2OC6ncyMo6J5TplcqSRGEputOhPr4-UCu7fsJUKEK7kTFtN0jEPJ18F0mMWCYO18W2PrlaF-HhxJqtEvCW0ghFDML1D4mgqbM
+Fri Jun 14 09:24:01 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除Lucille_evans 
