@@ -189,3 +189,12 @@ Fri Jun 14 18:45:37 CST 2024
 删除EmiliaGuess 
 Fri Jun 14 19:00:21 CST 2024
 Fri Jun 14 19:00:42 CST 2024
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-929e1e8cb58b437e6d2fd2262d65c4ee3e5b851a6f2d35f82852e4f8f057b7c8_trns_h264/playlist.m3u8
+Fri Jun 14 19:19:54 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxODQwNzIxM30.Wdd9hjwTBR_UaEVG0A7u7nbLrVhv76BSHul5uqu2ON2n_vbb8Hg2BFZHWAqYpdsWujoDh-2aq-RwuCK5FGyJkhoh2Ans9ozDqEaO8bKdYeqFI5Es-Shoh685l1LYezRg
+添加giyoming https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sd1SsnSI0SeU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NkMVNzblNJMFNlVSIsImV4cCI6MTcxODQwNzIyOH0.F5MkNchlb10K9VgeAqxLbUPSy0MKVOMBhz1-YgAzDSB7LEzLXUBm1_ci3h6u2a1HT3nswJECw1UdiTvnpOXJ40diO7UOs-NRvNxjhhFYGP35wpElxWURavT8ljhuyZVD
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxODQwNzI0NH0.xHaZz0354iQwefHkXaxOyqDPrqp5hU75uo0Lc3YBJ233DtGSzi9oXPiwrm4uTxa9tqDP7hx9sXTZRJgfz4W-_2OOUa3Jgz-dBseS8KDfpM3OmbXw3cZ7MlxdsNLiTsD1
+Fri Jun 14 19:21:02 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除ksb0219 
+删除EmiliaGuess 
