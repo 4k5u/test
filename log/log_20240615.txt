@@ -66,3 +66,7 @@ Sat Jun 15 04:42:18 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除starsh2802 
+Sat Jun 15 04:54:15 CST 2024
+Sat Jun 15 04:54:30 CST 2024
+删除ajswl12 
+删除gusdk2362 
