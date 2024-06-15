@@ -1,5 +1,4 @@
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-efb31e78e567dda84c1d178dd555e8f604a1327047146729b6b53afce96060f4_trns_h264/playlist.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
@@ -15,3 +14,5 @@ SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 dkssudgktpdy233   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxODQ3MDg1N30.ThD-NJw0t74s9rgzI5sEd0dblr7tb0TJcLsncDKIy_bN58J-nRiP-Bh7w_1V_tWZWcVskpe0yTxZe_z10aUf0f0rGkG6KIkRMoZ6P6g8ZLJ2F-kZ_ndf_FlXPc7nW2vx
+ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3d1c770ce9608dc34f275d01ed88c4d7ef683f767bac6ba6bfd7374eadaed1cd_trns_h264/playlist.m3u8
+362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxODQ3MjI5MH0.bTwnlwn5crY1RdUNCA-vVgrsVsvh8vt3Nw-VVe97rz-8WH_KPxxmYqdlVfRqENBQYMIzNIdvOBVrQPSSq48zWy7WMdlrIk9MfUzVir6hJo0g4xnEL1FIo17erEoCWhZa
