@@ -1,9 +1,6 @@
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-efb31e78e567dda84c1d178dd555e8f604a1327047146729b6b53afce96060f4_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e974c97601d830deb3d88591d310feb68038a7716723ef1d4be55093542dbd2c_trns_h264/playlist.m3u8
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
-alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
@@ -16,3 +13,4 @@ honey_pinkgreen   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgre
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxODQ3ODI0MH0.GZ2ZHqh1yoweCtZXBk-nk0c1i1GT-D1xTud3zVC2Vb_T9MQ1PiCmZknK7QpE1kL-AWkxO0pYm78aQaSQvGycUvotFJN6V_6_HX5FH3ZsZUUge0t2TUl68ZXZeUtCCqAo
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+hyuna0721   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxODQ4MzEyNn0.-0N3_I6cdDm85YWq3ecLooDxnZHiOXGV4yl6-GZk-rhUqC4GR6k6pl8ZC9zjdiRFar1dK3VLImomfSnulXNabpUSyGuzBV0WRy26yGXeouIgmrmbkamxjZk_I_CR0xUi
