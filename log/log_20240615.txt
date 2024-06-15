@@ -295,3 +295,13 @@ Sat Jun 15 21:53:34 CST 2024
 Sat Jun 15 21:54:43 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除EmiliaGuess 
+Sat Jun 15 22:19:17 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxODUwNDM5NH0.NE76UR5EwdaL-Za5B4MWOTq5ltNwZVhGOScml3JEysW6yzeR7l430RGXtlkYqkYPtmVK9bel2wCyDxsMHfcOzuLm9nIrDcnHtu_I6NifRj5VEy3nedxeLTqpXZDUXXbJ
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxODUwNDQwOX0.XsIrxFzCtZX-d8jn1jJPzMuMmKauFz7iywBMpw_tAroFkgozf7425i2kz0LSzeSPKjZqJF3NllnIHzwbaMt3BIBXsNNQldu787y3clOuERZEsoAr_d8XP6nALI7YE8c5
+Sat Jun 15 22:20:45 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除dign1461 
+删除your_desssert 
+删除hanny27 
+删除San___San 
