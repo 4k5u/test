@@ -311,3 +311,6 @@ Sat Jun 15 22:33:54 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除San___San 
+Sat Jun 15 22:44:49 CST 2024
+Sat Jun 15 22:45:52 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
