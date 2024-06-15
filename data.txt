@@ -1,8 +1,6 @@
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-efb31e78e567dda84c1d178dd555e8f604a1327047146729b6b53afce96060f4_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
-intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-43e2dc334a37c738773560d48c2db0e2276a890ce3ea1a2f973a2745f3b5f7d8_trns_h264/playlist.m3u8
-asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e974c97601d830deb3d88591d310feb68038a7716723ef1d4be55093542dbd2c_trns_h264/playlist.m3u8
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
