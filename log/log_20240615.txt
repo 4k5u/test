@@ -229,3 +229,10 @@ Sat Jun 15 18:23:54 CST 2024
 Sat Jun 15 18:37:55 CST 2024
 Sat Jun 15 18:38:23 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Hs7uWXbnA9nznJeWD0nyoXlQhFgYV9v8ITErVMRU05x4LP5BFsts3EsbBURlRNch_j-_BuDpDHbjh62ZpiRdqQ
+Sat Jun 15 18:50:29 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxODQ5MTg1MX0.J6zZ6x0u0NZmRMbx-TwCospd_VOLtjiaH6Jup-kWpXWcbOocUrFsHhvYTeEqSBA_zFh0t3MAuP94gbZe-eRRtqxX2OhHb7zkbJ4Wh0W0xs5MOukG2VOPNzVDMilc5Auf
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxODQ5MTg2Nn0.ui4S8HUAeFlIPWEyJwsaO5pkyt081HIVi_TsFVEyqGI-xaUALP-anvu76znXecGGKKqD-qjJxzvGmL5eNXR5BCjkN1JFIBrWejxpz_9daRehWOd1Xy6wlAFK5uWFvcpC
+Sat Jun 15 18:51:27 CST 2024
+删除glglehddl 
+删除Angel-Bei-bei 
+删除ake_mi 
