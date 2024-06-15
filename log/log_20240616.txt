@@ -86,3 +86,11 @@ Sun Jun 16 05:45:16 CST 2024
 Sun Jun 16 06:00:12 CST 2024
 Sun Jun 16 06:00:21 CST 2024
 删除gusdk2362 
+添加_meganmeow_ https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e043fcea0266b80c73f2f2a46eb4a9c263fb9ca665b40b0211d8021e653e4705_trns_h264/playlist.m3u8
+添加kiyoko_rin https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2fe939ce1aa8d9b6c4c4631eb987127c626793f7750c0d4f3905a216c98f963d_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7d0fd83673ffb111c796087f114feb2dcd696fbd7967c5cdd77b51763d3651f7_trns_h264/playlist.m3u8
+Sun Jun 16 06:23:29 CST 2024
+Sun Jun 16 06:23:38 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除Hahaha_ha2 
+删除sexygamesx 
