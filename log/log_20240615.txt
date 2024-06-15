@@ -145,3 +145,8 @@ Sat Jun 15 11:40:56 CST 2024
 Sat Jun 15 11:53:29 CST 2024
 Sat Jun 15 11:53:38 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
+Sat Jun 15 12:26:06 CST 2024
+Sat Jun 15 12:26:15 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除Dolv_1o 

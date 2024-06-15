@@ -2,7 +2,6 @@ _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m
 my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5b107875e27c73036893be470f2d8123f7f25ad052018eb4eab426532becabe1_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-efb31e78e567dda84c1d178dd555e8f604a1327047146729b6b53afce96060f4_trns_h264/playlist.m3u8
-Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5dvgLJ2qwGBw_BpEzbyaAfd-2WyvUt8sZjtDqVrjTXOQ-DzQs26DfEo7hSwM8gI2RCgLSASdwF8IwH2RtgV4Yg
@@ -16,3 +15,5 @@ mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 lucy_1811   https://edge-hls.doppiocdn.net/hls/129987677/master/129987677_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
