@@ -246,3 +246,9 @@ Sat Jun 15 19:03:06 CST 2024
 Sat Jun 15 19:20:51 CST 2024
 添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxODQ5MzY3MH0.lIaTDPu7Ffx-rjbz5mvdBlcmyeV5miPHJuIRNdVJGG9Zs0tNjFk4cgXh9Dz2LhQZgMKLIKO6w0dJDYYOz3q4z9aR8SQRPEdeZ9Zo4KWt1u7MeQJy-vopBN9GbJI1RNWA
 Sat Jun 15 19:21:41 CST 2024
+Sat Jun 15 19:33:04 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcxODQ5NDQxMn0.cFubbQ1hUQ2PqOaBSBGVqpfzyf-4Q2EicfpCWsGQOVPADTL-WMWBYHludQcqvhiaYnLzfVRvx3W7t-67OEtUbfysRLytvbod2lIWQZmQiEkey4YuSiL1wtmSRZl079z9
+Sat Jun 15 19:33:52 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除AkiShina 
+删除your_desssert 
