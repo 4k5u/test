@@ -1,6 +1,4 @@
-Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
 362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxODQ3MjI5MH0.bTwnlwn5crY1RdUNCA-vVgrsVsvh8vt3Nw-VVe97rz-8WH_KPxxmYqdlVfRqENBQYMIzNIdvOBVrQPSSq48zWy7WMdlrIk9MfUzVir6hJo0g4xnEL1FIo17erEoCWhZa
 your_desssert   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f4990231f21a4790556fd5aacb88944d450572f0ec5d95673ab849a355180a20_trns_h264/playlist.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcxODQ3NTMyOX0.Dq7qazNKAVX1Scxet5uDd-kA21UWvC6NcYNtOC1OG0ieiJkyCSChW0GsbJDIgmyL9lqNljo8iXLWcy2m5t6nrkssUgmbEpY8XgaWb-dRSVfDmc7dysXVvqd30AsGaTkc
@@ -13,3 +11,5 @@ somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_
 Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
 iminako   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-bf2d256ce4cc86edaea97e3b416048ccf7f5d7069a23ee901f5503347e9b95ca_trns_h264/playlist.m3u8
 EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+ake_mi   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3d1c770ce9608dc34f275d01ed88c4d7ef683f767bac6ba6bfd7374eadaed1cd_trns_h264/playlist.m3u8
+anystar00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxODQ5MDIxMX0.Aom-K1yK2BeepO0KD0BMGv8mn8VdEs3NL9Sl-k53n3C9p2d0XM8lHru9xxQg01a1s1BfZrAnH6_aVz2bFCnsL0aIfFU1oe5VPRhbIbqMpZYow0fqocuPB7HbN3UY1omW
