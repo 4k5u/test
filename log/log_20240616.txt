@@ -94,3 +94,6 @@ Sun Jun 16 06:23:38 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 删除Hahaha_ha2 
 删除sexygamesx 
+Sun Jun 16 06:41:30 CST 2024
+Sun Jun 16 06:41:39 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
