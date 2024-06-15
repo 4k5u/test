@@ -287,3 +287,6 @@ Sat Jun 15 21:25:00 CST 2024
 删除leelate 
 删除54soda 
 删除Daji-Lovely 
+Sat Jun 15 21:41:00 CST 2024
+Sat Jun 15 21:41:54 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
