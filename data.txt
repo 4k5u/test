@@ -14,3 +14,5 @@ thgml1212   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 glglehddl   https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dO0jxxfs0Fo2ZnXfFpwcSAChx3M8BFJ4FSBT6r7oBnro-F074swFDxr-s3xkG1lpbYspIaaTHpkFUnNguE-PaA
 somsom0339   https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FGHP80HU_d6zClYElB8pCBLIyshSRuJ9px9a3_I58Pqoo7ttOlWKQqdR4mpX-FiRFT3mJiIwMFP3-hDwPX65lg
 Angel-Bei-bei   https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+iminako   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-bf2d256ce4cc86edaea97e3b416048ccf7f5d7069a23ee901f5503347e9b95ca_trns_h264/playlist.m3u8
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
