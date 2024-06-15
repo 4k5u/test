@@ -127,3 +127,8 @@ Sat Jun 15 10:24:14 CST 2024
 Sat Jun 15 10:48:48 CST 2024
 Sat Jun 15 10:49:01 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+Sat Jun 15 11:00:40 CST 2024
+Sat Jun 15 11:00:52 CST 2024
+删除oki_dokie 
+删除4ocari 
+删除SanySenise 
