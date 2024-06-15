@@ -1,6 +1,5 @@
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e974c97601d830deb3d88591d310feb68038a7716723ef1d4be55093542dbd2c_trns_h264/playlist.m3u8
-Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2fe24446ff096c5eabd1a5fde6836487168f0ad6aed1d528e462ebf821ef9192_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
