@@ -325,3 +325,9 @@ Sat Jun 15 23:25:07 CST 2024
 删除onlyone521 
 删除oki_dokie 
 删除starsh2802 
+Sat Jun 15 23:40:22 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxODUwOTI1MX0.QbzLTxicsDHNZ0YpixpeNuH1hqq3r0UJQ4QuoOxzWO8JGnmFegMOUJ3HbOuOVchlaoEXpHoomyFUMsQmGUm0zASsWsXRczElf8Dm2N5XLuL7ISTDlCkb-Ow6UfJvoins
+Sat Jun 15 23:41:26 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除tess00 
+删除seozzidooboo 
