@@ -132,3 +132,10 @@ Sat Jun 15 11:00:52 CST 2024
 删除oki_dokie 
 删除4ocari 
 删除SanySenise 
+添加_meganmeow_ https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e974c97601d830deb3d88591d310feb68038a7716723ef1d4be55093542dbd2c_trns_h264/playlist.m3u8
+Sat Jun 15 11:25:26 CST 2024
+Sat Jun 15 11:25:35 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
