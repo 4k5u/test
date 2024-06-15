@@ -10,3 +10,5 @@ Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.
 eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5dvgLJ2qwGBw_BpEzbyaAfd-2WyvUt8sZjtDqVrjTXOQ-DzQs26DfEo7hSwM8gI2RCgLSASdwF8IwH2RtgV4Yg
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-43e2dc334a37c738773560d48c2db0e2276a890ce3ea1a2f973a2745f3b5f7d8_trns_h264/playlist.m3u8
+asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
