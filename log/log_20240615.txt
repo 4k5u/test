@@ -276,3 +276,14 @@ Sat Jun 15 20:42:23 CST 2024
 删除hyuna0721 
 Sat Jun 15 21:00:12 CST 2024
 Sat Jun 15 21:01:03 CST 2024
+Sat Jun 15 21:23:42 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxODUwMTAzN30.hsudnkOhL5PEg7B43-jXJeld5mOMrmwsy4NvZzSFYA9_Maq1Q2jVeXAXzUabng7Td3DBM8vUz3nosYRJ7b3sf3HmCjESWkhKHLBjKp20CU9z5MyIefQkoTctZ5Tu9iNP
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxODUwMTA1OX0.Bkfduqaf-fuJjlinwtA_mo2x8H3HE9c4cxvDMLMUCoJkM6T2XKjMmolircByTIVqYN4VThEEvi8m0acQFDa3F_yUxK-fPwxWXC9WmLEM038e8LLBnFihMKOCUjCZ5nMK
+Sat Jun 15 21:25:00 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QcVMO9Mhv6qpv3FsYDfVVN4466OsWwt70r7ZSIsUQmhPwnQM4hEKW0jbu1_g6XCn84wWHkI_dZYNlQMvF_OCDw
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+删除somsom0339 
+删除iminako 
+删除leelate 
+删除54soda 
+删除Daji-Lovely 
