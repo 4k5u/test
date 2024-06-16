@@ -2,3 +2,10 @@ Mon Jun 17 00:01:46 CST 2024
 Mon Jun 17 00:02:17 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 删除banet523 
+Mon Jun 17 00:30:55 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxODU5ODY3N30.ZDuvmuvj-_4Qf8wMdU861GT-jCzkvwDNnp37HON-MNJzALRz4h9H9cKlP_FDthwIu7gx45dm5cWaeK5UfCPinl-hJDSQ9uKVRXxsLAtdrN-H-ku0gfgr9EqT9wY2v5uD
+Mon Jun 17 00:31:32 CST 2024
+删除thgml1212 
+删除homegirl 
+删除o111na 
+删除glglehddl 
