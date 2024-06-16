@@ -6,3 +6,4 @@ gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_p
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-58334978295c40c380a08d1cb2179663cd981a804de7cdad5b96ed759414795b_trns_h264/playlist.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
