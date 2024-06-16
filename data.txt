@@ -5,4 +5,4 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f833397e2551815fcf656ff0383a29bdf3ecc7f7636472817f5d7a5c59983756_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
-ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-dbc7e67503d15d68c2a61e6a31cc9f106a296147b74964edd7908eb26cf2bdac_trns_h264/playlist.m3u8
+emforhs1919   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxODU3MzEzOH0.kpkGf-oABIkSK2pqOhCKFzPxCJSHHeuYlYrvVeK1Doadp_Jg_1EwUBAVo5IUrWOh0zurOQnIuxluoBEHNTQNoIAYXHPu1w1Q6c0fDQi9L_Xc_7-r7HKRWsA6BSxbb0Vs
