@@ -15,3 +15,6 @@ Mon Jun 17 00:43:53 CST 2024
 Mon Jun 17 00:59:04 CST 2024
 Mon Jun 17 00:59:27 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+Mon Jun 17 01:19:40 CST 2024
+Mon Jun 17 01:20:05 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ht_IfL3KWcEeGcxc8U-Q9X1mmqNnjB44q0diJbBWMDnlpt8sPypLXrYa1FCEVyxfolwMnfGwnCypGJBxaMjSQw
