@@ -9,3 +9,5 @@ oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f833397
 iminako   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-4c335ee075578d12f6517cec4fa96fece6e1b2fb2fa00ca8aff958ecfdd41c7c_trns_h264/playlist.m3u8
 362540   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxODU1OTM5Nn0.gFo2xJ_cghLRRXjrY9HDxvobVA5noCTphS8Gj7df3LIglwmTu7leBjNoTXbvgBWhEWcU4COSk3U-B_Tp_2G_WGsvxKc790gLr5DsdC8ZKvh30Ns16-1-RMrf9zF_26E3
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+cuddles_me   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b45003c54d8615fe1b3fbe5fd4ab99a6e42cc3b0493ff8a06d8b46ef62b557ff_trns_h264/playlist.m3u8
+your_desssert   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d210c3bf0b5726c164ddbbc4270826e8d10cb4e4f429c5bc1dd29871def205e7_trns_h264/playlist.m3u8
