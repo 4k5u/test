@@ -188,3 +188,9 @@ Sun Jun 16 15:22:51 CST 2024
 添加your_desssert https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d210c3bf0b5726c164ddbbc4270826e8d10cb4e4f429c5bc1dd29871def205e7_trns_h264/playlist.m3u8
 Sun Jun 16 15:35:31 CST 2024
 Sun Jun 16 15:35:46 CST 2024
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f833397e2551815fcf656ff0383a29bdf3ecc7f7636472817f5d7a5c59983756_trns_h264/playlist.m3u8
+Sun Jun 16 15:50:30 CST 2024
+Sun Jun 16 15:50:45 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除intim_mate 
+删除asuna_love 
