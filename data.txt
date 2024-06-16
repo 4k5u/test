@@ -2,6 +2,5 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 3ww1ww3   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxODU4NTk1NH0.3wfOT13_1y5hnwDNQramiwYAJaF-pU_UkCUVCwAys2zSIcg55DyC7vvuSlPW1T0HI2DW78jAI07Y7AFWtUXuztQtH2Nf0tIav_SlX3UiPU3Yy32uXrNFPUI5yerMFXJJ
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-58334978295c40c380a08d1cb2179663cd981a804de7cdad5b96ed759414795b_trns_h264/playlist.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 _meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-85f082cb5e7a00b54022563f7d686618b6d45407f89002ec3d2041ea36a2f176_trns_h264/playlist.m3u8
