@@ -271,3 +271,11 @@ Sun Jun 16 21:23:51 CST 2024
 Sun Jun 16 21:24:46 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZPP0js-Ydt4e1Zz11b9NiOvMsKyNv21PaTqC4j3-RpheNHqdDxHqZKqlDthw3kprdJSSnaneSwpGKperVhyI-Q
 删除Hahaha_ha2 
+Sun Jun 16 21:39:36 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxODU4ODQwMX0.iWcfV3rKvD6R3Nm5HicZch2xrgIoAKTCUgaBtMjLkxFuuZP29do0QincN1_OhYsYuRc8UK2zHGFyp72Oe9xiiXXTUoXTvAxVeYZOeZdvuQH9X80upVVbfC88dsslJ5L2
+Sun Jun 16 21:40:31 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除bongbong486 
+删除Ryo-sama 
