@@ -260,3 +260,8 @@ Sun Jun 16 20:41:27 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除JessicaRewan 
+Sun Jun 16 20:58:30 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcxODU4NTkyMH0.nui9YQRvQiTyfP32CA3J2Ig_zZhN6gYUMw0PO9dd4_BdvAl3EqkH9Gm7ngWEcxPkLEJBRXb0eTTJZcVXNiv5bZpfGDN9LtpAHOgIlLrWAaJJc0xVCTXalJuEISnM3fns
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxODU4NTk1NH0.3wfOT13_1y5hnwDNQramiwYAJaF-pU_UkCUVCwAys2zSIcg55DyC7vvuSlPW1T0HI2DW78jAI07Y7AFWtUXuztQtH2Nf0tIav_SlX3UiPU3Yy32uXrNFPUI5yerMFXJJ
+Sun Jun 16 20:59:35 CST 2024
+删除your_desssert 
