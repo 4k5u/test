@@ -284,3 +284,12 @@ Sun Jun 16 21:51:47 CST 2024
 Sun Jun 16 21:52:45 CST 2024
 删除nemu00 
 删除362540 
+Sun Jun 16 22:09:57 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxODU5MDIxNX0.iunRZoOW_hw6c7uTHdfC0iNfUGI3d7I_R86y_hmf5fKu1QfPAM-qHJJdX3mTVpwZOj7RcTDcZ7cCbuzCtB74EedXH0IWznnKK-uQ5yUXvQKWJ_Hhbdi_9fPzvpiWzJE5
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxODU5MDIzOH0.ouMmRu4JeOJhugSTubvfBPxNVc-MAROJs8sJ1YPT4rkUJycX0HJs6ZWo53I162KeADBvGciyMguMmCpov5F4Azd0c_vUzNJ6u2okH1lajr7bZwOjgCVGdJ1xEGRSwQpW
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxODU5MDI2N30.xXB9AO2_QtrJrydALNYzvFzGe5UACrww6sulkbEXyloBMCZzLz0OuiyRfiuJGF4Pjrzj-6Nwtg6brjopZtVVUmOWdyBAHSh1u-gvSqM6ELZGT2Qd04IZ4UD3i1o9a8Mk
+Sun Jun 16 22:11:22 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.net/hls/44568216/master/44568216_auto.m3u8
+删除somsom0339 
+删除redholic377 
