@@ -16,3 +16,4 @@ Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 Daji-Lovely   https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 seozzidooboo   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxODU5ODY3N30.ZDuvmuvj-_4Qf8wMdU861GT-jCzkvwDNnp37HON-MNJzALRz4h9H9cKlP_FDthwIu7gx45dm5cWaeK5UfCPinl-hJDSQ9uKVRXxsLAtdrN-H-ku0gfgr9EqT9wY2v5uD
+Hahaha_ha2   https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8

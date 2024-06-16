@@ -12,3 +12,6 @@ Mon Jun 17 00:31:32 CST 2024
 Mon Jun 17 00:43:30 CST 2024
 Mon Jun 17 00:43:53 CST 2024
 删除Hahaha_ha2 
+Mon Jun 17 00:59:04 CST 2024
+Mon Jun 17 00:59:27 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
