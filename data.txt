@@ -2,4 +2,3 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e043fcea0266b80c73f2f2a46eb4a9c263fb9ca665b40b0211d8021e653e4705_trns_h264/playlist.m3u8
-my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7d0fd83673ffb111c796087f114feb2dcd696fbd7967c5cdd77b51763d3651f7_trns_h264/playlist.m3u8
