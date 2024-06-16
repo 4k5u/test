@@ -240,3 +240,6 @@ Sun Jun 16 19:34:24 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9uiAS8607RbiFg1o6xskT6a3U7Cby1nD46mL3s1rr5nubBI6DPKpVn7jtYufanpDvNG0qWulBzt4QfwLUJQEqQ
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 删除AkiShina 
+Sun Jun 16 19:45:27 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxODU4MTU2Mn0.HDGRBx6bGY0q2BJx9PhnfewSd6NBptCms5D1gIPj8ykB3t35VqPshjPM2QGPghliwvDcCDoYqjUYRiXIt4-oDZr9WGYLbox8WNnG9gzuFN1c3Bsw8BaZ_NTtVWzaVJCz
+Sun Jun 16 19:46:19 CST 2024
