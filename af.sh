@@ -84,7 +84,7 @@ for userId in ${userIds}; do
             echo "错误提示：$(echo $json| jq -r .broad)"  #$json "
         fi   
         echo "-----------`date`--------------"
-        sleep 3
+        sleep 2
     fi
 done   
     #sleep 10    
