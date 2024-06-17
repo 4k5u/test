@@ -139,3 +139,6 @@ Mon Jun 17 13:26:27 CST 2024
 Mon Jun 17 13:26:40 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除Dolv_1o 
+Mon Jun 17 13:41:43 CST 2024
+Mon Jun 17 13:41:56 CST 2024
+删除Glenda_1 
