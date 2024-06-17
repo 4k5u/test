@@ -187,3 +187,7 @@ Mon Jun 17 17:51:59 CST 2024
 添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d72b1fda7760967cf3397e91222d9c3e358e2c4c9033c4da94d337b99268761e_trns_h264/playlist.m3u8
 Mon Jun 17 18:13:20 CST 2024
 Mon Jun 17 18:13:35 CST 2024
+Mon Jun 17 18:36:48 CST 2024
+添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p17V7hcA5dEi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3AxN1Y3aGNBNWRFaSIsImV4cCI6MTcxODY2MzgxOH0.87Vtn-nBxmZBU8n-pr1KtxFKCUF8WMZR7GTxt9VS3KcM9490GXLXddCOM12MoKiCHsn1B5cQ00FDu7_E5gKmq2F8gN2mjCV4txL_H3YZNRDnHut8yLDE1UjODiKD0uNO
+Mon Jun 17 18:37:16 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
