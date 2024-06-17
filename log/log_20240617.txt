@@ -224,3 +224,10 @@ Mon Jun 17 20:01:48 CST 2024
 Mon Jun 17 20:02:50 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uaI12xaEsmySSOXTDEvO1Qs9PJ4oidF9UTqUvTr1klqpIXECkJTMbcTU-vGWvDArqZh1S8HIk1d2orTrJs2SiQ
 删除happyy2 
+Mon Jun 17 20:41:41 CST 2024
+添加okzzzz https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d1fcZvHwxE8U.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2QxZmNadkh3eEU4VSIsImV4cCI6MTcxODY3MTMyM30.ewNFYg-egitvTwqeHIk4fOke3KZipKOzbtHaWVoOFoyoq5x872GmZDGjt9Fxa1uJmW3w4z55Saj7ZYV5TTftBXYPczceBDKuz4yynKkqYoCVeAOEgsMIz_fQg6nuSEPI
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxODY3MTM0Mn0.zOrupQZuCC-q9uYtBSlzQZwQ25gZcp9QaCZDcxh0VFrmr1q_4EQtPEwUlsBUK0hgV3bZA5JPRiqRcyJ5KFmlOflNd3zp44pEomNOtI2DyFckzQBG2uIB2kQDNb51Gx3G
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxODY3MTM2Mn0.Y14UamnY-tUSa05FLAZiNOaD-6FKJm-JMCIXTp7-XFkLvnPtZw5OKV8Pzu_N2J1I4-W2cYqfI39VLePRI2yaqEiYF_0QGih2NstNij4pKua_1QyVOaQarMRT45cF0I4W
+Mon Jun 17 20:42:57 CST 2024
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Fki93Wg9rV4VospLQdqQ_GqHxsLag_11h8hViPQ-cYQMeZ-T0MlhKnRWcm1rBdEfvp-m8gem05fmkRZ5gNutWw
+删除my_eyes_higher 
