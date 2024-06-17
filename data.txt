@@ -1,6 +1,7 @@
 _PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 _meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-85f082cb5e7a00b54022563f7d686618b6d45407f89002ec3d2041ea36a2f176_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxODYzMDcyNH0.C-mQztPDRzGANFCrXpNIDrZ_9mCMluW3S6zm8Ey43yuacNBff2VZ_fA6-RT9i-xa9zkW023hXe2Kop7jOv8t4jtMM61FHssq0vx4wp4kkC2Zu6bx_yOA74JXyuMpOeDE
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODYzNDM0MX0.9xWgDzwARYmKB9iIv-CFotSb8siKSQP5lmufbTYYmKuJ2n8UtIasCTdnpxZm6sEbTMm2VtGrcYJqJ_cZxjN9Fy1-_fGHwBm015kcZIv0X1tt7Yppvk-bOWie1vRqnxyI
+AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8

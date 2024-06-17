@@ -104,3 +104,8 @@ Mon Jun 17 09:25:38 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除dkdlfjqm758 
 删除mazzanti_ 
+Mon Jun 17 10:25:31 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODYzNDM0MX0.9xWgDzwARYmKB9iIv-CFotSb8siKSQP5lmufbTYYmKuJ2n8UtIasCTdnpxZm6sEbTMm2VtGrcYJqJ_cZxjN9Fy1-_fGHwBm015kcZIv0X1tt7Yppvk-bOWie1vRqnxyI
+Mon Jun 17 10:25:57 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty 
