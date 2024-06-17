@@ -5,3 +5,7 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODYzNDM0MX0.9xWgDzwARYmKB9iIv-CFotSb8siKSQP5lmufbTYYmKuJ2n8UtIasCTdnpxZm6sEbTMm2VtGrcYJqJ_cZxjN9Fy1-_fGHwBm015kcZIv0X1tt7Yppvk-bOWie1vRqnxyI
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+intim_mate   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fc534c93e7d8b86aa1c36c6ba46d482359fe258a29f2bce3f75eceefcf9c0d82_trns_h264/playlist.m3u8
+likecho   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p7YaMt1qsZmA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3A3WWFNdDFxc1ptQSIsImV4cCI6MTcxODYzODMyMH0.61lNVuBsM9FVh6qLwnYupFjIMJiyJrJ4KJv4TLC5cgCMBF8T3TlSYgYcZ0DSM8WV9rXbVx3hhZUQiffFB9ZNN09bD6OzlTbmuL5xHp8mr14GwDI4B2wyw1Vqug09HXks
+Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
