@@ -64,3 +64,8 @@ Tue Jun 18 05:39:59 CST 2024
 Tue Jun 18 05:40:12 CST 2024
 Tue Jun 18 05:52:03 CST 2024
 Tue Jun 18 05:52:17 CST 2024
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-502331098fd23028a8ad065b5c5ccb0c0530abf17441c5d7ee4d2be2dc26f72e_trns_h264/playlist.m3u8
+Tue Jun 18 06:18:39 CST 2024
+Tue Jun 18 06:18:50 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+删除ajswl12 
