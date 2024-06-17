@@ -125,3 +125,7 @@ Mon Jun 17 11:59:31 CST 2024
 Mon Jun 17 11:59:46 CST 2024
 删除nemu00 
 删除AkiShina 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c0441b5d2d8de8771657ba0d476c43d80698b2ecef8d697d13c46d9b2b1ff71e_trns_h264/playlist.m3u8
+Mon Jun 17 12:29:02 CST 2024
+Mon Jun 17 12:29:15 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
