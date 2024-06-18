@@ -114,3 +114,8 @@ Tue Jun 18 12:41:09 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 Tue Jun 18 12:52:58 CST 2024
 Tue Jun 18 12:53:11 CST 2024
+Tue Jun 18 13:20:35 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxODczMTI0NX0.o3cvE1N1O6ajIVauA2a0sirOmE1NfxNJIn5zfE3tl0SOLeJSyriBMerXfdsOzLOTK-xINdKQihxPoUVqPop0Y4JhCYtZNoes8Tu76__c4ztNNCfER7qUFhfAH5-3FSwA
+Tue Jun 18 13:21:01 CST 2024
+删除my_eyes_higher 
+删除jjine0127 
