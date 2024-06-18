@@ -86,3 +86,10 @@ Tue Jun 18 07:53:47 CST 2024
 Tue Jun 18 09:23:54 CST 2024
 Tue Jun 18 09:24:09 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+Tue Jun 18 10:23:07 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODcyMDU5OX0.pGdSq7jFrpqn1AO3qTbB9sJkxqmtjKR2iB8ZxnRtIfb4M5CtbPyK1UVvkAVjzca-JvrAIrrYQSqpid2wStLEDZqx1ob2z-Vj3YdLItIqHBggt4JJuB7qtWc_7wBxjiDr
+Tue Jun 18 10:23:32 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除dkdlfjqm758 
