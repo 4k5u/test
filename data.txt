@@ -10,3 +10,4 @@ kiriko_chan   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-cb
 gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7iSc2e_Ao5OppgBqmmUG4y92OaCEyZczbL2nd4Y7HYW6k8ksTrkbnpVzP2pjFkwSpb8yxOEUN5zDHTrUw6elLQ
 sexygamesx   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ee9ea54bb352c09c5dd2fc07a94485dd9dc8970546077949b535ac484ba61aee_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f8b106b2785c515d6779101bf5938541c0f80a3438fff15f9db3255f3e5e03a6_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
