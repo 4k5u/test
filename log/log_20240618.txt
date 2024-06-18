@@ -194,3 +194,9 @@ Tue Jun 18 19:23:22 CST 2024
 添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Vqx7DgdiJe9j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZxeDdEZ2RpSmU5aiIsImV4cCI6MTcxODc1MzA1M30.hloq4mwA6Y7qoc12rPBkiklOKUcdcKxCgF4BbQIPEA-YsESbS-_6BjWBUaPRng054mlCnBrjffMTVIO0ioI7KwOzYDJQTQ4azn7UVJdlztfQxPgj1ILwpOsMNPuL4iEL
 Tue Jun 18 19:24:31 CST 2024
 删除nemu00 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8422109f185316c01aa92bd39961b1629d4554b973546cc93fdbc000a49dba68_trns_h264/playlist.m3u8
+Tue Jun 18 19:41:15 CST 2024
+Tue Jun 18 19:41:46 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.k28rwTUU641_Gl8cMUxsh816JK5ujfBO5HOFyojRFWV-2iSlr2ShPMdXBsL-jL1iIXiuaDVuHSBl9qrkbRTiBw
+删除AkiShina 
+删除ake_mi 
