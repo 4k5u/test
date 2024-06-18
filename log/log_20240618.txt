@@ -170,3 +170,7 @@ Tue Jun 18 18:23:19 CST 2024
 删除Judy0523 
 删除Glenda_1 
 删除oki_dokie 
+添加honey_pinkgreen https://edge5-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-22eaa875b148e09cffd08323defcf008c8fb65d50888426b0aa0545b4e1e8682_trns_h264/playlist.m3u8
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-34b51abbb357be7cb9ab94387f9391850ec801dd65c52ff7501dc32d8af3dbdb_trns_h264/playlist.m3u8
+Tue Jun 18 18:37:55 CST 2024
+Tue Jun 18 18:38:14 CST 2024
