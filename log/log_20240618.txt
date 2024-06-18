@@ -222,3 +222,10 @@ Tue Jun 18 20:40:00 CST 2024
 删除foxylovesyou 
 删除muse62 
 删除honey_pinkgreen 
+Tue Jun 18 20:59:46 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxODc1ODgxNH0.Qt6jVfY-NrbhaMt9svCWGKfmNyLF139bwuGY5U51tclbrOnQfA47Mw3bfV4owDl0GCjDGwy7EzXXg2qDsGbqc9D0nannzuKbns3ZeqmpaXLvdESaLy_RkK4vGBebwE-m
+Tue Jun 18 21:00:46 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sFrqnITB9Gf6gnom2nE8y2bZlOXjR8M1VxXeDPYAOQ0eWQtQSZnBKOZbOre0ZJ3Lo4SsHWXqRYG6pwkEqV5EQA
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BiUcxpyrTJegMZr_KLWf2o2UXE7IMNPqKwYLRfgbCcOEPinXJyTxmukqZgnG_ier3GTom1WtOuSjaAK91Bjouw
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qSjsCBDQVHPNv37JtJ0AB2mptxcIIANvoqMRpGrFqosWQMqyKIZGpqy9bxPlGW0hJ3m8ljy39SQRLUEBJuyVDQ
+删除ake_mi 
