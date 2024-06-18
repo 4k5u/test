@@ -9,3 +9,4 @@ SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
