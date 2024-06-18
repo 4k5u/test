@@ -252,3 +252,8 @@ Tue Jun 18 22:33:22 CST 2024
 Tue Jun 18 22:34:45 CST 2024
 删除your_desssert 
 删除oki_dokie 
+Tue Jun 18 22:49:00 CST 2024
+添加yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.47ZGh6pK1nKm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ3WkdoNnBLMW5LbSIsImV4cCI6MTcxODc2NTM2NX0.HyzD4AnLKPg56w3VvSNulhFvInm5idB4mAEDLGtofHTB5PkPYQRIfBr42WL2-5ZTtqGHCkQc5Kk_F5Sh_ykMxVvtuamJeB2UNcNNTgPc1b1LfjI57dzPB-rwSgXg9WpI
+Tue Jun 18 22:50:13 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+删除yasexy 
