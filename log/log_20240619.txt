@@ -89,3 +89,11 @@ Wed Jun 19 09:24:06 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 删除dkdlfjqm758 
 删除_PunPun18 
+Wed Jun 19 10:23:10 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODgwNzAwM30.T2qCGO4MlP3WuHnhIuvB8cKlHDlsTDi2iwgJCTHEtSV0x18CvU1L7jZqHeolGwW3eIyUjtkSo3uRf8Gx6Yi-WcG6H92d0QLts1VYEYSg9Zz6rpe7yRXormKZOTGs1zts
+Wed Jun 19 10:23:39 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty 
