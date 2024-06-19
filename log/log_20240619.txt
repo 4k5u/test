@@ -137,3 +137,7 @@ Wed Jun 19 13:21:28 CST 2024
 删除San___San 
 删除mikio_san 
 删除sigmasian 
+Wed Jun 19 13:37:36 CST 2024
+Wed Jun 19 13:37:53 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除SanySenise 
