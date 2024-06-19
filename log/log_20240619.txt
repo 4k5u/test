@@ -155,3 +155,9 @@ Wed Jun 19 14:36:40 CST 2024
 Wed Jun 19 14:36:57 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 删除SanySenise 
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8856adb35b75d0f9099994fc49732c47bd9c1667d4ebfac935e03575d547060c_trns_h264/playlist.m3u8
+Wed Jun 19 14:49:53 CST 2024
+Wed Jun 19 14:50:08 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除getme1004 
+删除SanySenise 
