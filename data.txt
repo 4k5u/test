@@ -14,3 +14,4 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+likecho   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p7YaMt1qsZmA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3A3WWFNdDFxc1ptQSIsImV4cCI6MTcxODgxMjM4NX0.4QJsXsUH7QF3TyPh7U_G3fWos6gQGwCGU9k6mwiIfqOmxNfXt2KrB9g5NOdO8Xb8-W5jktQ4gV9g_H_sZTx5IkCSHnL3ieHgI5V6Rhi-qIbdaBRuyOt6hxGa2xOnUzQZ
