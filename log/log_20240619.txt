@@ -214,3 +214,6 @@ Wed Jun 19 18:24:28 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除Judy0523 
+Wed Jun 19 18:41:22 CST 2024
+Wed Jun 19 18:41:43 CST 2024
+删除EmiliaGuess 
