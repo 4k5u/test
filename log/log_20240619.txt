@@ -117,3 +117,10 @@ Wed Jun 19 11:27:31 CST 2024
 Wed Jun 19 11:52:51 CST 2024
 添加likecho https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p7YaMt1qsZmA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3A3WWFNdDFxc1ptQSIsImV4cCI6MTcxODgxMjM4NX0.4QJsXsUH7QF3TyPh7U_G3fWos6gQGwCGU9k6mwiIfqOmxNfXt2KrB9g5NOdO8Xb8-W5jktQ4gV9g_H_sZTx5IkCSHnL3ieHgI5V6Rhi-qIbdaBRuyOt6hxGa2xOnUzQZ
 Wed Jun 19 11:53:21 CST 2024
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9f733fc86a3174287ca8b96a6be087ba850ad1c21cea0dbbf229196ceae2c16c_trns_h264/playlist.m3u8
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-daca6cdbb81a825dd3c26b875bc401ed30860284a7eb0fcab31aafe1ea20d474_trns_h264/playlist.m3u8
+Wed Jun 19 12:25:13 CST 2024
+Wed Jun 19 12:25:32 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除kiriko_chan 
+删除sigmasian 
