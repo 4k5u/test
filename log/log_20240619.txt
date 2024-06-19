@@ -284,3 +284,8 @@ Wed Jun 19 21:28:30 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除JP-KARIN 
 删除morphesoull 
+Wed Jun 19 21:40:22 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxODg0NzY0MX0.l2FHZwJGAHOKOgjtZ52uuJdeYywRWAK6ZwRt6tKkuEEbhvkX5CN6liTU0AHQ6N5i11o7XphMh4Ot13UQEBnGFvfXwDbtwxKJuDFgBJlkXzF5E4SiVaJHlyNtd1hEnHX8
+Wed Jun 19 21:41:28 CST 2024
+删除foxylovesyou 
+删除anystar00 
