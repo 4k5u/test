@@ -126,3 +126,7 @@ Wed Jun 19 12:25:32 CST 2024
 删除sigmasian 
 Wed Jun 19 12:41:18 CST 2024
 Wed Jun 19 12:41:37 CST 2024
+Wed Jun 19 12:53:42 CST 2024
+Wed Jun 19 12:54:01 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除my_eyes_higher 
