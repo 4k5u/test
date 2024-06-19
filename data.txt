@@ -11,3 +11,5 @@ oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9f733fc
 ake_mi   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-daca6cdbb81a825dd3c26b875bc401ed30860284a7eb0fcab31aafe1ea20d474_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2512d493990d50c7be169e4c3ff9dd77ddfc655303c7eafe17678fe09df21c2a_trns_h264/playlist.m3u8
 foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8856adb35b75d0f9099994fc49732c47bd9c1667d4ebfac935e03575d547060c_trns_h264/playlist.m3u8
+soso621   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxODgyNDkzM30.cAh76Uy74LBiKoNMu4VtU-uyxAZmLi00i-rv4CcV91i0atdS-A_LnvorgXu0Ac_9MyQJ9IEPTZqaxs4kRteeOr2-9EfGIIzWIpWs9Zf6Q1WRAMy7djtIAknzOoOs2b2g
+EmiliaGuess   https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
