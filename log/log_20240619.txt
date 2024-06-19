@@ -269,3 +269,8 @@ Wed Jun 19 21:04:10 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Fdq8ZVwmeGu9Lq3fKpfom-m-YGf3e9bhfEBcWYQMEi0TPU9sxi7S8nmRGDvEdsd-igXcNeEsPpeN_iVjuxWQbQ
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除EmiliaGuess 
+Wed Jun 19 21:10:58 CST 2024
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImV4cCI6MTcxODg0NTg4Nn0.2wP3yymgijyRqhT_fiSUU9X0al5O-Zq5nZZZjyUhWwX88H8I1YZ_ycvlWovkeUshb0lj2HyU9JwbElqQDsPntDyNcPGMdtQ4wOyAVVB5sS_WHwHYoWXV7FgwnMOaXxSv
+Wed Jun 19 21:12:00 CST 2024
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BtKbqqzGxfNDaMig-QtCH7stQCqLC5UsNqFvJKG9BDIvtR--rbnu-JF0n3x_MVsd4ci3zrz7E98q-0c6aaQeJA
+删除dkssudgktpdy233 
