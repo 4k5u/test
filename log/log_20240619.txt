@@ -204,3 +204,13 @@ Wed Jun 19 17:41:06 CST 2024
 添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
 Wed Jun 19 17:53:36 CST 2024
 Wed Jun 19 17:53:49 CST 2024
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ce915793a5002fd4efe27c64d2c05f4da611ce0b282461cea50b737ed87656e2_trns_h264/playlist.m3u8
+Wed Jun 19 18:23:16 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcxODgzNTgwNn0.2lByEnVLbHvwEHBKnoXv61ADABfFQm-nP2gggI7NXt2CrlRcR_zWKScRUN_Z7t0so3v8-DnSs9glzOs6xv2rt825_ueuBUxT2PeG189WAmY3CvXj3DlsvApC9mbkJnjb
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxODgzNTgyMH0.tHUtA-N7qRZsC_uQB-zTOcAojAxIGWVfjuf1vumaSYeshaEB-GDKbNh6p2DokT53cG9tg7FCFBR75QxCakEjxPw76UplzBEEVEaZEc1hPMeY0GlPOIg8IJEWJBRtXhko
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxODgzNTgzNX0.Xk9dmmP7IhSbThzRf5OmwSaUE1B84K2NYoTZfJpTxNbpOx6sf0sgmjI0FepSwKTAZpR02jLY_woXy1yYKS5AszcoedKg9YAUAJwcT5CEWvyA_eqSSNdFfZJ_eYuI2XJa
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxODgzNTg1NH0.DHIInMBg4kWmD3De1upWfey54RTpIh82wS566GlezyLqEXAJT2biV5maSmBCquwmhDBPljfqZxAA9R-7ZhgHDbvX_RcAWBPISqsn7b2RbU5Us3f67MugfmRbDDWhg_wV
+Wed Jun 19 18:24:28 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除Judy0523 
