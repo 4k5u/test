@@ -217,3 +217,8 @@ Wed Jun 19 18:24:28 CST 2024
 Wed Jun 19 18:41:22 CST 2024
 Wed Jun 19 18:41:43 CST 2024
 删除EmiliaGuess 
+Wed Jun 19 18:53:51 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImV4cCI6MTcxODgzNzY0N30.ggT8fxWzJIAAbN9-9BHU2p1tKILqI3VZfSmuf6xK0yXdtuSPC9d_XVnRP4D_RtvGwox7wC-UHtIF1oPANRfLp0SlOfFYfqX_5I-YWIEmJipnuzoOKPSrdCF6e0lkKeDG
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcxODgzNzY2MX0.xycNkT7KM-WncpbbF4ZbD_8CSglwtIG4IKmlcO0QsoVoWBmeKkqTr7CHuKb-_JprxNoFnxP2Lrgs85odjB5h4mvn_QmGEjIdGoXGmam3rMdOHjgcsYFnNO--1hHzYGq9
+Wed Jun 19 18:54:41 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
