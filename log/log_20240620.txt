@@ -204,3 +204,12 @@ Thu Jun 20 21:00:04 CST 2024
 添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gipdFf16g2Pnh2KEHRD-Gx7axEPYR93nlX-tWLeu_GvpaI8ON8sPoJroc0t2piRRD5r3DQLGNYgBFirUcz92ZA
 删除my_eyes_higher 
 删除muse62 
+Thu Jun 20 21:24:34 CST 2024
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImV4cCI6MTcxODkzMzA5OH0.Xeq6-eCOLVxJg9Vm5rPXSnMQ_AzoVkd-KwfTI7lSjBMZnnSPeQhFRKqyjfhAttQXjq4avfeNLUV13UzfeY7W1dbrke4P94v2jT-DGEKRjvk98zeYkXCluKic6xuq0sAU
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxODkzMzExNH0.E1S_GpYp3-xyey5BTlf0hPoVZGRaI0JCHetrrdj17akqXw_NqlJBGvetMJC-r7sY8a4m9AN0Mm9Wn3yq6i0paCwxgDunnF2X8NaapJdBXNsjltKI9bCm7pCNA1pWsy34
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImV4cCI6MTcxODkzMzEyOX0.t45V-LwRfrHz0EY3Uwig9z52vuWJ-wG3nNNDo_NVBnqaG9ksdZjPWwajJT0Fju11qg30H3pY0E5tojnScpKqpe2lbzzgCgVHKgJJcZVkJsUsJcY1m8th_rInzzINwWJ-
+Thu Jun 20 21:25:57 CST 2024
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5vkSDZa4iR8RFQCobkUIldX0yBfQHxuRltOSXlkpt7bPPWub1wqit9iGPW6le750ZsEAptuyULYXT4n1-YHehQ
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除iminako 
+删除EmiliaGuess 
