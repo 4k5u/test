@@ -8,7 +8,6 @@ hanny27   https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_pla
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5c7c384ae63073c305dcac21aa2ff2b11cce5a211fbccd41419484142b794300_trns_h264/playlist.m3u8
-your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c3da2536998590e91412df4343e94813e44c1685e903315ae838ef2cb03f637b_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c901c0fda600f3ea4bf0eac97762e038ce9fafcf3eea310915722df7803c328d_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f2b664a53a89d94d22dec4d8fe71ebb68d99a47f46421d746f8b6e9fc0e61f06_trns_h264/playlist.m3u8
