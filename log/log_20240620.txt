@@ -104,3 +104,8 @@ Thu Jun 20 11:26:14 CST 2024
 删除nemu00 
 Thu Jun 20 11:52:52 CST 2024
 Thu Jun 20 11:53:05 CST 2024
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5c7c384ae63073c305dcac21aa2ff2b11cce5a211fbccd41419484142b794300_trns_h264/playlist.m3u8
+Thu Jun 20 12:23:13 CST 2024
+Thu Jun 20 12:23:26 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除TefFfish 
