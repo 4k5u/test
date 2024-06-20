@@ -5,15 +5,11 @@ eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_maste
 kkkku96   https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.q5k3Kew1ud9lenxmHDI5m1W5F09_0HxSYk-0GY4Twa6V8iBdAHG4h4M9zc3h31ec_vUUxlvCtIKMmyBpjiqpmg
 glglehddl   https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aMVDwlv99CbuFktI1gtLrh3OPI09Pga4L0Irt4LvOKLp3Gs_o6ZBJRqiVoL7LIYHFGkeGIVr9abQ3-kpwL9uww
 hanny27   https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BkhVml92lMK3e3vOuNhZ8A2qJoaJi5_ooki_QhydGWZAFgUeRxX6lPmQptRi7O3Bwe5svbpMqD42F_r-yqezUA
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
-2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODg5MDUwMn0.E_Bz7_PPdJoaZav3e8e2XgtnW9Wvw_WdYACqZ9bE8IMnxoN7iB1x-INUouBQBRLwx5trNBY-wHk32bODgZJ1LbuXJ_OCJe8XG2ZuhYr2KI9UYrQYckRG-CGJsoqZ9TIF
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
-_meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-fde8c134402ed6949b0935c2d01a077ea2ac77fb2eb08e30f4a9646688fd38a4_trns_h264/playlist.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODg5NzE1Nn0.vOM5aBf--YMgRBGe6MokIlD38V8eXoqJtxrfbhI6ZtceDPFfVhAp3T3yVho3E5r4Qec9XmE0K84Sxv8gY4TFjTUlBoZYyOGu6MaxoMQXkKPhg5cMv9vZxU7bwhHISKpk
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5c7c384ae63073c305dcac21aa2ff2b11cce5a211fbccd41419484142b794300_trns_h264/playlist.m3u8
-Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c3da2536998590e91412df4343e94813e44c1685e903315ae838ef2cb03f637b_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 foxylovesyou   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c901c0fda600f3ea4bf0eac97762e038ce9fafcf3eea310915722df7803c328d_trns_h264/playlist.m3u8
