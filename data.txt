@@ -17,3 +17,5 @@ asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3
 mikio_san   https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5c7c384ae63073c305dcac21aa2ff2b11cce5a211fbccd41419484142b794300_trns_h264/playlist.m3u8
 Glenda_1   https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c3da2536998590e91412df4343e94813e44c1685e903315ae838ef2cb03f637b_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
