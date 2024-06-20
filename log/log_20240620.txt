@@ -136,3 +136,9 @@ Thu Jun 20 15:24:12 CST 2024
 删除2dayday 
 删除_meganmeow_ 
 删除Glenda_1 
+Thu Jun 20 15:52:15 CST 2024
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxODkxMzE1MH0.2ldIQwMYQpNPEBci-FLy42fIXzpARWPqaNqnQC7g_bpz33rciinzi4eNoUL7MYt5b0MgutQfkEa7Cs6rm6zfa2B1hsHog7tdQfwTNpmy5s3IlcG_235JWfsZbIpPfuIm
+Thu Jun 20 15:52:42 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除SanySenise 
+删除getme1004 
