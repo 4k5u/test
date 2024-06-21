@@ -12,3 +12,5 @@ intim_mate   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1788
 asuna_love   https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-fc455d0f781c12ef177caa588424a3c51ad45550acc44d8d944dc20b613337c8_trns_h264/playlist.m3u8
+foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-85c12cd96663674d66242618ed90b692a481dec9efbf7717fdcd5e2a6731ce66_trns_h264/playlist.m3u8
+likecho   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.p7YaMt1qsZmA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3A3WWFNdDFxc1ptQSIsImV4cCI6MTcxODk4NTYwMn0.gVKstxWkKpZigKfkhZKjCNFQDx37lNaRGbCvxOhlPTaTHmOT314CJRjsJPQ8ZlfSq_eY8Q01gZ4uMsJ92-1nkF01RqS3h1xoHXhtnO6xlpw0DmSzqXxqc_D2hFbedBDF
