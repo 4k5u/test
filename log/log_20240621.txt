@@ -166,3 +166,7 @@ Fri Jun 21 16:29:42 CST 2024
 添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e9330d77259c5bd80c0ed25864d0f5a33f3dd7bb73022bf7e016c13fdee390ea_trns_h264/playlist.m3u8
 Fri Jun 21 16:42:32 CST 2024
 Fri Jun 21 16:42:37 CST 2024
+Fri Jun 21 16:59:50 CST 2024
+添加20152022 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f2rk2BIXjw3F.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YycmsyQklYanczRiIsImV4cCI6MTcxOTAwMzU5MX0.i694V0fSJWy1z2rzs4EO1HJRvByZ0_U812hW5YaximDuiIa2-ub4A6ZfvWANXgy6nINP22QY12mu5Z1K3C5ZSqlRtQjxGE2ULZN5bxaVcWMULAiA3ft2sXMoADhS8FI1
+Fri Jun 21 17:00:01 CST 2024
+删除oki_dokie 
