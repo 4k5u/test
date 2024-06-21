@@ -2,7 +2,6 @@ my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 TefFfish   https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 2dayday   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODk3Njg2M30.H-AIfbqZnulUY5QzNTekQ1IXHouqYyktmHdIyJbomhGf_CSxh3Z0ymcUUHMuWQx5DY_B7Mzdl-67ZN-AbT7L1kwOViVRjF1-lrzRrSF2HhfFfKCnAQsIXeI_17TPzFpq
-_PunPun18   https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxODk3OTc2NX0.QGMxN4ymXAVNRjDe60jn3UhgPROek9IXOjXWbNmcIa8kpRF1Z0iSucKKPu7f7iove2wE2YiCGILLHtU-eR8A4iiEBpHoTFYWZpSGGED4QlmRDxDbmbGvoZcd3NVBcr2z
 eunyoung1238   https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g7ygwu-liOgPKPTtgP69iPVWkh8MOSBxBJNbO_qtXVvsflzwOqf4S1qUoDfoVqIGotGYZcDVg_N-qHYouMin0w
 Judy0523   https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
