@@ -82,3 +82,8 @@ Fri Jun 21 07:42:41 CST 2024
 Fri Jun 21 07:43:06 CST 2024
 Fri Jun 21 07:59:16 CST 2024
 Fri Jun 21 07:59:27 CST 2024
+Fri Jun 21 09:34:11 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxODk3Njg2M30.H-AIfbqZnulUY5QzNTekQ1IXHouqYyktmHdIyJbomhGf_CSxh3Z0ymcUUHMuWQx5DY_B7Mzdl-67ZN-AbT7L1kwOViVRjF1-lrzRrSF2HhfFfKCnAQsIXeI_17TPzFpq
+Fri Jun 21 09:34:37 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
