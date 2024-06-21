@@ -95,3 +95,9 @@ Fri Jun 21 10:23:03 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除San___San 
+添加intim_mate https://edge10-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1788261d5d4b0b6a3bf917799cc56fba12b71e2c4dd123de53ff76598fcfdb43_trns_h264/playlist.m3u8
+Fri Jun 21 10:47:40 CST 2024
+Fri Jun 21 10:47:56 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+删除starsh2802 
+删除TuTu-1001 
