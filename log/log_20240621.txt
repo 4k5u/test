@@ -209,3 +209,8 @@ Fri Jun 21 19:40:15 CST 2024
 添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxOTAxMzIzNn0.-KCWos6AHYg682cOb_XSOwYr1nIBdmHWqDiszsdGxojXWZoSezjUZV0d4QOYIVye9-UxvT_GevegrtmwrO7-cbONTuDX_HUSWPmdlVhTjRaLoch0KgtjZstTSEqy7gfB
 Fri Jun 21 19:40:43 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+Fri Jun 21 19:52:30 CST 2024
+Fri Jun 21 19:52:55 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除AkiShina 
+删除your_desssert 
