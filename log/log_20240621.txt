@@ -284,3 +284,7 @@ Fri Jun 21 23:30:49 CST 2024
 删除lovesong2 
 删除bongbong486 
 删除cool3333 
+Fri Jun 21 23:42:50 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxOTAyNzc4NX0.OP7Er0oLIvczvH_uV65YjtSC-Xf86Ay8TDyTSGkVmPYEMiWDoxjES860_qP5dE0DO1hnHeEb8yZUvQ88DOi_m7-nqRQ2yQeN68HVzi6Dw5MdhTcVORaIge8KEOHs13Dr
+Fri Jun 21 23:43:33 CST 2024
+删除EmiliaGuess 
