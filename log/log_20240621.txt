@@ -191,3 +191,7 @@ Fri Jun 21 18:37:29 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IdMFwttTbXi4ZImq8pWF1SvbrNAdvsplG8KAgcZabyENnF3MCujWDS68PwyD4pSVjgppJUDORJU9OIyX8Fsd3g
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kp1c8zach4pzqt6gIqI9jMpeQL1nGivnQmm1vQLGxQOm5skzK7PAa2ozY2-CyHXsZJ2BAxTa8qABCIjU02Hf_A
 添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+Fri Jun 21 18:49:56 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxOTAxMDE5OX0.ShNwv9aWHS8WV5zRLdvEFSg-oztGB2WI3onMfEU3Mp4kTV5cp2TZL2_DmKkP9VCi-1DxthQddU30UYl8U6XyZxHdZ5VoQ1RW4uOu_lVJpittRUbsJnp-hIXWacXaZ5nb
+Fri Jun 21 18:50:16 CST 2024
+删除your_desssert 
