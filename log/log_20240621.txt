@@ -126,3 +126,6 @@ Fri Jun 21 12:52:31 CST 2024
 Fri Jun 21 12:52:37 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除my_eyes_higher 
+Fri Jun 21 13:23:10 CST 2024
+Fri Jun 21 13:23:17 CST 2024
+删除TefFfish 
