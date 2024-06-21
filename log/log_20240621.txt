@@ -179,3 +179,10 @@ Fri Jun 21 17:39:43 CST 2024
 删除Ryo-sama 
 Fri Jun 21 17:51:39 CST 2024
 Fri Jun 21 17:51:48 CST 2024
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3cd38240f7a03cd5bed42a36154b834e8c4c20d6218721c323611c79d748f0a2_trns_h264/playlist.m3u8
+Fri Jun 21 18:21:26 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxOTAwODQ5MH0.7qkk7vOLpZ5Hklg-NJuIU8j-FC4jD4GJqO3XiM79utSpwWrx5UKB5QfikF7RjvU1N-o57fVC5jN7xwjan7h0413OfsV_YJrt1SRGkD4yAi0E4ivKf91vrKSlvFQuupj1
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxOTAwODUwMn0.D1SLMmiVApiIy67F-5pTiZP37AXGGokf3taLBN9bC8Qqd8NexaGu-Y8aaUoNPsSSLt5J1_-p0cEHgGkfQK4YHEAsABnQZndChiCs4C2zCCVP4taA2T4MWbZgTDMDO4pk
+Fri Jun 21 18:21:48 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除Glenda_1 
