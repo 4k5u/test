@@ -256,3 +256,7 @@ Sat Jun 22 21:00:48 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
 删除oki_dokie 
+Sat Jun 22 21:25:39 CST 2024
+Sat Jun 22 21:26:01 CST 2024
+删除y1026 
+删除m0m099 
