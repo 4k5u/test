@@ -28,3 +28,8 @@ Sun Jun 23 01:34:19 CST 2024
 Sun Jun 23 01:34:38 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 删除starsh2802 
+Sun Jun 23 01:49:42 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxOTEyMTc5M30.-zvXShwnbicng8Xa2k4p-x_3BLca2IJTZ-P0dwCPMOG8T0BGhExYxhd9LQrlll4VgBWTRPzWKC0_thUWNqWzSVJYo0Ex2LkdrYv1K6kM1MlWpotm3RmtoiuyyG26yvHE
+Sun Jun 23 01:50:04 CST 2024
+删除pandaex 
+删除TuTu-1001 
