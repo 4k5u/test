@@ -10,3 +10,5 @@ Sun Jun 23 00:36:27 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
 删除sol3712 
 删除ohhanna 
+Sun Jun 23 00:49:19 CST 2024
+Sun Jun 23 00:49:42 CST 2024
