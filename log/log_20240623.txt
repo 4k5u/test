@@ -102,3 +102,8 @@ Sun Jun 23 06:53:31 CST 2024
 Sun Jun 23 06:53:31 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Sun Jun 23 07:19:26 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxOTE0MTU2N30.3U1vdFbGAxDk_6rpwnqd-kjADNKGSYiIsQWtKm0jSZuwHsHO4RFUtDtZtp7aec27HRYn7kMLcR6xmykNWLaZwuoBVOck7W4YXV2zIwBI-K0uNh3liOCAIaYX3WzTpG2F
+Sun Jun 23 07:19:33 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+删除Hahaha_ha2 
