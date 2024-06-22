@@ -136,3 +136,9 @@ Sat Jun 22 12:40:06 CST 2024
 Sat Jun 22 12:52:01 CST 2024
 Sat Jun 22 12:52:10 CST 2024
 删除Sime_Naughty 
+Sat Jun 22 13:20:20 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxOTA3NjgyMX0.e1cw3uysL2F3ZNzUt8M4G7UhtbINf6K_RoXWf4ujcfWh7lgjIwSuJeddTd3nAlLq8v2wz576w_jjQlYQUlIQlGiXWS-6OpU_jzLa2lWSEhGXPrw1HYLMTHI1OlnGq8yo
+Sat Jun 22 13:20:32 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除jjine0127 
+删除my_eyes_higher 
