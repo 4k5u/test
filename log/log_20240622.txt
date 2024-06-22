@@ -290,3 +290,13 @@ Sat Jun 22 23:01:07 CST 2024
 Sat Jun 22 23:01:41 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Jq52niT-1Ke3dAFQR11l9uUpaqqms8Mg3kgfRDFo05-lUz4gQSGsIjx_9YSnLFkxrXFGQ8sodW9-JbxwQls6_A
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+Sat Jun 22 23:23:30 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxOTExMzAyM30.7PFFpWDfUH1g6exODLXzssGO1plEXoq1g6tOvQ96ZzZqFL8VGw6xGdfWgx1TpZUdayjATKaLwJsg27l1UZGCJDEzrb22UQaOvtYShKf4DKpV6r5nfLQ88tozDbiRFZM4
+添加ajswl12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ctVzOzdnV0MB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2N0VnpPemRuVjBNQiIsImV4cCI6MTcxOTExMzAzM30.VguVwguV2Sq9bQfvGTIgege5ADBA4qUvQ-FeIbvsx3WKYuiCbNURFFwaAli5hQkkspXTfuO7s9SxqepQK2LUn9EOmUGTMRU8bZiImyzLbW3Blf-7AnNYDg1QkQTr_y76
+Sat Jun 22 23:24:10 CST 2024
+删除my_eyes_higher 
+删除thgml1212 
+删除lovesong2 
+删除flower1023 
+删除grandeeney 
+删除oki_dokie 
