@@ -272,3 +272,10 @@ Sat Jun 22 21:51:54 CST 2024
 添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxOTEwNzUxNX0.qlm6aLXpXvwDh-OoAezqraaxk2W_OknnPVgvWUmuuJ23xLXhaQPKoLXOBKqu5WQGj7o-sEL3Tu3AtfP6WDXqD79vXj9R9tfwyupOIDexuX3UsAtClEbLyktdbhYKU61p
 Sat Jun 22 21:52:24 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3a50bdcb6ba5f556fe8bbace8f0de26271736c33661e2c7242927cdabe551f32_trns_h264/playlist.m3u8
+Sat Jun 22 22:19:15 CST 2024
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxOTEwOTE3Mn0.9KChjNhAtuhnBXk_LJmMTD261oNQcZU7HgQ83YWIFwJuGV9uDvty9-qJufLty3qhIw5wZ3Nq8T9iBvWID7tVD6V49UMZogj5M92unpS6A5fLZRD9P9K9loNjL1Hv49lZ
+Sat Jun 22 22:19:47 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+删除ake_mi 
+删除yourare 
