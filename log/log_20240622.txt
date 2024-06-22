@@ -79,3 +79,10 @@ Sat Jun 22 06:52:13 CST 2024
 Sat Jun 22 07:19:08 CST 2024
 添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcxOTA1NTE0OX0.4tWLd1rrRPoy0KWrkSkTF9K2DWn4uyx2VXhntbNw1gdyhijFyDEb6MvWzgy3GSDWPzwf0IiqptXz_fyUxa9DmA8r12YwCjzoV0Ylfala7LjMy2x-z3orVHMQfdpG7Wvk
 Sat Jun 22 07:19:19 CST 2024
+Sat Jun 22 08:47:19 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.nNsN0IMDYPMW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL25Oc04wSU1EWVBNVyIsImV4cCI6MTcxOTA2MDQ0Nn0.FmQ34TOIhAon88UXf8zfo8oxy0FYyGHr0ob2f262VK-AGj0SKeY0qx3erso4GYRayFMbpD4HuggtnI_-Q2fX6AFDWd1-a7ZlYmLRp748wdc5D-_PbZLckwJJXlcie9aW
+Sat Jun 22 08:47:31 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除ksb0219 
+删除TuTu-1001 
