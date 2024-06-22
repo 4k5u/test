@@ -236,3 +236,16 @@ Sat Jun 22 19:41:45 CST 2024
 Sat Jun 22 19:54:14 CST 2024
 Sat Jun 22 19:54:33 CST 2024
 添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0b9wJEUsfSlbR1a0OMDwNFZeX9vO4Jp1ROedPJK5Rn7QcrHNajsszHU23zu4-lDtbAnZU6VE2QaT8R6DJmccqA
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3a50bdcb6ba5f556fe8bbace8f0de26271736c33661e2c7242927cdabe551f32_trns_h264/playlist.m3u8
+Sat Jun 22 20:35:05 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxOTEwMjkwNn0.CDLbeGBT_lyJl0ASGfZKCgLDip0hsPDDCDQfkwuZTuYusS_kt3NYagnLOTrrwowdVXVKyHcjEwHMhgJucV3xmDNowVzvjwEWkzjYyf9v8hYM3OS8chhhvrH7vY73miXm
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxOTEwMjkyNX0.GvkT8DU4fBG3QwmGw1ch8EuttqF071DHZSfr_tEBGYNT_O4E3hfHAkuiqtNuaX8sNECGIXDDuwnVAzEX_IF92xEa1-ne1lziygxDCTUBBMYVOkdqDnzEB3hn7Es5YM3X
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNAMgVKBfxLk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQU1nVktCZnhMayIsImV4cCI6MTcxOTEwMjkzNH0.nQ6QXwGcEaxkGQ0AjBMqOtWJlDGwJ8h4jZqlVes19q5EPECCoHWrr7JjGp_TLCEAHunBaj4AAtvm0lTN7CbRLgnvqtrZu8BAWo8A0c7xA9H6Zxrx0DtOfTrtLv36t4Tb
+Sat Jun 22 20:35:42 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.s44HJvc8Dp4697-USlwJMvO9DSpG9rAylHAC9Ix9fzI-gD6eCTf2PhzfX0E1vPzNYzi30kMIunQPTiATCAkxxw
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fOLEa5XDyfQ6mcBLpSULB4ou02Pfu2Py9DofzlPYd5Ip8pkJrS4-R3uO5UmkIyawSqL11W7FKqInDt3ip_LwFA
+删除happyy2 
+删除somsom0339 
+删除your_desssert 
+删除galantini 
+删除grandeeney 
