@@ -163,3 +163,10 @@ Sat Jun 22 14:59:54 CST 2024
 删除4ocari 
 删除mikio_san 
 删除acac88 
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-21044f1a5e517069ab605d12f68a5341458c6e57353487686003919c27800a34_trns_h264/playlist.m3u8
+Sat Jun 22 15:21:25 CST 2024
+Sat Jun 22 15:21:32 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AlxiHBJbOUt25UD72TYPRDc-eeqDwxonR1gV_uzsSe611tF2KA2bv443ET_9Jih6RCXL6ZCtHmP7WBnWGg4byg
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除2dayday 
+删除362540 
