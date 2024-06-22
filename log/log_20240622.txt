@@ -213,3 +213,10 @@ Sat Jun 22 18:41:00 CST 2024
 Sat Jun 22 18:53:15 CST 2024
 Sat Jun 22 18:53:26 CST 2024
 删除oki_dokie 
+Sat Jun 22 19:15:54 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxOTA5ODE1OX0.o9L5Z02AvE6rmLZ0yd_WMjXLkqtF_a7iRWRms_m9xoXDD-6XZN3-4Hpdf-H-ZbzOCXrsHNp6I0zHrDZ4g45_aQDb5pwAGOhJOZTqS1cvSlvRgJTbr0Ch7QrdrNR98DZX
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcxOTA5ODE2NX0.2dp7ynaqlVLtR698UCOS9FS7OQP9BvLdQU34BUi2CnjadODo9pvRwkgj-Vn3bd5r4iQVPx4I71mmk9MKyjGiDm6sHrvFRLvKUxkm1bq0SO6TFeipqihHE0DIjIlJc-MQ
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImV4cCI6MTcxOTA5ODE3NX0.E1E29HydHMNsPZBWoQmat0jHM92WfgsoyiSuMB5N7XWOEV2eXAQGKaJo07o7_xuB4ICreH2r6IZi9hKAtzzoUGz3Sot00f5tS_0M0jyWQtZ-XGuNna9MIGm3-6TK9taX
+Sat Jun 22 19:16:21 CST 2024
+删除Daji-Lovely 
+删除EmiliaGuess 
