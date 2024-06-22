@@ -9,7 +9,7 @@ do
     roomToken=$(echo "$line" | cut -d ' ' -f3)
     url=$(echo "$line" | cut -d ' ' -f4)
     # 使用curl检测URL的可用性
-    if curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 2  --output /dev/null --silent --head --fail "$url"; then
+    if curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
         http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
