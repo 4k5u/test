@@ -187,3 +187,9 @@ Sat Jun 22 16:40:22 CST 2024
 Sat Jun 22 16:52:35 CST 2024
 Sat Jun 22 16:52:42 CST 2024
 删除your_desssert 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a9eb55aaf4d9466b62238477c6c88b1150fe0a17cff51e3e254d973a0fb0eb37_trns_h264/playlist.m3u8
+Sat Jun 22 17:20:32 CST 2024
+Sat Jun 22 17:20:39 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rsosQnDkr1V0nh17tE6448N21RpVcm7FtPAksl5kcrwjGAyjX-84VYVZ9KAHiUtRx7omK0kakE0EeW_SYSL4Yw
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除EmiliaGuess 
