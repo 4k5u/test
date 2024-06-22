@@ -86,3 +86,11 @@ Sat Jun 22 08:47:31 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除ksb0219 
 删除TuTu-1001 
+Sat Jun 22 09:28:00 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxOTA2Mjg4M30._7UKUf6coUlzSJxl706aBVmaJVY9U_ySlHUnsuz8rTxLhfuwVlDUIAkVftV13wZpsjfCkBHh6eXUmruDYx_Cf63TIityBd02kMjaXndOSJFBBz1Ey0-F51LXeIqIVpxv
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxOTA2Mjg4OX0.YW0YUdhIhQx6WjPgPtAYe7N7HfE7nOEoWd3_LYL0aDvVSd9yoihZ9W6kHPqXsJ3BeIFkxIru7E6pN2yp4wVjCuQb7uMORF5nwi-wGu_aALw1zlzpLXwujlMB3hQ8EPgU
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxOTA2Mjg5OH0.hLLtzvT4drtZjz3U_XztABRvystASpqcUum948iWVIxiYngc1JFfQ1xCwhoJxPS4LGjGvuH3CRn8Nuq3kyT2_YUL7DYiZZUGocLpicelMzE_CrU8G3aPCR23_aiLpBH-
+Sat Jun 22 09:28:23 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除my_eyes_higher 
