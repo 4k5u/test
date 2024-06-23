@@ -194,3 +194,8 @@ Sun Jun 23 15:22:02 CST 2024
 Sun Jun 23 15:22:10 CST 2024
 删除sigmasian 
 删除SanySenise 
+Sun Jun 23 15:34:28 CST 2024
+Sun Jun 23 15:34:35 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除4ocari 
+删除your_desssert 
