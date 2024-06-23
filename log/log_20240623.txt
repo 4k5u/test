@@ -158,3 +158,10 @@ Sun Jun 23 13:02:11 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
 删除jjine0127 
 删除SanySenise 
+Sun Jun 23 13:24:24 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxOTE2MzQ2NX0.YGm0fzXFKBH4rNtQH49e49tjdqOKMtlz6fBPuQBWVSm9UpAX76-pbJ4kB_fU9LUer3dJcGzuUX9v1ScuklI1ITDAANtfXDMRz9JnBNLL6FYBBbJ0ic-MXrQ2eEccJ0iM
+Sun Jun 23 13:24:39 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除TefFfish 
+删除eunyoung1238 
+删除SanySenise 
