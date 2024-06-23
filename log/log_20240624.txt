@@ -26,3 +26,6 @@ Mon Jun 24 01:29:47 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
 删除sol3712 
 删除starsh2802 
+Mon Jun 24 01:41:46 CST 2024
+Mon Jun 24 01:41:54 CST 2024
+删除anystar00 
