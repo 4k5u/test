@@ -46,6 +46,7 @@ unreachableIds=()
                 #影片id
                 movieid=$(curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" "${synctv}/api/movie/movies?page=1&max=10"|jq -r .data.movies[0].id)
                 echo $movieid
+                sleep 1
                 #播放影片
                 curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3  -w %{http_code} -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -d "{\"id\": \"$movieid\"}" "${synctv}/api/movie/current"
                 
