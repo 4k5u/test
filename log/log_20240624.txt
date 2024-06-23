@@ -47,3 +47,6 @@ Mon Jun 24 03:18:12 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除saone451 
 删除gusdk2362 
+Mon Jun 24 03:29:29 CST 2024
+Mon Jun 24 03:29:34 CST 2024
+删除morphesoull 
