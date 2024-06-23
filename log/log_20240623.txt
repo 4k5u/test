@@ -282,3 +282,11 @@ Sun Jun 23 20:56:56 CST 2024
 删除okzzzz 
 删除flower1023 
 删除ake_mi 
+Sun Jun 23 21:32:07 CST 2024
+添加lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImV4cCI6MTcxOTE5Mjc0M30.EOQM1yNhZwsaRCbIofjW8oH5sE1Hj0C8k9TP5M_CdwqROMhrmnjJep63sgfUaZxZDaR8TZ0Ex_wmKe1IWaMjqKcxMtv9a9tQ71ndrDHZ1JskMwO4l36VlL2gB9G_fNXA
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcxOTE5Mjc0OX0.wN9wzmH0ZDmqwJExPKeMx6FU9W61dOgT2LQfSKowNcp0w4ljXIGcTnauFQeW7Eoobp8KUZLVgXKNhpdsE7n7N62cOy-TuSwGqY1TF_HXs2gvvKzDZPVuR4gJ0o6aXXBC
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxOTE5Mjc2MH0.bpEoKiNlGNcs-sZ6eOx44mLCls3k893CIylVO177Izb0WlgccwCzee1bmzKqwRNMvISssLJTmZ_nHIzrIuUX6U7-mzGEh1Y_Oh2dxnGy-XkfcZncLvbOU2NmweXOt2bm
+Sun Jun 23 21:32:48 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+删除muse62 
