@@ -258,3 +258,9 @@ Sun Jun 23 19:41:51 CST 2024
 删除AkiShina 
 删除grandeeney 
 删除ake_mi 
+Sun Jun 23 19:54:38 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcxOTE4Njg5Nn0.XA7Bpaoowr-4ISEfbufB04NwuTVXOCj2Hb_9KxvIAGndJq55EMZ8FRrcyFso8Ei9-YmcM_valM1lAG06c-psDf8EWFBR6KGM1vQGd1vmuYUjNavYQkW42ExvQYyEPm4F
+Sun Jun 23 19:55:06 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r_wgSIixO6T5_etyxLHUD7im5IzWVX6T9vx_lQ5Vl3rSQrqphskYd2vNhxpnM71SPnVXDaGH3bDo7_RKixeT7Q
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bwdm2ZZklhr7YKwCY87cxWR-8I_W3LK2OiHv-S1qXhFhsl0aZB7sHBd1MVsEWAbufcXSPq9-CR-ghejGdGxsRA
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
