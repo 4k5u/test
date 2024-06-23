@@ -36,3 +36,6 @@ Mon Jun 24 02:27:33 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
 删除Glenda_1 
 删除LOVE-Juan520- 
+Mon Jun 24 02:40:05 CST 2024
+Mon Jun 24 02:40:12 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
