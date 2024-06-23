@@ -41,3 +41,9 @@ Mon Jun 24 02:40:12 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 Mon Jun 24 02:52:16 CST 2024
 Mon Jun 24 02:52:23 CST 2024
+Mon Jun 24 03:18:08 CST 2024
+Mon Jun 24 03:18:12 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除saone451 
+删除gusdk2362 
