@@ -92,3 +92,7 @@ Mon Jun 24 07:22:38 CST 2024
 Mon Jun 24 07:22:54 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+Mon Jun 24 07:35:09 CST 2024
+Mon Jun 24 07:35:16 CST 2024
+删除Happy-_-puppy 
+删除TefFfish 
