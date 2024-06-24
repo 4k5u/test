@@ -102,3 +102,10 @@ Mon Jun 24 07:49:03 CST 2024
 添加mazzanti_ https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4eb528e48ab773f0282f7eec2cb867e9204cdea58fe362ebec34c9d43c5783d9_trns_h264/playlist.m3u8
 Mon Jun 24 08:01:43 CST 2024
 Mon Jun 24 08:01:49 CST 2024
+Mon Jun 24 09:38:41 CST 2024
+Mon Jun 24 09:38:45 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除dkdlfjqm758 
+删除cuddles_me 
+删除mazzanti_ 
