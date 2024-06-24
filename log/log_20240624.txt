@@ -261,3 +261,10 @@ Mon Jun 24 22:11:06 CST 2024
 Mon Jun 24 22:11:33 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oKdtqd83gpw3SHk4HBos2tHwK2xUzAmlBx1GFtM2Dh-W-iZcbLmNgsxzLLIDBeLPoVOUXgjp_wp7aSEn0WtmZw
 删除JessicaRewan 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4be69a9690189d479f58c5f27c50a1fe37325f54c5a9f94e17124b36a0a48df6_trns_h264/playlist.m3u8
+添加galantini https://edge10-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-423395da47adcfe7b38c98ad8b88a8fa78d797d785e42a3f7391a1ac268b7727_trns_h264/playlist.m3u8
+Mon Jun 24 22:30:38 CST 2024
+Mon Jun 24 22:31:03 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除oki_dokie 
