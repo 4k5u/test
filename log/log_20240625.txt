@@ -53,3 +53,7 @@ Tue Jun 25 03:32:37 CST 2024
 Tue Jun 25 03:32:42 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除glglehddl 
+Tue Jun 25 03:49:16 CST 2024
+Tue Jun 25 03:49:21 CST 2024
+删除sol3712 
+删除leelate 
