@@ -117,3 +117,9 @@ Mon Jun 24 10:49:56 CST 2024
 Mon Jun 24 11:01:52 CST 2024
 Mon Jun 24 11:01:56 CST 2024
 删除nemu00 
+添加intim_mate https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-84bdbc9fdb2278d345ca3e869717064632da21f62ecd8ac205aad2cb85c468e0_trns_h264/playlist.m3u8
+Mon Jun 24 11:28:16 CST 2024
+Mon Jun 24 11:28:21 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除Sime_Naughty 
