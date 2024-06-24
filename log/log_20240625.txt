@@ -3,3 +3,9 @@ Tue Jun 25 00:25:09 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7xT2EuJLzp1x1NXeF7VnoB1CJr21i10N_PhlVaPpJI374vhnbvfT-CLwjlaKzYZdXmDqg1I-kMqfe12xjc3I1g
 删除ohhanna 
 删除galantini 
+添加iminako https://edge3-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-64daa1d890289c18defec1278d7a3b705f68e3da0a8112b4c485df59786622a5_trns_h264/playlist.m3u8
+Tue Jun 25 00:43:01 CST 2024
+Tue Jun 25 00:43:20 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WzFYwfef3Vs9gV4iyiQqeYIca8CDzxFCG71cBnlZKSdOVfoonuZugKNXo3KVj_qYr3v2_i5kCBw8R2aVIOzlJQ
+删除grandeeney 
+删除San___San 
