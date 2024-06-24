@@ -247,3 +247,11 @@ Mon Jun 24 21:39:09 CST 2024
 Mon Jun 24 21:39:30 CST 2024
 删除JP-KARIN 
 删除flower1023 
+Mon Jun 24 21:51:21 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcxOTI4MDI4Mn0.egdWSuSabjOUHzxGx-MQVUrSdPBegZawmjpo6JGBgD0sW4l70OH_uSJ0sn0PLVav0piSLuxwv5qQ3BqBQwi-kmJOON_dDI1VaqYl2c7Z1wJr3hm5g5WGLGm7Za3qu0dm
+Mon Jun 24 21:51:48 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RQxDW-YTochf-d1jZuvdUb-D5kggf4D01uhZGiFjzWnYtoPhtqX1LRrStReOVI5akXR4ou7SonZEg4A6wrU9NQ
+添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
+删除oki_dokie 
+删除galantini 
+删除grandeeney 
