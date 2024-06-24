@@ -198,3 +198,7 @@ Mon Jun 24 18:22:41 CST 2024
 添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BHqdBlo2LlMm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JIcWRCbG8yTGxNbSIsImV4cCI6MTcxOTI2Nzc3MX0.dFwDfAAL2HvTgzMdo7KayaBAuazcSWNBP-hiJ82F7COGFXSEV7rx2KP41YNFuqX2jqiBMEZAo-BDxESG4OjpwezCiHu7LQEvfAb3x3FXkEl7zIZLU9foLJF-cHC-aRIF
 Mon Jun 24 18:23:00 CST 2024
 删除Judy0523 
+Mon Jun 24 18:41:29 CST 2024
+Mon Jun 24 18:41:40 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HcnFV8UZiTUJgQdgC7u8Da06ld10upCUE8AZMSNqafLh340I9WdFyFlhsuEqAqaHjvEyRWfctCjf1tUbh9syAw
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AwUp-eXytaeED0dJqkb_B2Klqmg2S0QPrWzrDAIdbdjJoZLy1PrgWs_J8GgF37dkVDq3t4Ity1CeU2jlYBMe4g
