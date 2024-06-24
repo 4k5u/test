@@ -20,3 +20,10 @@ Tue Jun 25 01:21:30 CST 2024
 删除seozzidooboo 
 删除na2ppeum 
 删除Hahaha_ha2 
+添加kiriko_chan https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-93a004c76b01ae1462761816832646daab08f06c6c4e83846ff656636a741f28_trns_h264/playlist.m3u8
+Tue Jun 25 01:33:28 CST 2024
+Tue Jun 25 01:33:37 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除362540 
+删除Happy-_-puppy 
+删除iminako 
