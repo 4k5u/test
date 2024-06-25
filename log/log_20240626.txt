@@ -63,3 +63,6 @@ Wed Jun 26 03:48:50 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 删除Hahaha_ha2 
 删除TuTu-1001 
+Wed Jun 26 04:01:20 CST 2024
+Wed Jun 26 04:01:23 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
