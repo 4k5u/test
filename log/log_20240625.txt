@@ -215,3 +215,8 @@ Tue Jun 25 18:12:05 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxOTM1MzU0MX0.cQk4G-gG65SvSAPspkyN27sgMmV-HXne7xH5Xi26SyyNFiMg_PJnkyyyiiQ4dZ02dPjGT7J6lAD74EybwaSR-psd19NhM_k318VFcPmvGwCvwHveLIEOSi4u8qtm0CvC
 Tue Jun 25 18:12:27 CST 2024
 删除honey_pinkgreen 
+添加honey_pinkgreen https://edge8-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-893e3ff4271910363431376f00800d616908e6891e9eaaba10c9586816902d18_trns_h264/playlist.m3u8
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-67f4f1650afebec365b703235c4dff309f44e87ae4c3883487cfccbe8347cf3c_trns_h264/playlist.m3u8
+Tue Jun 25 18:33:12 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mHd54mIvPyiV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21IZDU0bUl2UHlpViIsImV4cCI6MTcxOTM1NDc5OH0.T1KIs816qQolIMLalPiFRfk5cgKNHn4yDx4bb-Zkgt9DyNl8DDPoaF-jE0tiht0GD_vJVjCY601WzZB31a019GLtGDJEdpBkjgzMmxri7XTkw38GgVd5kFS7xdVBs5Oc
+Tue Jun 25 18:33:31 CST 2024
