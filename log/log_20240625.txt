@@ -175,3 +175,8 @@ Tue Jun 25 15:23:45 CST 2024
 Tue Jun 25 15:23:51 CST 2024
 删除mikio_san 
 删除your_desssert 
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8a984c6c09b02413b4306315ba6918298e912247b1d85b78dee9bcb22d1b2b0e_trns_h264/playlist.m3u8
+Tue Jun 25 15:39:16 CST 2024
+Tue Jun 25 15:39:21 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xD9SZxWOr-vtq63cw9Yp3qa_I77Tyly42NJ0AHUJGcq0RGRPd3o8RUTjxDqEj1Q0uPAZ12PE2CZSwtvEVn0zgA
+删除4ocari 
