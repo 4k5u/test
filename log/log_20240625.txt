@@ -157,3 +157,8 @@ Tue Jun 25 13:49:31 CST 2024
 Tue Jun 25 13:49:37 CST 2024
 删除SanySenise 
 删除San___San 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-cd1623983ff14aed644cac7a18676f6fd1ddac9b1d40d8aeeb1541c90174085c_trns_h264/playlist.m3u8
+Tue Jun 25 14:01:49 CST 2024
+Tue Jun 25 14:01:56 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除Judy0523 
