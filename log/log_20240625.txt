@@ -185,3 +185,9 @@ Tue Jun 25 15:51:36 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
 删除mode_bad 
 删除San___San 
+Tue Jun 25 16:15:18 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImV4cCI6MTcxOTM0NjUyMX0.KWBeqop9VVuZX1EC41ivn7GZUV848KJ0tBoT5jS4MCdW4By3ZJeYX0PfoDIflI1vYBMJApes374KaGV_3Nq4TT30HTOkov-apiXiWWggeS21qUVq87pzKox3szqSierm
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcxOTM0NjUyN30.9UpelVGhW1Rh1R_f6e_1T0yXAvuAS_gU8YGetQimCNIYJzTAvD_OrnZxeXEBm3xy8iF6wY0YZPRVgGqdyqAHWi61pVrPlUByHgcy7YSXM5oKSMbXApIvQpVHrtOcOQOL
+Tue Jun 25 16:15:33 CST 2024
+删除_PunPun18 
+删除getme1004 
