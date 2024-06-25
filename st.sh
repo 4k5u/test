@@ -101,3 +101,4 @@ unreachableIds=()
 #done
 echo "开始检测失效房间"
 bash check.sh
+bash manage.sh
