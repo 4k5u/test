@@ -144,3 +144,10 @@ Tue Jun 25 12:53:10 CST 2024
 Tue Jun 25 12:53:19 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除San___San 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ce42859c1cd0e122ce2807b2824a54301dfb819fc429df51e78a97bfe472a7b5_trns_h264/playlist.m3u8
+Tue Jun 25 13:20:31 CST 2024
+Tue Jun 25 13:20:37 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除jjine0127 
