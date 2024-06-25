@@ -282,3 +282,10 @@ Tue Jun 25 21:51:48 CST 2024
 Tue Jun 25 21:52:25 CST 2024
 添加Happy-_-puppy https://edge-hls.doppiocdn.net/hls/116396402/master/116396402_auto.m3u8
 删除honey_pinkgreen 
+添加iminako https://edge12-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-ad936faf861e53e1dfb135da0db3246eae6091389e637f97c6e1102752fdc0ee_trns_h264/playlist.m3u8
+Tue Jun 25 22:20:44 CST 2024
+Tue Jun 25 22:21:21 CST 2024
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nHVW54yuFR36uLTqL6nnRbRpMD2Qk3wpc3exZ38TOTPECMQNrYs7rnR1TQJEeo0ICL6IK-eSF5QAAA2G-kq6Og
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除o111na 
+删除iminako 
