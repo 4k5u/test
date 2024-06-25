@@ -55,7 +55,6 @@ function delroom(){
     fi
   done
 }
-
-#play
-#delete
-$1
+delete
+play
+#$1
