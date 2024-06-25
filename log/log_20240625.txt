@@ -317,3 +317,7 @@ Tue Jun 25 23:39:34 CST 2024
 删除galantini 
 删除your_desssert 
 删除grandeeney 
+Tue Jun 25 23:51:39 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxOTM3MzkxOX0.-V9nf_Phg6L_UKr8bAbU3Ezgm_8Ksa8d9nyAz0X1ceZd6i8QK0SPMcXJIX41yFcEKpAACbOhndFy6ZreL2cvYGoDfg7WVPg4YyI3TR1_UOt1oG2QJJiy8OEzGoElzW8E
+Tue Jun 25 23:52:12 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
