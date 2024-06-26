@@ -190,3 +190,8 @@ Wed Jun 26 15:39:34 CST 2024
 Wed Jun 26 15:51:39 CST 2024
 Wed Jun 26 15:51:46 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+Wed Jun 26 16:14:28 CST 2024
+Wed Jun 26 16:14:33 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除4ocari 
+删除sigmasian 
