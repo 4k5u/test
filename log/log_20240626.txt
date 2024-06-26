@@ -279,3 +279,7 @@ Wed Jun 26 21:43:30 CST 2024
 Wed Jun 26 21:44:07 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
 删除JP-KARIN 
+Wed Jun 26 21:59:07 CST 2024
+Wed Jun 26 21:59:44 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除moem9e9 
