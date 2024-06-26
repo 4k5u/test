@@ -89,3 +89,6 @@ Thu Jun 27 06:01:39 CST 2024
 添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-88b64da0debcf648f0b1cafdc80b3e496fe822522673b863fbb4c10b7c1c040a_trns_h264/playlist.m3u8
 Thu Jun 27 06:29:19 CST 2024
 Thu Jun 27 06:29:21 CST 2024
+Thu Jun 27 06:41:03 CST 2024
+Thu Jun 27 06:41:06 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
