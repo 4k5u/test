@@ -168,3 +168,8 @@ Wed Jun 26 14:15:33 CST 2024
 Wed Jun 26 14:15:39 CST 2024
 删除SanySenise 
 删除Dolv_1o 
+添加ake_mi https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a678de7ffbcbc31056946100420a3f5a6a1ec7ae88bef9f895306a06adb517bd_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-83624bd6a4b35d7fe0189cb76f5f91f5b892872d87c607bd378216624922c76f_trns_h264/playlist.m3u8
+Wed Jun 26 14:38:55 CST 2024
+Wed Jun 26 14:39:01 CST 2024
+删除oki_dokie 
