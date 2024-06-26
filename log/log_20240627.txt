@@ -79,3 +79,8 @@ Thu Jun 27 05:21:30 CST 2024
 删除JessicaRewan 
 Thu Jun 27 05:33:32 CST 2024
 Thu Jun 27 05:33:35 CST 2024
+添加cuddles_me https://edge16-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-6fb5acaebfe8b8a71a3cfb323b798e39a3091403f87301fdfddd3b529747ed6a_trns_h264/playlist.m3u8
+Thu Jun 27 05:49:02 CST 2024
+Thu Jun 27 05:49:05 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.net/hls/139016678/master/139016678_auto.m3u8
+删除TefFfish 
