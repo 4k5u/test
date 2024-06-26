@@ -117,3 +117,9 @@ Wed Jun 26 07:52:09 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 删除ksb0219 
 删除Happy-_-puppy 
+Wed Jun 26 09:23:13 CST 2024
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2df9cYPC9l3S.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJkZjljWVBDOWwzUyIsImV4cCI6MTcxOTQwODE5OH0.5lFTai2UgJED98ml_0oA102c3tqonayhSsJZORXueQ0vcPanIKjuFWdSSZkjAVnMYO35C7FcsaIG_m9ZJbBtpxGMkGCMfI75AbYBKDyU7O1etdJpKugqLhiRx0oPbV26
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcxOTQwODIwNn0.p4y-z1ewBWymBJ-RtaGO13tY5s55nQQxjafi2hguesOSgrPQJGULWaG2Ncov8gTUuoQFjkiRTqUsLNtgchPTC0fs3poRYXMzscwNT3NiUId3jGc38NfoMbyJajG8jrRr
+Wed Jun 26 09:23:32 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+删除dkdlfjqm758 
