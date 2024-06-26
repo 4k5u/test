@@ -283,3 +283,12 @@ Wed Jun 26 21:59:07 CST 2024
 Wed Jun 26 21:59:44 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
 删除moem9e9 
+添加honey_pinkgreen https://edge18-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-117de1f0b006734f88c1000d4975c583a79b0d15d445fcb424f700c1835b7a42_trns_h264/playlist.m3u8
+Wed Jun 26 22:22:02 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxOTQ1NDkzMX0.re1yxSSwQVUGMWqiB3VH3UwjtXTohmKANTHdL5FdHjwljWEbs2KAOnLtVfUk7UT1plDkejwnkSx3V5HQNtuuUOPy8pBCKog63_Rpt3O1lKEVvakCxvrKe8GfxBDNJrTa
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxOTQ1NDk1OH0.yuK51hAKLO-QEda54cbaPCILD9PNW_mdM1cRM_9ks7LqD63FYnXvHrwchvL-MGCxVfHyWrO7fC00wLzoHhZLG2nMDJXtL_BIBH46ws__PwFHE_aBhGnQbxuVeLY63aLC
+Wed Jun 26 22:22:49 CST 2024
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GuyXiM7d61r8LYLI5VTwRiU2YOgnyncYg0xviuweDZ11N2HzJiIDKaip_VTqYVuvt9ZnuSaH2qK-_pm1uznKaQ
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+删除San___San 
+删除galantini 
