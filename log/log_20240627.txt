@@ -226,3 +226,7 @@ Thu Jun 27 17:24:11 CST 2024
 Thu Jun 27 17:38:54 CST 2024
 Thu Jun 27 17:39:04 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BkuayFlsyZgPAVbTD5bPXmtkwyAKWuxMm_JIbkGf_TwOy1_gVZoLQb_Kt7UqdS25O9ed9nQjbaHnJkmTFJgFYg
+Thu Jun 27 17:51:24 CST 2024
+Thu Jun 27 17:51:30 CST 2024
+删除mode_bad 
+删除your_desssert 
