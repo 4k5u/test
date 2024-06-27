@@ -243,3 +243,7 @@ Thu Jun 27 18:34:51 CST 2024
 Thu Jun 27 18:35:13 CST 2024
 删除mikio_san 
 删除Glenda_1 
+添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-713ab25d1c1ac867aa595018dd6747b0281c03d388e40707e0aa707276f56ae4_trns_h264/playlist.m3u8
+Thu Jun 27 18:49:14 CST 2024
+Thu Jun 27 18:49:31 CST 2024
+删除sigmasian 
