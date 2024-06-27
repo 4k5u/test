@@ -88,3 +88,7 @@ Fri Jun 28 05:59:35 CST 2024
 Fri Jun 28 06:22:28 CST 2024
 Fri Jun 28 06:22:30 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-522ef191776b0a6bccb6c836055e9c088edb72e0988a4dba05e1ca3cd4c3642e_trns_h264/playlist.m3u8
+Fri Jun 28 06:39:45 CST 2024
+Fri Jun 28 06:39:47 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
