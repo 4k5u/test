@@ -173,3 +173,13 @@ Thu Jun 27 13:41:32 CST 2024
 Thu Jun 27 13:53:42 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxOTUxMDgyM30.jgzRSgHD2VMRBNxYWh9hqQENramWPPFQ8UkkvvDQ7kJkazGQqvz9dIEhlGhRUUz2kwLmx0Cz3ObdwPe16l-MoZV27v9rnbRdGlQNdJ-070JKZ9POIdjG8muhsTrcfuV3
 Thu Jun 27 13:53:57 CST 2024
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b35f8eb60e6b4c3e4ba2816d9aa1eba181d5869e1eb83ec6737c32ce39f9fcf2_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-75999fac10a3fefb4668c1d3317f3054ef087df744f27301aca98e5176d339e9_trns_h264/playlist.m3u8
+添加your_desssert https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d99f8dd624d067ed5f9e8204586a6863813b1d375fdbf5f45d26c4db0ec67ce0_trns_h264/playlist.m3u8
+Thu Jun 27 14:28:48 CST 2024
+Thu Jun 27 14:28:56 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除banet523 
+删除leelate 
+删除kkkku96 
+删除foxylovesyou 
