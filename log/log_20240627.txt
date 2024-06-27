@@ -318,3 +318,12 @@ Thu Jun 27 22:33:22 CST 2024
 Thu Jun 27 22:48:54 CST 2024
 Thu Jun 27 22:49:33 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+Thu Jun 27 23:01:14 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxOTU0MzcwN30.MKV6uV-7UJzbHEHrC0naPntQ8nfdIe1DBbxQMFctoVyGbzIbsLl_bt3ZBtuEcRfF6pG751ofnaOn47ZGvm43qS75i7hqXAJ_HUoiQ7D8hEr1m3l75kqiiwKdROZP5z-1
+Thu Jun 27 23:01:56 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除onlyone521 
+删除bongbong486 
