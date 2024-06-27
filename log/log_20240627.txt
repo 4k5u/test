@@ -118,3 +118,12 @@ Thu Jun 27 09:37:06 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
 删除3ww1ww3 
+Thu Jun 27 10:23:50 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxOTQ5ODIzNX0.e4EB88wHIJByvVY4rJgzOOV32kk_i0NI6PSRVLlAZ9zhFabNypcCqT4d9OSKEf5n66pkByFGQs3Cr4_5yArWWbiBdYN-EHcUg95zYHwHmzY1Xwl0NmcZn4_ilqHbRlea
+Thu Jun 27 10:24:05 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除intim_mate 
+删除asuna_love 
