@@ -258,3 +258,7 @@ Thu Jun 27 19:40:56 CST 2024
 Thu Jun 27 19:41:17 CST 2024
 删除AkiShina 
 删除EmiliaGuess 
+Thu Jun 27 19:52:24 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcxOTUzMjM0OX0.VCMwntLO0U4U55K8mJETatK1h0Yu8XwrBtKMDyWsGzP_bgl5VQTG_OAdK6Y-DZt9JN5nfiaYOvSX2-2TDAeG2_CAluofRfoeMdm1g5W3GwO5_f06gMCTlR-QJOf33oeh
+Thu Jun 27 19:52:50 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
