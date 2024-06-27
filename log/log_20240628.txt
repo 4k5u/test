@@ -63,3 +63,8 @@ Fri Jun 28 04:23:01 CST 2024
 删除glglehddl 
 删除alicelebel 
 删除TefFfish 
+Fri Jun 28 04:40:52 CST 2024
+Fri Jun 28 04:40:58 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
+删除Ryo-sama 
