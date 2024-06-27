@@ -168,3 +168,5 @@ Thu Jun 27 13:24:51 CST 2024
 Thu Jun 27 13:25:00 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 删除jjine0127 
+Thu Jun 27 13:41:24 CST 2024
+Thu Jun 27 13:41:32 CST 2024
