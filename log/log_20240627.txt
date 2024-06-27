@@ -279,3 +279,13 @@ Thu Jun 27 20:39:26 CST 2024
 Thu Jun 27 20:59:59 CST 2024
 Thu Jun 27 21:00:32 CST 2024
 删除soso621 
+Thu Jun 27 21:26:25 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImV4cCI6MTcxOTUzNzk4OH0.2gaBmhEeWj3uvoDlBxnSimvq0PsY0rpGw8v_m_CyzpVgXZbouemxPYTBNgI1w_tlPtJ-VESAKrxT-2Rc0rj8yKu16xPbMTqfmqiw_t6EZ2ZtBMDZ262suVov_8q59-RQ
+添加lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MstaoY27metS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01zdGFvWTI3bWV0UyIsImV4cCI6MTcxOTUzODAxNn0.3h3FiRLcxk1B5p4KpfaOWuz_jL7Y0CP9ulGljyvAjaYnl6mxbPEZ9OElZBLeUOeChfgJ0fn9qcdi-Hh2UseRJJ-Lye4qa6MI5LBq9VOA55gAZLIJ9cD0OlIMGnHB86JY
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxOTUzODAyNX0.YmDStur_k41fcD7p2IoQTaGHYmovD9DNkEOj_8xFIVWLpuebYMHNZqL8x-6JVjqNnODwuJGFQz4dEBdpmJQ2cqZyT_LYRSfQsCT_JBugQExGIRoI5tIO3GerJwp9_pQH
+Thu Jun 27 21:27:16 CST 2024
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gCaC-00aDKWV6COsSbjEK3XzdfLSgzO92M8ZKeeTdXRjTLFevw015wqToaGIuTLbf4QbMV3SorqnuCdfw2QPDg
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.c1yw3eF0Y2rgltMDRlN6siaZtQWdpolSfy2euCLS_LO7-CwG3IaP2gKH7Oe4gCCKuxiOK8ycd6ToILf7PQtAdA
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除foxylovesyou 
+删除San___San 
