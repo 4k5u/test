@@ -123,3 +123,9 @@ Fri Jun 28 10:25:16 CST 2024
 删除dkdlfjqm758 
 删除sonming52 
 删除San___San 
+添加sexygamesx https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4926b74c45fade37dde7b935f972563595f5b10a4408ad96066baa141c8ad84c_trns_h264/playlist.m3u8
+Fri Jun 28 10:50:02 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxOTU4NjIwNn0.OyNKpoIwuq4ww65sngspPFi1kgWcWB3wZPPzn-w6ICbmTzrY0N9-kIT7ZLvmjaAjqHfHbhM7isLY3A_M2NOdyymZWSuWdqsdduYDT7EotGWTl4qWHr4Z_TBb4cxDc2Ks
+Fri Jun 28 10:50:18 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
