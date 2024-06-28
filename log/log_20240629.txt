@@ -107,3 +107,7 @@ Sat Jun 29 07:21:29 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 Sat Jun 29 07:34:53 CST 2024
 Sat Jun 29 07:35:00 CST 2024
+Sat Jun 29 07:49:11 CST 2024
+Sat Jun 29 07:49:17 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+删除mazzanti_ 
