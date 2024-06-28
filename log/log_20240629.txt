@@ -44,3 +44,7 @@ Sat Jun 29 02:26:39 CST 2024
 删除JessicaRewan 
 删除ake_mi 
 删除Witcher_DK 
+添加kiriko_chan https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-d033159f51b501208b011c89b0c2b9ed879daafbd488aca60c40a3b8c0e7996a_trns_h264/playlist.m3u8
+Sat Jun 29 02:41:36 CST 2024
+Sat Jun 29 02:41:49 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
