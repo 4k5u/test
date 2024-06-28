@@ -323,3 +323,10 @@ Fri Jun 28 22:50:11 CST 2024
 删除dkssudgktpdy233 
 删除your_desssert 
 删除galantini 
+添加your_desssert https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-94fc8ff4a89e408416ed0779229fb34dd943dadb37181fc2bb4df61ae183eb81_trns_h264/playlist.m3u8
+Fri Jun 28 23:01:40 CST 2024
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImV4cCI6MTcxOTYzMDEyM30.JIb56vI77fQMpIsLa6wEQRhhWk6Q7KB5j38aY4CfddelI9PlEfjacSocxlKvXU8hLKTGgi3a_mQ_9XJc7EsdyQKAoqwKxCz8SO4NTuQ3Z5oVcQG6WPTz9JbnBtObaj_w
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxOTYzMDEzNH0.Lqqv15dexhR6PhxgwDMzAgvyYAIrA8V-xGiPbEFOseHOWsRr_73e0VgESyZJ7_jhmHpEDDLtwez6t0p2IwowKOK4umklBJrku4StNL64BqZxOmUkTA3BGBhNt_ClJr7r
+Fri Jun 28 23:02:25 CST 2024
+删除oki_dokie 
+删除kkkku96 
