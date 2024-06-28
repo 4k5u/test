@@ -157,3 +157,10 @@ Fri Jun 28 12:53:35 CST 2024
 Fri Jun 28 12:53:43 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 删除San___San 
+Fri Jun 28 13:19:37 CST 2024
+Fri Jun 28 13:19:44 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JkYWRNqs-K5jjphV3TSTnqVY4xCGnv2Z_YUMD0HRggZqTVBDkfvViZjsPbMyqVxnq4j-SUeX-NJh20HIySVnGw
+删除my_eyes_higher 
+删除TefFfish 
+删除banet523 
+删除sexygamesx 
