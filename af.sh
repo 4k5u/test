@@ -73,7 +73,7 @@ for userId in ${userIds}; do
 
             echo "$userId 推送到TG"
             #text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-            text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[J哥带你看比游戏还刺激的](${m3u8site})\n\n-----"
+            text="*J哥提醒你！！！！*\n\nAfreeca主播${userId}在线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源地址]($hls)\n\n[直播间链接](https://play.afreecatv.com/${userId})\n\n[J哥带你看比游戏还刺激的](${m3u8site})\n\n-----"
             text=$(echo "${text}" | sed 's/-/\\\\-/g')
             curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
             echo -e "$userId $roomid $roomToken $hls">> data.txt
