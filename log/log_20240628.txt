@@ -137,3 +137,7 @@ Fri Jun 28 11:30:02 CST 2024
 添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4pugIBLk5IdJSsrBa10Smc0fDCnh6klqZ16MjOWmNLNkzU4CG2X-Cg48lXXbfRA3j9bgxQbYvmhY6Z258JX93Q
 添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
 删除nemu00 
+添加_meganmeow_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bb32b8cba95dcafec33eda9a4665178286cb9a55e2ada2462133750454737cf5_trns_h264/playlist.m3u8
+Fri Jun 28 11:42:27 CST 2024
+Fri Jun 28 11:42:36 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nDRbo2x1-hwmrnqDlO3748BMdeJucrKVYE7z819lLx7ukO4oJv_MViT_vyT497FVye6aE_ZWh7iHO1SlxBWRdQ
