@@ -286,3 +286,12 @@ Fri Jun 28 21:27:13 CST 2024
 删除JP-KARIN 
 删除tess00 
 删除EmiliaGuess 
+Fri Jun 28 21:39:02 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcxOTYyNTE3NH0.aER--J5OqfmsANPrjPZIPw4JG34V9wmgaBavh8XpOAwppMYLYgmPNdWw6TlrCL2G9vQ7Agomk9r8X0NOd-uG5VswYQelYCik27_8B_L2CaK3M4WKNOUIXin0dCqLBqeF
+Fri Jun 28 21:39:39 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除foxylovesyou 
+删除soso621 
+删除lovesong2 
+删除JessicaRewan 
