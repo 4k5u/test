@@ -255,3 +255,10 @@ Fri Jun 28 19:48:53 CST 2024
 Fri Jun 28 19:49:12 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除mikio_san 
+添加galantini https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-888e5bc408b1a01d169fd7aa3222a74d980bc5f76ebaf8836d50734537ec7e64_trns_h264/playlist.m3u8
+Fri Jun 28 20:01:10 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxOTYxOTI4MX0.3OGrlS4n9AN02Z7_-nqwLKZ4sLlBCpw01yiE51j5XempQtTKSA104apELHeQnGPhfLiJapb0zp88-J4oiOH8XSf_nDxva3HTfeqRqU90nuraKVbI5tQ4D3nWsZtWdKvX
+Fri Jun 28 20:01:36 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Kv3M8l7LUuto_MrK9_MdEfwMiuj3gjeX-Lf7KbUjicvVLJBorsbUpsTPqdq3ifh78HBF3KlNGOWJ4wgABppUDw
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
