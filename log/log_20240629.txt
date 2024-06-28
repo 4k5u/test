@@ -78,3 +78,7 @@ Sat Jun 29 04:40:41 CST 2024
 Sat Jun 29 04:40:46 CST 2024
 删除ahri0801 
 删除gusdk2362 
+添加mazzanti_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-1ef89681fa7cd263a1f3950ee218b30cca5ca9a02d98220950276faeffbacdc4_trns_h264/playlist.m3u8
+Sat Jun 29 04:52:34 CST 2024
+Sat Jun 29 04:52:38 CST 2024
+删除LOVE-Juan520- 
