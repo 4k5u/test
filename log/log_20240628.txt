@@ -275,3 +275,7 @@ Fri Jun 28 20:43:04 CST 2024
 删除TuTu-1001 
 删除my_eyes_higher 
 删除somsom0339 
+Fri Jun 28 21:02:34 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxOTYyMjk1Nn0.LaW2HaCkt9qTnFyYdkEWzLGfFga5kgl6ScnnlSha-pIeOlNXt5PRKxNPtXrREivAAAmJ7Ozu4CfYt9z7LNVsqyaF87LE_8m9zgvrVnb-GSYtPIguJY7PSKcxJ7fV0sHE
+Fri Jun 28 21:03:09 CST 2024
+删除mikio_san 
