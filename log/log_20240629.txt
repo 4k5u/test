@@ -163,3 +163,8 @@ Sat Jun 29 13:20:45 CST 2024
 Sat Jun 29 13:21:02 CST 2024
 删除my_eyes_higher 
 删除jjine0127 
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1533c66f3e784966b629259a72b921a03779d386495cc8f5707b4a665144a0b7_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8e9cd24a7a23ad0cfa152ba454f0d1d34462d9703fc85074fb7b63733b723fe0_trns_h264/playlist.m3u8
+Sat Jun 29 13:38:13 CST 2024
+Sat Jun 29 13:38:24 CST 2024
+删除muse62 
