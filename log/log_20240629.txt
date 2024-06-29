@@ -237,3 +237,10 @@ Sat Jun 29 17:39:29 CST 2024
 Sat Jun 29 17:51:45 CST 2024
 Sat Jun 29 17:51:50 CST 2024
 删除your_desssert 
+添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-223534e3c3b70098ddbf26fdfe771561d8df392d1766de2124ac483930a3b12b_trns_h264/playlist.m3u8
+Sat Jun 29 18:19:27 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcxOTY5OTU3MX0.iZXFq_wsUQibT-wfO0rcvfQMMsT0LXdaZhlXmj2nJojzXCFbzFCePUdJtDl27Umx4H5CECWHt3R3HMulAlWxjpHGgdeYsiS5A0MJzXFe-Qf5Ws9olI9esXPcBE_WtLta
+Sat Jun 29 18:19:38 CST 2024
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除Judy0523 
