@@ -331,3 +331,11 @@ Sat Jun 29 23:38:53 CST 2024
 Sat Jun 29 23:39:22 CST 2024
 删除seozzidooboo 
 删除Daji-Lovely 
+添加galantini https://edge14-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-710f0856a2777915e278f7998a6409fbdee92a469b79b9eabb79d526480b9161_trns_h264/playlist.m3u8
+Sat Jun 29 23:51:14 CST 2024
+Sat Jun 29 23:51:37 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.net/hls/89104597/master/89104597_auto.m3u8
+删除pandaex 
+删除jubin0725 
+删除flower1023 
