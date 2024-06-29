@@ -144,3 +144,9 @@ Sat Jun 29 11:40:56 CST 2024
 Sat Jun 29 11:53:28 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcxOTY3NjQxMX0.mtSbjnbCVwl575cakKd6nAcLOOCRNONjQQu62yyrId0Op2y2bXXBCZ2dNDgBp8YPNXGiTGD6ppKgZ-HKr4uuEfjwMJo5nMRTNcc-srBM0fsjLtCHjo7bd3hAJIYmzM16
 Sat Jun 29 11:53:49 CST 2024
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-57aad6c5505e5bcb46ea148bec744a8065773bb34b2c9d5bdcc66de025e9a8bf_trns_h264/playlist.m3u8
+Sat Jun 29 12:24:37 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.d4skZmXRChaD.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2Q0c2tabVhSQ2hhRCIsImV4cCI6MTcxOTY3ODI3OH0.GCq4UZcJkMd2uckz3wZoX_DIkeE10yIi02pLXDhNJH5c4sAIrFQX-F2l8J5DGQlZmPNfaqkdTJe0lHKJAaL3yD41FI5ogk7bMSTbWYidaPSET6CFScjir6KhCq2GUGnf
+Sat Jun 29 12:24:58 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+删除banet523 
