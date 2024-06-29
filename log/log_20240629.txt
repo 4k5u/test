@@ -284,3 +284,11 @@ Sat Jun 29 20:40:42 CST 2024
 Sat Jun 29 20:59:28 CST 2024
 Sat Jun 29 20:59:47 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
+Sat Jun 29 21:23:27 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcxOTcxMDYyMX0.jlkqa6NN6UzkILoBYDdkqjneqlWYc_VZ6ee6p_8CTg8uBaBDUA44d7PdUqQp2LQTcwUYDLloNkFxfguUoE9QuFFRhkqMaozcjAJlIy48Kme-VXgRWqW60Ryja5qWWl7y
+Sat Jun 29 21:23:51 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.y6HBtTVjkOz2u9MW4842slxEi1gn1JCCs_lZDgt5796631mIuO9K2tpDqnvrZRL1zpxwY7rjXESibjW7zCbKng
+添加Daji-Lovely https://edge-hls.doppiocdn.net/hls/144340014/master/144340014_auto.m3u8
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
+删除honey_pinkgreen 
+删除Ryo-sama 
