@@ -272,3 +272,12 @@ Sat Jun 29 19:49:15 CST 2024
 Sat Jun 29 20:01:27 CST 2024
 Sat Jun 29 20:01:41 CST 2024
 添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XLWGPnjfgXs-lM5Cd_YwFDrc7Un2boUplwQohqQ_a2gyN7MXt3w34GXM0A69o_wS1FHczcV5QlrAKY9ZiE1Xwg
+Sat Jun 29 20:40:11 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxOTcwODAxNn0.CVkk4TnecWymXysJqihXvUG7yQM6Vl4o1QX1WvSNAOpFPA6_wIhf3zQIMLqmaXG5XxEKVx952JAE5-2Oy0kfuKwmnsU9YoBlYt9UwkX5EHiHlHiZlm-ZQbj3IM6NjWUw
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxOTcwODAyNH0.gC5jajJepsXvjHgLjyRIGWzcoWl0C6VgH5Z4eT-DXqGEEz4fZivQary8Isd4x8Lja4Lj8hpb2agm6f4lqVk__sTlzYuqadlmbf1a5QASmdoGwLbEPOFSqHID0WGXQPzp
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImV4cCI6MTcxOTcwODAzMn0.fN3P0ZGNIDAhxDNDipMYqtUCP4ioCXK6pgceVXrjQzzX6_pXtvylhQwSlVwO9YwoHEN69C5HbqfE-vF5MUwenl6c88ynLnGcqQs5CYdyE6P1PFXpCo3AbajMfC27EI6n
+Sat Jun 29 20:40:42 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IiDAMG3POqJXX55349fJ5vJXie1vNM7K5xybVSXGAjIpHf3DksC2s3NH0jl5gYLMFpdkAvJpXUwdDejEOmE0aA
+添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._0vrboWBLqxEezllan6NFzNBGZMyBNkfewEjSlw0Aj_Wh8odhKEwcuTGD91woJ-tIM5k2s2VsAFGBGDr99sziQ
+删除Daji-Lovely 
+删除EmiliaGuess 
