@@ -319,3 +319,11 @@ Sat Jun 29 23:02:04 CST 2024
 删除oki_dokie 
 删除galantini 
 删除grandeeney 
+Sat Jun 29 23:25:16 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxOTcxNzkzM30.1Zf8-aKx7kePWS5MtDjKmoLJpgDuNMAjqHMBvmo5TGgRvRMgXU8AV4GaBfzgeGG6Q2o3RAWVWRHHW16vwDuXk77bNydlYx4-AopEbOiB82wwJFeBcKKMfiEqjKbdt6K0
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImV4cCI6MTcxOTcxNzk0N30.AYvMzEtmuG2Y_dhURGn8IblNhziqkhNU8zmORe1ago1lNsPYtZA0_wigkXHebZCJMijD4hQGCUAo3GH-k-AJ7UHCYFjiZn1RVXih0dHY2lFLyBBLf8fJbWJoLSuyPSbT
+Sat Jun 29 23:25:54 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除lovable12 
+删除anystar00 
+删除lovemeimscared 
