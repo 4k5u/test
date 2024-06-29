@@ -173,3 +173,7 @@ Sat Jun 29 13:49:55 CST 2024
 Sat Jun 29 13:50:05 CST 2024
 添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.s_Nve6Nb_J_VMvGk_mUvFthG4K19CxsTsqzAs7CEz_mcX8l1LJOTdsdPue4pNaT0xXwB-bQlwys4bNw2BioY8A
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BnnGc_v_CAVaNzyUqzhWRJZf_-EKfJs_qVgfsRCVdpDOtNujPWGy7jzUy1LWPRtr2d2Bc3BomE6nSKDDsRXE2A
+Sat Jun 29 14:10:39 CST 2024
+Sat Jun 29 14:10:50 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除your_desssert 
