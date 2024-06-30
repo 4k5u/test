@@ -207,3 +207,7 @@ Sun Jun 30 17:24:20 CST 2024
 Sun Jun 30 17:24:28 CST 2024
 删除EmiliaGuess 
 删除mikio_san 
+Sun Jun 30 17:38:59 CST 2024
+Sun Jun 30 17:39:08 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除ake_mi 
