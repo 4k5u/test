@@ -192,3 +192,8 @@ Sun Jun 30 16:01:58 CST 2024
 添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
 删除alicelebel 
 删除mikio_san 
+Sun Jun 30 16:26:33 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImV4cCI6MTcxOTc3OTE5OH0.SLI9HU_Q-0uUDtEyJz-s6r1g5v2wJYUeasNnhyvvJ3EcXnfLCFQZK6kpFf7Oh71ewwld4v9lPrsSYi0cHs7zkDCQwr2ZaCQ6Dc1DpmditgsxsWG5Ea_vYCSi8ibQN19E
+Sun Jun 30 16:26:46 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除your_desssert 
