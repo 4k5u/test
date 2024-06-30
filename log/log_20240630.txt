@@ -119,3 +119,8 @@ Sun Jun 30 09:43:18 CST 2024
 删除mazzanti_ 
 删除Sime_Naughty 
 删除LOVE-Juan520- 
+Sun Jun 30 10:31:17 CST 2024
+Sun Jun 30 10:31:23 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除cuddles_me 
