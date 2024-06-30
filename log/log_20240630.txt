@@ -242,3 +242,7 @@ Sun Jun 30 19:20:54 CST 2024
 Sun Jun 30 19:32:55 CST 2024
 Sun Jun 30 19:33:15 CST 2024
 删除your_desssert 
+Sun Jun 30 19:48:51 CST 2024
+Sun Jun 30 19:49:11 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除AkiShina 
