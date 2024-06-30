@@ -197,3 +197,6 @@ Sun Jun 30 16:26:33 CST 2024
 Sun Jun 30 16:26:46 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除your_desssert 
+添加your_desssert https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a663a48a0dd77d0e1c9a92348ee197814e75d6aafd357bcc6741dd2d2ce888e2_trns_h264/playlist.m3u8
+Sun Jun 30 16:39:59 CST 2024
+Sun Jun 30 16:40:08 CST 2024
