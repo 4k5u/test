@@ -296,3 +296,11 @@ Sun Jun 30 22:41:31 CST 2024
 Sun Jun 30 22:53:32 CST 2024
 添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcxOTgwMjQzM30.XjAI3tfZTDjFjv3744ZYi6JjcX4DwuTTnfdbQGcpbyjQeS9n1ZyRXnlqqCuRAqJoYydvx2sSE_xp17IB_650Qs5ZrdOqFQIBQxYB7jLJ48Mc4ZRWoWAkVCzg2HamkfY-
 Sun Jun 30 22:54:12 CST 2024
+Sun Jun 30 23:21:38 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcxOTgwNDEwOX0.FWIUwvYnss86jdfa75rR7GmvKxQTprkKXlZ4BVhYak-U7qW8ey7ruEhaARyfOxcs86_awfpDeGBGY5SAx8R08BwhzcrtUbcQgcusFGyZypRmyFIy2a1uEE1UrXKXmOkC
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcxOTgwNDEyN30.Eum25SiGITgpWDwdCSk7jl1UEN9VvbqWvHFZvKO79mzr7SyKatV8ZQHzjLnu2CHUaiHK85NjeBqqOzSaeJ1W_UGh8v4ogZbOhPkiAjQv_PgQgJ5C20G6mVRrA_VJNUYn
+Sun Jun 30 23:22:18 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除thgml1212 
+删除emforhs1919 
