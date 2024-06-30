@@ -34,3 +34,7 @@ Mon Jul 1 01:49:38 CST 2024
 Mon Jul 1 02:01:29 CST 2024
 Mon Jul 1 02:01:37 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.net/hls/136195660/master/136195660_auto.m3u8
+添加kiriko_chan https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-210790f80dc5f54548a89daeeb795d24649cd7b29916f0f4fc3e6cb2e1db6ce9_trns_h264/playlist.m3u8
+Mon Jul 1 02:31:08 CST 2024
+添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mCmhQd81Qxa9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21DbWhRZDgxUXhhOSIsImV4cCI6MTcxOTgxNTQ3MH0.ARN2lfxJ8acOpTAZFM4gFrPPK7aJTmXAFY951Rkn7dt6iTQHILrJKeLs40CNEU-WNGN1vV1Tr6T2Hgan0YZPUnjZfmfiuwKggSgvmWzzc1KDBfFpbIFptrNIlA3AnZ0K
+Mon Jul 1 02:31:24 CST 2024
