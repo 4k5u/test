@@ -187,3 +187,8 @@ Sun Jun 30 15:48:50 CST 2024
 Sun Jun 30 15:49:00 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
 删除leelate 
+Sun Jun 30 16:01:51 CST 2024
+Sun Jun 30 16:01:58 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除alicelebel 
+删除mikio_san 
