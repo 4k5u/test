@@ -269,3 +269,9 @@ Sun Jun 30 21:00:16 CST 2024
 添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w6DXop6gu-JYycotg7IXjIp1VbE1bGmSCzFN6c3yB6Ag2vzKUAHUAgwKvBezb1txzjd2J3cWqai2FGUgpCdF2Q
 添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dZmC578reYP9YLglLFbcpuX3yU8B2lfYaRjpaLvHV9dvZrYrR8dCfeV7Z98Gm_Pjte78GMmM6oXODepBsZWFDQ
 删除my_eyes_higher 
+Sun Jun 30 21:23:09 CST 2024
+Sun Jun 30 21:23:36 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lUs443bTVZeDi9UG5YZez0UiiZ5upZ7fYt9YY8Ndtn8bEqkXnKpNfmKOTz01ute7xj-nVYRFwSj8HBy19qrXeg
+删除y1026 
+删除somsom0339 
+删除JP-KARIN 
