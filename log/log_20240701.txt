@@ -56,3 +56,9 @@ Mon Jul 1 03:30:18 CST 2024
 删除San___San 
 Mon Jul 1 03:42:37 CST 2024
 Mon Jul 1 03:42:46 CST 2024
+添加mazzanti_ https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-764fd667f989f9ca9694175c947f2b8cdbbf01002d590535ca0c4dd1ca58c0ca_trns_h264/playlist.m3u8
+Mon Jul 1 03:59:10 CST 2024
+Mon Jul 1 03:59:18 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+删除dign1461 
+删除JessicaRewan 
