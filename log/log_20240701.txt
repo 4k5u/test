@@ -123,3 +123,8 @@ Mon Jul 1 09:39:05 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 删除LOVE-Juan520- 
+Mon Jul 1 10:32:51 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oJfPsik3tKl1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29KZlBzaWszdEtsMSIsImV4cCI6MTcxOTg0NDM3NH0.B7ag6gfF0EHRBsEkbKTVnGzjaBUYe_nGLPLjGAAzvduRaLo5Jm1aPhfPy0rk0CQxrGtLkI-DNnc7Z-jiAqaB9lW3Kb8_AAZuJd1-xHy4ktfxDvBgSqQS2FQk_SVPkKy5
+Mon Jul 1 10:33:03 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除hotse777 
