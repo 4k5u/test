@@ -221,3 +221,8 @@ Mon Jul 1 19:19:20 CST 2024
 添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImV4cCI6MTcxOTg3NjAwMX0.TGdcm6z9HUsVSKzoJqA0cUA_ARfI-Aoyr7AjMyJ6RvRo4eJmGTgd-pubuTc20zHr9aaIPUM9dpf-gtvjx-6Y90Ny_noPIOqF0ThG5kLNBSTz3regHVE0pXt2GkGhyogG
 Mon Jul 1 19:20:06 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i2LzbT4YcL-JgasMoezKVTFw4pm0c2ssSYglxct-EQBGKosUMIkh9-Of822c0Kzk9G0Cft0pmmUOXIHFIndvrg
+Mon Jul 1 19:31:29 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcxOTg3NjcwMX0.0oi5i5KUQ7UvhRodAvHsfBF6vieQgqjl-x5JtModCFC6R6TL7p1ePv1zZnCMRQ6mXxWDpOSI3EtjksOWhIzdI_uOFtNPz64l8M1b6A8RpUUbqVUfB6uVGauUhfmx-cc0
+Mon Jul 1 19:32:04 CST 2024
+删除AkiShina 
+删除tyy750ii 
