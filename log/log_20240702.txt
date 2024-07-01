@@ -66,3 +66,9 @@ Tue Jul 2 04:23:21 CST 2024
 Tue Jul 2 04:23:28 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
 删除alicelebel 
+添加sexygamesx https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6466f541108f1802c29eb29c9df77d8e27cff6637dd948d729cf0f2467a17b61_trns_h264/playlist.m3u8
+Tue Jul 2 04:40:15 CST 2024
+Tue Jul 2 04:40:18 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ajlNQATpaaytBCZm7f_038t9yIt5oFKqMtD4SMxDzF8FSiFXn7meBXSFtH2lfJegc0uS3J3liEHeTW-p6h_O4A
+删除hotse777 
+删除ksb0219 
