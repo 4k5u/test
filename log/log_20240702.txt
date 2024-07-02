@@ -261,3 +261,17 @@ Tue Jul 2 20:03:21 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wh-1DX12i34Vu-F4F4VsO6L0CjD7hioUbyht3FCYXF8yhe2JftVOEEBxrsQnEPm7sY6IT5FjCgh-z9IdsuK73w
 删除happyy2 
 删除acac88 
+添加galantini https://edge3-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-d77e2eb7f568f174f8bd5866a54d0eb3e458c4b952805ecaf0beeb5d0e480581_trns_h264/playlist.m3u8
+Tue Jul 2 20:41:05 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcxOTk2NzI2OX0.a50T9rzRxAs9G1wpG-LlPUSK1v8FBXqIWz00qyONuyQOpJLpXS--5e3nZv6Lxz01jh6J9oaTSKGpCgZESp-OvackYaav9h6CqOrt_vIWVy7hpmAhHorY_Ga4-4r25n2C
+添加stuiliillive https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.edIsqNIAqF2h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VkSXNxTklBcUYyaCIsImV4cCI6MTcxOTk2NzI4NX0.WAW6ss-JLFZykB2ej1CuPUumxLCes8WDl-RgTaiX1WRoXfzWZwDU69QAmx_eIz60SZrv2qNESQBGGD-5-GBiunofILIgi-yF0aaPfEaOpAghMVmsQd0V3GHSkRNBQ4yi
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcxOTk2NzMwNn0.o_Tvpr9PYe-E04gI6fXO8q_u-oQmyUU3ad8lJStm1Zq18QdmVcHdm7BUMxh59XAn8AVwe7lEQgu4bi_lRU5iRWKHKq_JagrDd5XFBtzvuP6xmRv8edzR-soBu-kcZHtN
+Tue Jul 2 20:42:03 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5jzL0SKnJ5FSd1of1DdqoZsmCAeyhQfTxsq-YDKF5ucgmQsGDnbG-3bqmlCM0pLtgZTjXIY32vwDULAw16nAyw
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Rb59AkqBgDUiBDgsUPZz8oUSLziyyl9QixB1spYPfqNn3qh3rT15eWnqz0Dz5zWeHsHzYjflkdv4hdcrnIg1wA
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KN6P5zh6SCF6WhLJW4aRTnfWVrzL3_zcduDHrHafyPkDeHU4KzMKD0Bd-QvdYVRUITQ8ff7B8nFNZhLtvATpLg
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ei4Nb1-kO9i7dQUktqQ4QLvkrr-o8x2hRKa_MkLMAkCHwte5a9AKMZHhzOPuh6pQvs0WmcJW2vkM5sNyH6G0Zw
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.54Kv2Bp5UhTdRDXL0NtJnv1pLYc3OlEeKJCd_pBR1cceqixQng6XTsnj2TD9iOU_Ztto2Z7NsuyN_0E_njssUg
+添加grandeeney https://edge-hls.doppiocdn.net/hls/95572201/master/95572201_auto.m3u8
+删除nemu00 
+删除Ryo-sama 
