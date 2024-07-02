@@ -285,3 +285,11 @@ Tue Jul 2 21:26:37 CST 2024
 Tue Jul 2 21:27:31 CST 2024
 添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5zmvIuhuk1xMUoi_ZWT1-F0gFMzoV1I1HQY4SyoiZPGGyci3mYfrdTyAEIr8wXyeT2_pEZm5ky2EP7aMMUQrzA
 删除JP-KARIN 
+Tue Jul 2 21:38:57 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImV4cCI6MTcxOTk3MDc0MH0.thSyI2_VtYj__OOebyrNm3ehwTYWxVGM2Ete24bMRdlp7Lqjt3XoZO7zycDIwjI-KK8SwemS1y_wpLvudI8a4FHPuQPb0rtVeG8xDL7bOCLqsCBWJBZx5nKZwsrh6WIK
+Tue Jul 2 21:39:49 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.e9wOrBJQOKox6tUuvlZ1BqfvuJihWnEMGeEnoFIVzQdSz_AKiHwO-M9ABaQNVr0Sm_1D--YgMWyskwnqMZMl9A
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+删除sonming52 
+删除soso621 
+删除mikio_san 
