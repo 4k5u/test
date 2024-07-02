@@ -44,25 +44,30 @@ jobs:
           git commit -m "update" -a
       - name: Push changes
         id: push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: git push || echo "git push failed" > push_failed.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
+      - name: Check if push failed
+        id: check_push_failed
+        run: |
+          if [ -f push_failed.txt ]; then
+            echo "Push failed"
+            echo "push_failed=true" >> $GITHUB_ENV
+          else
+            echo "Push succeeded"
+            echo "push_failed=false" >> $GITHUB_ENV
+          fi
       - name: Retry Push on Failure
-        if: failure() && steps.push.outcome != 'success'
+        if: env.push_failed == 'true'
         run: |
           n=0
           until [ $n -ge 3 ]
           do
+            git pull --rebase
             git push && break
             n=$((n+1))
             sleep 10
           done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push changes2
-        id: push2
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
