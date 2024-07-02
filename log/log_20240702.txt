@@ -293,3 +293,8 @@ Tue Jul 2 21:39:49 CST 2024
 删除sonming52 
 删除soso621 
 删除mikio_san 
+Tue Jul 2 21:51:23 CST 2024
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImV4cCI6MTcxOTk3MTQ5N30.2xzJPkoWNrXzNJEp845iDMK1EWLRbrATf4PY4j9q4FA4d8-TQ17wzFy9ilg-lTbL_ZrEs6UJdNQ1i6JBRJuDlt0CXFNG4A1kGOR_GqwEtsGtj6Nv6E_5FY51YdJndIDz
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcxOTk3MTUyOX0.9FNcv1mAyOnkdefYBT3aj0DK5if_uugzFZEpNb4XynKXNicaBFWnvKM2nITqV6knmwW8bFM8cdpQCBJbeWx2BA1SMSs6TCbqpuy2BUQJCZczJj3M_vFTvHTmQV01PWrF
+Tue Jul 2 21:52:23 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
