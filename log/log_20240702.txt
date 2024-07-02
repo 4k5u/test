@@ -303,3 +303,6 @@ Tue Jul 2 22:11:37 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
 删除alswl2208 
 删除qwas33 
+Tue Jul 2 22:28:39 CST 2024
+添加qwas33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bDL9fG4ShenS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JETDlmRzRTaGVuUyIsImV4cCI6MTcxOTk3Mzc1M30.bMbqLpunW9_HaPUYUoWX8OQ5accbWmfA-JLTg3C6TffpUE2wdjom9B3yUexpiTqZqNg211P5Qu1uwSQEZCRL7GZ_0-4j0JnuHUjFlpHNlptett3GgvxXz-cfevJK7NkV
+Tue Jul 2 22:29:32 CST 2024
