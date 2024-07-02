@@ -147,3 +147,8 @@ Tue Jul 2 12:42:31 CST 2024
 Tue Jul 2 12:54:07 CST 2024
 Tue Jul 2 12:54:22 CST 2024
 删除hyuna0721 
+添加mode_bad https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-350aeddaf28c2b8739bbd0b052c2948debcb8c3b523a18d1708b5e8ab280d8cb_trns_h264/playlist.m3u8
+Tue Jul 2 13:21:01 CST 2024
+Tue Jul 2 13:21:14 CST 2024
+删除my_eyes_higher 
+删除jjine0127 
