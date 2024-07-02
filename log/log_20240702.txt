@@ -180,3 +180,6 @@ Tue Jul 2 15:23:16 CST 2024
 Tue Jul 2 15:23:33 CST 2024
 删除SanySenise 
 删除mode_bad 
+Tue Jul 2 15:39:35 CST 2024
+Tue Jul 2 15:39:48 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
