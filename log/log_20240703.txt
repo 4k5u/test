@@ -252,3 +252,11 @@ Wed Jul 3 19:52:26 CST 2024
 添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcyMDA1MDc3Mn0.SDuxh9-9eEeh6ZJrJ-jICvt3vYUaQJ8z2mu4q6Jxv8CjLuQ1vgsX6oayFylKhRR9vdnsko4xlf6wxGDExTWWGA63-xa6eZzs7gd0gq-R3u4RcSN8On4bf_2vcTosqr6J
 Wed Jul 3 19:53:04 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+Wed Jul 3 20:20:01 CST 2024
+添加imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y5ofSYtw8aXw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k1b2ZTWXR3OGFYdyIsImV4cCI6MTcyMDA1MjQxOX0.mhpXTvbZBfWDtLTc0Zb-pe8i5m-L2G4_IxE7eTMk0hEMwphLx5fko1-3Yu9HSyWvQl5wRGMEPeM4LpItyle5s4_HNhnfD7Io7Qz3B9AfCUL6QmVHAL8uN1H4LQOMN8SJ
+Wed Jul 3 20:20:37 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9u2Xhc2KuJibcOeThw0D0V0oj665bLF0gA0Oi4dKXa2nhUT4x6cn_EVTtEPvFsCqlV4ED90av2tFJKt7L1jzkw
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9u2Xhc2KuJibcOeThw0D0Z-uXSwQ7yxwi-0VBuE4gje_7pkCaMnLjnZpQmSGenLPkpFH6hEE79UbQljVMTvgeQ
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7AR9oUDv0tcvzd_-1Sy0TIcbVqR-JOLRKi91dF6bzqNVsaLPO7Ze_FbQjIkIMoH4AQhNtI1eLESOb8jLOCSRug
+删除_katekeep 
+删除Sime_Naughty 
