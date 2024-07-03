@@ -182,3 +182,8 @@ Wed Jul 3 15:36:17 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
 添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
 删除4ocari 
+添加_katekeep https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_katekeep-sd-8584a1fdb9a5200b073387740cb49d09353c6ad23d202341c1a5b29aae7ad775_trns_h264/playlist.m3u8
+Wed Jul 3 15:49:08 CST 2024
+Wed Jul 3 15:49:14 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
+删除mode_bad 
