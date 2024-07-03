@@ -40,3 +40,9 @@ Thu Jul 4 01:50:11 CST 2024
 Thu Jul 4 02:02:03 CST 2024
 Thu Jul 4 02:02:16 CST 2024
 删除homegirl 
+添加kiyoko_rin https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-65585702b6ac0e8f6d812446b599c2390ce3a7e4f4d1950e93e425162f5f08c3_trns_h264/playlist.m3u8
+Thu Jul 4 02:30:41 CST 2024
+Thu Jul 4 02:30:52 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+删除100472 
+删除glglehddl 
