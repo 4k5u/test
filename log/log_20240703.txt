@@ -279,3 +279,10 @@ Wed Jul 3 21:13:25 CST 2024
 删除cecilia0903 
 删除mikio_san 
 删除alswl2208 
+Wed Jul 3 21:31:31 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcyMDA1NjY5N30.gfBhdQBlW8k7LJho8QazSejpS2u9Nx4EoPsGAhdVyBHGjF7cbLhvkE4ps6gZKdH3CqRe3lggCbpBhS1XqctuW8y6bPkO6QxVLQ9FTxmVVDibszdkP3zWs8eXGmMUhENk
+Wed Jul 3 21:32:12 CST 2024
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Sr8btZ_PZVkgYuE-sjzKnehUZ76HJZWbtnV1Ee1i-Sm3WE75GTOAzkff69JvBWmedshXS8sqa1e6YtNkHXIpTA
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除acac88 
+删除_katekeep 
