@@ -150,3 +150,7 @@ Wed Jul 3 12:41:40 CST 2024
 删除jjine0127 
 Wed Jul 3 12:53:20 CST 2024
 Wed Jul 3 12:53:28 CST 2024
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-9f8a3f0b07237ed611fc3cc109fc05d777c66ecf0a69bc3e1cf79f0a255467b3_trns_h264/playlist.m3u8
+Wed Jul 3 13:21:06 CST 2024
+Wed Jul 3 13:21:15 CST 2024
+删除Sime_Naughty 
