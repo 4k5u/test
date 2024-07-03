@@ -30,3 +30,10 @@ Thu Jul 4 01:33:07 CST 2024
 删除yourare 
 删除San___San 
 删除Reaowna 
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7436ca3a945ed6992c490babe47cbd17cd7d02f56dbb5d7eb74f3790d1c8a435_trns_h264/playlist.m3u8
+Thu Jul 4 01:49:56 CST 2024
+Thu Jul 4 01:50:11 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
+删除EmiliaGuess 
+删除my_eyes_higher 
