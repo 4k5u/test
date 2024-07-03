@@ -57,3 +57,6 @@ Thu Jul 4 03:17:52 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 Thu Jul 4 03:29:24 CST 2024
 Thu Jul 4 03:29:35 CST 2024
+添加sexygamesx https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9dd4528c539c9b91c1ab6151174f3696d30f02bb8c32dd2b99151b095673c960_trns_h264/playlist.m3u8
+Thu Jul 4 03:41:25 CST 2024
+Thu Jul 4 03:41:35 CST 2024
