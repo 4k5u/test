@@ -187,3 +187,7 @@ Wed Jul 3 15:49:08 CST 2024
 Wed Jul 3 15:49:14 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
 删除mode_bad 
+Wed Jul 3 16:01:19 CST 2024
+Wed Jul 3 16:01:24 CST 2024
+删除getme1004 
+删除_katekeep 
