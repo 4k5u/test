@@ -92,3 +92,7 @@ Fri Jul 5 06:39:47 CST 2024
 Fri Jul 5 06:51:27 CST 2024
 Fri Jul 5 06:51:30 CST 2024
 删除my_eyes_higher 
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0dc53a4a9956365a2bbaec0046fccb53026cbbff12e8f8af545a807acfe2995e_trns_h264/playlist.m3u8
+Fri Jul 5 07:11:49 CST 2024
+Fri Jul 5 07:11:52 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
