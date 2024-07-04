@@ -99,3 +99,6 @@ Fri Jul 5 07:11:52 CST 2024
 Fri Jul 5 07:27:50 CST 2024
 Fri Jul 5 07:27:53 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+Fri Jul 5 07:39:56 CST 2024
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcyMDE3OTU5OX0.ddYY4wJwZexKpUw_tPbqWNUZH-_tYqncLtLl7o62pf0G42WbP7mm9PwZ5px1ifU1U0BH3DOoEJSOkpJKBisNIcMqd5HuB4HznvonTtaBzvTslpuS8yx-gWtN7ezBKx9h
+Fri Jul 5 07:40:04 CST 2024
