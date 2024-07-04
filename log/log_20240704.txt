@@ -174,3 +174,6 @@ Thu Jul 4 13:21:03 CST 2024
 Thu Jul 4 13:21:19 CST 2024
 删除jjine0127 
 删除Xenomy 
+Thu Jul 4 13:35:11 CST 2024
+Thu Jul 4 13:35:23 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
