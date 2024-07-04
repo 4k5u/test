@@ -89,3 +89,6 @@ Fri Jul 5 06:23:57 CST 2024
 Fri Jul 5 06:39:44 CST 2024
 Fri Jul 5 06:39:47 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+Fri Jul 5 06:51:27 CST 2024
+Fri Jul 5 06:51:30 CST 2024
+删除my_eyes_higher 
