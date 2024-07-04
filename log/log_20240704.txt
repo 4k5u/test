@@ -157,3 +157,8 @@ Thu Jul 4 11:59:34 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcyMDEwODc4MH0.SBGOtnabc23X3urYetMKfK-VLaoTRkBgXq_0tTRJjDvjqm0tMmRTVCa6CmgBzo7bVJs0TTPuEkRGlJY_9WsHlor_SXkDZxRTDZzFulBRe9TkGHesva8VT8XIrqdmXRpB
 Thu Jul 4 11:59:52 CST 2024
 删除lovable12 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2cac82097472a09df593c4b86ce17d83c6067e7e854708af6a141dae2e89bdaa_trns_h264/playlist.m3u8
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-94f8f7b5405924a72169d3db9ee63e3d77b79716099844ba88d403fc4535d118_trns_h264/playlist.m3u8
+Thu Jul 4 12:26:38 CST 2024
+Thu Jul 4 12:26:51 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
