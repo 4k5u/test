@@ -153,3 +153,7 @@ Thu Jul 4 11:27:52 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 Thu Jul 4 11:41:50 CST 2024
 Thu Jul 4 11:42:03 CST 2024
+Thu Jul 4 11:59:34 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImV4cCI6MTcyMDEwODc4MH0.SBGOtnabc23X3urYetMKfK-VLaoTRkBgXq_0tTRJjDvjqm0tMmRTVCa6CmgBzo7bVJs0TTPuEkRGlJY_9WsHlor_SXkDZxRTDZzFulBRe9TkGHesva8VT8XIrqdmXRpB
+Thu Jul 4 11:59:52 CST 2024
+删除lovable12 
