@@ -146,3 +146,8 @@ Thu Jul 4 11:01:57 CST 2024
 删除hotse777 
 删除nemu00 
 删除Xenomy 
+Thu Jul 4 11:27:40 CST 2024
+Thu Jul 4 11:27:52 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
