@@ -291,3 +291,10 @@ Thu Jul 4 21:26:12 CST 2024
 Thu Jul 4 21:27:09 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DuVizxAz8V0O6MSr13aBw3h6XwvqfjvLBW0sqTRsVdBfiyK5lO0MjKrZ02HWiOWJIyPegNZNrnV556dCrUYZuw
 删除my_eyes_higher 
+Thu Jul 4 21:39:34 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImV4cCI6MTcyMDE0MzU3OH0.BwCTKUZWmw1bht-_Eoul86FMMmiWIZR-alZ-R-ifKU28Qo2bs_2mhyaodReyMXAa4-w1WysreAXQgtL7EENYRPmRd8cTAoyYNrqa1HW8HqI8QVQJp5YD5uSS-29ZomtS
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImV4cCI6MTcyMDE0MzU4Nn0.VBsdSEd87zYwn7KR17d7rGbIBS6ILVsKWBIHQ7grDBB2TYD-KYwqcExIT4TYxvlXYFVZp_tmg_tM1qEmn_t08lZXEs2eZjVSDN6gz9L8-RryzBkA9SZMaqkfSl-tZCer
+Thu Jul 4 21:40:38 CST 2024
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DhGBaQWevCwoYGjTpUwQj8on_VB9kGC-eNNzEsG--f5UvkQ1T1ADPSocMr30_liXVEUk085lfSawRs9UGM123w
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3rZfgq9qMOB4s731poHLkzwqkR-Pni1Q2un2PuI0OrBr7vc37IjuRtk7eNQVSS18StPI1s8Em02Avfoj-kR-SQ
+删除galantini 
