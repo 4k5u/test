@@ -53,3 +53,7 @@ Fri Jul 5 03:19:40 CST 2024
 删除100472 
 删除pandaex 
 删除kiyoko_rin 
+添加kiyoko_rin https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f5bb7adbf74fc313ad44b8d4d287b0c8e21475cb02a1f2c804f637c7f230a23e_trns_h264/playlist.m3u8
+Fri Jul 5 03:32:07 CST 2024
+Fri Jul 5 03:32:12 CST 2024
+删除gusdk2362 
