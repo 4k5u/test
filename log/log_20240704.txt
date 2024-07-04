@@ -216,3 +216,8 @@ Thu Jul 4 16:42:03 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 Thu Jul 4 16:59:43 CST 2024
 Thu Jul 4 16:59:51 CST 2024
+Thu Jul 4 17:26:49 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Rf12fK88wwmi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JmMTJmSzg4d3dtaSIsImV4cCI6MTcyMDEyODQxMH0.i2VLJ43QaIVRYVSQwRQkKUApoPrOC7Xfz5ZWsacYCuuP-5udoIuUu2u1P6yU6xuh6bSz7hCzxaol_WPeOkYswAA0C8i88imkwKv9g4KGzlFjrT7Ok6LdASKThiqJuGVE
+Thu Jul 4 17:27:02 CST 2024
+删除ake_mi 
+删除mikio_san 
