@@ -332,3 +332,8 @@ Fri Jul 5 23:39:04 CST 2024
 Fri Jul 5 23:39:43 CST 2024
 添加Sherry_niko https://edge-hls.doppiocdn.net/hls/89104597/master/89104597_auto.m3u8
 删除anystar00 
+添加galantini https://edge9-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-0741201e5e43d1fc8323934d83ffa7c6fff52096884f57dede8f9aceeda78ca5_trns_h264/playlist.m3u8
+Fri Jul 5 23:52:27 CST 2024
+Fri Jul 5 23:53:00 CST 2024
+添加San___San https://edge-hls.doppiocdn.net/hls/124944690/master/124944690_auto.m3u8
+删除lovemeimscared 
