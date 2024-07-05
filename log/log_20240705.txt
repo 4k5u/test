@@ -180,3 +180,8 @@ Fri Jul 5 14:39:11 CST 2024
 添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mCmhQd81Qxa9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21DbWhRZDgxUXhhOSIsImV4cCI6MTcyMDIwNDc1M30.HDwceToITZNg2mtXcHdg8EHVE68MIxy87SQip640tYlXJXFToCoG3W9rbbQg4exeiweuDmT2WFYi6oxyC-IN6_3Yc8nhZxauBYmVjrsO0TY5KDNUEUYe70nanIavs1Ro
 Fri Jul 5 14:39:27 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.net/hls/85492111/master/85492111_auto.m3u8
+Fri Jul 5 14:50:46 CST 2024
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcyMDIwNTQ1NX0.7LZ4Qm9I2KLzcoLZUrTEQB6Myfc0c15UP-tDUHclD-dcJ7AhJwSpkVfxZjdDeMNUH_bYOtJeJxBq0R9_v2W-4Lc02RIqvhGWxJwfLuh_XEZU7MWC2UX6U4DgDEGb0FfW
+Fri Jul 5 14:51:02 CST 2024
+删除_PunPun18 
+删除my_eyes_higher 
