@@ -144,3 +144,7 @@ Fri Jul 5 11:52:25 CST 2024
 Fri Jul 5 12:25:34 CST 2024
 Fri Jul 5 12:25:42 CST 2024
 删除San___San 
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-7068a0fd9af2249f79cabada3549e57058689118de40718f8507754b16bb723a_trns_h264/playlist.m3u8
+Fri Jul 5 12:43:06 CST 2024
+Fri Jul 5 12:43:14 CST 2024
+删除IdaJonesy 
