@@ -92,3 +92,6 @@ Sat Jul 6 06:50:01 CST 2024
 Sat Jul 6 06:50:06 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除Witcher_DK 
+Sat Jul 6 07:01:43 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcyMDI2MzcwNn0.JuNH7tucrGEP5uOKE9yCPCOinsi1h52emrlnc9rGvejxmOU3W7Aroyh7FODnWKy4vPm7faJQuQLxDModXxK3QXGWiSbHY9qSgwgIiFdwJZ_G0PfbQ-g1HeHuv1yMD5lb
+Sat Jul 6 07:01:55 CST 2024
