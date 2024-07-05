@@ -127,3 +127,8 @@ Fri Jul 5 10:45:32 CST 2024
 Fri Jul 5 10:45:43 CST 2024
 删除Akiyama_Key 
 删除kiyoko_rin 
+Fri Jul 5 10:59:21 CST 2024
+Fri Jul 5 10:59:32 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.npioX9RxILnM24wjZSwPAaHUf85Q82S7kJd-7dN1WBd84kYuRuoDottyduhlt5MxWWD9H6VjqIE127xwsFc8fQ
+添加Glenda_1 https://edge-hls.doppiocdn.net/hls/74768272/master/74768272_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.net/hls/83920869/master/83920869_auto.m3u8
