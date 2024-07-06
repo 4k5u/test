@@ -242,3 +242,9 @@ Sat Jul 6 18:50:01 CST 2024
 Sat Jul 6 19:01:30 CST 2024
 添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImV4cCI6MTcyMDMwNjkwMH0.9DSF_87kgFecJhJNlR8d6852ZRVY8I0BQLC5aY1LYAJhf4O98HlXPKttrbvnA-MvPL4-4ZPZN4X1xoq7cY0VqVROXfP_1En1BshrtuwRPgaFflIZRcshJqrMW2EHtGkf
 Sat Jul 6 19:01:52 CST 2024
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a81853866e0e54024c69b38a921ec5fca115b9e572a6f3d136edd18836a7b4da_trns_h264/playlist.m3u8
+Sat Jul 6 19:19:23 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcyMDMwNzk2OH0.a-Kxq1vf3sAAPl9tmCoMioEsbyanlXCAE-Yyz7obrwNdD65FVE5yhg6gJ6AUiaSKt9K2OBYFw2R4QMzearm7FNkEdzvO3HuRS_qOwL91ulWNFTxD8AqOLvW6fcg8Zq0h
+Sat Jul 6 19:19:45 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fhz3fF7pAeEGV6Hbf2g0rpFTQD69LCOghHTY92PUjUoAulzOXkqE-NQJNjS4XST2mEU7i3GOCGH91XjQV1FPIw
+删除EmiliaGuess 
