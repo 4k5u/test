@@ -165,3 +165,6 @@ Sat Jul 6 13:19:41 CST 2024
 Sat Jul 6 13:31:50 CST 2024
 Sat Jul 6 13:32:01 CST 2024
 删除SanySenise 
+Sat Jul 6 13:49:25 CST 2024
+Sat Jul 6 13:49:35 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
