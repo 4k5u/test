@@ -252,3 +252,8 @@ Sat Jul 6 19:31:42 CST 2024
 Sat Jul 6 19:31:58 CST 2024
 删除AkiShina 
 删除my_eyes_higher 
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6b4485ccc39ff4810aad23b41d55462a38bdc53181fdc98a8781f06d56f72b0a_trns_h264/playlist.m3u8
+Sat Jul 6 19:49:39 CST 2024
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aRc436CggoBN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FSYzQzNkNnZ29CTiIsImV4cCI6MTcyMDMwOTc5OX0.iAgIeq7Vazbh67cslMuEYWIHzoYyXf8t7U_audpARvJYAipvYcSjYCSSE3ba0r3VbMPa5ljNrqUq7VN59HsMmGOfypICG1ywC1tNSvyU_rPdsIivBeOBqug7ROQmne6Q
+Sat Jul 6 19:50:07 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
