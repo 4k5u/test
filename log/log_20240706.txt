@@ -305,3 +305,11 @@ Sat Jul 6 22:53:19 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mxM7ipSpjNAS2Q6dV8MFY_N7fXO407FmWFGMjxoShYfWIFGCdV5QUra6WCtPolAbepaByDNqJvoCUHxpRT4lKg
 删除your_desssert 
 删除seozzidooboo 
+Sat Jul 6 23:21:25 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImV4cCI6MTcyMDMyMjQ5OH0.HoLTXqlBKDhDAMcLVaH_VoWoc4l0hrh56CE9Pv9hNhCKBewus0DQtPqEWoSR8wc9kDBs-uFHPupZVqgieyqaU_EXXH8W3PVq7U1MGvYhuu-Kwvv_QAgHcEXglQbUOnl5
+添加seozzidooboo https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aRc436CggoBN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FSYzQzNkNnZ29CTiIsImV4cCI6MTcyMDMyMjUxM30.1bEn9TNh1_dGkaUc6Q2OMECW3wUkfA3sb8B30C6wMJgXoCLx6AVTmU4o-pVQ1cqiQgCjMyotyEmUaScy6TFqaMHIlcmPfuW1RCBmea3a17pp7YNVFO1R-yJ3NIj7GrO1
+Sat Jul 6 23:22:02 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除oki_dokie 
+删除lovesong2 
+删除kkkku96 
