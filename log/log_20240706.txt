@@ -209,3 +209,7 @@ Sat Jul 6 16:02:17 CST 2024
 删除alicelebel 
 删除intim_mate 
 删除your_desssert 
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-85cd8a668dd19f840dc2dd08a0378cab2aa8d8c570933b00ef51fbe7b58319a9_trns_h264/playlist.m3u8
+Sat Jul 6 16:30:29 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImV4cCI6MTcyMDI5Nzg0Mn0.22GPaJd8rzY9o5IsRhcvvUq1ZXOqjRKbN6_wAmDr_5WapmzTyU2B_tUtryrXVBK_oBcd8cjRyguvu9mgXmwh4XjNs-dJqW61n5no5t1lDy7EMrWcqfmknTSUU3CHrlMW
+Sat Jul 6 16:30:49 CST 2024
