@@ -141,3 +141,10 @@ Sat Jul 6 11:49:43 CST 2024
 Sat Jul 6 11:50:06 CST 2024
 Sat Jul 6 12:01:23 CST 2024
 Sat Jul 6 12:01:35 CST 2024
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cc037da7fce97bffb658588b88498be9d464c45c86b5b48c83000b23fcd38603_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-565c524a78607114d6dc9cbfd3d2e872e577786a81a9b3c584936a01eff4e8d4_trns_h264/playlist.m3u8
+Sat Jul 6 12:27:51 CST 2024
+Sat Jul 6 12:28:03 CST 2024
+删除starsh2802 
+删除eunyoung1238 
+删除intim_mate 
