@@ -62,3 +62,6 @@ Sun Jul 7 04:21:13 CST 2024
 Sun Jul 7 04:21:18 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
 删除alicelebel 
+Sun Jul 7 04:32:37 CST 2024
+Sun Jul 7 04:32:42 CST 2024
+删除mazzanti_ 
