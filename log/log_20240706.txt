@@ -234,3 +234,8 @@ Sat Jul 6 18:20:23 CST 2024
 Sat Jul 6 18:33:18 CST 2024
 Sat Jul 6 18:33:32 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._tQEkhOzYxzlRyxOQMpcyGlUC8y-D7j5HcwstbSDIEPaMz2dAE8dOhDJlkytbtTLAhB_XJTaqnNmH94Hz4A2HQ
+添加honey_pinkgreen https://edge8-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2f74e7009c58c63a2c74457be0ec49050ec181ccb231bb71bfaba471eef9e7cb_trns_h264/playlist.m3u8
+添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-410c43ca1f9b439a49e95a33a94c828cdc181de786e296c6f52a5e8cad873477_trns_h264/playlist.m3u8
+Sat Jul 6 18:49:46 CST 2024
+Sat Jul 6 18:50:01 CST 2024
+删除thgml1212 
