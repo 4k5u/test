@@ -234,3 +234,6 @@ Sun Jul 7 18:19:48 CST 2024
 添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImV4cCI6MTcyMDM5MDgwNn0.8EIkfaUQ9X0S1mc2a-WQBleg8RWQCNcCiVpgnS8rmpkMDHg9g9I29NBWe6fVVbJ_roZrl0KFhfa5qWUW67LLtS73Ck37qdfWoGbSo-9v5yYz7MnK3zNPnzFJm5GDwnXo
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImV4cCI6MTcyMDM5MDgxNX0.jrrpe88oy-y6yT-r83LQLQ33F1puuPOn7Z_Exxrd-5yveXkk_KHRfDjbnrPWuW9cPuujkbUqAM6xikm1oOqki7YZisHT3lpYXedXc40ctRsBv27n8QHyTGGJ_rmYic_4
 Sun Jul 7 18:20:23 CST 2024
+Sun Jul 7 18:32:34 CST 2024
+Sun Jul 7 18:32:55 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KsCO-FGbLjDLmzAWoe-FTAwuW9b9xeA8XHGADO_LDqwcOJja8DjLsDaA-YQGHcH_ZiL4O0xE2r0V4DPIlDJQIw
