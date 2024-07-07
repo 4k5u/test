@@ -157,3 +157,8 @@ Sun Jul 7 13:22:27 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.26x-5PxA0ZAIJAiy3PdeJXdEPwessAchdbnuwmtPI30jvIWUmCxoTVHjaVLrmX4pVyjH04khIw17M2TfJEjJiA
 删除my_eyes_higher 
 删除jjine0127 
+添加your_desssert https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-36532672067ecb2f6c6ff8bce23883a4c182e822be4bc863e3d1662bc00ef268_trns_h264/playlist.m3u8
+Sun Jul 7 13:37:26 CST 2024
+Sun Jul 7 13:37:40 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+删除kkkku96 
