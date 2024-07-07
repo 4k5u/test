@@ -116,3 +116,12 @@ Sun Jul 7 09:46:35 CST 2024
 Sun Jul 7 09:46:56 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 删除mazzanti_ 
+添加intim_mate https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-ad0e7931d951ec4175b6023162f6319fbc61345802a143e78b2eb45a00a34826_trns_h264/playlist.m3u8
+Sun Jul 7 10:31:26 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImV4cCI6MTcyMDM2MjY5NH0.pMIlXe9Qo7qoubEWu6MQSgAj4uunIgfgpxmWby_gxU1_uLA_sOiuKF7fad7z9CEqK_sFIioFuHdZSjM0rnNjXrQNLpycMmhb2B0f7U1muaRpEMWVkLaIipb1YGwmuHLn
+Sun Jul 7 10:31:43 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+删除Reaowna 
+删除kiyoko_rin 
+删除Akiyama_Key 
