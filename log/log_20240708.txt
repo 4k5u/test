@@ -5,3 +5,11 @@ Mon Jul 8 00:02:37 CST 2024
 删除soso621 
 删除lovesong2 
 删除Witcher_DK 
+Mon Jul 8 00:29:51 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImV4cCI6MTcyMDQxMzAwNn0.7bM5sCkEsWAFGwQSNdPHlZqGDgDohL4LT54KpNADGKWCnIMWWUNkQX1cNvg88k-gMfvHhdsWDX-fyTAWT79qnTztFDPTmkNlbY5U7fqPZ39ZDceWcJFG-ixUelmqEsne
+Mon Jul 8 00:30:24 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除hotse777 
+删除mozzzi 
+删除jubin0725 
