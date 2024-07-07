@@ -23,3 +23,10 @@ Mon Jul 8 01:00:03 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6lalWx9NAs_rMXcwhB7J-CY6prjnukVCXuTfGCmtVjq33mdH1yw2hRfRA2JqAVnBtcF-cb6W9UhaneqI56hlpQ
 删除sol3712 
 删除cool3333 
+Mon Jul 8 01:21:43 CST 2024
+Mon Jul 8 01:22:03 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zWL2tTqKoxIX4dq_ICGieA_wIJPJjYWX3xonp0-iuZit-wz831lO1ONX1L8iI8y9WsMGg0LsQec-0LcbwaOLbg
+删除na2ppeum 
+删除hyuna0721 
+删除galantini 
+删除grandeeney 
