@@ -254,3 +254,7 @@ Sun Jul 7 19:34:37 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZNVjp5iSUI0ZU1YscSTnIRtx7HTCddCKL-3cV1csNLOEvGpJ4b4TJHuyyVovVswf7eN35-z035geB6QiTY5dmA
 删除AkiShina 
 删除acac88 
+Sun Jul 7 19:49:03 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcyMDM5NjE0OX0.I4wjYcav41U5z0grD4NOsH-1_3eRS5h9_jDI8gS8xd2WWy6-ugoG5mF7Mdx04GB_V-eIyX6OVvMRPt0XH8lVOPPZY_dv9rv2QXDIjmRk6hEzyFEQYiQRbd2UHTCewS9b
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcyMDM5NjE1OH0.szBQJMzzdoAmXgfoWiwTGNt373y8innCqpj1xORpZa05xziwjMznGr7JAWyw3xrbBji5ytci4vklI1sg4_spQPrBPdjfMfW17bFGloPMC766HAkHfLOSgl5VIcXb5Z0g
+Sun Jul 7 19:49:41 CST 2024
