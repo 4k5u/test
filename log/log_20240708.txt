@@ -61,3 +61,6 @@ Mon Jul 8 03:33:00 CST 2024
 添加mazzanti_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-56e684f7187d103722eba3f6c137c5184842995de104cb6e4e6982a9eaea8d34_trns_h264/playlist.m3u8
 Mon Jul 8 03:49:47 CST 2024
 Mon Jul 8 03:49:57 CST 2024
+Mon Jul 8 04:02:05 CST 2024
+Mon Jul 8 04:02:16 CST 2024
+删除sol3712 
