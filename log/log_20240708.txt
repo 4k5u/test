@@ -103,3 +103,7 @@ Mon Jul 8 06:51:27 CST 2024
 Mon Jul 8 06:51:29 CST 2024
 删除mazzanti_ 
 删除morphesoull 
+Mon Jul 8 07:12:05 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcyMDQzNzEyOX0.YgYpvNGXIuxAL1BYAeVyC_C4dsmubbT5-GIzndrt1RCK-YVRtU9Y9u2M3fuLVblTDZKHDOBL2Pjy4X6DTiBFbIyy84d32c9m4TtWFv6TXjtZuo7C6nJz4CzythzWrsut
+Mon Jul 8 07:12:14 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
