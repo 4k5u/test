@@ -214,3 +214,8 @@ Mon Jul 8 18:12:23 CST 2024
 添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImV4cCI6MTcyMDQ3Njc0NX0.AfyH7bgSfEs5Vp6aTMlWxQZEtTMuiEJox14EcdoI0LyLRPkzDJR0B82pxGslnlcpFJbFhEhCiAi4GusrwPyutGiwmw1wgV64dwN4LzfU38xzTbiIUVuMazwWumBfJQis
 添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Rf12fK88wwmi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JmMTJmSzg4d3dtaSIsImV4cCI6MTcyMDQ3Njc1M30.IiLIazpJGXWLzc8TgC3iS1l5x7K80qdilV1-r7x18oyLyWi0QYM62bqzjRqFO15xaF4JEZKPDhR2vvtDSRoxqIc3GBPKxvO1vXDsmgNGY-6sljv44uM-gT-3Pm0GpzwE
 Mon Jul 8 18:12:42 CST 2024
+Mon Jul 8 18:36:13 CST 2024
+Mon Jul 8 18:36:23 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6iU7o_tcdkaumznWpUVCxhy9cORsvB8IcyRGLkErm4pGzBzbxNtqwcmbmi2GPzxSXJyCJL0XwxguRE3vCXgPoQ
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6iU7o_tcdkaumznWpUVCxpJUAOugAGyxPIbA_SheLLsPeJtZKeH7Zv7p56xtBCA-xIYT1x_sgO-2E7NI0xYxUA
+删除hanny27 
