@@ -13,3 +13,7 @@ Tue Jul 9 00:44:15 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.net/hls/99604173/master/99604173_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
 删除na2ppeum 
+Tue Jul 9 00:59:06 CST 2024
+Tue Jul 9 00:59:25 CST 2024
+删除dign1461 
+删除anystar00 
