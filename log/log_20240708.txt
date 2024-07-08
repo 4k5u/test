@@ -163,3 +163,6 @@ Mon Jul 8 13:25:40 CST 2024
 Mon Jul 8 13:25:48 CST 2024
 删除jjine0127 
 删除20152022 
+Mon Jul 8 13:40:10 CST 2024
+Mon Jul 8 13:40:15 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
