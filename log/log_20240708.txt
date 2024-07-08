@@ -255,3 +255,7 @@ Mon Jul 8 20:45:11 CST 2024
 Mon Jul 8 20:46:13 CST 2024
 删除soso621 
 删除Judy0523 
+Mon Jul 8 21:09:26 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcyMDQ4NzQwNH0.CMQhlw7X90zM48weqXMDaFjJnmIokcnL7O834WnTODY5wOBuESQWSnzYMnsZKgkeZSlFBULgmYZEqJE8ue8bWgmUxonF7AqiUr2NeDv2d-c0xOcH5ZB8xVj6OpYFMBqo
+Mon Jul 8 21:10:10 CST 2024
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fuU078WomG2Wvffi0ueRUsTfxeWCKd-tFjRKuC4grezNASKFwhkGYcuwguTRoPXvJI4u2V3bRBXC4J4Qyd01zA
