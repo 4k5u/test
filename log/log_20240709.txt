@@ -253,3 +253,11 @@ Tue Jul 9 21:01:45 CST 2024
 添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImV4cCI6MTcyMDU3MzM0NH0.8kAtbOK9HpkP4Eyy5eAk2GMYjPQZyIoVIDKFfuvcO3Qfq5IEGW2LryoWVYqcWU2T0IyezQLN_Wqnf-VoEo-W8Z807gSacpU_o2MAbQJIZYk0JzgitfADXMyg8SyM7cDe
 Tue Jul 9 21:02:30 CST 2024
 删除JP-KARIN 
+Tue Jul 9 21:26:17 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImV4cCI6MTcyMDU3NDc4MX0.vicUJGCusL3Xg_s8GFB2_YqLnrYHyQC0PH3h7PFWEAFRBLce3p50-_NvLhoD2h026vlo0xmvyFCkPPnGaiwbxnVANJv8GdtTJkq4BBTk-hJM_-6POApMTi0NAZVVwsOY
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImV4cCI6MTcyMDU3NDgwOH0.xg3n5cXAHMAM7d1RD9yndUUdiJ5XflIw-6CYg4ln6v_4wqfG-UcqjY85OuLDwoCdMJl4QEKEH6mZG0o4898g4AKhwHpFrilMp4Rmzb5naOZHtc6EASPlAcQ8_gpLPblW
+Tue Jul 9 21:27:04 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MApEfbzzqMneWEgTk93LbXNRAbc1GgnrK-CdwNdpRzFmEih4F29hOmZOjY3dK6h6aG7gpNHLDw92_e_tJGhQ_Q
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9DDf0wvXVV2SySsxkH-L5f7E8tXoSHI2ayQ3hsRYOY4sDam_BWue2_JUhqKO_OskHjfoAqV77NLevE1FGKjchw
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.O4Vrdu8iKYzzzwh75g4ognnKNb7eqB7GERFZAk9oo4pLNpf5TngG5pJTmOt6H9QroMIUe3Z24xOsL_jKw8k0VA
+删除jeehyeoun 
