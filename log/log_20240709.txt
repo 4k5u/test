@@ -97,3 +97,8 @@ Tue Jul 9 07:39:22 CST 2024
 Tue Jul 9 07:51:43 CST 2024
 Tue Jul 9 07:51:47 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+Tue Jul 9 09:25:12 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcyMDUzMTUxOH0.49M1wLHpp3SOmmecc1JDEhwjZG6_vzqgrboN03-QlRWPzGNagKU5Vce9_L7eZ41-3qKJ_Q4g8gUustsMKO0lv1eao6xMQ6GxaOqo9lBwI1rhgIc4GfviLpTFzd6wK_Se
+Tue Jul 9 09:25:22 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tNVNYB4lNIFgqYqP-67NrnVOyQazKEKUNxCag34mBTc_nCM4RDB7X036s95TG7l6XtiMDt6scJriDhfwUH_awg
+删除dkdlfjqm758 
