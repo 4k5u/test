@@ -89,3 +89,6 @@ Wed Jul 10 06:39:40 CST 2024
 Wed Jul 10 06:52:04 CST 2024
 Wed Jul 10 06:52:05 CST 2024
 添加gremmy https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jU3e2TGjdZSZmObabWzgU_EZFnWZYiiBLgL3xVsS4ROmeMQ9JNuVaqXhdvgfqDxfxLmf5vGMC9fqvW3nPWWU4Q
+Wed Jul 10 07:23:14 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcyMDYxMDU5NX0.D2_FTr-Od_oR0TXX4rrZ71CW3tnCAKCBe_LGmi6xRS5ZvxILZgdB6i2OgZrOCvxoEpiX354mrn3aAyKPC3ltpbljm9gnCh3IkkRzmaNPF2P5ayYeS4THv7_Xw5Bv5NnN
+Wed Jul 10 07:23:22 CST 2024
