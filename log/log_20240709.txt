@@ -202,3 +202,6 @@ Tue Jul 9 17:23:52 CST 2024
 Tue Jul 9 17:24:00 CST 2024
 添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P5UxB6HTcgfHINVw3cLv5n1GuC8tx9pd_AoKhllTA27cmL7l1MjIUaVGPYvq7_ogzNSr4bAgUe_6tRlKNCJxbA
 删除iminako 
+Tue Jul 9 17:41:15 CST 2024
+Tue Jul 9 17:41:24 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Wn4fgE8f5UXT9jw379WLAMzY9I3m8lp-Ak8xqJ6_ZwXrnFZ-v5dzVvvOdJxNChxbm5VOGwDgs39a_FZKqY-XXA
