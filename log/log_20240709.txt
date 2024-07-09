@@ -232,3 +232,6 @@ Tue Jul 9 19:24:21 CST 2024
 Tue Jul 9 19:40:00 CST 2024
 Tue Jul 9 19:40:20 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LQJ-_R_c80O-K7hO8g0yeGoXLqyh1xs_FXbozV-8rOjKYHqX9MRF_AyqURklzG403WQrU0SLqpcKNNyiiiY7RQ
+Tue Jul 9 19:52:01 CST 2024
+Tue Jul 9 19:52:22 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.net/hls/142493768/master/142493768_auto.m3u8
