@@ -108,3 +108,11 @@ Tue Jul 9 10:24:55 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
 删除sexygamesx 
 删除Reaowna 
+添加intim_mate https://edge7-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-66124affbf804f8b321f60453fd587a6a4aab6422ce06e377a9c70043c55349b_trns_h264/playlist.m3u8
+添加sexygamesx https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-000e204420dc4387380511e934600e0723add703a4469ca7482e007b2fed0938_trns_h264/playlist.m3u8
+Tue Jul 9 10:50:14 CST 2024
+Tue Jul 9 10:50:21 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XvNIsLMDLrQphidVWL87CvWtN1Uebhksx_MWJFRnakmzjukqYZ2eGr5lRdgbICFmzaepX38ygLkMH57uGbUIYg
+添加asuna_love https://edge-hls.doppiocdn.net/hls/86249010/master/86249010_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
