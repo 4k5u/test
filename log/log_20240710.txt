@@ -188,3 +188,6 @@ Wed Jul 10 16:36:35 CST 2024
 Wed Jul 10 16:36:50 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 删除acac88 
+Wed Jul 10 16:50:13 CST 2024
+Wed Jul 10 16:50:22 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
