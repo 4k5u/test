@@ -30,3 +30,10 @@ Thu Jul 11 01:49:10 CST 2024
 Thu Jul 11 02:01:31 CST 2024
 Thu Jul 11 02:01:38 CST 2024
 删除Hahaha_ha2 
+添加kiyoko_rin https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-5d7c41d8fb4d5d8d52993767a56d008a630abd6c5358a43b605b31444387f62e_trns_h264/playlist.m3u8
+Thu Jul 11 02:32:52 CST 2024
+Thu Jul 11 02:32:57 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.B-Zi3mZQDf_K6T6PO8MhLI4eDlGfXLe51GRlRedL9rksR72MuG87S7DjPuv5uuFicdhfJEIPEln_x4Pot00zgA
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.net/hls/83306615/master/83306615_auto.m3u8
+删除saone451 
