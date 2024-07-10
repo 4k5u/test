@@ -98,3 +98,13 @@ Wed Jul 10 07:39:55 CST 2024
 Wed Jul 10 07:52:01 CST 2024
 Wed Jul 10 07:52:04 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加oda_assuri https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-482d647e85a9d395657f0465b12425ad07c4584c16c6aecc68dceed429f18bcf_trns_h264/playlist.m3u8
+添加sexygamesx https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b0026b4f46e32319d652974db568bddda35518172d924c75614b432719880643_trns_h264/playlist.m3u8
+Wed Jul 10 09:26:10 CST 2024
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcyMDYxNzk3M30.ovh8ciTa33-2zqFupN-KOGJL_YaU4iiM7G4hrTm5UpLHou-y15JzRni6ywGjK8l1xBYgzNF3KpKj3lJGFBNUUerj3Kk_NEQRedGrThzDmYLoubCo2fuoLwfBtBmqCMNl
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcyMDYxNzk4MH0.cnghRTOEfvOBzih0AxZsXsV2MvaFSpUvuyKQWeZgbB1h6xmAzOpTti_X7Rx4c1pe2SL0hf79xbapj3W6IffbXK9T2wR2o7AbYfwymJS53AyEHs_XHLuz-uRm5zmuptsm
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcyMDYxNzk4N30.cJRXvpCnjWXL0otDt3pzFPQYefdVg9_PMKMPCWFSXhPESacXfjauaJNcqMS1os5ORNRDPQmiwVNQH8RDsWG-t2fLXXb0CzzFZJ9-LkilYg_7kNC3LDwhWiESuxCWUxLg
+Wed Jul 10 09:26:33 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dpkxj1guvUvkAXJYwg4eWdzt3IwlGVRtx-EAtx0r4efnpBn4LOD0sr4pcJUg5121ExA5QewROdAN9qcCmk7UaA
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
