@@ -108,3 +108,11 @@ Wed Jul 10 09:26:33 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dpkxj1guvUvkAXJYwg4eWdzt3IwlGVRtx-EAtx0r4efnpBn4LOD0sr4pcJUg5121ExA5QewROdAN9qcCmk7UaA
 添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
 添加morphesoull https://edge-hls.doppiocdn.net/hls/93112603/master/93112603_auto.m3u8
+Wed Jul 10 10:24:22 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImV4cCI6MTcyMDYyMTQ2NX0.fWLTSunzVkoCL3bEa3jVTVsvltWhR0L9lCATq-sXnN3tI0sXJQ1YpSL5q1v8XHoRtGt30ofNQhlUh5VP435SNSFPy9cJEQQzH3ge6xAttk17c7z60tdQYsWu3Oab1I6D
+Wed Jul 10 10:24:37 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.net/hls/59028862/master/59028862_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.net/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty 
+删除gremmy 
