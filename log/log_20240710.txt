@@ -201,3 +201,6 @@ Wed Jul 10 17:27:07 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FsS6U_u0-oVWRgtfxCT54Uwwn7h5sBOuwbHv3N8w9fbX6azVvIdkVRapcDND0xi4OwFXJf2Ln7D1sDGmq7U4Zw
 删除oda_assuri 
 删除Judy0523 
+Wed Jul 10 17:39:26 CST 2024
+添加cool3333 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bOcp3E4oOz75.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JPY3AzRTRvT3o3NSIsImV4cCI6MTcyMDY0NzU3MX0.QfL7YApsxFkj58IlqT1W_LqpzHV0e74QlZPeWroiBmlkc0vhnE1TrdtQ82bYrJJsppY9ZV-3dbiB3Yy5frykGTpdQUuOqr9PhGXWgrppoJhDCmrwqe1e53L1rDgzA-vd
+Wed Jul 10 17:39:40 CST 2024
