@@ -78,3 +78,6 @@ Fri Jul 12 06:39:17 CST 2024
 Fri Jul 12 06:51:50 CST 2024
 Fri Jul 12 06:51:50 CST 2024
 删除TefFfish 
+Fri Jul 12 07:22:43 CST 2024
+Fri Jul 12 07:22:43 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
