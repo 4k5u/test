@@ -210,3 +210,9 @@ Thu Jul 11 17:59:48 CST 2024
 Thu Jul 11 17:59:55 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.R2UDBHx9h6wCP7SnecAdNV7BnC6vJMubPRUhzJTfMZX6jaVlpZyMVkOIgShpMtC_GsW21zikrmm_FWk3REOxVw
 删除leelate 
+添加iminako https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-cc7cbdd8ae02f6c78b5a8c77b83028f96b79e2bf44c5e4e5dc1ab5121d0d2768_trns_h264/playlist.m3u8
+Thu Jul 11 18:25:13 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImV4cCI6MTcyMDczNjcxNH0.LmQHlpqu3ndU3Zw0vOW68MYkfYOijC7a20Jwv3QtDGW01oP8NgJya_U1O9kQCdARC7UkcLcbFZe1PG6UUsxNXy3WyOW5BAWw0sTnMq7aCcMkxgCwgNKQpYMkFkMzkA3k
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Rf12fK88wwmi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JmMTJmSzg4d3dtaSIsImV4cCI6MTcyMDczNjcyMn0.nIJpjUFWbep2xpucZWh5TeF8Wkvsyo_gBAjknZwiesMeNDRk4SsxrLIfwStK7mmpkkU5xIiUCP1Kg-bTJhKooEexwd28_FnJWN9X2-dRayGEIiPXn17da5EjnqR30z19
+Thu Jul 11 18:25:34 CST 2024
+删除Judy0523 
