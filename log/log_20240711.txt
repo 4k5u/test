@@ -90,3 +90,6 @@ Thu Jul 11 07:49:30 CST 2024
 Thu Jul 11 07:49:33 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除likecho 
+Thu Jul 11 08:02:19 CST 2024
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImV4cCI6MTcyMDY5OTM0Mn0.6HkR5le3KoEAs01HgvlVGjZqv_HBdh-c-qMbPuzYbo_EcgTrknr_cWmM26PEcvOMUxK-QLUBdzbJM8NJU4FV1ES2i6hvVq4KKlWpUGmbg1dz0Eb05oJOHqZJk7uD8Z4s
+Thu Jul 11 08:02:29 CST 2024
