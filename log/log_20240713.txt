@@ -79,3 +79,6 @@ Sat Jul 13 06:24:02 CST 2024
 Sat Jul 13 06:24:02 CST 2024
 删除3ww1ww3 
 删除Witcher_DK 
+Sat Jul 13 06:42:07 CST 2024
+Sat Jul 13 06:42:07 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
