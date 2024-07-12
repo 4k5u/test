@@ -74,3 +74,8 @@ Sat Jul 13 05:49:26 CST 2024
 Sat Jul 13 06:01:29 CST 2024
 Sat Jul 13 06:01:32 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7791fa0c6db8bb84009e0726dc9684bc91515e8133192cabac955472f04bc589_trns_h264/playlist.m3u8
+Sat Jul 13 06:24:02 CST 2024
+Sat Jul 13 06:24:02 CST 2024
+删除3ww1ww3 
+删除Witcher_DK 
