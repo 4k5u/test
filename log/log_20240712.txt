@@ -153,3 +153,6 @@ Fri Jul 12 14:33:38 CST 2024
 Fri Jul 12 14:33:46 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.net/hls/117971546/master/117971546_auto.m3u8
 删除getme1004 
+Fri Jul 12 14:49:28 CST 2024
+Fri Jul 12 14:49:33 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
