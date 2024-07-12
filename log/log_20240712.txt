@@ -162,3 +162,8 @@ Fri Jul 12 15:01:50 CST 2024
 删除Xenomy 
 删除SanySenise 
 删除oki_dokie 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-079dc787a114276e8704427ece41d068bcffe7702b8a9d263f6feeba4df68032_trns_h264/playlist.m3u8
+Fri Jul 12 15:26:07 CST 2024
+Fri Jul 12 15:26:09 CST 2024
+删除Dolv_1o 
+删除oki_dokie 
