@@ -84,3 +84,7 @@ Sat Jul 13 06:42:07 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
 Sat Jul 13 06:53:07 CST 2024
 Sat Jul 13 06:53:07 CST 2024
+Sat Jul 13 07:19:43 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImV4cCI6MTcyMDg2OTU4NX0.aXdNvQAE3he1ybrF2y7aO-5nUUFA2zc_gfuHVUsD1yCRI53Id4ghUMpYiUTK4oPdl5qT9DuAfH-SxXu8CsGrYhAn6PYL-UieS5_Z4JkQAC8sktan74OZNXQWXKpd6oWO
+Sat Jul 13 07:19:50 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
