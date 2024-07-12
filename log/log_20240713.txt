@@ -33,3 +33,7 @@ Sat Jul 13 02:14:55 CST 2024
 Sat Jul 13 02:39:24 CST 2024
 Sat Jul 13 02:39:30 CST 2024
 删除glglehddl 
+添加kiyoko_rin https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-335e8d7d9a3feeb6e70d394323d362b86e8fea1a0a4be9d0dd23175740b46aac_trns_h264/playlist.m3u8
+Sat Jul 13 02:51:03 CST 2024
+Sat Jul 13 02:51:10 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.net/hls/121137535/master/121137535_auto.m3u8
