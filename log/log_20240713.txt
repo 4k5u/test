@@ -272,3 +272,10 @@ Sat Jul 13 20:58:17 CST 2024
 添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i-OS-jJLTUTeKVnrkhzR7SOHCP3Qkf3kVdQ1OJ7w0Bl0zhc_aJvrHN7h0NaN0ocM6lP3ixohKiF6kdH30myaqw
 删除foxylovesyou 
 删除kkkku96 
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2a763bfad00a099a2d207621e91ebb9dffbdad5dfcdf7de5280403d7179641df_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-82ab9df017fb20e5adbf72f7fa09339119c3ec035202439e6e3258f1de3cbd38_trns_h264/playlist.m3u8
+Sat Jul 13 21:23:54 CST 2024
+添加stuiliillive https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.edIsqNIAqF2h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VkSXNxTklBcUYyaCIsImV4cCI6MTcyMDkyMDI0NH0.zfXIXbzIlj6gu0hEoKuYpTaiCZuk15i0TWy0qhc5Xuwdchqyq_zafGrcvv5pxl8KCCJnGembraNCWXAyRRtun-Dtu8ALZvBaUf0EwfyDtblHnobR2FRTStLOTXjEgXxz
+Sat Jul 13 21:24:21 CST 2024
+删除mikio_san 
+删除JP-KARIN 
