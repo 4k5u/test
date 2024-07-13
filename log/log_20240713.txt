@@ -116,3 +116,7 @@ Sat Jul 13 11:00:40 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Uk7B9i3oIoWQDB0NpDbsRUoerAsPMbeLq9aLreEBT0CbNYjYKTmJI0Bi6txaaec6iN0ojzcRrhXo3XkgndPOsw
 删除IdaJonesy 
 删除sexygamesx 
+Sat Jul 13 11:25:08 CST 2024
+Sat Jul 13 11:25:12 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
