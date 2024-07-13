@@ -249,3 +249,8 @@ Sat Jul 13 19:18:09 CST 2024
 Sat Jul 13 19:29:23 CST 2024
 Sat Jul 13 19:29:42 CST 2024
 删除your_desssert 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3430b8ece2f171f1176f32d52ab48ff7a0f3de019f18a890f24c8267e17a51ea_trns_h264/playlist.m3u8
+Sat Jul 13 19:42:04 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcyMDkxNDEyN30.s_pvHrbCDV17IFvFmhHkAuvRYJgL0-0R4QbjMvB_pjtOgWb4zJvxp6Nzuw27nKBQgu7bfNZQ4lz2VbiRq4kXGs8S9LMF4YF_Z-0yXQuh28n-0RVCtALULnKWfrUxaxcy
+Sat Jul 13 19:42:27 CST 2024
+删除honey_pinkgreen 
