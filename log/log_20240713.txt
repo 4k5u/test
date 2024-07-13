@@ -178,3 +178,6 @@ Sat Jul 13 15:21:32 CST 2024
 Sat Jul 13 15:21:50 CST 2024
 添加alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g97kf7j5eGgOFV4AfN201gXq55kntfOTfeRZvm6P6XXiiwZg_2yIc4KG8WCwH_CgFgGkDcFQurZMz8wtQHxVYQ
 删除Xenomy 
+Sat Jul 13 15:32:22 CST 2024
+Sat Jul 13 15:32:35 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
