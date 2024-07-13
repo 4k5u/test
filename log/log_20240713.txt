@@ -94,3 +94,10 @@ Sat Jul 13 07:43:48 CST 2024
 Sat Jul 13 07:43:51 CST 2024
 Sat Jul 13 07:59:32 CST 2024
 Sat Jul 13 07:59:34 CST 2024
+添加oda_assuri https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-c438994b6f4d993a8198ec8fb5193bc9d66078e49892320f3712a43a287d45e8_trns_h264/playlist.m3u8
+Sat Jul 13 09:37:40 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcyMDg3Nzg2M30.Cvw96CGXEeTDg4vfKTgRzNoAY5HNHhyGEQflYwYMJK7MIe8uYcNwG4BRO8m4ES6r-8m6L_qVwnYQLHziOOfCFQqKU8V89iz_rcJXBYdlJAgZcEuFORt305uNN9ebf17v
+Sat Jul 13 09:37:48 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.net/hls/109536267/master/109536267_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
