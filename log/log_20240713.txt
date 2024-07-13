@@ -237,3 +237,12 @@ Sat Jul 13 18:41:33 CST 2024
 Sat Jul 13 18:53:56 CST 2024
 Sat Jul 13 18:54:08 CST 2024
 删除Judy0523 
+添加iminako https://edge6-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-e35cbc66c368b102444429ff56b1132d570440de2b98c1d4ff0260550e26f186_trns_h264/playlist.m3u8
+Sat Jul 13 19:17:39 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcyMDkxMjY2OX0.XamJ64afuO5kqRndI88ZLriybj55ZGBKuxq1XOBFk2kTRikR9EMNXh3yQb-z5pHAuSYHsu0UA-tchujI7nlk8tVr4syZux5E_QA-Mc0LkWu0Fcx222nHi0Eq8SWrM2rZ
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcyMDkxMjY3NX0.l3O8hd62MNSleFFUBKG-CPsuBC4A7cZaftezoGcuPIqSDd5kk7V_-h_l1WjRP33o6W8kCF3v8XHQWr5g6Ts9RzMUMyO5B6PoCpOfOCFHqesJeafKNmb8lOm2l7_QUS0p
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.w0SuMFAHIIqr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3cwU3VNRkFISUlxciIsImV4cCI6MTcyMDkxMjY4M30.6Ox0yLwC1LTblUC_CDnI7Skhpl2JpJ97gDy3fYIQCH6SPnv0YsrBFMLXhvvgRyn4HytQv-edT0DsVPMkf7EQtLIOrP3z4KhZ-XfYIOo28WZzzrAgEM_PVO5i_G5q8o4C
+Sat Jul 13 19:18:09 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WEKAHDmrN2fLcV4EVyXBeoX0qmUZdHvkp5OyMpxxxBNAfRNOG0dF2ZxbhwzGJUkUWi-qs_B8aUumPVIC9RrWAA
+添加JP-KARIN https://edge-hls.doppiocdn.net/hls/118658626/master/118658626_auto.m3u8
+删除alswl2208 
