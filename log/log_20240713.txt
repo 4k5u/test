@@ -225,3 +225,9 @@ Sat Jul 13 18:01:37 CST 2024
 Sat Jul 13 18:01:47 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
 删除cuddles_me 
+Sat Jul 13 18:29:24 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcyMDkwOTc2Nn0.ajpaP1UgBsz8KHQ2b5UnqHbeFpg451YJFdC9XojZkNAOq-oPlUncavkf9fpO4Qxn_uO_LO8PeoLBjt6avGGUR_47uRee8f92yhZ7gTmnv-CL2slX6-bkijDVcW6a5BTr
+Sat Jul 13 18:29:41 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rH8htmaAE9fXapDC9y9btoZSj_iVdPj6kw3dzOF5Jlo6RLw-gTzqR5Sl8oyx5s7DoKzMEUb7rOcyo9IF51UrGw
+删除mode_bad 
+删除oki_dokie 
