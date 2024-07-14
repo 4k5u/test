@@ -256,3 +256,14 @@ Sun Jul 14 20:56:58 CST 2024
 删除happyy2 
 删除navi04 
 删除ake_mi 
+Sun Jul 14 21:32:07 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImV4cCI6MTcyMTAwNzEzOX0.BHbe21ajLGU7XFV-dgPU1o7iGWFkiKNqu-kX3rsW6DTBULoZU74QLptr5UjdNKOY4qmp1QUfSGpQPQhVIctwaZ02k4PGMoyXblRgmaQSDCrYHJadXNIWUzvBMQz0Irpc
+Sun Jul 14 21:32:36 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.net/hls/63188730/master/63188730_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+删除mozzzi 
+删除my_eyes_higher 
+删除20152022 
+删除muse62 
+删除cuddles_me 
+删除EmiliaGuess 
