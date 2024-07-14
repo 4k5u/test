@@ -66,3 +66,7 @@ Mon Jul 15 06:00:27 CST 2024
 Mon Jul 15 06:00:27 CST 2024
 Mon Jul 15 06:23:52 CST 2024
 Mon Jul 15 06:23:53 CST 2024
+添加mazzanti_ https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-02e3ab10c15548a54522fc505bea7b186c7fb6b672980050bf0a69071114c12d_trns_h264/playlist.m3u8
+Mon Jul 15 06:40:33 CST 2024
+Mon Jul 15 06:40:34 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
