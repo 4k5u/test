@@ -286,3 +286,12 @@ Sun Jul 14 22:59:28 CST 2024
 Sun Jul 14 22:59:50 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Bftk9Bgh4gQs5NeWHOIm95pcdnEaINbgVuD_sKazy7AYa0k6L185dl6taS44DHRFe1g95Ax0_G-pN42geKPi0w
 删除lovesong2 
+Sun Jul 14 23:32:54 CST 2024
+添加stuiliillive https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.edIsqNIAqF2h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VkSXNxTklBcUYyaCIsImV4cCI6MTcyMTAxNDM4MX0.Av0S0sj2NHkFFQqm1BYkP-BYUvTgQ-oRXRg9PPYeckeNUm-9Q2x-8bH0vFZXm2L_4qTNoFIXiGreOSn1t8-fJlRW_KnQopADmPAAhCdUU7wMBOCY3tJq3skok5his48h
+Sun Jul 14 23:33:18 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OWWLpXTzmf76brxrJeVj7kpXrjTSET5hIIvuQ7BWIZhMNCIWgk65qfkDqoNK4sbHUWq5jRcpZnGSEgzXMjIqtw
+添加alicelebel https://edge-hls.doppiocdn.net/hls/130863680/master/130863680_auto.m3u8
+删除mikio_san 
+删除your_desssert 
+删除emforhs1919 
+删除54soda 
