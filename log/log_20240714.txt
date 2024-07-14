@@ -159,3 +159,8 @@ Sun Jul 14 13:54:01 CST 2024
 Sun Jul 14 13:54:12 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.net/hls/126903397/master/126903397_auto.m3u8
 删除Ryo-sama 
+Sun Jul 14 14:29:40 CST 2024
+添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImV4cCI6MTcyMDk4MTc4Mn0.hQ45icnzPFFY7U1CeDyf8TgwAL55BsE7zSfwYYqmnuo84l7cMFT3tAIQRD2pH8uFax28cqxBbD7Y3KC8FoMosd1r_vfaJEn-6JT2eT7ew8SlINVekYJPxJA2lGYl14Wv
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImV4cCI6MTcyMDk4MTc5M30.hAvBmeewfblXPkIuXArrv4KNnHToXUTt6YBW8tBAo9lP_TlUW_KpY53Yh9VOiCRSjMhjv2dVDxR4tiMV4wpLGoIBxEJW2H1LzfyWF2atYwIrCRPmBPSmvzQqf7Ibq9wx
+Sun Jul 14 14:30:02 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HcqWWkbdM9ZSIqU3Lc57--r58jRTSCnkIw8YINusJDhLPi2Algt1qe6oa9D5ydosIJtpFjcPhmuEuRjk_wdR0A
