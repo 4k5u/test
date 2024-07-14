@@ -109,3 +109,10 @@ Sun Jul 14 07:40:15 CST 2024
 删除y1026 
 Sun Jul 14 07:52:39 CST 2024
 Sun Jul 14 07:52:43 CST 2024
+添加oda_assuri https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-80a4701c0c8c56d50b790698ca6447a5f907d54987636af745e5dfcc18d58cfd_trns_h264/playlist.m3u8
+Sun Jul 14 09:38:17 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcyMDk2NDMwMn0.KslOKOOVPYWrB7_jgIFgkQLp-I2YBdOy81uOnvn8THax3gyFD1LTwHpo3euJHfA9K6rtdAxZLi1vDDv9NC4G0ll6MZsO5XFLN1Ts0VppAQW990LsPVg8NQOaPjnQQ7dL
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImV4cCI6MTcyMDk2NDMwOH0.zcPAlbE4CsI7WcbuK8XorbF55nQhtO-b4daNx7wVAdmVKz2ahwWw003LTax0wtv9mBshgNYtU7C_66deedtcRiObG--w45JWdvgWiSkDQHFUy61H7g7-BTYsEQgLyK1N
+Sun Jul 14 09:38:33 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.net/hls/149392038/master/149392038_auto.m3u8
