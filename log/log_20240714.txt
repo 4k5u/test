@@ -203,3 +203,8 @@ Sun Jul 14 16:43:58 CST 2024
 添加your_desssert https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-cfb1ecff0029f658cd27f98b7eed843d9853f801990051d7a1ba3a9aba28b17c_trns_h264/playlist.m3u8
 Sun Jul 14 16:59:12 CST 2024
 Sun Jul 14 16:59:26 CST 2024
+Sun Jul 14 17:26:59 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImV4cCI6MTcyMDk5MjQyMX0.ALl4bsmAK8qrDntf7T8zFFJG0zmcrW30rpVFQZbrCaoJvNht6LlOk__AeQo5CCaUT3giew2xCbBiVjVl38qBBqfeyc3Pnbau9FMn2s4vnb0Hw3YRmA6ZPUI-cRIAVbaD
+Sun Jul 14 17:27:17 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VvNY8L-efoF1Xx58AXgyJD3xJL_4DlTlQSmKXmr-cY_uZsxO8d8PcJITEFfDzTdRjfkOimS0S7z9Pz6fpMwDtw
+删除cuddles_me 
