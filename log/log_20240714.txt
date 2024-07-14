@@ -225,3 +225,11 @@ Sun Jul 14 18:43:25 CST 2024
 Sun Jul 14 18:59:30 CST 2024
 Sun Jul 14 18:59:44 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加honey_pinkgreen https://edge14-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2848f1196e0dadd461f1c27016d6b0c3fc64a4a1e10ddc7a7b33a7bb929e3d3d_trns_h264/playlist.m3u8
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-c28f33849840a2e95f523996711a16753196ef3c78799618bdae4cb478de76d8_trns_h264/playlist.m3u8
+Sun Jul 14 19:20:51 CST 2024
+添加jubin0725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I1CMFNFXVfq3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0kxQ01GTkZYVmZxMyIsImV4cCI6MTcyMDk5OTI1N30.XHEtOW9yKzrzIu-LDkbXCf5eQaFPXGL3P9cfZfrOpuL-klqQeU4AlG1mZ8nuB6rICWW9rtblZJmUx4nGm5MDZLTW9TdHyAMSx9F4kfZvQV1suB_rxzxy_RHJWkfiUIrw
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImV4cCI6MTcyMDk5OTI2NH0.8-Ci-MXWsgkTySoVzeItiIiyI1pmWCCJhk2F_x4jPe7Rtivb5YpzPMCAryOwe_bMdVT9O0PiOh3wytcgVEh-iI_NAEJs3j45w88xz2DpnvVC-PXafc_bruJt3L8nUUdO
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImV4cCI6MTcyMDk5OTI3MH0.Kc8E3CrDBrwbaGN9I5oJaylda6qnY4c04rcgoSOS4Ch-aRxpuUFndZYdp9f_biCgc7qv6bjsbSHyA2mRBq72Xuzv6Ftb1hiymksUSw1g_3KXFa_MqGrj5Lyjpff4RhPr
+Sun Jul 14 19:21:23 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J6rw0o5Venucnz__iXvp_-8FbhN67uLmCppeRN_RT2nr3sy6yVT8bw-9N-g-A0q4zaJyTlM-KrcXcE0dEiXIKw
