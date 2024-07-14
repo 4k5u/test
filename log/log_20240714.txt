@@ -174,3 +174,7 @@ Sun Jul 14 14:59:16 CST 2024
 添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mCmhQd81Qxa9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21DbWhRZDgxUXhhOSIsImV4cCI6MTcyMDk4MzU2Mn0.-rhSxBiOuErccyZp7mPAx63VKENrUJjFcqi6b0ugT6LbE-YQhKNC5kZl84lO3pJVlQWhWw8wAJu73mootsPhMwFhymRHByEiAvRVLsfzlBbGRUoFn5TJhOGFFKnwUjrc
 Sun Jul 14 14:59:32 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-89f581e3ea0971c5a94aba0994b1a5eee9ea000eca2b01dfd5992d7e0757b545_trns_h264/playlist.m3u8
+Sun Jul 14 15:23:15 CST 2024
+Sun Jul 14 15:23:25 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.net/hls/130468819/master/130468819_auto.m3u8
