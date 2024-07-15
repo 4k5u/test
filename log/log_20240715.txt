@@ -84,3 +84,11 @@ Mon Jul 15 07:49:40 CST 2024
 Mon Jul 15 08:01:49 CST 2024
 Mon Jul 15 08:01:54 CST 2024
 删除TefFfish 
+添加oda_assuri https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-270328683fdb0c042ecad9fca1867b560aaf610ce762660057c84729327c594b_trns_h264/playlist.m3u8
+Mon Jul 15 09:44:12 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImV4cCI6MTcyMTA1MTA1OH0.1c7rFKn-cVyXnN1j7BzG3j25xqB0LD1KwIabkhfOK7dNkJAak-db5JDp35jBgWW08U7Ne5t8OHu_5L8baHC0Kua29649czXkPw96pwIRCK75yzwD8ONj5crEz8z1FHHC
+Mon Jul 15 09:44:24 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vEFmmpqlRaST498l69T-XWrKa4AngD8nRkErvB8vX1SN3juatBtK2X4ikbbEhZd_5w3G_8nfQME09Cjgnvk8ng
+添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
+删除mazzanti_ 
