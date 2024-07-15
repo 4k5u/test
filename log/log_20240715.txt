@@ -92,3 +92,9 @@ Mon Jul 15 09:44:24 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.net/hls/134198227/master/134198227_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.net/hls/113460501/master/113460501_auto.m3u8
 删除mazzanti_ 
+Mon Jul 15 10:33:28 CST 2024
+Mon Jul 15 10:33:34 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
+删除somsom0339 
