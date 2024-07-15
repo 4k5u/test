@@ -128,3 +128,8 @@ Mon Jul 15 13:00:03 CST 2024
 Mon Jul 15 13:00:13 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
 删除sigmasian 
+Mon Jul 15 13:24:08 CST 2024
+Mon Jul 15 13:24:12 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.net/hls/110682488/master/110682488_auto.m3u8
+删除jjine0127 
+删除EmiliaGuess 
