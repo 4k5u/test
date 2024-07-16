@@ -32,3 +32,10 @@ Tue Jul 16 09:43:24 CST 2024
 删除dkdlfjqm758 
 删除ahri0801 
 删除Sime_Naughty 
+Tue Jul 16 10:30:02 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImV4cCI6MTcyMTE0MDIwN30.mcRP1zDRnM0znwkCOQ18c-MPrAcojHfwVpv2sxmIxKnYvVT7zjQ3oXuuxcGIKOHctt0ySU9bgNpS7WFPlMa_o3qdA5H0sE5aFJ-BYBWh8eW6o9IpJSUhDCSaZOpZGL4g
+Tue Jul 16 10:30:15 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.net/hls/68025190/master/68025190_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.net/hls/92077818/master/92077818_auto.m3u8
+删除kiyoko_rin 
+删除Akiyama_Key 
