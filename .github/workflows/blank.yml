@@ -5,8 +5,8 @@ name: CI
 # Controls when the workflow will run
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/10 * * * *'
+#  schedule:
+#    - cron: '*/10 * * * *'
     
 env:
   TZ: Asia/Shanghai
