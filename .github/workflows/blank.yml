@@ -36,6 +36,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
           M3U8SITE: ${{ secrets.M3U8SITE }}
           AFCOOKIE: ${{ secrets.AFCOOKIE }}
+          PDAPI: ${{ secrets.PDAPI }}
       - name: commit
         run: |
           git config --global user.email "you@example.com"
