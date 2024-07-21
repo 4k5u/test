@@ -78,3 +78,6 @@ Sun Jul 21 16:16:38 CST 2024
 Sun Jul 21 16:32:51 CST 2024
 Sun Jul 21 16:32:58 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.net/hls/91712823/master/91712823_auto.m3u8
+Sun Jul 21 16:46:34 CST 2024
+Sun Jul 21 16:46:41 CST 2024
+添加alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HkSOBhsrQb9ybbegFmrEVbtnADW7rTw36YAdAqVAZZA-Ey-fsfzjGrjolhQj0DIBwiay5y5G1k5kjfVdtWLj3A
