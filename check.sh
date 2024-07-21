@@ -1,5 +1,6 @@
 #!/bin/bash
 synctv="$SYNCTV"
+pdapi="$PDAPI"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 while IFS= read -r line || [ -n "$line" ]
 do
@@ -9,10 +10,19 @@ do
     roomToken=$(echo "$line" | cut -d ' ' -f3)
     url=$(echo "$line" | cut -d ' ' -f4)
     # 使用curl检测URL的可用性
-    if curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
+    # 检测URL是否包含特定字符串
+    if [[ "$url" == *"https://ffdced"* ]]; then
+        json_response=$(curl -s "${pdapi}/v1/member/bj?info=media&userId=${userId}" | jq .media)
+        if [[ "$json_response" == "null" || -z "$json_response" ]]; then
+            echo "$userId 已下播, 删除房间, 删除记录" 
+            echo -e "删除$userId $hls">> $logfile
+            curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -w "%{http_code}" -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}"  --data-raw "{\"roomid\": \"${roomid}\"}" -X POST "${synctv}/api/room/admin/delete"
+            sed -i "\~$url~d" data.txt
+        fi
+    elif curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
-        http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
+        #http_code=`curl -o /dev/null -s -w "%{http_code}"  "${synctv}/web/"`
         #if [ "$http_code" -ne 200 ]; then
             #echo -e "$userId直播源失效, 网站不能访问，不执行删除操作。"
         #else
