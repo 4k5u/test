@@ -31,7 +31,7 @@ unreachableIds=()
         echo "开始获取直播源"
         if [ "${islive}" == true ]; then
             echo "${userId}获取成功。"
-            hls="https://edge-hls.doppiocdn.net/hls/${sid}/master/${sid}_auto.m3u8"
+            hls="https://edge-hls.doppiocdn.live/hls/${sid}/master/${sid}_auto.m3u8"
             echo "直播源：$hls"
             echo "开始创建房间" 
             room=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H 'accept:application/json, text/plain, */*' -H "authorization:${userToken}" --data-raw "{\"roomName\":\"ST_${userId}\",\"password\":\"\",\"setting\": {\"hidden\": false}}" -X POST "${synctv}/api/room/create"`
