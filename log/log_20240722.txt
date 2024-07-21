@@ -87,3 +87,8 @@ Mon Jul 22 06:31:35 CST 2024
 Mon Jul 22 06:31:36 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Sime_Naughty 
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8ca06354b4904ea34a7897b16b900add931babc4991ad5b579c6e2073938cf6_trns_h264/playlist.m3u8
+Mon Jul 22 06:47:26 CST 2024
+Mon Jul 22 06:47:27 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除mazzanti_ 
