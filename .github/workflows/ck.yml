@@ -8,8 +8,8 @@ on:
   workflow_dispatch:
 #  schedule:
 #    - cron: '*/30 * * * *'
-  repository_dispatch:
-    types: [trigger_workflow]
+#  repository_dispatch:
+#    types: [trigger_workflow]
     
 env:
   TZ: Asia/Shanghai
