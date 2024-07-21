@@ -9,6 +9,7 @@ synctv="$SYNCTV"
 username="$USERNAME"
 password="$PASSWORD"
 m3u8site="$M3U8SITE"
+pdapi="$PDAPI"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
 
@@ -20,7 +21,7 @@ fetch_json() {
     json=$(curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 \
         -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" \
         -H "cookie:${cookie}" \
-        -X POST  "https://api.pandalive.co.kr/v1/live?offset=${offset}&limit=${limit}&orderBy=hot&onlyNewBj=N")
+        -X POST  "${pdapi}/v1/live?offset=${offset}&limit=${limit}&orderBy=hot&onlyNewBj=N")
     echo "$json"
 }
 # 主要脚本
@@ -109,7 +110,7 @@ unreachableIds=()
         if grep -q "${userId}" data.txt; then
             echo "The UID $userId exists in data.txt"
         else
-            json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "https://api.pandalive.co.kr/v1/live/play?action=watch&userId=${userId}"` 
+            json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H 'x-device-info:{"t":"webMobile","v":"1.0","ui":24631221}' -H "cookie:${cookie}" -X POST  "${pdapi}/v1/live/play?action=watch&userId=${userId}"` 
             hls=`echo $json| jq -r .PlayList.hls[0].url`
             img=`echo $json| jq -r .media.ivsThumbnail`
             startTime=`echo "$json"| jq -r .media.startTime`
