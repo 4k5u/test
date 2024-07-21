@@ -50,8 +50,9 @@ function delroom(){
     else
         echo -e "$moviename直播源失效, 删除房间, 删除记录  - $url"
         curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -w "%{http_code}" -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}"  --data-raw "{\"roomid\": \"${roomid}\"}" -X POST "${synctv}/api/room/admin/delete"
-            sed -i "\~$url~d" data.txt
-            # 使用sed命令从文件中删除包含该URL的整行
+        # 使用sed命令从文件中删除包含该URL的整行    
+        #sed -i "\~$url~d" data.txt
+            
     fi
   done
 }
