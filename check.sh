@@ -18,7 +18,10 @@ do
             echo -e "删除$userId $hls">> $logfile
             curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -w "%{http_code}" -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}"  --data-raw "{\"roomid\": \"${roomid}\"}" -X POST "${synctv}/api/room/admin/delete"
             sed -i "\~$url~d" data.txt
+        else
+            echo "$userId 直播源有效"
         fi
+        
     elif curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
