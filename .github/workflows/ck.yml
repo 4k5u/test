@@ -3,10 +3,13 @@
 name: Ckeck
 
 # Controls when the workflow will run
+
 on:
   workflow_dispatch:
 #  schedule:
 #    - cron: '*/30 * * * *'
+  repository_dispatch:
+    types: [trigger_workflow]
     
 env:
   TZ: Asia/Shanghai
