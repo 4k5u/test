@@ -230,3 +230,6 @@ Mon Jul 22 17:17:48 CST 2024
 Mon Jul 22 17:17:53 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AphxBahCfJCOQE4yLCc4vhd9LP-L1yt5FY5wahXDgyBGtuGnldnmbm3p2eZjoqyYrXPzN2b5Vba3a_Ryokro_g
 删除oda_assuri 
+Mon Jul 22 17:32:41 CST 2024
+Mon Jul 22 17:32:46 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
