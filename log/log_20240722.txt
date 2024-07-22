@@ -246,3 +246,7 @@ Mon Jul 22 18:17:07 CST 2024
 Mon Jul 22 18:17:31 CST 2024
 删除oki_dokie 
 删除sexygamesx 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9940478c87ff0bdf74aea00fcf72d84b84d8b215b1cbbaeba3c4432ec9de6cc7_trns_h264/playlist.m3u8
+Mon Jul 22 18:31:37 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMzk2NEJGQy0zMDUyLTQ4QTEtQjQ1Ri04MDdEMkIyRDIzODkiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE2NDQzMDgsImV4cCI6MTcyMTY0NDkwOH0.Fu4EXkRSJIwzyqVi_jbXvcV1JmaDxU_fiidHrnsIh05uDmkvOUnMflz8qunz1tpoQ6qk5OB8RAZWAxad7xp0uS8rWRfyefWkNoshn8yPS03sf37PaBOx3lWkghV0ffAV
+Mon Jul 22 18:31:54 CST 2024
