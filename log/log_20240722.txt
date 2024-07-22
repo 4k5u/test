@@ -328,3 +328,8 @@ Mon Jul 22 21:47:59 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除lovesong2 
+Mon Jul 22 22:01:40 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qYT16cXxu2lh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FZVDE2Y1h4dTJsaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMzcwMEIwOS1DOTZGLTRGODktQjgxMi0yQjlBNDQwOEUzREUiLCJ2aWV3ZXItaWQiOiIyNDc2ODEwNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE2NTY5MTcsImV4cCI6MTcyMTY1NzUxN30.mVNJFHNcuaGycNCB7jWTcRSr_z8vLGaAfdcS5kr5lOtTk6gD5kxlVnHyob-zjzsuOcmsyH0I7kbT1vbv5lPhUKmPn1amxyCTKpzAbVSYhPi3Dr1cKqsotwELVV2jclO9
+Mon Jul 22 22:02:17 CST 2024
+删除lovable12 
+删除lovemeimscared 
