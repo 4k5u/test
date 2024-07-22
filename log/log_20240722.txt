@@ -235,3 +235,8 @@ Mon Jul 22 17:32:46 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 Mon Jul 22 17:46:47 CST 2024
 Mon Jul 22 17:46:51 CST 2024
+Mon Jul 22 18:01:54 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMTdERDVGRS0zQTc3LTQzRkMtQkMzOS04MTZCQzVCMzc1QjAiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE2NDI1MjMsImV4cCI6MTcyMTY0MzEyM30.eR0-SOebVAAKF1WxI14OUFveH1YsbgZMg9CB-y-5EeXW0IXkQ3UnetGbd85kD5R6TvqQZ6U8u_rTW3XnXTuAddSUo6g8ySm3nBJjgRC8P0LsPLYguHgtsMNbUN0Aw8ow
+Mon Jul 22 18:02:13 CST 2024
+删除_PunPun18 
+删除your_desssert 
