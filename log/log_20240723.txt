@@ -93,3 +93,7 @@ Tue Jul 23 07:16:44 CST 2024
 Tue Jul 23 07:31:34 CST 2024
 Tue Jul 23 07:31:43 CST 2024
 删除mazzanti_ 
+添加mazzanti_ https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-104135050bc7e3eaf9dc1b3bf747289a0dbcc9f5c0a08cbeb092c98975aad6f2_trns_h264/playlist.m3u8
+Tue Jul 23 07:46:32 CST 2024
+Tue Jul 23 07:46:40 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
