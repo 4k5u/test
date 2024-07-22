@@ -268,3 +268,10 @@ Mon Jul 22 19:16:37 CST 2024
 Mon Jul 22 19:17:28 CST 2024
 删除leelate 
 删除onlyone521 
+Mon Jul 22 19:32:12 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMkUxNkU2My1GMTU3LTRCMjktQkIxMC00RTk0RDFBRDNENDUiLCJ2aWV3ZXItaWQiOiIyNDAyNzg2NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE2NDc5ODcsImV4cCI6MTcyMTY0ODU4N30.6bxCtyui8ypRqpARuVp3YcuhuhNE08ZA9buuFaqKD16oAiPC2PN1qcQ4MxR6kXWC8joLmNbwpKEyhcrc4SNhQ45UiGdV1JdCddrwcPY1OpDUw0ObrKacsUg_aQ0y-7Ta
+Mon Jul 22 19:33:21 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.af3J9UTKy1kdxfRezNDMTeQxMX6t3LFhE7-9hRyxnydZIfb_5n_xrmjbMcRevVFVtQj-E-h9I8A7hmSs_Ld1Mw
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bS77JLLxKFKhBHjROwGgS4QuPAsCMBkHKD0-pd45wMTO6KsuMtfjV4SQCNwIDAO2VrkNNDcla52zDFULgLzwpQ
+删除soso621 
+删除lovesong2 
