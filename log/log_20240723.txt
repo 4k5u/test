@@ -153,3 +153,7 @@ Tue Jul 23 11:32:03 CST 2024
 Tue Jul 23 11:32:15 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除somsom0339 
+添加intim_mate https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-111949543c836679870634ef5c9fcafbff3bd38123b3bbc6c1ab790e52102f75_trns_h264/playlist.m3u8
+Tue Jul 23 11:46:37 CST 2024
+Tue Jul 23 11:46:49 CST 2024
+添加_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
