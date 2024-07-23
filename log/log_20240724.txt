@@ -82,3 +82,7 @@ Wed Jul 24 04:31:51 CST 2024
 添加hotse777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mCmhQd81Qxa9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21DbWhRZDgxUXhhOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRUUxMjZENi1ENDdBLTQ2OEYtOTZCMS0wQjA5NDk5MUE4OUMiLCJ2aWV3ZXItaWQiOiIyNDkwMzI2NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE3NjY3MTMsImV4cCI6MTcyMTc2NzMxM30.WQGRvZQ7_Tveil4y_eYIUaAMMg_yeyXxoQ4Arp5SuEGGmH-nJwMmg6nM52eZ7mfZTvv1c8hgeMSetcvhwaygNjaLxKVjaO2AHv-vGc7nf7Xilj_3LzY64lW-UvhS4Z_0
 Wed Jul 24 04:32:00 CST 2024
 删除starsh2802 
+添加mazzanti_ https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ffef1cf38b01a6b839a53af6c341084262ce05d5c2c727905e814beac64ff9d3_trns_h264/playlist.m3u8
+Wed Jul 24 04:46:36 CST 2024
+Wed Jul 24 04:46:40 CST 2024
+删除LOVE-Juan520- 
