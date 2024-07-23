@@ -104,3 +104,6 @@ Tue Jul 23 08:16:31 CST 2024
 添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bXUtYM1cXGUf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JYVXRZTTFjWEdVZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QUEyODhCRS05MjExLTQzNEQtOEZGOS1EQjVCQTlBMEQ4RDQiLCJ2aWV3ZXItaWQiOiIyNDQyNjg0NiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE2OTM3OTksImV4cCI6MTcyMTY5NDM5OX0.MnRoXh4HbmE9RpdMkqYTe0cW6clDHqQRuwjVXYN27gvn68bXZ327ChbuoIoer2JrNW_-0wvgtKV6oKb4yhjLBhRp_wvE6yW1KXnioomb44L2emvlTNNiYUFkAzWLgZ_S
 Tue Jul 23 08:16:44 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Jul 23 08:31:36 CST 2024
+Tue Jul 23 08:31:47 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.N3svJJcUljGTxBTJ6yn9-tmeKBM2z8hteRxMn356VY7F0Cz2Pcmj6L4MWQg4NzCiGvZj_japqXwafbv0iHSqEw
