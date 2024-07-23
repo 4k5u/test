@@ -133,3 +133,8 @@ Tue Jul 23 10:16:30 CST 2024
 Tue Jul 23 10:16:44 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除hanny27 
+添加intim_mate https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-533543071211ca280e4a8503742e6edba868102db062e6b0ddc615b9206f1bae_trns_h264/playlist.m3u8
+Tue Jul 23 10:31:34 CST 2024
+Tue Jul 23 10:31:47 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+删除IdaJonesy 
