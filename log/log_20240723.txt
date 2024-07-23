@@ -97,3 +97,6 @@ Tue Jul 23 07:31:43 CST 2024
 Tue Jul 23 07:46:32 CST 2024
 Tue Jul 23 07:46:40 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Tue Jul 23 08:01:36 CST 2024
+Tue Jul 23 08:01:43 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WAG04IqN_Ke5frjOkbmyJEP-GogjGtLnokNCIoYH4bw7P3G3M2WGL0q8vzpJbXjW25OEhqxMqGaQa4qgXcNTTQ
