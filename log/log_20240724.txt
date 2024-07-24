@@ -258,3 +258,6 @@ Wed Jul 24 17:46:42 CST 2024
 Wed Jul 24 17:46:54 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除Judy0523 
+Wed Jul 24 18:01:54 CST 2024
+Wed Jul 24 18:02:01 CST 2024
+删除oki_dokie 
