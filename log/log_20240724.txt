@@ -231,3 +231,6 @@ Wed Jul 24 16:03:00 CST 2024
 Wed Jul 24 16:03:08 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除alicelebel 
+Wed Jul 24 16:16:45 CST 2024
+Wed Jul 24 16:16:48 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.PK1vP0dTG52u2_nhQLlV22jZpChHiughTDe4JDoh64PJ5iB_ZxR_76XsraYgcXjHcgZs0kfOkBtbHo7tEPeLGQ
