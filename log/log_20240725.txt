@@ -93,3 +93,6 @@ Thu Jul 25 06:47:27 CST 2024
 Thu Jul 25 06:47:29 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除gusdk2362 
+Thu Jul 25 07:02:03 CST 2024
+Thu Jul 25 07:02:06 CST 2024
+删除mazzanti_ 
