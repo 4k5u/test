@@ -239,3 +239,7 @@ Wed Jul 24 16:32:23 CST 2024
 Wed Jul 24 16:32:32 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gZTl0ecsq6Nh5pZq9CCZ3Rq9dLi_oCMxbDjmqhovVUK8qMmweDgdc4Cub2tzNFZou-bOEnE7MgCkaAkvFMYwqw
 删除mode_bad 
+Wed Jul 24 16:47:06 CST 2024
+Wed Jul 24 16:47:11 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.s3fsmyAwIYxHAQLoXBPjbW8WBUhrf_j6pb1LC1vlKAbo_j_Af74eUZJOnBN3bxl-MZyjVRLLYCkupp3lkV-u_A
+删除ake_mi 
