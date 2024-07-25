@@ -126,3 +126,6 @@ Thu Jul 25 09:16:55 CST 2024
 Thu Jul 25 09:32:26 CST 2024
 Thu Jul 25 09:32:39 CST 2024
 添加_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
+Thu Jul 25 09:46:32 CST 2024
+Thu Jul 25 09:46:44 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bYOTUw8VOTjEI6Ky1U396X2B74uRgLKdnNTQEvkKiPXWoL2mcYflmmrpT809EAN0xzrxcF6nkmkh2ts1Qm259Q
