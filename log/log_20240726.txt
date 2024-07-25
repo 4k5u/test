@@ -114,3 +114,6 @@ Fri Jul 26 07:01:39 CST 2024
 Fri Jul 26 07:01:42 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Witcher_DK 
+Fri Jul 26 07:17:26 CST 2024
+Fri Jul 26 07:17:28 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
