@@ -260,3 +260,6 @@ Fri Jul 26 17:32:26 CST 2024
 添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQTI0RDU2Qy1DNjAwLTQ0NDUtQjMzRC0xN0MzREE1OTA0MkEiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjE5ODYzNDgsImV4cCI6MTcyMTk4Njk0OH0.MkiuqY7aoYNLZT6exny5pl7ogdXWAjRsFZ13OOT8xnvwvSoz4BO8-wi6Ll_xcrdV9QsZdo5vvJShAhO7g_m6_HLxokw3ZbfIOCzCU0UhmPLiL9kMtidZgwfOZJMjbJqF
 Fri Jul 26 17:32:39 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Fri Jul 26 17:46:54 CST 2024
+Fri Jul 26 17:47:02 CST 2024
+删除Witcher_DK 
