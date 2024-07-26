@@ -364,3 +364,7 @@ Fri Jul 26 23:02:25 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除onlyone521 
 删除oki_dokie 
+添加galantini https://edge2-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-d468e50a41f2f69d4d771c0491b058fd9ce67735385f17e478a17cbbe6d7346a_trns_h264/playlist.m3u8
+Fri Jul 26 23:16:37 CST 2024
+Fri Jul 26 23:17:08 CST 2024
+删除redholic377 
