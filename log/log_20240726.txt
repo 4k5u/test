@@ -241,3 +241,7 @@ Fri Jul 26 16:16:55 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除muse62 
+Fri Jul 26 16:32:39 CST 2024
+Fri Jul 26 16:32:42 CST 2024
+删除San___San 
+删除oki_dokie 
