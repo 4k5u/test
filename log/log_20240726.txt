@@ -357,3 +357,10 @@ Fri Jul 26 22:47:21 CST 2024
 删除bongbong486 
 删除grandeeney 
 删除galantini 
+Fri Jul 26 23:01:52 CST 2024
+Fri Jul 26 23:02:25 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2-w848B3MvnZByOKIeB3I-aYYOtpgBlo7jnESfINRhfbHibxzvAXLQSXD4oiZn62XhtqM6wezkwyWnzsaFpCnA
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2-w848B3MvnZByOKIeB3I482P59MiWK2oRDeQxJfCOcBn5xgg_Fp_VUHp5mZaiiu612th4ZomgDQNDfRL3_-SA
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除onlyone521 
+删除oki_dokie 
