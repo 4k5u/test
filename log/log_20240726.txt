@@ -192,3 +192,6 @@ Fri Jul 26 13:17:18 CST 2024
 Fri Jul 26 13:17:29 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-5bc61c97bb467a88fb634d6825f3a0cd28e3d0a681824fd98e231e1671698a4d_trns_h264/playlist.m3u8
+Fri Jul 26 13:32:24 CST 2024
+Fri Jul 26 13:32:31 CST 2024
