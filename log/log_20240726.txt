@@ -176,3 +176,7 @@ Fri Jul 26 12:01:46 CST 2024
 Fri Jul 26 12:16:51 CST 2024
 Fri Jul 26 12:16:55 CST 2024
 删除Xenomy 
+Fri Jul 26 12:32:04 CST 2024
+Fri Jul 26 12:32:08 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除TefFfish 
