@@ -332,3 +332,7 @@ Fri Jul 26 21:31:44 CST 2024
 Fri Jul 26 21:32:14 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除acac88 
+Fri Jul 26 21:46:49 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NkIzREVEQy0wMjM3LTQ4NTEtQTAzNi1FODVGMzg0N0Y0MDYiLCJ2aWV3ZXItaWQiOiIyNDY0MjEyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIwMDE2MTIsImV4cCI6MTcyMjAwMjIxMn0._kXgH-R9Z4W-kMKWa_XdPkypbLllmMRSKYDxnXsMnoefWB6JYyqXj8pf58tfm530W9TR4v_6IyMhdSEAIa-X5hBtSF1nVnYIeQCYQ82J1TXBPYvTJaVZW5IrWAnu2m-B
+Fri Jul 26 21:47:26 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
