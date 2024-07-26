@@ -198,3 +198,8 @@ Fri Jul 26 13:32:31 CST 2024
 添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dd12789071d49f96e2335eb08392f7a6da0778ac4a50b2e9ad1d8faf9b6780bf_trns_h264/playlist.m3u8
 Fri Jul 26 13:46:47 CST 2024
 Fri Jul 26 13:46:54 CST 2024
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9fd604d67d2e3d853ac625d49a87137aa42c572955264a007392bd68a2e6f229_trns_h264/playlist.m3u8
+Fri Jul 26 14:01:36 CST 2024
+Fri Jul 26 14:01:42 CST 2024
+删除4ocari 
+删除kkkku96 
