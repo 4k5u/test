@@ -149,3 +149,6 @@ Sat Jul 27 10:46:58 CST 2024
 添加my_eyes_higher https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b4f89b4041585f9cdced8a3bafcc21fb8a4ced174c0b689a56dce82aa49db745_trns_h264/playlist.m3u8
 Sat Jul 27 11:01:34 CST 2024
 Sat Jul 27 11:01:40 CST 2024
+Sat Jul 27 11:16:43 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQURDRDBDRS1FQjM1LTQ1RTktODVGNC1ENzk0QTQ0NDU1OEQiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIwNTAyMDgsImV4cCI6MTcyMjA1MDgwOH0.MdH7M-Z2I_oOMfXY9WThMpyBj1TGTsONCi48OLgNVDmugwjy2cZyFoSabAFTEj6tkwvfNJJTEXwo_sCTP5XLcvhTExUDC73QRZTp7_Q1jErd170tzy4S7ydkEFFcxEsc
+Sat Jul 27 11:16:55 CST 2024
