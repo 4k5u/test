@@ -328,3 +328,11 @@ Sat Jul 27 23:32:07 CST 2024
 Sat Jul 27 23:32:32 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除qwas33 
+Sat Jul 27 23:46:33 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwOEU2NDZFQi1DNUYwLTRBRTItOTIyRi01QjAxMjQ2Q0E4OEEiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIwOTUyMDUsImV4cCI6MTcyMjA5NTgwNX0.ULJK24FwKyVY06ZE4pbV8mamZizgjGDvHvnIMyApDzzK9YoFnclV6fo_2EVpoddXiz8BbJ6IJ5WW4gQwmLQeVvH7117Z7cmdzTPPbW1kjIsVtgN5B5F0HeJmueyDtrPw
+Sat Jul 27 23:47:02 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Ryo-sama 
+删除Asia-Lynn 
+删除gremmy 
+删除day59day 
