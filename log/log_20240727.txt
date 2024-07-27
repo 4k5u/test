@@ -209,3 +209,9 @@ Sat Jul 27 15:02:06 CST 2024
 Sat Jul 27 15:02:24 CST 2024
 删除2dayday 
 删除banet523 
+Sat Jul 27 15:16:58 CST 2024
+添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRjlFMjA0Qy02OEUyLTQzM0UtQjFENy1DMTk1NDY2MjA4OUQiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIwNjQ2MjAsImV4cCI6MTcyMjA2NTIyMH0.Bptd2woVB5aGW6HXyRAkMYwq6ADqRyUQWqh2gm_JYwVCkFKuBU4romtu28i4lmVz-o9r6A6HBrP1uvMIw7O1IpfgCOZlyNZAhp-XfK0OEFHQjZ1sf8g0ehLOTZfmsPA9
+Sat Jul 27 15:17:15 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除362540 
