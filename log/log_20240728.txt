@@ -26,3 +26,6 @@ Sun Jul 28 01:32:05 CST 2024
 Sun Jul 28 01:32:15 CST 2024
 删除eunyoung1238 
 删除Glenda_1 
+Sun Jul 28 01:47:03 CST 2024
+Sun Jul 28 01:47:13 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
