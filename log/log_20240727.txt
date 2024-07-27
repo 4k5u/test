@@ -304,3 +304,8 @@ Sat Jul 27 21:47:30 CST 2024
 添加gremmy https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2cHEG7CfCIqJkqe885UupREQ2kacYziq-5AKSnj71dNjKOIPPpmEQrloZ6xZd9Ygo3j_hlpPTJUXd2c7hZyq7g
 删除your_desssert 
 删除ehdbs0105 
+Sat Jul 27 22:01:54 CST 2024
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bNb4niUObXeM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JOYjRuaVVPYlhlTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NTNFQURCMC1CQkU3LTRBRTMtODAyRC1FODY2ODk0QkUzQkUiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIwODg5MzUsImV4cCI6MTcyMjA4OTUzNX0.n0oTYbAOaEVLg46zjKvWgFH2vKA_2hDSJy1s2CQFakSCmra8US4Bxvn5RDP4130njOZL7VD5qaPq93bynS3-hMAr921TyMCvtiUcd8oyq1lRl7qayO63cjxlmAspOo9X
+Sat Jul 27 22:02:25 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除leelate 
