@@ -140,3 +140,7 @@ Sun Jul 28 10:16:41 CST 2024
 Sun Jul 28 10:31:42 CST 2024
 Sun Jul 28 10:31:53 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+添加intim_mate https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-84887612976f25357c83784effa7202410547336abbb1492f8b2ef884f9c2a31_trns_h264/playlist.m3u8
+Sun Jul 28 10:47:07 CST 2024
+Sun Jul 28 10:47:17 CST 2024
+删除_PunPun18 
