@@ -109,3 +109,7 @@ Sun Jul 28 07:47:02 CST 2024
 删除Witcher_DK 
 删除mazzanti_ 
 删除TefFfish 
+Sun Jul 28 08:01:32 CST 2024
+Sun Jul 28 08:01:34 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Sime_Naughty 
