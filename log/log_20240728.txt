@@ -113,3 +113,6 @@ Sun Jul 28 08:01:32 CST 2024
 Sun Jul 28 08:01:34 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除Sime_Naughty 
+Sun Jul 28 08:16:57 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RjdEQTRBNS0xRUJDLTQyNkMtODAwQy03QTg2RDNFRkZCQjgiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyMjEyNTgyMCwiZXhwIjoxNzIyMTI2NDIwfQ.93xZ_DLPkFOOfPteKWWP3O4-LZowg9TexeheJOt_sgDdmfAjrd0kd6jYMgAOXyueb1eNjGmI8aI_5QVb2pP85VvpWni74AUKvB1V5W6u4e7ROL5gXhOQdPAfezdeyCvj
+Sun Jul 28 08:17:06 CST 2024
