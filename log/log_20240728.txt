@@ -284,3 +284,8 @@ Sun Jul 28 20:17:44 CST 2024
 添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNzJERkQ4Ny1DNkJGLTRFQjQtOEE5Ri01QjBFQjY3MTI5MEYiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIxNjkxMDEsImV4cCI6MTcyMjE2OTcwMX0.fag5OTwXttM4_X-n0KqUNyRuvzCBkyuhVtzzVHYApmXacc-NLRQdamRjFYVE_eMc6E-C2-dK9vVlyIRN3qWENt9VeYO4GJLRh8XeP1ZZyfX_Nx9c_4fyNK0GgNck16FA
 Sun Jul 28 20:18:26 CST 2024
 删除Ryo-sama 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0f35572e796ad9b59e47d4e621c0a416059e544135e09cc1e265947c6742e62e_trns_h264/playlist.m3u8
+Sun Jul 28 20:32:06 CST 2024
+Sun Jul 28 20:32:36 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9sbMHJaP5yPzg7yFd_zhDGc1yAzygS5xHjlfcXo_S6rdGPNlmC84C24PCN8n20c06wM7hcaKvF02B1uAka04zw
+删除my_eyes_higher 
