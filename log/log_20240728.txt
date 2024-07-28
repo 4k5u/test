@@ -201,3 +201,7 @@ Sun Jul 28 15:01:59 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除banet523 
+添加mode_bad https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7dffb9fcda061a1d3962c8c5f5a8d1492dc7aa0ae55c611e29a334bbc7e22291_trns_h264/playlist.m3u8
+Sun Jul 28 15:16:57 CST 2024
+Sun Jul 28 15:17:04 CST 2024
+删除2dayday 
