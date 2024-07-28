@@ -289,3 +289,7 @@ Sun Jul 28 20:32:06 CST 2024
 Sun Jul 28 20:32:36 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9sbMHJaP5yPzg7yFd_zhDGc1yAzygS5xHjlfcXo_S6rdGPNlmC84C24PCN8n20c06wM7hcaKvF02B1uAka04zw
 删除my_eyes_higher 
+Sun Jul 28 20:47:11 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNjA3QzI3QS0yRDI1LTRFRTctQTBBNC1GQzE3NzA2QTEyRjUiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyMjE3MDg2MSwiZXhwIjoxNzIyMTcxNDYxfQ.WxJIMpeQEzEjd7bB4YbK1W5tgp-e5aj4pHTuDYSNm_wZ5c5Hx7yMyGWNf7aUx64aT6lSh60hB9RQRAkf0L8lSHdZr9gQEOHC1licMewI4LlnIm-LCsuDlzmSaT79gYyv
+Sun Jul 28 20:47:46 CST 2024
+删除muse62 
