@@ -179,3 +179,6 @@ Sun Jul 28 13:32:00 CST 2024
 删除4ocari 
 Sun Jul 28 13:46:53 CST 2024
 Sun Jul 28 13:47:02 CST 2024
+Sun Jul 28 14:01:54 CST 2024
+Sun Jul 28 14:02:02 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
