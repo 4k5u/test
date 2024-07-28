@@ -295,3 +295,7 @@ Sun Jul 28 20:47:46 CST 2024
 删除muse62 
 Sun Jul 28 21:02:20 CST 2024
 Sun Jul 28 21:02:51 CST 2024
+Sun Jul 28 21:17:34 CST 2024
+Sun Jul 28 21:18:05 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.04ETtNrqfH2FZmOwGR0eW8ITavbQ3h9bJegmLtShmssieEj1xd-EPP3pkABlXnD26Q9SlxGarw2bg0lRmMMsmg
+删除ake_mi 
