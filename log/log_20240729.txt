@@ -113,3 +113,6 @@ Mon Jul 29 08:02:11 CST 2024
 Mon Jul 29 08:16:45 CST 2024
 Mon Jul 29 08:16:47 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Mon Jul 29 08:32:02 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQzkwNkQzMy0zREYwLTRFQUQtODIyOS05NzMwMjA4RjE2NjIiLCJ2aWV3ZXItaWQiOiIxOTgyOTU4MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIyMTMxMjcsImV4cCI6MTcyMjIxMzcyN30.57KQMDTjiAh0UTFgrdOiQG7rnThMKmO1ilWIplWmM9ZblOKnLleExGVoClNO8wrOPlhHrINoFRKceV_rlqyCUlu7thXBi-GdAzb9G1-nbVeUstguyonpg_VljpL3OyEL
+Mon Jul 29 08:32:15 CST 2024
