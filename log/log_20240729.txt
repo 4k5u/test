@@ -274,3 +274,6 @@ Mon Jul 29 21:02:45 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HJJ4bdg-XEiPhOg_83KQ6897ihykVL3wfz52QBE1ePihjR2irs8ikpzqffBCMRInIuGelD4C1TkU0-O64F71Uw
 删除happyy2 
 删除mikio_san 
+Mon Jul 29 21:16:53 CST 2024
+Mon Jul 29 21:17:11 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
