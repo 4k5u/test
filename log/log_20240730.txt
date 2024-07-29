@@ -24,3 +24,6 @@ Tue Jul 30 01:17:59 CST 2024
 Tue Jul 30 01:31:45 CST 2024
 Tue Jul 30 01:31:57 CST 2024
 删除San___San 
+添加galantini https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-ae605287196b08f60d39ccc8814c18c66e3c33f11fbbd2d0568ca7c9354d6764_trns_h264/playlist.m3u8
+Tue Jul 30 01:47:07 CST 2024
+Tue Jul 30 01:47:20 CST 2024
