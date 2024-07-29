@@ -186,3 +186,7 @@ Mon Jul 29 14:16:55 CST 2024
 删除Xenomy 
 Mon Jul 29 14:32:18 CST 2024
 Mon Jul 29 14:32:25 CST 2024
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1bf77d68579408eced402d0ab74d93f8225955ffc1daa71118e08544fe762e12_trns_h264/playlist.m3u8
+Mon Jul 29 14:46:40 CST 2024
+Mon Jul 29 14:46:45 CST 2024
+删除acac88 
