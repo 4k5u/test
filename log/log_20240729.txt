@@ -172,3 +172,7 @@ Mon Jul 29 13:31:59 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除TefFfish 
 删除mikio_san 
+添加mode_bad https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-fa2975574a30a209a865209f81ef20cad048ddf7164c159c54e93d6ecd2f97ff_trns_h264/playlist.m3u8
+Mon Jul 29 13:46:52 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OEQwQjk5OS04MThELTRDQUUtOTU3QS05QjYxNkJCQUQ2Q0MiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIyMzIwMTcsImV4cCI6MTcyMjIzMjYxN30.8oLSnXp606XK5MZ_Ojr2PTM-aXyq4PlWJ6GjAnRIkux3uwCZr5Nwer3iU_DOOR3XBmEaDpX4xh9K7BXZumOzmdZ3Lc7diz-ym4KPk6AFpVuqoXbL0tlFBIDOokc0ZY1R
+Mon Jul 29 13:47:02 CST 2024
