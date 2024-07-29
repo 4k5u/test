@@ -12,3 +12,6 @@ Tue Jul 30 00:31:57 CST 2024
 Tue Jul 30 00:46:35 CST 2024
 Tue Jul 30 00:46:50 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Tue Jul 30 01:01:40 CST 2024
+Tue Jul 30 01:01:54 CST 2024
+删除Glenda_1 
