@@ -15,3 +15,9 @@ Wed Jul 31 00:31:54 CST 2024
 Wed Jul 31 00:46:46 CST 2024
 Wed Jul 31 00:46:58 CST 2024
 删除honey_pinkgreen 
+Wed Jul 31 01:01:33 CST 2024
+Wed Jul 31 01:01:44 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除cecilia0903 
+删除dmsdms1247 
