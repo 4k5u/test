@@ -271,3 +271,8 @@ Tue Jul 30 20:32:41 CST 2024
 删除muse62 
 删除thgml1212 
 删除won110 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-561e7d31a481a27000b07f98c374ea6ea0d615ad28ca6dbe44cd2aca5e6d7357_trns_h264/playlist.m3u8
+Tue Jul 30 20:46:48 CST 2024
+添加zzeongi2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KYtf6OZfojoq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tZdGY2T1pmb2pvcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNUUxQUZFMi01MEQwLTRDODktOUUyRC05M0YwODhBNENDRDYiLCJ2aWV3ZXItaWQiOiIyNDAwNDIxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIzNDM2MjUsImV4cCI6MTcyMjM0NDIyNX0.1x0sEuxC3Uvvs4N_KJitX4fPaPCVCx7OQvkIeUMtqzK2uAmL5le6pCyt1AeGrfGKbGfpJxl0-SUhr6uxsCf3yDIjDtKyOwar39Y5YW-4SGDwCuBUK_Rig1TMxUESb2c7
+Tue Jul 30 20:47:14 CST 2024
+删除LOVE-Juan520- 
