@@ -89,3 +89,7 @@ Wed Jul 31 06:16:36 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
 删除mazzanti_ 
 删除Witcher_DK 
+Wed Jul 31 06:31:31 CST 2024
+Wed Jul 31 06:31:33 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Sime_Naughty 
