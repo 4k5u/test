@@ -198,3 +198,5 @@ Tue Jul 30 15:32:08 CST 2024
 添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQkZGMjc4Qi1DMUFGLTQ1Q0YtQjE4MC03NTQwMDk0MEIwMDAiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjIzMjQ3MjksImV4cCI6MTcyMjMyNTMyOX0.FZfMND4U8YW5-78bRDpRB3Po8NmLavukOAENw7pWg4DA4Fd1p2RBBARTF3w0IxN0e6Dg92yQnuCI6B8wLJW3iHKL67dUE3mFtIet7dkuhQPbR5qn17HFj8ZS4C-L2iPk
 Tue Jul 30 15:32:22 CST 2024
 添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0TurAg68OfxscI69eGyZn6p2agkDK0WBbd1ngA3qIM6BjGtmQdznF7AJslolxmivotirxkcUaqdQyXCdX17ibQ
+Tue Jul 30 15:46:47 CST 2024
+Tue Jul 30 15:46:56 CST 2024
