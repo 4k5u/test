@@ -1,3 +1,11 @@
 添加honey_pinkgreen https://edge8-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-f697cc1206f314afd19e6e85ec07fe5db3e6144eda5910cf0d6e31b40abe300b_trns_h264/playlist.m3u8
 Wed Jul 31 00:01:37 CST 2024
 Wed Jul 31 00:01:53 CST 2024
+Wed Jul 31 00:16:48 CST 2024
+Wed Jul 31 00:16:58 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除homegirl 
+删除na2ppeum 
+删除ee5844 
+删除Witcher_DK 
+删除starsh2802 
