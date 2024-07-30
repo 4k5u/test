@@ -189,3 +189,8 @@ Tue Jul 30 15:01:55 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除asuna_love 
 删除intim_mate 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4e23ae9552ced4ae7e8074802ea9b04c52d7d304b1ce589ca140a3c54ca0ad5e_trns_h264/playlist.m3u8
+Tue Jul 30 15:17:13 CST 2024
+Tue Jul 30 15:17:20 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除banet523 
