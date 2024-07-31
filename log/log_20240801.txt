@@ -60,3 +60,6 @@ Thu Aug 1 03:16:46 CST 2024
 Thu Aug 1 03:16:48 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+Thu Aug 1 03:31:32 CST 2024
+Thu Aug 1 03:31:32 CST 2024
+删除rmrm1313 
