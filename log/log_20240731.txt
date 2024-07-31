@@ -303,3 +303,7 @@ Wed Jul 31 22:17:01 CST 2024
 Wed Jul 31 22:17:33 CST 2024
 添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Wn6iMRJAGPS3M7SsLMpsL2_R-u_AonQ1FbcvcWCidBlnX4arq8rRU9hjccoyBMaY9LKLWjvEVxEV_i1iRl8vVg
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+添加galantini https://edge5-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-24e6c053f3490e1f2e198e872de300b2fd0b541c250e6c9cf27e7cfa2a9af369_trns_h264/playlist.m3u8
+Wed Jul 31 22:31:50 CST 2024
+Wed Jul 31 22:32:22 CST 2024
+删除your_desssert 
