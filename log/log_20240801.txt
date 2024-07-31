@@ -99,3 +99,6 @@ Thu Aug 1 06:31:56 CST 2024
 Thu Aug 1 06:31:56 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除mazzanti_ 
+Thu Aug 1 06:47:16 CST 2024
+Thu Aug 1 06:47:16 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
