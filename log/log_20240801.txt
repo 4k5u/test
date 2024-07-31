@@ -36,3 +36,10 @@ Thu Aug 1 01:32:09 CST 2024
 添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-24e6c053f3490e1f2e198e872de300b2fd0b541c250e6c9cf27e7cfa2a9af369_trns_h264/playlist.m3u8
 Thu Aug 1 01:46:37 CST 2024
 Thu Aug 1 01:46:50 CST 2024
+Thu Aug 1 02:03:21 CST 2024
+Thu Aug 1 02:03:26 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除stuiliillive 
+删除leeaeae123 
+删除saone451 
+删除Reaowna 
