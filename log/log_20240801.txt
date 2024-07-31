@@ -33,3 +33,6 @@ Thu Aug 1 01:31:56 CST 2024
 Thu Aug 1 01:32:09 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-24e6c053f3490e1f2e198e872de300b2fd0b541c250e6c9cf27e7cfa2a9af369_trns_h264/playlist.m3u8
+Thu Aug 1 01:46:37 CST 2024
+Thu Aug 1 01:46:50 CST 2024
