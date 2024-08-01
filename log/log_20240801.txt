@@ -186,3 +186,7 @@ Thu Aug 1 13:47:02 CST 2024
 删除Dolv_1o 
 Thu Aug 1 14:02:03 CST 2024
 Thu Aug 1 14:02:08 CST 2024
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c1e72beed0bcba7d8296cd4ec603f66cdc70b368bf7638bc11d80f0d4207bbaf_trns_h264/playlist.m3u8
+Thu Aug 1 14:17:13 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQjc5MDg5NC03OTZBLTQ4NkYtQjcwRi02MDk1NjA3RDJEMTQiLCJ2aWV3ZXItaWQiOiIyMjY3ODI5MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI0OTMwMzgsImV4cCI6MTcyMjQ5MzYzOH0.rJjLk3dUPVa63KlJN8MBAcfv224axh88UcYK1JViORwMMiGYTOBZqfv3JIwG-4q2lYkSR2G2fm00dX8TLfbDAQMECnMMMpoIsYrqylM7N5DVWkGjA1QWIAZvCCnBf_Ym
+Thu Aug 1 14:17:28 CST 2024
