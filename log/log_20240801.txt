@@ -331,3 +331,8 @@ Thu Aug 1 23:17:12 CST 2024
 Thu Aug 1 23:17:41 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Asia-Lynn 
+添加galantini https://edge6-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-a857cc5640b8b47112747882d7c7003a79dd1f6c9e64b133e66f14581ed445d4_trns_h264/playlist.m3u8
+Thu Aug 1 23:31:54 CST 2024
+Thu Aug 1 23:32:22 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除lovable12 
