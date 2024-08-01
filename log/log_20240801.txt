@@ -152,3 +152,7 @@ Thu Aug 1 10:47:23 CST 2024
 Thu Aug 1 11:01:49 CST 2024
 Thu Aug 1 11:01:57 CST 2024
 添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7ttBYSaISfAa3c2T-Rtg--K5GOg8hsXE1zUhb1ju2Qh7E9EVvJSfkIxcZwPGfwF8Qo7Q4uQORPUj4MeRZ4kIPQ
+Thu Aug 1 11:16:46 CST 2024
+Thu Aug 1 11:16:55 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除_meganmeow_ 
