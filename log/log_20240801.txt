@@ -180,3 +180,7 @@ Thu Aug 1 13:17:23 CST 2024
 Thu Aug 1 13:32:20 CST 2024
 Thu Aug 1 13:32:25 CST 2024
 删除Sime_Naughty 
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4637a9635ff6666b4cc9f28bbc6d547cba3b05ee8caa1cc18ab4fcbd6e195567_trns_h264/playlist.m3u8
+Thu Aug 1 13:46:57 CST 2024
+Thu Aug 1 13:47:02 CST 2024
+删除Dolv_1o 
