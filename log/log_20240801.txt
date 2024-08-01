@@ -298,3 +298,6 @@ Thu Aug 1 21:17:01 CST 2024
 Thu Aug 1 21:17:47 CST 2024
 删除mikio_san 
 删除morphesoull 
+Thu Aug 1 21:32:24 CST 2024
+Thu Aug 1 21:32:57 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
