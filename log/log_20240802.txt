@@ -97,3 +97,7 @@ Fri Aug 2 06:47:21 CST 2024
 Fri Aug 2 07:01:43 CST 2024
 Fri Aug 2 07:01:43 CST 2024
 删除mazzanti_ 
+Fri Aug 2 07:17:20 CST 2024
+Fri Aug 2 07:17:21 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
