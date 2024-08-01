@@ -138,3 +138,8 @@ Thu Aug 1 09:46:39 CST 2024
 删除Sime_Naughty 
 Thu Aug 1 10:01:43 CST 2024
 Thu Aug 1 10:01:49 CST 2024
+Thu Aug 1 10:17:57 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4ODhCMDQzNS1CNjEzLTRBRDItOEE3OS03OTlCOENFQkE3QzEiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI0Nzg2ODQsImV4cCI6MTcyMjQ3OTI4NH0.UN5VOkjuHqkDfQ8dmo6pNBDfIaB9_vpKMz--0xyOYCdrRRSBdhI5FR8wXN_ELHNu31M0p6cg3pW0uY9jo3cXIW4J1ImtjsL0Jgbi_G8OoDluFTwBjuDP7MgSgzA3-Qax
+Thu Aug 1 10:18:11 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加_PunPun18 https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
