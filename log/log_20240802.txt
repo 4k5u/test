@@ -347,3 +347,6 @@ Fri Aug 2 23:31:46 CST 2024
 Fri Aug 2 23:32:13 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+Fri Aug 2 23:48:07 CST 2024
+Fri Aug 2 23:48:34 CST 2024
+删除362540 
