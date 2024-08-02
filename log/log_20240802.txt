@@ -343,3 +343,7 @@ Fri Aug 2 23:18:10 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7eVJsRadMY2EuH9mEj62XlYsErmNnhBDxTBtnx2sTO5t-WW6R7vdZlNS-w6I57gBXt5yX3FIaLQaLxEJeeneuw
 删除bongbong486 
 删除kkkku96 
+Fri Aug 2 23:31:46 CST 2024
+Fri Aug 2 23:32:13 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
