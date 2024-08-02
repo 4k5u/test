@@ -132,3 +132,8 @@ Fri Aug 2 09:46:54 CST 2024
 删除_meganmeow_ 
 Fri Aug 2 10:02:41 CST 2024
 Fri Aug 2 10:02:46 CST 2024
+Fri Aug 2 10:16:43 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEREIyQTE4MS00Q0EyLTRGMDYtODZGRC04MzM2RENENkM2MzMiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI1NjUwMDYsImV4cCI6MTcyMjU2NTYwNn0.CjI0RKHOMXXwIwaGAF8P802a1tVahdFioulJQGVylW2B9HDW7qEK6VZZYAC68o3vCVngFjEpjiRmKOwDzhWLDptBRgdkFGTzOUKktLpss7iqucsSMiz1AV28bt1jIREy
+Fri Aug 2 10:16:53 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除Sime_Naughty 
