@@ -164,3 +164,7 @@ Fri Aug 2 12:32:09 CST 2024
 Fri Aug 2 12:46:50 CST 2024
 Fri Aug 2 12:46:59 CST 2024
 删除TefFfish 
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e7ba60251fffc5a22ed189d245fe013eef5c963e03ba632ef561930c6c20b9fb_trns_h264/playlist.m3u8
+Fri Aug 2 13:02:01 CST 2024
+Fri Aug 2 13:02:10 CST 2024
+删除2dayday 
