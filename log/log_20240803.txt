@@ -15,3 +15,8 @@ Sat Aug 3 00:31:56 CST 2024
 Sat Aug 3 00:47:22 CST 2024
 Sat Aug 3 00:47:38 CST 2024
 删除homegirl 
+Sat Aug 3 01:01:40 CST 2024
+Sat Aug 3 01:01:55 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cofgLb-iy1mJBBo6ZwE3UUdWl_U2TcgGwOlzQAH3wQUwu--SBG9eNNbHzOviHOqUawr_wgm3REbNRYSOYERD6Q
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除starsh2802 
