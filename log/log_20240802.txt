@@ -156,3 +156,6 @@ Fri Aug 2 11:47:33 CST 2024
 Fri Aug 2 12:01:43 CST 2024
 Fri Aug 2 12:01:51 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Fri Aug 2 12:17:23 CST 2024
+Fri Aug 2 12:17:32 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
