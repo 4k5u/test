@@ -193,3 +193,7 @@ Fri Aug 2 14:32:13 CST 2024
 Fri Aug 2 14:47:11 CST 2024
 Fri Aug 2 14:47:18 CST 2024
 删除Ryo-sama 
+添加mode_bad https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f2eb87e3df0ede1cb416d0c16c0d9989e0da90f7b4babc86886ee8a0b0d9c91e_trns_h264/playlist.m3u8
+Fri Aug 2 15:02:13 CST 2024
+Fri Aug 2 15:02:19 CST 2024
+删除banet523 
