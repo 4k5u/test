@@ -225,3 +225,8 @@ Sat Aug 3 19:03:12 CST 2024
 Sat Aug 3 19:16:54 CST 2024
 Sat Aug 3 19:17:06 CST 2024
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Sat Aug 3 19:31:46 CST 2024
+Sat Aug 3 19:31:59 CST 2024
+删除AkiShina 
+删除dana9282 
+删除362540 
