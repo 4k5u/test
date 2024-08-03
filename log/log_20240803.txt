@@ -220,3 +220,8 @@ Sat Aug 3 19:03:00 CST 2024
 Sat Aug 3 19:03:12 CST 2024
 删除Judy0523 
 删除oki_dokie 
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-fc87b21dd99af1aa23b3677d3895d59990ae66524ebd3dcd9fa3a6c78cb52a20_trns_h264/playlist.m3u8
+添加your_desssert https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4daa054f06d7a8d0eb408da68b257e18f74f77b3c26e2a6452f9d9ee842f8ca2_trns_h264/playlist.m3u8
+Sat Aug 3 19:16:54 CST 2024
+Sat Aug 3 19:17:06 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
