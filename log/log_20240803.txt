@@ -201,3 +201,9 @@ Sat Aug 3 17:32:17 CST 2024
 添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-060b83b88ac0cdd663e98afe090cf33c09579a0b5612f051424339531d436195_trns_h264/playlist.m3u8
 Sat Aug 3 17:46:45 CST 2024
 Sat Aug 3 17:46:55 CST 2024
+Sat Aug 3 18:01:40 CST 2024
+Sat Aug 3 18:01:51 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WN9Oxirh3UX0QiHYoh0vfY-etI9Hzmco5ouoSPIRvp2WCLSOTC-v6nFVoujPo5mODoMWEimWpagQO0wRfoDWsQ
+删除oda_assuri 
+删除thgml1212 
+删除your_desssert 
