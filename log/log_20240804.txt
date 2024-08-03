@@ -88,3 +88,7 @@ Sun Aug 4 06:31:51 CST 2024
 Sun Aug 4 06:46:49 CST 2024
 Sun Aug 4 06:46:52 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sun Aug 4 07:01:47 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4Nzg4MTcyMS02Rjk2LTQ5MkItQjg2MC0yMjQwRTFDM0REQTkiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI3MjYxMDksImV4cCI6MTcyMjcyNjcwOX0.FyImf7MoGBE4qt7U3S1cetZz2qCXDN0qpgRgWIm14mlRvRSklS8UmbOyVkmGwYqJ2aS9q2TOzWd4ZsUYP8DPMZavChHMiF6MATieiUDdsgegRUzlIZIEh228bOkJmRNG
+Sun Aug 4 07:01:58 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
