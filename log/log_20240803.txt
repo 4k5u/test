@@ -197,3 +197,7 @@ Sat Aug 3 17:32:00 CST 2024
 添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OEE3RjlCNy1EOTA3LTQ4NjEtQjFBNi1GNDcxMkI0OEUxMTciLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI2Nzc1MjQsImV4cCI6MTcyMjY3ODEyNH0.pz3_8eu9ojabi8ZmlihT_4wFEGMtKNUO4E969mLWa81QcX9qpcNvimU4zQoiM1_zIAtXwnEwNXn5aWMowB_SHNlcyZm5XoC2vJLx3On01sB6JbtphqmC62Nj2Wmwd8vW
 Sat Aug 3 17:32:17 CST 2024
 删除grandeeney 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ed2006731dfa2ad41216764501fbc8f5c62c02ce2435dddf83f0f17b7011bbd_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-060b83b88ac0cdd663e98afe090cf33c09579a0b5612f051424339531d436195_trns_h264/playlist.m3u8
+Sat Aug 3 17:46:45 CST 2024
+Sat Aug 3 17:46:55 CST 2024
