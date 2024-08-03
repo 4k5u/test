@@ -45,3 +45,6 @@ Sun Aug 4 03:01:54 CST 2024
 Sun Aug 4 03:01:59 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除cecilia0903 
+Sun Aug 4 03:16:37 CST 2024
+Sun Aug 4 03:16:42 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
