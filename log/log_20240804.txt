@@ -128,3 +128,6 @@ Sun Aug 4 09:32:21 CST 2024
 Sun Aug 4 09:46:32 CST 2024
 Sun Aug 4 09:46:37 CST 2024
 删除Sime_Naughty 
+Sun Aug 4 10:01:36 CST 2024
+Sun Aug 4 10:01:40 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
