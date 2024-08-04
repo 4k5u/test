@@ -45,3 +45,6 @@ Mon Aug 5 03:01:38 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
 删除sol3712 
 删除ahri0801 
+Mon Aug 5 03:16:37 CST 2024
+Mon Aug 5 03:16:40 CST 2024
+删除Witcher_DK 
