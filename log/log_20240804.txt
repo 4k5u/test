@@ -287,3 +287,7 @@ Sun Aug 4 20:17:31 CST 2024
 添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NUVCRDE1MS1CRDU5LTRGRTUtQUIxNy03RkRGREQ4RjY0QjciLCJ2aWV3ZXItaWQiOiIyMzQxNjQ1NiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI3NzM4ODIsImV4cCI6MTcyMjc3NDQ4Mn0.g4nyf_90ZxEjlKELxvQ-kqNNSyd-hyFK4aMMi2LDMgN-LC9wZidooRr_0cTekArL4drvxzTksVsca5XpSSuvJA8cOork-gqCWxL3wOetLAGpvSwYPJPj2gd9vGITFqMM
 Sun Aug 4 20:18:17 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Sun Aug 4 20:32:46 CST 2024
+Sun Aug 4 20:33:15 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fV5OcHOBPAi3IsGQMyQ35WN35qYPO8b-Rl9f5sd_7AuLhGn5SN2-1I4aCzMugCqdcqB6J7pIliBVZm1Nnhksug
+删除mikio_san 
