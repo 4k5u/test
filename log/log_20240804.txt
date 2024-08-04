@@ -197,3 +197,7 @@ Sun Aug 4 14:16:54 CST 2024
 添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RTNFRkVCMy0yRTg0LTREQUUtQkI3Ri1EMjA3N0RBOEJGM0IiLCJ2aWV3ZXItaWQiOiIyMjY3ODI5MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI3NTIyMzAsImV4cCI6MTcyMjc1MjgzMH0.XLbX7TjLFreA5Zf_1WYeU5mu18LjzYDxNz56fvSL69DoJJgvW2m3HYvXWP7n29hWVEwyYf-FMmOv64OSasTf7-9HQ9Mj7CZUObExzTHcYwFny5jdbOBlS8pdm70mSGLF
 Sun Aug 4 14:17:18 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sun Aug 4 14:32:13 CST 2024
+Sun Aug 4 14:32:20 CST 2024
+删除Dolv_1o 
+删除Judy0523 
