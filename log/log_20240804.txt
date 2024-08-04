@@ -145,3 +145,7 @@ Sun Aug 4 11:01:39 CST 2024
 Sun Aug 4 11:01:54 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除mikio_san 
+Sun Aug 4 11:16:41 CST 2024
+Sun Aug 4 11:16:52 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
