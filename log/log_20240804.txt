@@ -238,3 +238,7 @@ Sun Aug 4 16:46:33 CST 2024
 添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjlFQTcyNS04QUU2LTQxRUMtQkQ5RC0zOEIyNzNBRDY2MTkiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI3NjEyMDQsImV4cCI6MTcyMjc2MTgwNH0.62ZKBRyw_SF3PqUiECPM_hPrvGy9SX8bR2RF-1Qk0guHpzeb6BYI2ZXdQ9vDOgVtVaHbwVxLCmRgib0ZIfmPhbF60kCuRn2TcXofjZM3FQLt2-NVXG-h1O2Y9_y3u4-k
 Sun Aug 4 16:46:52 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IIIqIHW1n03wajhGtYsQosF9qDfy5aL5yRDTM8Ui9U8qE8H2qvF7Q0S1wIPllxYh8Y6vp7tw6PupFf_4V_Q6Iw
+Sun Aug 4 17:01:49 CST 2024
+Sun Aug 4 17:02:01 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+删除Ryo-sama 
