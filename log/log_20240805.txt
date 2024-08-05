@@ -152,3 +152,7 @@ Mon Aug 5 12:16:54 CST 2024
 Mon Aug 5 12:31:48 CST 2024
 Mon Aug 5 12:31:55 CST 2024
 删除TefFfish 
+Mon Aug 5 12:47:05 CST 2024
+Mon Aug 5 12:47:11 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除mikio_san 
