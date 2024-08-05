@@ -145,3 +145,7 @@ Mon Aug 5 11:46:54 CST 2024
 Mon Aug 5 12:02:01 CST 2024
 Mon Aug 5 12:02:08 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-18ac24d8d994d6d3b08880d156e118c36e1fcbe8fb562f7a61f968d69aeee30d_trns_h264/playlist.m3u8
+Mon Aug 5 12:16:47 CST 2024
+Mon Aug 5 12:16:54 CST 2024
+删除Dolv_1o 
