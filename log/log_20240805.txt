@@ -192,3 +192,6 @@ Mon Aug 5 15:16:58 CST 2024
 Mon Aug 5 15:17:03 CST 2024
 添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+Mon Aug 5 15:32:32 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQkUxNEE4RS1FNEE5LTQ4QzAtQjVGMS1FREY1QTgzMjk4RUEiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI4NDMxNTgsImV4cCI6MTcyMjg0Mzc1OH0.dQLwvkZh0tXfXOrAPGlMh74wMa3enFVTDAtoGRs7p3CXDRJl3x4wB8V8U5QWp08OR35vDpcFQz6y_53bf82v4U_p6gExxO2ve9dly_-swKV6z8lbuqX19kNAmEPZvpPD
+Mon Aug 5 15:32:44 CST 2024
