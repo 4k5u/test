@@ -83,3 +83,6 @@ Tue Aug 6 07:17:34 CST 2024
 添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f27a71bb363b4ee959520e96ea15cf5ae0642dca494200e321dc6ce9ac8e06dd_trns_h264/playlist.m3u8
 Tue Aug 6 07:31:49 CST 2024
 Tue Aug 6 07:31:52 CST 2024
+Tue Aug 6 07:46:41 CST 2024
+Tue Aug 6 07:46:43 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
