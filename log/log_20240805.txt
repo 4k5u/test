@@ -159,3 +159,9 @@ Mon Aug 5 12:47:11 CST 2024
 Mon Aug 5 13:02:17 CST 2024
 Mon Aug 5 13:02:22 CST 2024
 删除jjine0127 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3dff1cef7d53da4c331e501a3543d888c893330a71e6b505f66d2883dd2913d1_trns_h264/playlist.m3u8
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c36baa270bb19c01d3d94067c20d0bf3337a7737877f0a8168ab37f4f5662ed1_trns_h264/playlist.m3u8
+Mon Aug 5 13:17:07 CST 2024
+Mon Aug 5 13:17:11 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除galantini 
