@@ -230,3 +230,7 @@ Mon Aug 5 18:17:48 CST 2024
 添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNkMyREYwNy05QzI1LTQ2MTgtOUNGNC05MDM5MUVGODMxMjkiLCJ2aWV3ZXItaWQiOiIxNjA2NTg0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI4NTMwNzcsImV4cCI6MTcyMjg1MzY3N30.OQGAtJUWJvdHxvNqrLcLysk3n8F5dZwnZtb_retCFUPxtjjvr529iDb1BNe-bcP3RXj1oQBtBalNCMirWZ-0-5GMqs140OYROX9I4DbBN6rDxHbDmS6mu9a7DKkE6L43
 Mon Aug 5 18:18:05 CST 2024
 删除Judy0523 
+Mon Aug 5 18:31:56 CST 2024
+Mon Aug 5 18:32:09 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-udONmJE4rQAMSBgqAxn5FhQD34QnB2HzmEfDHqop4Rq1FE9EI2N-2HgolgHGBTBpFXJ3sv1Hmuk8AlVM13M1Q
+删除sigmasian 
