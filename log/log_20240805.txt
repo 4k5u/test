@@ -299,3 +299,7 @@ Mon Aug 5 22:17:41 CST 2024
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除bongbong486 
 删除dana9282 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-424ba962794f81c95b1303144cba011beba36ba4c4333aa12ea2349e650d000b_trns_h264/playlist.m3u8
+Mon Aug 5 22:31:47 CST 2024
+Mon Aug 5 22:32:18 CST 2024
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WvtwSMVvEaPT9i6KsSZtMrZ2SMQRuM1KljDtPtk2capvPZGI2IqDBNAWjdBZF7MzqrA7iwwa18_dgpzG_czhJQ
