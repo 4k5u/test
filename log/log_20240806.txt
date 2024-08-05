@@ -80,3 +80,6 @@ Tue Aug 6 07:02:23 CST 2024
 Tue Aug 6 07:17:26 CST 2024
 添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQzVDQTJDOS04RTZDLTQ4OEYtODgxQS1EMUEyOTMxRTk5NTQiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI4OTk4NDgsImV4cCI6MTcyMjkwMDQ0OH0.ayXPJTVFsJIysi8Re_bCUkHpXYR-B-zMQAsyNI0_Gs2kW-cqRVJIeM-Hi2Uq3Y1CTGHCmky09w2N5nQsYTYp_ZWxJTbksMJC-xbpLRjJXKI9YzycbQ8ubu4qImQs1AEk
 Tue Aug 6 07:17:34 CST 2024
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f27a71bb363b4ee959520e96ea15cf5ae0642dca494200e321dc6ce9ac8e06dd_trns_h264/playlist.m3u8
+Tue Aug 6 07:31:49 CST 2024
+Tue Aug 6 07:31:52 CST 2024
