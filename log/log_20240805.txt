@@ -188,3 +188,7 @@ Mon Aug 5 15:01:56 CST 2024
 删除banet523 
 删除grandeeney 
 删除galantini 
+Mon Aug 5 15:16:58 CST 2024
+Mon Aug 5 15:17:03 CST 2024
+添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
