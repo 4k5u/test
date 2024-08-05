@@ -142,3 +142,6 @@ Mon Aug 5 11:46:47 CST 2024
 Mon Aug 5 11:46:54 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除Xenomy 
+Mon Aug 5 12:02:01 CST 2024
+Mon Aug 5 12:02:08 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
