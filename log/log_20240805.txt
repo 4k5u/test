@@ -294,3 +294,8 @@ Mon Aug 5 21:47:58 CST 2024
 Mon Aug 5 22:02:10 CST 2024
 Mon Aug 5 22:02:45 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.o5xc8w21xB0z2QsNwyHS_8gRxf3GtY6CsLQTDzkY67xdpdQ72p0pNni_p1Vg-qf6sXl9UMi5KvvOaIJL2ijWcQ
+Mon Aug 5 22:17:08 CST 2024
+Mon Aug 5 22:17:41 CST 2024
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除bongbong486 
+删除dana9282 
