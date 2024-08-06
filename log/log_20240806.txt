@@ -265,3 +265,8 @@ Tue Aug 6 20:17:34 CST 2024
 Tue Aug 6 20:18:34 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除ehdbs0105 
+Tue Aug 6 20:32:30 CST 2024
+添加ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MzZBRTE5RC00MjlELTQwMDMtOEY0MC04MkM1OENEMzMyQ0QiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI5NDc1OTAsImV4cCI6MTcyMjk0ODE5MH0.1V90WIkGWsXYLeEfKOzv3r95xxDhr-G-JTUlLDqlHthH0XXJg_d_0nBrZz2MX56daRtqF_814nebRMAxEZFD9D4YOtDAJoS47EN_wfNnLQ3h8y9YQyx4F3hWTdVM8X1_
+Tue Aug 6 20:33:14 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6B9_2g51ByJxQnCB4GbkO3POzXW2_x-b3nhL4j3ZKQ8CcOjuizhxfgFVa9r5IhoTuSS35RovpAfEodZV8d8wlA
+删除happyy2 
