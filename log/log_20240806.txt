@@ -202,3 +202,7 @@ Tue Aug 6 16:47:04 CST 2024
 Tue Aug 6 16:47:15 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.p8bj1s3IPS4y5NyEvcP8eAFDEtoApX91gfCXC22JDAUHjYKIPSFUV2X-uVaSuRa9WfwhhgycuqnwdUFljuaFRA
 删除oda_assuri 
+Tue Aug 6 17:01:49 CST 2024
+Tue Aug 6 17:01:59 CST 2024
+添加alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UC2HB-ovEev5M1chFtYelRhmP3Yw-bVaS8WWFKiIowDBbWLzRtqeTaiPtIYo58DvvLd5Nq5UBoj5DC_PrB4V9A
+删除your_desssert 
