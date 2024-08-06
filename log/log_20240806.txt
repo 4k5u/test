@@ -160,3 +160,8 @@ Tue Aug 6 13:32:36 CST 2024
 Tue Aug 6 13:46:55 CST 2024
 Tue Aug 6 13:47:02 CST 2024
 删除Xenomy 
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc8858c42f6aff9be29e098babea51c90c4a9c1f3465201f42b739df69a769c8_trns_h264/playlist.m3u8
+Tue Aug 6 14:01:55 CST 2024
+Tue Aug 6 14:02:01 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除EmiliaGuess 
