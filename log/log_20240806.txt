@@ -93,3 +93,6 @@ Tue Aug 6 08:16:59 CST 2024
 Tue Aug 6 08:31:58 CST 2024
 Tue Aug 6 08:32:00 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+添加oda_assuri https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-8d2a869b7c0a58b0da382f517cfe08fd99dafa9e076c1e85093ebe27fae7e441_trns_h264/playlist.m3u8
+Tue Aug 6 08:46:42 CST 2024
+Tue Aug 6 08:46:44 CST 2024
