@@ -170,3 +170,7 @@ Tue Aug 6 14:16:55 CST 2024
 Tue Aug 6 14:17:07 CST 2024
 添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Tue Aug 6 14:31:55 CST 2024
+Tue Aug 6 14:32:04 CST 2024
+删除SanySenise 
+删除Xenomy 
