@@ -151,3 +151,7 @@ Tue Aug 6 13:17:16 CST 2024
 Tue Aug 6 13:17:21 CST 2024
 删除my_eyes_higher 
 删除kkkku96 
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d5282c2bbd38a9cd08e5b218ab7eea66b4ba634da22ed4725b07f76cfe900779_trns_h264/playlist.m3u8
+Tue Aug 6 13:32:21 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNzcwQ0I4Ny0zMzEwLTRFMEUtOTkzMy01NkYzNjY0OTA4OTMiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI5MjIzNDUsImV4cCI6MTcyMjkyMjk0NX0.Nu7O_LQIAAx4gnmn97l0eqvCDcoTLtun0ufhMw3xrSbwQRJp3_lliCfmpQ6kJYDVElhGugxs8wbjvfU3vqU6wTboPM2JxqLb3Av2QDLj7JoUxyHfIaybyDFkRHLhezD6
+Tue Aug 6 13:32:36 CST 2024
