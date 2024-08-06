@@ -43,3 +43,8 @@ Wed Aug 7 02:31:46 CST 2024
 Wed Aug 7 02:46:36 CST 2024
 Wed Aug 7 02:46:43 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+Wed Aug 7 03:01:42 CST 2024
+Wed Aug 7 03:01:44 CST 2024
+删除100472 
+删除ahri0801 
+删除Witcher_DK 
