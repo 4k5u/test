@@ -248,3 +248,7 @@ Tue Aug 6 19:32:59 CST 2024
 添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.28tcQpoorNoWhQzv70CdhR8Ih4OYwvHyR1Ul7YCyy9HbqWlL5HwFtHZfEQGFTXdxYaWk8wpagVyRxCtneidIsw
 删除AkiShina 
 删除San___San 
+Tue Aug 6 19:47:55 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFOEU1QUE3MS1DNDE0LTRBRjYtQTQ1Ny1EOTI1NzczQUNEQ0IiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI5NDQ5MDEsImV4cCI6MTcyMjk0NTUwMX0.8YslxdN57gKNj-vm_EfFusABwMy0je0Inw_U15_cMeFT3rwALLvTOPYTm6K-krr8LYzw4Owu_gTEjW7tTzj6VfEsN7Mo0HHUv66ZD8_7-xzb0A7LLZSnWi9l51nAFtPx
+Tue Aug 6 19:48:32 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gOSu7rqoYDSg9dks_2clLhCPfmsu9X3F7jDHYg71pvR-7kzCFCH-WT6BJ5YQnQSoQHU_P_e1--QSLj3OMmOcLw
