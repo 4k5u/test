@@ -132,3 +132,7 @@ Wed Aug 7 10:32:07 CST 2024
 Wed Aug 7 10:46:42 CST 2024
 Wed Aug 7 10:46:50 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b23f58bb18e87425d0be58fa6b84c1d3cead5ce8d2ed382974afdd935995f8d6_trns_h264/playlist.m3u8
+Wed Aug 7 11:01:41 CST 2024
+Wed Aug 7 11:01:49 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
