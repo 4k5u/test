@@ -42,3 +42,7 @@ Thu Aug 8 02:32:32 CST 2024
 删除ake_mi 
 Thu Aug 8 02:46:36 CST 2024
 Thu Aug 8 02:46:42 CST 2024
+Thu Aug 8 03:02:06 CST 2024
+Thu Aug 8 03:02:13 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
