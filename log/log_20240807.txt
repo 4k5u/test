@@ -229,3 +229,7 @@ Wed Aug 7 18:01:35 CST 2024
 Wed Aug 7 18:01:40 CST 2024
 删除EmiliaGuess 
 删除your_desssert 
+Wed Aug 7 18:16:38 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Rf12fK88wwmi.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JmMTJmSzg4d3dtaSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0REMzMjU2RC1CRTEyLTQ3QjgtQjRBRi02Mzg3NUM5MDExNEIiLCJ2aWV3ZXItaWQiOiIyNDc5Mjg3OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMwMjU4MDIsImV4cCI6MTcyMzAyNjQwMn0.idtI-dSEJhr1_n_W82eT_SaiXynnlIpvrs3H5YzDhYFMqUnPGI4LGprNnR0UWGukBTn4gBqCReO3o4Nzuj710t7QpuFAEz6B7rLJj8F2PWPS1DPOZsU438a9vS-vldFA
+Wed Aug 7 18:16:49 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fwjeB2GIAP2Pmecsu2nTpsNLuWuzXvIgPi-oFj4BI0UnOkp_9oQfEUaPA29Ii8jfrWYUqXeTDESFq9VC1_SINQ
