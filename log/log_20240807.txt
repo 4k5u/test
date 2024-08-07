@@ -218,3 +218,7 @@ Wed Aug 7 17:01:47 CST 2024
 删除TuTu-1001 
 Wed Aug 7 17:17:18 CST 2024
 Wed Aug 7 17:17:21 CST 2024
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-aa814d635feab4fa03a013055a442eb95093434a9ee8925b198309295b19f3d0_trns_h264/playlist.m3u8
+Wed Aug 7 17:31:36 CST 2024
+Wed Aug 7 17:31:39 CST 2024
+删除oda_assuri 
