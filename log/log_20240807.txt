@@ -125,3 +125,7 @@ Wed Aug 7 10:01:53 CST 2024
 删除Sime_Naughty 
 Wed Aug 7 10:16:42 CST 2024
 Wed Aug 7 10:16:48 CST 2024
+Wed Aug 7 10:31:53 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQUJGQjlEQi1CRERDLTQ5MjEtOTc2NS0yRTBBQkZGMTA5MjkiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjI5OTc5MTksImV4cCI6MTcyMjk5ODUxOX0.Z9eUuEcFVooCsXNEc9MIFUKadPQUU47l_JmB4O-PRUXV4l8-l3Lq4LfUcubgpfXsw3Zw-IgQkUcdizGUOwJ4HyZ1tJIaQlm1twttAgBNQ1uss2oTpjA5pi5b0DPUePR-
+Wed Aug 7 10:32:07 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
