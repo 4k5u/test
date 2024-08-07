@@ -299,3 +299,6 @@ Wed Aug 7 21:32:34 CST 2024
 删除lucy_1811 
 删除acac88 
 删除dana9282 
+Wed Aug 7 21:47:12 CST 2024
+Wed Aug 7 21:47:43 CST 2024
+添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
