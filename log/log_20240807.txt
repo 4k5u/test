@@ -242,3 +242,8 @@ Wed Aug 7 18:32:54 CST 2024
 Wed Aug 7 18:47:20 CST 2024
 Wed Aug 7 18:47:30 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.60uaUfShSaev4lSyHzWA3DvfvYWt2goHVdcPVKqS_oRcSWjDSv2oW-r-SrEvmo9I0VSjo-LT22Fj3wjDuaRsEw
+Wed Aug 7 19:01:46 CST 2024
+Wed Aug 7 19:01:56 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pBaIAX6bwzMLtdjbAZQNpRLqz3YTcCseTcEAGBOiTK7rREaLyhBSAs_q88N-j228juiuOyAnE2VPpT1GmR52yQ
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JfEfDwHXuKY8Mo5R7NdW5OGhZZ78Um83SBiHdlqzF-iBy3GdZCIh1uRQh1aeqNXvYEE3qbtSbOONzTE40Dq1VQ
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
