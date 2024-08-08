@@ -168,3 +168,9 @@ Thu Aug 8 13:46:34 CST 2024
 Thu Aug 8 13:46:37 CST 2024
 添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SHss1bWTuYgKO1Z1JZXX_JhRSYV4smwxsA7jrboE5Cz7QF7WgdfxsG6FsR0RXQIdoo_whh0MJ67ApDEJD7fO4A
 删除Glenda_1 
+Thu Aug 8 14:02:15 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUZCMjNDRi00RUQ0LTQxMjYtQjQ1MC04Q0E3NDYzMUUwQjEiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMwOTY5MzYsImV4cCI6MTcyMzA5NzUzNn0.qH9oZhROiw352luypJ0dygRT5HpCLo_GU-Ncn4DhnZ9pqniYkiqPic6ZoU3nwtWp4yoa2sdJyTSEJO7s-Zao9o0shoEZ5IhGq1LAoZnA3m92nGhA2wDqzU0WEWu4ymOS
+Thu Aug 8 14:02:23 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kvvT0B5URdX_2ZyHzL7pHAeioJ5x81A2ZCCD0Dt8mZjVxJHOssgcJLooIyex0G_5c80dTROP6VoaV_n2KLXS4g
+添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
+删除IdaJonesy 
