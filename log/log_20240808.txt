@@ -101,3 +101,7 @@ Thu Aug 8 08:01:37 CST 2024
 Thu Aug 8 08:16:36 CST 2024
 Thu Aug 8 08:16:39 CST 2024
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Thu Aug 8 08:32:44 CST 2024
+Thu Aug 8 08:32:47 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Sime_Naughty 
