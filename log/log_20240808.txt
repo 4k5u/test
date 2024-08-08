@@ -95,3 +95,6 @@ Thu Aug 8 07:31:35 CST 2024
 Thu Aug 8 07:47:35 CST 2024
 Thu Aug 8 07:47:40 CST 2024
 删除3ww1ww3 
+Thu Aug 8 08:01:34 CST 2024
+Thu Aug 8 08:01:37 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
