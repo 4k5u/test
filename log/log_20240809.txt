@@ -70,3 +70,6 @@ Fri Aug 9 04:02:24 CST 2024
 Fri Aug 9 04:02:29 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 删除naras2 
+Fri Aug 9 04:17:03 CST 2024
+Fri Aug 9 04:17:58 CST 2024
+删除alicelebel 
