@@ -295,3 +295,7 @@ Thu Aug 8 21:03:24 CST 2024
 添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SGnl9A1GZMhXCxefXEY7auqFMVNolD9BIs1lZRQlVD-rYmfwUP6kKTNmDEBX3su833o6G3HMzlQCVe7Sd55R0g
 删除y1026 
 删除EmiliaGuess 
+Thu Aug 8 21:16:49 CST 2024
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNURBRkVCRC03MzUwLTRFNUMtOTM3MC05Mjc0M0ZFNUJEODkiLCJ2aWV3ZXItaWQiOiIyMDY1NTIxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMxMjMwMzYsImV4cCI6MTcyMzEyMzYzNn0.-neNBSMFHQ4ogQGPLZbOKVE5eBQt6Y7vzfkXHtFx0etczhqPiGIVI9e3pl0VZ9vkcvBWN7xkCFTGcM-_McCsUgWfHHYz8Z-DEfhgVwEDlhSYbJtjS28HDFmRi60cplaP
+Thu Aug 8 21:17:43 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
