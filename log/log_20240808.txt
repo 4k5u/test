@@ -132,3 +132,7 @@ Thu Aug 8 10:48:16 CST 2024
 Thu Aug 8 11:01:34 CST 2024
 Thu Aug 8 11:01:38 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Thu Aug 8 11:18:04 CST 2024
+添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFOEVFRjdDQS0wMTQwLTQ0RDMtQTQ5Qy1DQjRENTZFRjdDQzEiLCJ2aWV3ZXItaWQiOiIxOTgyOTU4MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMwODcwODksImV4cCI6MTcyMzA4NzY4OX0.KB7JLthT7HcWS4NbTrVfd7Ex09jiFgYT6zlRFpoONU32Pcm72R5JcEcMjxGaNQ8G9DBZo2JMivQW-A3zo6a8hLo7tYO8250RB3zxc8tbN8GU69-zYsGtfGy7t_hWu9sX
+Thu Aug 8 11:18:16 CST 2024
+删除morphesoull 
