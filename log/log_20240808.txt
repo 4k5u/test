@@ -174,3 +174,7 @@ Thu Aug 8 14:02:23 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kvvT0B5URdX_2ZyHzL7pHAeioJ5x81A2ZCCD0Dt8mZjVxJHOssgcJLooIyex0G_5c80dTROP6VoaV_n2KLXS4g
 添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
 删除IdaJonesy 
+Thu Aug 8 14:17:24 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3ODc2MDZFMy1FQUMyLTREOTYtQjhFNi03RDhDNDE1RDg2MDMiLCJ2aWV3ZXItaWQiOiIyMjY3ODI5MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMwOTc4NDgsImV4cCI6MTcyMzA5ODQ0OH0.6Fc-1w7skl0_fSg8XIbPcgJSqJFQlZEPGPeNe3_5Uown1wbbXrbOll_cG1_RecQbdc2ZYXBYmeU6QyCCctTV45Ku4EjTgcONnQ5JEJxAu0LJ5VUjiOJuvscy3i08e6sB
+Thu Aug 8 14:17:36 CST 2024
+删除San___San 
