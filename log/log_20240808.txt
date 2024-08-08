@@ -212,3 +212,5 @@ Thu Aug 8 16:32:00 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除oda_assuri 
 删除alicelebel 
+Thu Aug 8 16:48:29 CST 2024
+Thu Aug 8 16:48:40 CST 2024
