@@ -311,3 +311,7 @@ Thu Aug 8 21:47:39 CST 2024
 Thu Aug 8 22:01:53 CST 2024
 添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NEVBNjZCNy1BODExLTRDREUtODREOS05RkVFMTM5OTFCOTgiLCJ2aWV3ZXItaWQiOiIyMzcyMjA0MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMxMjU3MjksImV4cCI6MTcyMzEyNjMyOX0.w7NQbpG1nSFG8m9Kwzwvv2IGhPlQZXj_pioht7TnvN1jYvdgV5egmD7mSZ3__pKM1hjwo6R2mnsLgxDfV5Pz8Wn3WVZh_slym7TOQCpHcw2wTTHdUIMK8Kz0QzuP3BbG
 Thu Aug 8 22:02:50 CST 2024
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-97fe706e5c4ee4f67606827c8bc5506a6d6ea6964d9065d77074be2f34366c28_trns_h264/playlist.m3u8
+Thu Aug 8 22:16:45 CST 2024
+Thu Aug 8 22:17:37 CST 2024
+删除ehdbs0105 
