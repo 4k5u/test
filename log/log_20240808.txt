@@ -113,3 +113,8 @@ Thu Aug 8 09:17:16 CST 2024
 Thu Aug 8 09:17:18 CST 2024
 Thu Aug 8 09:31:45 CST 2024
 Thu Aug 8 09:31:47 CST 2024
+添加oda_assuri https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0559e8ce8c62d8636d5dfe311defca3c92bdb185a29477e9dc6a182d802cc256_trns_h264/playlist.m3u8
+Thu Aug 8 09:46:34 CST 2024
+Thu Aug 8 09:46:37 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
