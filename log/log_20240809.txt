@@ -104,3 +104,7 @@ Fri Aug 9 07:01:43 CST 2024
 Fri Aug 9 07:16:44 CST 2024
 Fri Aug 9 07:16:44 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Aug 9 07:31:41 CST 2024
+Fri Aug 9 07:31:41 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+删除Sime_Naughty 
