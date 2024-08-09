@@ -11,7 +11,7 @@ m3u8site="$M3U8SITE"
 cookie="";
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="Asia-Lynn Witcher_DK MiaoMjiang8 cecilia0903 LOVE-Juan520- Glenda_1 raisy_000 Angel-Bei-bei Dolv_1o Ryo-sama IdaJonesy Daji-Lovely RoseVal Happy-_-puppy TuTu-1001 SexyModel-170cm grandeeney ii1liii1il asuna_love JessicaRewan sabrina_hk888 lucy_1811 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
+userIds="172-95-student kolll88 Asia-Lynn Witcher_DK MiaoMjiang8 cecilia0903 LOVE-Juan520- Glenda_1 raisy_000 Angel-Bei-bei Dolv_1o Ryo-sama IdaJonesy Daji-Lovely RoseVal Happy-_-puppy TuTu-1001 SexyModel-170cm grandeeney ii1liii1il asuna_love JessicaRewan sabrina_hk888 lucy_1811 EmiliaGuess Stbeautn_oO charming_NaNa21 Judy0523 StunnerBeauty-170cm M--I--A alicelebel Reaowna Akiyama_Key sigmasian Xenomy TefFfish Sime_Naughty SanySenise _PunPun18 BadAngels666 JP-KARIN 777YikuYiku Hahaha_ha2 Daji-520 San___San mikio_san AkiShina Sherry_niko Lucille_evans morphesoull";
 #Ailen_baby  student-se
 #Witcher_DK 777YikuYiku
 
