@@ -133,3 +133,10 @@ Fri Aug 9 09:32:15 CST 2024
 Fri Aug 9 09:32:17 CST 2024
 Fri Aug 9 09:47:18 CST 2024
 Fri Aug 9 09:47:21 CST 2024
+添加oda_assuri https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7bd83e2a4a78cc64035dde992c1f4e99d133e899ddf305d0aeaf18c88359feaf_trns_h264/playlist.m3u8
+Fri Aug 9 10:01:45 CST 2024
+Fri Aug 9 10:01:48 CST 2024
+添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除San___San 
+删除Xenomy 
