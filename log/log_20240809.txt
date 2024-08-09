@@ -320,3 +320,8 @@ Fri Aug 9 21:32:24 CST 2024
 删除y1026 
 删除Glenda_1 
 删除sol3712 
+Fri Aug 9 21:46:47 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQTYyMzhENS05MzFCLTQ5N0ItOUI1Ri0zRkI1NDZFNTZFMEIiLCJ2aWV3ZXItaWQiOiIyNDY0MjEyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMyMTEyMTIsImV4cCI6MTcyMzIxMTgxMn0.yU5KbL6KalDXz2KdmuouXN3N4aLS_XJ_xh3hn6sRFuBa0ts66v8AbQEXXU1CMsIMxMIlDRBtoEglhIFyP_ox_AEK6oXZVkxKEir4Z_ANd0vACVQO6l4l3GhO4WEu0GRj
+Fri Aug 9 21:47:21 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oZu4uUsMEA8jvzhsH_RZtReWrFk12tRZ2Repk-yTXYi8B45AxuU1jXZCGBpPfSj2HExDIeFrCm2b5Vrcu8arIw
+删除your_desssert 
