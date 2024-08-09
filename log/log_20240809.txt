@@ -160,3 +160,6 @@ Fri Aug 9 11:31:59 CST 2024
 添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNkMxN0JDMC03ODA0LTQxOTItODFDRi0xN0U3ODM4RTRDQjIiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMxNzQzMjcsImV4cCI6MTcyMzE3NDkyN30.l324VuxekDj1370mxSjGpKmlbrbpRX_OJW6dMgrdyUavbYEdfYHzfFmIEKfqvgE7ysGVC_sULdDRNH5e387YyTcbRtHzRdZHOSmRmPf1l1I_DCgyurigOqh8rR7T6tsl
 Fri Aug 9 11:32:12 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a71dd621d2a9018f4175cbc29cf0e45b3d0812f7581443237fa075025dd19ec4_trns_h264/playlist.m3u8
+Fri Aug 9 11:46:35 CST 2024
+Fri Aug 9 11:46:43 CST 2024
