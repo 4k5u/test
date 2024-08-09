@@ -110,3 +110,6 @@ Fri Aug 9 07:31:41 CST 2024
 删除Sime_Naughty 
 Fri Aug 9 07:47:11 CST 2024
 Fri Aug 9 07:47:11 CST 2024
+Fri Aug 9 08:01:49 CST 2024
+Fri Aug 9 08:01:50 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
