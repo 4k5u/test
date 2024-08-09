@@ -341,3 +341,10 @@ Fri Aug 9 22:47:45 CST 2024
 Fri Aug 9 23:01:49 CST 2024
 Fri Aug 9 23:02:21 CST 2024
 删除Tmdgus5411 
+Fri Aug 9 23:17:16 CST 2024
+添加ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sqZhpatfnW7L.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NxWmhwYXRmblc3TCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQ0FBOTlBRi02MjJCLTQ3MTQtQkE5OS0yRkVCQ0QzN0JBQTYiLCJ2aWV3ZXItaWQiOiIyNTEyMzAzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMyMTY2NjYsImV4cCI6MTcyMzIxNzI2Nn0.QUOKgZ-PH3VmWnDPQ6x-qasJCNOMZk47jG3Hq8UhE6pvvuVxEOvzjY9Y2Av_WsdgNuGWkt6gjDpbTyFRQIYUIt1GIirBjbAg830fzKUWLeu9mzQiYA9bSLWK0-KdWp2L
+Fri Aug 9 23:17:55 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.223Mhp1gXWXLYw7gdJtblicDF186iBRoGQX7Epqdp9x4RRhn_ZPX5zH7OAFxmSp2mxy24zQpqsUpNUGulm1HAg
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xoWm6T_mheE7zjsc_D_e4sb_QdG-Llvw0pPMBVV2na3V8o4vQHIfq_YJ6R1NTa33GatXWmCnCpNY8zae55bgMQ
+删除bongbong486 
+删除oki_dokie 
