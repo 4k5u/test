@@ -52,3 +52,9 @@ Sat Aug 10 03:16:47 CST 2024
 Sat Aug 10 03:16:53 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Sat Aug 10 03:31:46 CST 2024
+Sat Aug 10 03:31:50 CST 2024
+删除sol3712 
+删除ee5844 
+删除kolll88 
+删除LOVE-Juan520- 
