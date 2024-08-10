@@ -289,3 +289,6 @@ Sat Aug 10 19:32:08 CST 2024
 Sat Aug 10 19:32:39 CST 2024
 删除AkiShina 
 删除Sime_Naughty 
+Sat Aug 10 19:46:56 CST 2024
+Sat Aug 10 19:47:18 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
