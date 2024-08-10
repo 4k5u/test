@@ -35,3 +35,6 @@ Sun Aug 11 01:31:48 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.q2_RUKaC5J2IwGCuKN0gpop4XW585PF-3FUjOsngGmEwYhNRav2bQZXgGbG-r57P3C0nive4hpZ69Mc7IBLb6A
 添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._76sh7ku5P0RZ5-z2LmltYOy8awoDow6Wn_emgT-ancUju6OUsHwTFtTr6stbDztzqgV2RZP53-oqpUYRJKTrg
 删除dmsdms1247 
+Sun Aug 11 01:46:47 CST 2024
+Sun Aug 11 01:46:54 CST 2024
+删除kjjeong0609 
