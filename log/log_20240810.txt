@@ -108,3 +108,6 @@ Sat Aug 10 07:46:43 CST 2024
 Sat Aug 10 08:01:38 CST 2024
 Sat Aug 10 08:01:42 CST 2024
 添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
+Sat Aug 10 08:16:36 CST 2024
+Sat Aug 10 08:16:38 CST 2024
+删除thgml1212 
