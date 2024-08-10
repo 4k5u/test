@@ -236,3 +236,8 @@ Sat Aug 10 16:17:15 CST 2024
 添加navi04 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RvQ6z_AxUI-0nPIBWahaikRmCc8K2lxfq6GOLjCKQJ1-5ic7Z6UXPLtJQPaGlK89Rq-SlQORhlbq3WCMcqbaig
 添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
 删除oda_assuri 
+添加joysuniverse https://edge6-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e17af2fb2eea693c7cedb2d2ea73611aacd938be9f5f367485973ab48bc3c3a1_trns_h264/playlist.m3u8
+Sat Aug 10 16:32:30 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3Nzk0QzkwMS0zRDMyLTRFOTAtQTc3NC1DQkE2OEY0RUZCQ0IiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMyNzg3NTUsImV4cCI6MTcyMzI3OTM1NX0.9YPzwbiuxr3_JAk8amO0JM5EYP4SBwgCi9LPtRT2ONI-uo1FBu4M4D9GTpCNXlWBH8h3C35IPIoNMs3a9GXNTf1TkejOe6pP9oPDAPk7uj1ppnf2HiWPcPxdum9oio5Z
+Sat Aug 10 16:32:46 CST 2024
+删除your_desssert 
