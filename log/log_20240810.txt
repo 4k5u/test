@@ -111,3 +111,6 @@ Sat Aug 10 08:01:42 CST 2024
 Sat Aug 10 08:16:36 CST 2024
 Sat Aug 10 08:16:38 CST 2024
 删除thgml1212 
+Sat Aug 10 08:31:57 CST 2024
+Sat Aug 10 08:32:00 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
