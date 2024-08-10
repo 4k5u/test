@@ -105,3 +105,6 @@ Sat Aug 10 07:46:38 CST 2024
 Sat Aug 10 07:46:43 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
+Sat Aug 10 08:01:38 CST 2024
+Sat Aug 10 08:01:42 CST 2024
+添加morphesoull https://edge-hls.doppiocdn.live/hls/93112603/master/93112603_auto.m3u8
