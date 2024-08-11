@@ -174,3 +174,6 @@ Sun Aug 11 12:16:52 CST 2024
 Sun Aug 11 12:17:03 CST 2024
 Sun Aug 11 12:32:00 CST 2024
 Sun Aug 11 12:32:11 CST 2024
+Sun Aug 11 12:47:25 CST 2024
+Sun Aug 11 12:47:35 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
