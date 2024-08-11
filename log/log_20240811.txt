@@ -251,3 +251,9 @@ Sun Aug 11 17:33:06 CST 2024
 Sun Aug 11 17:33:16 CST 2024
 删除lucy_1811 
 删除EmiliaGuess 
+添加your_desssert https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-813e8de3f6f3e8b421f3d41534709ae479f26ca8130a5bbc1b44644a0fe96282_trns_h264/playlist.m3u8
+Sun Aug 11 17:46:57 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MzJBNUE1MC0wMDgxLTQ4MDEtODdCRC04QUE5OTQxODdFRDYiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMzNjk2MjAsImV4cCI6MTcyMzM3MDIyMH0.fUiv5QBr8Co2zHcLu0aVvXf907tjZD-zB6Mkt2k89zhEDhl_MmDUOi6Hf92gswmLexyA1dHe4DYAEHRoUtFNk7VmGYZyp4PucZDllhwY-cj_NHyJdpwUO069vTUwb-Jh
+Sun Aug 11 17:47:15 CST 2024
+添加lucy_1811 https://edge-hls.doppiocdn.live/hls/129987677/master/129987677_auto.m3u8
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
