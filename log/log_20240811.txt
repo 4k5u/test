@@ -187,3 +187,8 @@ Sun Aug 11 13:16:57 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除my_eyes_higher 
 删除jjine0127 
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-813e8de3f6f3e8b421f3d41534709ae479f26ca8130a5bbc1b44644a0fe96282_trns_h264/playlist.m3u8
+Sun Aug 11 13:31:39 CST 2024
+Sun Aug 11 13:31:48 CST 2024
+添加EmiliaGuess https://edge-hls.doppiocdn.live/hls/91712823/master/91712823_auto.m3u8
+删除oki_dokie 
