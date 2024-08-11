@@ -116,3 +116,7 @@ Sun Aug 11 08:01:46 CST 2024
 Sun Aug 11 08:16:58 CST 2024
 Sun Aug 11 08:17:01 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+添加intim_mate https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-017af3296e7fed3abcf81e8c16c08d6a58987f46e8c364d5b399ef0d49891d5f_trns_h264/playlist.m3u8
+Sun Aug 11 08:32:08 CST 2024
+Sun Aug 11 08:32:10 CST 2024
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
