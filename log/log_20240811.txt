@@ -323,3 +323,11 @@ Sun Aug 11 21:02:13 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除navi04 
 删除cool3333 
+Sun Aug 11 21:16:43 CST 2024
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjkzMjlGQS1FQUQ0LTQwMTItOUY2NC1CQjRBNEFEODZENTAiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjMzODIyMTIsImV4cCI6MTcyMzM4MjgxMn0.a32B5hvK5yMAWB_5V7AjUD_TqaWLFhka64jvIQXmCMtZ6rYbZ1Hp6bviawQItNZwTViMpk3KaiSwbF2UXjQwcnveYpXtpE2fnaQ0-vOnPteIBBAGExb8JIJ6WbqSVoXN
+Sun Aug 11 21:17:11 CST 2024
+添加dana9282 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dVUzP8weZwKairKcNFuYcxlSV6cjPuTK2HrW3LR9qNYb2os1g6e0lIPX4kEOWzqZ8jv5omH3zDdrGqLIvb24Hw
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Z2u04nQN_wGeg_foLiInmTxnWGMFZmxtVo7h9hIJXvBQoHZNcUmmCtwvkXyc0typnUGBKU6j1rOGk60HkOXBAQ
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CQbCAcbYcK80NY_1hNcVgy62gc5cqJlz0o5CinLHuQWAW1R8nMt1Z9yabeiEJCQWADHswETylUE9GYWOtj3g7Q
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除honey_pinkgreen 
