@@ -335,3 +335,8 @@ Sun Aug 11 21:31:49 CST 2024
 Sun Aug 11 21:32:14 CST 2024
 删除JP-KARIN 
 删除lovemeimscared 
+Sun Aug 11 21:46:43 CST 2024
+Sun Aug 11 21:47:06 CST 2024
+添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+删除MeghanCollin 
+删除dana9282 
