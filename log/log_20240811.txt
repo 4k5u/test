@@ -331,3 +331,7 @@ Sun Aug 11 21:17:11 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CQbCAcbYcK80NY_1hNcVgy62gc5cqJlz0o5CinLHuQWAW1R8nMt1Z9yabeiEJCQWADHswETylUE9GYWOtj3g7Q
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除honey_pinkgreen 
+Sun Aug 11 21:31:49 CST 2024
+Sun Aug 11 21:32:14 CST 2024
+删除JP-KARIN 
+删除lovemeimscared 
