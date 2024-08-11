@@ -265,3 +265,7 @@ Sun Aug 11 18:02:04 CST 2024
 Sun Aug 11 18:16:56 CST 2024
 Sun Aug 11 18:17:11 CST 2024
 删除172----95----student 
+Sun Aug 11 18:31:46 CST 2024
+Sun Aug 11 18:32:00 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dKXfuyjGFYikkN8-Kc1p0wwlXKN_5cCyFliNMKk_KFlJxi94om9SeQUAqle-ZZUfOS5GNqAUP-iVVeg5rhx1Ww
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
