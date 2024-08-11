@@ -94,3 +94,9 @@ Mon Aug 12 06:46:42 CST 2024
 Mon Aug 12 07:02:14 CST 2024
 Mon Aug 12 07:02:17 CST 2024
 删除_PunPun18 
+Mon Aug 12 07:16:37 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTRCQjZGNy1BMzg2LTQ1QzUtOTExRC1BNThGODk2MjUzMUUiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM0MTgxOTgsImV4cCI6MTcyMzQxODc5OH0.0Fph6MmeXUUUhPpDnvK7kRW2PLs2sU-DDIhVW4cFQad6_WeNlpGhVBEo35r55jYy3E4w2qca0ySm0COJ5eX0bhAuyuf6OjByJuuEejN9kNnNI-3N6CcNigSSs7JeBGy6
+Mon Aug 12 07:16:45 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除LOVE-Juan520- 
