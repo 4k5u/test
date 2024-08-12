@@ -234,3 +234,9 @@ Mon Aug 12 17:17:22 CST 2024
 Mon Aug 12 17:17:33 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除IdaJonesy 
+添加my_eyes_higher https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c7ff161cb8c50e9594e6ff2c0af27d0f10394c2ea0258fc5891e30631223acde_trns_h264/playlist.m3u8
+Mon Aug 12 17:31:41 CST 2024
+Mon Aug 12 17:31:51 CST 2024
+删除oda_assuri 
+删除sigmasian 
+删除172----95----student 
