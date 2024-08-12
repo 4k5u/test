@@ -1,0 +1,7 @@
+Tue Aug 13 00:01:44 CST 2024
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5Qzc2M0Q5Qy0xMDg0LTRDQTEtQkIxNC1BQTcwRkE4QjQ4QTQiLCJ2aWV3ZXItaWQiOiIxOTU4ODgzNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM0Nzg1MTksImV4cCI6MTcyMzQ3OTExOX0.XMXf1BxkEFuvGYmJgCqQPV2PxtqnmE6f1mPbHNVCqRKN0lr85nK3-bg3x_odPS95_wYeVZ8I90R5nvJmnlD8cN0ZG0ESAeNS-aiSvoompYfaQ8s_U1mN4xSDx-CLf5yV
+Tue Aug 13 00:02:19 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除na2ppeum 
+删除soso621 
+删除imissy0u 
