@@ -182,3 +182,8 @@ Mon Aug 12 13:17:02 CST 2024
 添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c2b8a15c7fc6f0769ad77ee2964c8849e8246e2225388b5e2aa84d0cfe4edd1c_trns_h264/playlist.m3u8
 Mon Aug 12 13:31:59 CST 2024
 Mon Aug 12 13:32:03 CST 2024
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4a39193a3ac30320f8e10d4d9f971debd662f33d258f89acfac1595b58aa93_trns_h264/playlist.m3u8
+Mon Aug 12 13:46:49 CST 2024
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OUYwOERBMS1CODQxLTQ1RDktOTZBOC04NTg2NTUxNEU2NEIiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM0NDE2MTEsImV4cCI6MTcyMzQ0MjIxMX0.KWixweGAFhdUIO9t2qa-IZjVTeNQJctFRyfaAgL7c9mDqJk989TTHp8_jFDCutdvtoVjLjyQk5KQnQepxbqGgL5CBhtCNHhtGMBnG70bghifwj0bjeRuZuYHduhgWAkP
+Mon Aug 12 13:47:01 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
