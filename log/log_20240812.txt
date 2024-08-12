@@ -240,3 +240,6 @@ Mon Aug 12 17:31:51 CST 2024
 删除oda_assuri 
 删除sigmasian 
 删除172----95----student 
+Mon Aug 12 17:46:48 CST 2024
+Mon Aug 12 17:46:58 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
