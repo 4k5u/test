@@ -309,3 +309,7 @@ Mon Aug 12 21:03:05 CST 2024
 添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZbeBo8cBAiUrTeQAT9bfj0NdfrxDRfP2VKvsHvddZIGF2XjBMLKq0-kxhPUzYILOCSV_LEF7cLD7WaQAa8pg1A
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EekkqFW4R2O3PlS8Q_vAL-Oc8c-sax7pMyrD4xc7Lvnv9me_BG4797mS_lmOjZ57JUJoE-nZWRz_wV7kAqp1kQ
 删除won110 
+Mon Aug 12 21:16:56 CST 2024
+Mon Aug 12 21:17:35 CST 2024
+删除acac88 
+删除yourare 
