@@ -179,3 +179,6 @@ Mon Aug 12 13:02:10 CST 2024
 Mon Aug 12 13:16:58 CST 2024
 Mon Aug 12 13:17:02 CST 2024
 删除Dolv_1o 
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c2b8a15c7fc6f0769ad77ee2964c8849e8246e2225388b5e2aa84d0cfe4edd1c_trns_h264/playlist.m3u8
+Mon Aug 12 13:31:59 CST 2024
+Mon Aug 12 13:32:03 CST 2024
