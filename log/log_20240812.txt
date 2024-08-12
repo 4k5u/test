@@ -265,3 +265,8 @@ Mon Aug 12 19:02:03 CST 2024
 Mon Aug 12 19:16:47 CST 2024
 添加mozzzi https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.P58zKdyrmINu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1A1OHpLZHlybUlOdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQTk5NjBEOS05NzdFLTQzRDUtQkVGMC00RTM2MDU5MDdCOTAiLCJ2aWV3ZXItaWQiOiIyNDk3ODE2MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM0NjE0MTMsImV4cCI6MTcyMzQ2MjAxM30.vI7lG4fhfKiK6TyH7beIBf4Eb24Y45MtL1aE_Ta1rsuyt9t8NL8bmnShY42fRsHQThkoKMkTz6opqFLHyA1B5fNol6tat6DSggFWarSPEi0_plq5W4ObS7YYwpHR9nOG
 Mon Aug 12 19:17:12 CST 2024
+Mon Aug 12 19:31:43 CST 2024
+Mon Aug 12 19:32:04 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G9M1e2cF_jd400hoaWKv32nM2-R3VwXWTt07bmoagDy_JcZiOU5rfNNpzQV1vBDGR0tvwwbOa3FpJorCp3AX2A
+删除AkiShina 
+删除oki_dokie 
