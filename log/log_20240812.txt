@@ -154,3 +154,7 @@ Mon Aug 12 11:32:42 CST 2024
 Mon Aug 12 11:32:46 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Mon Aug 12 11:46:43 CST 2024
+添加likecho https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PXoRGaKTnZdr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1BYb1JHYUtUblpkciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNUFERkY2OS1BMUZELTRDM0UtOEY2MC04MEFFMjQ4M0Y4MzkiLCJ2aWV3ZXItaWQiOiIxODA0Mjg1MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM0MzQ0MDcsImV4cCI6MTcyMzQzNTAwN30.ZF3idoxA9L4SgOR7ecbILgy1Yx0sKrK8bZ8SFAughgFo-ltXbnbOZbTyJw6PxDBLy7pMPU_9I9IBiUWREKUuRVAdwsnGRJzQe1hD5jfMeLmwya4vL78iT7eaqL8EPSpW
+Mon Aug 12 11:46:56 CST 2024
+删除morphesoull 
