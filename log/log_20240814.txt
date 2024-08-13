@@ -72,3 +72,8 @@ Wed Aug 14 04:53:29 CST 2024
 Wed Aug 14 04:59:33 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 删除pandaex 
+Wed Aug 14 05:54:28 CST 2024
+Wed Aug 14 05:57:54 CST 2024
+删除gusdk2362 
+删除gina_gracia 
+删除Witcher_DK 
