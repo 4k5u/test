@@ -58,3 +58,9 @@ Wed Aug 14 03:02:24 CST 2024
 Wed Aug 14 03:06:54 CST 2024
 删除leeaeae123 
 删除Witcher_DK 
+添加gina_gracia https://edge5-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-e81e0a5aaf9e3eae77964116243919005ef35d8b4c8bb65f6843c251124a75b2_trns_h264/playlist.m3u8
+Wed Aug 14 03:50:17 CST 2024
+Wed Aug 14 03:50:30 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除100472 
+删除LOVE-Juan520- 
