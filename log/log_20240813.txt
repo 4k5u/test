@@ -287,3 +287,8 @@ Tue Aug 13 20:18:07 CST 2024
 添加your_desssert https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0dc12b70c1f0b643cabc528df5bc75876a257f4e5e7ce16b518cdc6fbedabfcf_trns_h264/playlist.m3u8
 Tue Aug 13 20:31:53 CST 2024
 Tue Aug 13 20:32:25 CST 2024
+Tue Aug 13 20:47:38 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDODZBNTIxQy00OUFFLTQ4NDMtQUNCOC0zNTlGRjA4N0Q0OTgiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM1NTMyNjAsImV4cCI6MTcyMzU1Mzg2MH0.5QMGMvjagmm_S90BSeEfpwPvdvDRljH9awPIXaiTdY-ka6RShJ-DXYXSjgKP2HClhjX0dx-CLYYryaHJt7qmULAdubtrX8YjapQyYqZmilY3XH7rY77r6j2Ca7uIrKQf
+Tue Aug 13 20:48:18 CST 2024
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UfwB2aUXzcaSvmEn7nplzqjbCt22EpIlKhsteFDwVe9DhJlMWVNX6ulaeem0EUBrRr1n40EsFRTkrIsKM792Xw
+删除honey_pinkgreen 
