@@ -116,3 +116,6 @@ Tue Aug 13 08:46:49 CST 2024
 添加banet523 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.j38wUMvWE4bp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ozOHdVTXZXRTRicCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzOTQ1RkMwOS0yRjZBLTRCQTMtODE0NC1FMEVDNDg3ODFEMTkiLCJ2aWV3ZXItaWQiOiIxOTgyOTU4MCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM1MTAwMTIsImV4cCI6MTcyMzUxMDYxMn0.PSMYBpURUJuD8W9TWSdrr4iGocB9JFtUUCPHxSwihYv-UgInjQelLZ-JNlwRgbLMZy-Y-dc0y_AGxIl-Lyb63HeUUVdKeOAoFlYXIMY3y_3kXXNI_srdzTPCNBalnAwe
 Tue Aug 13 08:46:58 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+添加intim_mate https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e873866249f52a9ac0d7508b3b8e2c4603772b05dc13934f13445dcc22887fdd_trns_h264/playlist.m3u8
+Tue Aug 13 09:01:44 CST 2024
+Tue Aug 13 09:01:49 CST 2024
