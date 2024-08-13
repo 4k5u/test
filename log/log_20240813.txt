@@ -326,3 +326,7 @@ Tue Aug 13 22:18:05 CST 2024
 Tue Aug 13 22:32:08 CST 2024
 Tue Aug 13 22:32:51 CST 2024
 删除thgml1212 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cb63e8ec22b5e29cbbb1feec20ba75e40f45ef8153b0fe5b9b7890f53982b071_trns_h264/playlist.m3u8
+Tue Aug 13 22:47:14 CST 2024
+Tue Aug 13 22:47:55 CST 2024
+删除jenny9999 
