@@ -96,3 +96,7 @@ Wed Aug 14 08:17:34 CST 2024
 Wed Aug 14 08:32:48 CST 2024
 Wed Aug 14 08:32:50 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
+添加gina_gracia https://edge18-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-eb6b4ee5deb9276ba40347dfe72fc09bbb9d7b00083c787ff03e771190935ec4_trns_h264/playlist.m3u8
+Wed Aug 14 08:47:40 CST 2024
+Wed Aug 14 08:47:43 CST 2024
+删除asuna_love 
