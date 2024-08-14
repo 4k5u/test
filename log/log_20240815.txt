@@ -45,3 +45,9 @@ Thu Aug 15 02:17:16 CST 2024
 Thu Aug 15 02:32:32 CST 2024
 Thu Aug 15 02:32:41 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+Thu Aug 15 02:47:16 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNzVGQzc0Qy1DRDg5LTQxMzktOTc5QS03Q0U1OUU3MzBFNUMiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM2NjEyNDMsImV4cCI6MTcyMzY2MTg0M30.bpdWyga4AkL51tTMukNLjgO52ZtC78ykrJNcGsqL52Sl3ap9kLQ5lhYzo-ikv75C-VKc8n1ZYTCvLVjCNgjYGyvTbKr8dC6jQJof4vwag3qvYZwUcdzcvpkhsNFAFjKl
+Thu Aug 15 02:47:32 CST 2024
+删除pandaex 
+删除Asia-Lynn 
+删除Witcher_DK 
