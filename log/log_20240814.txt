@@ -217,3 +217,8 @@ Wed Aug 14 17:03:05 CST 2024
 添加ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1N0JBOUNEQi0yRDk2LTREN0QtOTg1RS02Qzk0NjA1OUEyNjYiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM2MjYxOTIsImV4cCI6MTcyMzYyNjc5Mn0.4nZxtpzuVgqY5SDnwTdqaYssiGO0qLKa3vW2H7rcoRgAxrvYC92SevFUJOJfaiZdsb9igYXeqTY-30NwTt8toWtpZJwIFESj-wzcIpWfSrVRZPz_AegnapZihm8tPCM8
 Wed Aug 14 17:03:18 CST 2024
 删除AkiShina 
+添加joysuniverse https://edge12-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e4bcfdf43ad5894b0254f8fca321e498439790904a9c6535ea5d382c349c04d4_trns_h264/playlist.m3u8
+Wed Aug 14 17:16:50 CST 2024
+Wed Aug 14 17:16:59 CST 2024
+删除MeghanCollin 
+删除your_desssert 
