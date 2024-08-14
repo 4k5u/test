@@ -102,3 +102,9 @@ Thu Aug 15 06:32:18 CST 2024
 Thu Aug 15 06:46:53 CST 2024
 Thu Aug 15 06:46:54 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Aug 15 07:47:35 CST 2024
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQkVDOUNFRC1CQUJFLTQ1QjAtODBDNy04NjI5MkQyNUMxMjAiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM2NzkyNTYsImV4cCI6MTcyMzY3OTg1Nn0._n_JNHNYTDjRHdIX534EsR-z7bzmabCsYhzxjQjeEOAobjrQ09ytgCiBoqO9QWfCDQ03Ya0soarOml1xQ0aeUPS5NtHpkcCFCTWLsBvV8RrzxSz4_-a9hWh3U2_t5Nch
+Thu Aug 15 07:47:41 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加TefFfish https://edge-hls.doppiocdn.live/hls/113460501/master/113460501_auto.m3u8
