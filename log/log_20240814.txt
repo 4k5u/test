@@ -155,3 +155,6 @@ Wed Aug 14 12:47:36 CST 2024
 Wed Aug 14 12:47:47 CST 2024
 删除gina_gracia 
 删除Sime_Naughty 
+Wed Aug 14 13:02:14 CST 2024
+Wed Aug 14 13:02:24 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
