@@ -299,3 +299,9 @@ Wed Aug 14 21:02:28 CST 2024
 Wed Aug 14 21:03:10 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.R7wyXCl8S6yyv0-_pUzTDcrBEdSdp8kZN5onvXnaG8tFVxz54IHQeYiB_zs4m02ZZJE-MLdL7s7z3ny1KY462A
 删除soraa3 
+Wed Aug 14 21:17:03 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FVZM6cu1bGTm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZWWk02Y3UxYkdUbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNzNFRjBCOS1DQUEzLTQ1OUMtOTQ4Qy04MDE2MDIzNkEyNzgiLCJ2aWV3ZXItaWQiOiIyMjg0MDkyNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM2NDE0NTMsImV4cCI6MTcyMzY0MjA1M30.oj3vBcBjpNhPyIASFJlV05TuZEecQH7upUzRKfvDgDkwyXTSki2czwhJBcdaLou2Jd6sGV2bgwoaYP_sl1Npggypxr7pL5NDaH9jPp8KFrjsO-99ei5_hqH82CXUdtRU
+Wed Aug 14 21:17:44 CST 2024
+删除minllor5 
+删除honey_pinkgreen 
+删除ehdbs0105 
