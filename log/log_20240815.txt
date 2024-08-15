@@ -193,3 +193,8 @@ Thu Aug 15 13:47:00 CST 2024
 Thu Aug 15 14:02:01 CST 2024
 添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0Mzc1MjRGMS03NDEwLTQ4MjEtODdFMi1GQTFFMzFBQ0M0ODYiLCJ2aWV3ZXItaWQiOiIyNDQzMTI4MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3MDE3MjcsImV4cCI6MTcyMzcwMjMyN30.zMc7sbcO2vUM8MhBOqswHwss_fTAmXadbPAOfu1ZZOUecgYzTqPp2xdEWif0TacN-pxWnsSLGeDdL7jw4sHPs_TKMnKj46LKCoG0TAi6e-lbemcFeYnfCRTytmxnvrqa
 Thu Aug 15 14:02:18 CST 2024
+Thu Aug 15 14:17:17 CST 2024
+Thu Aug 15 14:17:28 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除IdaJonesy 
+删除SanySenise 
