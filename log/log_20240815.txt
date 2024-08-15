@@ -116,3 +116,8 @@ Thu Aug 15 08:33:50 CST 2024
 Thu Aug 15 08:33:53 CST 2024
 添加asuna_love https://edge-hls.doppiocdn.live/hls/86249010/master/86249010_auto.m3u8
 删除TuTu-1001 
+添加oda_assuri https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2c79cd3b21d7f914fa6ec3d81b9144d55253dd0b56a97a00b4908b80f60c9ef1_trns_h264/playlist.m3u8
+添加intim_mate https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-350c7124beeb01fa5d8d9257f3ffeabd318a90570d88d75a4225f209f41fbd38_trns_h264/playlist.m3u8
+添加sexygamesx https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2ce4e15c328187497ab00509ae6e66d069e66747e89cf3e1e47ff793e1966640_trns_h264/playlist.m3u8
+Thu Aug 15 08:46:57 CST 2024
+Thu Aug 15 08:46:59 CST 2024
