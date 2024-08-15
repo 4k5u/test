@@ -341,3 +341,8 @@ Thu Aug 15 22:02:53 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除navi04 
 删除EmiliaGuess 
+Thu Aug 15 22:17:19 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NkM0MjM4OC1DN0YzLTRCNUMtOEY5MS05RjFFQjE5RjhFQUYiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3MzE0NTgsImV4cCI6MTcyMzczMjA1OH0.lKnkQHUfv5VjWFsIR3ZmanTaTIunvAmAs1rHKljKO8j2XoJe5G6rCGYtA1cE72LfG0KRz4WxMg0RmYQEBKp4UmrGEy7TZYKSOcY2FWO6ckrcacuE16QSQsTmtII2wp5q
+Thu Aug 15 22:18:10 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除cecilia0903 
