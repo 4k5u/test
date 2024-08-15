@@ -45,7 +45,7 @@ for userId in ${userIds}; do
                 echo "直播源：${hls}"
 
                 echo "$userId 推送到TG"
-                text="<b>@kbjba 提醒你！！！！</b>\n\n#Twitch 主播 #${userId} 在线\n\n本场开播时间：$startTime（UTC时间慢8小时）\n\n<a href='$hls'>直播源地址</a>\n\n<a href='twitch.tv/${userId}'>直播间链接</a>\n\n-----"
+                text="<b>@kbjba 提醒你！！！！</b>\n\nTwitch 主播 ${userId} 在线\n\n本场开播时间：$startTime（UTC时间慢8小时）\n\n<a href='$hls'>直播源地址</a>\n\n<a href='twitch.tv/${userId}'>直播间链接</a>\n\n-----"
                 #text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=HTML"
                 echo -e "$userId aaa bbb $hls">> data.txt
