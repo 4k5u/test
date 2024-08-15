@@ -75,3 +75,8 @@ Fri Aug 16 03:31:49 CST 2024
 Fri Aug 16 03:33:03 CST 2024
 添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
 删除sol3712 
+添加gina_gracia https://edge9-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-2545fc7fefa006ea45e41c65c509cc6eb9fc37790673a4732a955dd0b1d25007_trns_h264/playlist.m3u8
+Fri Aug 16 03:46:52 CST 2024
+Fri Aug 16 03:46:57 CST 2024
+Fri Aug 16 03:48:14 CST 2024
+删除Witcher_DK 
