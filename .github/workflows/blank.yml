@@ -27,6 +27,7 @@ jobs:
           sleep 10
           bash pd.sh
           bash af.sh
+          bash tw.sh
           bash st.sh
         env:
           AUTHORIZATION: ${{ secrets.AUTHORIZATION }}
