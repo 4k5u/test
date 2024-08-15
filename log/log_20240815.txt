@@ -316,3 +316,9 @@ Thu Aug 15 20:47:14 CST 2024
 Thu Aug 15 20:48:01 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.90iQq1KNJDTGk7Cf1VGY3OFIiJYnaS9ZyCsWlEuaJb5DIKS3OreL715_LnFCP5QmAE-2qpSlZsTPuIcHCueT-g
 删除my_eyes_higher 
+Thu Aug 15 21:02:15 CST 2024
+添加stuiliillive https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.edIsqNIAqF2h.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VkSXNxTklBcUYyaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MTExNjJFNy0xNjQ1LTRDNzktQURCNi04OTRDQzYyQjZBQ0UiLCJ2aWV3ZXItaWQiOiIyNDY3NTE0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3MjY5NTAsImV4cCI6MTcyMzcyNzU1MH0.-d0dOfH4HSFFMBhp4SoYq1SyXBBLX5UXdnC-NJwCxoE6sz4RrI-XKPzEAX8Al9EeeOr5r0-UktVfrijFxHQoyCo6Its5KMHRwU-6Lp5ylbpCYsr4oFvwxWARyskmZTtg
+Thu Aug 15 21:02:58 CST 2024
+删除acac88 
+删除morphesoull 
+删除moem9e9 
