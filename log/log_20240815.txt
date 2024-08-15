@@ -227,3 +227,9 @@ Thu Aug 15 16:17:01 CST 2024
 Thu Aug 15 16:17:08 CST 2024
 Thu Aug 15 16:32:00 CST 2024
 Thu Aug 15 16:32:06 CST 2024
+添加joysuniverse https://edge6-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-182c0abdafb8da38f59fecffb47751f7439f304eff44a75fe8c5771c1c911db2_trns_h264/playlist.m3u8
+Thu Aug 15 16:48:19 CST 2024
+Thu Aug 15 16:48:26 CST 2024
+添加navi04 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QITRJe3IKBfJn8cK2GD4hC1IZ5wZlkIMejYmnupfPkke3CJsmvTcgyLmVChy4izDeled-QbIHVeS36A4lIMQ3w
+删除Judy0523 
+删除hanny27 
