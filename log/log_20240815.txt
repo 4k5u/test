@@ -213,3 +213,6 @@ Thu Aug 15 15:16:51 CST 2024
 添加minllor5 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E2SD0xJDwT0Z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0UyU0QweEpEd1QwWiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5REM0ODA3MS03QjQ5LTRDNzctQjY4My0zRDU4QTlFNjYwQUUiLCJ2aWV3ZXItaWQiOiIyNDczNTQwOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM3MDYyMTMsImV4cCI6MTcyMzcwNjgxM30.A5bx6bY8aVjYcykoblsR7a8o6smy7dmvIAv2zxtokkzFmq450rho4oQl6qh73ZRpOEtv-w7jOxwFWtuQFFe1gFaRB57MPeHJQb_T6b72eytAOHq-OoB9_OySI-lFJ5ku
 Thu Aug 15 15:17:06 CST 2024
 添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5JtNHXDwPN-JErZP6_Fu8lnPtBt4gReB0jruwHoxEJw6pAmov3cErWCqNr9wZYlTsm-w7HlDDmG6SRmDZoZEFg
+Thu Aug 15 15:31:54 CST 2024
+Thu Aug 15 15:32:05 CST 2024
+删除jjine0127 
