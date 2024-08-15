@@ -21,7 +21,15 @@ do
         else
             echo "$userId 直播源有效"
         fi
-        
+    elif [[ "$url" == *"https://usher.ttvnw"* ]]; then
+        http_code=$(curl -o /dev/null -s -w "%{http_code}"  "https://static-cdn.jtvnw.net/previews-ttv/live_user_${userId}.jpg")
+        if [ "$http_code" -ne 200 ]; then
+            echo  "$userId 已下播"
+            echo -e "删除$userId $hls">> $logfile
+            sed -i "\~$url~d" data.txt
+        else
+            echo "$userId 直播源有效"
+        fi
     elif curl --max-time 15 --connect-timeout 5 --retry-delay 0 --retry 1  --output /dev/null --silent --head --fail "$url"; then
         echo "$userId - $url 直播源有效"
     else
