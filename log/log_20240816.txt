@@ -50,3 +50,8 @@ Fri Aug 16 02:17:08 CST 2024
 Fri Aug 16 02:18:15 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Tmdgus5411 
+添加kiyoko_rin https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e0d86bba56a4d445905debbbd5e73cf66dec201af93d11f456c5ee1e0aa49661_trns_h264/playlist.m3u8
+Fri Aug 16 02:31:51 CST 2024
+Fri Aug 16 02:31:59 CST 2024
+Fri Aug 16 02:33:09 CST 2024
+删除pandaex 
