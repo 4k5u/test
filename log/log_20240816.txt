@@ -339,3 +339,7 @@ Fri Aug 16 17:48:11 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除Judy0523 
 删除your_desssert 
+Fri Aug 16 18:01:47 CST 2024
+Fri Aug 16 18:01:56 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bkbVhNx9sf28mtZ0baCblbXFiuOgrjVpumjgSDxfsoc71--vKNQdTOGrf9eobqJxlz0qGibffO2PeqGyRFVVrw
+Fri Aug 16 18:03:19 CST 2024
