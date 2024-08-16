@@ -217,3 +217,13 @@ Fri Aug 16 11:33:24 CST 2024
 Fri Aug 16 11:47:28 CST 2024
 Fri Aug 16 11:47:37 CST 2024
 Fri Aug 16 11:48:48 CST 2024
+Fri Aug 16 12:02:05 CST 2024
+Fri Aug 16 12:02:14 CST 2024
+添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1vabf_O3EYBONYLSpRH-yvgmeiWbZlFbWJUI3ggqk5o_dx-j-G-FO8OAWub90SACR5VhWaZK8A_MbTRmaxS0Dw
+Fri Aug 16 12:03:39 CST 2024
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除gina_gracia 
+删除amilia4u 
+删除San___San 
