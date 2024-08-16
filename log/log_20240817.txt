@@ -51,3 +51,9 @@ Sat Aug 17 02:17:20 CST 2024
 Sat Aug 17 02:18:22 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除Ryo-sama 
+添加kiyoko_rin https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3710ce56a7a48114b8dffea7542ebb08f98c48c6b95f741fbb496c5d9b23ef91_trns_h264/playlist.m3u8
+Sat Aug 17 02:31:49 CST 2024
+Sat Aug 17 02:32:06 CST 2024
+Sat Aug 17 02:33:06 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除172----95----student 
