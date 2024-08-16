@@ -236,3 +236,10 @@ Fri Aug 16 12:32:23 CST 2024
 Fri Aug 16 12:32:34 CST 2024
 Fri Aug 16 12:33:43 CST 2024
 删除SanySenise 
+Fri Aug 16 12:47:14 CST 2024
+Fri Aug 16 12:47:24 CST 2024
+Fri Aug 16 12:48:36 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除bps1016 
+删除_PunPun18 
+删除IdaJonesy 
