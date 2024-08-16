@@ -279,3 +279,9 @@ Fri Aug 16 14:32:15 CST 2024
 Fri Aug 16 14:32:24 CST 2024
 Fri Aug 16 14:33:36 CST 2024
 删除amilia4u 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-46b2924f007290309e2cc6e3d9f8a8587928934f26a93d86a07fab7e3abd3a05_trns_h264/playlist.m3u8
+添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-fe819386f704dd7453680a4e398b77aa1e0a8192ce391880822a9e653e60eb68_trns_h264/playlist.m3u8
+Fri Aug 16 14:47:02 CST 2024
+Fri Aug 16 14:47:11 CST 2024
+Fri Aug 16 14:48:22 CST 2024
+删除glglehddl 
