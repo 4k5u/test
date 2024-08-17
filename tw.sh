@@ -32,7 +32,8 @@ for userId in ${userIds}; do
             startTime=$(echo "$stream"|jq -r .createdAt)
             streamPlaybackAccessToken=$(echo "$res"| jq -r .data.streamPlaybackAccessToken.value)
             signature=$(echo "$res"| jq -r .data.streamPlaybackAccessToken.signature)
-            img="https://static-cdn.jtvnw.net/previews-ttv/live_user_${userId}.jpg"
+            timestamp=$(date +%s)
+            img="https://static-cdn.jtvnw.net/previews-ttv/live_user_${userId}.jpg?${timestamp}"
         
             murl="https://usher.ttvnw.net/api/channel/hls/${userId}.m3u8"
             encoded_token=$(printf "%s" "$streamPlaybackAccessToken" | jq -sRr @uri)
