@@ -69,3 +69,10 @@ Sun Aug 18 03:01:53 CST 2024
 Sun Aug 18 03:02:35 CST 2024
 Sun Aug 18 03:03:44 CST 2024
 删除100472 
+添加kiyoko_rin https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-e08eedc7e1ca71e78207b8a6de8ae4d10a3e6c6610e117f16fe22ab397d36d26_trns_h264/playlist.m3u8
+Sun Aug 18 03:16:47 CST 2024
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQjk0QzM0OS1EMDQzLTQzNzUtODUzQy05QzQ5Mjg3ODEyMkMiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5MjIyMDksImV4cCI6MTcyMzkyMjgwOX0.tvlxHm_F0Ljo8ZGDhxZ3WjXWdIoPC3neCXBUQxMuN-41UnaVjmCaFOcgvyb0wgL39ppJUF3xGvXZ39Lpoo-0nSfLmFIh3T9CghGChAMhzExQ3WM-wJpy2Y8HkYQitnZB
+Sun Aug 18 03:16:57 CST 2024
+Sun Aug 18 03:18:09 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除ee5844 
