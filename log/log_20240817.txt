@@ -370,3 +370,12 @@ Sat Aug 17 19:46:54 CST 2024
 Sat Aug 17 19:47:13 CST 2024
 Sat Aug 17 19:48:19 CST 2024
 删除hanny27 
+Sat Aug 17 20:02:01 CST 2024
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sHO2K9o9NCa6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NITzJLOW85TkNhNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMUJGMUU0OS01NUQyLTQ5RjMtQjY2Ny02NjdCQjc4Mjk4NzIiLCJ2aWV3ZXItaWQiOiIyMjU5NDUzMSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM4OTYxMzksImV4cCI6MTcyMzg5NjczOX0.9pfq4nTCgTuaQ01Dw6fEx8YCAy7RMc5fKjminWQmqstyQkel9zLrMC2URZGAQRCmFzgJOJ9HMsl_jTe0zwbc2FXgQCvWAc9uGAn0J-qpwkOUwxTnrUvO7wxCnXN7xPwX
+Sat Aug 17 20:02:26 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.biN_Xij1aN-1y9Ata-g3IUDy7l6Pg8_WZN9rdPuRbWYh6rQVBTn3_3Hsqqg0qufn4uMXgWT3Xz8UzqRkjkm-oQ
+添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aA0cmt6tCgX3X5lIP0KBjruxpf4j5o_qlOLnALHQUh9XS_82Bc36Asvg59uj1AJAF_8NWy6wKWgaTMUa83ILiw
+Sat Aug 17 20:03:46 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除happyy2 
