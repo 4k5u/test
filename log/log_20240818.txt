@@ -149,3 +149,7 @@ Sun Aug 18 07:31:58 CST 2024
 Sun Aug 18 07:32:05 CST 2024
 Sun Aug 18 07:33:20 CST 2024
 删除mazzanti_ 
+Sun Aug 18 07:46:56 CST 2024
+Sun Aug 18 07:47:00 CST 2024
+Sun Aug 18 07:48:16 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
