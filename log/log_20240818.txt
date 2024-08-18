@@ -458,3 +458,8 @@ Sun Aug 18 22:03:54 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除y1026 
 删除na2ppeum 
+添加galantini https://edge14-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-40bff165370e1ca3d8d2b7203b7fffec43a282e7a61508fc44f7850f4183ab88_trns_h264/playlist.m3u8
+Sun Aug 18 22:17:22 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwOEIzNENCQS0wODJBLTQyQzYtOEJGRC01Q0MyMjNGRTI5NzgiLCJ2aWV3ZXItaWQiOiIyMzQxNjQ1NiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5OTA2NjUsImV4cCI6MTcyMzk5MTI2NX0.TVLZBb1JTZFLJ8aqXq8n_6TRBNDgUoli2uOVI24ispES690WILjDxHAdqWCqWR6FKJMAhb14fyJnUqio4XdaC7M1eEz-Odd3Mn7GVz0tMxpvvLHFXk-4_OkNI55tuZ_o
+Sun Aug 18 22:18:06 CST 2024
+Sun Aug 18 22:19:05 CST 2024
