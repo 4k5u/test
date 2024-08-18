@@ -85,3 +85,8 @@ Mon Aug 19 03:47:20 CST 2024
 Mon Aug 19 03:47:21 CST 2024
 Mon Aug 19 03:48:34 CST 2024
 删除cecilia0903 
+Mon Aug 19 04:02:11 CST 2024
+Mon Aug 19 04:02:12 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.B-D1M5frZYaVOEButu87lH1Y8lYeaPOgHlAB__5oUvuac1vi174MNxOdrV07yDjD9Zx2Dv4t8KxeP8ol19-Raw
+Mon Aug 19 04:03:33 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
