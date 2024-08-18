@@ -353,3 +353,8 @@ Sun Aug 18 18:01:53 CST 2024
 Sun Aug 18 18:02:07 CST 2024
 Sun Aug 18 18:03:18 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+Sun Aug 18 18:16:46 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRjUzMEM4OS1GQkM3LTQwRUYtQUM1MC1BRkU0N0EyN0VCNDgiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5NzYyMDcsImV4cCI6MTcyMzk3NjgwN30.W9IZXUg-e1x65VcxXT-aAhvbnB4YapoQgEP-eM3ntOjzGV275Zo_ADlsLiLGqX6XlLkjjpXqHVMlblZtD2PeLS5dQD5jghEQIkwLInTO_QOIB3cH2DLbYvyqKvc9gk1U
+Sun Aug 18 18:17:00 CST 2024
+Sun Aug 18 18:18:49 CST 2024
+删除your_desssert 
