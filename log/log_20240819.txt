@@ -90,3 +90,9 @@ Mon Aug 19 04:02:12 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.B-D1M5frZYaVOEButu87lH1Y8lYeaPOgHlAB__5oUvuac1vi174MNxOdrV07yDjD9Zx2Dv4t8KxeP8ol19-Raw
 Mon Aug 19 04:03:33 CST 2024
 添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加gina_gracia https://edge12-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-6c3f34676dab10faf6f3b55e5e9ea54e7ced2a80e8194562e0f59af494aa8c52_trns_h264/playlist.m3u8
+Mon Aug 19 04:17:34 CST 2024
+Mon Aug 19 04:17:34 CST 2024
+Mon Aug 19 04:18:50 CST 2024
+删除alicelebel 
+删除LOVE-Juan520- 
