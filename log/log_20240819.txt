@@ -72,3 +72,9 @@ Mon Aug 19 03:02:49 CST 2024
 Mon Aug 19 03:02:50 CST 2024
 Mon Aug 19 03:04:01 CST 2024
 删除3ww1ww3 
+添加kiyoko_rin https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-15870edf537c775547aa6b623e0bbb4151375d29f1ef63ed1f24fa45a9feb245_trns_h264/playlist.m3u8
+Mon Aug 19 03:16:45 CST 2024
+Mon Aug 19 03:16:45 CST 2024
+Mon Aug 19 03:17:59 CST 2024
+添加TuTu-1001 https://edge-hls.doppiocdn.live/hls/139016678/master/139016678_auto.m3u8
+删除sol3712 
