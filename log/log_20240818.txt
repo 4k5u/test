@@ -470,3 +470,9 @@ Sun Aug 18 22:46:57 CST 2024
 Sun Aug 18 22:47:35 CST 2024
 Sun Aug 18 22:48:39 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sun Aug 18 23:02:05 CST 2024
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQTc4QkJDMy05OTMwLTRGNkMtQUY0Ri1FQjM5RTdENjQwOUEiLCJ2aWV3ZXItaWQiOiIyNDEzODQ3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjM5OTMzNDAsImV4cCI6MTcyMzk5Mzk0MH0.JffSBhTFnWsP8OiTIXGejNg7I8x1L8nClz5nX5sAqdQ17AeSJwV75ETLy0KOut-s4AWSO3JiXwRu7fm9AhfWaywAJCAlQsD9dzocJE2duiJHoTGYyRHXnCaWa-j4EO6K
+Sun Aug 18 23:02:48 CST 2024
+Sun Aug 18 23:03:49 CST 2024
+删除lovable12 
+删除Asia-Lynn 
