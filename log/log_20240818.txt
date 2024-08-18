@@ -216,3 +216,9 @@ Sun Aug 18 11:02:14 CST 2024
 Sun Aug 18 11:03:28 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除intim_mate 
+Sun Aug 18 11:16:52 CST 2024
+Sun Aug 18 11:17:00 CST 2024
+Sun Aug 18 11:18:15 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除hotse777 
+删除_meganmeow_ 
