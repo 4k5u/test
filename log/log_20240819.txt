@@ -155,3 +155,9 @@ Mon Aug 19 07:33:13 CST 2024
 Mon Aug 19 07:47:16 CST 2024
 Mon Aug 19 07:47:19 CST 2024
 Mon Aug 19 07:48:26 CST 2024
+添加intim_mate https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-88bb412ef8429b8d8fc643a6b3960f362d24cd60b97314e4b9b7647ea8ef3bd5_trns_h264/playlist.m3u8
+Mon Aug 19 08:01:49 CST 2024
+Mon Aug 19 08:01:51 CST 2024
+Mon Aug 19 08:03:06 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除362540 
