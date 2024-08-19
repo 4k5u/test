@@ -281,3 +281,8 @@ Mon Aug 19 14:32:30 CST 2024
 Mon Aug 19 14:33:41 CST 2024
 删除Dolv_1o 
 删除Xenomy 
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cc170e412a80fab6fed3a1eb7daeed68c6b0a21e9a7f8b911c8d1bdcd7ff8d6e_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2004ece0100037cab3d32f0bf6bc978cbb525d3a2e97ec08f1308973d9c54696_trns_h264/playlist.m3u8
+Mon Aug 19 14:47:50 CST 2024
+Mon Aug 19 14:47:59 CST 2024
+Mon Aug 19 14:49:09 CST 2024
