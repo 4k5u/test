@@ -314,3 +314,7 @@ Mon Aug 19 16:17:21 CST 2024
 Mon Aug 19 16:18:49 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除dkssudgktpdy233 
+Mon Aug 19 16:32:47 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NTQ4M0Y0NC1GNTA1LTQ2MzYtOTRGNC1ERkYyMzEwQTUyMEIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQwNTYzNzAsImV4cCI6MTcyNDA1Njk3MH0.SUeI9bjffzf8HP2LITuwybsCwnDWaYF6CWRX0AS0RTDr2mJcEYudvbpvdJEh3pOXLKvXKOC90suaN9FG3A9MJf6FDXLwIPj3ddzARpi36Br5srZ3ZNGL59jOr52nG0ZQ
+Mon Aug 19 16:32:59 CST 2024
+Mon Aug 19 16:34:07 CST 2024
