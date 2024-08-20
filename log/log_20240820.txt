@@ -147,3 +147,7 @@ Tue Aug 20 08:33:14 CST 2024
 Tue Aug 20 08:46:57 CST 2024
 Tue Aug 20 08:46:58 CST 2024
 Tue Aug 20 08:48:15 CST 2024
+添加intim_mate https://edge2-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-8c701064ff07f5278933b033e94813369522526405de09c2b955ac6fd00f8bcb_trns_h264/playlist.m3u8
+Tue Aug 20 09:02:01 CST 2024
+Tue Aug 20 09:02:01 CST 2024
+Tue Aug 20 09:03:18 CST 2024
