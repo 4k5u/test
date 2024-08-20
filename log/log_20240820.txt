@@ -248,3 +248,8 @@ Tue Aug 20 14:19:01 CST 2024
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除Reaowna 
 删除Dolv_1o 
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a554b3413536cbcfd5121be17a32d2d36cb8871a71d7904447e4e5dc8cb0cb4e_trns_h264/playlist.m3u8
+Tue Aug 20 14:32:55 CST 2024
+Tue Aug 20 14:33:05 CST 2024
+Tue Aug 20 14:34:26 CST 2024
+删除4ocari 
