@@ -402,3 +402,14 @@ Tue Aug 20 21:48:11 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.T90X1EsUZms04_ZzQHofWy3DmtyY6eYZw9YjJDUIdDD-aLffOFP1_95CYHPZDJFF4Of7kViHtpLqIr6r5EteoQ
 Tue Aug 20 21:49:22 CST 2024
 删除ehdbs0105 
+Tue Aug 20 22:02:45 CST 2024
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yZavKVo7h55z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3laYXZLVm83aDU1eiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQjVFQTMzMS0yNUY4LTQ4OUItOTZBRS1DMUQxOTRCQTMyOEQiLCJ2aWV3ZXItaWQiOiIyNDY0MjEyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNjI1NzIsImV4cCI6MTcyNDE2MzE3Mn0.nmrJI5f5JpK5Y3Uwzvk0MRCF8Eu3UnqoiqeXN6DVx5M969wzzhcb7ErpyO3v8yjSkzylcyi_j640a-JqnDt8b9OEDrlOnw9jnjtX_I8GnUj_VRxpj95z-bwMCNKo5KPv
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NTI5ODUyRi1GNEFCLTQxNUUtQjUzQS05NUZCNzk3RkQ0NkIiLCJ2aWV3ZXItaWQiOiIyMTA1ODEzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQxNjI2MDYsImV4cCI6MTcyNDE2MzIwNn0.avueo8Gpcn0GJa37fO42niIIPKapfWywPwiQ3r48UNdEcOtN6UW7HIBxdHJRqt_fPRlH-VMxpGiUo0B-QkiNzHV4gHFMFfnHwvLpJ7a-YnU3NOGmsB9E-PGfJiBCBZq8
+Tue Aug 20 22:03:40 CST 2024
+Tue Aug 20 22:04:36 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除lovable12 
+删除MeghanCollin 
+删除golaniyule0 
+删除eerttyui12 
