@@ -308,3 +308,8 @@ Wed Aug 21 16:34:26 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除MeghanCollin 
 删除Judy0523 
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-627a5c70ae5927b7cbff0015272f7133f6de44966a886b345bcf32ae0370fb08_trns_h264/playlist.m3u8
+Wed Aug 21 16:47:19 CST 2024
+Wed Aug 21 16:47:34 CST 2024
+Wed Aug 21 16:48:49 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
