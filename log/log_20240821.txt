@@ -209,3 +209,9 @@ Wed Aug 21 11:31:57 CST 2024
 Wed Aug 21 11:32:06 CST 2024
 Wed Aug 21 11:33:24 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加sexygamesx https://edge6-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-75ee02ede92a0e0589ad3f86dc8ada0fa66b2083eed33b7c8b9abcad6a3a299d_trns_h264/playlist.m3u8
+Wed Aug 21 11:48:02 CST 2024
+Wed Aug 21 11:48:11 CST 2024
+Wed Aug 21 11:49:22 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除kjjeong0609 
