@@ -192,3 +192,9 @@ Wed Aug 21 10:32:47 CST 2024
 Wed Aug 21 10:34:02 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除gina_gracia 
+添加joysuniverse https://edge9-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-1f1382033adffb81a5d4bdeeb982181a5f6dcca3610ddfbb6a6222335426b6c5_trns_h264/playlist.m3u8
+Wed Aug 21 10:47:48 CST 2024
+Wed Aug 21 10:47:57 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.b3H-AFy2MeZgZB5AvblndJ1zhdUJpDlkjvYExIW47Uw9ghUihThGJtbBF_7AEgMFldigEvD2lEj3AO-OhdKWdQ
+Wed Aug 21 10:49:18 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
