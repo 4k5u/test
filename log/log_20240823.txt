@@ -8,3 +8,11 @@ Fri Aug 23 00:03:23 CST 2024
 删除kyul365 
 删除soraa3 
 删除ksb0219 
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-04eda24c1b3391207fcfefa77f97179e6d351045159e411c42ef1b7c13a5dd77_trns_h264/playlist.m3u8
+Fri Aug 23 00:16:52 CST 2024
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOTBCMkFGRS1BOERCLTRDQzgtODg0NC04QjhBMDYyMENDOUEiLCJ2aWV3ZXItaWQiOiIyNDIzNzE5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzNDM0MTcsImV4cCI6MTcyNDM0NDAxN30.8ecr8edjmEPWxd-joOrVmVqEYHvc1-F7a01qPVPk0Kj4lwcMOXHU9ctNrBXJyrHZ6K_p-iRbRuEnX2Z6nx9uUaO9i4-6paEpe8Ve82QpU7NqsdsJ7oqvXcUNwlXLtSfo
+Fri Aug 23 00:17:10 CST 2024
+Fri Aug 23 00:18:18 CST 2024
+删除dign1461 
+删除ee5844 
+删除dana9282 
