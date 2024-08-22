@@ -194,3 +194,10 @@ Thu Aug 22 10:47:38 CST 2024
 Thu Aug 22 10:48:54 CST 2024
 删除San___San 
 删除Xenomy 
+Thu Aug 22 11:02:36 CST 2024
+Thu Aug 22 11:03:12 CST 2024
+Thu Aug 22 11:04:31 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除hotse777 
+删除Judy0523 
