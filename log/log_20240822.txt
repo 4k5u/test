@@ -370,3 +370,10 @@ Thu Aug 22 20:05:25 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除dkssudgktpdy233 
 删除soraa3 
+Thu Aug 22 20:18:35 CST 2024
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NzYwMzcyMi1CMDA3LTQ3RTUtQjQwOS1FRUE4MTVCMTM4M0MiLCJ2aWV3ZXItaWQiOiIxOTIyMjg1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzMjkxMzUsImV4cCI6MTcyNDMyOTczNX0.AZ_O8Qvi6PXMHpnPQoWNhXBRcL8cSX1lel4lxRtgTNdyIW4J1UwGjqRgl6VTfkXsIIeu9eE9wYfNXhu1KXtaC3JX2nClc8Rr1V20PcZJzOy3-rjTli8I917qTXUCejfZ
+Thu Aug 22 20:19:07 CST 2024
+Thu Aug 22 20:20:18 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除AkiShina 
+删除Asia-Lynn 
