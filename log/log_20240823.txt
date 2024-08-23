@@ -414,3 +414,9 @@ Fri Aug 23 21:03:24 CST 2024
 Fri Aug 23 21:04:28 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除lovable12 
+Fri Aug 23 21:17:27 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MzQzRDVEMi00MThFLTQ5OTktQUEzOC1FNUExODZFQ0Y5QzkiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyNDQxOTA3MywiZXhwIjoxNzI0NDE5NjczfQ._ixx9-sFUlY-afGtkxuw2uB8_oUmAAPtLlS8ZqaPoSot6ImYa_ULQLWY5uDv_g2xq8Cy7GrUQGwQm0EaVttU72Eea8zUkV89pro-P1yxSXW7c2P98yeIco5Qom3Ov0Jc
+Fri Aug 23 21:17:58 CST 2024
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.a3mbkHoAgH_xu_c60CEe4vGKZjp10YTKGm0S0WeQqLm_HG9qPNdS42aKh9R_HYXidX6iaMEgEQ9GKv6RYj2GuQ
+Fri Aug 23 21:19:16 CST 2024
+删除muse62 
