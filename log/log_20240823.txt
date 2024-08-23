@@ -246,3 +246,13 @@ Fri Aug 23 13:17:05 CST 2024
 Fri Aug 23 13:17:11 CST 2024
 Fri Aug 23 13:18:29 CST 2024
 删除Sime_Naughty 
+添加mode_bad https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b06f172bf1f60926f329c26a47b36d1f45ec9397064a5e6c7d0e6fed8cc6d22f_trns_h264/playlist.m3u8
+Fri Aug 23 13:32:17 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMEEzMTZENS1CN0NELTQ0N0YtQjcyNS01MjgzREUyMzczRDIiLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQzOTExNDQsImV4cCI6MTcyNDM5MTc0NH0.l5FbMD5-CcQ1DvHig-9XsdNX6TE48UDy0Msh_Rcv29EgCwyHYP1QzKHZng7vNmsOev2vCAw4BzzEvcH9FBGAc8Kop_HVCUhDgOEWtPC-pbbyx4DCKCE1HZC9EaSTe0WU
+Fri Aug 23 13:32:32 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eAXFqGOZ0vKvcW-ZH-2ED4oKvZ295XYRRynXmVh9OX7ztezFHjyRaWVqxU3eKk8fsJFDd-vyGnUiZxO_fl7WJw
+Fri Aug 23 13:33:48 CST 2024
+删除IdaJonesy 
+删除Xenomy 
+删除oki_dokie 
+删除my_eyes_higher 
