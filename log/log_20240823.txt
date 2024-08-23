@@ -426,3 +426,9 @@ Fri Aug 23 21:34:14 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除navi04 
 删除qwas33 
+Fri Aug 23 21:47:58 CST 2024
+添加qwas33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bDL9fG4ShenS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2JETDlmRzRTaGVuUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQkRFRTBCRS02MjE4LTQyMTktQTJDNi02QzNFRjEzNEQ1NkIiLCJ2aWV3ZXItaWQiOiIxNzg1NDkxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0MjA4OTUsImV4cCI6MTcyNDQyMTQ5NX0.M064IvOgNLU_sjUTsWhdi_qfpVjbP8WuUl2n86L8oEpn0E1N4xgDqF8cPNaHPpTGxElRwI-vV3ZZ886WHL-dgCIANItiNWH6ZBK221pmBoKOE0QEHD6iYDCNqitlRfFv
+Fri Aug 23 21:48:32 CST 2024
+Fri Aug 23 21:49:35 CST 2024
+删除hotse777 
+删除JessicaRewan 
