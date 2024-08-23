@@ -327,3 +327,10 @@ Fri Aug 23 17:02:43 CST 2024
 Fri Aug 23 17:04:00 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除hanny27 
+添加joysuniverse https://edge9-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-667cea2fc289e56ba53fad3f2fdf3456ada706d190e6787a9c1e93fb23b616a7_trns_h264/playlist.m3u8
+Fri Aug 23 17:17:12 CST 2024
+Fri Aug 23 17:17:23 CST 2024
+Fri Aug 23 17:18:34 CST 2024
+删除won110 
+删除MeghanCollin 
+删除acac88 
