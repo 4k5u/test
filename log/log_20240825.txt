@@ -62,3 +62,8 @@ Sun Aug 25 03:02:04 CST 2024
 Sun Aug 25 03:03:18 CST 2024
 删除sol3712 
 删除cecilia0903 
+添加kiyoko_rin https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7a19f22799c658bba0a6a9469be8fe29156d67f4bd1f1a80102cb22312aac2de_trns_h264/playlist.m3u8
+Sun Aug 25 03:17:05 CST 2024
+Sun Aug 25 03:17:05 CST 2024
+Sun Aug 25 03:18:15 CST 2024
+删除ee5844 
