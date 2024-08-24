@@ -350,3 +350,8 @@ Sat Aug 24 19:02:00 CST 2024
 Sat Aug 24 19:03:16 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除sigmasian 
+Sat Aug 24 19:16:46 CST 2024
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eFD9AIvLFCaB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VGRDlBSXZMRkNhQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzc3QjY5Qy1BMTk1LTRBMkEtOEJDQS00Q0E2MjFENTdCNjIiLCJ2aWV3ZXItaWQiOiIxODI5NDE3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0OTgyMTgsImV4cCI6MTcyNDQ5ODgxOH0.zC9IiP3Ex5WzF2dmkZyclWlK8DJQ_Acv0LHpSS1S-JXgRt18FgChigBDbWcdi6Wip1z0NMFH6MF5fpakBbhx65u1RaEEqXvXDxVKeQv85hDJrsoj1jW1nG9mMwCfX452
+Sat Aug 24 19:17:04 CST 2024
+Sat Aug 24 19:18:07 CST 2024
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
