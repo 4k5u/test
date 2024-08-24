@@ -369,3 +369,9 @@ Sat Aug 24 20:03:19 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
 删除dkssudgktpdy233 
 删除eunyoung1238 
+Sat Aug 24 20:16:58 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQzYxQTgxMi0xQjRFLTQ3QUItQTM2OC01RUMyMEMyOUQxMTkiLCJ2aWV3ZXItaWQiOiIyMjkyODczMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1MDE4MjgsImV4cCI6MTcyNDUwMjQyOH0.gpWGnYa6gRYXfpaiiqP_pUyrmdAZgOCKdA_ic_LWC3lpnJrIO0m1T0sp2zvqoE1ZK5lfdHUa6DKhsI6eC6PuJ7rD1L0_X472eWZVD6na6V_zgTyb1JvcBwM7AzwcV5zI
+Sat Aug 24 20:17:20 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jim1zuB1BGyRnS3VsLH0LcLnvXFZM1cuYJpjh4XDiGecf8qyuozvntpHedEmnTPZqvSsbo1juQie-Wg-y1A_ow
+Sat Aug 24 20:18:26 CST 2024
+删除foxylovesyou 
