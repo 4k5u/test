@@ -405,3 +405,8 @@ Sat Aug 24 21:33:24 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除JP-KARIN 
+添加iminako https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-ee4d0453f2149c6ffdecd992ccae2043a972b2993cd632c29ee5a457d650dda0_trns_h264/playlist.m3u8
+Sat Aug 24 21:46:57 CST 2024
+Sat Aug 24 21:47:24 CST 2024
+Sat Aug 24 21:48:21 CST 2024
+删除navi04 
