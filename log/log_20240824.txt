@@ -306,3 +306,8 @@ Sat Aug 24 16:32:39 CST 2024
 Sat Aug 24 16:32:45 CST 2024
 添加navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.x7RRj4En9Z9bw0-GP6RBz6quasifDgGCdSezekvbaxPxGc8q0oxqJjhNh_xdZPzxi8mVaW2wquh2qeQFmG9JVw
 Sat Aug 24 16:34:01 CST 2024
+Sat Aug 24 16:47:31 CST 2024
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yiwiZpcpVXS0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3lpd2lacGNwVlhTMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMzVEMEEyQi05OUNDLTQ4M0EtOEUyNy0zOERGMzNFRDM5MkYiLCJ2aWV3ZXItaWQiOiIyNDc3ODg5MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ0ODkyNTQsImV4cCI6MTcyNDQ4OTg1NH0.dhtTY9JviPLKBaXXiXrOh5KrTs27FTDV5o9I_cfuapMkFhbOAUR6KRkakwDZDFu7a7q6YwclWON8tMwJ8IEnZIjMyiB-fSRM7t4vklaDTWBfiecHkme7ooW6rYfaox7i
+Sat Aug 24 16:47:42 CST 2024
+Sat Aug 24 16:48:48 CST 2024
+删除acac88 
