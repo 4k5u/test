@@ -204,3 +204,9 @@ Sat Aug 24 11:02:24 CST 2024
 Sat Aug 24 11:02:40 CST 2024
 Sat Aug 24 11:03:58 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加joysuniverse https://edge5-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-71cca98847d9608397addf3c7b0e17154b9b98da8591b9a14a13385e8cc8ccd5_trns_h264/playlist.m3u8
+Sat Aug 24 11:17:27 CST 2024
+Sat Aug 24 11:17:34 CST 2024
+Sat Aug 24 11:18:51 CST 2024
+删除IdaJonesy 
+删除Dolv_1o 
