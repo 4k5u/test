@@ -399,3 +399,9 @@ Sat Aug 24 21:16:59 CST 2024
 Sat Aug 24 21:17:38 CST 2024
 Sat Aug 24 21:18:34 CST 2024
 删除leelate 
+Sat Aug 24 21:31:56 CST 2024
+Sat Aug 24 21:32:23 CST 2024
+Sat Aug 24 21:33:24 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除JP-KARIN 
