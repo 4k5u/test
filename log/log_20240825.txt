@@ -224,3 +224,9 @@ Sun Aug 25 13:17:34 CST 2024
 Sun Aug 25 13:17:39 CST 2024
 Sun Aug 25 13:18:53 CST 2024
 删除muse62 
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bc757cae1154352d5b01b5a91d230a7d374b29fe26b6c309abc4daa4e502d50c_trns_h264/playlist.m3u8
+Sun Aug 25 13:32:12 CST 2024
+Sun Aug 25 13:32:14 CST 2024
+Sun Aug 25 13:33:32 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除joysuniverse 
