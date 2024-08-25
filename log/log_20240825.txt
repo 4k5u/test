@@ -182,3 +182,8 @@ Sun Aug 25 10:33:14 CST 2024
 Sun Aug 25 10:47:06 CST 2024
 Sun Aug 25 10:47:11 CST 2024
 Sun Aug 25 10:48:18 CST 2024
+Sun Aug 25 11:01:55 CST 2024
+添加2dayday https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YpO1XP9f4ItW.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lwTzFYUDlmNEl0VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENEY3MUM1MC04MzEzLTQzMzEtQjA3OC1GQUVCQjQ0N0Y1OTMiLCJ2aWV3ZXItaWQiOiIyMTk4OTAwMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NTQ5MjAsImV4cCI6MTcyNDU1NTUyMH0.zw16lg5L1Q3JaPnk6urcWPXmQcUeDlvNI1WmkCY_aamp7UawpZFa0UwTVKuHvxHjktxnzOCbPocWycVFvnfTJnhX5sw_yLVkXvnRRjKjoVJYrojYfCwcQOEV0ANmxbkO
+Sun Aug 25 11:02:06 CST 2024
+Sun Aug 25 11:03:17 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
