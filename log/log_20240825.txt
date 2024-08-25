@@ -195,3 +195,12 @@ Sun Aug 25 11:32:19 CST 2024
 Sun Aug 25 11:32:26 CST 2024
 Sun Aug 25 11:33:36 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加amilia4u https://edge7-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-16337f03bee05fa68a706017ea5f3255d274239212bf13db667cf5b64cbb7af2_trns_h264/playlist.m3u8
+添加joysuniverse https://edge8-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-e87d133eddf53dfe19431db464e03de447d08b42c7b0020670cd68b7cad1028c_trns_h264/playlist.m3u8
+Sun Aug 25 12:02:23 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOTk0NkFBNi1GNTk2LTRDM0QtQjg3NC05QzY2MDJGRkMwQUIiLCJ2aWV3ZXItaWQiOiIyMzg4Mjc0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ1NTg1NDUsImV4cCI6MTcyNDU1OTE0NX0.zMK-1g_5m0aV_hJYHTR7jCq2eajf9mtelm2bq4BXB_ZHI6uxlgiTYDNEOgm2A9xhDreYfgsy4ExPDTk-nGqvwCFJ2vcukUdIXYH1g4i7ETzQ19ygf6JBiZ-ELpQLzmlF
+Sun Aug 25 12:02:35 CST 2024
+Sun Aug 25 12:03:46 CST 2024
+删除_meganmeow_ 
+删除San___San 
+删除dkssudgktpdy233 
