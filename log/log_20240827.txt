@@ -42,3 +42,10 @@ Tue Aug 27 02:01:58 CST 2024
 Tue Aug 27 02:02:05 CST 2024
 Tue Aug 27 02:03:18 CST 2024
 删除pandaex 
+Tue Aug 27 02:17:03 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMjhGQzkzOC00ODU1LTRDMjQtQjI2Mi02RjQ3QTgyMDNBOTIiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2OTYyMjcsImV4cCI6MTcyNDY5NjgyN30.AnfkFNqLDt1ZZjIzpQeq4r2wkNK_wYreRbQz-2qw6v6dCScOTj7wtA96wNvkrumCIbKUV1OJ20V3_RpBYJ46bKiJ5yIRQhgHt3DWaXS6bdPctbEqhCw010YYJAHELiY6
+Tue Aug 27 02:17:14 CST 2024
+Tue Aug 27 02:18:25 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除362540 
+删除Witcher_DK 
