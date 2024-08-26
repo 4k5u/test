@@ -363,3 +363,8 @@ Mon Aug 26 20:17:42 CST 2024
 Mon Aug 26 20:18:46 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
 删除ehdbs0105 
+Mon Aug 26 20:32:20 CST 2024
+添加ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENEEyNTBDMi05MjVFLTQzRUYtQkNFOS01RjUyNjNCQjk2NjgiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ2NzU1NzIsImV4cCI6MTcyNDY3NjE3Mn0.2_2RxvSROvfizsbrwYrIEn72DViHtVRhGrctTRNmpGWT0DMH5VXcP9TLVLEyZXT_lgRpE8f46yim1DzPz5I72F7Lq4HSlGtnqg9SAI12XckPKpdchhZQxEBRyI7EzNcu
+Mon Aug 26 20:33:00 CST 2024
+Mon Aug 26 20:33:59 CST 2024
+删除ake_mi 
