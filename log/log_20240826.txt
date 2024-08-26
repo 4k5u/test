@@ -233,3 +233,9 @@ Mon Aug 26 13:46:59 CST 2024
 Mon Aug 26 13:47:12 CST 2024
 Mon Aug 26 13:48:37 CST 2024
 删除San___San 
+Mon Aug 26 14:02:19 CST 2024
+Mon Aug 26 14:02:25 CST 2024
+Mon Aug 26 14:03:45 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除4ocari 
+删除Xenomy 
