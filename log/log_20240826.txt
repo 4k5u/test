@@ -214,3 +214,10 @@ Mon Aug 26 12:47:08 CST 2024
 Mon Aug 26 12:47:16 CST 2024
 Mon Aug 26 12:48:34 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加amilia4u https://edge10-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1a48b79ee814d0586b6cf50c75a7c0ed7072bbc26ffeac10fde8c8d84ed02f9d_trns_h264/playlist.m3u8
+Mon Aug 26 13:02:00 CST 2024
+Mon Aug 26 13:02:08 CST 2024
+Mon Aug 26 13:03:29 CST 2024
+删除jjine0127 
+删除IdaJonesy 
+删除intim_mate 
