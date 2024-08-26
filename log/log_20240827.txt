@@ -21,3 +21,9 @@ Tue Aug 27 00:48:19 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除kjjeong0609 
 删除sol3712 
+Tue Aug 27 01:01:56 CST 2024
+Tue Aug 27 01:02:11 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GTdVRMwtoPb_LCoDG-o2CrLgLdT0aucljHj9K1kpML4FAkvPuNeyToWcW7wIePrM_WLDPlKar9w8ooI1c2Ymig
+Tue Aug 27 01:03:37 CST 2024
+删除ksb0219 
+删除tess00 
