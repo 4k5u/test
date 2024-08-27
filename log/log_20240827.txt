@@ -305,3 +305,9 @@ Tue Aug 27 17:47:28 CST 2024
 Tue Aug 27 17:48:38 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除kolll88 
+Tue Aug 27 18:02:45 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMTkzRkI0Qi0zQ0RGLTQ4NzYtOTFEMS1FRjc2MDNDMDhFMjUiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NTI5NjYsImV4cCI6MTcyNDc1MzU2Nn0.e4-alDPF-A_z7hSRxFgUYFrlIxLc8VmlYJNkixAc2wrYWZWGWZZ6HEPBThPir_jq2qB1AH5_2zDx2PZDV37fGYkMjb04RthU8uu8tHkSRIFd93i1H0-c99FqQlNj_WvL
+Tue Aug 27 18:02:59 CST 2024
+Tue Aug 27 18:04:10 CST 2024
+删除foxylovesyou 
+删除172----95----student 
