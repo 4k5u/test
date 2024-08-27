@@ -376,3 +376,9 @@ Tue Aug 27 20:18:37 CST 2024
 Tue Aug 27 20:19:49 CST 2024
 添加JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+Tue Aug 27 20:32:05 CST 2024
+Tue Aug 27 20:32:44 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7-oamgxpBNT7nKThdUOLcbrxnH1a3Iy80NQvd5LsQgL1qsdqAArAVOhsQf3X4NcQINnlxzyMIXYb31mS7eKlVg
+Tue Aug 27 20:34:06 CST 2024
+删除muse62 
+删除ehdbs0105 
