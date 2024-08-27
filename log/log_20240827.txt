@@ -202,3 +202,9 @@ Tue Aug 27 11:48:20 CST 2024
 Tue Aug 27 12:01:45 CST 2024
 Tue Aug 27 12:01:53 CST 2024
 Tue Aug 27 12:03:14 CST 2024
+Tue Aug 27 12:17:16 CST 2024
+添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRTk2NTM0QS1BM0MzLTQ5RkMtODFCNi0yMDhBNjczQjBCNkMiLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3MzIyMzcsImV4cCI6MTcyNDczMjgzN30.1CTO_AUHtW6rpvkPRsbVhNb--ZObOnldUz84wjzZQrl8Xypwy2pYTPK2iQmgT8u0oU-RDJwJQO0bgavfLPAT-iAD3KXfGM6kIx89ocSM4wLOfM32Izz7m7pymptvWTNw
+Tue Aug 27 12:17:31 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.l9kSISEOGCzo84QsUcoS2hdxkotPoB5cBtPeQKY4UCvJm7s3wHUJjMtNx4htAxO3vcHmkXsvYgbWhWCBlt8IQg
+Tue Aug 27 12:19:01 CST 2024
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
