@@ -256,3 +256,8 @@ Tue Aug 27 15:02:20 CST 2024
 Tue Aug 27 15:02:29 CST 2024
 Tue Aug 27 15:03:45 CST 2024
 删除ddooyaa 
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-3682465d06ade6280d5e476269ec581575716338dddb665ddeeb25e746c1b616_trns_h264/playlist.m3u8
+Tue Aug 27 15:17:24 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MTBERUU1NC1CMDVCLTRENTctOTkyMC1BMEEzQ0EyQkY3MUQiLCJ2aWV3ZXItaWQiOiIyMzk2NDExMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ3NDMwNTEsImV4cCI6MTcyNDc0MzY1MX0.F7lfyYn2mX4q8DFRK-LUFpHlRjBBrmPt3LS8ee_y0mMKC_3pGVOb51lbY8h-2uY6uHF-Pg1EWcWBMG3JrKKBdmSSFVH5ZqvJwjzerj5L9C1M29vhpDgiu7D4DPik3aAi
+Tue Aug 27 15:17:38 CST 2024
+Tue Aug 27 15:18:53 CST 2024
