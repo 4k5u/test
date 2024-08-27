@@ -400,3 +400,9 @@ Tue Aug 27 21:18:00 CST 2024
 添加m0m099 https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yJk8bGUh3mM_EJLIkj3fuKc42efm3sF1EZ51MuxMPMgi-v0kZH37KDBRBVweHpCb3IlUTPtrkDnoiU2A0zf9RA
 Tue Aug 27 21:19:09 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Tue Aug 27 21:32:25 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzcwMEYyNS0xQ0JDLTRDNUItQkNCQS1BMENEQUMxMkQxNjUiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyNDc2NTU4NSwiZXhwIjoxNzI0NzY2MTg1fQ.TVmXAjIzeENeElltz21bvJfkEJsD-EoRotxePAmrAS_6wJ5IXBw2lHV8NXwFmNcqZfRyQ6QxQoO6laEIsxSvya7_dbHOx1Us2a6Db8UCsXb06hEiG5vHNu0iI5eipYuL
+Tue Aug 27 21:33:11 CST 2024
+Tue Aug 27 21:34:13 CST 2024
+删除hanny27 
+删除grandeeney 
