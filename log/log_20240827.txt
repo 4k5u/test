@@ -132,3 +132,7 @@ Tue Aug 27 07:33:58 CST 2024
 Tue Aug 27 07:46:48 CST 2024
 Tue Aug 27 07:46:51 CST 2024
 Tue Aug 27 07:48:07 CST 2024
+Tue Aug 27 08:01:56 CST 2024
+Tue Aug 27 08:01:58 CST 2024
+Tue Aug 27 08:03:16 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
