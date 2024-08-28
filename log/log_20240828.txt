@@ -359,3 +359,8 @@ Wed Aug 28 20:19:06 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除muse62 
 删除dkssudgktpdy233 
+Wed Aug 28 20:32:52 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QTFGQ0Q4Mi04OTc4LTQ2MEEtQjBCQi0zODFBNENERDI1NjEiLCJ2aWV3ZXItaWQiOiIyNDg1MTIzOCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4NDgzNzgsImV4cCI6MTcyNDg0ODk3OH0.h-2RA7uis4VD4WQ5QSKyFAsjjvfHPccgNOB-gQT7r0yiySQ6CPwADCJaEPs3jTvir9QhTTK7WSFyDB_4ARlAGCObJ8HGvDKfwNQH0gjg5FsO-6GgK_Do-y91kWUF40G4
+Wed Aug 28 20:33:28 CST 2024
+Wed Aug 28 20:34:23 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
