@@ -212,3 +212,7 @@ Wed Aug 28 12:47:13 CST 2024
 Wed Aug 28 12:48:27 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除MeghanCollin 
+Wed Aug 28 13:02:01 CST 2024
+Wed Aug 28 13:02:10 CST 2024
+Wed Aug 28 13:03:25 CST 2024
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
