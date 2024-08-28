@@ -196,3 +196,8 @@ Wed Aug 28 12:01:47 CST 2024
 添加won110 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.fYJ3Ue8cRoOn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2ZZSjNVZThjUm9PbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxREI3QzAzQS1BODhBLTQzMDUtQkMwMC04MEEwRkIxNTUwMzciLCJ2aWV3ZXItaWQiOiIyNDQ0NjY1OSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4MTc3MDgsImV4cCI6MTcyNDgxODMwOH0.nuVUMURHT1d_lhHFAR67QMrJ7MegUuIIzj6BTYclPgKdeSoDhlhhSLesDHeP3QRdIA3KiKx5on9LUMkGUyJo9ePvqsykRYzqNoVq2LMygHfOd_EuayHaftBaztkTYfgl
 Wed Aug 28 12:02:02 CST 2024
 Wed Aug 28 12:03:19 CST 2024
+Wed Aug 28 12:17:00 CST 2024
+Wed Aug 28 12:17:10 CST 2024
+Wed Aug 28 12:18:30 CST 2024
+添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
+删除San___San 
