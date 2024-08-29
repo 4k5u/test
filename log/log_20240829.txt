@@ -394,3 +394,9 @@ Thu Aug 29 20:48:01 CST 2024
 添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LVvMQt9L6RC_3yqVlycVhJ_XRc746tn2ihgrl-C73lWMVUfws5JzAvtlkO3IMrxVRaOWxHciTtePLe3ag5RfZg
 Thu Aug 29 20:49:12 CST 2024
 删除ehdbs0105 
+Thu Aug 29 21:02:23 CST 2024
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRUVFRDhFQy00RTY4LTQ3ODctQTM4MS00NjUxNTQ2MEQ2MDkiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MzY1NDgsImV4cCI6MTcyNDkzNzE0OH0.1ug4kEEJ-fj7aUEPHXOXN6ES5RsyhY5Pes0-4cZVY_X9KtaMwkXkyfcXe2yqiqb4jSzn5XT-X1Z8CSLnFN1cyu0dLkwocgIkE3aO3radCKAncQvYPX1fF5ZkJ54wkhS-
+Thu Aug 29 21:03:04 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nYqlnu9GO-U0JyAZAzpW3n4oR5XtivF8lbxtSxSmG8heIGthZ2b1Mx-QI0fKoHXeozjEPvIZ-0Z096G0rHWQdA
+Thu Aug 29 21:04:15 CST 2024
+删除dkssudgktpdy233 
