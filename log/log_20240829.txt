@@ -433,3 +433,9 @@ Thu Aug 29 22:47:02 CST 2024
 添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDhBQ0Q4NS02REJGLTQ2QUItQjkzOS1CNTc5MzIyNzI4QTciLCJ2aWV3ZXItaWQiOiIyNDU3NjMxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5NDI4NDQsImV4cCI6MTcyNDk0MzQ0NH0.h4e314wrkoSnVXfK5TEIB71hDsLXO8v9T8riIG2V5GySlpaU82xm0kopWbO2ZVlMbaQbA3cwsDIYw_rOc-IMukTgICvBZ0bBSAJ0o5XBfHIzk06OBPgCb1xJ9qGSuMiP
 Thu Aug 29 22:47:44 CST 2024
 Thu Aug 29 22:48:40 CST 2024
+Thu Aug 29 23:02:10 CST 2024
+Thu Aug 29 23:02:48 CST 2024
+Thu Aug 29 23:03:45 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除jenny9999 
