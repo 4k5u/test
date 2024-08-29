@@ -202,3 +202,8 @@ Thu Aug 29 11:17:08 CST 2024
 Thu Aug 29 11:17:17 CST 2024
 Thu Aug 29 11:18:35 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Thu Aug 29 11:31:56 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOUVCOUEyQy1GNzg3LTQ5QzQtQTQ2OC1EMTc3M0JCMEI2NzciLCJ2aWV3ZXItaWQiOiIxNjI0MjUzOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5MDIzMjYsImV4cCI6MTcyNDkwMjkyNn0.9Iv9TvQQSAr2bpvS1413AzZ5HbstuGROE7rp87QsXi47rXuvVl79T278LADFJidi3e3mGGefADO_5DOqyYV5njTL_nzk4p6d4hew97fUyZqDfbHr0PyiSlBZvSYnPupz
+Thu Aug 29 11:32:13 CST 2024
+Thu Aug 29 11:33:33 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
