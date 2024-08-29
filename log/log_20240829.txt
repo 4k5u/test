@@ -445,3 +445,8 @@ Thu Aug 29 23:18:43 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除bongbong486 
 删除m0m099 
+Thu Aug 29 23:32:02 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyN0YyN0FDMy05NDhBLTQ2NEQtOTFFNi05OEIzQzhERDI2MjUiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5NDU1MzMsImV4cCI6MTcyNDk0NjEzM30.A1UrWD7HwURo-kvAo837O-hOPT9R6ZyMmwrGFIG19_OjV-6eUvi_aArKMAEEtTKC-xa-La-YJbC8p26rzSU7EsANnUanU0FLORDXQleLxUm3u4asaigc-8WVPuOc55vX
+Thu Aug 29 23:32:45 CST 2024
+Thu Aug 29 23:33:44 CST 2024
+删除chuing77 
