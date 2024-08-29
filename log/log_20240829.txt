@@ -263,3 +263,7 @@ Thu Aug 29 14:32:08 CST 2024
 Thu Aug 29 14:33:28 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-36ed3059fcc78d872e14c1f82449c305c998b5037558eab9f5a7040e47e004d2_trns_h264/playlist.m3u8
+Thu Aug 29 14:47:25 CST 2024
+Thu Aug 29 14:47:33 CST 2024
+Thu Aug 29 14:48:51 CST 2024
