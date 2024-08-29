@@ -429,3 +429,7 @@ Thu Aug 29 22:32:59 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xAZn07PG7SP6rTUxxGxxKfar6jaz-fUUv9ABgOEt4WEq0vvX08u9hDhT4xlVFNhAqwSxnfQfu-18rHOUm0ReJg
 Thu Aug 29 22:34:08 CST 2024
 删除ahri0801 
+Thu Aug 29 22:47:02 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDhBQ0Q4NS02REJGLTQ2QUItQjkzOS1CNTc5MzIyNzI4QTciLCJ2aWV3ZXItaWQiOiIyNDU3NjMxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5NDI4NDQsImV4cCI6MTcyNDk0MzQ0NH0.h4e314wrkoSnVXfK5TEIB71hDsLXO8v9T8riIG2V5GySlpaU82xm0kopWbO2ZVlMbaQbA3cwsDIYw_rOc-IMukTgICvBZ0bBSAJ0o5XBfHIzk06OBPgCb1xJ9qGSuMiP
+Thu Aug 29 22:47:44 CST 2024
+Thu Aug 29 22:48:40 CST 2024
