@@ -365,3 +365,7 @@ Thu Aug 29 19:32:04 CST 2024
 Thu Aug 29 19:32:33 CST 2024
 Thu Aug 29 19:33:41 CST 2024
 删除AkiShina 
+Thu Aug 29 19:47:16 CST 2024
+Thu Aug 29 19:47:45 CST 2024
+Thu Aug 29 19:48:51 CST 2024
+添加JessicaRewan https://edge-hls.doppiocdn.live/hls/142493768/master/142493768_auto.m3u8
