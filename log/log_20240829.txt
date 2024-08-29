@@ -414,3 +414,7 @@ Thu Aug 29 21:49:16 CST 2024
 Thu Aug 29 21:50:17 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除navi04 
+Thu Aug 29 22:02:15 CST 2024
+Thu Aug 29 22:02:56 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LcZ6PQx-q0yeQx6z6wx937K1l-zouo9bFJFuaT7v2y2MJeOl62myiZjzzAa7jTvtkWvGdHz57h0sKom757yBMw
+Thu Aug 29 22:04:07 CST 2024
