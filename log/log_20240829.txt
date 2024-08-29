@@ -190,3 +190,8 @@ Thu Aug 29 10:32:48 CST 2024
 添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRDI3RTM0MS1FNUZBLTQxNUItQjE2MS1BRkI5MENEQzlCOTUiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ4OTg3NzUsImV4cCI6MTcyNDg5OTM3NX0.tXWwL_AIWlMT-Cf-g1ZZvAef0bgS538CgTGW1o1D8T7Dmfpy6Enfzf_-GL23hB32czTsqfRou82Ak1pLhvn20XLxbdiuwmcwnueEyVQEmfAj-RQUKK0GhPSanZ-AyWEN
 Thu Aug 29 10:33:00 CST 2024
 Thu Aug 29 10:34:14 CST 2024
+添加amilia4u https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b7bd74535709a5b4fce0f69fbb22219ecbfeb3046ca694da4a458e28f2fafa13_trns_h264/playlist.m3u8
+Thu Aug 29 10:47:19 CST 2024
+Thu Aug 29 10:47:27 CST 2024
+Thu Aug 29 10:48:53 CST 2024
+删除LOVE-Juan520- 
