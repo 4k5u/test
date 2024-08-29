@@ -340,3 +340,8 @@ Thu Aug 29 18:33:44 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除y1026 
+Thu Aug 29 18:47:32 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RkQ0MkFGRC02Rjk4LTQxQjctOTk2Ni0yNThCMzQ2MDhGMjciLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5Mjg0NjEsImV4cCI6MTcyNDkyOTA2MX0.VI9f4IAxtvEZDu33V1zb3Pp_r7rrGZv7MPbU4XB7hC_r-NhWf9t7zCHGh-59lNxWanNvLoQB61opE_fUrdOrNsRLMdVOUUX5_BSrYnbNg7e5vlxbhYI72lt4sRiNIAn5
+Thu Aug 29 18:47:53 CST 2024
+Thu Aug 29 18:49:01 CST 2024
+删除mikio_san 
