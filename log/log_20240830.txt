@@ -146,3 +146,8 @@ Fri Aug 30 08:02:27 CST 2024
 Fri Aug 30 08:03:45 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加intim_mate https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e036a8f9c77ffd312a9230ab245afcb2787815ac71ea0c219c3a8ca352589199_trns_h264/playlist.m3u8
+Fri Aug 30 08:17:24 CST 2024
+Fri Aug 30 08:17:25 CST 2024
+Fri Aug 30 08:18:39 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
