@@ -183,3 +183,8 @@ Fri Aug 30 10:01:52 CST 2024
 Fri Aug 30 10:03:09 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+Fri Aug 30 10:16:51 CST 2024
+添加getme1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNzE5QUYzOS05RThGLTRBREUtQkJDQi01Q0IwMTIyNEY2MzUiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjQ5ODQyMTYsImV4cCI6MTcyNDk4NDgxNn0.nfCd-g5Bd1z81qbThYfcypRz2x7P2qJxo4U4dHTd8jlWwhB4Np602aBri6srI2Wfmmwn9iH3ukro_srdUfyYidB_yp_lrkfvStyoBlZM5VlYhYF9TD6UmSwY8uNiEGtL
+Fri Aug 30 10:17:02 CST 2024
+Fri Aug 30 10:18:17 CST 2024
+删除bps1016 
