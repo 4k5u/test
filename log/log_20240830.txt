@@ -178,3 +178,8 @@ Fri Aug 30 09:46:47 CST 2024
 Fri Aug 30 09:46:51 CST 2024
 Fri Aug 30 09:48:07 CST 2024
 删除LOVE-Juan520- 
+Fri Aug 30 10:01:48 CST 2024
+Fri Aug 30 10:01:52 CST 2024
+Fri Aug 30 10:03:09 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
