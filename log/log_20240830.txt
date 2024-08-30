@@ -270,3 +270,7 @@ Fri Aug 30 14:04:20 CST 2024
 Fri Aug 30 14:17:18 CST 2024
 Fri Aug 30 14:17:29 CST 2024
 Fri Aug 30 14:18:55 CST 2024
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6196eabb3824a7cda4bc0e457520f62631e754aabe01b40e15b0586f19b7402f_trns_h264/playlist.m3u8
+Fri Aug 30 14:32:20 CST 2024
+Fri Aug 30 14:32:30 CST 2024
+Fri Aug 30 14:33:50 CST 2024
