@@ -76,3 +76,8 @@ Sat Aug 31 03:18:37 CST 2024
 删除cecilia0903 
 删除Glenda_1 
 删除Asia-Lynn 
+Sat Aug 31 03:32:28 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uGXZKPSvmRAE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VHWFpLUFN2bVJBRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQURDRjE4OS05OTNBLTQwMzYtOTYyNS01NDA2OEM0NTI0OUQiLCJ2aWV3ZXItaWQiOiIyMjg0MzAxNSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjUwNDYzNTcsImV4cCI6MTcyNTA0Njk1NywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.I5R3ofx_O1nLBpoxNID79vYsUH9wpaStVW0bGo0p-JK-gS9JRg2qVRBY62aJC-bcJFSuSRPAzD7WlJQ6rknwXbFwzfc4jqOC1pzjLlJ7PBSKdIBUvNmYNccDOfal7KfQ
+Sat Aug 31 03:32:53 CST 2024
+Sat Aug 31 03:34:04 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
