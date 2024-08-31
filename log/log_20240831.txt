@@ -238,3 +238,8 @@ Sat Aug 31 12:32:38 CST 2024
 Sat Aug 31 12:33:57 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除mikio_san 
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-7ca7dbcd442df710b976fc96b9ce560b5f9913eaea77b8c519c1a5000ac22d50_trns_h264/playlist.m3u8
+Sat Aug 31 12:47:42 CST 2024
+Sat Aug 31 12:47:57 CST 2024
+Sat Aug 31 12:49:11 CST 2024
+删除eunyoung1238 
