@@ -374,3 +374,7 @@ Sat Aug 31 19:28:47 CST 2024
 Sat Aug 31 19:29:14 CST 2024
 Sat Aug 31 19:30:24 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Sat Aug 31 19:47:30 CST 2024
+Sat Aug 31 19:47:52 CST 2024
+Sat Aug 31 19:49:06 CST 2024
+删除navi04 
