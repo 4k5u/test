@@ -50,3 +50,7 @@ Mon Sep 2 02:17:14 CST 2024
 Mon Sep 2 02:18:25 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除sol3712 
+添加kiyoko_rin https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-393ee5977a1a5f7daf79e7af706bce2be5602b72ad2e7aacc904b4959f17211d_trns_h264/playlist.m3u8
+Mon Sep 2 02:31:43 CST 2024
+Mon Sep 2 02:31:56 CST 2024
+Mon Sep 2 02:33:09 CST 2024
