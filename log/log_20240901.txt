@@ -451,3 +451,9 @@ Sun Sep 1 23:33:24 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除nemu00 
 删除ahri0801 
+Sun Sep 1 23:46:53 CST 2024
+Sun Sep 1 23:47:24 CST 2024
+Sun Sep 1 23:48:12 CST 2024
+删除grandeeney 
+删除galantini 
+删除m0m099 
