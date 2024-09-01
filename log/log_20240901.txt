@@ -265,3 +265,8 @@ Sun Sep 1 14:17:49 CST 2024
 添加navi04 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8gHvwkT7H4IPMV9SEvS8qjdq4TSJwj1o5ycip0QAA1UIbiUm-VsUO5e1jbcfaBi4mnZsxcsGR2zoLUE9zL3LCw
 Sun Sep 1 14:19:11 CST 2024
 删除kkkku96 
+Sun Sep 1 14:32:32 CST 2024
+Sun Sep 1 14:32:47 CST 2024
+Sun Sep 1 14:33:58 CST 2024
+添加Witcher_DK https://edge-hls.doppiocdn.live/hls/63188730/master/63188730_auto.m3u8
+删除hyuna0721 
