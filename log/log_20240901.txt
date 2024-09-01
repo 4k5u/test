@@ -399,3 +399,8 @@ Sun Sep 1 21:04:36 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除alswl2208 
+Sun Sep 1 21:16:57 CST 2024
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNUQwRjQ0RS1CMjlELTQ0MDgtQjJCRi05NEM5N0IwMTYwN0UiLCJ2aWV3ZXItaWQiOiIxNDkwNDE0NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjUxOTY2NDgsImV4cCI6MTcyNTE5NzI0OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.6KaXUV3uZ3dO46pNb1zRfyQKs5hbJt1B0cJI9pZvvFoYnb5BDh1KgM5N2cQ0hm3MAfJ66M77v0dk23raJCcEvAHbv46rKmh8PAKWAiAnuxMwB6M_7e329eH9jSo8R5Zg
+Sun Sep 1 21:17:44 CST 2024
+Sun Sep 1 21:18:33 CST 2024
+删除somsom0339 
