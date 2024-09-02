@@ -397,3 +397,10 @@ Mon Sep 2 20:47:11 CST 2024
 Mon Sep 2 20:48:04 CST 2024
 Mon Sep 2 20:48:59 CST 2024
 删除yourare 
+Mon Sep 2 21:02:29 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMkQzMkNFNC1ENjMxLTQ4MkYtOUI1My01N0I0MkE4MjEyNEIiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyNTI4MjE5MCwiZXhwIjoxNzI1MjgyNzkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Wo84s3kSdfu8EQhD5Bo5BUfkbtPFXxRoAxZ5URSHI9LZqaUNlTgi1_d6kkxwgNT3KzyaE8kXapmJD5M1lcUKSyC2F-A7szubOlCsuCKO8mCKJrlcsf1fsXKsfBUjncjw
+Mon Sep 2 21:03:15 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eDbIj31fiC5sdjK2L30Iv7UcupMfY11zgQcYMfh-y4IpayE-cylYZ11x96lMfsEGA629mxLaLhns6HqgPyTFag
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dnIvOjMW3zqjuA-U4-4XpbAGcybONabbbpqk_eusGZY6aBkM1MC4JRst_LxbqmNOs2R9_HugzZ_nJAC7Jvz5ug
+Mon Sep 2 21:04:20 CST 2024
+删除ehdbs0105 
