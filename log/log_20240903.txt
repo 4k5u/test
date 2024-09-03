@@ -52,3 +52,9 @@ Tue Sep 3 12:33:53 CST 2024
 Tue Sep 3 12:47:20 CST 2024
 Tue Sep 3 12:47:30 CST 2024
 Tue Sep 3 12:48:51 CST 2024
+添加amilia4u https://edge9-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-77b2d2e178d12ce99d980d19793f106f155a3fea2f1f88337b2e8df42d8b62ad_trns_h264/playlist.m3u8
+Tue Sep 3 13:02:38 CST 2024
+Tue Sep 3 13:02:48 CST 2024
+Tue Sep 3 13:03:59 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除joysuniverse 
