@@ -148,7 +148,7 @@ unreachableIds=()
             
                 echo "$userId 推送到TG"
                 #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护中！](${m3u8site}?url=${userId})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+                text="*J哥提醒你！！！！*\n\nPanda主播${userId}上线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源观看](${m3u8site}?url=${userId})\n\n[需要安装插件才能播](https://t.me/kbjba1/98804)\n\n[直播间地址](https://www.pandalive.co.kr/live/play/${userId})\n\n_"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
