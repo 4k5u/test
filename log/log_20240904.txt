@@ -179,3 +179,9 @@ Wed Sep 4 09:31:57 CST 2024
 Wed Sep 4 09:32:03 CST 2024
 Wed Sep 4 09:33:13 CST 2024
 删除Xenomy 
+Wed Sep 4 09:46:56 CST 2024
+Wed Sep 4 09:47:02 CST 2024
+Wed Sep 4 09:48:13 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除bps1016 
+删除_marydel_ 
