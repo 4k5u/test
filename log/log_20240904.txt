@@ -269,3 +269,11 @@ Wed Sep 4 13:47:21 CST 2024
 Wed Sep 4 13:47:35 CST 2024
 Wed Sep 4 13:48:44 CST 2024
 删除kjjeong0609 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-92afd2bcaa19f1a469a53fe70351227dd46df4d8806ffc2b3e95f6123e5355d1_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-18b5f6cfcc6a1fbf22770d5847b9992a8fc7d0025335c423c9b0e3e131eafe11_trns_h264/playlist.m3u8
+Wed Sep 4 14:02:00 CST 2024
+Wed Sep 4 14:02:15 CST 2024
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mt4gDGlKx6CBAdobqmi6jp2NPSmIfJElep2_YBj3360LyC4idx_Z5Z2kL4lNtKEHsmSF0L6y76Tf9P8LKz-etg
+Wed Sep 4 14:03:28 CST 2024
+删除San___San 
+删除kjjeong0609 
