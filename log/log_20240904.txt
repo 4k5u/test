@@ -211,3 +211,9 @@ Wed Sep 4 11:02:07 CST 2024
 Wed Sep 4 11:03:17 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除Xenomy 
+Wed Sep 4 11:16:48 CST 2024
+Wed Sep 4 11:16:58 CST 2024
+Wed Sep 4 11:18:06 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
