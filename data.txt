@@ -15,3 +15,4 @@ San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.
 _marydel_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_marydel_-sd-2a4561d1d6cfdad41978902ba7bf7dd4043dbae8c66bb03121df63c028178c18_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
