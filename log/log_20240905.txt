@@ -227,3 +227,9 @@ Thu Sep 5 12:32:18 CST 2024
 Thu Sep 5 12:32:28 CST 2024
 Thu Sep 5 12:33:42 CST 2024
 删除banet523 
+添加joysuniverse https://edge1-nrt.live.mmcdn.com/live-hls/amlst:joysuniverse-sd-ab4a6406fed95dd9d9b526fa653f0560e3b2f55e1b1d6b8f8c17eab46067782d_trns_h264/playlist.m3u8
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-57802acc4b2acba120f3309da7b74a809cdc649589bbecee26ec273069d30e0a_trns_h264/playlist.m3u8
+Thu Sep 5 12:46:59 CST 2024
+Thu Sep 5 12:47:09 CST 2024
+Thu Sep 5 12:48:22 CST 2024
+删除IdaJonesy 
