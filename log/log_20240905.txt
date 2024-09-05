@@ -158,3 +158,8 @@ Thu Sep 5 08:19:16 CST 2024
 Thu Sep 5 08:32:07 CST 2024
 Thu Sep 5 08:32:11 CST 2024
 Thu Sep 5 08:33:28 CST 2024
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5e3f4511eddc8e4d811d42aa1e94efff2552ee86be2ca7b80295345af194dbc9_trns_h264/playlist.m3u8
+Thu Sep 5 08:47:59 CST 2024
+Thu Sep 5 08:48:03 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OvdJ_qRXQMS8QBIUpiVDHRNZApdZCRRxQqTuNgYJF9x-WZOXp7PKUvmoB7bzqRJymKX7_bE5BSo9x37m85-ERw
+Thu Sep 5 08:49:18 CST 2024
