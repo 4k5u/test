@@ -333,3 +333,7 @@ Thu Sep 5 17:32:06 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RE97IgsW56eCSatn8y_5hVZNE6M2dU2DWhKcADO2mWHEXY7PIwQEPMh3gT2DciKnn0dFa1Huqq7N8i5JW_3C6A
 Thu Sep 5 17:33:27 CST 2024
 删除ake_mi 
+Thu Sep 5 17:46:50 CST 2024
+Thu Sep 5 17:47:06 CST 2024
+添加alswl2208 https://live-global-cdn-v02.afreecatv.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.s0jOAaqZfg73M-aCWpKKjOVkE2_MTSPn1JNKBpcd8tsWfrUM33sFsnI0veYHl0_hVrc0JveizIbCM5eOVKz2yA
+Thu Sep 5 17:48:21 CST 2024
