@@ -130,3 +130,7 @@ Fri Sep 6 06:32:25 CST 2024
 Fri Sep 6 06:32:29 CST 2024
 Fri Sep 6 06:33:42 CST 2024
 删除TuTu-1001 
+Fri Sep 6 06:46:45 CST 2024
+Fri Sep 6 06:46:49 CST 2024
+Fri Sep 6 06:48:11 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
