@@ -220,3 +220,7 @@ Fri Sep 6 12:19:29 CST 2024
 删除IdaJonesy 
 删除Xenomy 
 删除banet523 
+Fri Sep 6 12:33:15 CST 2024
+Fri Sep 6 12:33:25 CST 2024
+Fri Sep 6 12:34:46 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
