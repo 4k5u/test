@@ -229,3 +229,8 @@ Fri Sep 6 12:48:07 CST 2024
 Fri Sep 6 12:49:28 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除alicelebel 
+Fri Sep 6 13:03:04 CST 2024
+Fri Sep 6 13:03:20 CST 2024
+Fri Sep 6 13:04:33 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
