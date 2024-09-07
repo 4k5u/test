@@ -150,3 +150,8 @@ Sat Sep 7 08:33:10 CST 2024
 Sat Sep 7 08:46:55 CST 2024
 Sat Sep 7 08:46:59 CST 2024
 Sat Sep 7 08:48:16 CST 2024
+添加intim_mate https://edge16-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-73fbea0c6255d618ee9b7748e8cfdbf4c4dcdbf74283f6877ccdb5fd9876ac68_trns_h264/playlist.m3u8
+Sat Sep 7 09:01:54 CST 2024
+Sat Sep 7 09:01:58 CST 2024
+Sat Sep 7 09:03:15 CST 2024
+删除mazzanti_ 
