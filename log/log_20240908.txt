@@ -56,3 +56,8 @@ Sun Sep 8 02:18:14 CST 2024
 删除cecilia0903 
 删除saone451 
 删除362540 
+添加kiyoko_rin https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-d8bd9f696e78ede394d2cd3b161b56b5fbf3fb9e61ed3e98526d15d1b7547cca_trns_h264/playlist.m3u8
+Sun Sep 8 02:31:49 CST 2024
+Sun Sep 8 02:32:01 CST 2024
+Sun Sep 8 02:33:04 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
