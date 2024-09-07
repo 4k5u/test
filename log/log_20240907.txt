@@ -272,3 +272,8 @@ Sat Sep 7 14:47:41 CST 2024
 添加dign1461 ?aid=.A32.7bbT56vyHM9fKZk.82lrtBrj-Z6ciWGy9-V8t5bFHWgHIv_8is1_gP0HapJCvglO9paHTfCfyr2VWbh4Gwz7RkrTz5vQTFInnbp2bw
 Sat Sep 7 14:48:55 CST 2024
 删除dign1461 
+Sat Sep 7 15:01:45 CST 2024
+Sat Sep 7 15:01:57 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.82lrtBrj-Z6ciWGy9-V8t5bFHWgHIv_8is1_gP0HapJCvglO9paHTfCfyr2VWbh4Gwz7RkrTz5vQTFInnbp2bw
+Sat Sep 7 15:03:21 CST 2024
+删除IdaJonesy 
