@@ -390,3 +390,10 @@ Sat Sep 7 20:19:11 CST 2024
 添加MeghanCollin https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_auto.m3u8
 删除ddooyaa 
 删除muse62 
+Sat Sep 7 20:32:18 CST 2024
+添加nyangnyang1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JKrWoGUd6Sw1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLcldvR1VkNlN3MSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQTFEREY5Qy03OUQzLTRBMDAtOEFEQS1FRTE5RTQ3NDUyNEIiLCJ2aWV3ZXItaWQiOiIxODkyNjE1NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjU3MTIzNDQsImV4cCI6MTcyNTcxMjk0NCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.E1SVLzOY-s2DmxM-S7yzBjEdZJafCMP3036NKxVpvZDzBT59N5rTUoM2LXK0q_52K9uN6ybvwUt4HDHVV8yM202YsGlJvICUxps-5mOSWVsTCAxuJ8Eq_fXoEHM3DG7Q
+Sat Sep 7 20:32:51 CST 2024
+Sat Sep 7 20:33:47 CST 2024
+删除ehdbs0105 
+删除dkssudgktpdy233 
+删除anystar00 
