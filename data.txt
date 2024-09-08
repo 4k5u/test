@@ -7,3 +7,4 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-04bf79c60f5b40d44024b342bffa829658e2c9a69d781d03ae762492204bba1b_trns_h264/playlist.m3u8
 _PunPun18   https://edge-hls.doppiocdn.live/hls/149392038/master/149392038_auto.m3u8
 sexygamesx   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-cbf19eebe4fa72629387cb2afcde2dbb33478bf552f2e1c8039f619a16ca6fae_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
