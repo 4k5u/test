@@ -110,3 +110,7 @@ Sun Sep 8 08:04:27 CST 2024
 删除gusdk2362 
 删除jeehyeoun 
 删除rmrm1313 
+Sun Sep 8 08:16:58 CST 2024
+Sun Sep 8 08:17:02 CST 2024
+Sun Sep 8 08:18:23 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
