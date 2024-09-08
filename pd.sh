@@ -1,6 +1,7 @@
 #!/bin/bash
 # Config
 #用法：bash synctv.sh moem9e9 
+echo "---------pandalive----------"
 
 cookie="$COOKIE"
 userToken="$USERTOKEN"
@@ -33,6 +34,7 @@ merged_json_file="merged.json"
 fetch_json 0 96 > "$json_file1"
 if [ "$(jq -r .result < "$json_file1")" != true ]; then
     echo "获取列表失败"
+    echo "$json_file1"
     exit 1
 fi
 echo "------$(date)------"
