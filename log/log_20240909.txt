@@ -260,3 +260,8 @@ Mon Sep 9 16:03:22 CST 2024
 删除alicelebel 
 删除LOVE-Juan520- 
 删除amilia4u 
+Mon Sep 9 16:16:56 CST 2024
+Mon Sep 9 16:17:12 CST 2024
+添加y1026 https://live-global-cdn-v02.afreecatv.com/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kyjKgudotJ7lbLzsJOLPvyu1PHUHKuNBNyOVrMcAAvkcZFOs_g7U0PBz6Dig9PNfXbiiNyyzvwnsFdQIo72dNA
+Mon Sep 9 16:18:36 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
