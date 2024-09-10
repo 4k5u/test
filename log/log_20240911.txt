@@ -84,3 +84,7 @@ Wed Sep 11 04:17:00 CST 2024
 Wed Sep 11 04:18:14 CST 2024
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除rico0210 
+Wed Sep 11 04:32:18 CST 2024
+Wed Sep 11 04:32:26 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K1JgnK7hmNxYflXCm61TdtVmnYMVF1x1_UgRM6gZ5s3lWMT9qqBSp_uW21Wa6ayWw-iZsU5KYHjs8OvgfaodgQ
+Wed Sep 11 04:33:42 CST 2024
