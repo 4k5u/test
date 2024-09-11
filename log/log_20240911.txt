@@ -255,3 +255,8 @@ Wed Sep 11 14:33:38 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除dkdlfjqm758 
 删除Xenomy 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0c84f6e7f622f4009d5323fcb076c184faf5184558b8a39a19fc28e33b24695f_trns_h264/playlist.m3u8
+Wed Sep 11 14:47:31 CST 2024
+Wed Sep 11 14:47:38 CST 2024
+Wed Sep 11 14:48:47 CST 2024
+删除mikio_san 
