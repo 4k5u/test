@@ -247,3 +247,8 @@ Thu Sep 12 13:17:52 CST 2024
 Thu Sep 12 13:19:08 CST 2024
 删除bps1016 
 删除gina_gracia 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1bd3d03aedaa49d4bbb20fddeb71d229090ad5647cace520aeb63522ebc3301b_trns_h264/playlist.m3u8
+Thu Sep 12 13:32:11 CST 2024
+Thu Sep 12 13:32:17 CST 2024
+添加dign1461 https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7haKYcmZXzryroaI5dP9ByRY00FG6Eyhq5pqXbn9xh5rDaBEtlb2PAufn1VD9cRjB5p0RE2Nn4BG9jTI4YCufg
+Thu Sep 12 13:33:44 CST 2024
