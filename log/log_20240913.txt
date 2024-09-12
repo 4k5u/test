@@ -18,3 +18,8 @@ Fri Sep 13 00:33:10 CST 2024
 删除tess00 
 删除m0m099 
 删除cecilia0903 
+Fri Sep 13 00:47:04 CST 2024
+Fri Sep 13 00:47:33 CST 2024
+Fri Sep 13 00:48:30 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
