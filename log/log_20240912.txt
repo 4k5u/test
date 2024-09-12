@@ -395,3 +395,7 @@ Thu Sep 12 20:17:27 CST 2024
 Thu Sep 12 20:18:35 CST 2024
 删除dkssudgktpdy233 
 删除Asia-Lynn 
+Thu Sep 12 20:32:31 CST 2024
+Thu Sep 12 20:32:59 CST 2024
+Thu Sep 12 20:33:57 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
