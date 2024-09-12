@@ -474,3 +474,10 @@ Thu Sep 12 23:33:27 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Asia-Lynn 
 删除rmrm1313 
+Thu Sep 12 23:47:19 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQzlDMjIwMS00MzQxLTQ3MzYtOUU3Qi0zOUNBQTJBNTFCMzkiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjYxNTYwNTYsImV4cCI6MTcyNjE1NjY1NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.dTYtHyH96bjKwQuqiiBC9q4wQTAVeBuv5QGI6DrC1DqGMgadf8APgrfIAn68LfGvYDSGACJeQHIRXa9Rrdp4u7EmyvJbkhTGYpkwRblJfHqGv0hnGfLQZox93ZIVJ5x_
+Thu Sep 12 23:47:57 CST 2024
+Thu Sep 12 23:48:50 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除mikio_san 
+删除Ryo-sama 
