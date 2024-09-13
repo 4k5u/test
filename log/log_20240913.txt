@@ -263,3 +263,10 @@ Fri Sep 13 13:48:03 CST 2024
 Fri Sep 13 13:49:09 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Xenomy 
+Fri Sep 13 14:02:18 CST 2024
+Fri Sep 13 14:02:24 CST 2024
+Fri Sep 13 14:03:34 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除my_eyes_higher 
+删除4ocari 
+删除dign1461 
