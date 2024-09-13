@@ -278,3 +278,7 @@ Fri Sep 13 14:32:52 CST 2024
 Fri Sep 13 14:32:58 CST 2024
 Fri Sep 13 14:34:15 CST 2024
 删除IdaJonesy 
+Fri Sep 13 14:48:04 CST 2024
+Fri Sep 13 14:48:10 CST 2024
+Fri Sep 13 14:49:20 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
