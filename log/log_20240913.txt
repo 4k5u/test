@@ -209,3 +209,7 @@ Fri Sep 13 10:32:33 CST 2024
 Fri Sep 13 10:33:51 CST 2024
 删除Sime_Naughty 
 删除Xenomy 
+Fri Sep 13 10:47:04 CST 2024
+Fri Sep 13 10:47:10 CST 2024
+Fri Sep 13 10:48:22 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
