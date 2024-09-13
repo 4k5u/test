@@ -444,3 +444,7 @@ Fri Sep 13 22:18:13 CST 2024
 Fri Sep 13 22:19:52 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除nemu00 
+Fri Sep 13 22:32:19 CST 2024
+Fri Sep 13 22:33:09 CST 2024
+Fri Sep 13 22:34:09 CST 2024
+删除JP-KARIN 
