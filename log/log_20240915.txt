@@ -13,3 +13,7 @@ Sun Sep 15 00:18:07 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除LOVE-Juan520- 
 删除iminako 
+Sun Sep 15 00:31:45 CST 2024
+Sun Sep 15 00:32:08 CST 2024
+Sun Sep 15 00:33:02 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
