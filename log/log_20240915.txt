@@ -147,3 +147,8 @@ Sun Sep 15 07:01:56 CST 2024
 Sun Sep 15 07:02:04 CST 2024
 Sun Sep 15 07:03:13 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加mazzanti_ https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-42c6296f14ad17968ddcb0bb41fff4711592a9a06890e417ad0dd7c26a193eb9_trns_h264/playlist.m3u8
+Sun Sep 15 07:16:56 CST 2024
+Sun Sep 15 07:17:00 CST 2024
+Sun Sep 15 07:18:12 CST 2024
+删除kjjeong0609 
