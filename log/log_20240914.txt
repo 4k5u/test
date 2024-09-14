@@ -168,3 +168,8 @@ Sat Sep 14 08:03:20 CST 2024
 Sat Sep 14 08:16:54 CST 2024
 Sat Sep 14 08:17:01 CST 2024
 Sat Sep 14 08:18:22 CST 2024
+Sat Sep 14 08:32:14 CST 2024
+Sat Sep 14 08:32:21 CST 2024
+Sat Sep 14 08:33:43 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除IdaJonesy 
