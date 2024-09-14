@@ -14,3 +14,4 @@ anystar00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 foxylovesyou   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b9f03d73306ff227080c918fff59359bf1fd4a2351340f667f971a5d5b965129_trns_h264/playlist.m3u8
 your_desssert   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4ea51c470189ca2e1c3d7e42e5c547e4bd0fbd49f565f584de77d3fbe662035b_trns_h264/playlist.m3u8
 y1026   https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qDkVRlr4OBw9IWiov2INMmnt60Iq-J-10ISuu7fgCcg-pdVEPDYcMooJsG0dCN6cob1cxNym1Vh2_Lp6PU5xqg
+navi04   https://live-global-cdn-v02.afreecatv.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.u7RTK40msGP0W0s3E49dqZlkGr67EzfkF5Un1Nlnb91lhMoyw3E1s6wxYdBV6iTitwbLkcuD5H0SDR0VDibr2Q
