@@ -43,3 +43,8 @@ Sun Sep 15 01:32:16 CST 2024
 Sun Sep 15 01:33:45 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除MeghanCollin 
+Sun Sep 15 01:47:21 CST 2024
+Sun Sep 15 01:47:41 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.afreecatv.com/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.98T3g53JgXbMlAi42FbZeSqQD-J9oxMgxXb9CSgg6zwyj4TN2etMXA9teck6OtyKFC0sZwH7xxmFQ8WFq6EakQ
+Sun Sep 15 01:48:49 CST 2024
+删除day59day 
