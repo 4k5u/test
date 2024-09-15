@@ -14,3 +14,4 @@ maby33   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 oda_assuri   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-43b4dc6f930b702dbc4f6c5ff65b829f5c680bb69af3343a44a8b78067e0c0b8_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-357b9e7d72697627b79675b44dcddd913b335f0ea5dd36b2ac9237aab29c5e21_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
