@@ -469,3 +469,8 @@ Sun Sep 15 22:31:53 CST 2024
 Sun Sep 15 22:32:42 CST 2024
 Sun Sep 15 22:33:48 CST 2024
 删除JP-KARIN 
+Sun Sep 15 22:46:47 CST 2024
+Sun Sep 15 22:47:35 CST 2024
+Sun Sep 15 22:48:39 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除Asia-Lynn 
