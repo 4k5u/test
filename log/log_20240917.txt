@@ -98,3 +98,8 @@ Tue Sep 17 06:16:57 CST 2024
 Tue Sep 17 06:18:16 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除golaniyule0 
+Tue Sep 17 06:31:58 CST 2024
+Tue Sep 17 06:31:59 CST 2024
+Tue Sep 17 06:33:16 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除starsh2802 
