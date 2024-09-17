@@ -206,3 +206,7 @@ Tue Sep 17 13:01:58 CST 2024
 Tue Sep 17 13:03:18 CST 2024
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除banet523 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-64f6af6cfe4a694e96319ed45ca9f4c1e69d58cd6af678c9423b8597b9e0476a_trns_h264/playlist.m3u8
+Tue Sep 17 13:17:03 CST 2024
+Tue Sep 17 13:17:06 CST 2024
+Tue Sep 17 13:18:26 CST 2024
