@@ -271,3 +271,10 @@ Tue Sep 17 16:46:56 CST 2024
 Tue Sep 17 16:47:00 CST 2024
 Tue Sep 17 16:48:42 CST 2024
 删除amilia4u 
+Tue Sep 17 17:02:18 CST 2024
+Tue Sep 17 17:02:22 CST 2024
+添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.neJOLIiD4FKID_46QI7hyL69742hwaFVfqZNrAFLuwXKLxC9p2WoiCyy2DWEzIvhylP8mgAdRRT5n-J-gjv5zw
+添加kjjeong0609 https://live-global-cdn-v02.afreecatv.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GgyzJxI5BytDDRNuU2fEKIR2b2udBD-FefrODoO0iYS9I7EVN-OFCbRmFaOOiK_V2Bw9VjOHPnK4YgK0gJFMbQ
+添加hanny27 https://live-global-cdn-v02.afreecatv.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pNDsmMpPLzMxOb1Q-pxoX63_iTAbLaoPWWr7Q07O9G5xw-QFtLH0tsbghC1vOGXfm5CGzTACwclICDHg1RxXPA
+Tue Sep 17 17:03:52 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
