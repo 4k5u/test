@@ -14,4 +14,3 @@ MeghanCollin   https://edge-hls.doppiocdn.live/hls/150594209/master/150594209_au
 jeehyeoun   https://live-global-cdn-v02.afreecatv.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r012ihoY5BacmJeO1G9uVTZITXNTCIJv-cIUBLY7zDWUHd1G91cyjxLYlWyfZZIzQ48fTnT38YJuGuWA7iz1NA
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
-kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
