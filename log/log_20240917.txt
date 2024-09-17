@@ -197,3 +197,7 @@ Tue Sep 17 12:32:05 CST 2024
 Tue Sep 17 12:32:09 CST 2024
 Tue Sep 17 12:33:29 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加amilia4u https://edge12-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5ffe757575af1101c07b58878d6512fc44a2ef464974926c22a254a1d89390fd_trns_h264/playlist.m3u8
+Tue Sep 17 12:46:55 CST 2024
+Tue Sep 17 12:46:59 CST 2024
+Tue Sep 17 12:48:18 CST 2024
