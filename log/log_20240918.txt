@@ -3,3 +3,8 @@ Wed Sep 18 00:02:43 CST 2024
 Wed Sep 18 00:03:47 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除San___San 
+Wed Sep 18 00:16:47 CST 2024
+Wed Sep 18 00:17:13 CST 2024
+Wed Sep 18 00:18:20 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除dmsdms1247 
