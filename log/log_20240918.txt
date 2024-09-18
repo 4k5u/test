@@ -225,3 +225,9 @@ Wed Sep 18 12:47:27 CST 2024
 Wed Sep 18 12:47:35 CST 2024
 Wed Sep 18 12:48:46 CST 2024
 删除Xenomy 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f29a791e98f18495de84da2605b15e52b871b342bb8cd3ad255201b76077d46c_trns_h264/playlist.m3u8
+Wed Sep 18 13:01:51 CST 2024
+Wed Sep 18 13:01:57 CST 2024
+Wed Sep 18 13:03:15 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除banet523 
