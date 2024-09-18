@@ -184,3 +184,7 @@ Wed Sep 18 10:32:02 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IxMHQ0DMB9FXHnMWoIYBcv13zckwi-JS8HwAem2cGhvMdZyUqEleI05VXr0vhvcJ5Mbc2mMCrOVWgKdHqJot5w
 Wed Sep 18 10:33:26 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加gina_gracia https://edge14-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-0431e53df05b51ce4fea9e2b7f88198a15be8033bcfe11313d2ecf79bf5dca40_trns_h264/playlist.m3u8
+Wed Sep 18 10:46:48 CST 2024
+Wed Sep 18 10:46:54 CST 2024
+Wed Sep 18 10:48:13 CST 2024
