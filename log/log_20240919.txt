@@ -480,3 +480,11 @@ Thu Sep 19 23:18:57 CST 2024
 删除leelate 
 删除golaniyule0 
 删除oki_dokie 
+添加ake_mi https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ff6abf2a3e60a5754fb77a21f110649c50317144cc411152643fab9e642725f7_trns_h264/playlist.m3u8
+Thu Sep 19 23:31:55 CST 2024
+Thu Sep 19 23:32:47 CST 2024
+Thu Sep 19 23:33:51 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除redholic377 
+删除alswl2208 
+删除bongbong486 
