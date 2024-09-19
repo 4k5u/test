@@ -238,3 +238,8 @@ Thu Sep 19 13:46:51 CST 2024
 Thu Sep 19 13:47:00 CST 2024
 Thu Sep 19 13:48:16 CST 2024
 删除Xenomy 
+Thu Sep 19 14:01:44 CST 2024
+Thu Sep 19 14:01:50 CST 2024
+Thu Sep 19 14:03:10 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
