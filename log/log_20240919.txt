@@ -319,3 +319,12 @@ Thu Sep 19 17:48:16 CST 2024
 删除Reaowna 
 删除Lucille_evans 
 删除TuTu-1001 
+Thu Sep 19 18:01:49 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4OTJFMjFBQi1FRTdBLTQxMzAtODU4RC02OEVEMjhDM0I4Q0UiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY3NDAxMTIsImV4cCI6MTcyNjc0MDcxMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.J3PL1tLRsZRZ9tjCVCpQxI1tGTaOUhdzDh0UJovqiDHVv2uVGz18ljjEv3KAtE9atGaKJJAQ8pyDazTu6SBoGcAPZKKWINxxPCyKLChjqbEtJCv7hXb5f9UYPcLlriU-
+Thu Sep 19 18:02:09 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5Twdu5aok_E0JR-XdSwbszB0A8YGawQ7gZFyOtGaXiUN4XEP_7XaUlT3z4UmnymUNPzEBirCMW01trmBYVRFGQ
+添加yin2618 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ReG4Q53aq9d-2Of_FhUSOFqS8an05LUeag0eKDH7UXVGKTYFW7A9NevTKFuCrS3EWgRW1W7FiguRE52AxDP1Aw
+Thu Sep 19 18:03:31 CST 2024
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除dkdlfjqm758 
+删除honey_pinkgreen 
