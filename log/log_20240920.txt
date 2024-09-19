@@ -118,3 +118,8 @@ Fri Sep 20 05:32:08 CST 2024
 Fri Sep 20 05:32:11 CST 2024
 Fri Sep 20 05:33:36 CST 2024
 删除imgroot5 
+添加gina_gracia https://edge7-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-221c6bbb2c62c5480e714438d6701a73db16dc88bad7b1c866e9cb8d07c9aaad_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e9461b051f5d5c37b79a1f0021bdd640ecc23889fa6e435977fdf7ab1d6a71cf_trns_h264/playlist.m3u8
+Fri Sep 20 05:47:20 CST 2024
+Fri Sep 20 05:47:22 CST 2024
+Fri Sep 20 05:48:32 CST 2024
