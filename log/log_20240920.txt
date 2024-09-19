@@ -139,3 +139,7 @@ Fri Sep 20 06:46:51 CST 2024
 Fri Sep 20 06:46:53 CST 2024
 Fri Sep 20 06:48:07 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Sep 20 07:01:49 CST 2024
+Fri Sep 20 07:01:51 CST 2024
+Fri Sep 20 07:03:07 CST 2024
+删除mazzanti_ 
