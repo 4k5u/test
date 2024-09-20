@@ -5,3 +5,4 @@ gusdk2362   https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_pl
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1e3d86dad2dd085b9079ddfff9b31280f6f6e2ce8ad74a750ab53e8d51c4505e_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+mazzanti_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e4eec5a56b25dd0c04770123198770e3bad52f3c106b8e93b29638b0b7ec422c_trns_h264/playlist.m3u8
