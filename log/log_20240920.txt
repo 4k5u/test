@@ -399,3 +399,8 @@ Fri Sep 20 20:17:45 CST 2024
 添加Tmdgus5411 https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Jtp0-C7maNr-9NtKlxVzhj-tw6wiOZj5a-d0Vp0rCVOOT-8tGLckPCH7gawgBjC9oZCDFc2b9RK6ls1KvU3-Fw
 添加eunyoung1238 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UbAtSySzC_rIeuhMvfQPm8hurWW_cqW7Ys8J9sjAvB_u4FqQyjgDk27FSHdiURKq5ZDV_4I3LiE_bqH_84QTqg
 Fri Sep 20 20:18:59 CST 2024
+Fri Sep 20 20:32:29 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNDQ0MDJBRC0xMjlDLTQxRkEtQkQxMS0yQzhCODkyMEVDQzgiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjY4MzU1NTgsImV4cCI6MTcyNjgzNjE1OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.ILyHWRSmic7HOeV-ZxajpcslzKyLcDMTTEbzlwanPHpv9joiPRicQqUDJrPbt4ayK6DKkcPp_Y4_fX6UrMxzx07yVAVHc_MYDPEmtarFHJyHE3SWo-qWDQ4dmthhozMq
+Fri Sep 20 20:33:15 CST 2024
+Fri Sep 20 20:34:02 CST 2024
+删除foxylovesyou 
