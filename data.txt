@@ -16,4 +16,3 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 oki_dokie   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-05d5843989a0c6ca4b0381ad1bbf5065c252c0740b6fd1d484c34dd362ad8170_trns_h264/playlist.m3u8
 foxylovesyou   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8281fd119d7384f284d415ed128bac9badc5656d8f3258ec71778d6be69dabe3_trns_h264/playlist.m3u8
 y1026   https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DsaamziBqasVy5VIboTRn2NMg93cmpJA7hMUKshPft5GHzFtRvJ6bHTeaOiswPGItVbtKSS8-V0jINGl-eJdkg
-Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
