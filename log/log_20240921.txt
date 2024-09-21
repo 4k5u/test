@@ -171,3 +171,7 @@ Sat Sep 21 08:03:10 CST 2024
 删除gusdk2362 
 删除mazzanti_ 
 删除LOVE-Juan520- 
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-424a56f9b53faf6a2bf0ca2baffd032e0933cbc3eb29a846d6e912acab1fa220_trns_h264/playlist.m3u8
+Sat Sep 21 08:16:50 CST 2024
+Sat Sep 21 08:16:55 CST 2024
+Sat Sep 21 08:18:10 CST 2024
