@@ -134,3 +134,7 @@ Sun Sep 22 07:18:19 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除100472 
+Sun Sep 22 07:31:54 CST 2024
+Sun Sep 22 07:31:58 CST 2024
+Sun Sep 22 07:33:18 CST 2024
+删除TuTu-1001 
