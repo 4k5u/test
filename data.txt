@@ -8,4 +8,3 @@ banet523   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 intim_mate   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-bba21a77d49eb03469437d2d93a35af44aa28c3a4095497b37c2a0b16fd3df6a_trns_h264/playlist.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
-LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
