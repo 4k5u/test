@@ -165,3 +165,9 @@ Sat Sep 21 07:46:51 CST 2024
 Sat Sep 21 07:46:55 CST 2024
 Sat Sep 21 07:48:14 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+Sat Sep 21 08:01:48 CST 2024
+Sat Sep 21 08:01:53 CST 2024
+Sat Sep 21 08:03:10 CST 2024
+删除gusdk2362 
+删除mazzanti_ 
+删除LOVE-Juan520- 
