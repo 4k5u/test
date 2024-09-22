@@ -266,3 +266,10 @@ Sun Sep 22 14:32:29 CST 2024
 Sun Sep 22 14:33:52 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除oki_dokie 
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c2522a5baf3599b923533b80310976883646367962abf57ca781c668a8ecb42b_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a4e8fe2edd4c11d7d0a07a86cc564dc5e28b01a370eaa05feee8135e14f85d1b_trns_h264/playlist.m3u8
+添加your_desssert https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-080da8ac5805b489725ae63d43b03a4aac97e51c775c2b8fda9b37b63051940f_trns_h264/playlist.m3u8
+Sun Sep 22 14:46:55 CST 2024
+Sun Sep 22 14:47:06 CST 2024
+Sun Sep 22 14:48:23 CST 2024
+删除gina_gracia 
