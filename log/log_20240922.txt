@@ -166,3 +166,7 @@ Sun Sep 22 09:01:55 CST 2024
 Sun Sep 22 09:03:06 CST 2024
 删除rico0210 
 删除Xenomy 
+Sun Sep 22 09:17:04 CST 2024
+Sun Sep 22 09:17:07 CST 2024
+Sun Sep 22 09:18:25 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
