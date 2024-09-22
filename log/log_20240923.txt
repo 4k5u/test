@@ -28,3 +28,11 @@ Mon Sep 23 00:48:13 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除ahri0801 
 删除moem9e9 
+Mon Sep 23 01:01:44 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRjk2QjU0QS1GNEIwLTREODQtQTIxQS1EMDBERjAwOEE5RTAiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjcwMjQ1MDksImV4cCI6MTcyNzAyNTEwOSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.voUkiPF9sMmxHnQnIILP-k2-fq7EU4b-EmiukYiosfNTbzF3VkanLe2deUG46r21gYxIGlyU2Pjm0INpdeh9ZPr5bDyPd2mCGCF3yf6xeIX5Yafcv5dbTlvNvJ1Mq4W6
+Mon Sep 23 01:02:19 CST 2024
+Mon Sep 23 01:03:15 CST 2024
+删除homegirl 
+删除in0410 
+删除dana9282 
+删除172----95----student 
