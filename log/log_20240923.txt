@@ -457,3 +457,8 @@ Mon Sep 23 23:18:57 CST 2024
 删除soraa3 
 删除grandeeney 
 删除galantini 
+添加honey_pinkgreen https://edge7-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-40fb33fdef96bfabb5f9d12d8aba6f87e6a3f9dd2400904aa36664d869351522_trns_h264/playlist.m3u8
+Mon Sep 23 23:31:54 CST 2024
+Mon Sep 23 23:32:32 CST 2024
+Mon Sep 23 23:33:31 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
