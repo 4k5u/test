@@ -440,3 +440,11 @@ Mon Sep 23 22:47:55 CST 2024
 Mon Sep 23 22:49:04 CST 2024
 删除dks2003 
 删除galantini 
+添加galantini https://edge1-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-357be328db7d38ecc69a9bf4f273408bb127d09f86399d0757482241bb820bd2_trns_h264/playlist.m3u8
+Mon Sep 23 23:02:02 CST 2024
+Mon Sep 23 23:02:52 CST 2024
+添加sol3712 https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bSJKfzyYw6XLLl1oAzVlJY_Os2X-akjKu4EibDQzO4DsbqonohneB5L7s2yTrU4IRSaaNK-8Y9wHDyPX0Qstnw
+Mon Sep 23 23:04:00 CST 2024
+删除somsom0339 
+删除onlyone521 
+删除hyuna0721 
