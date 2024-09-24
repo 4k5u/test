@@ -217,3 +217,7 @@ Tue Sep 24 12:32:05 CST 2024
 Tue Sep 24 12:32:17 CST 2024
 Tue Sep 24 12:33:34 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Tue Sep 24 12:47:07 CST 2024
+Tue Sep 24 12:47:20 CST 2024
+Tue Sep 24 12:48:40 CST 2024
+删除San___San 
