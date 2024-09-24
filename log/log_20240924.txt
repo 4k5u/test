@@ -438,3 +438,7 @@ Tue Sep 24 23:33:16 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除eerttyui12 
 删除bongbong486 
+Tue Sep 24 23:46:48 CST 2024
+Tue Sep 24 23:47:16 CST 2024
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J7IECq5fRm8ThbxQCbx6nx9WajaLEvngt5eslTtQfgK8C5xQy2qbukhg7vpz_kD0Fz-C3o-rtaDcKzevS9Z6PA
+Tue Sep 24 23:48:16 CST 2024
