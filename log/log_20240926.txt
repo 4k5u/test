@@ -85,3 +85,7 @@ Thu Sep 26 04:18:58 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除Hahaha_ha2 
 删除LOVE-Juan520- 
+Thu Sep 26 04:31:50 CST 2024
+Thu Sep 26 04:31:56 CST 2024
+Thu Sep 26 04:33:06 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
