@@ -30,3 +30,4 @@ jeehyeoun   https://live-global-cdn-v02.afreecatv.com/live-stmc-25/auth_master_p
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 Glenda_1   https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
