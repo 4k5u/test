@@ -143,3 +143,8 @@ Thu Sep 26 08:02:26 CST 2024
 Thu Sep 26 08:02:31 CST 2024
 Thu Sep 26 08:03:37 CST 2024
 删除gusdk2362 
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e842bb6af3af2767306667904ae924cd27c95eb1f60cca7f10957b9f5e4504ad_trns_h264/playlist.m3u8
+Thu Sep 26 08:16:47 CST 2024
+Thu Sep 26 08:16:51 CST 2024
+Thu Sep 26 08:18:06 CST 2024
+删除bps1016 
