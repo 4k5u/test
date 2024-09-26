@@ -236,3 +236,9 @@ Thu Sep 26 13:32:25 CST 2024
 Thu Sep 26 13:33:42 CST 2024
 删除Xenomy 
 删除intim_mate 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d85832d14a87da0b6e96aa2ec1baf650c0b4be4d40a4170a7fb92e98344037fb_trns_h264/playlist.m3u8
+添加sexygamesx https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-10f26e4e8585f05015be45fc864accb9f3c5d9b9a5855caf9875331d04b645e3_trns_h264/playlist.m3u8
+Thu Sep 26 13:47:43 CST 2024
+Thu Sep 26 13:47:47 CST 2024
+Thu Sep 26 13:48:55 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
