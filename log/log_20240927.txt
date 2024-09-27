@@ -447,3 +447,9 @@ Fri Sep 27 22:47:04 CST 2024
 Fri Sep 27 22:47:46 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HbFDiQnGCTMpNC3z2pc3c5IGXjBJcgVdToupshBsG_EhDUa-p06c9-ZmBRvALV0zhbA3QEkJ6bz6ci_pGaaAog
 Fri Sep 27 22:48:51 CST 2024
+Fri Sep 27 23:01:52 CST 2024
+Fri Sep 27 23:02:32 CST 2024
+Fri Sep 27 23:03:28 CST 2024
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除eerttyui12 
+删除ee5844 
