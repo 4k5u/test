@@ -412,3 +412,11 @@ Fri Sep 27 21:32:56 CST 2024
 Fri Sep 27 21:33:59 CST 2024
 删除axcvdbs23 
 删除honey_pinkgreen 
+添加galantini https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-253363500a0f36d3aa854be4b011f9902263603ad3e23ca5665c55d33e6561cc_trns_h264/playlist.m3u8
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f357d7cd80337c6301a36a97d3cbbea20526770691e7b9fb608d07954bd48f68_trns_h264/playlist.m3u8
+Fri Sep 27 21:47:04 CST 2024
+Fri Sep 27 21:47:46 CST 2024
+Fri Sep 27 21:48:37 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除green10004 
