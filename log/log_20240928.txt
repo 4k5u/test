@@ -147,3 +147,6 @@ Sat Sep 28 07:33:37 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除TuTu-1001 
+Sat Sep 28 07:46:44 CST 2024
+Sat Sep 28 07:46:50 CST 2024
+Sat Sep 28 07:48:08 CST 2024
