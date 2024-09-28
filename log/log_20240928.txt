@@ -247,3 +247,8 @@ Sat Sep 28 13:32:32 CST 2024
 Sat Sep 28 13:33:50 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Ryo-sama 
+Sat Sep 28 13:47:23 CST 2024
+Sat Sep 28 13:47:31 CST 2024
+Sat Sep 28 13:48:52 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除green10004 
