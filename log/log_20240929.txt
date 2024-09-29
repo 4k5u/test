@@ -312,3 +312,7 @@ Sun Sep 29 17:17:09 CST 2024
 Sun Sep 29 17:17:26 CST 2024
 添加leelate https://live-global-cdn-v02.afreecatv.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pWViOvDNsg7q1XkNrCfYRr0-Fgy98KOtvjsHjCwxEqg_JyZejmsocCDWQGqx9hzV8RSKa4aYEZvoxPl0Bn1UUA
 Sun Sep 29 17:18:42 CST 2024
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-22ef4b75ac7b3b6eee08a3b56794fdacf5296008c5e0d79e7c01afe65442a286_trns_h264/playlist.m3u8
+Sun Sep 29 17:32:08 CST 2024
+Sun Sep 29 17:32:22 CST 2024
+Sun Sep 29 17:33:27 CST 2024
