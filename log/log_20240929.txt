@@ -469,3 +469,10 @@ Sun Sep 29 23:32:30 CST 2024
 Sun Sep 29 23:33:27 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除rico0210 
+Sun Sep 29 23:47:20 CST 2024
+Sun Sep 29 23:47:58 CST 2024
+Sun Sep 29 23:48:54 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除anystar00 
+删除dks2003 
