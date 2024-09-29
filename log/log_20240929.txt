@@ -210,3 +210,8 @@ Sun Sep 29 12:17:12 CST 2024
 Sun Sep 29 12:17:20 CST 2024
 Sun Sep 29 12:18:29 CST 2024
 删除kkkku96 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-803a6dd1c8fafb4f765e3bfd78b45cd219ab15a6884b8d41ff37e161bb014d74_trns_h264/playlist.m3u8
+Sun Sep 29 12:32:10 CST 2024
+Sun Sep 29 12:32:19 CST 2024
+添加kkkku96 https://live-global-cdn-v02.afreecatv.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LZi6rUOxtmjoaWykBIqiKgyZaHdPMdgUR0F53V51H1TesWbIPB9O4QwLLlI70QgCXp2XrGU1DCtetqyuje73og
+Sun Sep 29 12:33:38 CST 2024
