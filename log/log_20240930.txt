@@ -415,3 +415,7 @@ Mon Sep 30 22:47:21 CST 2024
 Mon Sep 30 22:48:04 CST 2024
 添加glglehddl https://live-global-cdn-v02.afreecatv.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-iPrCtYCWHOmxsxum7uoDPCZ2Rmt-0KhxK9qSU8lgKR_13JTOPU6KdFNNyb4HkdMy2QKiD_4ATx50uG5SgVX9A
 Mon Sep 30 22:49:13 CST 2024
+Mon Sep 30 23:01:51 CST 2024
+Mon Sep 30 23:02:29 CST 2024
+Mon Sep 30 23:03:37 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
