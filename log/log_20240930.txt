@@ -180,3 +180,7 @@ Mon Sep 30 10:01:48 CST 2024
 Mon Sep 30 10:03:05 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除Sime_Naughty 
+添加intim_mate https://edge5-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-950d92a7d89fbfcbb15286bfe18bdd258af0b79832f7fef0a3311c54184851b4_trns_h264/playlist.m3u8
+Mon Sep 30 10:17:22 CST 2024
+Mon Sep 30 10:17:24 CST 2024
+Mon Sep 30 10:18:35 CST 2024
