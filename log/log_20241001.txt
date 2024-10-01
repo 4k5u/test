@@ -289,3 +289,10 @@ Tue Oct 1 16:18:49 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除honey_pinkgreen 
 删除SanySenise 
+Tue Oct 1 16:31:59 CST 2024
+Tue Oct 1 16:32:10 CST 2024
+Tue Oct 1 16:33:28 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除jenny9999 
+删除SanySenise 
