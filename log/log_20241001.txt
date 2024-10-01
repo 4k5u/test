@@ -322,3 +322,7 @@ Tue Oct 1 17:47:02 CST 2024
 添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.InVBFdBpXj1sGRdCzHmYOMYqtw2DjnzQt1CVF-cb_2FLzp2-Z236SPQaneQs-gLlmXEoJanP0hv46J6G--O1fw
 Tue Oct 1 17:48:23 CST 2024
 删除SanySenise 
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-61c6f01b029de01c8a6cf1c9208c606a8e57c5b89d66933445d1f81cc67158a5_trns_h264/playlist.m3u8
+Tue Oct 1 18:01:50 CST 2024
+Tue Oct 1 18:02:03 CST 2024
+Tue Oct 1 18:03:14 CST 2024
