@@ -275,3 +275,7 @@ Wed Oct 2 14:33:34 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除San___San 
 删除ake_mi 
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-acfe1cacd1e349cb0bdf4db831755dcabffeee651a34c36c5f8afd5a11177210_trns_h264/playlist.m3u8
+Wed Oct 2 14:50:58 CST 2024
+Wed Oct 2 14:51:02 CST 2024
+Wed Oct 2 14:52:14 CST 2024
