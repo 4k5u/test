@@ -12,3 +12,5 @@ akakak11112   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 gina_gracia   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-907d338eb6f4f6257fa07d5c18a7f9393f85f0d29055342466404d5887be0f31_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1543d504658e6772bac011c04d0b6ddcdda57b937e39d1eb9751a4d84dbef873_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
