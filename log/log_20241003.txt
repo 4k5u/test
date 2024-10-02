@@ -148,3 +148,8 @@ Thu Oct 3 07:32:03 CST 2024
 Thu Oct 3 07:32:56 CST 2024
 Thu Oct 3 07:34:10 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b69407abb3ea2247f58a3fd9782b23d61d36bf731a300b474457415a86732fd4_trns_h264/playlist.m3u8
+Thu Oct 3 07:46:46 CST 2024
+Thu Oct 3 07:46:54 CST 2024
+Thu Oct 3 07:48:17 CST 2024
+删除qwer00725 
