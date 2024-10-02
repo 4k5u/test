@@ -388,3 +388,8 @@ Wed Oct 2 20:33:38 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除muse62 
+添加galantini https://edge3-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-277c62c245cff2a86913ede84ebfa58429f70709b5e4536745a3fc4385c757a5_trns_h264/playlist.m3u8
+Wed Oct 2 20:46:52 CST 2024
+Wed Oct 2 20:47:22 CST 2024
+Wed Oct 2 20:48:22 CST 2024
+删除y1026 
