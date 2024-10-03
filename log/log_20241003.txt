@@ -207,3 +207,8 @@ Thu Oct 3 11:17:25 CST 2024
 Thu Oct 3 11:17:37 CST 2024
 Thu Oct 3 11:18:45 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Thu Oct 3 11:32:16 CST 2024
+Thu Oct 3 11:32:26 CST 2024
+Thu Oct 3 11:33:42 CST 2024
+删除nobleinc 
+删除IdaJonesy 
