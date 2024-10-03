@@ -280,3 +280,7 @@ Thu Oct 3 14:33:36 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除San___San 
 删除oki_dokie 
+Thu Oct 3 14:46:57 CST 2024
+Thu Oct 3 14:47:11 CST 2024
+Thu Oct 3 14:48:26 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
