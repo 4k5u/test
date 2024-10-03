@@ -469,3 +469,12 @@ Thu Oct 3 23:19:01 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除oki_dokie 
 删除lolsos 
+添加iminako https://edge14-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-19299171fb66c2982e2aefe2327d49969ce63905b837ec9f297a07f14fb48f8c_trns_h264/playlist.m3u8
+Thu Oct 3 23:32:16 CST 2024
+Thu Oct 3 23:32:52 CST 2024
+Thu Oct 3 23:33:44 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Judy0523 
+删除emforhs1919 
+删除flower1023 
+删除lovable12 
