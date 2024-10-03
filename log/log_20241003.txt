@@ -212,3 +212,8 @@ Thu Oct 3 11:32:26 CST 2024
 Thu Oct 3 11:33:42 CST 2024
 删除nobleinc 
 删除IdaJonesy 
+Thu Oct 3 11:47:40 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOEZBOTNCOC04MDJGLTRGRjItOTBDRi0zNkRFMThFRjJEN0EiLCJ2aWV3ZXItaWQiOiIyNDg2NDU2MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjc5MjcyNjEsImV4cCI6MTcyNzkyNzg2MSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.1nT8noeb9_70YjPfbMe71BuecNMYIL0nZi_GJknY7sYYBQhPqSilBjUwYxXbE31S0cYgvWF1f1GTufkA4Nt20Ji4qgY6IpoDqtDpXRCsE-s5NFpRI2qs6YVwwvyRNJpK
+Thu Oct 3 11:47:55 CST 2024
+Thu Oct 3 11:49:04 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
