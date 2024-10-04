@@ -132,3 +132,9 @@ Sat Oct 5 07:18:58 CST 2024
 Sat Oct 5 07:32:17 CST 2024
 Sat Oct 5 07:32:27 CST 2024
 Sat Oct 5 07:33:39 CST 2024
+Sat Oct 5 07:46:46 CST 2024
+Sat Oct 5 07:46:54 CST 2024
+Sat Oct 5 07:48:11 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除naras2 
