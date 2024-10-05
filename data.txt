@@ -14,3 +14,4 @@ kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3
 kkkku96   https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ld51nGIqJmHsNcOXGkYxxpSM26IgwippG1d2EUzdG1tq2PhTtGdaaqv-zzTdUcQjWwlJNCgRpN6PxRwmInqwgg
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
