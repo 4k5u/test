@@ -240,3 +240,9 @@ Sat Oct 5 13:32:04 CST 2024
 Sat Oct 5 13:32:11 CST 2024
 Sat Oct 5 13:33:25 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sat Oct 5 13:47:36 CST 2024
+添加sssna777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MGEaEDCahmRY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01HRWFFRENhaG1SWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRjcxRDU5Ni04MTkxLTRBOTAtOTRERi1FRTYxMjk1NzBCRTEiLCJ2aWV3ZXItaWQiOiIyMzMzMjczNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjgxMDcyNTYsImV4cCI6MTcyODEwNzg1NiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.vhwvPoDibhXnEzTEbcoOKzGFbYxQ7RUqRR7Tg8LPlCaB70l3Z-aDUSELU4nAsm8Yq5vx81LBld2xIsZ_pK7lmRrOYhyFpcW6RL3jrulTzlZuL9K0faeLpVRZ8cav_maj
+Sat Oct 5 13:47:44 CST 2024
+Sat Oct 5 13:48:52 CST 2024
+删除mikio_san 
+删除Ryo-sama 
