@@ -447,3 +447,10 @@ Sun Oct 6 22:18:32 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除imissy0u 
 删除bongbong486 
+Sun Oct 6 22:31:50 CST 2024
+添加rmrm1313 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.kehc5nb0j5tY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tlaGM1bmIwajV0WSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzODQ3RDlCQy0yMDYyLTQwRUItQkY4Mi1ENzcwRjUyQUFFMTgiLCJ2aWV3ZXItaWQiOiI3NTYyNDc5Iiwidmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTcyODIyNTE0MywiZXhwIjoxNzI4MjI1NzQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I3UpvVQ0XbKVLayRr4XfsqkRO_Jaw5iA3dK-1UsULNAWgMVVivELYalPzlHXl4zg9RotUpLPs9_pGn7PO9cogmJ3gJGGOMT-6DmhH-_iS0Q9uneTU5xcb6VxOMWlrVWm
+Sun Oct 6 22:32:26 CST 2024
+Sun Oct 6 22:33:27 CST 2024
+删除emforhs1919 
+删除your_desssert 
+删除akakak11112 
