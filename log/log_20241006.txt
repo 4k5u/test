@@ -282,3 +282,8 @@ Sun Oct 6 15:17:13 CST 2024
 Sun Oct 6 15:18:19 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除imanatural 
+Sun Oct 6 15:31:53 CST 2024
+Sun Oct 6 15:32:07 CST 2024
+Sun Oct 6 15:33:11 CST 2024
+删除your_desssert 
+删除sigmasian 
