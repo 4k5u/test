@@ -190,3 +190,7 @@ Sun Oct 6 10:32:01 CST 2024
 Sun Oct 6 10:33:10 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除mazzanti_ 
+添加intim_mate https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-0ae8690dcb6abd6b054dc78ba3c10497172e7ee355de4ef2a815da72b4fcf6d6_trns_h264/playlist.m3u8
+Sun Oct 6 10:47:35 CST 2024
+Sun Oct 6 10:47:42 CST 2024
+Sun Oct 6 10:48:44 CST 2024
