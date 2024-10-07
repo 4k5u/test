@@ -207,3 +207,7 @@ Mon Oct 7 11:47:05 CST 2024
 Mon Oct 7 11:48:23 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Mon Oct 7 12:02:30 CST 2024
+Mon Oct 7 12:02:40 CST 2024
+Mon Oct 7 12:03:52 CST 2024
+删除IdaJonesy 
