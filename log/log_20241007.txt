@@ -166,3 +166,7 @@ Mon Oct 7 09:32:01 CST 2024
 Mon Oct 7 09:33:14 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除Xenomy 
+Mon Oct 7 09:46:55 CST 2024
+Mon Oct 7 09:47:04 CST 2024
+Mon Oct 7 09:48:21 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
