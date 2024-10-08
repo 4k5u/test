@@ -8,3 +8,4 @@ zzeongi2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 amilia4u   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-c7efc460acd6fdc92e062709fb08a9eb9e6e5ee901bc319076c7ce3ae28f2564_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
