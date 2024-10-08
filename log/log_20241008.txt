@@ -164,3 +164,7 @@ Tue Oct 8 10:02:09 CST 2024
 Tue Oct 8 10:03:24 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除naras2 
+Tue Oct 8 10:16:43 CST 2024
+Tue Oct 8 10:16:47 CST 2024
+Tue Oct 8 10:18:06 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
