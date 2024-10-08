@@ -369,3 +369,8 @@ Tue Oct 8 20:18:43 CST 2024
 删除y1026 
 删除oki_dokie 
 删除foxylovesyou 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-aa12102cbb6af5a81c407219d17d8732833e91a4efec72d8c58cfc43355d6e5d_trns_h264/playlist.m3u8
+Tue Oct 8 20:31:50 CST 2024
+Tue Oct 8 20:32:34 CST 2024
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FXbK-PgAOB5LDLwRS6-rLbETmJsvjVpkiJKRnbET0pttReqEqMHUIbBj-iYg5XXUQsjwsUlT1EMTPFJp9L87wQ
+Tue Oct 8 20:33:40 CST 2024
