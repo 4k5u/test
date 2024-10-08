@@ -150,3 +150,10 @@ Wed Oct 9 07:03:38 CST 2024
 Wed Oct 9 07:16:53 CST 2024
 Wed Oct 9 07:17:01 CST 2024
 Wed Oct 9 07:18:20 CST 2024
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-54d5d377cae1391c2e72e017ec2b8416ac397366d9ba3413eff74f4acd56cb09_trns_h264/playlist.m3u8
+Wed Oct 9 07:32:00 CST 2024
+Wed Oct 9 07:32:08 CST 2024
+Wed Oct 9 07:33:24 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Glenda_1 
+删除my_eyes_higher 
