@@ -11,3 +11,5 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-108e1661bca94c8d72d6c6139a6aa08cd553861a726646c21985fd9fa4c9e0ef_trns_h264/playlist.m3u8
+Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
