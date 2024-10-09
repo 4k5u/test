@@ -182,3 +182,7 @@ Wed Oct 9 09:02:05 CST 2024
 Wed Oct 9 09:03:24 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除naras2 
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-54d5d377cae1391c2e72e017ec2b8416ac397366d9ba3413eff74f4acd56cb09_trns_h264/playlist.m3u8
+Wed Oct 9 09:17:14 CST 2024
+Wed Oct 9 09:17:20 CST 2024
+Wed Oct 9 09:18:40 CST 2024
