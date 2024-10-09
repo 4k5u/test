@@ -228,3 +228,7 @@ Wed Oct 9 11:46:57 CST 2024
 Wed Oct 9 11:47:05 CST 2024
 Wed Oct 9 11:48:24 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Wed Oct 9 12:02:03 CST 2024
+Wed Oct 9 12:02:12 CST 2024
+Wed Oct 9 12:03:26 CST 2024
+删除IdaJonesy 
