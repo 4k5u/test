@@ -468,3 +468,12 @@ Thu Oct 10 23:32:08 CST 2024
 Thu Oct 10 23:32:50 CST 2024
 Thu Oct 10 23:33:32 CST 2024
 删除anystar00 
+添加iminako https://edge16-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-716632d6655cbbdab9ec15e3e8166ea1b4d957a514aade4c7d5258e18d183181_trns_h264/playlist.m3u8
+Thu Oct 10 23:46:54 CST 2024
+Thu Oct 10 23:47:32 CST 2024
+添加leelate https://live-global-cdn-v02.afreecatv.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.azHCQHfaVfEvT-8WqY3CEZ6dl9MMurx0KoI8y2Jai2Fm5L2pHbiiP4UPuhzvM9AdFCCNI3RkaZITuiuyQZXWmQ
+Thu Oct 10 23:48:24 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除imissy0u 
+删除thgml1212 
