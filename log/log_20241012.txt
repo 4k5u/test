@@ -133,3 +133,7 @@ Sat Oct 12 06:48:16 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除3ww1ww3 
 删除moem9e9 
+Sat Oct 12 07:01:47 CST 2024
+Sat Oct 12 07:01:51 CST 2024
+Sat Oct 12 07:03:04 CST 2024
+删除gina_gracia 
