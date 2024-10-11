@@ -256,3 +256,9 @@ Fri Oct 11 13:47:49 CST 2024
 Fri Oct 11 13:48:59 CST 2024
 删除San___San 
 删除Sime_Naughty 
+Fri Oct 11 14:02:05 CST 2024
+Fri Oct 11 14:02:17 CST 2024
+Fri Oct 11 14:03:29 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Xenomy 
+删除mikio_san 
