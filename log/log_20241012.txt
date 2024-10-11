@@ -126,3 +126,10 @@ Sat Oct 12 06:18:46 CST 2024
 Sat Oct 12 06:32:48 CST 2024
 Sat Oct 12 06:32:56 CST 2024
 Sat Oct 12 06:34:05 CST 2024
+添加mazzanti_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-36dbc7fa00c318c2901d01dc2f60408ac8d4b258d9bbdcc98338db41bea81965_trns_h264/playlist.m3u8
+Sat Oct 12 06:46:56 CST 2024
+Sat Oct 12 06:47:02 CST 2024
+Sat Oct 12 06:48:16 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除3ww1ww3 
+删除moem9e9 
