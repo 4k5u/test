@@ -268,3 +268,7 @@ Fri Oct 11 14:17:17 CST 2024
 Fri Oct 11 14:17:34 CST 2024
 Fri Oct 11 14:18:39 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a4013079e6f9d9d9305b525a38ec8bf5c0480a29098f44ae34567ca3ae70383e_trns_h264/playlist.m3u8
+Fri Oct 11 14:32:07 CST 2024
+Fri Oct 11 14:32:21 CST 2024
+Fri Oct 11 14:33:33 CST 2024
