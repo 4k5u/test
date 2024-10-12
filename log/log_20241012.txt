@@ -288,3 +288,10 @@ Sat Oct 12 15:03:52 CST 2024
 删除SanySenise 
 删除foxylovesyou 
 删除IdaJonesy 
+Sat Oct 12 15:16:55 CST 2024
+添加ehdbs0105 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OC5AksAoFbb6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09DNUFrc0FvRmJiNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjVGNjg1My1EQTJELTQwMzUtOUFDNy01MTg3MkUxODJGNUMiLCJ2aWV3ZXItaWQiOiIyNTIyMzUxNCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjg3MTc0MzAsImV4cCI6MTcyODcxODAzMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.IDLEZKWAX6bfu-fjZQBoGoS09dZxCc5AexF6jiwRwt_Zz6_LFLH1FndEVdtu5ST38owzuRqHW18iS02yDEA2n--7nH9Q4Xe_0LugNDugW520Nov0TcRrY3L2N1RTxxFb
+Sat Oct 12 15:17:13 CST 2024
+Sat Oct 12 15:18:31 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除ake_mi 
