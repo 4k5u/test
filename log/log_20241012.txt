@@ -401,3 +401,8 @@ Sat Oct 12 20:47:53 CST 2024
 添加flower1023 https://live-global-cdn-v02.afreecatv.com/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.e-SwCHUGPBOyVP7JT5olZ3RN5bH-vOdjmsA70zXnz76I_AeKkfjSlJzPm2kZzWvDNKorK3JEuwaD4HoObicJwA
 Sat Oct 12 20:48:52 CST 2024
 删除somsom0339 
+Sat Oct 12 21:02:00 CST 2024
+Sat Oct 12 21:02:32 CST 2024
+添加jeehyeoun https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rNpGhFfXjsF2LUU1SxPGvom47O6KPeSa2y2gBlpltt04ylC8OrroxS7xGprjRtI2dt_NUSYGiAy7ioXqL30lRg
+Sat Oct 12 21:03:35 CST 2024
+删除navi04 
