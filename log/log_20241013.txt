@@ -294,3 +294,7 @@ Sun Oct 13 16:32:06 CST 2024
 Sun Oct 13 16:33:17 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 删除ake_mi 
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
+Sun Oct 13 16:46:51 CST 2024
+Sun Oct 13 16:47:03 CST 2024
+Sun Oct 13 16:48:17 CST 2024
