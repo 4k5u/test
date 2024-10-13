@@ -5,3 +5,4 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-20d271ac1e6dc0bc4f1a90683bc58b3d2e17fdb3153983792c9d6d3d944f4d7d_trns_h264/playlist.m3u8
 Glenda_1   https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 _meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e43cf4929e7ae8eedafea47b5240c3506ca8a16d223e73d7a240fe2d3e966cbb_trns_h264/playlist.m3u8
+sexygamesx   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-eb21e3a05326860b7aa75fddd6c196e37d5a9ec3551c7fbd9826f26e77bb9fbf_trns_h264/playlist.m3u8
