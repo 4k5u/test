@@ -10,5 +10,4 @@ tyy750ii   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 ake_mi   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b2e94d7dde9645d0b6327dd1bd5ddb8f8a06b5b7a7295733d2c352be52c318c1_trns_h264/playlist.m3u8
 your_desssert   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
-AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e4d88490672bd3c4e898d29b91ab6fa8b90b0749435892efcf63159277e78060_trns_h264/playlist.m3u8
