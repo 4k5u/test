@@ -95,3 +95,8 @@ Mon Oct 14 05:03:05 CST 2024
 Mon Oct 14 05:17:16 CST 2024
 Mon Oct 14 05:17:20 CST 2024
 Mon Oct 14 05:18:32 CST 2024
+添加mazzanti_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-20d271ac1e6dc0bc4f1a90683bc58b3d2e17fdb3153983792c9d6d3d944f4d7d_trns_h264/playlist.m3u8
+Mon Oct 14 05:31:46 CST 2024
+Mon Oct 14 05:31:50 CST 2024
+Mon Oct 14 05:33:08 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
