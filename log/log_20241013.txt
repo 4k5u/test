@@ -254,3 +254,9 @@ Sun Oct 13 14:17:49 CST 2024
 Sun Oct 13 14:18:57 CST 2024
 删除AkiShina 
 删除Sime_Naughty 
+添加your_desssert https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-668c065c1e7fdd7d018b384961d1b946a7dfdf4d80e63d30b4430c10fb0ed663_trns_h264/playlist.m3u8
+Sun Oct 13 14:31:54 CST 2024
+Sun Oct 13 14:32:04 CST 2024
+Sun Oct 13 14:33:18 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Reaowna 
