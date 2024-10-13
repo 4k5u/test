@@ -264,3 +264,9 @@ Sun Oct 13 14:46:47 CST 2024
 Sun Oct 13 14:46:57 CST 2024
 Sun Oct 13 14:48:09 CST 2024
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e4d88490672bd3c4e898d29b91ab6fa8b90b0749435892efcf63159277e78060_trns_h264/playlist.m3u8
+Sun Oct 13 15:01:50 CST 2024
+Sun Oct 13 15:02:00 CST 2024
+Sun Oct 13 15:03:15 CST 2024
+删除banet523 
+删除intim_mate 
