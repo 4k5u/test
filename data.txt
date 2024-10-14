@@ -8,3 +8,4 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 amilia4u   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-09adcd1f53b3bd046758d2de2fcc3260a83220a4a39bc4f79f49fb5a988eb93b_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+ake_mi   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0a830e21906964d104eb90587c1e241bffa36bdf17f7861600c987d6066db6c9_trns_h264/playlist.m3u8
