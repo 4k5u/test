@@ -302,3 +302,9 @@ Mon Oct 14 17:46:48 CST 2024
 Mon Oct 14 17:47:02 CST 2024
 添加somsom0339 https://live-global-cdn-v02.afreecatv.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dCYMsOCw-JapH8mqvJADVNTAaEmCTc9N5jY_0sxZmDiMPq5zVt9UQYjRiD6dEnpNg-P94wwCK_ltSCgt2rO41Q
 Mon Oct 14 17:48:23 CST 2024
+Mon Oct 14 18:02:17 CST 2024
+Mon Oct 14 18:02:32 CST 2024
+Mon Oct 14 18:03:48 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除banet523 
+删除honey_pinkgreen 
