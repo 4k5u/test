@@ -278,3 +278,8 @@ Mon Oct 14 16:17:16 CST 2024
 Mon Oct 14 16:17:30 CST 2024
 Mon Oct 14 16:18:41 CST 2024
 删除AkiShina 
+添加honey_pinkgreen https://edge6-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-47b5c9c995f214fb9071820da59e431180caa4f484784fd120d1c2b69bb7d44f_trns_h264/playlist.m3u8
+Mon Oct 14 16:32:25 CST 2024
+Mon Oct 14 16:32:39 CST 2024
+Mon Oct 14 16:33:51 CST 2024
+删除San___San 
