@@ -5,3 +5,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+cuddles_me   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-ff1908af82f361bcdcab99891d587d3337f0fa88a24d67ffff50d40a9062102e_trns_h264/playlist.m3u8
