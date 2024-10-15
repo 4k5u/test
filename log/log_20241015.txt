@@ -242,3 +242,7 @@ Tue Oct 15 14:16:47 CST 2024
 Tue Oct 15 14:17:12 CST 2024
 Tue Oct 15 14:18:50 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Tue Oct 15 14:31:59 CST 2024
+Tue Oct 15 14:32:19 CST 2024
+Tue Oct 15 14:34:05 CST 2024
+删除amilia4u 
