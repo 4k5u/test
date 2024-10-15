@@ -190,3 +190,7 @@ Tue Oct 15 11:46:38 CST 2024
 Tue Oct 15 11:46:57 CST 2024
 Tue Oct 15 11:48:40 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Tue Oct 15 12:01:47 CST 2024
+Tue Oct 15 12:01:55 CST 2024
+Tue Oct 15 12:03:39 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
