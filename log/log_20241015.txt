@@ -142,3 +142,7 @@ Tue Oct 15 08:17:03 CST 2024
 Tue Oct 15 08:17:07 CST 2024
 Tue Oct 15 08:18:11 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加gina_gracia https://edge8-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-f3498b3e491eb9a40f0fb6740a79c64be86606088433f4e55ac3b4c8747ae45f_trns_h264/playlist.m3u8
+Tue Oct 15 08:31:46 CST 2024
+Tue Oct 15 08:31:50 CST 2024
+Tue Oct 15 08:33:00 CST 2024
