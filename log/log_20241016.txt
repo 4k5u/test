@@ -303,3 +303,9 @@ Wed Oct 16 18:31:50 CST 2024
 Wed Oct 16 18:32:31 CST 2024
 Wed Oct 16 18:34:04 CST 2024
 删除your_desssert 
+Wed Oct 16 18:47:23 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNEJFNjA3Ny0xMUM4LTRENTEtOEYyOC05QTQzRDIwQzI3QTIiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MjkwNzU2NDgsImV4cCI6MTcyOTA3NjI0OCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.2dMKS1QlbG0TldjLWzweNHNHLobtJN_xYl8B3KQ0ciFqMviMuT8MkPiSQK_gfnfPuR_dpUqsY92BBjUz04QPhWTnji3y25M1Oi2aVWwe7_gTqKWIxbWof2ZjhKXk7R7n
+Wed Oct 16 18:47:47 CST 2024
+Wed Oct 16 18:49:04 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除Judy0523 
