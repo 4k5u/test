@@ -12,3 +12,4 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 navi04   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4EKxG2ynxZQSMRtrv3b3UAlJfG75ayA9uSP4zWhWROPPWelwp0w2O5Q5ArMptqW-HqJkwGd7wa9VtHxJtkQtVw
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
