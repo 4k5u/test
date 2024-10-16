@@ -94,3 +94,9 @@ Thu Oct 17 04:03:22 CST 2024
 删除alicelebel 
 删除starsh2802 
 删除cecilia0903 
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1c29338c40706f9001fdf864c1c9257d13279ebb66e285a7607d4e5d46f2937c_trns_h264/playlist.m3u8
+Thu Oct 17 04:17:12 CST 2024
+Thu Oct 17 04:17:19 CST 2024
+Thu Oct 17 04:18:51 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除LOVE-Juan520- 
