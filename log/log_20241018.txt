@@ -215,3 +215,7 @@ Fri Oct 18 12:01:50 CST 2024
 Fri Oct 18 12:02:10 CST 2024
 Fri Oct 18 12:03:24 CST 2024
 删除dign1461 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-be2e6bf31644dd21745a644f81afd7e4c1146a6669dedc395f0c75c1980f1f35_trns_h264/playlist.m3u8
+Fri Oct 18 12:16:52 CST 2024
+Fri Oct 18 12:17:04 CST 2024
+Fri Oct 18 12:18:19 CST 2024
