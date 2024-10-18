@@ -185,3 +185,8 @@ Fri Oct 18 10:17:03 CST 2024
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gEK2CxkdX904LUA7zh4oT8IbtnsRBP_YmQmdlaXk5uqA9mcixL7WQCqq5kctn1Ap2Nx4xllaxkR5sIH_xOMdOw
 Fri Oct 18 10:18:30 CST 2024
 删除100472 
+Fri Oct 18 10:31:47 CST 2024
+Fri Oct 18 10:31:53 CST 2024
+Fri Oct 18 10:33:04 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
