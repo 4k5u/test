@@ -278,3 +278,10 @@ Sat Oct 19 14:33:17 CST 2024
 Sat Oct 19 14:46:54 CST 2024
 Sat Oct 19 14:47:08 CST 2024
 Sat Oct 19 14:48:28 CST 2024
+添加sexygamesx https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8ace6a5ca7453cfea5da77e82ba67312923672ccc744a81497d80b7e3afa6498_trns_h264/playlist.m3u8
+Sat Oct 19 15:16:46 CST 2024
+Sat Oct 19 15:16:58 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RcZ8sy600ZQORKluyAE0yq1xOepBYMy_WWKxfKS3z4GD4ibQTAKmgdUuYAczTTKrMgmtsnTTLbFQfwsHVbG8pw
+Sat Oct 19 15:18:25 CST 2024
+删除oki_dokie 
+删除ake_mi 
