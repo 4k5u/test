@@ -224,3 +224,9 @@ Sat Oct 19 11:48:15 CST 2024
 Sat Oct 19 12:01:45 CST 2024
 Sat Oct 19 12:01:55 CST 2024
 Sat Oct 19 12:03:12 CST 2024
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0c2a07baa7ef457b9f81ae116fceaa2a46d9cc1c028c2e45e00af1e34a72cdd4_trns_h264/playlist.m3u8
+Sat Oct 19 12:16:52 CST 2024
+Sat Oct 19 12:17:00 CST 2024
+Sat Oct 19 12:18:17 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除jjine0127 
