@@ -167,3 +167,9 @@ Sat Oct 19 08:31:44 CST 2024
 Sat Oct 19 08:31:48 CST 2024
 Sat Oct 19 08:33:11 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sat Oct 19 09:02:02 CST 2024
+Sat Oct 19 09:02:06 CST 2024
+Sat Oct 19 09:03:23 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除LOVE-Juan520- 
+删除gina_gracia 
