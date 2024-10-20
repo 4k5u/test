@@ -157,3 +157,7 @@ Sun Oct 20 09:46:44 CST 2024
 Sun Oct 20 09:46:48 CST 2024
 Sun Oct 20 09:48:07 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加intim_mate https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4ac1de9fc8bf194a592e44f7cbb5ce3fc0146350696e943cf6e3d395fee3d226_trns_h264/playlist.m3u8
+Sun Oct 20 10:01:45 CST 2024
+Sun Oct 20 10:01:49 CST 2024
+Sun Oct 20 10:03:08 CST 2024
