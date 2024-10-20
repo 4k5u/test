@@ -4,3 +4,4 @@ gina_gracia   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a77
 my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0b2559423e93b5b9ca2ac2cfb09fac36384468e35fe34d36bfae80585f07ec71_trns_h264/playlist.m3u8
 mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8dbd8714d2412b2b4fb987017e052bfd8e4d6015eaa7783d644614318f6566c0_trns_h264/playlist.m3u8
 Glenda_1   https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+_meganmeow_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-38dd5ba3bffeddd23454608368f9243f99a88336dab2d7ee2234108477163dbb_trns_h264/playlist.m3u8
