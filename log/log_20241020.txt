@@ -275,3 +275,9 @@ Sun Oct 20 16:33:08 CST 2024
 Sun Oct 20 16:46:56 CST 2024
 Sun Oct 20 16:47:05 CST 2024
 Sun Oct 20 16:48:15 CST 2024
+Sun Oct 20 17:02:20 CST 2024
+添加axcvdbs23 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.knSe5IRD121O.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2tuU2U1SVJEMTIxTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRDhBNkNDNC1FMDc0LTQ3MjYtOTkxRC04N0MzQTkyNjhCQzAiLCJ2aWV3ZXItaWQiOiIyNDAyODA4NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjk0MTQ5NDksImV4cCI6MTcyOTQxNTU0OSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.NMJJ645aWlz3YjmEavHRr0OM5iJdW-P4S3l_U6vWz-jL0vsucuYIzoedxjXd6HqQx1SQtaU3VW6EkxYajZ4v04U-ybOKV-GNdwaSfWMWcUYDN1BcNAZMkWIzmaq9wlTA
+Sun Oct 20 17:02:33 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uFIKZaWt3S2oFVw0XhCAebluDHjCz_gJN_hVGZw96kpQPP9sRVjn45N1Holy9NrBW5y5nJ-_eXl0Zuner5_ryw
+Sun Oct 20 17:03:48 CST 2024
+删除your_desssert 
