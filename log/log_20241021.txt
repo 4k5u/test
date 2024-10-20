@@ -26,3 +26,12 @@ Mon Oct 21 00:31:48 CST 2024
 Mon Oct 21 00:32:00 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CG3W_tfgnR3oNjKEOVAEsFJ9xEk97w8CTUjUupgBu3gNSFVZ4__drbT6L1bJOU39LlbrEiu0YZzWN7dm56Z6vw
 Mon Oct 21 00:33:21 CST 2024
+添加galantini https://edge14-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-136c4e2e403379c17b226cdc9a96099eb311b5bce5eca3ef29deef3e4820872a_trns_h264/playlist.m3u8
+Mon Oct 21 01:17:19 CST 2024
+Mon Oct 21 01:17:29 CST 2024
+Mon Oct 21 01:18:33 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除172----95----student 
+删除imsocutesexy 
+删除kolll88 
+删除mikio_san 
