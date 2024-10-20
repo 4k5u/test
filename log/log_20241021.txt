@@ -127,3 +127,7 @@ Mon Oct 21 07:31:44 CST 2024
 Mon Oct 21 07:31:44 CST 2024
 Mon Oct 21 07:33:07 CST 2024
 删除gusdk2362 
+Mon Oct 21 07:46:49 CST 2024
+Mon Oct 21 07:46:49 CST 2024
+Mon Oct 21 07:48:08 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
