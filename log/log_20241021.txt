@@ -176,3 +176,7 @@ Mon Oct 21 10:50:40 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher 
 删除intim_mate 
+添加intim_mate https://edge9-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-2fe10bdec6f5dedae6ad5691f974a4fdeacaeb4c7a53a573d15000941bb7c4f7_trns_h264/playlist.m3u8
+Mon Oct 21 11:16:57 CST 2024
+Mon Oct 21 11:16:59 CST 2024
+Mon Oct 21 11:18:13 CST 2024
