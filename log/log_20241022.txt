@@ -193,3 +193,8 @@ Tue Oct 22 11:47:02 CST 2024
 Tue Oct 22 11:48:16 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除qwas33 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-35e0a3c345acfaa52d39ae3f8425ea9d9450280b65bb380620e5f21b89d8bd20_trns_h264/playlist.m3u8
+Tue Oct 22 12:16:52 CST 2024
+Tue Oct 22 12:17:01 CST 2024
+Tue Oct 22 12:18:20 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
