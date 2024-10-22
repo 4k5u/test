@@ -20,3 +20,11 @@ Wed Oct 23 00:48:34 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除Asia-Lynn 
+Wed Oct 23 01:02:23 CST 2024
+Wed Oct 23 01:02:57 CST 2024
+Wed Oct 23 01:06:07 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除golaniyule0 
+删除soso621 
+删除dmsdms1247 
+删除Ryo-sama 
