@@ -6,3 +6,4 @@ hotse777   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AXYleQiSHLv7P_z2XB9ntWab__5LLc1pKlPHbBm9H7SO_JgsHxz70uMapGeOOpX6KqM1NWcBN6eBXEOPacuUtg
 gina_gracia   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-d974143ddc3bb7ee47aa663eb17fdc2d5bdda5054f5fe4ff2a092b5269fcd4a4_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3c593ecccf3864e2119ef9510877ca1e300d07997550d1c0e7a471878e52faf7_trns_h264/playlist.m3u8
