@@ -13,3 +13,7 @@ Thu Oct 24 00:32:45 CST 2024
 Thu Oct 24 00:33:48 CST 2024
 添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 删除jodong2 
+Thu Oct 24 00:47:18 CST 2024
+Thu Oct 24 00:47:43 CST 2024
+Thu Oct 24 00:48:46 CST 2024
+删除grandeeney 
