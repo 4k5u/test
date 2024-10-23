@@ -66,3 +66,8 @@ Thu Oct 24 03:48:22 CST 2024
 Thu Oct 24 04:01:50 CST 2024
 Thu Oct 24 04:02:04 CST 2024
 Thu Oct 24 04:03:20 CST 2024
+添加my_eyes_higher https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d18bd78fe82331c38b6a161f732e643448a3ced4fca40f455642146946c48adc_trns_h264/playlist.m3u8
+Thu Oct 24 04:16:54 CST 2024
+Thu Oct 24 04:17:06 CST 2024
+Thu Oct 24 04:18:21 CST 2024
+删除jinricp 
