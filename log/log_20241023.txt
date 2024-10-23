@@ -197,3 +197,8 @@ Wed Oct 23 11:47:06 CST 2024
 Wed Oct 23 11:48:14 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除kolll88 
+Wed Oct 23 12:02:18 CST 2024
+Wed Oct 23 12:02:27 CST 2024
+Wed Oct 23 12:03:34 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除banet523 
