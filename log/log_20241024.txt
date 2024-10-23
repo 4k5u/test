@@ -84,3 +84,8 @@ Thu Oct 24 05:02:33 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cENu0qg-NAz-zDO3cmKl2_VTg_HhX86JvOunIeGXv6XsriOOLI9pObamMe5178hB59iui6dAVugPIsBfkNdQeg
 Thu Oct 24 05:03:53 CST 2024
 删除dks2003 
+Thu Oct 24 05:46:49 CST 2024
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMDdERjg4MC1FQjY1LTRDNEMtQTU0NC02MjE3ODc0MkFEMzIiLCJ2aWV3ZXItaWQiOiIyNTM3MjE2NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3Mjk3MjAwMTIsImV4cCI6MTcyOTcyMDYxMiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.OG0jrbBUSWts4hmTNBR-UTcATUFdvZ8aXYm27ku8NSJBaea0YvvrsTMuytw4bPzKOABrM8arkGndIm_34tmnOEd5JeLKWcTV0CtUQHd5-hII-X8LbnGo4972GoP9qF_3
+Thu Oct 24 05:47:01 CST 2024
+Thu Oct 24 05:48:13 CST 2024
+删除3ww1ww3 
