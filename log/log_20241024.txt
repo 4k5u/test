@@ -217,3 +217,9 @@ Thu Oct 24 16:01:53 CST 2024
 Thu Oct 24 16:01:59 CST 2024
 Thu Oct 24 16:03:13 CST 2024
 删除getme1004 
+添加ad0res https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-49f4687cbd6d4b5e0f37763a06c9bd161ab0bc5e0921923a619cfe308aeec931_trns_h264/playlist.m3u8
+Thu Oct 24 16:16:48 CST 2024
+Thu Oct 24 16:16:54 CST 2024
+Thu Oct 24 16:18:15 CST 2024
+删除ddooyaa 
+删除San___San 
