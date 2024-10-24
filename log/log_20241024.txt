@@ -164,3 +164,7 @@ Thu Oct 24 11:17:19 CST 2024
 Thu Oct 24 11:18:33 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher 
+添加_meganmeow_ https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6eb4b2cdac4fc867f98769b0adbb8f42ac75e8c7fd9488cf0755e14ab3b37219_trns_h264/playlist.m3u8
+Thu Oct 24 12:01:48 CST 2024
+Thu Oct 24 12:01:58 CST 2024
+Thu Oct 24 12:03:19 CST 2024
