@@ -156,3 +156,7 @@ Fri Oct 25 10:46:53 CST 2024
 Fri Oct 25 10:48:11 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除banet523 
+Fri Oct 25 11:16:46 CST 2024
+Fri Oct 25 11:16:52 CST 2024
+Fri Oct 25 11:18:10 CST 2024
+删除leelate 
