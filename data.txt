@@ -4,3 +4,4 @@ imgroot5   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Glenda_1   https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-84cf3cbb7830fbba456c7a0fa0a7eb81662abd5be445ee352a8782611cae5a40_trns_h264/playlist.m3u8
 mazzanti_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f61f23accc8d7f073475cd0608ac0d8f0a98bb18ac605fadb0776e86c95b3672_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
