@@ -211,3 +211,8 @@ Sun Oct 27 14:46:57 CST 2024
 Sun Oct 27 14:48:14 CST 2024
 删除Glenda_1 
 删除Sime_Naughty 
+Sun Oct 27 15:01:45 CST 2024
+Sun Oct 27 15:01:53 CST 2024
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HM17suSaCmat8ID1NOaCdFnk6h-EbkoY_fkOWOGOwFAbcKpIUABwl5ayzV3kdFjMlRUBzlIoCyQ9CystCdO_kQ
+Sun Oct 27 15:03:22 CST 2024
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
