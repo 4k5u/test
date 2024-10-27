@@ -5,3 +5,4 @@ my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 _meganmeow_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-2af27be3f6c369d76a428fff1cc36f7514cec9b13450ec3956b198a37f7b7e77_trns_h264/playlist.m3u8
 mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-cdd0ed28f11d7e419189c98e008692d76abc71eaec334b6384a67db5c6f7c8f6_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
