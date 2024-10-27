@@ -205,3 +205,9 @@ Sun Oct 27 14:33:16 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除leelate 
 删除your_desssert 
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d98c7e4da2accfd90559c31584a0cba58b426bffc76021c8c1e220c38893ae51_trns_h264/playlist.m3u8
+Sun Oct 27 14:46:48 CST 2024
+Sun Oct 27 14:46:57 CST 2024
+Sun Oct 27 14:48:14 CST 2024
+删除Glenda_1 
+删除Sime_Naughty 
