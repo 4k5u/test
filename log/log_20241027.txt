@@ -117,3 +117,8 @@ Sun Oct 27 07:48:03 CST 2024
 Sun Oct 27 08:17:02 CST 2024
 Sun Oct 27 08:17:04 CST 2024
 Sun Oct 27 08:18:21 CST 2024
+Sun Oct 27 08:32:06 CST 2024
+Sun Oct 27 08:32:08 CST 2024
+Sun Oct 27 08:33:24 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
