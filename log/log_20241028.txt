@@ -120,3 +120,8 @@ Mon Oct 28 09:46:59 CST 2024
 Mon Oct 28 09:48:10 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Xenomy 
+Mon Oct 28 10:01:55 CST 2024
+Mon Oct 28 10:02:01 CST 2024
+Mon Oct 28 10:03:12 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
