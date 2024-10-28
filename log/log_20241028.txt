@@ -300,3 +300,11 @@ Mon Oct 28 21:32:35 CST 2024
 Mon Oct 28 21:33:40 CST 2024
 删除172----95----student 
 删除galantini 
+添加galantini https://edge1-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-7d8a51832baf527014c407ed2ece15dfe9641417836d60302931ac7b01e7f272_trns_h264/playlist.m3u8
+Mon Oct 28 21:46:56 CST 2024
+Mon Oct 28 21:47:27 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-OfLJH-QcoEDtFCwQXAmniSsikoDIW3Lu5MtS6cgxEP1Eks618MJpZu10oTna8CHW0N2668uVjKVfEFpAI3h5w
+Mon Oct 28 21:48:38 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除green10004 
+删除kkkku96 
