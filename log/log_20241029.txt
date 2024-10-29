@@ -204,3 +204,8 @@ Tue Oct 29 14:16:47 CST 2024
 Tue Oct 29 14:16:57 CST 2024
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DW8TxdjYvglUmcId-8RwoMNJhZSyZOWqDCMlt8YsNvpzrQeq3DmaqDIczs6uDiRnWn74DMgnN4JGsS1rgzNXOA
 Tue Oct 29 14:18:21 CST 2024
+Tue Oct 29 14:46:47 CST 2024
+Tue Oct 29 14:46:55 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VTfh0XnelLbFGsaECe3jn87fMot1JMRZB-Cozd3jsYzrOvhuKSVhIb5sXEc8nEYsnzjcRQjaumvo4pFpBJ6ulQ
+Tue Oct 29 14:48:20 CST 2024
+删除naras2 
