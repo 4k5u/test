@@ -33,3 +33,10 @@ Thu Oct 31 01:16:53 CST 2024
 Thu Oct 31 01:17:31 CST 2024
 Thu Oct 31 01:18:36 CST 2024
 删除starsh2802 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-7343177fd79403e3f94a3035eaa275ffd15429c36c99892d0b08285674a9afbd_trns_h264/playlist.m3u8
+Thu Oct 31 01:31:54 CST 2024
+Thu Oct 31 01:32:31 CST 2024
+Thu Oct 31 01:33:36 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除chuing77 
+删除ad0res 
