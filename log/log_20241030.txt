@@ -196,3 +196,9 @@ Wed Oct 30 14:48:34 CST 2024
 Wed Oct 30 15:01:46 CST 2024
 Wed Oct 30 15:02:06 CST 2024
 Wed Oct 30 15:03:20 CST 2024
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-046232f0f53d1ff55befba456d62aa8bf4178f2d7287f2183b97c161615439ee_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c7acc0bd4d95741661f34f62b63bd92e2f3db79bdc8a7c8f3f225a3eb853e669_trns_h264/playlist.m3u8
+Wed Oct 30 15:31:58 CST 2024
+Wed Oct 30 15:32:16 CST 2024
+Wed Oct 30 15:33:25 CST 2024
+删除getme1004 
