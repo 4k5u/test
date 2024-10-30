@@ -132,3 +132,7 @@ Wed Oct 30 10:46:49 CST 2024
 Wed Oct 30 10:46:57 CST 2024
 Wed Oct 30 10:48:07 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Wed Oct 30 11:01:53 CST 2024
+Wed Oct 30 11:02:01 CST 2024
+Wed Oct 30 11:03:07 CST 2024
+删除hanny27 
