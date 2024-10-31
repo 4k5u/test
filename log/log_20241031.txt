@@ -238,3 +238,8 @@ Thu Oct 31 12:46:49 CST 2024
 Thu Oct 31 12:47:01 CST 2024
 Thu Oct 31 12:48:13 CST 2024
 删除oki_dokie 
+Thu Oct 31 13:01:52 CST 2024
+Thu Oct 31 13:02:02 CST 2024
+Thu Oct 31 13:03:11 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除jjine0127 
