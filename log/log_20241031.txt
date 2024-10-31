@@ -149,3 +149,8 @@ Thu Oct 31 07:47:00 CST 2024
 Thu Oct 31 07:48:12 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除dign1461 
+Thu Oct 31 08:01:53 CST 2024
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QTQ2QTQ2RS00M0E5LTQyRDQtQThGQy1DNzczNzk1RDEwQ0EiLCJ2aWV3ZXItaWQiOiIyNTA2MTk4MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzAzMzI5MTYsImV4cCI6MTczMDMzMzUxNiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.VW0w1iF3NmlZwL8Nb8Lld60Zpgrtr2YpBiBzkcsSCjRUUELAxQwPte7UjPcvBG6l6vtu6XyO3KSvHVEe47romWyW2WNPvBd7HEZ0y2Vg1n9RKPP_QjIsIQ2Mvd6J-quy
+Thu Oct 31 08:02:07 CST 2024
+Thu Oct 31 08:03:15 CST 2024
+删除flowerwar 
