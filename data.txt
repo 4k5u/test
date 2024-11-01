@@ -6,3 +6,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Glenda_1   https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+sexygamesx   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-752624a2034112cb6aab6342095cf78a31693096cf07b6276bc9ed69674fe95c_trns_h264/playlist.m3u8
