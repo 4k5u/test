@@ -234,3 +234,10 @@ Fri Nov 1 13:17:02 CST 2024
 Fri Nov 1 13:18:21 CST 2024
 删除nemu00 
 删除intim_mate 
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3bd4a2727b821cc92646ced75ee82789ef476e23c70df66ebe50ea9b12850fc0_trns_h264/playlist.m3u8
+添加your_desssert https://edge5-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0a53e1fdbae2d4b2222a7b2a23d70a51aa56e2d145fea2f3358fdb4004d4002e_trns_h264/playlist.m3u8
+Fri Nov 1 13:31:51 CST 2024
+Fri Nov 1 13:31:59 CST 2024
+Fri Nov 1 13:33:14 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除cuddles_me 
