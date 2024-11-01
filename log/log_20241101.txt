@@ -279,3 +279,9 @@ Fri Nov 1 15:32:06 CST 2024
 Fri Nov 1 15:33:24 CST 2024
 删除yourare 
 删除naras2 
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-10922d9cd482309c9e3cc99df1eba3e7ef0ee589b06ce62540731ffa2efe5a9b_trns_h264/playlist.m3u8
+Fri Nov 1 15:46:47 CST 2024
+Fri Nov 1 15:47:01 CST 2024
+Fri Nov 1 15:48:22 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除intim_mate 
