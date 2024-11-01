@@ -458,3 +458,9 @@ Fri Nov 1 22:31:51 CST 2024
 Fri Nov 1 22:32:58 CST 2024
 Fri Nov 1 22:33:59 CST 2024
 删除oki_dokie 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bdfe96460411355b586b629bb15134400cd271f60a12b3aedefc2ae116c404b5_trns_h264/playlist.m3u8
+Fri Nov 1 22:46:56 CST 2024
+Fri Nov 1 22:48:00 CST 2024
+Fri Nov 1 22:48:56 CST 2024
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除your_desssert 
