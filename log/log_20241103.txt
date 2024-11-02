@@ -20,3 +20,8 @@ Sun Nov 3 01:01:44 CST 2024
 Sun Nov 3 01:02:12 CST 2024
 Sun Nov 3 01:03:17 CST 2024
 删除saone451 
+Sun Nov 3 01:16:47 CST 2024
+Sun Nov 3 01:17:11 CST 2024
+Sun Nov 3 01:18:15 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除dana9282 
