@@ -183,3 +183,8 @@ Sat Nov 2 09:33:37 CST 2024
 Sat Nov 2 09:46:50 CST 2024
 Sat Nov 2 09:46:54 CST 2024
 Sat Nov 2 09:48:07 CST 2024
+添加intim_mate https://edge4-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-759af7091376bbc70d158e0ae7c4d3a12f4511ca318096d54f3e800638096045_trns_h264/playlist.m3u8
+Sat Nov 2 10:01:56 CST 2024
+Sat Nov 2 10:02:00 CST 2024
+Sat Nov 2 10:03:13 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
