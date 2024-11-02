@@ -191,3 +191,9 @@ Sat Nov 2 10:03:13 CST 2024
 Sat Nov 2 10:16:53 CST 2024
 Sat Nov 2 10:16:57 CST 2024
 Sat Nov 2 10:18:15 CST 2024
+Sat Nov 2 10:31:47 CST 2024
+Sat Nov 2 10:31:51 CST 2024
+Sat Nov 2 10:33:10 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除IdaJonesy 
+删除mazzanti_ 
