@@ -7,3 +7,4 @@ mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3
 intim_mate   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-759af7091376bbc70d158e0ae7c4d3a12f4511ca318096d54f3e800638096045_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
