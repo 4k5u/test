@@ -6,3 +6,5 @@ gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_
 gina_gracia   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-b4f00adfb90127cf1a4c7d5148ae413d4c493d8c40efc7a4e7774a481ea31ba2_trns_h264/playlist.m3u8
 sexygamesx   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-25aad9d27f33dd1976a706a265838c3ef6e0aa2069b2430c138b94b144cef222_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fd60dde97fb6951be0d96f4f6388466e5426e0e171be17830df1b6c28e45b3c4_trns_h264/playlist.m3u8
+mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-905346427f29c0d7caed8fdab596031ae94dfefcea2c043827015d8e14c0fc78_trns_h264/playlist.m3u8
+LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
