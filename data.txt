@@ -11,3 +11,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8860cf5a25c9af4cab8c58af935d6f396224bac4b22e9c6eea3f96958cee67cc_trns_h264/playlist.m3u8
+ake_mi   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d74446b2942ca9edc41b912b6e8b388dc6d4a6fae692edc7506506d6985b9124_trns_h264/playlist.m3u8
