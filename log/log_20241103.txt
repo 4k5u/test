@@ -280,3 +280,8 @@ Sun Nov 3 15:01:43 CST 2024
 Sun Nov 3 15:01:51 CST 2024
 Sun Nov 3 15:03:09 CST 2024
 删除y1026 
+添加mode_bad https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5576f538a9ba5c5353acca412e568cd28e4a5a3db88fc60ae101ad38449f3551_trns_h264/playlist.m3u8
+Sun Nov 3 15:16:57 CST 2024
+Sun Nov 3 15:17:06 CST 2024
+Sun Nov 3 15:18:19 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
