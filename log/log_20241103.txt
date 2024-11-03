@@ -247,3 +247,9 @@ Sun Nov 3 13:16:47 CST 2024
 Sun Nov 3 13:16:58 CST 2024
 Sun Nov 3 13:18:18 CST 2024
 删除gina_gracia 
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-1c18e900773cf34077052057aba707b75000ba9ecc54f15074b9f9e31bb74688_trns_h264/playlist.m3u8
+Sun Nov 3 13:31:53 CST 2024
+Sun Nov 3 13:32:01 CST 2024
+Sun Nov 3 13:33:14 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除oki_dokie 
