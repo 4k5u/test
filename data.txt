@@ -7,3 +7,4 @@ gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_p
 LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 _meganmeow_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-05dd66898b013bb40be4afd9003de5f6b6d2788787ef863026864b4e1d949831_trns_h264/playlist.m3u8
 mazzanti_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f40e9ac53d315e2093a8f52ab96660f08e9fa20a775780fca4e45457d2dc4d45_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
