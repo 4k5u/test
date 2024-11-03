@@ -253,3 +253,8 @@ Sun Nov 3 13:32:01 CST 2024
 Sun Nov 3 13:33:14 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除oki_dokie 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7b4cca87442de6339927a8bb1f0f108eca8d0a0e3b7ee43599cebc8fb0bc1aa7_trns_h264/playlist.m3u8
+Sun Nov 3 13:46:45 CST 2024
+Sun Nov 3 13:46:51 CST 2024
+Sun Nov 3 13:48:13 CST 2024
+删除akakak11112 
