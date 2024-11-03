@@ -26,3 +26,8 @@ Mon Nov 4 01:16:58 CST 2024
 Mon Nov 4 01:18:15 CST 2024
 删除dks2003 
 删除ake_mi 
+Mon Nov 4 01:31:46 CST 2024
+Mon Nov 4 01:32:00 CST 2024
+Mon Nov 4 01:33:13 CST 2024
+添加Glenda_1 https://edge-hls.doppiocdn.live/hls/74768272/master/74768272_auto.m3u8
+删除LOVE-Juan520- 
