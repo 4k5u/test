@@ -1,0 +1,7 @@
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-70486229ea15981ac51baeae52596f82b5c8bc86eb4c7338cec469349a35dba7_trns_h264/playlist.m3u8
+Wed Nov 6 00:01:50 CST 2024
+Wed Nov 6 00:02:15 CST 2024
+Wed Nov 6 00:03:18 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除Tmdgus5411 
+删除dana9282 
