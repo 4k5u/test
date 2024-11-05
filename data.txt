@@ -4,3 +4,4 @@ oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-704862
 kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-5b7f0a7d389f378aa590c652eff51f79cdbc4ed1257bb32ba478b62c91c44456_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8a996ca0ae288077ff6b1b2f8b7f5903e2cdc40ba7368b810c48658f6b041a7b_trns_h264/playlist.m3u8
+gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7Z8tTACuqDoByy2I8qgFUKW9rcvmj-fGe_Yn5Vi3ARFgt5iPD-CLd0ZpDrPIrY7U1_pGFDfxwZBzoiLovTfewQ
