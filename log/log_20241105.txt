@@ -185,3 +185,7 @@ Tue Nov 5 11:01:51 CST 2024
 Tue Nov 5 11:01:57 CST 2024
 Tue Nov 5 11:03:11 CST 2024
 删除oki_dokie 
+Tue Nov 5 11:16:51 CST 2024
+Tue Nov 5 11:16:58 CST 2024
+Tue Nov 5 11:18:13 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
