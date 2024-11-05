@@ -285,3 +285,8 @@ Tue Nov 5 17:03:35 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除AkiShina 
 删除your_desssert 
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b40aaac1a2a9de6254d2b5b1961f80c846ae9ee3d2ba2a643456cb998f09e061_trns_h264/playlist.m3u8
+Tue Nov 5 17:16:50 CST 2024
+Tue Nov 5 17:17:06 CST 2024
+Tue Nov 5 17:18:21 CST 2024
+删除redholic377 
