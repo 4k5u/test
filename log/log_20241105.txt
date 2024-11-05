@@ -218,3 +218,8 @@ Tue Nov 5 13:16:52 CST 2024
 Tue Nov 5 13:16:54 CST 2024
 Tue Nov 5 13:18:15 CST 2024
 删除Xenomy 
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b40aaac1a2a9de6254d2b5b1961f80c846ae9ee3d2ba2a643456cb998f09e061_trns_h264/playlist.m3u8
+Tue Nov 5 13:31:47 CST 2024
+Tue Nov 5 13:31:49 CST 2024
+Tue Nov 5 13:33:13 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
