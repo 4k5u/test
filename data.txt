@@ -7,6 +7,3 @@ in0410   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Asia-Lynn   https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-70486229ea15981ac51baeae52596f82b5c8bc86eb4c7338cec469349a35dba7_trns_h264/playlist.m3u8
-LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
-kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
-cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
