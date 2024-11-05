@@ -163,3 +163,8 @@ Tue Nov 5 09:33:13 CST 2024
 Tue Nov 5 09:46:51 CST 2024
 Tue Nov 5 09:46:55 CST 2024
 Tue Nov 5 09:48:10 CST 2024
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4424c47bd40b0da8b4a689764269bec506d10b1fb93aa624f6a6b5bc01d5dbe3_trns_h264/playlist.m3u8
+Tue Nov 5 10:02:00 CST 2024
+Tue Nov 5 10:02:04 CST 2024
+Tue Nov 5 10:03:17 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
