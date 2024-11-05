@@ -57,3 +57,9 @@ Wed Nov 6 02:18:34 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除sol3712 
+添加kiyoko_rin https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-5b7f0a7d389f378aa590c652eff51f79cdbc4ed1257bb32ba478b62c91c44456_trns_h264/playlist.m3u8
+Wed Nov 6 02:31:58 CST 2024
+Wed Nov 6 02:32:02 CST 2024
+Wed Nov 6 02:33:16 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除pandaex 
