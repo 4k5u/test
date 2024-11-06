@@ -41,3 +41,8 @@ Thu Nov 7 01:33:31 CST 2024
 删除dks2003 
 删除imanatural 
 删除alicelebel 
+Thu Nov 7 01:46:53 CST 2024
+Thu Nov 7 01:47:17 CST 2024
+Thu Nov 7 01:48:28 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除jodong2 
