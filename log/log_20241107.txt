@@ -140,3 +140,7 @@ Thu Nov 7 06:33:13 CST 2024
 Thu Nov 7 06:47:04 CST 2024
 Thu Nov 7 06:47:11 CST 2024
 Thu Nov 7 06:48:23 CST 2024
+Thu Nov 7 07:01:48 CST 2024
+Thu Nov 7 07:01:54 CST 2024
+Thu Nov 7 07:03:13 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
