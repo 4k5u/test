@@ -155,3 +155,6 @@ Wed Nov 6 08:46:59 CST 2024
 Wed Nov 6 08:48:11 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除gusdk2362 
+Wed Nov 6 09:01:48 CST 2024
+Wed Nov 6 09:01:50 CST 2024
+Wed Nov 6 09:03:08 CST 2024
