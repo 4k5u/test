@@ -262,3 +262,9 @@ Wed Nov 6 14:33:21 CST 2024
 Wed Nov 6 14:46:51 CST 2024
 Wed Nov 6 14:47:05 CST 2024
 Wed Nov 6 14:48:26 CST 2024
+Wed Nov 6 15:01:48 CST 2024
+Wed Nov 6 15:02:02 CST 2024
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wvoWrL3wqoorBTH8ePswYkxvsR6V_YVezdwqGB5roG2vBFH6C-ffSE_eMflsW17m92RDQKFmiyypj9VeXS7k5Q
+Wed Nov 6 15:03:28 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除Judy0523 
