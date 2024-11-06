@@ -118,3 +118,9 @@ Thu Nov 7 05:31:57 CST 2024
 Thu Nov 7 05:33:15 CST 2024
 删除nobleinc 
 删除sexygamesx 
+添加sexygamesx https://edge14-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d57192cd27cb3a5604902e8cdf8fc0e0df45fbdaaf3cf4092faaf182d9a9a629_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-42545160ca5f4806b36907eee122f91156b59e417425898edc5a7f410b5355af_trns_h264/playlist.m3u8
+Thu Nov 7 05:46:49 CST 2024
+Thu Nov 7 05:46:57 CST 2024
+Thu Nov 7 05:48:14 CST 2024
+删除oki_dokie 
