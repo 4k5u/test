@@ -2,4 +2,3 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2e06f895bcc214bed58eeb62dc69f1cf579c3ddaff861b2cd0a5e4426319559e_trns_h264/playlist.m3u8
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b41f5dbf84f7fc7f069186ac107dc8a8e8648a047269d0a671b4c1930d6a448b_trns_h264/playlist.m3u8
