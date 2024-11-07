@@ -8,3 +8,5 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 intim_mate   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e97cf7199fd7bb1386743c68d2b9541047da3ddb3b834011bb43e414f1119861_trns_h264/playlist.m3u8
 AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
