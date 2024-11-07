@@ -282,3 +282,8 @@ Thu Nov 7 15:32:04 CST 2024
 Thu Nov 7 15:33:21 CST 2024
 删除Xenomy 
 删除oki_dokie 
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e44252991fdf80379d3483cf5142f6c76db508f17aaaafce43cb607410e81552_trns_h264/playlist.m3u8
+Thu Nov 7 15:46:46 CST 2024
+Thu Nov 7 15:47:00 CST 2024
+Thu Nov 7 15:48:22 CST 2024
+删除alicelebel 
