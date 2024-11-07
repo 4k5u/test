@@ -106,3 +106,7 @@ Fri Nov 8 05:46:45 CST 2024
 Fri Nov 8 05:46:45 CST 2024
 Fri Nov 8 05:48:08 CST 2024
 删除nobleinc 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9d29da50ba6e4bb5d048acb4d7de66c1fff279fc9009f8b9e9cf32552dbfeea2_trns_h264/playlist.m3u8
+Fri Nov 8 06:01:47 CST 2024
+Fri Nov 8 06:01:47 CST 2024
+Fri Nov 8 06:03:09 CST 2024
