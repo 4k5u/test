@@ -411,3 +411,12 @@ Thu Nov 7 21:48:25 CST 2024
 删除axcvdbs23 
 删除Tmdgus5411 
 删除yourare 
+Thu Nov 7 22:01:56 CST 2024
+添加zzeongi2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KYtf6OZfojoq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tZdGY2T1pmb2pvcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzcxOUYyRC02QTMxLTQ1M0EtODNBRi03MDYzOURDOEFDNDciLCJ2aWV3ZXItaWQiOiIyNDAwNDIxNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzA5ODgxNDEsImV4cCI6MTczMDk4ODc0MSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.jHIJG448xR7qFSuUCJf2E-mSXg9V2uqyvY0HSh_K5jrKhn2LlrTiGmbXlPJoPuoHcNu_3lgQnSAZ3aRJRKH2eUAfefRJ1URvItRCvJgB9tjQvQ2tGFxs5zDQxL0N1a_N
+Thu Nov 7 22:02:25 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0JvSsS8xB7JWPa-umnVN9abbHO1eN29KOWdUiPTNku_AcxmcjBqbGjLm0oeSGAR79eFapfK-FwjinnDAToGf0g
+Thu Nov 7 22:03:32 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除y1026 
+删除tyy750ii 
+删除banet523 
