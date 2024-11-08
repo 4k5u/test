@@ -81,3 +81,7 @@ Sat Nov 9 03:31:49 CST 2024
 Sat Nov 9 03:32:00 CST 2024
 Sat Nov 9 03:33:11 CST 2024
 删除sol3712 
+Sat Nov 9 03:46:51 CST 2024
+Sat Nov 9 03:47:01 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dy5R-gYCYh7Qngf9ou0ApNCnZmm0DSGugRpZiS1up3v-wdko2wNqckW3MXjjU-x42ozkksuBkTvDKjkHbE59Mg
+Sat Nov 9 03:48:15 CST 2024
