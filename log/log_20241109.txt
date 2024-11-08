@@ -26,3 +26,7 @@ Sat Nov 9 01:03:37 CST 2024
 删除o111na 
 删除rico0210 
 删除cecilia0903 
+Sat Nov 9 01:17:50 CST 2024
+Sat Nov 9 01:18:22 CST 2024
+Sat Nov 9 01:19:30 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
