@@ -2,3 +2,8 @@ Sat Nov 9 00:01:52 CST 2024
 Sat Nov 9 00:02:39 CST 2024
 Sat Nov 9 00:03:50 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-356d7a503e2cc2a8e96761d4760d5192b10550120f9019b72584e5f6e993ec2b_trns_h264/playlist.m3u8
+Sat Nov 9 00:16:49 CST 2024
+Sat Nov 9 00:17:34 CST 2024
+Sat Nov 9 00:18:46 CST 2024
+删除dkdlfjqm758 
