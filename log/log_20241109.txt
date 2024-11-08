@@ -77,3 +77,7 @@ Sat Nov 9 03:16:44 CST 2024
 Sat Nov 9 03:16:54 CST 2024
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BBhIcC4tFsOeW8TbRKOFoZezUISoQJ4RmvqUv65DkymGvSfxK97BFl_De6duMFLv3UEfaBcvWPObFqW8GagvrQ
 Sat Nov 9 03:18:18 CST 2024
+Sat Nov 9 03:31:49 CST 2024
+Sat Nov 9 03:32:00 CST 2024
+Sat Nov 9 03:33:11 CST 2024
+删除sol3712 
