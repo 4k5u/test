@@ -277,3 +277,10 @@ Fri Nov 8 15:33:30 CST 2024
 Fri Nov 8 15:46:56 CST 2024
 Fri Nov 8 15:47:06 CST 2024
 Fri Nov 8 15:48:17 CST 2024
+添加honey_pinkgreen https://edge4-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0a23ee9d51a6a41570bf8fa620c48cd3419e0c3d9604adc773a2fd8469ed0e77_trns_h264/playlist.m3u8
+Fri Nov 8 16:01:47 CST 2024
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.v7Uq5t9Y8wqB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3Y3VXE1dDlZOHdxQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RkUzQUFGQy1BOUMzLTRGNjItOEQ4QS0xNEM2RjUzRThCNkMiLCJ2aWV3ZXItaWQiOiIyNDUwODg2MiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEwNTI5MTYsImV4cCI6MTczMTA1MzUxNiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.xB-Jq0aEZaItEn63ywU_cbP7Zf1KS9GXkrCJue0FSUYcV7lIzxSHQGW_mbsW8JiSm8c0EG6ZfqySG2iPIuJuag4iWYOLAHTppuYCb7bK4QYzipSdBuf2FCBBTrW1ICy6
+Fri Nov 8 16:02:01 CST 2024
+Fri Nov 8 16:03:19 CST 2024
+删除alicelebel 
+删除dign1461 
