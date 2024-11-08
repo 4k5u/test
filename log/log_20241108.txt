@@ -246,3 +246,10 @@ Fri Nov 8 14:01:49 CST 2024
 Fri Nov 8 14:02:01 CST 2024
 Fri Nov 8 14:03:18 CST 2024
 删除Xenomy 
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-dc02b25c3df7fdcdcfc5a4eb35a3072a3787f0ecea9371be39d284785bf2457f_trns_h264/playlist.m3u8
+Fri Nov 8 14:16:52 CST 2024
+Fri Nov 8 14:17:02 CST 2024
+Fri Nov 8 14:18:13 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除akakak11112 
+删除intim_mate 
