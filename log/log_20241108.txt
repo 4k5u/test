@@ -191,3 +191,8 @@ Fri Nov 8 11:16:55 CST 2024
 Fri Nov 8 11:16:59 CST 2024
 Fri Nov 8 11:18:13 CST 2024
 删除Sime_Naughty 
+Fri Nov 8 11:31:54 CST 2024
+Fri Nov 8 11:31:58 CST 2024
+Fri Nov 8 11:33:11 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
