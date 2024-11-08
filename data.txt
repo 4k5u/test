@@ -9,3 +9,4 @@ gina_gracia   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-09
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8ba47022958600e68a4182b7a3c7904613f63f71b60ae157afade1cd0b57a6c4_trns_h264/playlist.m3u8
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-22bddc29b746411d7c820050be88cfd36abddc9e6853d693dd6f2e42414889eb_trns_h264/playlist.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
