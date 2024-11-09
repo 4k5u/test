@@ -168,3 +168,9 @@ Sat Nov 9 08:46:49 CST 2024
 Sat Nov 9 08:46:51 CST 2024
 Sat Nov 9 08:48:04 CST 2024
 删除mazzanti_ 
+添加gina_gracia https://edge8-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-c841b405e0fea6820c63dda0ac64a199482830e76a444eeedefa3516e472cbd5_trns_h264/playlist.m3u8
+Sat Nov 9 09:01:54 CST 2024
+Sat Nov 9 09:01:56 CST 2024
+Sat Nov 9 09:03:09 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除cecilia0903 
