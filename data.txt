@@ -3,7 +3,6 @@ m0m099   https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_play
 kiyoko_rin   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-31dfa9e69e7053a12d313fb3a44ee102a247eee3f4fef6f9050607b54101b0ed_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dy5R-gYCYh7Qngf9ou0ApNCnZmm0DSGugRpZiS1up3v-wdko2wNqckW3MXjjU-x42ozkksuBkTvDKjkHbE59Mg
-mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-a6bef631ca7974d77c8d1c60b48544aa032a31e89d7a444c599988fa118997c1_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8ba47022958600e68a4182b7a3c7904613f63f71b60ae157afade1cd0b57a6c4_trns_h264/playlist.m3u8
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-22bddc29b746411d7c820050be88cfd36abddc9e6853d693dd6f2e42414889eb_trns_h264/playlist.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
