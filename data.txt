@@ -5,6 +5,7 @@ Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.544_kCLHbkAl-7_u0m1OlUAssWUxG8gcrxKvGirFIdwxN7Ist9_j_KjFqCeLb6ZgTC3vOPCTYV7kpyAYYB4BsQ
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6600e6a252df2cb6f73d961a3d670b6665acb83205b7e3bd404ae5ca8274a463_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4068c9ba1f9e4e001aec66da3403ee4de5a9f34d828af380c072a48953892d25_trns_h264/playlist.m3u8
-LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19bdb527658858e3d798495e9076feea8e281f704f78167c78f4915f60dd4c03_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyN0IyN0Y4My0zNDMyLTQ4NUItOTA4OS0wOEIyQjQwRUY3RDAiLCJ2aWV3ZXItaWQiOiIyMzg4MDQ3MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzExOTQyMDQsImV4cCI6MTczMTE5NDgwNCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.xcMOqeQxSTQqXymdGNb2d1CG7R2QoqQ3y0vcUm4of3ZDkQPRlzQryCrAViShWwBiui1_ziEkgAB928EnRTR40jHpOUWfR2h8tRBECRlsNB_xbhHVV3lffqQ6O3SIlt2T
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
