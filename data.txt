@@ -14,3 +14,4 @@ your_desssert   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd
 kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gfyjqgK9qo8x2ICNvXhBbnopN-gnlptcIDaMhDJEXXaS2EOWtyglM2TXtOnwS-wJbp9XN4rLZR1fPH5vquE8XQ
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fF5RmcM-vHAi3tE1b38bsuVCKHadKNLD4DZ7OlxJrsChoxWe-PgpunVUZ-n2iAXuvZJJ7M7PmnKHeOGt1-OECA
 sol3712   https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.P7r0sQWOE9dQox5qqv9lXqLDx_lkZHBI7QXU1IEkXWrUFel9nGBVcWnRNLx5JUbGXGI7qgIAo7-CQv87SwmAKQ
+leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.HTP0d3quFvzaR1THm-trBfiSl8g1eBI8wUmk1sOix--ziJQUviqVlvfWpo-OVY8IMQBLmc8kJmbdHpaX6WGscQ
