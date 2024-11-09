@@ -108,3 +108,7 @@ Sun Nov 10 05:31:45 CST 2024
 Sun Nov 10 05:31:46 CST 2024
 Sun Nov 10 05:33:00 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19bdb527658858e3d798495e9076feea8e281f704f78167c78f4915f60dd4c03_trns_h264/playlist.m3u8
+Sun Nov 10 05:46:48 CST 2024
+Sun Nov 10 05:46:48 CST 2024
+Sun Nov 10 05:48:05 CST 2024
