@@ -391,3 +391,8 @@ Sat Nov 9 20:33:53 CST 2024
 Sat Nov 9 20:47:15 CST 2024
 Sat Nov 9 20:47:29 CST 2024
 Sat Nov 9 20:48:28 CST 2024
+Sat Nov 9 21:01:47 CST 2024
+Sat Nov 9 21:02:01 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.sL4UHzf9qeToJ6VXwxYy5T7luUKBo5_Rfj72qyfa2CA09NYYp_7EZhPMiVZG4LQUdFy0SaUHIdFgaA5XDwjBJw
+Sat Nov 9 21:03:14 CST 2024
+删除eerttyui12 
