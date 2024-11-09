@@ -3,3 +3,7 @@ Sun Nov 10 00:01:52 CST 2024
 Sun Nov 10 00:02:16 CST 2024
 Sun Nov 10 00:03:20 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Sun Nov 10 00:16:49 CST 2024
+Sun Nov 10 00:17:14 CST 2024
+Sun Nov 10 00:18:15 CST 2024
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
