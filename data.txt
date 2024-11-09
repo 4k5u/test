@@ -7,3 +7,4 @@ mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6600e6
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4068c9ba1f9e4e001aec66da3403ee4de5a9f34d828af380c072a48953892d25_trns_h264/playlist.m3u8
 LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-19bdb527658858e3d798495e9076feea8e281f704f78167c78f4915f60dd4c03_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
