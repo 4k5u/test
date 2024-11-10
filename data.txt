@@ -11,3 +11,4 @@ IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-448e6c279067224a3411b49b5df4371aad426874a8fca0474222952c405acdc8_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8

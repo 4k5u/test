@@ -168,3 +168,7 @@ Sun Nov 10 09:46:45 CST 2024
 Sun Nov 10 09:46:47 CST 2024
 Sun Nov 10 09:48:04 CST 2024
 删除mazzanti_ 
+Sun Nov 10 10:01:47 CST 2024
+Sun Nov 10 10:01:49 CST 2024
+Sun Nov 10 10:03:04 CST 2024
+添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
