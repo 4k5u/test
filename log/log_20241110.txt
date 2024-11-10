@@ -146,3 +146,7 @@ Sun Nov 10 08:03:03 CST 2024
 Sun Nov 10 08:16:47 CST 2024
 Sun Nov 10 08:16:49 CST 2024
 Sun Nov 10 08:18:07 CST 2024
+添加oda_assuri https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-448e6c279067224a3411b49b5df4371aad426874a8fca0474222952c405acdc8_trns_h264/playlist.m3u8
+Sun Nov 10 08:31:46 CST 2024
+Sun Nov 10 08:31:48 CST 2024
+Sun Nov 10 08:33:05 CST 2024
