@@ -186,3 +186,9 @@ Sun Nov 10 10:46:45 CST 2024
 Sun Nov 10 10:46:47 CST 2024
 Sun Nov 10 10:48:01 CST 2024
 删除Xenomy 
+Sun Nov 10 11:01:50 CST 2024
+Sun Nov 10 11:01:52 CST 2024
+Sun Nov 10 11:03:07 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除oki_dokie 
+删除Sime_Naughty 
