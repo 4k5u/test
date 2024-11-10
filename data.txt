@@ -12,3 +12,4 @@ muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-68c775e3de5c5e795fd76d22b8ab4ab7b5e3a89d5c5ffca37e9d85c7ee4ea344_trns_h264/playlist.m3u8
 oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-18a679be400a14f26d951f689593a017d21f293224c07965e9960fd5f85926db_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-28e2de40fb239b2180299780373e667a9d31377c53de7464a295a8a81998298b_trns_h264/playlist.m3u8
+172----95----student   https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
