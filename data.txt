@@ -4,9 +4,8 @@ oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-448e6
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 AkiShina   https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
 intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-88d8adcb063e75cff16b33bd94fbcafb4342f9e69616199157ce71d5bec9d15f_trns_h264/playlist.m3u8
-eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ew6hijnT9V4zyjaCC146SbGB8btjG0lqtwdzlRDnn1QGOuiWOeOQKCXpDGUuavVkvWMUdMl3g3gIXfScuG9c8w
-Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-18a679be400a14f26d951f689593a017d21f293224c07965e9960fd5f85926db_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
