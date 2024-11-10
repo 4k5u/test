@@ -2,3 +2,8 @@ Mon Nov 11 00:01:43 CST 2024
 Mon Nov 11 00:02:10 CST 2024
 Mon Nov 11 00:03:18 CST 2024
 删除kyul365 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a1ef77c04f8369e0069a7aba7b28003647a0409c6eb498177014aa98a5c5ca4a_trns_h264/playlist.m3u8
+Mon Nov 11 00:17:15 CST 2024
+Mon Nov 11 00:17:41 CST 2024
+Mon Nov 11 00:18:50 CST 2024
+删除golaniyule0 
