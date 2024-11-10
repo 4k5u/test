@@ -5,3 +5,6 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9ac7f6b394e83b193279936ec1d1f8bac60f810952a5972b5bd2c1b267f1688_trns_h264/playlist.m3u8
 gina_gracia   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-3e36614e6e9d82763fe12dbc6cb5fa7cedcad2a6f1c5e2c783631f0f111cf86d_trns_h264/playlist.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0174e89875424f19bd468af77231aca466759625634665f3f63bda0eea9d762c_trns_h264/playlist.m3u8
+intim_mate   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e9e325629ab43d546d47c7a1fe2b99cf84fb18e3b2806a72b55e07d7e3feac6f_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

@@ -136,3 +136,9 @@ Mon Nov 11 07:03:35 CST 2024
 Mon Nov 11 07:16:42 CST 2024
 Mon Nov 11 07:16:47 CST 2024
 Mon Nov 11 07:18:07 CST 2024
+添加intim_mate https://edge16-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-e9e325629ab43d546d47c7a1fe2b99cf84fb18e3b2806a72b55e07d7e3feac6f_trns_h264/playlist.m3u8
+Mon Nov 11 07:32:01 CST 2024
+Mon Nov 11 07:32:05 CST 2024
+Mon Nov 11 07:33:19 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
