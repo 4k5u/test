@@ -301,3 +301,8 @@ Sun Nov 10 16:18:41 CST 2024
 Sun Nov 10 16:31:45 CST 2024
 Sun Nov 10 16:31:57 CST 2024
 Sun Nov 10 16:33:09 CST 2024
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-18a679be400a14f26d951f689593a017d21f293224c07965e9960fd5f85926db_trns_h264/playlist.m3u8
+Sun Nov 10 16:46:56 CST 2024
+Sun Nov 10 16:47:08 CST 2024
+Sun Nov 10 16:48:17 CST 2024
+删除IdaJonesy 
