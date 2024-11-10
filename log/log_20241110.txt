@@ -425,3 +425,9 @@ Sun Nov 10 22:33:29 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Hahaha_ha2 
 删除Angel-Bei-bei 
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-936b0aaa8b5bb9539cbb617550317e2709cb6bfc5f4917584833366ffb150816_trns_h264/playlist.m3u8
+Sun Nov 10 22:46:49 CST 2024
+Sun Nov 10 22:47:14 CST 2024
+Sun Nov 10 22:48:22 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除your_desssert 
