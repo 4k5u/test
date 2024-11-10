@@ -206,3 +206,7 @@ Sun Nov 10 11:48:03 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除hotse777 
 删除my_eyes_higher 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-18a679be400a14f26d951f689593a017d21f293224c07965e9960fd5f85926db_trns_h264/playlist.m3u8
+Sun Nov 10 12:01:44 CST 2024
+Sun Nov 10 12:01:46 CST 2024
+Sun Nov 10 12:03:04 CST 2024
