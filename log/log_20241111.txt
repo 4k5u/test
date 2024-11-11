@@ -342,3 +342,9 @@ Mon Nov 11 18:16:49 CST 2024
 Mon Nov 11 18:17:13 CST 2024
 添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZYeC2pWoyxC6u-08ARPkfEQsTXgSe9336w-bav7pyMsimsihvXHYBMtMGJRKc0MdcdvpqGk93qJEJpAd734kxw
 Mon Nov 11 18:18:38 CST 2024
+Mon Nov 11 18:31:54 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEM0Y1NkFBNC05QjIyLTRGQUUtQTRDRS1ENTJERTIwMDgzNDYiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzEzMjExMjEsImV4cCI6MTczMTMyMTcyMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.wcCvilWb00B49uNCMUJL3kv0WYZpkwh4-VI2UlswKt4OOZ2h38iJHO9jYeZFbfk0Ur9jTNCcdSFvXgC5BjI4uMDLuudXP_MNpnnSD105xS32coc--CE1-lLPdgyBF_Dd
+Mon Nov 11 18:32:22 CST 2024
+Mon Nov 11 18:33:31 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除362540 
