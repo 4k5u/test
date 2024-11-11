@@ -10,3 +10,6 @@ dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_pl
 gina_gracia   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-b88c65fbdb84977fd80123e87c7dba35f399bd30c44d0cfe4c6851d4ccda4baa_trns_h264/playlist.m3u8
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-0f6e948ec1c778b51af727698f3443ae80ede22fe7bf1646161693bc5e8e3f39_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2a518ccbfee4b002640042304548281d9942691c6d2d85102109aab731f9823a_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8

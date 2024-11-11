@@ -240,3 +240,9 @@ Mon Nov 11 13:01:58 CST 2024
 Mon Nov 11 13:02:02 CST 2024
 Mon Nov 11 13:03:20 CST 2024
 删除naras2 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2a518ccbfee4b002640042304548281d9942691c6d2d85102109aab731f9823a_trns_h264/playlist.m3u8
+Mon Nov 11 13:16:50 CST 2024
+Mon Nov 11 13:16:54 CST 2024
+Mon Nov 11 13:18:10 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
