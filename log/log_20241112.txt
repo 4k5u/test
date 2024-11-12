@@ -357,3 +357,8 @@ Tue Nov 12 18:32:11 CST 2024
 Tue Nov 12 18:33:10 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除SanySenise 
+Tue Nov 12 18:46:50 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwQ0E5OTVCNi1DQTA3LTRGM0QtOUNBRi04NkJEMjYxMkY4RDYiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE0MDg0MTMsImV4cCI6MTczMTQwOTAxMywiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.MEg_9snKJu_70sx_o5GULOXE9h1HgzdQamoEj7nTojw6IJW0h-ULeQS0iErkf3IQNcXpmIefbs-nEZw86kYUMDoYh-cIJZ7dutRaiA6P6UhVYaVUYk5n0S1fnz1cBmp5
+Tue Nov 12 18:47:10 CST 2024
+Tue Nov 12 18:48:12 CST 2024
+删除cuddles_me 
