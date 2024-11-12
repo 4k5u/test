@@ -188,3 +188,8 @@ Tue Nov 12 10:01:59 CST 2024
 Tue Nov 12 10:03:11 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 添加AkiShina https://edge-hls.doppiocdn.live/hls/4268079/master/4268079_auto.m3u8
+添加gina_gracia https://edge2-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-cf3d6b19e02bf0b32a069ba8b48867284f53d27d69615fa9dc7567b9cd46becf_trns_h264/playlist.m3u8
+Tue Nov 12 10:16:46 CST 2024
+Tue Nov 12 10:16:55 CST 2024
+Tue Nov 12 10:18:14 CST 2024
+删除gina_gracia 
