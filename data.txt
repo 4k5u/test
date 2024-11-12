@@ -3,3 +3,4 @@ sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 kiyoko_rin   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3daefffb2cc87522bd0d83a51d527cc132b5dd469889719dee0c1327813086f7_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-93f39c84b1173259d2e2e68efda9b040132b043b8f0b6870a18ca71d9700e615_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
