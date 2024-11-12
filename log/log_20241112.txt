@@ -207,3 +207,9 @@ Tue Nov 12 11:02:01 CST 2024
 Tue Nov 12 11:03:16 CST 2024
 删除San___San 
 删除Xenomy 
+Tue Nov 12 11:21:42 CST 2024
+Tue Nov 12 11:21:51 CST 2024
+Tue Nov 12 11:23:10 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除leelate 
+删除Ryo-sama 
