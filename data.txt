@@ -11,3 +11,4 @@ mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-57a8bcdbce48f09b80b15cf5378b08841ff3e40986e0b1baac477adb5a2ec659_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
