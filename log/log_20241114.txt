@@ -68,3 +68,9 @@ Thu Nov 14 02:46:48 CST 2024
 Thu Nov 14 02:47:02 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Kdd1HXzi-f-eERATj98E6db6OVvmrGrWcI0GU4qKEKGNDpC_LFUIX6j9VWJDyJBjQHVljQAPHWCH79lh-E7rEChdT_hAb79i1aBdwWW9sVA
 Thu Nov 14 02:48:29 CST 2024
+添加kiyoko_rin https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-833eaa2d4f414d60ea8ebe4a6d54a6d62b49cf583407941970ad0a09092fa899_trns_h264/playlist.m3u8
+Thu Nov 14 03:01:54 CST 2024
+Thu Nov 14 03:02:02 CST 2024
+Thu Nov 14 03:03:14 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除yourare 
