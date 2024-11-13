@@ -190,3 +190,8 @@ Wed Nov 13 11:32:06 CST 2024
 Wed Nov 13 11:32:14 CST 2024
 Wed Nov 13 11:33:33 CST 2024
 删除IdaJonesy 
+Wed Nov 13 11:46:52 CST 2024
+Wed Nov 13 11:47:00 CST 2024
+Wed Nov 13 11:48:13 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
