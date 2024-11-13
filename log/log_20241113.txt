@@ -145,3 +145,8 @@ Wed Nov 13 08:46:55 CST 2024
 Wed Nov 13 08:47:01 CST 2024
 Wed Nov 13 08:48:18 CST 2024
 删除Sime_Naughty 
+Wed Nov 13 09:01:54 CST 2024
+Wed Nov 13 09:02:00 CST 2024
+Wed Nov 13 09:03:16 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
