@@ -224,3 +224,9 @@ Thu Nov 14 12:02:26 CST 2024
 Thu Nov 14 12:03:36 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除nemu00 
+添加gina_gracia https://edge5-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-4a9f948343ef630d3e8073081e94a9fa01ba88ca2cbd462ef0d5d05dea959872_trns_h264/playlist.m3u8
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-51f6947b7412a862fb73ed2eaa233988acef8d0eb0539246ba48e48f4e597aa1_trns_h264/playlist.m3u8
+Thu Nov 14 12:17:23 CST 2024
+Thu Nov 14 12:17:31 CST 2024
+Thu Nov 14 12:18:42 CST 2024
+删除hotse777 
