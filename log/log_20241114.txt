@@ -472,3 +472,14 @@ Thu Nov 14 22:02:40 CST 2024
 Thu Nov 14 22:03:39 CST 2024
 删除San___San 
 删除yin2618 
+Thu Nov 14 22:16:53 CST 2024
+Thu Nov 14 22:17:25 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Thu Nov 14 22:18:27 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除gina_gracia 
+删除tyy750ii 
+删除hanny27 
+删除LOVE-Juan520- 
+删除yin2618 
