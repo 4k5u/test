@@ -372,3 +372,8 @@ Thu Nov 14 18:47:07 CST 2024
 Thu Nov 14 18:48:15 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除naras2 
+Thu Nov 14 19:01:48 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOTk1MTE4Ri1EMUQ0LTRDQzMtQjE4MS1GRTFEM0JDMTM3QkUiLCJ2aWV3ZXItaWQiOiIyNDI0NDQ0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE1ODIxMTUsImV4cCI6MTczMTU4MjcxNSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.P_zYTF1JlQGcfHaH4rGEnfxNGMEBIeeKnjmG2iqp1PnPxqENG9nR2GBRQ3-e2ytEd6f5hMQk-c7onNmU1udhqPjRhq8GOAUaqk9z7GR5YfjI-gjmOO6s0yKh3U3D8Zrq
+Thu Nov 14 19:02:08 CST 2024
+Thu Nov 14 19:03:13 CST 2024
+删除akakak11112 
