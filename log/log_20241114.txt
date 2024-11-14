@@ -458,3 +458,10 @@ Thu Nov 14 21:32:34 CST 2024
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 Thu Nov 14 21:33:40 CST 2024
 删除yin2618 
+Thu Nov 14 21:46:53 CST 2024
+Thu Nov 14 21:47:27 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Thu Nov 14 21:48:29 CST 2024
+删除green10004 
+删除172----95----student 
+删除yin2618 
