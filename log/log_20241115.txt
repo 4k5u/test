@@ -380,3 +380,11 @@ Fri Nov 15 20:02:06 CST 2024
 Fri Nov 15 20:03:26 CST 2024
 删除alswl2208 
 删除172----95----student 
+添加cuddles_me https://edge6-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-d33f6887ad0f8be755c387364d4d34e968c9d3ff49a08fd72477e7a9034b5570_trns_h264/playlist.m3u8
+Fri Nov 15 20:16:49 CST 2024
+Fri Nov 15 20:17:07 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w-dfoZ0O_O2_ZdQkM7C9AO_36K-IF1xFuxS45ynJAHO6mUfyzfrMTQC_5pHb2nRJBp_xcJfQ4g8yT6AG98_agdtDe7HNdHBbPQMSVDITV2SWTGqDNaH9urYRKsX5sdbR
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X532zbtUFD5xs3sDPv9Q5_g5KTiVumojrDmdsywtvdLBfHtKxfFqQzRR8c0Zk_0HBFQLpfJAcNY8OCGkoW0FZHfnEHooj-W6v_iY12zKLRoM6xjHW3_y6LY6lEKIQ6rY
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.X532zbtUFD5xs3sDPv9Q58mKhGGLVhlL26fZOvDVIhe0bHmx7GXK1kxAddRdS-NIo-h69p9mE98JMpTp7glqgNvIWmofdh_QiXX9O5eh_kxA1TX02AiWiFonRH-_5uQK
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.n7fjSdDliOsmQA-ssnsmfyxl5aVfWQqPutkHlCjS3YO7dKmNYHinYrGi9ao2RDQw7paRxV_dcG7XPKkFBBtFAKYw3jLBs_P30f62uJow6ub-7RU76MX6EXzPuNSwTFVp
+Fri Nov 15 20:18:47 CST 2024
