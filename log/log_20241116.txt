@@ -146,3 +146,8 @@ Sat Nov 16 07:03:09 CST 2024
 Sat Nov 16 07:16:47 CST 2024
 Sat Nov 16 07:16:50 CST 2024
 Sat Nov 16 07:18:07 CST 2024
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-788a9d539315f4170d7dc76e7e3d0c9fe382b47b90a0618fac005b0da0907f37_trns_h264/playlist.m3u8
+Sat Nov 16 07:31:47 CST 2024
+Sat Nov 16 07:31:50 CST 2024
+Sat Nov 16 07:33:06 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
