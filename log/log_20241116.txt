@@ -138,3 +138,8 @@ Sat Nov 16 06:33:08 CST 2024
 Sat Nov 16 06:46:45 CST 2024
 Sat Nov 16 06:46:48 CST 2024
 Sat Nov 16 06:48:06 CST 2024
+添加mazzanti_ https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2955f41752a4c780d50f4f0ad465c7d655bdc33836945ea07903c338f1a3b39a_trns_h264/playlist.m3u8
+Sat Nov 16 07:01:49 CST 2024
+Sat Nov 16 07:01:52 CST 2024
+Sat Nov 16 07:03:09 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
