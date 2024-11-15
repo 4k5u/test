@@ -242,3 +242,10 @@ Fri Nov 15 13:47:01 CST 2024
 Fri Nov 15 13:48:19 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除Sime_Naughty 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aee409dd460b012da7185ee8d7e7f49ea4ae4186f7410f9c93244447ed1cb3b2_trns_h264/playlist.m3u8
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-fa0fae0c16e4bd5f9b17ab753635c1ca70122b6afeaa136ebe95267db3bba3f2_trns_h264/playlist.m3u8
+Fri Nov 15 14:01:51 CST 2024
+Fri Nov 15 14:01:59 CST 2024
+Fri Nov 15 14:03:16 CST 2024
+删除IdaJonesy 
+删除eunyoung1238 
