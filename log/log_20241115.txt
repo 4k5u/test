@@ -400,3 +400,8 @@ Fri Nov 15 20:47:19 CST 2024
 Fri Nov 15 20:48:09 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-cccde58e93285364a677238a63d7206ec106ceff8acaa1a48d273f18e856a9f5_trns_h264/playlist.m3u8
+Fri Nov 15 21:01:54 CST 2024
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qobGYBJqMAhF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FvYkdZQkpxTUFoRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQjA0RDBCQi00MUZBLTQzNkMtQkFENy05REVBQTVFNDcwMEEiLCJ2aWV3ZXItaWQiOiIyNTM5NDA4NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE2NzU3MjEsImV4cCI6MTczMTY3NjMyMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.TdykQBfVCD9dWXKDOG_t1r71GN9crOcyRXC9llNZ2vmerGzgmFTNpWyWdI3nYXg5HEUDKYdebAnILwVHebzU2lKesjX5ot5vi26vgupUNDzg91t6PdNFt9Ge4HP3U8y0
+Fri Nov 15 21:02:22 CST 2024
+Fri Nov 15 21:03:12 CST 2024
