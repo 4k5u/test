@@ -455,3 +455,10 @@ Fri Nov 15 23:03:31 CST 2024
 Fri Nov 15 23:16:50 CST 2024
 Fri Nov 15 23:17:27 CST 2024
 Fri Nov 15 23:18:30 CST 2024
+Fri Nov 15 23:31:47 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NjQ0MkM1Qy01NjVCLTRDMDMtQjMzMy03RjI5Q0EwOEM2NTgiLCJ2aWV3ZXItaWQiOiIyNDc2ODEwNyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE2ODQ3MjAsImV4cCI6MTczMTY4NTMyMCwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.dglx_-83Cwctd3qGKUHUPu8MVWzIJdE-cy-HZdAdYXAugZLELjA8vkPjOrgONp5ueUDDc8Jg8FAMJ0woS707zKdWlzheg6PdS-jXvoQpI03iG-WsAmlwLvdNiIu9sYpy
+Fri Nov 15 23:32:27 CST 2024
+Fri Nov 15 23:33:32 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除foxylovesyou 
