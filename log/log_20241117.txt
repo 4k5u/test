@@ -30,3 +30,8 @@ Sun Nov 17 01:01:56 CST 2024
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 Sun Nov 17 01:03:13 CST 2024
 删除yin2618 
+Sun Nov 17 01:16:46 CST 2024
+Sun Nov 17 01:16:56 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sun Nov 17 01:18:14 CST 2024
+删除yin2618 
