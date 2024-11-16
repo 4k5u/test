@@ -11,7 +11,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="smmms2002 feet0100 dana9282 Tmdgus5411 navi04 alswl2208 jeehyeoun lolsos asianbunnyx leelate gremmy y1026 kkkku96 rud9281 somsom0339 eunyoung1238 dign1461 gusdk2362 sol3712 m0m099 namuh0926 kjjeong0609 flower1023 hanny27 glglehddl yin2618";
+userIds="rvn1015 smmms2002 feet0100 dana9282 Tmdgus5411 navi04 alswl2208 jeehyeoun lolsos asianbunnyx leelate gremmy y1026 kkkku96 rud9281 somsom0339 eunyoung1238 dign1461 gusdk2362 sol3712 m0m099 namuh0926 kjjeong0609 flower1023 hanny27 glglehddl yin2618";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926  m0m099
 #pop162cm
@@ -30,7 +30,7 @@ for userId in ${userIds}; do
     if grep -q "${userId}" data.txt; then
         echo "The UID $uid exists in data.txt"
     else
-        json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://bjapi.afreecatv.com/api/{$userId}/station"` 
+        json=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"  "https://chapi.sooplive.co.kr/api/{$userId}/station"` 
         BNO=`echo $json| jq -r .broad.broad_no`
         is_password=`echo $json| jq -r .broad.is_password`
         timestamp=$(date +%s)
@@ -40,11 +40,11 @@ for userId in ${userIds}; do
         
         echo "开始获取直播源"
         if [ -n "$BNO"  ] &&  [ "$BNO" != null ] && [ "$is_password" != "true" ]; then
-            hls_json=`curl -L -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.afreecatv.com/afreeca/player_live_api.php'`
+            hls_json=`curl -L -k --http1.1 -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -H "cookie:${afcookie}" -F "bid=${userId}" -F "type=aid" -X POST 'https://live.sooplive.co.kr/afreeca/player_live_api.php'`
             echo $hls_json
             hls_key=`echo $hls_json| jq -r .CHANNEL.AID`
             sleep 1
-            hls_url=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "https://livestream-manager.afreecatv.com/broad_stream_assign.html?return_type=gcp_cdn&broad_key=${BNO}-common-master-hls"|jq -r .view_url`
+            hls_url=`curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "https://livestream-manager.sooplive.co.kr/broad_stream_assign.html?return_type=gcp_cdn&broad_key=${BNO}-common-master-hls"|jq -r .view_url`
             hls="${hls_url}?aid=${hls_key}" 
             echo "${userId}获取成功。"
             echo "直播源：${hls}"
