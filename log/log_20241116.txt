@@ -347,3 +347,8 @@ Sat Nov 16 17:18:16 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除AkiShina 
 删除dana9282 
+添加gina_gracia https://edge16-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-a2a46746a274e6eccaf9234f066628e8d19fff8447fa5a9b5865bf1d702ab28b_trns_h264/playlist.m3u8
+添加honey_pinkgreen https://edge4-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-53328742dcb87c830a210e18877670a19fc0ffd3ca13851378dbe1579c1c0888_trns_h264/playlist.m3u8
+Sat Nov 16 17:32:49 CST 2024
+Sat Nov 16 17:33:01 CST 2024
+Sat Nov 16 17:34:03 CST 2024
