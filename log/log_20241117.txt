@@ -119,3 +119,9 @@ Sun Nov 17 06:18:25 CST 2024
 Sun Nov 17 06:31:52 CST 2024
 Sun Nov 17 06:31:53 CST 2024
 Sun Nov 17 06:33:04 CST 2024
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-baace6ad640f1b08b7395ba93f8c909710aed93e56d1f10496e61e031110434e_trns_h264/playlist.m3u8
+Sun Nov 17 06:47:19 CST 2024
+Sun Nov 17 06:47:19 CST 2024
+Sun Nov 17 06:48:28 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Sime_Naughty 
