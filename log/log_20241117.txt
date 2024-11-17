@@ -148,3 +148,8 @@ Sun Nov 17 08:03:08 CST 2024
 Sun Nov 17 08:17:08 CST 2024
 Sun Nov 17 08:17:12 CST 2024
 Sun Nov 17 08:18:27 CST 2024
+添加oda_assuri https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6d50a1ecebc5587441ff1ccb32580cffac45ede05f4496b68c3a37bdb98f73ed_trns_h264/playlist.m3u8
+Sun Nov 17 08:32:19 CST 2024
+Sun Nov 17 08:32:23 CST 2024
+Sun Nov 17 08:33:33 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
