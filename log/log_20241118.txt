@@ -113,3 +113,10 @@ Mon Nov 18 06:01:54 CST 2024
 Mon Nov 18 06:03:20 CST 2024
 删除ksb0219 
 删除sexygamesx 
+添加_meganmeow_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-dd2caecd190b6a99131d6d0ae8e32973f57fc9bb0d8a48ae4e72e7656b684ca5_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4be4f2d4a580bb083c3e67b14ecd62cdbfbadbb42f7137fdc23092f6857d4825_trns_h264/playlist.m3u8
+添加sexygamesx https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-997ecf58a82df835ab05e83ad14620127caca5b995b42b5bbb342fbaa67e04fc_trns_h264/playlist.m3u8
+Mon Nov 18 06:16:52 CST 2024
+Mon Nov 18 06:16:54 CST 2024
+Mon Nov 18 06:18:22 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
