@@ -43,3 +43,11 @@ Mon Nov 18 02:18:26 CST 2024
 删除lovesong2 
 删除dks2003 
 删除cecilia0903 
+Mon Nov 18 02:31:44 CST 2024
+Mon Nov 18 02:31:59 CST 2024
+Mon Nov 18 02:33:26 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除soso621 
+删除imanatural 
+删除Hahaha_ha2 
