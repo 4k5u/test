@@ -252,3 +252,9 @@ Mon Nov 18 14:01:48 CST 2024
 添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QkVFRDkyOC0xRDlDLTRFNTQtOUIzRi1DMEMyMjRDNEJBMDAiLCJ2aWV3ZXItaWQiOiIyNTM1OTk1MSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzE5MDk3MTEsImV4cCI6MTczMTkxMDMxMSwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOlwvXC8qLnBhbmRhbGl2ZS5jby5rciIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50Ijp0cnVlLCJ0IjoxfQ.4Q-Ji96KfdMZJnXk8CpckRN7PZA7YdD-ZKV6l_x0JrJBmj0zTqPmQy8g9Dn1TWNoZVwTcR641mD8RniTKhX-jsat7_ejojVZy76D77_SvzTM2OzIharFKJRYKOKXbSBy
 Mon Nov 18 14:02:02 CST 2024
 Mon Nov 18 14:03:25 CST 2024
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f0ec4dedf59c334588da7f1ccaeedf700394161aa397847caa60e63e01cf59a3_trns_h264/playlist.m3u8
+Mon Nov 18 14:16:56 CST 2024
+Mon Nov 18 14:17:04 CST 2024
+Mon Nov 18 14:18:24 CST 2024
+删除San___San 
+删除Sime_Naughty 
