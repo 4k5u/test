@@ -358,3 +358,8 @@ Tue Nov 19 20:18:41 CST 2024
 Tue Nov 19 20:31:49 CST 2024
 Tue Nov 19 20:32:17 CST 2024
 Tue Nov 19 20:33:22 CST 2024
+Tue Nov 19 20:47:09 CST 2024
+添加jenny9999 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XTMyRTIn8wnE.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hUTXlSVEluOHduRSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MEVCMzM4Ni1DMTE5LTQ2MTgtOUZDQS1CRUQzQ0FGMTI2OTAiLCJ2aWV3ZXItaWQiOiIyMjg1NzUzMCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMjA0NDIsImV4cCI6MTczMjAyMTA0MiwidCI6MX0.GtttC7EP0uajIfWP2skjCI7_mh0u6hE9k_ihY_QLCe8_7JkphDkNiBg2aQD17pp5HlPBEttdQ4NW7l9-uwUM6zHh5GCFYhg1w9Dl1UIRy9zuuo3J4O-YuiU8GqAnEZr7
+Tue Nov 19 20:47:43 CST 2024
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6lzSItDaY4q-AqcZrd_yMcL_6YTRnzw1JzK5oac3v7kwCTE9peR1qoIjpu8uNkJ6zezm6ggtX21sPeBFrr2mq1VDgIRyqGWY4_VxdC0NTii6XETwGtSlv3uZAYW7f98k
+Tue Nov 19 20:48:53 CST 2024
