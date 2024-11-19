@@ -197,3 +197,8 @@ Tue Nov 19 11:48:48 CST 2024
 Tue Nov 19 12:01:52 CST 2024
 Tue Nov 19 12:01:59 CST 2024
 Tue Nov 19 12:03:18 CST 2024
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bfeb97147a6b9285150ffde0930e22f010cac1e677a84f4e0a46949d4d97cecf_trns_h264/playlist.m3u8
+Tue Nov 19 12:16:46 CST 2024
+Tue Nov 19 12:16:52 CST 2024
+Tue Nov 19 12:18:19 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
