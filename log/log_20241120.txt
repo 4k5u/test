@@ -55,3 +55,9 @@ Wed Nov 20 02:33:23 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除pandaex 
 删除saone451 
+Wed Nov 20 02:46:49 CST 2024
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qobGYBJqMAhF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FvYkdZQkpxTUFoRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5N0RBQTYyRC03QTBDLTQ0NjgtQTEyMy1DMDE0MTdDMkEzQUQiLCJ2aWV3ZXItaWQiOiIyNTM5NDA4NyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNDIwMTIsImV4cCI6MTczMjA0MjYxMiwidCI6MX0.lj1u9Kzf1_CvndLwE7ebTGVyNwkJCzMPzBx1Zd9YGT8zZmdk9fqOtLxGU-0lk33Uz8aQUwlc85-5A2spDfaTahEl7qIXxLNfGNMXT0b7-WLN6XB3J3WIHy8xyxb9XrXU
+Wed Nov 20 02:47:01 CST 2024
+Wed Nov 20 02:48:23 CST 2024
+删除yourare 
+删除jenny9999 
