@@ -248,3 +248,9 @@ Tue Nov 19 15:01:49 CST 2024
 Tue Nov 19 15:01:53 CST 2024
 Tue Nov 19 15:03:16 CST 2024
 删除kkkku96 
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-e73ae380a97b125113ca09eacf1cf324ccb10ea40366ed3bbcacf9223b5b46ff_trns_h264/playlist.m3u8
+Tue Nov 19 15:16:46 CST 2024
+Tue Nov 19 15:16:50 CST 2024
+Tue Nov 19 15:18:18 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除ddooyaa 
