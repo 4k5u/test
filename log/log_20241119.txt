@@ -423,3 +423,9 @@ Tue Nov 19 23:33:29 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Tmdgus5411 
 删除glglehddl 
+Tue Nov 19 23:47:23 CST 2024
+添加sssna777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MGEaEDCahmRY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01HRWFFRENhaG1SWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDE5Njk1RC02MUUxLTRFMTgtQkI0OS0wQjY0NTE4NTBEMzciLCJ2aWV3ZXItaWQiOiIyMzMzMjczNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMzEyNDQsImV4cCI6MTczMjAzMTg0NCwidCI6MX0.U9NQUtccdcESi-jUBCkk8Ew-FiGYbIajDAKFk3mNH7HRab7T0gTQPfppqWs0w-oO8KCl97wTOhMnwEETTspcx7lSf3QA-oFePAgsZ8jStikNAw-uCqp_0e5UoGiil2Y6
+Tue Nov 19 23:47:57 CST 2024
+Tue Nov 19 23:49:05 CST 2024
+删除galantini 
+删除grandeeney 
