@@ -327,3 +327,10 @@ Tue Nov 19 19:17:43 CST 2024
 Tue Nov 19 19:18:53 CST 2024
 删除mozzzi 
 删除axcvdbs23 
+添加galantini https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-fa6e5926b9326adcf4dd2e537e3db3aa489a377727a0105c861b5d7d8172013b_trns_h264/playlist.m3u8
+Tue Nov 19 19:32:26 CST 2024
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOTYyMEY2RC01OTRCLTQ4NUQtQjA0Ri03MDNBRTA3M0ZBRDQiLCJ2aWV3ZXItaWQiOiIxNjA2NTg0MyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMTU5NjIsImV4cCI6MTczMjAxNjU2MiwidCI6MX0.30gtfwElrHA-OFwsX6o_j25Dn4LYEFsc8nl1_G1cSxa1-NvloTB1R7VTyh524h88zjNjYZ1CKH5PvBa9LURh4nZA7tHbRiJr4oLnpKK0cCl3VWq6YSR-mIByYuyyjGkT
+Tue Nov 19 19:32:47 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KELJzxrwaXjuu2XO6qel0ZXaBA042pNeDKFXseT2Wp5G-SS5ywx-DS3hfFIqBZQfW0DioBNmkWCGg_4-w0HApDb-qEHCfuToQ_jev9iDojkIwapUt-UfQby0tJ_A-gM5
+Tue Nov 19 19:34:04 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
