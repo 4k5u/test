@@ -1,5 +1,4 @@
 sssna777   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MGEaEDCahmRY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01HRWFFRENhaG1SWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDE5Njk1RC02MUUxLTRFMTgtQkI0OS0wQjY0NTE4NTBEMzciLCJ2aWV3ZXItaWQiOiIyMzMzMjczNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwMzEyNDQsImV4cCI6MTczMjAzMTg0NCwidCI6MX0.U9NQUtccdcESi-jUBCkk8Ew-FiGYbIajDAKFk3mNH7HRab7T0gTQPfppqWs0w-oO8KCl97wTOhMnwEETTspcx7lSf3QA-oFePAgsZ8jStikNAw-uCqp_0e5UoGiil2Y6
-Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 kiyoko_rin   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-819b303ce294de720f5dffdb7ef55264a6042408bdfc8c8858b41bb55ab4396f_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6259e5dd3b40e9a1d8a13af7b511289db0ba6b9fb788e65956f5882568eb31df_trns_h264/playlist.m3u8
@@ -8,3 +7,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d70889b31d600fb6ac69843554f3f012574d61e7c967f32287e8255bd4b995f2_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQUFBODJFOC01QkM3LTRBNzAtQTUyNC0xRDUyRTBBMEFCRDUiLCJ2aWV3ZXItaWQiOiIyMzA0NTM3OCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwNjkwNDYsImV4cCI6MTczMjA2OTY0NiwidCI6MX0.YuCRMTTmZKG9RrWYYx-uN_Fb2aDMmPdwfbuHq907Ld3H4s-hh5ZnOTo7XXDAoU34RRnxruurfFIDsJmwVjHoYxgrTJGoZqLZAheB3hi076dAruERiiCHiOXsU06kLftP
