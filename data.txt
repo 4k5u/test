@@ -3,3 +3,4 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0d975ec530bc49d0f4bb73e2d070677d92fbea83fe503c7e4c44b66ceb7dcafd_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-95c561240272698b433d83fa36cadef8de91426fc26a5b67dd9e1cc31377e0fc_trns_h264/playlist.m3u8
