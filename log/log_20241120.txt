@@ -303,3 +303,7 @@ Wed Nov 20 18:01:55 CST 2024
 Wed Nov 20 18:02:11 CST 2024
 Wed Nov 20 18:03:28 CST 2024
 删除oda_assuri 
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b2827b5e7e08a0fcb4b38d0204c0ea62b5ba2b506fd1466447940785dd505701_trns_h264/playlist.m3u8
+Wed Nov 20 18:17:27 CST 2024
+Wed Nov 20 18:17:39 CST 2024
+Wed Nov 20 18:18:55 CST 2024
