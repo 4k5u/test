@@ -283,3 +283,8 @@ Wed Nov 20 16:46:52 CST 2024
 添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PuWOmhqBXWI2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B1V09taHFCWFdJMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QjJBQURFRS1ENURELTQ5NzctQkJDQS0wN0FBM0NCMzE1MjgiLCJ2aWV3ZXItaWQiOiIyNTM4ODkyMiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIwOTI0MTcsImV4cCI6MTczMjA5MzAxNywidCI6MX0.aR6YsN88XHUeQK09BNxFJGbsfHFcVkTY8wEHbVCKC3TVx9ih696Qh3p8-r4QFY7aifI236BlnHoV4UYJI06k9f4X1BmGO-ldnILsAKuMR6omOjMtzNLuPHyxcJQUsQoP
 Wed Nov 20 16:47:04 CST 2024
 Wed Nov 20 16:48:31 CST 2024
+Wed Nov 20 17:01:48 CST 2024
+Wed Nov 20 17:01:56 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Aa8BoqgXlrhe2ExO5ytfZxMAj_D1r1fADWlV2Udh_kJXaUdmnpUnYkQoFVFubYbmcy3MEniBSeU_ZtPdWYGaeP5xmP05vaLlTMnBGclQfUk387I5VoPfVbnpfEziBZhJ
+Wed Nov 20 17:03:27 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
