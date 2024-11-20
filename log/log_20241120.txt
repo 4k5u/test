@@ -360,3 +360,9 @@ Wed Nov 20 20:32:00 CST 2024
 Wed Nov 20 20:32:30 CST 2024
 添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wyr6mpygPChrISMJPyyhKPLtatjXmrUWb1mrLErIYTT5SWMVslqKVeynPsNLDTGyseXxH4P21Eb8NFMo3yfKNMJ7q4Dn68fe6uCOKD6NhYMkI5nr9gGOIPwt278_PhB2
 Wed Nov 20 20:33:44 CST 2024
+Wed Nov 20 20:46:51 CST 2024
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MjdFRjJFNC03ODk1LTRFRDMtODZDMS1FQzFENzY4MUJBREEiLCJ2aWV3ZXItaWQiOiIyNTI2MjM1NCIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMDY4MjEsImV4cCI6MTczMjEwNzQyMSwidCI6MX0.ucXchoi3nBVaEv2CkRA9FnQhPXcklaLuXFfcMrIAA-VZS2C37y_E_jZ2U-Roil-4_1DSRMVlrPj1AVUHizDVyu0bIwWZUObxzGFTJvhDZ1w4BC2XdsUzbQ5nh7KcYawK
+Wed Nov 20 20:47:28 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dtVckXRuivJ9NFw252UQKrRus0AM_Jao6jx9o7PmuJ6o7umf3WzdLmDye0ArUdvhVz79tsZOm0JpdieAZsxbgilLEMDBGprLZNQNQJciI1nGDTmAGeKGvJAr_ptRx7vq
+Wed Nov 20 20:48:39 CST 2024
+删除honey_pinkgreen 
