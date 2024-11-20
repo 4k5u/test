@@ -407,3 +407,12 @@ Wed Nov 20 22:32:42 CST 2024
 Wed Nov 20 22:33:40 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除tyy750ii 
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6589ac2bcf7a2ef859b30407edc61de228df868f4589693aa2dc7f0d2d486656_trns_h264/playlist.m3u8
+Wed Nov 20 22:47:26 CST 2024
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNDAxRjZGRC1EM0QyLTRDQkUtODdEOS01MDBCRENDNkVGMjMiLCJ2aWV3ZXItaWQiOiIyNDM2ODM4NSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMTQwODEsImV4cCI6MTczMjExNDY4MSwidCI6MX0.7C5JNInKcgSXd1ir4kjSUkcYZKFnTzQXmR-emi7teaOmfJvFXPOY0KBrWOTw5Hoiq84qFMCBVeYGIuAhomxKlgGmNy_BDnTvOK-aAHuNoh3zjd9k_YbKfd_esEAe1Sb4
+Wed Nov 20 22:48:10 CST 2024
+Wed Nov 20 22:49:03 CST 2024
+删除jodong2 
+删除ohhanna 
+删除acac88 
+删除hanny27 
