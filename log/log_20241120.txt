@@ -381,3 +381,8 @@ Wed Nov 20 21:17:48 CST 2024
 添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dXU3ZRU1usNahIJRHydUo4iBDSqocRRjTnuvNMX9VyhQdHmYLmXdpoXwSZdyC-OmHfWpxlpyd067958_8UiwOBTeUvLpR3U0wgJQtKylQ-mUv7r2z2HgUlqXnwGCM8H5
 Wed Nov 20 21:18:51 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Wed Nov 20 21:32:01 CST 2024
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMzk4MjJDNi02MUU3LTQyOTAtQUI4MC01RkIzOERFOTZGRjgiLCJ2aWV3ZXItaWQiOiIyMjk5MzIyOSIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMDk1NTgsImV4cCI6MTczMjExMDE1OCwidCI6MX0.FiLh_9Iqx8PK43sbe0SxCTGtJ8JoWc5Ona3CKHp1BKem53SAMtGA3ltXeVa-w5kVGJ8wLClblGeVG0zLmnkqwiK_UkLMcEMEGkPrF5eKN96lpJ01dMPKhveNeL7sGJPk
+Wed Nov 20 21:32:46 CST 2024
+Wed Nov 20 21:33:41 CST 2024
+删除lovable12 
