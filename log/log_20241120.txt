@@ -190,3 +190,9 @@ Wed Nov 20 10:47:20 CST 2024
 Wed Nov 20 10:47:31 CST 2024
 Wed Nov 20 10:48:51 CST 2024
 删除Xenomy 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6259e5dd3b40e9a1d8a13af7b511289db0ba6b9fb788e65956f5882568eb31df_trns_h264/playlist.m3u8
+Wed Nov 20 11:01:52 CST 2024
+Wed Nov 20 11:02:00 CST 2024
+Wed Nov 20 11:03:28 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除oki_dokie 
