@@ -416,3 +416,9 @@ Wed Nov 20 22:49:03 CST 2024
 删除ohhanna 
 删除acac88 
 删除hanny27 
+Wed Nov 20 23:01:58 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzA0RUQyNS0yRjk5LTQ1QTktODY0RC03NEMyM0I2OTlBRDgiLCJ2aWV3ZXItaWQiOiIxOTA4NDIwNiIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxMTQ5MjksImV4cCI6MTczMjExNTUyOSwidCI6MX0.vqC9s7vmjVIgAWHqXyXS5Q1056kdZ_qYIrCcTe3GtAnZoijicJ24SCfXOI590XA0zKR8NZAC8_wrogAUZKqfF9lvO3arS1b0tMpq2EVn6guTYnk0Db6-Q5jb8d4is2iY
+Wed Nov 20 23:02:44 CST 2024
+Wed Nov 20 23:03:43 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除kyul365 
