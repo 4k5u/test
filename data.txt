@@ -8,3 +8,4 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-67153cd0117c6a9cace22df324fbcb8b14453673def0f879c1076e6197af0ea5_trns_h264/playlist.m3u8
+LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
