@@ -40,3 +40,11 @@ Fri Nov 22 01:46:54 CST 2024
 Fri Nov 22 01:47:22 CST 2024
 Fri Nov 22 01:48:38 CST 2024
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+Fri Nov 22 02:01:49 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQTQwRTQxOS1EOUI2LTREMjUtODY5Ri03MkZDODE1Qjg0MjAiLCJhd3M6dmlld2VyLWlkIjoiMjI5Mjg3MzIiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjIxMjEyOCwiZXhwIjoxNzMyMjEyNzI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uy4smGECcVVSN3HYY6D8iQVAwin16j6CSTutjId2qLF629XFElwaYOnVA57dgaW8JXy74wzE2mOLgBEumTD2MGa4X2NMHQAZ5wH8ycKUOr9aiHGhVRrfTltE0PYZwZnt
+Fri Nov 22 02:02:13 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iM3e-fX_RTanFMg8sovFnea0q3PciuSRnu3ZDXasl4gFds8vx6sy3bSPpOU3SwiUb5yHSeNiu1-umrTRRPM-LgrFKNwHIC0ELH0ygupEajLnigXeT86W8z4OlRSc8llm
+Fri Nov 22 02:03:35 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除saone451 
+删除chuing77 
