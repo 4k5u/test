@@ -224,3 +224,9 @@ Thu Nov 21 11:48:17 CST 2024
 Thu Nov 21 12:01:50 CST 2024
 Thu Nov 21 12:01:56 CST 2024
 Thu Nov 21 12:03:18 CST 2024
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-644a874ce8e85983ed64bdef7bb0a3ddbd5e845daa3bd785cace69c0746e7311_trns_h264/playlist.m3u8
+Thu Nov 21 12:16:57 CST 2024
+Thu Nov 21 12:17:03 CST 2024
+Thu Nov 21 12:18:30 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除IdaJonesy 
