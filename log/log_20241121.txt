@@ -431,3 +431,13 @@ Thu Nov 21 21:46:54 CST 2024
 Thu Nov 21 21:47:33 CST 2024
 Thu Nov 21 21:48:32 CST 2024
 删除grandeeney 
+添加gina_gracia https://edge12-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-aa0b47a87c1eab4e18528aca461047d0993c228d6e476fba75ea4aa44d1c4c87_trns_h264/playlist.m3u8
+Thu Nov 21 22:02:05 CST 2024
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eFD9AIvLFCaB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VGRDlBSXZMRkNhQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RkMyRUREOS0zNEJGLTRCN0ItQjMzNy03NjNGODg1QzJCNEQiLCJhd3M6dmlld2VyLWlkIjoiMTgyOTQxNzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjE5Nzc1MCwiZXhwIjoxNzMyMTk4MzUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EKC-WHsrJmVDlyrcaHX-XCa8RH2IqUsVbG6eC_gRFAilEZpd2HH43xJT-p6g6D3Fi11Vq6h7GpcWy2RC9GvVDb4CneR-_-jx9uVC4EtZ_OGLEf5ONwCUXCmphJp5yD1k
+Thu Nov 21 22:02:43 CST 2024
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2yO9XgKToG8VeKHcnVmKarUJbt4L2hckW_El_cvt8Oqhc6uht6Y9luSjc1qck3gzdsNCbehKPq0Cp2j2-RoYGNpw-YH8CcIKcOdy5nZOlY2J_CDz9c_WC_uJlqAweWSz
+Thu Nov 21 22:03:45 CST 2024
+删除tyy750ii 
+删除jenny9999 
+删除galantini 
+删除oki_dokie 
