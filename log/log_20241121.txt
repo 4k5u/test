@@ -230,3 +230,8 @@ Thu Nov 21 12:17:03 CST 2024
 Thu Nov 21 12:18:30 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除IdaJonesy 
+Thu Nov 21 12:31:52 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxODYxMTRDQi1COTA0LTQ3MDEtOTUwMS0xMThDNkMzOEFGMTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjE2MzUxMywiZXhwIjoxNzMyMTY0MTEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SCCO1PvkJWItX4sWQI0lQp_WYk3ACXM1r5CNdjh5ntvSco8udPcZAXxLjB_phCxEdyrmioypikp4k5MLEN-4Jf2NL51-0DWEtE4KPzpZB5A3pp8bW7lLq0Y-kEIPJhmp
+Thu Nov 21 12:32:00 CST 2024
+Thu Nov 21 12:33:17 CST 2024
+删除nemu00 
