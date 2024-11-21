@@ -5,7 +5,6 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-056710c9e6170842149539e159db1f5706517e6b77f20be34c0af106dcff25ad_trns_h264/playlist.m3u8
 nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NjJDNjA0OC0xRkNELTQ1OUUtQUQyMi0yNTg2NjMxMTdEREYiLCJ2aWV3ZXItaWQiOiIyMTEyNTgwMyIsInZpZXdlci1zZXNzaW9uLXZlcnNpb24iOjE3MzIxNDgyNDYsImV4cCI6MTczMjE0ODg0NiwidCI6MX0.TDK6jR_rGziYWCcwRZ-8zEVVizajVxPt6plKqkcQW5guKxtq3KVjSg6nWo8XQ7lXgmI41utFqJpeNqmPKaCvHpziCJHJI6SkXuQFOoXtaw6Xl4j9YKox2xb2i8pZ23tz
-LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 my_eyes_higher   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-67153cd0117c6a9cace22df324fbcb8b14453673def0f879c1076e6197af0ea5_trns_h264/playlist.m3u8
