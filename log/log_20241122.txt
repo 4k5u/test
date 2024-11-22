@@ -223,3 +223,9 @@ Fri Nov 22 12:47:28 CST 2024
 Fri Nov 22 12:48:44 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除mikio_san 
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6d6bfe02d63dd872df1a3fb7c44399efaca32a4e0a6b5ef87e8f2b3b6abda3aa_trns_h264/playlist.m3u8
+Fri Nov 22 13:01:50 CST 2024
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNUYzMjdDNy05OEZFLTQ2N0QtOTFGNC1FQjk1RTU1MjU0QkEiLCJhd3M6dmlld2VyLWlkIjoiMjI4NDA5MjciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI1MTcxNywiZXhwIjoxNzMyMjUyMzE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-QpgRK3LpjgyUT5KLE01P46vPjcnSxxJi7PB2kUEHqfIn3dX1AGBWTJ0iZbfV5XnjN2nMDxFORkFHY91FFyzBTs31lE1KduwBuFSQsolzlxQtmlY8WVZJoIMiqiqq1d4
+Fri Nov 22 13:02:02 CST 2024
+Fri Nov 22 13:03:28 CST 2024
+删除flowerwar 
