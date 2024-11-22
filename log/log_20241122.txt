@@ -269,3 +269,9 @@ Fri Nov 22 15:16:48 CST 2024
 Fri Nov 22 15:17:10 CST 2024
 Fri Nov 22 15:18:34 CST 2024
 删除Xenomy 
+添加honey_pinkgreen https://edge8-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-6b7dab51ec8e267fbbd9981d89e9b39e70c12d67f6a626bb2b4c6bd6fc204676_trns_h264/playlist.m3u8
+Fri Nov 22 15:31:49 CST 2024
+Fri Nov 22 15:32:07 CST 2024
+Fri Nov 22 15:33:32 CST 2024
+删除hyuna0721 
+删除kkkku96 
