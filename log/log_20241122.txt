@@ -296,3 +296,11 @@ Fri Nov 22 16:47:02 CST 2024
 Fri Nov 22 16:48:29 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除foxylovesyou 
+Fri Nov 22 17:02:24 CST 2024
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PuWOmhqBXWI2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1B1V09taHFCWFdJMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QUJCNjBBNS1BRDc1LTQ4QkQtOTNDMy0xMUJFQTFFRThCODAiLCJhd3M6dmlld2VyLWlkIjoiMjUzODg5MjIiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI2NjE0OCwiZXhwIjoxNzMyMjY2NzQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AwuMKgnDekRLdWamOceNMQP_ZcYPm8IQ0glWX3Z55pL1R2VdGOUZlC13SZss6eT38wGWLnQuCvnVSdCRL3D94c1vIzsttIXKcSVPg8q2uhEYyVTpS0a8pHJO3u2IGUbm
+Fri Nov 22 17:02:43 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mcITRpAw44EbW_oIYzHtGuxQ7COnuKmGre1LEQPFgaiybG-z-2QAuDls9QLsmolJ8AvpOoo2OxGLv9ojHIjZhXZAbskt9fhX8rzzLEvlqkgEx-tNqas5YWl8RRvdQQpU
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TzU91QWGtODwbNYkwmSEpKbA0COV7sj9kW6HXCrvG_x7xWdC4TZ91NLA7WKdBuHi_pN-tUhk_iRDBSNGk6AKWfeQX2kvNpMc-yJ7Vzjyk_LgZ9E6wdY6hOrRdG5G6K_M
+Fri Nov 22 17:04:14 CST 2024
+删除akakak11112 
+删除ii1liii1il 
