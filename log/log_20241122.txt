@@ -444,3 +444,11 @@ Fri Nov 22 22:17:39 CST 2024
 Fri Nov 22 22:18:45 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除gremmy 
+Fri Nov 22 22:32:40 CST 2024
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNDBDNjI0Ri1GQUI1LTQ5RkMtOEU3MC1GOTAzOTc1QTFCRTEiLCJhd3M6dmlld2VyLWlkIjoiMjQzNjgzODUiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI4NTk5OSwiZXhwIjoxNzMyMjg2NTk5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fA8Ke9XwBA3IYd_krnDoJKXRI42cDvbKSEj3TbTypm-RD3-g36bJEKrJXCCSMoBdeZ5xhlLCXUO2w38sLKt3ExSl2xP53mbVse8g4tNj2ipd2e3hINl4rFnvC8sUJyeV
+Fri Nov 22 22:33:30 CST 2024
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Cfw3g8ptdAIH8VDPcfsf0jfp55B6ydG-7vukPIuAtC4SuFIlTHDwNboHSTB5nFPEshCsz3Q3U6sLCY2_iQqNnBHLcB75zhXQQaKhZUzIIeEiZViC2fwswZ28MUR8LHp9
+Fri Nov 22 22:34:38 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除hanny27 
+删除oki_dokie 
