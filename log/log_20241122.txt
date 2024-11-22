@@ -405,3 +405,8 @@ Fri Nov 22 20:31:59 CST 2024
 Fri Nov 22 20:32:52 CST 2024
 Fri Nov 22 20:34:00 CST 2024
 删除happyy2 
+Fri Nov 22 20:46:50 CST 2024
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNkRENkQ3MS05QzE3LTQ1RDYtQjc4Ny1GOTQ2NUQ0RTM2NjYiLCJhd3M6dmlld2VyLWlkIjoiMjI5OTMyMjkiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI3OTY1MywiZXhwIjoxNzMyMjgwMjUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oEGqC3vGpxzZJyZigHqEaM8KHWKFgDldwBIH7gl1hXyLSidIaM0OSjvovgWuLoAlK0D7l85NfLb_cWOetPP61AFu6Dk-Ws866JLCRxeyx_6gocAG5ptfJ_rS5-eebDZj
+Fri Nov 22 20:47:43 CST 2024
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kIpzNbr4qUny3O-w8jBHUTaUAropn04wHXA9NE4UJ821tOHZdxllLamoPiA-wbUX6l1XscC7-D-h-V2Tj2GCIDPg-HsL65W1xlDh9UmVfyHC0TywEGnyZORd4TaO-WmM
+Fri Nov 22 20:49:05 CST 2024
