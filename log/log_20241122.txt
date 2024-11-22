@@ -438,3 +438,9 @@ Fri Nov 22 22:02:53 CST 2024
 添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KK0T785uCMlsxikPGAnk9DJGmRGR-h5NGsUsFn_FQlprC6i_OLJ-49ATw8DZzqKcto4vqLrvHhdC5In-9mpDPsAOdWiOOQt1g_v8L2BOxZdkjlfJ2vMUYVIsZ5P6f0U0
 Fri Nov 22 22:04:04 CST 2024
 删除eerttyui12 
+Fri Nov 22 22:16:52 CST 2024
+Fri Nov 22 22:17:39 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8GANZMpOfeXAuipsoGNIB8OknkcGxHQk5EZJIMb21YDc9RF1QXGQ-aUTrpG2fx0h5oybPvDdrCEIPm1AfJ2_Xzks36G_HFqJj1t4bD0mmr97KbZxFh51qNfYpuAfDv28
+Fri Nov 22 22:18:45 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除gremmy 
