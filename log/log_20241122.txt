@@ -334,3 +334,10 @@ Fri Nov 22 18:17:20 CST 2024
 Fri Nov 22 18:17:40 CST 2024
 Fri Nov 22 18:18:54 CST 2024
 删除rico0210 
+Fri Nov 22 18:31:55 CST 2024
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCOTIwRUY0Qi0wRUM3LTQ2QTQtQjlFQy04ODhBQjZCMUI5RUMiLCJhd3M6dmlld2VyLWlkIjoiMjUzNzIxNjciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI3MTUxOCwiZXhwIjoxNzMyMjcyMTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JJYS7RbHRWWKiBuEfP5Ye1qd3kXe0ILlVRfzSOBXy-3fryRuk567e2velVCZiRN9vtHkjA0bCZfX0uE7VQYxyLWBra5WsHSFCTbarN7g6HCTIQKClFwYUd1259QQr7-w
+Fri Nov 22 18:32:21 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.u1vDbjJuyZIC0JOJoUJpksyWSaVAn7xyLlG2RClc9vpLQ_uNJWPKkbEbsFzaFqbxvVJf3jxHplOQdCVKLFIgPSo-S-jbli6nDKzhD10CS4pgfpZurjL16A91gQT_bRdb
+Fri Nov 22 18:33:44 CST 2024
+删除Judy0523 
+删除qwer00725 
