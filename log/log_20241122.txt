@@ -378,3 +378,14 @@ Fri Nov 22 19:34:15 CST 2024
 Fri Nov 22 19:47:25 CST 2024
 Fri Nov 22 19:47:59 CST 2024
 Fri Nov 22 19:49:10 CST 2024
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-40ae5f5ff457f256d23197a4ee24d467bcff11e2e9864c54a28b267d33a292f1_trns_h264/playlist.m3u8
+添加your_desssert https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-dcfe6cb396e2e40c60fac40ef208b5bb4f9c4db6811ebd85356c6c4fd57dd22c_trns_h264/playlist.m3u8
+Fri Nov 22 20:01:55 CST 2024
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMDdCREFGNS0yNkYxLTREMUYtQkE3NC1CMjRGM0Q4MEZDRDMiLCJhd3M6dmlld2VyLWlkIjoiMjM0MTY0NTYiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjI3Njk0NCwiZXhwIjoxNzMyMjc3NTQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HgH2b1EGqcWNB2CdA2IdPGBFQr_2RVdBlTuJ58iZi4A4mFcu9qDraA7IBaEUno8AgckNl6KrhfDPTcj4iej_zyfhtNQqsvUC_-aY6MhU5azLURWWjmsy3BcQ-wp-Bzhp
+Fri Nov 22 20:02:35 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jHC98fkBYwMkYxoSibUj7zT6cyJ7K2TwU8SNPbiXG_b-B9RXo0sHpPQR9Bpr8xhyWS2S525OFJHGm1SLgfqXgX1sx6RPPA1sRMtTRuvues8wUzpLRnq-BWdPpXy-icQb
+Fri Nov 22 20:03:58 CST 2024
+添加kyul365 https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kyul365%22%2C%22channel_id%22%3A759214227%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1732278238%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.78%22%2C%22version%22%3A2%7D&sig=b08fb65bcb3054ec2cf2b44c48ad6555b5c1085b&allow_source=true&allow_audio_only=true
+删除foxylovesyou 
+删除sexygamesx 
+删除acac88 
