@@ -172,3 +172,10 @@ Sat Nov 23 08:49:04 CST 2024
 Sat Nov 23 09:02:58 CST 2024
 Sat Nov 23 09:03:02 CST 2024
 Sat Nov 23 09:04:18 CST 2024
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4abb7cd5b8e9ba7519d297d0ade644404c7e0c2c648d4ed21e077082c58edd53_trns_h264/playlist.m3u8
+Sat Nov 23 09:17:39 CST 2024
+Sat Nov 23 09:17:43 CST 2024
+Sat Nov 23 09:19:05 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除IdaJonesy 
