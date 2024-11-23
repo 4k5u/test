@@ -349,3 +349,9 @@ Sat Nov 23 19:01:48 CST 2024
 Sat Nov 23 19:02:06 CST 2024
 Sat Nov 23 19:03:27 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
+添加galantini https://edge18-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-ff8db3bcca98e38a9dac2be49d80d0b3236d95981ecd4e5e76e908f106f92b40_trns_h264/playlist.m3u8
+Sat Nov 23 19:16:56 CST 2024
+Sat Nov 23 19:17:13 CST 2024
+Sat Nov 23 19:18:29 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除maby33 
