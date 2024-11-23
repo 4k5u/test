@@ -150,3 +150,8 @@ Sun Nov 24 07:17:35 CST 2024
 Sun Nov 24 07:17:49 CST 2024
 Sun Nov 24 07:19:10 CST 2024
 删除gusdk2362 
+Sun Nov 24 07:31:44 CST 2024
+Sun Nov 24 07:31:52 CST 2024
+Sun Nov 24 07:33:16 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除in0410 
