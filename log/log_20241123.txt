@@ -419,3 +419,8 @@ Sat Nov 23 22:03:50 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除oki_dokie 
+添加galantini https://edge7-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-ff8db3bcca98e38a9dac2be49d80d0b3236d95981ecd4e5e76e908f106f92b40_trns_h264/playlist.m3u8
+Sat Nov 23 22:16:48 CST 2024
+Sat Nov 23 22:17:14 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fcYaPDHsMT0gMmNsKLDDbLLO268ykQJEKe9XsWCo7EfQiaJlB503jX83IbO4mIGcjlsrxFaounHwa-vN8jFC7xcD8Yu7l0q3Z-rAmQBhVy2wUMvipDpTy353bSN01EUB
+Sat Nov 23 22:18:15 CST 2024
