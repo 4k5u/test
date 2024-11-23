@@ -274,3 +274,7 @@ Sat Nov 23 14:33:25 CST 2024
 Sat Nov 23 14:47:38 CST 2024
 Sat Nov 23 14:47:46 CST 2024
 Sat Nov 23 14:49:12 CST 2024
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-97f09607dcdbab485f340375fd7f6517438a7e676ad3fff46895618f5d3fdb96_trns_h264/playlist.m3u8
+Sat Nov 23 15:01:48 CST 2024
+Sat Nov 23 15:01:56 CST 2024
+Sat Nov 23 15:03:23 CST 2024
