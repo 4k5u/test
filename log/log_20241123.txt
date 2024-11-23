@@ -252,3 +252,8 @@ Sat Nov 23 13:32:32 CST 2024
 Sat Nov 23 13:32:38 CST 2024
 Sat Nov 23 13:34:03 CST 2024
 删除Xenomy 
+Sat Nov 23 13:46:53 CST 2024
+Sat Nov 23 13:46:59 CST 2024
+Sat Nov 23 13:48:18 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Ryo-sama 
