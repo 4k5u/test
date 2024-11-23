@@ -4,3 +4,8 @@ Sun Nov 24 00:03:54 CST 2024
 删除m0m099 
 删除grandeeney 
 删除galantini 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-69f7eedd7c81bd8a5fb8dde1537c51d1fe69b0cc58906dab8b9b7b22d51cd30f_trns_h264/playlist.m3u8
+Sun Nov 24 00:17:25 CST 2024
+Sun Nov 24 00:17:43 CST 2024
+Sun Nov 24 00:18:41 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
