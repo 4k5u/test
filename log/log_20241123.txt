@@ -403,3 +403,10 @@ Sat Nov 23 21:33:48 CST 2024
 删除galantini 
 删除grandeeney 
 删除gina_gracia 
+添加gina_gracia https://edge5-nrt.live.mmcdn.com/live-hls/amlst:gina_gracia-sd-6b7b826624e4776bbe983f1d33588ab17ce25099e26d75add9b08fd838585750_trns_h264/playlist.m3u8
+Sat Nov 23 21:47:46 CST 2024
+Sat Nov 23 21:48:10 CST 2024
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.guflO3OrnNNUEjYk8cwm4zyGgqfykR6kl9HkThhSUITC4IdJJwn51h3Hkbt7S31NMYwIa7d8E61oR6zz4yCecgDdWjpVQflcsxkrCXv8Mi3NTpUyuqQUjTsg-2wUM5Kx
+Sat Nov 23 21:49:15 CST 2024
+删除foxylovesyou 
+删除JP-KARIN 
