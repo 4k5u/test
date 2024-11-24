@@ -7,6 +7,5 @@ namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_p
 kiyoko_rin   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2b17126a9a49d79222b032ea0d5219c3329fea53ea0ad1cb5376c49770cb66ac_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5dcc7a4fc3bdd9768815a892144198bfef27225cb12170b5bebb39eabf2848e4_trns_h264/playlist.m3u8
-San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 mazzanti_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6e2835c1c8b94b8e4eef76a655bd1ce34807ea1b802a9f75213c6cbcb55bea35_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8d97ba320e4fe2326dc50de9d6c3cbc4f17f89a9c5e6586b9e191bb7717186c_trns_h264/playlist.m3u8
