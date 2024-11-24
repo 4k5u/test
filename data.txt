@@ -13,3 +13,4 @@ eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_maste
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ece603c83a51e284a85e771597a9d58573742e3506c05b1019b3bd955e72782f_trns_h264/playlist.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

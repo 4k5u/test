@@ -242,3 +242,7 @@ Sun Nov 24 12:17:02 CST 2024
 Sun Nov 24 12:18:20 CST 2024
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除Xenomy 
+Sun Nov 24 12:31:50 CST 2024
+Sun Nov 24 12:31:59 CST 2024
+Sun Nov 24 12:33:15 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
