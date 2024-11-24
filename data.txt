@@ -7,3 +7,4 @@ kiyoko_rin   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2b171
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8d97ba320e4fe2326dc50de9d6c3cbc4f17f89a9c5e6586b9e191bb7717186c_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ZBZSMhAE_E-Whuik6VXgVbvh-mCCjoMlFfy6MMqQDKkZaXCZPTWyw1Lm6RzGemWlAnz91B7fspJVsxrRPNmO8pzMLPmEPPgioLYvYsT5m-ejmB_QpyphUmq_fVK7qE1q
+mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6e2835c1c8b94b8e4eef76a655bd1ce34807ea1b802a9f75213c6cbcb55bea35_trns_h264/playlist.m3u8
