@@ -25,3 +25,9 @@ Mon Nov 25 01:02:09 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tASnTVrNdDKulevCJr6EaQeFwUcL6v1VpNaNPLAe--vD1qd6W1x1OAKjaSO-eoWGEJ_47eigx1fS2vhbsp0LDdteMJWevwX41NCfyPFqa4I-WdPGsBaj_p_p2ODPeh4C
 Mon Nov 25 01:03:26 CST 2024
 删除ee5844 
+Mon Nov 25 01:17:33 CST 2024
+Mon Nov 25 01:17:51 CST 2024
+Mon Nov 25 01:19:04 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除eunyoung1238 
+删除glglehddl 
