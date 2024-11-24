@@ -278,3 +278,8 @@ Sun Nov 24 14:17:22 CST 2024
 Sun Nov 24 14:17:37 CST 2024
 Sun Nov 24 14:18:54 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加galantini https://edge3-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-71c7fa38ccc11a5771387e027424ded198e96b42457c94d9a080e4048074b418_trns_h264/playlist.m3u8
+Sun Nov 24 14:31:50 CST 2024
+Sun Nov 24 14:32:02 CST 2024
+Sun Nov 24 14:33:24 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
