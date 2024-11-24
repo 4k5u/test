@@ -10,6 +10,6 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.z_Tn1celgvV8zL_DE_EiaBV31Itx-x2F-uvh9ZnI5V8tZxJvJhUfsveTfKDuZd5wiSfEZHb1-Cs3X6oehY2I30TqBfcRVUDfPKbNPJoE6f0dOwU41H3_qUIpjGDPQ7xY
-Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ece603c83a51e284a85e771597a9d58573742e3506c05b1019b3bd955e72782f_trns_h264/playlist.m3u8
+Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8

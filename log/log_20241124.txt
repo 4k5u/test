@@ -237,3 +237,8 @@ Sun Nov 24 12:01:55 CST 2024
 Sun Nov 24 12:03:18 CST 2024
 删除Reaowna 
 删除nemu00 
+Sun Nov 24 12:16:54 CST 2024
+Sun Nov 24 12:17:02 CST 2024
+Sun Nov 24 12:18:20 CST 2024
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除Xenomy 
