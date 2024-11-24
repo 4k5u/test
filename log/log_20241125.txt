@@ -92,3 +92,10 @@ Mon Nov 25 04:03:27 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除alicelebel 
 删除gusdk2362 
+添加mazzanti_ https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6e2835c1c8b94b8e4eef76a655bd1ce34807ea1b802a9f75213c6cbcb55bea35_trns_h264/playlist.m3u8
+Mon Nov 25 04:17:21 CST 2024
+Mon Nov 25 04:17:27 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 04:18:50 CST 2024
+删除cecilia0903 
+删除gusdk2362 
