@@ -13,3 +13,4 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-33c27820e594a00757e2ba058a4fe1ecee20e23ba7e6d4759a2f85aab903315d_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-24e2752e0cecdb66aeb55350d11b8e0621016976d5ce1d220226341bb8cf0beb_trns_h264/playlist.m3u8
