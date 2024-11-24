@@ -246,3 +246,8 @@ Sun Nov 24 12:31:50 CST 2024
 Sun Nov 24 12:31:59 CST 2024
 Sun Nov 24 12:33:15 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sun Nov 24 12:48:02 CST 2024
+Sun Nov 24 12:48:11 CST 2024
+Sun Nov 24 12:49:27 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除kolll88 
