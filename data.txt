@@ -9,4 +9,4 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5dcc7a4fc3bdd9768815a892144198bfef27225cb12170b5bebb39eabf2848e4_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 mazzanti_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6e2835c1c8b94b8e4eef76a655bd1ce34807ea1b802a9f75213c6cbcb55bea35_trns_h264/playlist.m3u8
-cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a8d97ba320e4fe2326dc50de9d6c3cbc4f17f89a9c5e6586b9e191bb7717186c_trns_h264/playlist.m3u8
