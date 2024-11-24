@@ -462,3 +462,8 @@ Sun Nov 24 23:17:18 CST 2024
 Sun Nov 24 23:18:24 CST 2024
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除jodong2 
+Sun Nov 24 23:32:41 CST 2024
+Sun Nov 24 23:33:09 CST 2024
+Sun Nov 24 23:34:18 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除flower1023 
