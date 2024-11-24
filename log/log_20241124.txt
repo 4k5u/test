@@ -456,3 +456,9 @@ Sun Nov 24 23:04:15 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除banet523 
 删除oki_dokie 
+Sun Nov 24 23:16:46 CST 2024
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRTVEOTQzOC1DMzI5LTRCNUEtQUE5RS04NzMzQTQ4RUU5REIiLCJhd3M6dmlld2VyLWlkIjoiMjUyNjIzNTQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ2MTQxNiwiZXhwIjoxNzMyNDYyMDE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.abVTfeq2L6_FLoiJslMOQmO5NxxJG2uVNEdI9WNBuTvBqeT_pfibEiHqceeGe3xlOIXPQyfzeqRKGZqhlZb87o640D0QVLBXToUNGN7-ItjMUloPyjOUOl6s8-fQsBEu
+Sun Nov 24 23:17:18 CST 2024
+Sun Nov 24 23:18:24 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除jodong2 
