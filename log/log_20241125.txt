@@ -368,3 +368,11 @@ Mon Nov 25 18:04:00 CST 2024
 删除cuddles_me 
 删除gremmy 
 删除hanny27 
+Mon Nov 25 18:16:48 CST 2024
+Mon Nov 25 18:17:07 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 18:18:35 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除gremmy 
+删除hanny27 
