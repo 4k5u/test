@@ -261,3 +261,8 @@ Mon Nov 25 13:18:16 CST 2024
 删除Xenomy 
 删除Sime_Naughty 
 删除akakak11112 
+Mon Nov 25 13:31:45 CST 2024
+Mon Nov 25 13:31:49 CST 2024
+Mon Nov 25 13:33:16 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除IdaJonesy 

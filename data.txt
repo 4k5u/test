@@ -7,5 +7,5 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 getme1004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.LVqzab1Wz92n.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0xWcXphYjFXejkybiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMTY2NzQzMC1ERUQ1LTQ5MDUtOUFENS01NTE2MzM2RDNBMDEiLCJhd3M6dmlld2VyLWlkIjoiMjMwNDUzNzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUwMTAyMSwiZXhwIjoxNzMyNTAxNjIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jZ-vBc-gNxs9_-XIK6VifScKFgUeOKPTXmTOu1TPhYESeA0PFjo7HpBo0HViM8qqnqJCdpbXzDzRBbOAr43cAsAUi5zwthFAr5aKDv76BIgew05q_H9XEWz8-fKhnbHQ
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2c1101657b29fdd99afb54d6f6c77b751d98c3db7f37f7336ec0dec45d214ed0_trns_h264/playlist.m3u8
-IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
