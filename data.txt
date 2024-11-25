@@ -3,4 +3,4 @@ leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_pla
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-17122ff6c17303febdd47d8cf0ca90e8b3cb368d39cf60cacacf4a044c321659_trns_h264/playlist.m3u8
 sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5201fe49005a5e2718e7a353ff376d892f56437ff73a37e1dfe35500813dbd1a_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
-Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+cuddles_me   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-b04236ff64e46e32f5053069786413d1d82e6068c5db4ad80643f65503183e8f_trns_h264/playlist.m3u8
