@@ -330,3 +330,10 @@ Mon Nov 25 16:47:07 CST 2024
 添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
 Mon Nov 25 16:48:28 CST 2024
 删除gremmy 
+Mon Nov 25 17:02:21 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9PnMPq8BQptk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlQbk1QcThCUXB0ayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NTRDMEQ0Qy1GRjg5LTRDQTAtODU1QS1EMEUzNDJCNjQ0NEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ1NjM3ODMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUyNTM0NSwiZXhwIjoxNzMyNTI1OTQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ru99-nvl6VcssA5WaOj78W6jIGs2xaSwz802RujU4Ym9KdPxytZqLgLtFBjPLC8g24iV0lOEZitx1YeVM8p8H7aq_DWZOFX46WZoUX9O2ZUajGFgOXFdPJKu3kC3qzrz
+Mon Nov 25 17:02:36 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6WMzn57xer1XiKxKBJQBH17F9-GYgGmzMSa92BBw3GFQRMQAv_5na718M_Ic3R6_mfg-0t0x5PaLMuEqRd46123f6XU7T_m7BhFR9IF7Wee2Bq_HFDX9GhH-IR31qrwa
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 17:04:04 CST 2024
+删除gremmy 
