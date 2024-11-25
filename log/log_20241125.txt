@@ -425,3 +425,11 @@ Mon Nov 25 19:32:43 CST 2024
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
 Mon Nov 25 19:34:05 CST 2024
 删除hanny27 
+Mon Nov 25 19:46:49 CST 2024
+添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMjQ4RDI5My01RkU0LTQ5RDYtODZFQi04Qzc3MEY2NDM0MjAiLCJhd3M6dmlld2VyLWlkIjoiMjQwMjc4NjQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUzNTIzOSwiZXhwIjoxNzMyNTM1ODM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.utHPiEImbO49IzomLldbu1i922DMYcMo2NGbgkrON0ZMU1XfvTsBgsFfxeC5FvOzvhP-mLa_zw0_SK9LmsrGQj03QIgUDwYTzppAlUnPTDQgM1edcmp-lxis4AdxvZYi
+Mon Nov 25 19:47:33 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Nov 25 19:48:47 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除cuddles_me 
+删除hanny27 
