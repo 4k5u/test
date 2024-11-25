@@ -175,3 +175,9 @@ Mon Nov 25 08:33:03 CST 2024
 Mon Nov 25 08:34:19 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除oki_dokie 
+Mon Nov 25 08:46:44 CST 2024
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMDFERDg4OC0zRUUyLTQzQTAtQjVEQS03MEIwQkE2RUIxMTEiLCJhd3M6dmlld2VyLWlkIjoiMjExMjU4MDMiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjQ5NTYxMywiZXhwIjoxNzMyNDk2MjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4TcIct_LazDmE4YQ4IMDIHQs8K8icXyGAvik7JmReDdEEUoxsTwpI9xsafqzGrOMwiBmtKC-V5klH3ZZcF0yj8WaObc5xriSmjfAwr0D5wSEycTs12ZagvJU3ESZESpB
+Mon Nov 25 08:47:07 CST 2024
+Mon Nov 25 08:48:31 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
