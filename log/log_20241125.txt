@@ -229,3 +229,9 @@ Mon Nov 25 11:31:55 CST 2024
 Mon Nov 25 11:33:20 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除hotse777 
+Mon Nov 25 11:46:47 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNTIzMkNGQS1FODAxLTRFQTctOTgyOS1FMzAzRDAyNzIxQTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjUwNjQxMCwiZXhwIjoxNzMyNTA3MDEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.T7kiSemsZTYEMbpkaGKKW0wMEsthIbX5pmN9DUL21jvwoeTUZnV9deeVqecgJIIDpZzB2YwckABJ7QAj6l7lPMRWIIkE3MJdCFvR2Iyd2-uGRb6FBvTybBXrHoQvOE5V
+Mon Nov 25 11:47:00 CST 2024
+Mon Nov 25 11:48:27 CST 2024
+删除my_eyes_higher 
+删除IdaJonesy 
