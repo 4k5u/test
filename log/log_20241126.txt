@@ -314,3 +314,8 @@ Tue Nov 26 18:16:55 CST 2024
 Tue Nov 26 18:18:28 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除hanny27 
+Tue Nov 26 18:31:46 CST 2024
+Tue Nov 26 18:31:55 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+Tue Nov 26 18:33:29 CST 2024
+删除hanny27 
