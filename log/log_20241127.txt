@@ -43,3 +43,9 @@ Wed Nov 27 01:46:55 CST 2024
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.DFBCjz3uk58LmAH8NvhMBXtsHwEqBjb4JVsIH1w1j_GKlhMvdna09TfnctM2oNMXwOnMD74L9DbpQMkNESSObwPHdrtffsuh7wnIJxByFVUAZLYIQUOrk8ZcHPqduBLw
 Wed Nov 27 01:48:19 CST 2024
 删除eunyoung1238 
+添加kiyoko_rin https://edge2-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-d1aad593743504a8e431265195721f6b7b13170cc4170f2e1446cfee509154fb_trns_h264/playlist.m3u8
+Wed Nov 27 02:01:49 CST 2024
+Wed Nov 27 02:01:59 CST 2024
+Wed Nov 27 02:03:19 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除saone451 
