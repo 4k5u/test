@@ -180,3 +180,6 @@ Tue Nov 26 10:31:52 CST 2024
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i4KAqgdeQNhFcZ5EUnQRnXxjbeQq31OI2h1A-1B_prbjenmQ-d8pQAffzcJAKA0bGMkWBNYvDF1gmUTcPXCEl3alzKYwycR6JXQNkAH_hEG2E4aqN7ZTgnuOo-qL4-88
 Tue Nov 26 10:33:27 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Tue Nov 26 10:46:52 CST 2024
+Tue Nov 26 10:46:58 CST 2024
+Tue Nov 26 10:48:15 CST 2024
