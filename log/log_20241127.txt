@@ -135,3 +135,7 @@ Wed Nov 27 07:16:50 CST 2024
 添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RkQ1MUVERC00REE3LTQwQjUtODg5MC1CQjE4NkYyNEI2QUUiLCJhd3M6dmlld2VyLWlkIjoiMjM4ODA0NzEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjY2MzAxMCwiZXhwIjoxNzMyNjYzNjEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YEi3LTitDYeKxQWdECmR8WpDrMi8MRqr31pYdsvqZ73Ds_wB5mWaSU9Wf2dllqNyMmR7rwkEru-4iq4yDv_5TBSICu78-HeSMPy2G55dUbRWGx29AEBEiqcTHP1-VOlf
 Wed Nov 27 07:16:55 CST 2024
 Wed Nov 27 07:18:14 CST 2024
+添加intim_mate https://edge5-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-ab4fd960e80c1b962929d6a3bb7306b4c0d1f587c21b56089082a2a9cbfff716_trns_h264/playlist.m3u8
+Wed Nov 27 07:31:46 CST 2024
+Wed Nov 27 07:31:48 CST 2024
+Wed Nov 27 07:33:15 CST 2024
