@@ -223,3 +223,9 @@ Wed Nov 27 12:33:21 CST 2024
 Wed Nov 27 12:46:45 CST 2024
 Wed Nov 27 12:46:50 CST 2024
 Wed Nov 27 12:48:16 CST 2024
+添加galantini https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-ed178209513a3a10cb417d8a74c3fec9d61fe8bc327af16cb1d502bbd30ed89a_trns_h264/playlist.m3u8
+Wed Nov 27 13:01:59 CST 2024
+Wed Nov 27 13:02:03 CST 2024
+Wed Nov 27 13:03:30 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
