@@ -11,3 +11,11 @@ Thu Nov 28 00:17:17 CST 2024
 Thu Nov 28 00:18:22 CST 2024
 删除172----95----student 
 删除Asia-Lynn 
+Thu Nov 28 00:32:03 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MkVFNEI0MC0yQ0IzLTQ5MzUtODY0OC0wQUMxMTY5OEQxRDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjcyNTEyNiwiZXhwIjoxNzMyNzI1NzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UYZd3EenyNlIvf32I62OQqAd5cdIJYfNxGIvh2HiDjPLxLUxK3VbcTeRXphgMDS94qD0eUr1eZEcOWK_c3b8belQyyHmREF7N00HsvFX86rTpVhw_7VlPHwXUPw9ZnvA
+Thu Nov 28 00:32:31 CST 2024
+Thu Nov 28 00:33:34 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除dkssudgktpdy233 
+删除imissy0u 
