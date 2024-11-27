@@ -14,3 +14,4 @@ your_desssert   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd
 galantini   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-f3b3b9e2b232a650211e0509003a409fa52246faccb6ee4c1ce1d9f8fb501c9a_trns_h264/playlist.m3u8
 foxylovesyou   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1c4507dda7c86fb0dfa8cfb036aaac2216bb423482042379e747e4fc563f2b79_trns_h264/playlist.m3u8
 mode_bad   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6e144a06539e9fcc8214a61330bb2623186a2b2f4175d08890c4047255a3ec98_trns_h264/playlist.m3u8
+iminako   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-3b61d21c02527be4e74e24afe2ec2a970cda62a95c5a844d6c1166101974c4ac_trns_h264/playlist.m3u8
