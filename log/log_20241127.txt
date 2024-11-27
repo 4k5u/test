@@ -216,3 +216,7 @@ Wed Nov 27 12:16:43 CST 2024
 Wed Nov 27 12:16:47 CST 2024
 Wed Nov 27 12:18:15 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d528f03135ecea8c3cec9c041488aa001cdf4ffe2a13dfbb277c46feb63fadd3_trns_h264/playlist.m3u8
+Wed Nov 27 12:31:48 CST 2024
+Wed Nov 27 12:31:53 CST 2024
+Wed Nov 27 12:33:21 CST 2024
