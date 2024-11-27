@@ -448,3 +448,9 @@ Wed Nov 27 22:32:41 CST 2024
 Wed Nov 27 22:33:43 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除lovable12 
+Wed Nov 27 22:47:24 CST 2024
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NzIzMURFNC0xRTY0LTRBNjEtOTMyNi04MDYxQkU0Q0FCRUQiLCJhd3M6dmlld2VyLWlkIjoiMjUyNjIzNTQiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjcxODg0OCwiZXhwIjoxNzMyNzE5NDQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xBJRJYEGN14eF678g5Bm9FBd0IqyWbFDR6ER39iQEFbFFro7vKN-3SIP5GH0SU12v88Gs1sLj0HqnOIyXjXeYL0irtQ0eqs6Y9lntCWRnYY9UHHgoRhfrrfQCg9NfPi1
+Wed Nov 27 22:48:08 CST 2024
+Wed Nov 27 22:49:06 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除green10004 
