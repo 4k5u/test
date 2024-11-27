@@ -390,3 +390,8 @@ Wed Nov 27 20:17:29 CST 2024
 添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9HkAfSlMPBx9tkdczMk5gPsSKrudMorzXNU33SzsV5KYq0MBa9yLdsBW_noXF14C0GppGPOod0UN2e4dHmo4WP3DviEOGlW0lIdZj0uzFXa8nc3js2iYRwaA2Zm-QkDl
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9HkAfSlMPBx9tkdczMk5gNvlLJELd8G0pc_mkmSlSDh6g_0ld0cqjnbx3hnFl0N59U7hHqBE-K3gfEZozwpr8dpa15m4b08W-u5WYJfHJX8s23TJn9BpB0J962dcmCgY
 Wed Nov 27 20:18:52 CST 2024
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9ca13d74745724f416b8fd8e96019293f3520a6c178bff4ec3eed5bfbf1c9673_trns_h264/playlist.m3u8
+Wed Nov 27 20:32:26 CST 2024
+Wed Nov 27 20:32:52 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TmYfZEU9sgMRhiGCkZ4aKRx4TkIJdBWwIoRryPH_8k-86EQ7CcFjIiz0C_vCBZndHw1K1BB24lNNf1hV-ak3j43Y83GSyIswfbWsqQzl2dYu66M79R7fd5qdB3JMeTnL
+Wed Nov 27 20:33:53 CST 2024
