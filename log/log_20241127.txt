@@ -303,3 +303,9 @@ Wed Nov 27 16:33:18 CST 2024
 Wed Nov 27 16:46:49 CST 2024
 Wed Nov 27 16:46:57 CST 2024
 Wed Nov 27 16:48:18 CST 2024
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d528f03135ecea8c3cec9c041488aa001cdf4ffe2a13dfbb277c46feb63fadd3_trns_h264/playlist.m3u8
+Wed Nov 27 17:01:52 CST 2024
+Wed Nov 27 17:01:58 CST 2024
+Wed Nov 27 17:03:21 CST 2024
+删除acac88 
+删除San___San 
