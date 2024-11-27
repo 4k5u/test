@@ -233,3 +233,8 @@ Wed Nov 27 13:17:04 CST 2024
 Wed Nov 27 13:17:08 CST 2024
 添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ea98Wy3KAXpySvcrzF8XrrCBt8vJApWSQ0XKbZy_HtanmoVUkz9SsDLmpntRgTpP0AmJ9x6RDeWWy3FI8kPFS7kyXWuaOPiMBqv7ip_YjZ_Ez3KqZpw4jsm079DctY3g
 Wed Nov 27 13:18:38 CST 2024
+Wed Nov 27 13:31:49 CST 2024
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3Q0JCRTM0Ni1EQTc4LTRGNjYtQTY5QS1CMkMzNjQ1N0Y2NzMiLCJhd3M6dmlld2VyLWlkIjoiMTYyNDI1MzkiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjY4NTUxNCwiZXhwIjoxNzMyNjg2MTE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.r2jUInePdRArhqNzZ_gABEYb75U8tndvxzbS9Zc25lrs2Akl9Anj1aZdA62arRuBbyGFDpBu1Ow5_UgEKAaCOG5lirF0WEgQ2xw2BTOluwoYg1h_PaqErLYfOBHiaN70
+Wed Nov 27 13:31:58 CST 2024
+Wed Nov 27 13:33:23 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
