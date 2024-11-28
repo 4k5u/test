@@ -418,3 +418,10 @@ Thu Nov 28 21:32:43 CST 2024
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.z5Fp4UvqJAY_HcgVt3HOHxaL-R1IssEHOz0B09ShPdmRJPpSY0dCUAbTxley8WoZGyV1cXloziggQIwYhYtdlyrRO3dqrTzqUeQ_dkbEK_R34dtLFGb1SzOygpcSjaKu
 Thu Nov 28 21:34:00 CST 2024
 删除muse62 
+Thu Nov 28 21:46:49 CST 2024
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eFD9AIvLFCaB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VGRDlBSXZMRkNhQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRjFDQTYxMy0yNkE3LTRBQ0ItOUEwOC0zQTZBOEE1MDhCQTMiLCJhd3M6dmlld2VyLWlkIjoiMTgyOTQxNzgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjgwMTYyMCwiZXhwIjoxNzMyODAyMjIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pcS8ykgbwn4CKCn-p5FepU9z_8r7kwjTV8z_Ww8n_jgmuEwT_YaF3iSqQIjtcIZL7tIxh8igeVw_t64LiAqT_7bbW5l-tiNLP-kTPJwvxQTmEsVZrbRDFqtT5fLpjve5
+Thu Nov 28 21:47:12 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w2M4okd11NtiEu86Q8-yjUL3MMMwAZ9StJMS-PDnHokIPgNQharoRAS0WoRYToJF-6NabmdsCuc_1vE4-xBLzjr0pIEpkWEL2kyA-hiI0tQI3nNML2enFDYiORtqCNwk
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.C2Nv8nxcJ4cTp-QeXHcEV-wJxdxfbQCCCzWSQ8v-3rNoesZ-mWzwVJpeXb1i04YckOVeUXSh5CSiIemEBBQrwxkYHLdm13KNo4QU-Wd4o8Sc7f3pOoD9V0ogCKDMUnhh
+Thu Nov 28 21:48:37 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
