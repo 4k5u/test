@@ -153,3 +153,7 @@ Thu Nov 28 08:01:45 CST 2024
 Thu Nov 28 08:01:49 CST 2024
 Thu Nov 28 08:03:09 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加oda_assuri https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-b92cced630eb1fed80d8678a366b9482466737880fbc21da76bac64c09d1ffa2_trns_h264/playlist.m3u8
+Thu Nov 28 08:16:48 CST 2024
+Thu Nov 28 08:16:53 CST 2024
+Thu Nov 28 08:18:10 CST 2024
