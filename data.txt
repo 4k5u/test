@@ -6,7 +6,5 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 intim_mate   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-fcdbf335c6ea5216bf3ce2ccda5d4ccfa9bfad6bdaf8e7253fb83af5a5303df9_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 _meganmeow_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-50f2912683b50dbbc5bc581fc26ad41ef3895d0c624fbfd8c24694026be798cd_trns_h264/playlist.m3u8
-akakak11112   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOEU1QURBNS02NEY4LTQ0MjktOTNDRS04NEZCOUE1OEJCRDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjc2NzQ0MSwiZXhwIjoxNzMyNzY4MDQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PWzZzbrTadtL0eX-vtN8eRQOeNoFbmeaKVYpYXtyu6DgexhW00Iv452lQzVPhFY7HgIy2xWsFNaZ975LejFuvDPOXz0ms4b_fPffozxiMc_izVn9_YigrS9-Kpaj1PjM
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0deaf9b7fe6d7ce8dcf2497733bf0da7fdd03eb04707962c79be4c7fa3b2ffb8_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
