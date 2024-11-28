@@ -241,3 +241,9 @@ Thu Nov 28 12:31:46 CST 2024
 Thu Nov 28 12:31:58 CST 2024
 Thu Nov 28 12:33:20 CST 2024
 删除mikio_san 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0deaf9b7fe6d7ce8dcf2497733bf0da7fdd03eb04707962c79be4c7fa3b2ffb8_trns_h264/playlist.m3u8
+Thu Nov 28 12:46:46 CST 2024
+Thu Nov 28 12:46:57 CST 2024
+Thu Nov 28 12:48:21 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除cuddles_me 
