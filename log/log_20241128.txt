@@ -382,3 +382,8 @@ Thu Nov 28 19:46:51 CST 2024
 Thu Nov 28 19:47:11 CST 2024
 添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8VntbsolaUmEYjJPyvqf4sXi3bT1vyCwbmIJrbfOBwpMug15-7qChs36EN4upGe7FtFDF8K2GhqVWtgVu93Tk2hTEfzS_4H9ZOgja8lzByX7UapLqmM31RPqcNEX4nHm
 Thu Nov 28 19:48:44 CST 2024
+Thu Nov 28 20:01:49 CST 2024
+Thu Nov 28 20:02:09 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YCGyHRqvnsIpMjL5l9tOo5ag9mBYoJCba5cP9w_C7Im_B5GOq1JSyOhN6oBfekqMQFBqoEJoQ0s1JBpAom2Iku3rlO50i38yLJVOKcMzX-W3sUXB4pw78QNZY_Ntw9si
+Thu Nov 28 20:03:39 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
