@@ -115,3 +115,8 @@ Fri Nov 29 06:16:51 CST 2024
 Fri Nov 29 06:18:15 CST 2024
 删除San___San 
 删除jodong2 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4d63e8b8f1d44300bdd8dc2edc5dd21cdc265e7c57764215f8fb02bcf0044bce_trns_h264/playlist.m3u8
+Fri Nov 29 06:31:48 CST 2024
+Fri Nov 29 06:31:56 CST 2024
+Fri Nov 29 06:33:16 CST 2024
+删除hotse777 
