@@ -8,3 +8,5 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 _meganmeow_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-50f2912683b50dbbc5bc581fc26ad41ef3895d0c624fbfd8c24694026be798cd_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+iminako   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-aae5a126f42c9ea781d0c0619d9f1322a8bc4c3c8a33e62eb1144c249cc4c8c6_trns_h264/playlist.m3u8
+LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
