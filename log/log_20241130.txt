@@ -61,3 +61,9 @@ Sat Nov 30 03:01:48 CST 2024
 Sat Nov 30 03:01:56 CST 2024
 Sat Nov 30 03:03:17 CST 2024
 删除Akiyama_Key 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9cc9491d43907fc2807faf45a6c5511699e11e08c9b21a916e9d9d5905e1c8ac_trns_h264/playlist.m3u8
+Sat Nov 30 03:17:20 CST 2024
+Sat Nov 30 03:17:27 CST 2024
+Sat Nov 30 03:18:39 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除chuing77 
