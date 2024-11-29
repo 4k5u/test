@@ -387,3 +387,9 @@ Fri Nov 29 20:18:35 CST 2024
 Fri Nov 29 20:31:49 CST 2024
 Fri Nov 29 20:32:21 CST 2024
 Fri Nov 29 20:33:29 CST 2024
+Fri Nov 29 20:46:48 CST 2024
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.xnmToopJzDb4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3hubVRvb3BKekRiNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOEE2NzgwRi1FNUVFLTRGRTMtQjg4OC0zN0FBRjM4MURBMkQiLCJhd3M6dmlld2VyLWlkIjoiMjI0NzI5NDgiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMjg4NDQyOCwiZXhwIjoxNzMyODg1MDI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.f-_1rQewac3zw6izW6avF62dR1HXJyYe63GH5ycjdaiHw9li9IlIO2DXSH9w39yVmdbVdtsWR0kAvyUCl1GhqPIeGOYEqEMyT0ko415gQuQ74rZ7Z9zDckOI0nv1eITL
+Fri Nov 29 20:47:27 CST 2024
+Fri Nov 29 20:48:35 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除ee5844 
