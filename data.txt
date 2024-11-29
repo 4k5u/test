@@ -7,3 +7,4 @@ gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_p
 kiyoko_rin   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-8611abf7b72e9cf874a30a5d7b2e9537bf29ab852952bc042844ac8fee2f4d61_trns_h264/playlist.m3u8
 oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9cc9491d43907fc2807faf45a6c5511699e11e08c9b21a916e9d9d5905e1c8ac_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c7b670985b4c1cc6a4bb4d566c1d8eb10c6ad8de6c877b50c50ffe9438863cbc_trns_h264/playlist.m3u8
