@@ -8,3 +8,8 @@ Sat Nov 30 00:18:54 CST 2024
 删除tess00 
 删除ksb0219 
 删除soso621 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9cc9491d43907fc2807faf45a6c5511699e11e08c9b21a916e9d9d5905e1c8ac_trns_h264/playlist.m3u8
+Sat Nov 30 00:31:46 CST 2024
+Sat Nov 30 00:32:08 CST 2024
+Sat Nov 30 00:33:27 CST 2024
+删除imanatural 
