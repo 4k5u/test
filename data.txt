@@ -8,3 +8,4 @@ my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9c75fc8b22ccc4316f61595cb2bd826ec25a7c69345284e1da70456df1006efd_trns_h264/playlist.m3u8
 cuddles_me   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0487cc3f226de4cc4cab4cf46b3c1181c1c54d5b10f7a2682f22bef679aeb2e4_trns_h264/playlist.m3u8
 mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c225ba0d5fdb9cc247d52a1e5f2e475977bb673ffba074cbe9fdaccdf84462c3_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
