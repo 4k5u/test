@@ -6,3 +6,4 @@ intim_mate   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-9515b
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OCNcZ9y9Rp6z7ZLNLKU_d7lmJAr0F41FdWVBMMywPaM39nsyPWOWDbPai1yVoobHNkileVYTFOSi9WlpqAFO8EFcNvEWuI0M0MDO2ufm_MMvNPv-7EXfJ2EO9cJGe_sJ
 hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1hJp_gvqIEe2DqMJwAW4ekhBxRlpm6aVvHlL5XEnYFiCNN7xf7uWHYeLMqY7VH_leuDIagfbA_fNxbs0uwmb1Amd1i8ocDLRh1pc6lgJMLPANPEFtk2cloSEnxhtSoFl
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c7b670985b4c1cc6a4bb4d566c1d8eb10c6ad8de6c877b50c50ffe9438863cbc_trns_h264/playlist.m3u8

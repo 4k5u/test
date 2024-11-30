@@ -191,3 +191,7 @@ Sat Nov 30 11:03:19 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除mazzanti_ 
 删除oki_dokie 
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c7b670985b4c1cc6a4bb4d566c1d8eb10c6ad8de6c877b50c50ffe9438863cbc_trns_h264/playlist.m3u8
+Sat Nov 30 11:17:31 CST 2024
+Sat Nov 30 11:17:35 CST 2024
+Sat Nov 30 11:18:55 CST 2024
