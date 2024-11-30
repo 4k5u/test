@@ -447,3 +447,10 @@ Sat Nov 30 23:32:20 CST 2024
 Sat Nov 30 23:32:55 CST 2024
 Sat Nov 30 23:33:56 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-dd58ff438ab623480a365c27498965bed8a8bff465193547abe20b88201c33aa_trns_h264/playlist.m3u8
+Sat Nov 30 23:46:58 CST 2024
+Sat Nov 30 23:47:18 CST 2024
+Sat Nov 30 23:48:24 CST 2024
+删除tyy750ii 
+删除dana9282 
+删除your_desssert 
