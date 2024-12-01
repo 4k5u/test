@@ -7,5 +7,4 @@ jjine0127   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-e7d2b2b1ebc13c9135254977d4d769abe544013bf5afbbafcc55736ce7dd52d4_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
-mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c225ba0d5fdb9cc247d52a1e5f2e475977bb673ffba074cbe9fdaccdf84462c3_trns_h264/playlist.m3u8
 intim_mate   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-908e24ee112024522d95a33439a05b03ed06b5111aba2ed18424335c3e92355c_trns_h264/playlist.m3u8
