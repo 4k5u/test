@@ -240,3 +240,11 @@ Sun Dec 1 13:16:49 CST 2024
 Sun Dec 1 13:16:55 CST 2024
 Sun Dec 1 13:18:16 CST 2024
 删除_meganmeow_ 
+添加cuddles_me https://edge3-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-8b90045f20632a5fd59f11977cf4fc8e29e215a860c467ea6b92443274a62619_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-faf023df7956a704d25eec72a570ba608c73438352570dbff715b8c896d5da8f_trns_h264/playlist.m3u8
+Sun Dec 1 13:32:08 CST 2024
+Sun Dec 1 13:32:14 CST 2024
+Sun Dec 1 13:33:39 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除amilia4u 
