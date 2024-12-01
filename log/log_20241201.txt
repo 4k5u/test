@@ -202,3 +202,7 @@ Sun Dec 1 11:33:25 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除my_eyes_higher 
+Sun Dec 1 11:47:20 CST 2024
+添加maby33 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ROEQ3JbhTQeQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1JPRVEzSmJoVFFlUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQUYyQ0Y3OC1DOEVGLTRCNzYtQUNBQy1EQjhGMTU5N0I0MzYiLCJhd3M6dmlld2VyLWlkIjoiMTgwMDA2NjYiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzAyNDg0NCwiZXhwIjoxNzMzMDI1NDQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Psug2Q9dKqdLHEK-wUNxq3lt5ePQFyXqKpaQCjGr14boxe0XWBYoB99vosEOL84bHWJd71cqVU3osmlzAKJFNYUnYeElCV1J_NCe6Pe01YT8UCT7gD2EzkoqLLMRXu83
+Sun Dec 1 11:47:31 CST 2024
+Sun Dec 1 11:48:47 CST 2024
