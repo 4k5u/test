@@ -401,3 +401,8 @@ Sun Dec 1 20:32:13 CST 2024
 Sun Dec 1 20:33:21 CST 2024
 删除foxylovesyou 
 删除happyy2 
+Sun Dec 1 20:46:51 CST 2024
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMzdDRkM5Qi1BMzUwLTRBMEMtOTY5Mi02ODYwRkM3QkREMzEiLCJhd3M6dmlld2VyLWlkIjoiMjUzNzIxNjciLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzA1NzIxMiwiZXhwIjoxNzMzMDU3ODEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.H9nXLn5-dm1iLjxth56qiNYHPjs649mSvf_3vnZINxKfyOBV7QxplPxjQ6mbJnRlL2zb1FM1j7-MH-_4sSSMn4S5OwBHAaNYUoermk_RFffb5OYZSPZ0LzPplQU_Eh45
+Sun Dec 1 20:47:19 CST 2024
+Sun Dec 1 20:48:17 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
