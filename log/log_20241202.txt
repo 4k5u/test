@@ -5,3 +5,8 @@ Mon Dec 2 00:02:16 CST 2024
 Mon Dec 2 00:03:31 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a5e366aed120fd695c048669bc266afc5c7fc2af10cf2b9d6ca23346d4849fa4_trns_h264/playlist.m3u8
+Mon Dec 2 00:16:46 CST 2024
+Mon Dec 2 00:17:05 CST 2024
+Mon Dec 2 00:18:12 CST 2024
+删除homegirl 
