@@ -305,3 +305,9 @@ Sun Dec 1 16:18:16 CST 2024
 Sun Dec 1 16:32:16 CST 2024
 Sun Dec 1 16:32:26 CST 2024
 Sun Dec 1 16:33:43 CST 2024
+Sun Dec 1 16:46:47 CST 2024
+Sun Dec 1 16:46:57 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.fAf8ei1bq1hTkx5UaHHayYd2AcEUPLQMLJNiFe2x0BTybhu8QCMZ6oM1rDqcHkvc5IW1qM-xEP3mnwzNMFCWs3cOPpGG5jQMkBi-9Hrxn8ZzyCbo2ipF7-xXh9YXhZIE
+Sun Dec 1 16:48:20 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除cecilia0903 
