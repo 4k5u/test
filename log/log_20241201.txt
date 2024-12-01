@@ -395,3 +395,9 @@ Sun Dec 1 20:18:56 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除sigmasian 
 删除tyy750ii 
+Sun Dec 1 20:31:51 CST 2024
+Sun Dec 1 20:32:13 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6ZkMswCaYSVCxoctAXcYPAtHes7MtXFzT4XCXt3QVj3g7wFHtHtZV4InV2K1txxVvtd1E7seR9yzzRX8Be7ihmLlOAtXSHd-p73jd2OP_k9FafipN9RnsgK1KEZ7hImW
+Sun Dec 1 20:33:21 CST 2024
+删除foxylovesyou 
+删除happyy2 
