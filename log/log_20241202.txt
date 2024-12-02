@@ -231,3 +231,7 @@ Mon Dec 2 13:33:22 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除jjine0127 
 删除akakak11112 
+添加amilia4u https://edge14-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-542156022151508d5703065a89714ecf51b6009c4de1b08b8f463ec7d80c1ed0_trns_h264/playlist.m3u8
+Mon Dec 2 13:46:47 CST 2024
+Mon Dec 2 13:46:55 CST 2024
+Mon Dec 2 13:48:22 CST 2024
