@@ -283,3 +283,9 @@ Mon Dec 2 16:33:30 CST 2024
 Mon Dec 2 16:46:45 CST 2024
 Mon Dec 2 16:46:55 CST 2024
 Mon Dec 2 16:48:19 CST 2024
+Mon Dec 2 17:01:47 CST 2024
+Mon Dec 2 17:01:57 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IlGClLiI5zwBrOLvb0y7bRIct7NZwvb0JqAGVD1ORS5eqWmMJneicObpqStujeze1Oq1nEH9w3uWAvORo_sx0GxWicyzwZmdmJCFNAqFNBwrgIljvPcuN4_XKuQioyA1
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uXt7ZmRIal3idT7AULnOpTNVsdhJUusmutxFKnVSYNkblwjj2srkK9jhCltSYz4Rw7rHCPp5A-qT1Hu9Dn9YHJf1B9NXLoZoP-4Us5PSWFagaZ4t95-3XN4wam_miUeS
+Mon Dec 2 17:03:35 CST 2024
+删除glglehddl 
