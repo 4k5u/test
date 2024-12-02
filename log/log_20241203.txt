@@ -43,3 +43,11 @@ Tue Dec 3 02:03:12 CST 2024
 删除LOVE-Juan520- 
 删除ksb0219 
 删除Ryo-sama 
+添加kiyoko_rin https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-64050fef67a0e88d0dea74bd50cfb6382275ec7bab6cb9efc8e582b9cc0afefa_trns_h264/playlist.m3u8
+Tue Dec 3 02:16:50 CST 2024
+Tue Dec 3 02:16:56 CST 2024
+Tue Dec 3 02:18:08 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除sol3712 
+删除San___San 
