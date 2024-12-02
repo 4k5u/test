@@ -361,3 +361,9 @@ Mon Dec 2 20:32:25 CST 2024
 Mon Dec 2 20:33:27 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除sigmasian 
+Mon Dec 2 20:46:47 CST 2024
+Mon Dec 2 20:47:18 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dkQ8I2vnG6IUu-gKNAGSMvtF1ljuP_aQOH8y-ddxjMbWBvsRL8DgQnqAivaSKDx8QKG59x9dbw7uaZ268t6MOpKny2pecHKFMX8kvbWcf1FGP09RiRIHBP6moCxUAap2
+Mon Dec 2 20:48:27 CST 2024
+删除somsom0339 
+删除amilia4u 
