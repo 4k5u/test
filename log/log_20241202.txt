@@ -214,3 +214,7 @@ Mon Dec 2 12:31:55 CST 2024
 Mon Dec 2 12:32:10 CST 2024
 Mon Dec 2 12:33:30 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Dec 2 12:46:52 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RTEyRUJDRC02MTIxLTQ5ODEtODAzRi1GQkI5MEEwQjZCNUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ4NjQ1NjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzExNDgxNSwiZXhwIjoxNzMzMTE1NDE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GFoDRg0gz-iRgd-bi70TGi4no88CiJW6hAsIo4nRPJXm9TsmZFXU-ywJIBLHN0FR8k_Duig96X-29IWIkJ3WQJD1UXlOICT_tRMQZzt_kVqmVcouNTAvSuDSd00RW5Pp
+Mon Dec 2 12:47:09 CST 2024
+Mon Dec 2 12:48:32 CST 2024
