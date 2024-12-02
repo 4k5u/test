@@ -4,4 +4,3 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf8730f1de5c24ec2587ae9bbe7a3eb477172a534546de497f02ef0f60c1c1f3_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-64050fef67a0e88d0dea74bd50cfb6382275ec7bab6cb9efc8e582b9cc0afefa_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.NXz-tVV77OBtSyu4cyEklXY6TCZdavf5KV58uTnixD6vt1q2Jer_Wd_mn8pcLGLhwotDQf5ZgJVkTpRQG_JQ33uU9GYgqrApjRY3l4OQ9hJaVAgssFAGhQ9L3pzI5bwR
