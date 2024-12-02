@@ -4,4 +4,5 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 kiyoko_rin   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-64050fef67a0e88d0dea74bd50cfb6382275ec7bab6cb9efc8e582b9cc0afefa_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f012f6e4f999889d1b706b1db659f1bbfd616507cdfe19ff01d934b97a574439_trns_h264/playlist.m3u8
-San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6eee4301640a5df9003de7ba31682548ba58f57c6ad7c864e58b273854e04971_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

@@ -112,3 +112,9 @@ Tue Dec 3 06:03:09 CST 2024
 Tue Dec 3 06:16:44 CST 2024
 Tue Dec 3 06:16:44 CST 2024
 Tue Dec 3 06:18:05 CST 2024
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6eee4301640a5df9003de7ba31682548ba58f57c6ad7c864e58b273854e04971_trns_h264/playlist.m3u8
+Tue Dec 3 06:31:55 CST 2024
+Tue Dec 3 06:31:55 CST 2024
+Tue Dec 3 06:33:11 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除San___San 
