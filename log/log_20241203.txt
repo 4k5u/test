@@ -304,3 +304,7 @@ Tue Dec 3 17:31:46 CST 2024
 Tue Dec 3 17:32:09 CST 2024
 Tue Dec 3 17:33:23 CST 2024
 删除mode_bad 
+Tue Dec 3 17:46:49 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMEU4NEI0Ny0yQzQ3LTQzM0ItQTUwMS01MEFFRkU5QTM3RTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzIxOTIyMCwiZXhwIjoxNzMzMjE5ODIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ua2zTs-hWmmTL_XELiXpjzLqvboYJjmkxD9DiA-5gJvnk5Vce1bjwGcVJr1DI1GX2zm9CJW-xcVFjjsjhe2vq4I3OWV1Vo17hm2LuPH-DfWFBjgedi9ShquuaCd-jqW8
+Tue Dec 3 17:47:15 CST 2024
+Tue Dec 3 17:48:26 CST 2024
