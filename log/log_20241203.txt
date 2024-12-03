@@ -415,3 +415,11 @@ Tue Dec 3 22:18:31 CST 2024
 删除muse62 
 删除tyy750ii 
 删除gremmy 
+Tue Dec 3 22:31:54 CST 2024
+Tue Dec 3 22:32:21 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Tue Dec 3 22:33:25 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除honey_pinkgreen 
+删除kyul365 
+删除gremmy 
