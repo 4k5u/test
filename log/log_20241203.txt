@@ -438,3 +438,13 @@ Tue Dec 3 23:03:17 CST 2024
 删除eerttyui12 
 删除kkkku96 
 删除gremmy 
+Tue Dec 3 23:17:12 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RDJERTYzMi1BM0VCLTRFODgtOUIxNy1BQjUyNjc0MjdBQzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzIzOTAzNSwiZXhwIjoxNzMzMjM5NjM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Fsx1nPicB5y5umMLHA-yvfA5GFmEkHGwowz0Cv7eFAnSzfo_CD9cbVLc19wJrGrzzmqbe6c_kwyopICl20gvLeBivP0Jri-ljMYQnCi36iRJM7fj188SlTDo1OfecMAv
+Tue Dec 3 23:17:32 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Tue Dec 3 23:18:41 CST 2024
+删除green10004 
+删除alswl2208 
+删除ohhanna 
+删除bongbong486 
+删除gremmy 
