@@ -241,3 +241,7 @@ Tue Dec 3 14:03:28 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除jjine0127 
+Tue Dec 3 14:16:46 CST 2024
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MjM3RjJEMS1CMjI5LTQ4NDAtODY2MC0xNzMwNEQ4MEE0OTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzIwNjYxMywiZXhwIjoxNzMzMjA3MjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BUVTYwY5e0PGM9U8JOAvYnE_aa1BFAiryb4AMCf9GPYc5Ug0wo5IozWLGZtHgSxENKW-y2bePXsjaBQvUEzJ7pQPJcgYj446aB87gHUHy0V9DW-8f5GYotYtG2Xay4wC
+Tue Dec 3 14:17:00 CST 2024
+Tue Dec 3 14:18:26 CST 2024
