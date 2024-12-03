@@ -324,3 +324,7 @@ Tue Dec 3 18:32:09 CST 2024
 Tue Dec 3 18:33:24 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除iminako 
+Tue Dec 3 18:46:50 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQzdFRUYyMS05Q0MxLTRGMjgtQTA2Ny0wNERFQ0YwODI5MjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzIyMjgyNCwiZXhwIjoxNzMzMjIzNDI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.O5PfHl512vb3yyoPYshlnUocz1BcT9zbEelM1hTckKC6ui0OWVJhCcz5H0beuhlmaQQh4ppdILCMk9kC-YS7zdM6Yy7rP5dtJYc1RbpP0OxfEVmwUpHXPtxCb8HDGcLu
+Tue Dec 3 18:47:19 CST 2024
+Tue Dec 3 18:48:36 CST 2024
