@@ -21,3 +21,8 @@ Wed Dec 4 00:32:08 CST 2024
 Wed Dec 4 00:33:34 CST 2024
 删除eunyoung1238 
 删除gremmy 
+Wed Dec 4 00:46:45 CST 2024
+Wed Dec 4 00:46:53 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 00:48:23 CST 2024
+删除gremmy 
