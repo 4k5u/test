@@ -324,3 +324,9 @@ Wed Dec 4 18:17:03 CST 2024
 Wed Dec 4 18:18:30 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除mikio_san 
+Wed Dec 4 18:31:47 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwM0YzOUQ5NS0zMkY3LTRBNTEtODk2Ni0xQjkzQUY5ODlDQTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzMwODMxOCwiZXhwIjoxNzMzMzA4OTE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rq_gE3VKAXB2sb7QUul2RZdi4Q9mp7a5KohTGyj9RR4om5r27bP4ch0_gtwAZAkrHwUw8_g_0t_Xvv_GtRqRwqx22eqco6SGw8QHAHi8UhUR8-Y66ppZPraXHsZbkKGw
+Wed Dec 4 18:32:03 CST 2024
+Wed Dec 4 18:33:22 CST 2024
+删除oki_dokie 
+删除sigmasian 
