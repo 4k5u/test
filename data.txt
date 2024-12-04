@@ -6,3 +6,4 @@ oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-221c0f4
 kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-23d9e5727b86f38adf2f8367bda16bfc7cce6e6c5aa0857b8531c1a730bdff15_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0WNnbBbP8p0odd6dPbdEfKN3xgbSge7kx3jpMy9-cvZZRB1KmhuJpT-1r4Gy5ju284rBmSXLTiyFZEvCLjngc7d2XKBxdcTLLgR_1463cK2F2uEWZJ8rcx6O7xDc_nxV
+my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ce03b991241e2a8ea4c4f6a08032d5bd3c169e6ae513d3c2085162835f6f3e39_trns_h264/playlist.m3u8
