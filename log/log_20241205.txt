@@ -64,3 +64,12 @@ Thu Dec 5 02:18:52 CST 2024
 删除nobleinc 
 删除cecilia0903 
 删除gusdk2362 
+Thu Dec 5 02:31:48 CST 2024
+Thu Dec 5 02:31:56 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Thu Dec 5 02:33:26 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除dks2003 
+删除LOVE-Juan520- 
+删除Asia-Lynn 
+删除gusdk2362 
