@@ -390,3 +390,9 @@ Wed Dec 4 20:32:22 CST 2024
 Wed Dec 4 20:33:25 CST 2024
 删除172----95----student 
 删除alswl2208 
+Wed Dec 4 20:47:15 CST 2024
+Wed Dec 4 20:47:43 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 20:48:41 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除alswl2208 
