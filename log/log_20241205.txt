@@ -48,3 +48,12 @@ Thu Dec 5 01:47:33 CST 2024
 Thu Dec 5 01:48:48 CST 2024
 删除soso621 
 删除o111na 
+添加kiyoko_rin https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-23d9e5727b86f38adf2f8367bda16bfc7cce6e6c5aa0857b8531c1a730bdff15_trns_h264/playlist.m3u8
+Thu Dec 5 02:01:49 CST 2024
+Thu Dec 5 02:02:01 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+Thu Dec 5 02:03:33 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除rud9281 
+删除saone451 
+删除gusdk2362 
