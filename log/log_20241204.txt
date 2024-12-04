@@ -415,3 +415,10 @@ Wed Dec 4 21:32:31 CST 2024
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 Wed Dec 4 21:33:36 CST 2024
 删除alswl2208 
+Wed Dec 4 21:47:22 CST 2024
+Wed Dec 4 21:48:00 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Wed Dec 4 21:48:58 CST 2024
+删除LOVE-Juan520- 
+删除ohhanna 
+删除alswl2208 
