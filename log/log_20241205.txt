@@ -3,3 +3,13 @@ Thu Dec 5 00:02:22 CST 2024
 Thu Dec 5 00:03:28 CST 2024
 删除kjjeong0609 
 删除cecilia0903 
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-221c0f488f57ed1ef4a4d95d7ae016a5794d8398209e213e32a5041c8006debc_trns_h264/playlist.m3u8
+Thu Dec 5 00:16:52 CST 2024
+Thu Dec 5 00:17:22 CST 2024
+Thu Dec 5 00:18:30 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除Asia-Lynn 
+删除tess00 
+删除jodong2 
+删除starsh2802 
+删除imissy0u 
