@@ -238,3 +238,8 @@ Wed Dec 4 13:16:52 CST 2024
 Wed Dec 4 13:18:19 CST 2024
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除oki_dokie 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-273578de549ef2df11f10e3adfd4a26aac034f724655a87fa9be6341dabacb1e_trns_h264/playlist.m3u8
+Wed Dec 4 13:32:22 CST 2024
+Wed Dec 4 13:32:28 CST 2024
+Wed Dec 4 13:33:47 CST 2024
+删除kolll88 
