@@ -447,3 +447,12 @@ Thu Dec 5 20:19:27 CST 2024
 删除amilia4u 
 删除gremmy 
 删除navi04 
+Thu Dec 5 20:31:54 CST 2024
+Thu Dec 5 20:32:20 CST 2024
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kxQT8AilOTO9V_c8CGfFadwxUGhgQWd5VgSUC28Sp4sTcxTOk7hxTD43E4So2L4wQ0CjQC2DllxmxIwg-R4KXn2W6wRL7tm9Oy30pukDYvTNSsKxUzTiBzs6RgFNIVfA
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Thu Dec 5 20:33:33 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除foxylovesyou 
+删除somsom0339 
+删除navi04 
