@@ -367,3 +367,10 @@ Thu Dec 5 17:31:59 CST 2024
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
 Thu Dec 5 17:33:25 CST 2024
 删除navi04 
+Thu Dec 5 17:46:48 CST 2024
+Thu Dec 5 17:47:00 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Thu Dec 5 17:48:27 CST 2024
+删除ake_mi 
+删除akakak11112 
+删除navi04 
