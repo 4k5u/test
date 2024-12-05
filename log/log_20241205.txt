@@ -474,3 +474,7 @@ Thu Dec 5 21:17:45 CST 2024
 添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Fil764ikujES00M1XTQjlezLZjXGVqT8DssTldjaoozjVcqlN7m77trM_F2ZpR9w3-BW6eDyruZr24N73e9hVWOznpmJMqU0Q7pAa30GAFI7Ja-dkSWek-iLvxyn8-2g
 添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pOaq4cy8gPp1TxBGNhG2Kln6FRdgY5-LpWqukxuoH6ObVbau-wj9L-1KUi1EHY7TwnRkraBlPAWaCX1T_I-L8j6eNy8AB33ZvZIkMhrpL-CCbfVryapGE_H5dn4BWcGa
 Thu Dec 5 21:18:55 CST 2024
+Thu Dec 5 21:31:52 CST 2024
+Thu Dec 5 21:32:22 CST 2024
+Thu Dec 5 21:33:11 CST 2024
+删除glglehddl 
