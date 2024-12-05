@@ -385,3 +385,10 @@ Thu Dec 5 18:18:46 CST 2024
 删除kkkku96 
 删除oki_dokie 
 删除navi04 
+Thu Dec 5 18:31:53 CST 2024
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRERDODRGNy1GNTA5LTQzOUQtOTI3OS00NjdBMDA3MzczNzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzM5NDcyMiwiZXhwIjoxNzMzMzk1MzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Cz6LpVcpLd9nxxUHH0Hexc50eCMCi7FgnCMW-DB7E7I8fIQ8dI745vF8PrcPkWjX42pfj9QWwJgzTMFYZEaeappOaglFsVRIJJ6uVjLUJyO-8INFFEs7kBESrvg5Wl6P
+Thu Dec 5 18:32:13 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uHSpzqoU6EteGWsNYtq9JwHIgV3Na9NdSONptlI00gJdnBGu-SqoHes7BxKTJ2z6p8723khibJgkvAvYYr69vOJo0b2XSS7oUXwWKAeCa5kNdGIitfEYN8uvRDOULHd5
+Thu Dec 5 18:33:39 CST 2024
+删除navi04 
