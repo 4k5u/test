@@ -24,3 +24,4 @@ ee5844   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g8nnt3GXHFR4ih262A1xIN5PxUEhH6e4YVTCePdV_zMnoAsK1RpU3lQJkNziiayfyF3SnRWd6lSumydZeMOAEbFpfo8vOQH6GJyPGv3YcVm7wsxnmfF_Z2YXu7QbyAqx
 smmms2002   https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.kxQT8AilOTO9V_c8CGfFadwxUGhgQWd5VgSUC28Sp4sTcxTOk7hxTD43E4So2L4wQ0CjQC2DllxmxIwg-R4KXn2W6wRL7tm9Oy30pukDYvTNSsKxUzTiBzs6RgFNIVfA
 172----95----student   https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.22N_6McWpfViE0TTFgwwkc8SK5t4YOAGbxb5VuYUDThjZoUiuTSSsbncXpVvspZD9vxV-rTQ1wGlgS8I5C8FksFPHSYMGvfmGBGGWkBg7LmqllON1SwsplpsV06gIiD-

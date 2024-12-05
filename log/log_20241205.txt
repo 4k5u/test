@@ -456,3 +456,9 @@ Thu Dec 5 20:33:33 CST 2024
 删除foxylovesyou 
 删除somsom0339 
 删除navi04 
+Thu Dec 5 20:46:50 CST 2024
+Thu Dec 5 20:47:14 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.22N_6McWpfViE0TTFgwwkc8SK5t4YOAGbxb5VuYUDThjZoUiuTSSsbncXpVvspZD9vxV-rTQ1wGlgS8I5C8FksFPHSYMGvfmGBGGWkBg7LmqllON1SwsplpsV06gIiD-
+Thu Dec 5 20:48:36 CST 2024
+删除navi04 
