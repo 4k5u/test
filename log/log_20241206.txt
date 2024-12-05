@@ -78,3 +78,8 @@ Fri Dec 6 03:46:49 CST 2024
 Fri Dec 6 03:48:08 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除Asia-Lynn 
+Fri Dec 6 04:01:47 CST 2024
+Fri Dec 6 04:01:51 CST 2024
+Fri Dec 6 04:03:09 CST 2024
+删除alicelebel 
+删除cecilia0903 
