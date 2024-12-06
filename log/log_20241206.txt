@@ -295,3 +295,8 @@ Fri Dec 6 17:02:00 CST 2024
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.p3h4dLBlJSVDnXKwa_ntjJQyMl6QpKCL_nEeBymo3BheECMa-RdQuk9B9KAkgzHZqCgPhWSGP2-3uEt1HvELNpwLoGj59pfWug2ED54n-bOx85NHM9pAAUaSA9bpH8jV
 Fri Dec 6 17:03:27 CST 2024
 删除ake_mi 
+Fri Dec 6 17:16:54 CST 2024
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9PnMPq8BQptk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlQbk1QcThCUXB0ayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjRGRTlCNC0wODcwLTQwREMtOTMxNC04RkU0RUIxQjc5MUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzQ3NjYxNywiZXhwIjoxNzMzNDc3MjE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eBnwGTIYelTAZ_qhqe3jGEWSq-aJuH6N8T0uUpbtezL90Tdb72Xc726-T6NFm15YZAofIIS_ZLsUUBnFpgX-0978xQR7b7oWrwPinq7L82S8WJQEHPsnck76AodzAXMe
+Fri Dec 6 17:17:10 CST 2024
+Fri Dec 6 17:18:29 CST 2024
+删除LOVE-Juan520- 
