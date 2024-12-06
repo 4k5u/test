@@ -430,3 +430,11 @@ Fri Dec 6 23:33:31 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除San___San 
 删除cecilia0903 
+Fri Dec 6 23:46:55 CST 2024
+Fri Dec 6 23:47:22 CST 2024
+Fri Dec 6 23:48:25 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除na2ppeum 
+删除kkkku96 
+删除oki_dokie 
+删除Asia-Lynn 
