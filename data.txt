@@ -6,7 +6,6 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-019e37e456dd73cafec85d54ef4203c374b6ebcdc8fc766caed32f5d1f947b2d_trns_h264/playlist.m3u8
 ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-02cf6b704c8124705c4b66fe4bf537a6f155fff605b922163f69943f6cb50dd0_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 iminako   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-29b3f38112053a162e6c9c07c68202e7eb2dcd85cc04c2a9e7a13e9ce8bcd895_trns_h264/playlist.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f36ad9428f55506f8dbc0614214c1aecda6dfa85200e043000b689c9b997bea5_trns_h264/playlist.m3u8
@@ -14,3 +13,4 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEODQwNkE1Qy01OUM2LTQxMUItQkEwRS02RjJBM0Y3QzZGN0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzQ2NTg4MywiZXhwIjoxNzMzNDY2NDgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.r6dMmhiF2IFJoLpLAvk6LQIeFbGHr1u7o0MZ37E1sZ9ScSocepuTOCD0PL2G86uvFJTwp8wZDnhrJQ5vYjp2-JxJYFy2p1iGA4LCMLPdlETBO-PZHsIrzXpZOq_EMR9O
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
