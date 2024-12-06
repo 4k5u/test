@@ -201,3 +201,8 @@ Fri Dec 6 11:31:55 CST 2024
 Fri Dec 6 11:33:18 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除oki_dokie 
+添加_meganmeow_ https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-019e37e456dd73cafec85d54ef4203c374b6ebcdc8fc766caed32f5d1f947b2d_trns_h264/playlist.m3u8
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-02cf6b704c8124705c4b66fe4bf537a6f155fff605b922163f69943f6cb50dd0_trns_h264/playlist.m3u8
+Fri Dec 6 11:47:01 CST 2024
+Fri Dec 6 11:47:05 CST 2024
+Fri Dec 6 11:48:20 CST 2024
