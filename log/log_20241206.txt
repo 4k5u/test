@@ -215,3 +215,8 @@ Fri Dec 6 12:16:58 CST 2024
 Fri Dec 6 12:18:17 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除San___San 
+Fri Dec 6 12:31:52 CST 2024
+Fri Dec 6 12:31:56 CST 2024
+Fri Dec 6 12:33:18 CST 2024
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除hanny27 
