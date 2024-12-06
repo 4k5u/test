@@ -398,3 +398,9 @@ Fri Dec 6 22:17:23 CST 2024
 Fri Dec 6 22:17:52 CST 2024
 Fri Dec 6 22:18:45 CST 2024
 删除Asia-Lynn 
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9e29f53ce8af99fdbbe5d8f63a61cd35cfa77e426ad7c728bf02c9cf2242f07b_trns_h264/playlist.m3u8
+Fri Dec 6 22:32:52 CST 2024
+Fri Dec 6 22:33:20 CST 2024
+Fri Dec 6 22:34:24 CST 2024
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
