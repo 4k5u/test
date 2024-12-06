@@ -65,3 +65,10 @@ Sat Dec 7 03:03:24 CST 2024
 删除sol3712 
 删除LOVE-Juan520- 
 删除Angel-Bei-bei 
+Sat Dec 7 03:17:19 CST 2024
+Sat Dec 7 03:17:27 CST 2024
+Sat Dec 7 03:18:38 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除homegirl 
+删除lovesong2 
