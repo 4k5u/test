@@ -191,3 +191,8 @@ Fri Dec 6 11:01:54 CST 2024
 Fri Dec 6 11:01:58 CST 2024
 Fri Dec 6 11:03:20 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Fri Dec 6 11:17:03 CST 2024
+Fri Dec 6 11:17:07 CST 2024
+Fri Dec 6 11:18:33 CST 2024
+删除IdaJonesy 
+删除San___San 
