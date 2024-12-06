@@ -240,3 +240,8 @@ Fri Dec 6 13:47:21 CST 2024
 Fri Dec 6 13:47:26 CST 2024
 Fri Dec 6 13:48:42 CST 2024
 删除kolll88 
+Fri Dec 6 14:01:53 CST 2024
+Fri Dec 6 14:01:57 CST 2024
+Fri Dec 6 14:03:19 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
