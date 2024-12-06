@@ -49,3 +49,9 @@ Sat Dec 7 02:18:35 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除saone451 
 删除gusdk2362 
+Sat Dec 7 02:31:55 CST 2024
+Sat Dec 7 02:32:07 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yMrT9w1zrrsN7s6GucAuOkKSOWQ5mtCishl6LJ7EVU9r5uLQODKP_9xDaBRD_Mc9N_UPaRBn94RIc2mv0cG4NAwhidIyW752AfdStFBZDyWA9T_vGxUS3-k_zFd_NXqg
+Sat Dec 7 02:33:30 CST 2024
+删除soso621 
+删除cecilia0903 
