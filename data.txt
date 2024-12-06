@@ -6,3 +6,4 @@ oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9ab44d2
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-33d8b53e774d6796d8d4db058a6db28dd28f11569ca0ce12aec614ffc67269e3_trns_h264/playlist.m3u8
 cuddles_me   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-01f0f9257a3c60f52cf2c89e3a42a169baa1372e11aaa8287d95da40e5a96b98_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
