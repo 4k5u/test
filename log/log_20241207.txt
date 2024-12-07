@@ -493,3 +493,13 @@ Sat Dec 7 22:48:17 CST 2024
 添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MuPrFRbXuwjRCUtTvVZEDgZLbKcxcC0IqpcZ1Y1qx-Bd3BcViLtcBuVBNdp8okjpU0zUMS2E-1xqR7i_CLe1Xp3FV_a6yXfv8gQSzDpXj4XXXvlHcWK7egy7XL28qEfb
 Sat Dec 7 22:49:21 CST 2024
 删除rud9281 
+Sat Dec 7 23:02:21 CST 2024
+Sat Dec 7 23:02:41 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 23:03:37 CST 2024
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除dana9282 
+删除alswl2208 
+删除qwer00725 
+删除rud9281 
