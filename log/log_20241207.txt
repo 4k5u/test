@@ -375,3 +375,9 @@ Sat Dec 7 19:02:12 CST 2024
 Sat Dec 7 19:03:36 CST 2024
 删除oki_dokie 
 删除rud9281 
+添加honey_pinkgreen https://edge12-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-5b9eca14e140c5ef11b32c2f5c123fe2286d4a06ba2669da84dc182da150b831_trns_h264/playlist.m3u8
+Sat Dec 7 19:17:37 CST 2024
+Sat Dec 7 19:17:53 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 19:19:09 CST 2024
+删除rud9281 
