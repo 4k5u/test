@@ -461,3 +461,8 @@ Sat Dec 7 21:32:28 CST 2024
 Sat Dec 7 21:33:40 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除rud9281 
+Sat Dec 7 21:46:53 CST 2024
+Sat Dec 7 21:47:17 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 21:48:20 CST 2024
+删除rud9281 
