@@ -175,3 +175,11 @@ Sun Dec 8 05:03:47 CST 2024
 删除oki_dokie 
 删除rud9281 
 删除gusdk2362 
+添加mazzanti_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-6093e5fb086ba5f182216995f7326fde927a3fd83f40804e243306c4c91d4e39_trns_h264/playlist.m3u8
+Sun Dec 8 05:16:53 CST 2024
+Sun Dec 8 05:17:03 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 05:18:48 CST 2024
+删除rud9281 
+删除gusdk2362 
