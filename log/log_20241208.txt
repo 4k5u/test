@@ -108,3 +108,11 @@ Sun Dec 8 03:03:26 CST 2024
 删除smmms2002 
 删除rud9281 
 删除gusdk2362 
+Sun Dec 8 03:16:53 CST 2024
+Sun Dec 8 03:16:57 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 03:18:32 CST 2024
+删除Asia-Lynn 
+删除rud9281 
+删除gusdk2362 
