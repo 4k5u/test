@@ -63,3 +63,14 @@ Sun Dec 8 01:48:27 CST 2024
 删除starsh2802 
 删除rud9281 
 删除gusdk2362 
+Sun Dec 8 02:01:57 CST 2024
+Sun Dec 8 02:02:03 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 02:03:29 CST 2024
+删除pandaex 
+删除San___San 
+删除Angel-Bei-bei 
+删除mozzzi 
+删除rud9281 
+删除gusdk2362 
