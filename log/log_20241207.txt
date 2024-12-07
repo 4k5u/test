@@ -360,3 +360,9 @@ Sat Dec 7 18:31:51 CST 2024
 Sat Dec 7 18:32:08 CST 2024
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AFp6ChVkqXln74VJtnJPTXsmc8iwLWO7pm6p3R1YmwOdshJLF5LK9JN0d9b_ZLizkCwXGsK4ctivKsm8dIDtTsVkgqtmdVdE2_5Z_rYQroXF2jY6veoTKs1B6mnKw0M-
 Sat Dec 7 18:33:28 CST 2024
+Sat Dec 7 18:47:37 CST 2024
+Sat Dec 7 18:47:52 CST 2024
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UqS6vQEbfclU-kw3S0IGFkZz9786dXm-bfCTkcSZjR91HxFU-j8SNRIX7fY2RkafEnasLlqxwz73g3SAlEV_eEJA3OEwcZyy6AwWSZUIxmgzFJMZQ_g9DdWLWHgj5Dd5
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 18:49:18 CST 2024
+删除rud9281 
