@@ -24,3 +24,4 @@ hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_pla
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
