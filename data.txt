@@ -6,3 +6,4 @@ Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m
 _meganmeow_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f4bf9218ef6bdb02f22e137e90f5d5a389bed66b662bde4f396be199a12ca1d4_trns_h264/playlist.m3u8
 mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-92fa9d094643bdfd045048f2e8a9f3461c64164419c2d23c7cef85c2c6973e67_trns_h264/playlist.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8

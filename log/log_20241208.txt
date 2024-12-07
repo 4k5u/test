@@ -224,3 +224,9 @@ Sun Dec 8 06:31:50 CST 2024
 Sun Dec 8 06:33:22 CST 2024
 删除sssna777 
 删除rud9281 
+Sun Dec 8 06:46:52 CST 2024
+Sun Dec 8 06:46:54 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 06:48:25 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除rud9281 
