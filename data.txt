@@ -7,4 +7,4 @@ ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bb98ca5ee2bb
 iminako   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-798272139b7e2b29ea33db22fa4825af1cbcb6603e4d0f55d91460bb8aaed418_trns_h264/playlist.m3u8
 oki_dokie   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-de9b08740f5daa8c94025e4db3f34f8a1553575a1d2212617d792f5e0b0690b7_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
-IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+amilia4u   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b6399ae18128534adf1ea08f95c95e97da72715c7f7f71664427a10d9db37268_trns_h264/playlist.m3u8
