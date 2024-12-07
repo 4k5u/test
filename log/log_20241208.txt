@@ -150,3 +150,11 @@ Sun Dec 8 04:18:11 CST 2024
 Sun Dec 8 04:19:40 CST 2024
 删除rud9281 
 删除gusdk2362 
+Sun Dec 8 04:31:49 CST 2024
+Sun Dec 8 04:31:59 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 04:33:33 CST 2024
+删除y1026 
+删除rud9281 
+删除gusdk2362 
