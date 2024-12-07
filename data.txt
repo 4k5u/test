@@ -25,3 +25,4 @@ Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 ake_mi   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-daf6e5ca071deb4600d2a08ed964ad43fc635669f982f9c56fa671251555efa7_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8

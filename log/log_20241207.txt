@@ -512,3 +512,9 @@ Sat Dec 7 23:18:24 CST 2024
 删除kyul365 
 删除172----95----student 
 删除rud9281 
+Sat Dec 7 23:31:56 CST 2024
+Sat Dec 7 23:32:16 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 23:33:25 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除rud9281 
