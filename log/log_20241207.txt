@@ -298,3 +298,7 @@ Sat Dec 7 15:16:50 CST 2024
 Sat Dec 7 15:17:00 CST 2024
 Sat Dec 7 15:18:21 CST 2024
 删除sigmasian 
+Sat Dec 7 15:32:57 CST 2024
+Sat Dec 7 15:33:07 CST 2024
+Sat Dec 7 15:34:27 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
