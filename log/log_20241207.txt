@@ -302,3 +302,8 @@ Sat Dec 7 15:32:57 CST 2024
 Sat Dec 7 15:33:07 CST 2024
 Sat Dec 7 15:34:27 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sat Dec 7 15:46:52 CST 2024
+Sat Dec 7 15:47:02 CST 2024
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tQgYJD1XgGQ2t-1SBGYmBusyLOrGXEQDINMzr-tSjhZ5iM3ZTxIlc1eHAs2WYmArAvvgpISlS-_kQZgqp_seMNrJjASMQ8Y-7fz_Xc1_TYiclZ-9lDfb6JqWAlm3PjYV
+Sat Dec 7 15:48:30 CST 2024
+删除oki_dokie 
