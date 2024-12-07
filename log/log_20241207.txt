@@ -230,3 +230,11 @@ Sat Dec 7 12:01:56 CST 2024
 Sat Dec 7 12:02:00 CST 2024
 Sat Dec 7 12:03:15 CST 2024
 删除Dolv_1o 
+添加amilia4u https://edge6-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-b6399ae18128534adf1ea08f95c95e97da72715c7f7f71664427a10d9db37268_trns_h264/playlist.m3u8
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-de9b08740f5daa8c94025e4db3f34f8a1553575a1d2212617d792f5e0b0690b7_trns_h264/playlist.m3u8
+Sat Dec 7 12:16:58 CST 2024
+Sat Dec 7 12:17:03 CST 2024
+Sat Dec 7 12:18:15 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除kolll88 
