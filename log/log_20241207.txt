@@ -264,3 +264,8 @@ Sat Dec 7 13:31:51 CST 2024
 Sat Dec 7 13:31:58 CST 2024
 Sat Dec 7 13:33:19 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sat Dec 7 13:46:47 CST 2024
+Sat Dec 7 13:46:51 CST 2024
+Sat Dec 7 13:48:12 CST 2024
+删除oki_dokie 
+删除amilia4u 
