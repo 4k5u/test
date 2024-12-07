@@ -142,3 +142,11 @@ Sun Dec 8 04:03:41 CST 2024
 删除alicelebel 
 删除rud9281 
 删除gusdk2362 
+Sun Dec 8 04:17:58 CST 2024
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RDFDRjUwMi04QjZDLTRCNDYtQTI4Ni04RkQ1NzM5QTJENzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzYwMjY4NSwiZXhwIjoxNzMzNjAzMjg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pcfpLL9hdd6Ab-a45aX7fOo7KQKO8jCqNe7KWYPh_b4h_Y7HIqxOtgwz6rQd_LRtAnT-kz3hUyDDaOdl9QKietpawU-ym5RAOi2pSAgajY03f7LkUzN0kPWTUhUMoPzs
+Sun Dec 8 04:18:11 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 04:19:40 CST 2024
+删除rud9281 
+删除gusdk2362 
