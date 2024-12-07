@@ -442,3 +442,13 @@ Sat Dec 7 21:03:54 CST 2024
 Sat Dec 7 21:05:02 CST 2024
 删除rud9281 
 删除hanny27 
+Sat Dec 7 21:16:53 CST 2024
+Sat Dec 7 21:17:13 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Dec 7 21:18:22 CST 2024
+删除muse62 
+删除362540 
+删除leelate 
+删除rud9281 
+删除hanny27 
