@@ -9,3 +9,4 @@ eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_maste
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-71bd68cb8677f70b5ff4235a2a7a6c76d12a17c41c22d34c04b142bc2ee71cb1_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bb98ca5ee2bb2b61cd200bc950e73909429a593faf88f9ec6e8bd79cf5419ad4_trns_h264/playlist.m3u8
