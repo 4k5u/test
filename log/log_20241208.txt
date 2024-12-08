@@ -277,3 +277,9 @@ Sun Dec 8 08:32:25 CST 2024
 Sun Dec 8 08:33:47 CST 2024
 删除Sime_Naughty 
 删除rud9281 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dbaa8973653e6681e40ef38d2e1c3843dfa80f5d17fcf5d9d3a7c297e2729449_trns_h264/playlist.m3u8
+Sun Dec 8 08:47:55 CST 2024
+Sun Dec 8 08:47:59 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 08:49:31 CST 2024
+删除rud9281 
