@@ -514,3 +514,10 @@ Sun Dec 8 19:18:39 CST 2024
 Sun Dec 8 19:31:54 CST 2024
 Sun Dec 8 19:32:13 CST 2024
 Sun Dec 8 19:33:11 CST 2024
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6200bc54fabebb0a545a2f82d55c33abf3e820b57504d420087da2829abf7261_trns_h264/playlist.m3u8
+Sun Dec 8 19:47:52 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCN0Y2NDZCQy1FNThFLTRCRTItQTM4Ny0wMjkxQTY5RjQ2QUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY1ODQ4NSwiZXhwIjoxNzMzNjU5MDg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cc25ASZiJ6yuEDhRFpQ_ci0oERum73kL-wOjHeFnMNT2tfZTT66__6HVSkBkDfZuF96J78epwiW6F624jKBu5MX_D08-SBuUmvxaIisXe2Vn8W1vnpet3Vw7oPdZoIr7
+Sun Dec 8 19:48:14 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LCqEVkGcGsDspbMNtqgZIiwDaPTTfTj6SkTjvxnUZiVXV0U2EXNeSoPdWAICrWyZNa-5gr6HixUqfuNCWYjGeWLkyCWIQB9_mTQ8WZi7P1Ub9iQksFrkLgkY4uqCtPtr
+Sun Dec 8 19:49:14 CST 2024
+删除iminako 
