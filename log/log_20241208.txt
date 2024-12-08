@@ -549,3 +549,9 @@ Sun Dec 8 20:48:10 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除happyy2 
 删除navi04 
+Sun Dec 8 21:02:00 CST 2024
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qobGYBJqMAhF.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FvYkdZQkpxTUFoRiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RjUwMTIzNS1CMjhELTRFMzQtQTdERS01QTNEQUUyQjY1NjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY2MjkyNSwiZXhwIjoxNzMzNjYzNTI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CmSWVMWwDnyjN2Qdom_RyINLU3hC3DVbk3oho-xtyC0vZ9jYPtUBXIXQpaK331_zZP6XNtEq6cyhRBaJQNk6DvKHF2tyPaMRVe2UwF75IjNPGKbPCIPlqiM-mOYHyWj7
+Sun Dec 8 21:02:29 CST 2024
+Sun Dec 8 21:03:20 CST 2024
+删除muse62 
+删除Asia-Lynn 
