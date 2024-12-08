@@ -574,3 +574,12 @@ Sun Dec 8 21:46:53 CST 2024
 Sun Dec 8 21:47:27 CST 2024
 Sun Dec 8 21:48:23 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加galantini https://edge14-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-974e0b54379110e4b5e1fe7c0529a3523ac9950d6e05c76d861f7a7fea59708b_trns_h264/playlist.m3u8
+Sun Dec 8 22:01:57 CST 2024
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMUJCNDdGMC00MjE1LTRCNUMtQTNGMi1GM0JDRjE3NkE0QTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzY2NjU0OCwiZXhwIjoxNzMzNjY3MTQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9vbvHvRBGKr8qqL09zxnzkCWkT51Zb_veV5jJYkPbIVPqG5pbGUbbXVJGKmy0A7rd5TH37WHd1rfWWqiMdE7829ZBeYq0aQlRy95iHP8hSksKZNO1OWczSgbp7gEcOO7
+Sun Dec 8 22:02:31 CST 2024
+Sun Dec 8 22:03:26 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除smmms2002 
+删除alswl2208 
+删除dana9282 
