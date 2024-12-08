@@ -374,3 +374,9 @@ Sun Dec 8 12:32:22 CST 2024
 Sun Dec 8 12:33:44 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除rud9281 
+Sun Dec 8 12:46:50 CST 2024
+Sun Dec 8 12:46:54 CST 2024
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Dec 8 12:48:25 CST 2024
+删除Sime_Naughty 
+删除rud9281 
