@@ -7,3 +7,4 @@ nemu00   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-7841b9833cc580f1b42cbc2d53523cfa67a400b5394b131b561eacb6b14dc98f_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 intim_mate   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c2f1d879352646499825d7c3bf0f0d8f37eae878f9727c11dcdf1e95130cc24b_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
