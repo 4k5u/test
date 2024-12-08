@@ -4,3 +4,5 @@ LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_a
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9331682c944d05db1d1e5abd3d12ce96ba973dc7a053e256228ccfd5aa4b79dc_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-f59ee07a8a2edbc74a9265ca425b1009cd69be5325d296024f4a0fc457f8ff58_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c13460d484efdc30490e41138f5852174743d2ca141c09bf54225e4008290490_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ffa6c0317fbe768cdd882eca2aef68c50e18c1544ddd8a31f21cf1aa3142f7e6_trns_h264/playlist.m3u8
