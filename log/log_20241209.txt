@@ -405,3 +405,8 @@ Mon Dec 9 21:18:57 CST 2024
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除oki_dokie 
 删除yin2618 
+Mon Dec 9 21:31:57 CST 2024
+Mon Dec 9 21:32:31 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Dec 9 21:33:24 CST 2024
+删除yin2618 
