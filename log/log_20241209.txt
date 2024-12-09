@@ -439,3 +439,12 @@ Mon Dec 9 22:18:36 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除muse62 
 删除yin2618 
+Mon Dec 9 22:32:34 CST 2024
+Mon Dec 9 22:33:12 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Dec 9 22:34:04 CST 2024
+删除somsom0339 
+删除lovable12 
+删除acac88 
+删除dks2003 
+删除yin2618 
