@@ -387,3 +387,9 @@ Mon Dec 9 20:47:44 CST 2024
 Mon Dec 9 20:48:47 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除yin2618 
+Mon Dec 9 21:01:59 CST 2024
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MDUyQzRBMS05QzI1LTQ3OUItQThDQi1FMkI2QkM5QTlEMjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzc0OTMyOCwiZXhwIjoxNzMzNzQ5OTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-xCAp9b1aEgNljQdjH-B56Rdp9WbXvk2OUGAL72ZtJaxn2GJHXpYkrHQbm-cl4-KKl5XYjzkEhGPLiQuTqSKKYbFgOYJJCXGuVy2E7m1ZmAAONTibk1ZdAM9u5tX8ow_
+Mon Dec 9 21:02:32 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Dec 9 21:03:32 CST 2024
+删除yin2618 
