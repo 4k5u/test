@@ -5,3 +5,5 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Hm0HzJl3ZXdQFFeVcrrJde0UaQ_uE7_W6c0mfQweejFWsqywsyYMRQjEcgu1kApsxow9bJA30Yp6ZgaCwJtNiupGpLL5_uU8Aq-EDXNjYebnphyr51pZs4W4mP2K41jD
 ake_mi   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-708e9eb1003375fb464c407a8cdaa15d5c1f3f10158e0b72db46c4d197499c12_trns_h264/playlist.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-45fabaf47f0d83674e2279d0de272c065f4b3e62b67c53c156b9903f13eb70fc_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
