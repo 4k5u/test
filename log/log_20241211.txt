@@ -66,3 +66,10 @@ Wed Dec 11 02:48:26 CST 2024
 删除glglehddl 
 删除rico0210 
 删除gusdk2362 
+Wed Dec 11 03:01:56 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOUE4RTAyOS1CRjYyLTQ4NDUtQTkzMC03Q0E5MjIwN0MxMjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzg1NzMyMywiZXhwIjoxNzMzODU3OTIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BEqFECBVhVIsVldEyxyWWnVuSrm9GMCIRB0yHwweD69pqZmAIg-fAzd71g33zcmgEu78HNdy3duAbWm-zMb7kB710-VbPn4rNKh6SwKmFHBbfhmFJRDhNlszLyZAlPzg
+Wed Dec 11 03:02:09 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 03:03:36 CST 2024
+删除akakak11112 
+删除gusdk2362 
