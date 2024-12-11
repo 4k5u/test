@@ -40,3 +40,13 @@ Thu Dec 12 01:48:31 CST 2024
 删除dign1461 
 删除chuing77 
 删除saone451 
+添加kiyoko_rin https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-dbdf502f56dd6688930f91c34ef62140becc23dccabfd3e6051917c0193580b7_trns_h264/playlist.m3u8
+Thu Dec 12 02:02:24 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NDhGMEM2Ni02ODYwLTRCQjEtODQ0Ny02QzUxMjdEQjIwQjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzk0MDE1MywiZXhwIjoxNzMzOTQwNzUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bAbTjbraIZrRIJaoBvz2NDvG3X_SSJMJWh_cvL9o-unIEzzCW6_bUNyjKKze2azjZWRQEAbxbleQmOBCf7EYQBrYip04OZ02U92GkxLMSeak1vpbmPivrbW3wjmj2F5k
+Thu Dec 12 02:02:41 CST 2024
+Thu Dec 12 02:03:58 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除imanatural 
+删除yin2618 
+删除Asia-Lynn 
