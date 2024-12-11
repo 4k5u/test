@@ -11,7 +11,7 @@ password="$PASSWORD"
 m3u8site="$M3U8SITE"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
-userIds="rvn1015 smmms2002 feet0100 dana9282 Tmdgus5411 navi04 alswl2208 jeehyeoun lolsos asianbunnyx leelate gremmy y1026 kkkku96 rud9281 somsom0339 eunyoung1238 dign1461 gusdk2362 sol3712 m0m099 namuh0926 kjjeong0609 flower1023 hanny27 glglehddl yin2618";
+userIds="dreamch77 yeonnacho rvn1015 smmms2002 feet0100 dana9282 Tmdgus5411 navi04 alswl2208 jeehyeoun lolsos asianbunnyx leelate gremmy y1026 kkkku96 rud9281 somsom0339 eunyoung1238 dign1461 gusdk2362 sol3712 m0m099 namuh0926 kjjeong0609 flower1023 hanny27 glglehddl yin2618";
 #
 #afreeca gusdk2362  sol3712 m0m099  namuh0926  m0m099
 #pop162cm
