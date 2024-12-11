@@ -455,3 +455,13 @@ Wed Dec 11 21:34:02 CST 2024
 删除ohhanna 
 删除alswl2208 
 删除yin2618 
+添加your_desssert https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-77ff555b43e6dceb89f1edb7ce6f7e6847d421c35db6f6d8e5ccc4f799dea45e_trns_h264/playlist.m3u8
+Wed Dec 11 21:47:11 CST 2024
+Wed Dec 11 21:47:58 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 21:49:09 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除mikio_san 
+删除alswl2208 
+删除yin2618 
