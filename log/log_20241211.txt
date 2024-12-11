@@ -443,3 +443,15 @@ Wed Dec 11 21:19:09 CST 2024
 添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 删除alswl2208 
 删除yin2618 
+Wed Dec 11 21:32:00 CST 2024
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFOEQzQTQ3RC1CODc5LTREOTgtOTZCRS0wQjhERDcyMzAwM0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzkyMzkzMSwiZXhwIjoxNzMzOTI0NTMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0NTaoY7v-tLaZ8FpjUNU-loluug593kuaIlgy_f6l4C0LtUcBblDVeZChp1GEl9RQlmitI0MhNvRbfnlO0Ft_d3axOl2yXlThYoTBD4zr50_1l6vU4IZC4MOfC7GbHO0
+Wed Dec 11 21:32:50 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 21:34:02 CST 2024
+删除Asia-Lynn 
+删除lovable12 
+删除zzeongi2 
+删除ohhanna 
+删除alswl2208 
+删除yin2618 
