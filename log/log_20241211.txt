@@ -346,3 +346,9 @@ Wed Dec 11 18:34:40 CST 2024
 删除oki_dokie 
 删除ake_mi 
 删除iminako 
+Wed Dec 11 18:47:55 CST 2024
+Wed Dec 11 18:48:18 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 18:49:35 CST 2024
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除alswl2208 
