@@ -434,3 +434,12 @@ Wed Dec 11 21:04:14 CST 2024
 删除ddooyaa 
 删除dana9282 
 删除alswl2208 
+Wed Dec 11 21:17:03 CST 2024
+添加dmsdms1247 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I8orYrw2LIdl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k4b3JZcncyTElkbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNzk3QjBEQy03NDA5LTRBRkQtQTUwQy01OEZGNTI3QUNFRjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzkyMzA1MiwiZXhwIjoxNzMzOTIzNjUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AMYyJHUrnpW5vlJPEx53zZ76xo0CLzw0mEh1p-RjrWXJYdKob1VWvO4uj-Fy0f0W1BSF-A4nrOQblzNUFCR-Lvd2q8kD6w05PA75Oiwx6bDjCpbt4IP9kGUmUm8gDBms
+Wed Dec 11 21:17:57 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 21:19:09 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+删除alswl2208 
+删除yin2618 
