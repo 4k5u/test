@@ -373,3 +373,8 @@ Wed Dec 11 19:17:57 CST 2024
 Wed Dec 11 19:19:11 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除alswl2208 
+Wed Dec 11 19:32:09 CST 2024
+Wed Dec 11 19:32:35 CST 2024
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 19:33:48 CST 2024
+删除alswl2208 
