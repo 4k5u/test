@@ -495,3 +495,14 @@ Wed Dec 11 22:34:04 CST 2024
 删除rico0210 
 删除alswl2208 
 删除yin2618 
+Wed Dec 11 22:46:59 CST 2024
+Wed Dec 11 22:47:40 CST 2024
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6lQEGWvt80IyZwXtsRy0ZapzArz5Bb9n2d4t4IW5MzKa7-RqwINs7tYvytx-_MbZkYl5W1lg228bBDFhLYF0wwBxwjarr-45dSaMf-CQJlKG372TCLw7aZNgi15RG6XE
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Dec 11 22:48:48 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除jodong2 
+删除muse62 
+删除LOVE-Juan520- 
+删除Asia-Lynn 
+删除yin2618 
