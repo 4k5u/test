@@ -36,3 +36,9 @@ Fri Dec 13 01:33:36 CST 2024
 Fri Dec 13 01:46:56 CST 2024
 Fri Dec 13 01:47:12 CST 2024
 Fri Dec 13 01:48:34 CST 2024
+添加kiyoko_rin https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-6cea4efc25910a801bfffd90dfe262031dc0bd0ffe575e46ec27c2b4ac0a5bcb_trns_h264/playlist.m3u8
+Fri Dec 13 02:01:58 CST 2024
+Fri Dec 13 02:02:12 CST 2024
+Fri Dec 13 02:03:29 CST 2024
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除chuing77 
