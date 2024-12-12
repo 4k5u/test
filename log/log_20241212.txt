@@ -262,3 +262,9 @@ Thu Dec 12 13:33:49 CST 2024
 删除mikio_san 
 删除IdaJonesy 
 删除sigmasian 
+Thu Dec 12 13:46:52 CST 2024
+Thu Dec 12 13:46:59 CST 2024
+Thu Dec 12 13:48:23 CST 2024
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除dreamch77 
