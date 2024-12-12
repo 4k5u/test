@@ -29,3 +29,7 @@ Fri Dec 13 01:18:37 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除saone451 
 删除San___San 
+Fri Dec 13 01:32:06 CST 2024
+Fri Dec 13 01:32:22 CST 2024
+Fri Dec 13 01:33:36 CST 2024
+添加LOVE-Juan520- https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
