@@ -242,3 +242,7 @@ Thu Dec 12 12:33:24 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除dkdlfjqm758 
+Thu Dec 12 12:46:49 CST 2024
+Thu Dec 12 12:46:53 CST 2024
+Thu Dec 12 12:48:18 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
