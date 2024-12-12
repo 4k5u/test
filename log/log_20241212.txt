@@ -268,3 +268,8 @@ Thu Dec 12 13:48:23 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除dreamch77 
+Thu Dec 12 14:01:50 CST 2024
+添加sssna777 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.o9iClHICQg9W.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL285aUNsSElDUWc5VyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MTJFRTY4QS01QjVCLTQ0N0ItODU2MS0zNzg3MTA3NTI4NEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczMzk4MzMxMSwiZXhwIjoxNzMzOTgzOTExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.D3l3_AzPqY5q-gyIVsokLDJ_0iIAzr_N-bOS6yff2m-jlhdoOqSGGmXWROzZ4cUbjzYRQi3VejwsWEY2EDiGTFmzAlOFliDeTdgevdqCe4ZOWGGpoHL0tPMqd7ax5j5_
+Thu Dec 12 14:02:00 CST 2024
+Thu Dec 12 14:03:26 CST 2024
+删除intim_mate 
