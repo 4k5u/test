@@ -256,3 +256,9 @@ Thu Dec 12 13:17:02 CST 2024
 Thu Dec 12 13:18:26 CST 2024
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除amilia4u 
+Thu Dec 12 13:32:26 CST 2024
+Thu Dec 12 13:32:32 CST 2024
+Thu Dec 12 13:33:49 CST 2024
+删除mikio_san 
+删除IdaJonesy 
+删除sigmasian 
