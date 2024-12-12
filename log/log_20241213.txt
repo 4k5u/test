@@ -22,3 +22,10 @@ Fri Dec 13 01:02:14 CST 2024
 Fri Dec 13 01:03:38 CST 2024
 删除San___San 
 删除ad0res 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-37c3cc07ae39fb806fe267882d73029e77de98742412951285d085f021d1d50d_trns_h264/playlist.m3u8
+Fri Dec 13 01:17:00 CST 2024
+Fri Dec 13 01:17:16 CST 2024
+Fri Dec 13 01:18:37 CST 2024
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除saone451 
+删除San___San 
