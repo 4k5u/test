@@ -287,3 +287,11 @@ Thu Dec 12 14:48:30 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除tyy750ii 
 删除iminako 
+添加galantini https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-a836a8e41db8616e361756d330d222a04b35c46fb539d6191d1426e33373566e_trns_h264/playlist.m3u8
+添加iminako https://edge9-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-d1d7c86f2b0e8ef6eef13c23a3b12db5b3f5a8f00446e99adda70eb2640493d4_trns_h264/playlist.m3u8
+Thu Dec 12 15:01:57 CST 2024
+Thu Dec 12 15:02:05 CST 2024
+Thu Dec 12 15:03:29 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除_meganmeow_ 
