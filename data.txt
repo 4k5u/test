@@ -15,3 +15,5 @@ galantini   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-a836a8
 iminako   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-d1d7c86f2b0e8ef6eef13c23a3b12db5b3f5a8f00446e99adda70eb2640493d4_trns_h264/playlist.m3u8
 grandeeney   https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+oki_dokie   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8e66e1d5920da117d66f7f0e19a85305c7d37d961cb12c10c5343ee49b3ac5c9_trns_h264/playlist.m3u8
+Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
