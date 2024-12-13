@@ -11,3 +11,5 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 ake_mi   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f910be37ec7e52a01e465d9df9d72b19322daa4c39377a16a68c8341a629eadc_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-8c9f6e41c8cd292a3301eb20cfa8bec6c78c10ce71b56c375103595301808d53_trns_h264/playlist.m3u8
+cuddles_me   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-bc59a24cd37de7ee76c7da7d3a59c99208a1f23299c092c027329d0169fc0b39_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
