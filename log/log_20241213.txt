@@ -145,3 +145,7 @@ Fri Dec 13 08:16:52 CST 2024
 Fri Dec 13 08:16:56 CST 2024
 Fri Dec 13 08:18:26 CST 2024
 删除Sime_Naughty 
+添加oda_assuri https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5635126e845becd8ef3783d552b7d83f4448f909f98d0343df9a5f2fe5d05a3f_trns_h264/playlist.m3u8
+Fri Dec 13 08:31:54 CST 2024
+Fri Dec 13 08:31:58 CST 2024
+Fri Dec 13 08:33:28 CST 2024
