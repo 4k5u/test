@@ -7,3 +7,5 @@ oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5635
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 intim_mate   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-d052f296c4f99bd0665ac1bfbcafd850b2a5748db6f4571b1b236f1cfda5d2f4_trns_h264/playlist.m3u8
+eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._27nwZTEzfQUuDaMdgC7p6-wDxMvDEjqR555RBwlJPazSyhBrcNk0ttT4Hmi_CeRZcnBAr3LDo5HYaVvanoLk9lJNOgqUM2JZa2Au9EgC8fTBa1up6zGGqUF0jynm9qr
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
