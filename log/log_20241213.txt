@@ -396,3 +396,9 @@ Fri Dec 13 20:33:33 CST 2024
 Fri Dec 13 20:46:56 CST 2024
 Fri Dec 13 20:47:28 CST 2024
 Fri Dec 13 20:48:27 CST 2024
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d7b8138b38d9979d30ddefed9b5915b137ea8d530532bd110a7a427f08a72ddc_trns_h264/playlist.m3u8
+Fri Dec 13 21:01:59 CST 2024
+Fri Dec 13 21:02:31 CST 2024
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GRfapxBAS1DOsVdjEBSdYh7GDMhYTWY7ZDFMp275e-WCreqG80uorvBp9HJI96n-ft8yGxr_0szw8xnayYARJ7yYb7Qbpltf_XAcSmsBFm_dJu9KzxR-VpR4p8oGKJLg
+Fri Dec 13 21:03:36 CST 2024
+删除mode_bad 
