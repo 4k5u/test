@@ -35,3 +35,5 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 gremmy   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ijKZbRbss2I_L3Z63ewtqlWt8rKxv3A_PGCx-LMcptnfLG3Xf3ZR7MHbd0VU03HkD_AYcHAKJapTFEZOmtYcVdHRG1rktswhuZD3y70xqSO_ZpXh72-CAvdtawrNfEmA
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+galantini   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-c4a1a174fedf529da37eb62fceab8b668a428c38e46dd56edbfa0a4608ee670b_trns_h264/playlist.m3u8
+honey_pinkgreen   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-b63f41f70dc88b9d40e30fd7ff778d7a2b19e7562156d2f7f55f1f4505ec5da5_trns_h264/playlist.m3u8
