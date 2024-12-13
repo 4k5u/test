@@ -371,3 +371,11 @@ Fri Dec 13 19:48:36 CST 2024
 添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
 删除ad0res 
 删除your_desssert 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f3e4a86cef04ec7abe0b23a881b99e4fbcddd1427f019a0ead927400a3b44fe1_trns_h264/playlist.m3u8
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b3d94c4784f26cc5da2da7df628e0fd1487ee78f7819f3e576c40cec92be870b_trns_h264/playlist.m3u8
+Fri Dec 13 20:02:01 CST 2024
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RjYyOTg5Ni03RDdBLTRDOTUtQTkzQi04NDc3MTFFMEUzM0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDA5MTMzNiwiZXhwIjoxNzM0MDkxOTM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Ispj5HBt0SNKesrWaH6cDPZcCVTy97mwrED0SqWBrtDm2yKblM172b6wwaSBJ66nahr1sbgXPzZ3YSb3Zdc-TU515nMgCv0Tt5d_kxuSAfugjt0KpqPcm1unSDT9CT5N
+Fri Dec 13 20:02:29 CST 2024
+Fri Dec 13 20:03:32 CST 2024
+删除happyy2 
+删除kkkku96 
