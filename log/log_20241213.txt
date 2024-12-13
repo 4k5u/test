@@ -356,3 +356,9 @@ Fri Dec 13 19:17:04 CST 2024
 Fri Dec 13 19:17:33 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.a2MxfcJqvvu8ihZXqkzn1y2uoW2d9JYT4084_e-YeXBkoeF1MsW_33wujDcMupxW_0YDGE9qIE5YzKThVvYX10O3CQmiDJRQCPQLewQR7OsyTJseaWBVTEFlhM1tbul8
 Fri Dec 13 19:18:39 CST 2024
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f3e4a86cef04ec7abe0b23a881b99e4fbcddd1427f019a0ead927400a3b44fe1_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b3d94c4784f26cc5da2da7df628e0fd1487ee78f7819f3e576c40cec92be870b_trns_h264/playlist.m3u8
+Fri Dec 13 19:31:56 CST 2024
+Fri Dec 13 19:32:18 CST 2024
+Fri Dec 13 19:33:22 CST 2024
+删除Angel-Bei-bei 
