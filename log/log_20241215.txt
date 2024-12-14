@@ -120,3 +120,8 @@ Sun Dec 15 06:02:50 CST 2024
 Sun Dec 15 06:02:56 CST 2024
 Sun Dec 15 06:04:15 CST 2024
 删除y1026 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-50ff7a5095e156bc9cbb9ab7dcc6361426ef3796439f3af97ebb124d0882e057_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-af110b83b76d14ff07e1e52e284837dafc24f12ff0fab5a5cd4f52aea1e47dbf_trns_h264/playlist.m3u8
+Sun Dec 15 06:17:04 CST 2024
+Sun Dec 15 06:17:10 CST 2024
+Sun Dec 15 06:18:37 CST 2024
