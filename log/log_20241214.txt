@@ -402,3 +402,9 @@ Sat Dec 14 19:33:27 CST 2024
 Sat Dec 14 19:46:55 CST 2024
 Sat Dec 14 19:47:19 CST 2024
 Sat Dec 14 19:48:28 CST 2024
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c79600373cfdebdb3d72130632a9630537ad9cf2817602107a8736310de994c2_trns_h264/playlist.m3u8
+Sat Dec 14 20:01:58 CST 2024
+Sat Dec 14 20:02:22 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.asxRgXP1QCUL1rSbdBGLyMvCARcLVQNguO24K3kdf65PEi4dit1Ix4Ld_X9PB0qk8kHtkeR1PWtHe6VyefbQbVFQorP9Rts7tOJeDCgAjrm2Cmx5imG83HQ0onE4hDP9
+Sat Dec 14 20:03:36 CST 2024
+删除happyy2 
