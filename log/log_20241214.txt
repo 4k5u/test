@@ -430,3 +430,9 @@ Sat Dec 14 21:04:12 CST 2024
 删除100472 
 删除foxylovesyou 
 删除dana9282 
+添加galantini https://edge9-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-b73ce6f18700b93dd62aa617a9ef74bed3c1edb84701cf364bb827e4926d99da_trns_h264/playlist.m3u8
+Sat Dec 14 21:17:00 CST 2024
+Sat Dec 14 21:17:24 CST 2024
+Sat Dec 14 21:18:20 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除navi04 
