@@ -140,3 +140,7 @@ Mon Dec 16 07:16:53 CST 2024
 Mon Dec 16 07:18:19 CST 2024
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除leelate 
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a85ea6f2f67a4c356c16db4c993e5a39fb795394a9c0447912dc27909b39a14a_trns_h264/playlist.m3u8
+Mon Dec 16 07:32:42 CST 2024
+Mon Dec 16 07:32:42 CST 2024
+Mon Dec 16 07:34:04 CST 2024
