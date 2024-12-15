@@ -165,3 +165,8 @@ Sun Dec 15 08:32:00 CST 2024
 Sun Dec 15 08:33:30 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+Sun Dec 15 08:47:44 CST 2024
+Sun Dec 15 08:47:46 CST 2024
+Sun Dec 15 08:49:15 CST 2024
+删除qwer00725 
+删除Sime_Naughty 
