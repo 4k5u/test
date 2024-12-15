@@ -130,3 +130,7 @@ Mon Dec 16 06:46:50 CST 2024
 Mon Dec 16 06:48:16 CST 2024
 删除my_eyes_higher 
 删除oki_dokie 
+Mon Dec 16 07:01:54 CST 2024
+Mon Dec 16 07:01:54 CST 2024
+Mon Dec 16 07:03:17 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
