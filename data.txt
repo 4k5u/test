@@ -6,3 +6,4 @@ leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_pla
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-07528011fafd30e949a72e2a4d06110a90355e2dca0a6aea1b05aed73d2d79a7_trns_h264/playlist.m3u8
+oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f08397ba0583c3f6bc0d87d0c3fccdae45d424f96fb2fdd7fcd19a7658e2684f_trns_h264/playlist.m3u8
