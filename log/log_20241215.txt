@@ -370,3 +370,10 @@ Sun Dec 15 19:32:20 CST 2024
 添加jeehyeoun https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5fZPoYkShBylb1B9iuyzmBO4QvDbE2SSVlDX6zOOK7BRTv4SHwqXO4GmDW7ibOy3UAk54zAPrWCkfBn261SpMQKBqj_XJkCEinZAwyk2d1hUIRInRUVC1f4R5VvKdsWC
 Sun Dec 15 19:33:41 CST 2024
 删除Angel-Bei-bei 
+添加ad0res https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-cfb8e95f572ab024890fde4810e626e90da6c207d1210d7813a64100f4dbdae1_trns_h264/playlist.m3u8
+Sun Dec 15 19:46:56 CST 2024
+Sun Dec 15 19:47:13 CST 2024
+Sun Dec 15 19:48:22 CST 2024
+删除ddooyaa 
+删除dana9282 
+删除akakak11112 
