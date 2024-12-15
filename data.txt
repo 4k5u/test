@@ -4,8 +4,6 @@ mazzanti_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-1828d10
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-50ff7a5095e156bc9cbb9ab7dcc6361426ef3796439f3af97ebb124d0882e057_trns_h264/playlist.m3u8
 _meganmeow_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-af110b83b76d14ff07e1e52e284837dafc24f12ff0fab5a5cd4f52aea1e47dbf_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ae466d2ffccec3c649a230ca5cf5f377daac23fa0b129a9a5830b88a6020f361_trns_h264/playlist.m3u8
-LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
 oda_assuri   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-edefb511b69a5fca794d4154b9dbbaac3df6b7b22adbec6fe700cb7aa63df91b_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-905b59e55295a86687f33eb67deafbeb9f754ad411ec659125e7ab4c66f858d6_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
