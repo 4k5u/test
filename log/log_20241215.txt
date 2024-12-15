@@ -197,3 +197,7 @@ Sun Dec 15 10:17:00 CST 2024
 Sun Dec 15 10:18:34 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Sime_Naughty 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-50ff7a5095e156bc9cbb9ab7dcc6361426ef3796439f3af97ebb124d0882e057_trns_h264/playlist.m3u8
+Sun Dec 15 10:31:53 CST 2024
+Sun Dec 15 10:31:55 CST 2024
+Sun Dec 15 10:33:20 CST 2024
