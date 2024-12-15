@@ -402,3 +402,10 @@ Sun Dec 15 20:33:47 CST 2024
 添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WfW0MwVU8U04GpepPI5VBB3fMXXV0dBoHVfOB5SnrXaNefXm2ye3RUtqplJEgsdF4vuapvnE_gbP4l_WiIVsjq4dR4MrD4ufHpiCjpLvNVfGJuwkV_EIDIsKCN05oj0I
 Sun Dec 15 20:34:55 CST 2024
 删除muse62 
+添加galantini https://edge9-nrt.live.mmcdn.com/live-hls/amlst:galantini-sd-43464ea756dd2c5a959d0ea9de121462130028a5dce806a7802f4acd52d67119_trns_h264/playlist.m3u8
+Sun Dec 15 20:47:09 CST 2024
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ihs5BQ6EbCAl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2loczVCUTZFYkNBbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMjA4REMwRS1FRjE4LTQ2NEEtOURGNS1GOTk2MjI1NEY5NUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDI2Njg0MiwiZXhwIjoxNzM0MjY3NDQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zZvlOpsqaArzwI81VFneg3V_6Ksm0arvDPLXMN7FcVPrtkuMeZjR2wywbLsctvRYUWamGgFKqbxj_JV46HCTVIYpJArf-ix0UM0YQoCqDpXlfNG7F2GrVVd64AztyaZU
+Sun Dec 15 20:47:38 CST 2024
+Sun Dec 15 20:48:48 CST 2024
+添加grandeeney https://edge-hls.doppiocdn.live/hls/95572201/master/95572201_auto.m3u8
+删除ad0res 
