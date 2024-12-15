@@ -8,3 +8,7 @@ Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ae466d2ffccec3c649a230ca5cf5f377daac23fa0b129a9a5830b88a6020f361_trns_h264/playlist.m3u8
 LOVE-Juan520-   https://edge-hls.doppiocdn.live/hls/136195660/master/136195660_auto.m3u8
+oda_assuri   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-edefb511b69a5fca794d4154b9dbbaac3df6b7b22adbec6fe700cb7aa63df91b_trns_h264/playlist.m3u8
+kiyoko_rin   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-905b59e55295a86687f33eb67deafbeb9f754ad411ec659125e7ab4c66f858d6_trns_h264/playlist.m3u8
+Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8

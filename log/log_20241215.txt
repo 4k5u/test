@@ -158,3 +158,10 @@ Sun Dec 15 08:16:48 CST 2024
 Sun Dec 15 08:16:52 CST 2024
 Sun Dec 15 08:18:18 CST 2024
 删除dign1461 
+添加oda_assuri https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-edefb511b69a5fca794d4154b9dbbaac3df6b7b22adbec6fe700cb7aa63df91b_trns_h264/playlist.m3u8
+添加kiyoko_rin https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-905b59e55295a86687f33eb67deafbeb9f754ad411ec659125e7ab4c66f858d6_trns_h264/playlist.m3u8
+Sun Dec 15 08:31:56 CST 2024
+Sun Dec 15 08:32:00 CST 2024
+Sun Dec 15 08:33:30 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
