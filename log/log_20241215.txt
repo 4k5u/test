@@ -286,3 +286,8 @@ Sun Dec 15 14:47:00 CST 2024
 Sun Dec 15 14:48:29 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Ryo-sama 
+Sun Dec 15 15:01:55 CST 2024
+添加dana9282 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.f3h98P9qXjHb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2YzaDk4UDlxWGpIYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEREUwM0YyNy04NDdGLTRDN0YtQjY3RC00Njc3NEU5NDgwNkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDI0NjEyMiwiZXhwIjoxNzM0MjQ2NzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lGDGn0qxi8EJ3G6RmvEZq0j5Ew3boSSkxL7541PLBsrsOowsi1roHHLj1-WstOj33JKMjqOmK9KNgfz7UOP_i1IRSeNTThOqmtIAMBgxGc-dYbORQgqvH0XZ8ikeDcn6
+Sun Dec 15 15:02:11 CST 2024
+Sun Dec 15 15:03:37 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
