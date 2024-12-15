@@ -21,3 +21,8 @@ Mon Dec 16 01:01:56 CST 2024
 Mon Dec 16 01:02:19 CST 2024
 Mon Dec 16 01:03:45 CST 2024
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-0253b86240b26dcf1addbbb64ab9815e4e8c6a1afdcbf7c806b5b1f6e34d5d5d_trns_h264/playlist.m3u8
+Mon Dec 16 01:16:58 CST 2024
+Mon Dec 16 01:17:21 CST 2024
+Mon Dec 16 01:18:45 CST 2024
+删除your_desssert 
