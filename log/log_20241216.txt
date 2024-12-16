@@ -436,3 +436,11 @@ Mon Dec 16 22:47:01 CST 2024
 Mon Dec 16 22:47:50 CST 2024
 Mon Dec 16 22:49:05 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a696b9f7456e6a3c0b9e58414e82152d8c32edcf682613c9b5465ea5dc54faa2_trns_h264/playlist.m3u8
+Mon Dec 16 23:02:02 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2REU1RUM3Ny04OENGLTQyNDUtODc4OC1DNTI2OUY5REEyOTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDM2MTM0MywiZXhwIjoxNzM0MzYxOTQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YZj48AT45pTJeFetJOXy9TLKucyd9SilWY4ADYt1i1hMYHMpJ7YFa3sex1v6LS3CazjegubyhfZwOgPGkMwJNAm3k3quH2X9qkxmejEWHmyl9jxbVzoMk_h0LU9WlMap
+Mon Dec 16 23:02:53 CST 2024
+Mon Dec 16 23:04:08 CST 2024
+删除jjine0127 
+删除banet523 
+删除oki_dokie 
