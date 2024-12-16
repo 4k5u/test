@@ -444,3 +444,7 @@ Mon Dec 16 23:04:08 CST 2024
 删除jjine0127 
 删除banet523 
 删除oki_dokie 
+Mon Dec 16 23:17:02 CST 2024
+Mon Dec 16 23:17:46 CST 2024
+Mon Dec 16 23:19:02 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
