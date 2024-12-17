@@ -2,3 +2,8 @@ Wed Dec 18 00:01:49 CST 2024
 添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzRBMjZBRi1CM0U3LTQ0MEQtODc5OC1GQjZFN0E0QzdCNkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDQ1MTMxOSwiZXhwIjoxNzM0NDUxOTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.37z51dwGtA9uHLHn7OKGD-hlcpKhAzRGr1KBVkjFSN47vD1G-U1dCArisoRQhbUlfSlq_sGfc-84a1XNgz-KvHmPxSYxTqCMnJ117uXcA6eoPj3QoVJccKooqNnBVU9K
 Wed Dec 18 00:02:21 CST 2024
 Wed Dec 18 00:03:35 CST 2024
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-75cc45917900612ede2352cb3153d626f8eda4e79fa41673a0ec1bc01f9b0b2d_trns_h264/playlist.m3u8
+Wed Dec 18 00:16:55 CST 2024
+Wed Dec 18 00:17:24 CST 2024
+Wed Dec 18 00:18:38 CST 2024
+删除eunyoung1238 
