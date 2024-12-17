@@ -108,3 +108,9 @@ Wed Dec 18 05:46:53 CST 2024
 Wed Dec 18 05:46:57 CST 2024
 Wed Dec 18 05:48:24 CST 2024
 删除homegirl 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b2a583ba12e491905230b36eafd0c3e4cb554aea1c280e4af790feeae58dd611_trns_h264/playlist.m3u8
+Wed Dec 18 06:01:56 CST 2024
+Wed Dec 18 06:01:58 CST 2024
+Wed Dec 18 06:03:28 CST 2024
+删除jodong2 
+删除imanatural 
