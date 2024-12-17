@@ -218,3 +218,8 @@ Tue Dec 17 12:31:50 CST 2024
 Tue Dec 17 12:31:54 CST 2024
 Tue Dec 17 12:33:20 CST 2024
 删除nemu00 
+Tue Dec 17 12:46:52 CST 2024
+Tue Dec 17 12:46:56 CST 2024
+Tue Dec 17 12:48:23 CST 2024
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
