@@ -23,3 +23,9 @@ Thu Dec 19 00:48:39 CST 2024
 Thu Dec 19 01:01:55 CST 2024
 Thu Dec 19 01:02:23 CST 2024
 Thu Dec 19 01:03:39 CST 2024
+添加ad0res https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-7bbab6d4a9c7259a7d99244ef918a1c0895355fd8f5c4cb0957c7f1d229988e6_trns_h264/playlist.m3u8
+Thu Dec 19 01:16:54 CST 2024
+Thu Dec 19 01:17:20 CST 2024
+Thu Dec 19 01:18:37 CST 2024
+删除day59day 
+删除starsh2802 
