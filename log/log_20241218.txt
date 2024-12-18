@@ -316,3 +316,7 @@ Wed Dec 18 17:47:09 CST 2024
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TRps2-f7t0Cp2-B-4KiHw8MfE7yP709txT0qPLnN6dCHeFa2edy5pd_Cis-KVBC1GGa3CNraGGzsskiiFdxh89TBjVJLb4Q7GDpBOsiXKokax0I4BquaydS5Fs76WSfB
 Wed Dec 18 17:48:33 CST 2024
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-90e2a42449fef44e6cd792ae3aaa45506b0a9333bc2a8381d7d1f66f37c3e7cf_trns_h264/playlist.m3u8
+Wed Dec 18 18:02:01 CST 2024
+Wed Dec 18 18:02:15 CST 2024
+Wed Dec 18 18:03:31 CST 2024
