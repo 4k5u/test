@@ -6,3 +6,4 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 oda_assuri   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-37a8e8adbbca3f6c8cfd9afb3a89bcc53bec38dea1f339752b7e2349b01c2ba9_trns_h264/playlist.m3u8
 intim_mate   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-c2f1533987c25b600fd4f98d749d2757a2114e9e5c18bfebdafe898bdd5f9b78_trns_h264/playlist.m3u8
+_meganmeow_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-8b75577983b9e5b8f4c6153aceaaec3158deb3623f7e6322c884409d5674cfe1_trns_h264/playlist.m3u8
