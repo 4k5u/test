@@ -7,3 +7,4 @@ tyy750ii   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-749de422a4b68583fee782da7004a735ae77c292cdb96c884a654d6e91ec695b_trns_h264/playlist.m3u8
