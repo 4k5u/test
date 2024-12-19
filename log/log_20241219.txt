@@ -406,3 +406,9 @@ Thu Dec 19 20:32:01 CST 2024
 Thu Dec 19 20:32:28 CST 2024
 Thu Dec 19 20:33:24 CST 2024
 删除zzeongi2 
+Thu Dec 19 20:47:00 CST 2024
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRUM0NUU2RC1EODk1LTQ4OTQtODg3RS1FQkE5MkYwQTVCQzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDYxMjQ0MSwiZXhwIjoxNzM0NjEzMDQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._yJFqULD-QgouvyI0hW-LfRmjXkCXYPtjLJbQlfAPSawS6Uj1VPDfrrRI8Q9UVlj6l-aZ-UMzWnIwRvPorYFTwrfaOCGQFA9H2bRz9N_o0II0MUMKUnQzX2ewVoXEGIN
+Thu Dec 19 20:47:31 CST 2024
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jFJ347tCxwxIIhJvQ6CuVS1KzRt1Z1W-obf5vZ1WFiNPkm88KyKo93Lh0HgQVj0oOancJRuQN4lJvtnQ_WVuMbFpQ2Cp8AKl9PHm4SpsspNaH2TmAkcdX1GPLYf3s5yj
+Thu Dec 19 20:48:34 CST 2024
+删除smmms2002 
