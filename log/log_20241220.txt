@@ -134,3 +134,8 @@ Fri Dec 20 06:48:27 CST 2024
 Fri Dec 20 07:01:58 CST 2024
 Fri Dec 20 07:02:02 CST 2024
 Fri Dec 20 07:03:30 CST 2024
+Fri Dec 20 07:18:10 CST 2024
+Fri Dec 20 07:18:13 CST 2024
+Fri Dec 20 07:19:36 CST 2024
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除homegirl 
