@@ -353,3 +353,7 @@ Thu Dec 19 18:19:21 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除SanySenise 
 删除akakak11112 
+Thu Dec 19 18:31:59 CST 2024
+Thu Dec 19 18:32:16 CST 2024
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.XG-1LvAnNRaGTrHOpKyav86ST0WIajnsiGc2bdbtvXF_56La3HIesdqHsWaHonIyDaHb6aIbxJ1iToWvQdRaE0mn_KUH3_tP6c85LQWgp3Zw2LfyMCBLO5F091uPW1vS
+Thu Dec 19 18:33:44 CST 2024
