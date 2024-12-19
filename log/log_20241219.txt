@@ -322,3 +322,9 @@ Thu Dec 19 16:47:18 CST 2024
 Thu Dec 19 16:48:35 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除hyuna0721 
+Thu Dec 19 17:01:54 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOTFERUMwNi0zNDI4LTRERDYtOTdBRi01OTA2NTRBODQ5QzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDU5ODkyMSwiZXhwIjoxNzM0NTk5NTIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.A5JdLHmvXpZ69lJ30BQOamGzkkHG6rpNgfR02dY6kDKGx7ndkmMPfibP2y-x9r6bZ5RthHJeIvJahAPc-0sUO9fr6Upkt3WYBn20j-KfovWteg-P1S8pU5HBlvZRV7nC
+Thu Dec 19 17:02:09 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ErGjdmrq4aBCnoeBb3pGn97JGJZj3Uyptu9hRdkD8GWtApZ9VjyFIaKdFBp9J0U3TzHdbY15D81SP4bW7IYo-0mOEXTS81J0wEgXKwKkQg6ayBbGpKJIBGHJ9R0_W5TI
+Thu Dec 19 17:03:39 CST 2024
+删除IdaJonesy 
