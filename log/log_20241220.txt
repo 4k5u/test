@@ -291,3 +291,9 @@ Fri Dec 20 16:34:36 CST 2024
 Fri Dec 20 16:47:44 CST 2024
 Fri Dec 20 16:48:00 CST 2024
 Fri Dec 20 16:49:31 CST 2024
+Fri Dec 20 17:01:53 CST 2024
+添加dkssudgktpdy233 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wjMqhVDu1qr1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dqTXFoVkR1MXFyMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDg5NjU3MC03ODkyLTQwNDYtODU3MS1GQkNFQkNDNTFDQjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDY4NTMyMywiZXhwIjoxNzM0Njg1OTIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ymq0mw6tdDA4T7RbaKRe0iHG-hW2vMkuJs6ftpXbuX8sPp0ATQPmNQmyV3IljEAFvjKCc2ZA5iiuNX0YiGSs3NGoCN07OzjJ2UonAd8yiUsOqT4Ji1ruT-Gqv-BEOxUQ
+Fri Dec 20 17:02:14 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CGWiwZerLSg4IV9FOXILueFdaeoJnmnx5S3MaEg1qDDjHlPRwDs5ew9fU45mODSsxVVDlauRrbB5NlfOmwf3QcfjYvHEzDuEO7fIA4bjoVXx9eil8Ad5Ib4eL3iY_ALF
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CGWiwZerLSg4IV9FOXILud7ocmrelTyx5zh4fMPbGxXE738TJgzt9Kb7GoR3v7AnwRRweJVGHZ_I6tidqJ0y7i18Qwc68VbjScJU2vgGpBf0Mho8vlT6F-Q0BNj0tLCA
+Fri Dec 20 17:03:57 CST 2024
