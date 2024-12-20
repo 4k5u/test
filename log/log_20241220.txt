@@ -311,3 +311,8 @@ Fri Dec 20 17:47:36 CST 2024
 添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9UBlk3EeDeTdmEhgDfekPBQFMZR67Ekq-8OjInCdDu6XpumtJxY7Yk7QZoZ_s1HZ5O9XKqk8LXGbJhdqJHzDpeUtsi0d-HrfMoUKNdJps3a5eea6xfgQjvvk3iHt9k-R
 Fri Dec 20 17:49:00 CST 2024
 删除imissy0u 
+Fri Dec 20 18:02:54 CST 2024
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NzFCNEY4NC02NkI4LTQ0ODQtOTgxQy04MjlGNTg4RjkzMTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDY4ODk4MywiZXhwIjoxNzM0Njg5NTgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oCIfEaWjVReuhk1gnp3C1bEYUihasN1iEEn9rzROihefuOjiUVT-9yT70yqSyDcD3sOq4ap0lQK4jOmsTvsL8W9laa8DSyvPSOcfEjK-w5NqhJoHcUKUBf7L6uGs7t-M
+Fri Dec 20 18:03:14 CST 2024
+Fri Dec 20 18:04:29 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
