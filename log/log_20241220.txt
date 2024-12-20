@@ -438,3 +438,8 @@ Fri Dec 20 22:34:05 CST 2024
 Fri Dec 20 22:35:07 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除banet523 
+Fri Dec 20 22:46:56 CST 2024
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCOTE1MDExMS05REVGLTRGMjYtOTBGOS1FMzI0QjkxMDBBNTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDcwNjA2MSwiZXhwIjoxNzM0NzA2NjYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rFXOlYyDsRmY2Dpasb1LgNZ5h0l9caidV14IJX9EUVdWdvOYT-Aw9cEMv8iyTk8CALxkps2XCmiBYXpzaxmWJosS5wsN4VAYxms3qc21SGB725FLkN6GYRobo7y1PC-e
+Fri Dec 20 22:47:48 CST 2024
+Fri Dec 20 22:48:47 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
