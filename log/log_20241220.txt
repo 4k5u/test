@@ -194,3 +194,7 @@ Fri Dec 20 11:01:56 CST 2024
 Fri Dec 20 11:02:00 CST 2024
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Xj2hsrIrtWdN5yFbR2skp08RR0EjRVNdsBoYuScj3LUfs6xU8vj8Q5_EuTsUXB5nyK5EHD3nLLW04af1n7iNaR5HtJ3SYA20Tm0Ces9XM7wZrE9N6IYweAzl4INUhv-c
 Fri Dec 20 11:03:33 CST 2024
+Fri Dec 20 11:17:11 CST 2024
+Fri Dec 20 11:17:15 CST 2024
+Fri Dec 20 11:18:30 CST 2024
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
