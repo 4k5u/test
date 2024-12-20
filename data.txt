@@ -5,3 +5,4 @@ _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d6
 oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1e266b92b74e86e50b5c578d5deff5c2c8947038e83e1cac7691fbb0fb2d4b3e_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3bd5c0dbc1149d34fd61a04a51be3a970a713817e9f019ffaa46be60ff9322f8_trns_h264/playlist.m3u8
