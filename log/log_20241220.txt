@@ -356,3 +356,11 @@ Fri Dec 20 19:46:56 CST 2024
 Fri Dec 20 19:47:32 CST 2024
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0ef7KwUytdQXxokz-mOCrV7In5ABdYuIr8I_PiBEeHzQVRfQpPIq8H50RnzEV0TFPiDwAV6ZdBbq94Eua6PEk4wMvo6NB-0Qd9LrFPSbZJcwRPdQo8AVyBlcZ-tCZvto
 Fri Dec 20 19:48:53 CST 2024
+Fri Dec 20 20:02:06 CST 2024
+Fri Dec 20 20:02:36 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hIqhdN5o7kHiz_ssJyMFb5kJ4k9PigidB_L9N0VCDZ-ZSYJy6TBVyptFMY_g8hWUHjWZ6bQOeZV6jMGRs8PKVlpJNVgs-tG_1mU1Rj0rg8A0e-PwXsH_KCQq6z-uR6q-
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.hIqhdN5o7kHiz_ssJyMFb48jFulfR0XsAQzgxLCUe68-vnpWYo5yB4TDebGqtq6-wrQvXMo_KEfUTgCzH6n24ofotpVViI03zqiffzxC4qi1jXQeo4zKDICD7yQqsyvg
+Fri Dec 20 20:03:52 CST 2024
+删除navi04 
+删除yeonnacho 
+删除gremmy 
