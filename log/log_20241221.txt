@@ -202,3 +202,8 @@ Sat Dec 21 10:49:18 CST 2024
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Akiyama_Key 
 删除kiyoko_rin 
+Sat Dec 21 11:01:50 CST 2024
+Sat Dec 21 11:01:53 CST 2024
+Sat Dec 21 11:03:18 CST 2024
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie 
