@@ -228,3 +228,8 @@ Sat Dec 21 12:02:47 CST 2024
 Sat Dec 21 12:02:49 CST 2024
 Sat Dec 21 12:04:07 CST 2024
 添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ddooyaa%22%2C%22channel_id%22%3A442709328%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1734755050%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.201.73%22%2C%22version%22%3A2%7D&sig=6b97f4c43694fe2e72aa373a735d6cded58f593e&allow_source=true&allow_audio_only=true
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c2990b5bee69837a50f8c5ec5d9ee6441f486cb578600b4dc97c9bf735c651c1_trns_h264/playlist.m3u8
+Sat Dec 21 12:16:53 CST 2024
+Sat Dec 21 12:16:55 CST 2024
+Sat Dec 21 12:18:23 CST 2024
+删除_meganmeow_ 
