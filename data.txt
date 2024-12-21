@@ -1,5 +1,3 @@
-Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-kiyoko_rin   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-1ed3c3c97053af8a453dbeab1bd74a22ebfc260fcc24aa6bca157d39d4a5110d_trns_h264/playlist.m3u8
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d6cfc3ea020caa2d0906f574a3170fe0df7186932b6745b7a1308b14b2ee33b9_trns_h264/playlist.m3u8
 oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1e266b92b74e86e50b5c578d5deff5c2c8947038e83e1cac7691fbb0fb2d4b3e_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
@@ -8,3 +6,5 @@ mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3
 oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-4154269f6004fd044a625e3b7680353d51a62eb3ddc8e515ab71102ddbf1ac49_trns_h264/playlist.m3u8
 Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 intim_mate   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-9cc91377a9084980e1fa72293dd04634f7bf4c50d45d98640b57419d85946b45_trns_h264/playlist.m3u8
+eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gldOLzP8jZJxYwd1h1IgYWIvxrPQc5ZWRXVLQqMV8UKhHSJBwNkvOJj_OOzQpDtaJrit53otFOR6ypAsPnr_k8-wsltMUjWO9JVFmAv_LMzNO4_JxRhkprBKvTa_sLKr
+Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8

@@ -195,3 +195,10 @@ Sat Dec 21 10:18:39 CST 2024
 Sat Dec 21 10:31:54 CST 2024
 Sat Dec 21 10:31:56 CST 2024
 Sat Dec 21 10:33:25 CST 2024
+Sat Dec 21 10:47:43 CST 2024
+Sat Dec 21 10:47:45 CST 2024
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gldOLzP8jZJxYwd1h1IgYWIvxrPQc5ZWRXVLQqMV8UKhHSJBwNkvOJj_OOzQpDtaJrit53otFOR6ypAsPnr_k8-wsltMUjWO9JVFmAv_LMzNO4_JxRhkprBKvTa_sLKr
+Sat Dec 21 10:49:18 CST 2024
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除Akiyama_Key 
+删除kiyoko_rin 
