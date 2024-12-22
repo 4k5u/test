@@ -438,3 +438,8 @@ Sun Dec 22 22:32:34 CST 2024
 Sun Dec 22 22:33:40 CST 2024
 删除Dolv_1o 
 删除yourare 
+Sun Dec 22 22:47:23 CST 2024
+Sun Dec 22 22:47:56 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.L4aUZXYB9QqN6iZZ7icmjuAmednAeYap497hqV-cprsh6T_x5wXwxnDruhhlIc1dXonsDNCbNfnyrAq0LiRJVDWGGw9ZJ-H0d8XhSS1OtwP6bEYf8SEooROasFvn-6A8
+Sun Dec 22 22:49:08 CST 2024
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
