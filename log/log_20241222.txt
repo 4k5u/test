@@ -221,3 +221,7 @@ Sun Dec 22 11:32:33 CST 2024
 Sun Dec 22 11:33:51 CST 2024
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie 
+Sun Dec 22 11:47:27 CST 2024
+Sun Dec 22 11:47:31 CST 2024
+Sun Dec 22 11:48:50 CST 2024
+删除my_eyes_higher 
