@@ -180,3 +180,8 @@ Sun Dec 22 09:34:13 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除IdaJonesy 
 删除mazzanti_ 
+添加oda_assuri https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0d305493212e3e8a61758e48d7e242fecce565845756796698d8b2ade7de5d5e_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-589873b70c059ba0abf4f9c2ccf18bf6ae64194fb07ca3bace0976609b6be852_trns_h264/playlist.m3u8
+Sun Dec 22 09:46:54 CST 2024
+Sun Dec 22 09:46:58 CST 2024
+Sun Dec 22 09:48:25 CST 2024
