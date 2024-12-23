@@ -265,3 +265,9 @@ Mon Dec 23 15:31:52 CST 2024
 Mon Dec 23 15:31:58 CST 2024
 Mon Dec 23 15:33:29 CST 2024
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+Mon Dec 23 15:46:52 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDcxNzA0Qy00OUFCLTQwMjMtOTM3OC0xMTNCQjU0REQxRDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNDk0MDAxOSwiZXhwIjoxNzM0OTQwNjE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c6hOD2gsbCRejnlRk3tG2v1Rq9l5NPgFPvm6PB8K0JSN6EJOyOt9x1jItrv96q5BiVgSTPSS1JmFl8Amov5b3rdZFFFNe9aQPpKrYGdpWT1J0czSR1U7-EvtwTksZZKz
+Mon Dec 23 15:47:03 CST 2024
+Mon Dec 23 15:48:34 CST 2024
+删除oki_dokie 
+删除IdaJonesy 
