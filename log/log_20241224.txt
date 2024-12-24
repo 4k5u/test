@@ -309,3 +309,11 @@ Tue Dec 24 18:02:50 CST 2024
 Tue Dec 24 18:03:38 CST 2024
 Tue Dec 24 18:04:56 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Tue Dec 24 18:16:52 CST 2024
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMzg5NkRBRC0zODAzLTQ0NjMtQjFDQS1BNjFCMzFEQjI4QjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTAzNTQxNSwiZXhwIjoxNzM1MDM2MDE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gM9CQ-WxxdCeMO84Ull_RUPGFJafMkgHNuplXVIufFNXQn0rsm8ozXapCxO1s2vDvuzJuCLL0enOHuOSm4KeY_X8-8u7-kui3eNPKDGEnaPKP3fE7BRZ9vqRGjR_AhUw
+Tue Dec 24 18:17:20 CST 2024
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WoQQ0QgPAKGNEHe8V2ZlG4B1q-K-GhGfua6uAvJyKNalGiPpSdTAWvP3VFPj7Gfe5glGxarxclmHh0w74DlyRcyRdXxBRLIgRw3bi5xA9PIZWIA5qkqS_DNNYtQd_a8J
+Tue Dec 24 18:18:43 CST 2024
+删除ad0res 
+删除muse62 
+删除Judy0523 
