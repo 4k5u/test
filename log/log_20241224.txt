@@ -317,3 +317,10 @@ Tue Dec 24 18:18:43 CST 2024
 删除ad0res 
 删除muse62 
 删除Judy0523 
+Tue Dec 24 18:32:50 CST 2024
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMEQxRUI3Mi1CRkQ1LTQ3QUEtQjE2QS1GODhFRTc1QkEwMjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTAzNjM5MiwiZXhwIjoxNzM1MDM2OTkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nDKg6mwhcyCylu4v5Tk7ESW0-XQ7HQ7pyeI7O4jMTY757mLAujliZsci7g4LVCMh_LZWxB4ttsFN4HUiPNZBE51rrD9x_K0-IhVYm_Q9DU9t0RudWxjhoPLD8hA067cy
+Tue Dec 24 18:33:19 CST 2024
+添加rvn1015 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BHB_mt5RPzJSY6i45dqojBxwvfGvIOXsl-1qQuJZzp5eY92SwIfCDJb6C0DndZGaYP5j2rsUBm-Fp7SguVoheOBoghHkCFFMT39OCU7V0iehpamYOd54DjQ6cv0cB2wc
+Tue Dec 24 18:34:32 CST 2024
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
