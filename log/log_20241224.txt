@@ -242,3 +242,8 @@ Tue Dec 24 14:47:01 CST 2024
 Tue Dec 24 14:48:28 CST 2024
 删除nemu00 
 删除Sime_Naughty 
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-78512d50ec2b5cadd1bcd677be59bb3e3b8581478af3732046d1dc2afd313708_trns_h264/playlist.m3u8
+添加intim_mate https://edge12-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-833dea834a81017117c0df6f0b6ab17167645c7a06d6759ba9ccebdc52c342c8_trns_h264/playlist.m3u8
+Tue Dec 24 15:01:55 CST 2024
+Tue Dec 24 15:02:03 CST 2024
+Tue Dec 24 15:03:30 CST 2024
