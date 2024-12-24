@@ -417,3 +417,11 @@ Tue Dec 24 22:03:53 CST 2024
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除dkssudgktpdy233 
 删除imissy0u 
+Tue Dec 24 22:18:40 CST 2024
+Tue Dec 24 22:19:26 CST 2024
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.boortqCq3EC3vEVYkz-4m4GUUbvw2hiaqKwmE7otK6HIGmbwPYE1NKaLgT7ENbEnr4QdGlLkDV74hPui1H5bsH6qPFtY2DxFEONL4fLdHmXMl3wBGJzFjvO-V0oceege
+Tue Dec 24 22:20:21 CST 2024
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除imsocutesexy 
+删除muse62 
+删除emforhs1919 
