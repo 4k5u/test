@@ -442,3 +442,13 @@ Wed Dec 25 22:48:26 CST 2024
 Wed Dec 25 22:49:00 CST 2024
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除iminako 
+Wed Dec 25 23:02:22 CST 2024
+Wed Dec 25 23:03:14 CST 2024
+Wed Dec 25 23:03:48 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除jodong2 
+删除somsom0339 
+删除eerttyui12 
+删除banet523 
+删除Asia-Lynn 
+删除hanny27 
