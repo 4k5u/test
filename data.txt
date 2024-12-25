@@ -18,4 +18,3 @@ gremmy   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_pla
 kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Yddlh9Afx_PPhNfUWC-YThtdOiM4unkmGwIPD6UpxREylNz2q3oULolSy5StJKuUNKYFkvB_OLK2A2U5hyd9rijIHoKb3WD3hPA38_Pnn-0jc20N2BzCJEi04uR08-So
 iminako   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-32e3a902b74a5bda3eea3e9bc9b42a692778e504219d47cef201ecca9bfd26a1_trns_h264/playlist.m3u8
 rvn1015   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2n2h8iJnCsCkPy-HwZm2fwDGqy65a6c9Jlgc8rRG4CC7j77un9azsJYNEXvx1Xn-OQ2RMTb2jY-ASiWRahiA3SljMtyEqDGzc11oM6mI8yrQ7yuTsRRyAcd8AXpVe3_5
-Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
