@@ -282,3 +282,7 @@ Wed Dec 25 16:02:10 CST 2024
 Wed Dec 25 16:03:34 CST 2024
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 删除alicelebel 
+Wed Dec 25 16:18:05 CST 2024
+Wed Dec 25 16:18:19 CST 2024
+Wed Dec 25 16:19:42 CST 2024
+删除ake_mi 
