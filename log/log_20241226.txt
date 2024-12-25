@@ -22,3 +22,10 @@ Thu Dec 26 00:47:27 CST 2024
 Thu Dec 26 00:48:24 CST 2024
 删除1stforever 
 删除yin2618 
+Thu Dec 26 01:01:53 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOTY2MzM1Ri05Q0QyLTRBNTAtOTlCMi0xMDhGNjg3NUVDQzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTE0NjEyNiwiZXhwIjoxNzM1MTQ2NzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.W1nQ9Kon-2R29z1C7nJskiPY1vPa5h-bLr3XmaB3ZGKR6QY6f12H2mwrwSdJtl4TsQJg7eEzu_-02JntVY2OqUmZGDqgWxel5THPm9RfITeoioRA0LrA-1wlwNjwRWCJ
+Thu Dec 26 01:02:27 CST 2024
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.CsT_BntFy0rBbcrZrah7NAMvwgtm-XjwAJgln0TEVyRyeQpq0_OHej3Iue_jkXsG2yGHafvRi-N0APf161rWt6gMz8cVOFb4wY3tsivLqBXBTW98FNd0pslsiqb36U_A
+Thu Dec 26 01:03:34 CST 2024
+删除dmsdms1247 
+删除ksb0219 
