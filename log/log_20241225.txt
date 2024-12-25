@@ -269,3 +269,9 @@ Wed Dec 25 15:31:53 CST 2024
 Wed Dec 25 15:32:07 CST 2024
 Wed Dec 25 15:33:32 CST 2024
 删除Judy0523 
+Wed Dec 25 15:46:55 CST 2024
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3Gu2vbf82Yjz.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNHdTJ2YmY4MllqeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4OTQwRUI4Ny1ENTI4LTRDMEQtOTU5Ni1DQjBFNjk3N0UwRTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTExMjgyMCwiZXhwIjoxNzM1MTEzNDIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7pKM31_ddjHsWIcxGqhwNXt_DFSOfQHi4HlTYabnzB4v033t4AdqFoRF4E0PAUx80iFv7G6hIQZXkSuPPOmBm3ZWUABXElA1Kt1ZucG0qPxwfBEDX_ivHvUbU-Zn-qms
+Wed Dec 25 15:47:10 CST 2024
+Wed Dec 25 15:48:36 CST 2024
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除kolll88 
