@@ -6,7 +6,6 @@ sonming52   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-4ecef78b203bddf10e3a12a9e015ab44fa162fbd1f6b2c6322c6d10d93193744_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3302f94732e63d94de57143607843797c854a61f2b581e2d3ea270f7496b5ea9_trns_h264/playlist.m3u8
-leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.QFWYAW_MBzwmoo-4TtXi40HW9g4ehwLSRRCkmY-JZ9tPlnnFMJ9aUAKk2WDf2ZLzOJY7yYuQf-AQC-i_QOoPIAnuN-r3eFKAy6TlqrTY5k8IFgOiLtEdn_oQUijegODn
 _meganmeow_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-825020a945006c3713489d27fa8e794cb71730841e106d31e59db1514643212c_trns_h264/playlist.m3u8
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-b871c8473d14cb274194e331ec2c8d927fbcd5050403b00f221ae7428d36e9d0_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
