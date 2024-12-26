@@ -319,3 +319,9 @@ Thu Dec 26 17:19:23 CST 2024
 Thu Dec 26 17:32:44 CST 2024
 Thu Dec 26 17:32:52 CST 2024
 Thu Dec 26 17:34:19 CST 2024
+添加honey_pinkgreen https://edge5-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4104591339082e3374866efe7e219bf484f91085c715084323b169d9238c7a4d_trns_h264/playlist.m3u8
+Thu Dec 26 17:47:42 CST 2024
+Thu Dec 26 17:47:50 CST 2024
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rsH1WeitCjznlLgLvNUzKhUiFsc2fFWPDGyMMp7iAgyjB_U7xyExMy4S0F1lfrem39sakADMT0lB0j2GlQk40SrTchgfPOz2vTvBa9oDpGTq5HieDusect8TW40_rvZD
+Thu Dec 26 17:49:22 CST 2024
+删除honey_pinkgreen 
