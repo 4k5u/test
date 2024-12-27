@@ -6,3 +6,10 @@ Sat Dec 28 00:02:35 CST 2024
 Sat Dec 28 00:03:46 CST 2024
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除o111na 
+添加kiyoko_rin https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3ef81a5ee9db0d305b96c9ab062ddf0fab44d03e73d876fbb3fca7ea1e080be2_trns_h264/playlist.m3u8
+Sat Dec 28 00:17:22 CST 2024
+Sat Dec 28 00:17:42 CST 2024
+Sat Dec 28 00:18:40 CST 2024
+删除1stforever 
+删除na2ppeum 
+删除Asia-Lynn 
