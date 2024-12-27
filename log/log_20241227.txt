@@ -346,3 +346,10 @@ Fri Dec 27 19:48:56 CST 2024
 删除sigmasian 
 删除yeonnacho 
 删除Asia-Lynn 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7358f7bf8a44065e06bc6d10cd444868617f339871875b0c4973febf6bf0ed63_trns_h264/playlist.m3u8
+Fri Dec 27 20:01:54 CST 2024
+添加eerttyui12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wwOh3R6TnzpH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3d3T2gzUjZUbnpwSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRTQ4RjQwRi1EMDIxLTRGOTUtQjRCQy1DQTU1MkZFQzk1MkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTMwMDkyMywiZXhwIjoxNzM1MzAxNTIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.w4bmJ6_Gc2ukZewnR0jFsSfP4dgoUb9ixXokDW2hRoOrIyhzJocMEO8EGw_YbvXocJ2sdie2p7rUvAGtgWYJ_0vlDk46jTnhbgLthFviao9K_PGBSEQPSf4HNLo_oWV-
+Fri Dec 27 20:02:21 CST 2024
+Fri Dec 27 20:03:32 CST 2024
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除kkkku96 
