@@ -4,3 +4,4 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 kiyoko_rin   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-3ef81a5ee9db0d305b96c9ab062ddf0fab44d03e73d876fbb3fca7ea1e080be2_trns_h264/playlist.m3u8
 _meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-c00ecb0daae1f26fc3fe5646aca3e20ea29f435b2920e7d0470a6efad535aa2c_trns_h264/playlist.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-829573a2367410d02c212239d00c610c39e8334c3ab51662e832f21350fb3bf4_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d9f67412cec9347503094f48e3801d4e10aff768e0a8527cad1199224992f68f_trns_h264/playlist.m3u8
