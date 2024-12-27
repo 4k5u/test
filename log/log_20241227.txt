@@ -166,3 +166,7 @@ Fri Dec 27 10:02:46 CST 2024
 Fri Dec 27 10:04:05 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除Sime_Naughty 
+添加intim_mate https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-b53e1d3d3a77bd2942fdf7383668695e8681834b0e9ce64ea27bcf3f201c029f_trns_h264/playlist.m3u8
+Fri Dec 27 10:17:04 CST 2024
+Fri Dec 27 10:17:04 CST 2024
+Fri Dec 27 10:18:24 CST 2024
