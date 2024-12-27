@@ -366,3 +366,10 @@ Fri Dec 27 20:31:57 CST 2024
 添加onlyone521 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.97A1pgl7L5ot.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzk3QTFwZ2w3TDVvdCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RjI5RDEyMi0xOURELTRBRkEtQTZGNS0yMDEyRTYzMzkxMzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTMwMjczNCwiZXhwIjoxNzM1MzAzMzM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e_zhho7n3biTC-K0EW1zufk5N6Y787VzMpGjLMpH4G5pNPtB48tMUxfqxORWLe7S0SOlFX9v5l1S2Bc9-gHU4NVeR1ISnwI8U9PtDwRNPZ1CvZLOYR-59KiW7W2H5dli
 Fri Dec 27 20:32:27 CST 2024
 Fri Dec 27 20:33:28 CST 2024
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-79148528aa5bfa89bfea7aed3c93ff4a5409e891332262158be98636979b1b7e_trns_h264/playlist.m3u8
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-1be2b46bd27feef1352e2a2b48e9149e4ad67e3b3174213627b849ba61617a80_trns_h264/playlist.m3u8
+Fri Dec 27 20:47:04 CST 2024
+Fri Dec 27 20:47:30 CST 2024
+Fri Dec 27 20:48:31 CST 2024
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除foxylovesyou 
