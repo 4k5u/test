@@ -138,3 +138,8 @@ Fri Dec 27 08:16:54 CST 2024
 Fri Dec 27 08:16:54 CST 2024
 Fri Dec 27 08:18:20 CST 2024
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加oda_assuri https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-50503e633c87803635b88b4791cc750365806f742c5f6b46ee153529b7c85cd9_trns_h264/playlist.m3u8
+Fri Dec 27 08:31:56 CST 2024
+Fri Dec 27 08:31:56 CST 2024
+Fri Dec 27 08:33:21 CST 2024
+删除cuddles_me 
