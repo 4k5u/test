@@ -477,3 +477,9 @@ Sat Dec 28 23:19:23 CST 2024
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除jodong2 
 删除qwer00725 
+Sat Dec 28 23:31:55 CST 2024
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NDYzNDNDQy05NjdELTQwNEYtOUM5QS02NkJGNkQyMTQ4NUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5OTkxNiwiZXhwIjoxNzM1NDAwNTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.96OTyh7JLpFCf82c7dFyyAls8TKmyb-PU8VZRqC0vLeLm7F9Mfje38HnTotMzWXFERwfDknIEDCG13kd0C3LrrlwUZS371RtIJE5aJtB0Tc4n1B5-bV1TswZWn3ksnwt
+Sat Dec 28 23:32:27 CST 2024
+Sat Dec 28 23:33:28 CST 2024
+删除Asia-Lynn 
+删除dks2003 
