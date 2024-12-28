@@ -8,3 +8,4 @@ dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_pl
 oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf480798d374e67ed74eeb616628857012f72de9ca4edf73ee7fed37500f4988_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2a077727ff99a623ad03d6c23e61cda25afd167d1da83de73f7b0cc78c3f19ea_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e8ffdcf08ddd11493e4e7b3bf77321883d47b722cb8a01fd099e4fc886a96cd7_trns_h264/playlist.m3u8
