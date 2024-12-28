@@ -440,3 +440,8 @@ Sat Dec 28 21:47:25 CST 2024
 Sat Dec 28 21:48:21 CST 2024
 删除gremmy 
 删除oki_dokie 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f62f4605645956906d58e97d25d70e3ee4a26b79e9ec0765721636b9c908e9e3_trns_h264/playlist.m3u8
+Sat Dec 28 22:01:56 CST 2024
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.N95Vb4kgMeCB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL045NVZiNGtnTWVDQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQjg1MjA3OS1FMEJFLTRDNTEtOTVFMC1BNTJCOTc2NDY3NjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5NDUzNSwiZXhwIjoxNzM1Mzk1MTM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rEYHkOo_6re4O6XFdNDLVRTijYK08ZYtki-rpeAmj8Al-vNmERyVrteRy0H6-5rJaEmjLLH_gaQr2WCH3Th3cpiO6Cf7yJPanfjXEh0krIaSpdzET-WFX7CZtptXIOip
+Sat Dec 28 22:02:30 CST 2024
+Sat Dec 28 22:03:32 CST 2024
