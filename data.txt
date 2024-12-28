@@ -9,3 +9,5 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e8ffdcf08ddd11493e4e7b3bf77321883d47b722cb8a01fd099e4fc886a96cd7_trns_h264/playlist.m3u8
 oki_dokie   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e82da20305cc9c3f3bf624d5ba34e6c8150dd0db2fdf1817e2543d04bb485b1b_trns_h264/playlist.m3u8
 _meganmeow_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-16f4b3c787692ef95cef9177c5fad2bb97fb9bb41ff0f5d07850091f827d07d5_trns_h264/playlist.m3u8
+mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7a668d7be591099b6bd7ffe675b0e5b98f9dd1ecf7153c96dfa817b6efc203c0_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
