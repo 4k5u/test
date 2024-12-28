@@ -462,3 +462,11 @@ Sat Dec 28 22:47:34 CST 2024
 Sat Dec 28 22:48:40 CST 2024
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除Xenomy 
+Sat Dec 28 23:02:21 CST 2024
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNzFFMDc1MS1GMEVCLTQxQkUtOUE0Ni1GODkxMTM4MTlGNUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTM5ODE1NCwiZXhwIjoxNzM1Mzk4NzU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.weMmTrG89bIQfBU8Ph3VA6W2LDmUvEfZpvx-vvuuSP8XEpE0HCLxw65Mlh9jp38RzkdgXPvKy7XU_1fBxn5NrXJFnvR9qybxkhaIK-UPqyPxrvU_1FjCLXfvRkIytiuM
+Sat Dec 28 23:02:57 CST 2024
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YdeY_7yBNwbCKkhQ5URBkAMLc65c3J_TOqjRz04ciOmEkujV44Wg_3C4plag-iy5xYrSfqTZCkZVqMrdcIFpPYGnQvkRznYkRCYX26Brr49kq7pun44Rxw9T2qnFy9K-
+Sat Dec 28 23:03:59 CST 2024
+删除jjine0127 
+删除emforhs1919 
+删除oki_dokie 
