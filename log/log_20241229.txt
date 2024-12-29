@@ -305,3 +305,8 @@ Sun Dec 29 16:31:53 CST 2024
 Sun Dec 29 16:32:04 CST 2024
 Sun Dec 29 16:33:31 CST 2024
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sun Dec 29 16:47:20 CST 2024
+Sun Dec 29 16:47:30 CST 2024
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KHQ10HNVlPY9ZWyk4wCQb7DOpY06b99UJrOMYULben0zxNcggkHZXtr9jmAQ1sPn7n_I-eHt03vdRrjJQc6t1Whdk9Chma8wOi3Yz5ED5xfXy_9CvkDvxuz-jXyIjHGB
+Sun Dec 29 16:48:53 CST 2024
+删除IdaJonesy 
