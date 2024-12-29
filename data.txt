@@ -11,3 +11,4 @@ green10004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 rvn1015   https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8IarnSqT6mCoqxWXHefidUY8Q-I-vH9gnL-sp4iTWgrrZmO_NDofzPrN8LsE_YV4jacCCxTEnM0kbrWhD9niXEmDn2QkhTBOAC5dfNz7c038LEUsqCRDB42tUy3mLEVj
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+cuddles_me   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-0f17838177b4e194fd50315364a4041fdca2e869eff376e46ea0cbdd5e325791_trns_h264/playlist.m3u8
