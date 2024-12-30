@@ -246,3 +246,7 @@ Mon Dec 30 14:01:54 CST 2024
 Mon Dec 30 14:02:04 CST 2024
 Mon Dec 30 14:03:31 CST 2024
 删除oda_assuri 
+添加oda_assuri https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-4bec1a50096de42d9456d1fa935d4e4333f5887a486d924ad247f009d193cd76_trns_h264/playlist.m3u8
+Mon Dec 30 14:16:53 CST 2024
+Mon Dec 30 14:17:01 CST 2024
+Mon Dec 30 14:18:28 CST 2024
