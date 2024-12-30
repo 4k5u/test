@@ -254,3 +254,8 @@ Mon Dec 30 14:32:42 CST 2024
 Mon Dec 30 14:32:50 CST 2024
 Mon Dec 30 14:34:19 CST 2024
 删除Judy0523 
+Mon Dec 30 14:46:54 CST 2024
+Mon Dec 30 14:47:02 CST 2024
+Mon Dec 30 14:48:26 CST 2024
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除oki_dokie 
