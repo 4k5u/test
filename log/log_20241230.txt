@@ -404,3 +404,7 @@ Mon Dec 30 22:02:43 CST 2024
 添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TaMrXpXxRnrXvaRk54lE7WUbw44ffYzAv_aAdFuBIGHb1irc2rbBgG4P-3LhC9v8ttBPHsK5Syq-Kx5PAWKzL4--I5psLQiUM4Eq6eWrD_Jz4a-XeXi5z7e1zEmAXpxy
 Mon Dec 30 22:03:53 CST 2024
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Mon Dec 30 22:16:57 CST 2024
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMDQ1MDY4Ny00RDI3LTRBMEUtQjg1Ni0xMkY0MzRGODc4RDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTU2ODI1NCwiZXhwIjoxNzM1NTY4ODU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TO6Y4fh_ft9t8FHpUflxs0YCL7a7jPlUEwusYiypZYYStya72w02pBS8V5g7Pfe3orKxnIw-ePpXwcWKn_ZVj5zDiy__W1svlyvA_DIgC5T7X867_rcBe-KtzIAk1FSO
+Mon Dec 30 22:17:43 CST 2024
+Mon Dec 30 22:18:43 CST 2024
