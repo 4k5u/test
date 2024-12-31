@@ -326,3 +326,9 @@ Tue Dec 31 19:17:27 CST 2024
 添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Z8JZlVLa-GiJtyg17tiQhjfH2Qdky3pTKgGJ5pmERKA_uV2TmbL1sWjAZsmdXBk8_2iQtlpQ7SvVsLk0YFUtH8fCPL5deFMOzl7xEYIafMU191RPJme5am1GDaACWEbc
 Tue Dec 31 19:18:52 CST 2024
 删除hyuna0721 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8527039a07f4e9edd65a388fd0750a99ec8d4b10273fdd3bc0da9af368c67407_trns_h264/playlist.m3u8
+Tue Dec 31 19:31:57 CST 2024
+Tue Dec 31 19:32:23 CST 2024
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EdM5QTRHzU4npChP6a4KmpZcb1ifw6oEE4Zl4YnzEPTJjSVWkm8VWXMmWs7z5RWgw4UltZH509PEpqqxZOsW300-q6yl2H4y9WsxDj7-jzC9wecS5CQ4pORcwwioSIBe
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lmr0vL-tS0o5VtYA_UOgztnFecO7CvW9BqWF0qJ8Yfnd-j6JBlK8BUz2nQRvAj1AjT1P_M_hx-1AcFy9JLIOeMf0iLWkFAIgEKkqVQsPkEYma3X_EED_R2wX3iRB6Tx1
+Tue Dec 31 19:33:52 CST 2024
