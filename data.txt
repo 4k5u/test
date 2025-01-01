@@ -2,3 +2,4 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-ffcf6c6a9dc59f53b9037354c43cf42f7cdfe5e162b05702bcf86d5611879956_trns_h264/playlist.m3u8
 oda_assuri   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9bbecdea85e2067edd2bcb1362a074d9f5477d5cf398e92c68c0dd1456ec3efe_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
