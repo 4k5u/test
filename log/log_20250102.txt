@@ -38,3 +38,10 @@ Thu Jan 2 01:47:02 CST 2025
 Thu Jan 2 01:48:28 CST 2025
 删除in0410 
 删除Angel-Bei-bei 
+添加kiyoko_rin https://edge9-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-07094ce90b9020877294b16bbfc379def112942821c17f68554d6cb425870097_trns_h264/playlist.m3u8
+Thu Jan 2 02:01:53 CST 2025
+Thu Jan 2 02:02:06 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._HhubQUJxNYaTTrZ5NNyDjkXfwBK5gUKWMfsjk-YfjyLfd0akm3BwnCHf5oZJqVoztVbBr66pSULVuY9jy5yW2ZR-q06vdKre10i9muf9NUguTwAOdwdYPzbQEBz1FZM
+Thu Jan 2 02:03:35 CST 2025
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除smmms2002 
