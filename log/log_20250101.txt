@@ -186,3 +186,10 @@ Wed Jan 1 11:02:01 CST 2025
 Wed Jan 1 11:03:24 CST 2025
 删除Akiyama_Key 
 删除kiyoko_rin 
+添加honey_pinkgreen https://edge10-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-6eecc35876ce65e7f981485832241980415f097545210aec2752648e9462bae1_trns_h264/playlist.m3u8
+Wed Jan 1 11:16:49 CST 2025
+添加nemu00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2PAhGvVvczmJ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJQQWhHdlZ2Y3ptSiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyODcwODNGNC1GRUVCLTQwMEEtQkFCRS1DRjU2RDMxN0VERTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNTcwMTQxMCwiZXhwIjoxNzM1NzAyMDEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VOUPZj1vooIY1f9emT_KU2OjRkbdKdf6QHb2DnELw4UFWcxigNB-SaVmN3_Ai4nxKMrYE_gZ6rUApCJTS-NLbRZS-p2OMYvkJCBRnjeBzUp7SmJnwtMSSkI93YXT04o8
+Wed Jan 1 11:16:52 CST 2025
+Wed Jan 1 11:18:22 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sigmasian 
