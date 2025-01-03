@@ -271,3 +271,8 @@ Fri Jan 3 17:01:52 CST 2025
 Fri Jan 3 17:02:03 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IhZXTuxi8Xolb1vvvA7LmUH7V3jBWY30W_-2u3DVDETPHZRAb6F3UfZRzxaBulahXPekQItxagP_SXcycP3NtNOxaBzxyi_09MnqUkm2PzJ6GIlGnLw01qOi15WZo8NM
 Fri Jan 3 17:03:33 CST 2025
+Fri Jan 3 17:17:24 CST 2025
+Fri Jan 3 17:17:34 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wOyPWAqJPQpr6fkAnIN1WTAAsWMXv3Rwze6kHqVLLtkig5ggJ2f2X1fxLGV8nkSeWdWvHqq8FsfoJKyptr7CGoe1tSzERJECK9M6D4xVUvV4ptp0pm4x24I5Cv87Pt1L
+Fri Jan 3 17:18:56 CST 2025
+删除mikio_san 
