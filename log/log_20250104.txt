@@ -29,3 +29,8 @@ Sat Jan 4 01:18:26 CST 2025
 删除eunyoung1238 
 删除flower1023 
 删除ad0res 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-1d4f62dfed4ed456fe8d42cb8aa58fbc813cbb02f749ddb058b7e4a07fcffc74_trns_h264/playlist.m3u8
+Sat Jan 4 01:31:58 CST 2025
+Sat Jan 4 01:32:18 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0cKw2zHLt8b-iFoSmcRXRrTISgANa-J1eoXf8Q_uymE45OezXbyxajP6tWxxjoeV_w9w2pi-Dq4rcPLqbU01QlbDuPJufoMme5XOLOsILMy2cwoTch1bZl3DRpHyJ5TS
+Sat Jan 4 01:33:39 CST 2025
