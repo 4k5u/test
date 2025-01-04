@@ -322,3 +322,8 @@ Sat Jan 4 18:31:50 CST 2025
 Sat Jan 4 18:32:14 CST 2025
 Sat Jan 4 18:33:42 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Sat Jan 4 18:46:54 CST 2025
+Sat Jan 4 18:47:14 CST 2025
+Sat Jan 4 18:48:42 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除soso621 
