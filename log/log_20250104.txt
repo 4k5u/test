@@ -184,3 +184,9 @@ Sat Jan 4 10:31:57 CST 2025
 Sat Jan 4 10:31:59 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KJm0gfLsGZBkTsurRuXAF0rMTQdlGOgFE4aolgKQ-w7SQxfSqrdinV7z51Q2Cqkfzu1dLq0Gqjc5FXM2cQyRN1g7GxPvgdKaAfOB0ticJkqtOi3OtnGVYj14xWVxLwcd
 Sat Jan 4 10:33:29 CST 2025
+添加mazzanti_ https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-33c58667b406a1b907880e565621a020cdc89f11cbb2c095c6c864e479aa5fcf_trns_h264/playlist.m3u8
+Sat Jan 4 10:46:54 CST 2025
+Sat Jan 4 10:46:56 CST 2025
+Sat Jan 4 10:48:19 CST 2025
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除hanny27 
