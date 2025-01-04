@@ -5,3 +5,4 @@ Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_aut
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 oki_dokie   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4b5a5001712d5fb76a0fb914d298ffe1f978aff5fb3e7322dc52f32c94df95_trns_h264/playlist.m3u8
+mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d087112212cc882e76416b22e646eb261a06bd61a5bcf338972fbad65b60da82_trns_h264/playlist.m3u8
