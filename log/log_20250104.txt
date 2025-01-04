@@ -142,3 +142,7 @@ Sat Jan 4 07:47:53 CST 2025
 Sat Jan 4 07:47:53 CST 2025
 Sat Jan 4 07:49:20 CST 2025
 删除Sime_Naughty 
+Sat Jan 4 08:01:59 CST 2025
+Sat Jan 4 08:01:59 CST 2025
+Sat Jan 4 08:03:25 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
