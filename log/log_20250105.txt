@@ -392,3 +392,9 @@ Sun Jan 5 22:01:54 CST 2025
 Sun Jan 5 22:02:28 CST 2025
 Sun Jan 5 22:03:48 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Sun Jan 5 22:17:10 CST 2025
+Sun Jan 5 22:17:42 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6h9drjiYX7QndmqbE9EOd6h-crcKGw0Y9x0edpU1dt6TdjTM24orfuvsc9ltxBdhZfvLd7A06h_woMzEUeMW7vO1EHRvji2F9QxAwbQMtPra9l1Cif2Hywut6MptBr2l
+Sun Jan 5 22:19:01 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除rico0210 
