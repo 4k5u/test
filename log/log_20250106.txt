@@ -109,3 +109,9 @@ Mon Jan 6 06:18:22 CST 2025
 Mon Jan 6 06:32:35 CST 2025
 Mon Jan 6 06:32:37 CST 2025
 Mon Jan 6 06:34:03 CST 2025
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-63d23982ca54ee65e839c9a1a99f3c0ff99de118d3303975fb15f013538cee47_trns_h264/playlist.m3u8
+Mon Jan 6 06:47:20 CST 2025
+Mon Jan 6 06:47:23 CST 2025
+Mon Jan 6 06:48:42 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除honey_pinkgreen 
