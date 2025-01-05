@@ -7,3 +7,4 @@ San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.
 oki_dokie   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ea4b5a5001712d5fb76a0fb914d298ffe1f978aff5fb3e7322dc52f32c94df95_trns_h264/playlist.m3u8
 mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d087112212cc882e76416b22e646eb261a06bd61a5bcf338972fbad65b60da82_trns_h264/playlist.m3u8
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-acd02391a172b0bf9273d2525384db28ac46b18188b39e413ea0c693caa7b6be_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
