@@ -2,5 +2,4 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c4e43d064b785a9e2fefe3c72711755edf1c0f1baf41d1827856910d093d9e43_trns_h264/playlist.m3u8
 oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-63d23982ca54ee65e839c9a1a99f3c0ff99de118d3303975fb15f013538cee47_trns_h264/playlist.m3u8
 oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-605947b0b35ff2a0f03abf32672c90b65fcc79f2acdce23d62b13a6781049228_trns_h264/playlist.m3u8
-amilia4u   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-2111bd196d36677fb0d61939370f1cb06112d1dc660ed8210455865bb30bb029_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
