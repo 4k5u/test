@@ -137,3 +137,8 @@ Mon Jan 6 08:18:25 CST 2025
 Mon Jan 6 08:31:53 CST 2025
 Mon Jan 6 08:31:54 CST 2025
 Mon Jan 6 08:33:20 CST 2025
+添加oda_assuri https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-605947b0b35ff2a0f03abf32672c90b65fcc79f2acdce23d62b13a6781049228_trns_h264/playlist.m3u8
+Mon Jan 6 08:50:08 CST 2025
+Mon Jan 6 08:50:08 CST 2025
+Mon Jan 6 08:51:35 CST 2025
+删除dreamch77 
