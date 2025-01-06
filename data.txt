@@ -2,3 +2,4 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 kiyoko_rin   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-055b25e9b9e93e7fdbce9a62fddc4f96c921a052dfc949e3f2306ebd3d2e93f3_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-267427f6277a722e957452cfb2afa640dd6120d07ae2a4a57d9213d352badeb9_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MkqdhvW0yLPZa3oqX6meZN_HMvwgoY_30-fJPApJREQStNYbLRAXVMCpfo2gyW8zforRx28n22Wbhp5qBqi6AFtyKh3QHtB1RsZydZIMvTg2RvejBviYwGFVqxwgCl9N
