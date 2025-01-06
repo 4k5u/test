@@ -375,3 +375,9 @@ Mon Jan 6 22:04:13 CST 2025
 删除starsh2802 
 删除hyuna0721 
 删除emforhs1919 
+Mon Jan 6 22:17:05 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QkE2Njk1My0yMEMzLTQzNzEtQTVCNC02NUM3Q0Y5MjExNkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjE3MzA2MiwiZXhwIjoxNzM2MTczNjYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7GspHh3uUCYO6XRav8J8sSg2XVDXsTjeSCCi__OWnv8UqjYzbL7ml7lhEifxHiNLZfQeoVvXd8uHyoAgH9wGbD0c5z93KvwdU6yT2Nwpo_U54gnhbrN_2UYnuoJLLE-b
+Mon Jan 6 22:17:52 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0prc57-3QWmzKku2MfcNfDZZ_sKE7t5GTSaqJ5-_fp2cEpm9Z_C2MmTFZvzEgT5rhbV9WWmpXTKa9-zAeFcCZCT9uvEQ-ka-uyL-ZyD9kqDu1Wuo7s1b0hqjWtAH5g5R
+Mon Jan 6 22:19:09 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
