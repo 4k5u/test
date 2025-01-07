@@ -51,3 +51,10 @@ Wed Jan 8 02:03:39 CST 2025
 删除saone451 
 删除yourare 
 删除kolll88 
+添加kiyoko_rin https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-29e6f861f7f9e8d21a93e396121213b4982a66d980514063a9e47e7772d95839_trns_h264/playlist.m3u8
+Wed Jan 8 02:16:58 CST 2025
+Wed Jan 8 02:17:14 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9OyCRJ7yheOCZTTlsnkAGv60sKyvItd2FGv_ORmpJ4rcCXwTObSRKLthEC3v6k0_CWISZEmmFXYlW9ZNZT7fW5ooEvocRNHgndeDm_2aWVUKDguaSY1cDf5hK2u1DzKK
+Wed Jan 8 02:18:46 CST 2025
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+删除54soda 
