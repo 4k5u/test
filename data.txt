@@ -4,3 +4,4 @@ my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 mazzanti_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-58dc6c47117217ddcb235037c3b5b8336f89ab9d98a7121916f675842857f984_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+oda_assuri   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-c8f8eba3e0a94c37d5b92cfd67b40a6f277b21e49b941c379a5c000047deaa53_trns_h264/playlist.m3u8

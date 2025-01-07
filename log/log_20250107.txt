@@ -139,3 +139,7 @@ Tue Jan 7 08:31:54 CST 2025
 Tue Jan 7 08:31:56 CST 2025
 Tue Jan 7 08:33:21 CST 2025
 删除hanny27 
+添加oda_assuri https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-c8f8eba3e0a94c37d5b92cfd67b40a6f277b21e49b941c379a5c000047deaa53_trns_h264/playlist.m3u8
+Tue Jan 7 08:47:52 CST 2025
+Tue Jan 7 08:47:54 CST 2025
+Tue Jan 7 08:49:24 CST 2025
