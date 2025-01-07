@@ -3,3 +3,4 @@ kiyoko_rin   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-29e6
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9b742229507901990a937ab4ebc961d7c4df66f17b60c8fc32f6a752c07ebb9_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
