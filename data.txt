@@ -5,3 +5,4 @@ kiyoko_rin   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-29e6
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9OyCRJ7yheOCZTTlsnkAGv60sKyvItd2FGv_ORmpJ4rcCXwTObSRKLthEC3v6k0_CWISZEmmFXYlW9ZNZT7fW5ooEvocRNHgndeDm_2aWVUKDguaSY1cDf5hK2u1DzKK
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nkvUEzhJ6A2Ktu7Ol_ZLSJZfwg7d_cyNAuBZVTvNMYxDj8slga73ipyG2j-ZSceuKNvud40jkxZdtZABTjRCsKrpTdMCv_Gs_-Jlgg7CqVZR4UHVnag5kL4sXr2_bLer
+my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
