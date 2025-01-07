@@ -396,3 +396,9 @@ Tue Jan 7 21:47:42 CST 2025
 Tue Jan 7 21:48:42 CST 2025
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Tue Jan 7 22:02:05 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQUFGMjJBMi1GMDUzLTRFRTUtQTA4Ny0wNTY4RjAxMzc4MTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI1ODU0MiwiZXhwIjoxNzM2MjU5MTQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QEg1sZeQPgL7cRlSEAfUtb0YsKCP6ZIRWdTHTdeZMoxQgvnCBIV8wKMR4bCay2Z0JHH9Ay-jSw_9bLeTWarwsAtVyts_M37pbBkQDEU7M9mrYXuSa0Cm2yUHekZ5jJdq
+Tue Jan 7 22:02:53 CST 2025
+Tue Jan 7 22:03:46 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除bongbong486 
