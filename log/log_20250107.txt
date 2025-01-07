@@ -190,3 +190,8 @@ Tue Jan 7 12:02:00 CST 2025
 Tue Jan 7 12:02:01 CST 2025
 Tue Jan 7 12:03:24 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0f9b46d46a327489697757edabac4ba7e6114a82311bafed1880e63847b48948_trns_h264/playlist.m3u8
+Tue Jan 7 12:16:55 CST 2025
+Tue Jan 7 12:16:55 CST 2025
+Tue Jan 7 12:18:23 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
