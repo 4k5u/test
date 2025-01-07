@@ -303,3 +303,10 @@ Tue Jan 7 18:32:13 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WQfLh39idp2ateIn8zF2bjsK6aIQ99ZuEmI-mWraFgPFn0QMhfM7lE9Rz3gOak5lFlPvLoLkJ1fWyXAjLPr_fOudaUOgm-rrGE1kOK3qLNjxgFuxFFh52a8MRUCPmvmL
 Tue Jan 7 18:33:41 CST 2025
 删除kkkku96 
+Tue Jan 7 18:47:22 CST 2025
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMEIxRUFEQy1EMUE2LTRCNjAtQTg0Qy0yNjdCNkQxODEyQTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI0Njg0NywiZXhwIjoxNzM2MjQ3NDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Si8S03TexXvFa4RqcJST0MmdsAE7R1YwlST5cY79HZiIsAfRgd-50PnHXoQiiOd10j2zTzcMS-iXE0GUuaFXhIlJHjr1ZW-hqvK6q5SPXhzFfDLTBLqUbJZhSe2pPdH6
+Tue Jan 7 18:47:42 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3pB55KVOLZrvveNQyYmwsoZGb7pYqAPqmw-_PMgs-ArH-EHyQimQwYZsyPYwiPd3W2BAKWaGbouklOXeYK0Nr-lHRrxG5-HzxPVNMMGUXxW3SVwQLTF_Crqn6kuOZXEP
+Tue Jan 7 18:49:02 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除your_desssert 
