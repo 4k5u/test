@@ -1,8 +1,4 @@
 dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQkY3MzRCMy1FRjU0LTRGNDktQUNEQy1FMzNCMkUxNDVFQUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjI3MDIzNywiZXhwIjoxNzM2MjcwODM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._vlNYfewSSehl3FwdRCiFdfgrXa_V_6rJmrcMhT-gkqpiRVbsjypLlEe1SGro00-VimPRjkNAqZrfIX61Uy-2KE-QC_Zhs4Az9vRqwoBdPZyi7lz-84sNFrF8ZzQ-Tqh
-kiyoko_rin   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-29e6f861f7f9e8d21a93e396121213b4982a66d980514063a9e47e7772d95839_trns_h264/playlist.m3u8
-Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-19c3cf8d47a9eb7b84a2077badd43d585f4b6f0a20c1de2a59dbec05652b2b82_trns_h264/playlist.m3u8
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d9b742229507901990a937ab4ebc961d7c4df66f17b60c8fc32f6a752c07ebb9_trns_h264/playlist.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-33dde11e917f2516b5cd93a3f771e07f88af81bdd08b47ba0f081841ef1ee449_trns_h264/playlist.m3u8
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0f11e0cd196fb7a9da419bca6fb76ada5bf62afbb30da2cfb615497ddcde283d_trns_h264/playlist.m3u8
