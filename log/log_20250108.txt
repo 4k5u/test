@@ -306,3 +306,8 @@ Wed Jan 8 18:02:23 CST 2025
 Wed Jan 8 18:02:48 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oKxLNt36K6P61yUcFjIHR3n8jr7tlxksvtQriqe8cWawHyWKXVtXP2caT5AdB-rck6ZZioRuRCIIGvajF_7FlCZfEFZJXyMNvtdeR4TwqTG19lPWjAkmp52_cIxmWjVt
 Wed Jan 8 18:04:23 CST 2025
+Wed Jan 8 18:17:24 CST 2025
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.x8AkQVOBDgwQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3g4QWtRVk9CRGd3USIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDNFQUMzOS1ERTYyLTRFQkYtQjc3My03REQ3RTM5MURDMDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjMzMTQ1NSwiZXhwIjoxNzM2MzMyMDU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c853YXHPstTZGg4G3--RgJETAWbMpU3cEq5uM5oojwZjH5C-bIgjI3Jh-rP0XLT96As7WL2ZFTdG-U9As9gBWvtlmK_n51Vz-eAE2QpPZ1Wc95wm5XtucFqib3Fmz8M8
+Wed Jan 8 18:17:48 CST 2025
+Wed Jan 8 18:19:14 CST 2025
+删除oki_dokie 
