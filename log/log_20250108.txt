@@ -345,3 +345,12 @@ Wed Jan 8 19:47:26 CST 2025
 Wed Jan 8 19:48:02 CST 2025
 Wed Jan 8 19:50:12 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Wed Jan 8 20:03:04 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNzI0QUY3RS02RTBBLTQwOEYtOTAzNC01NzUwQUQzQzE5NkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjMzNzgxNiwiZXhwIjoxNzM2MzM4NDE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wy0dKgPsHk16Yks74kwE1CtsLzhYLZ5pou1k_sUdBBtp5MkSIORD7OQaO3ZtXE-EKB9ra_7dKZ6hTNrXBuZ3bd9-IJPMsawhcygoa7rSwSe3-dCwONM7W08Z1qIgYXuW
+Wed Jan 8 20:03:40 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Og3xZXKjiFzgHG1qhaY_dSOW0ptJf_V0M2WkbZ3Rk-ck-_Ty4KiTDrUEX7mYgIzQrE7w888VPcNh8_a1Wlz03YjGw1MAPJ4RIkfgGhiJTEwM35gdaZPqFCBa8llv8Udj
+Wed Jan 8 20:05:03 CST 2025
+添加kyul365 https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kyul365%22%2C%22channel_id%22%3A759214227%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1736339103%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.78%22%2C%22version%22%3A2%7D&sig=26112dfbffad0cff99122ecc306c075171157b5b&allow_source=true&allow_audio_only=true
+删除dkdlfjqm758 
+删除acac88 
+删除tyy750ii 
