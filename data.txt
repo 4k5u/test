@@ -6,3 +6,4 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
 sexygamesx   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-3b2b78a6cf7b47cea2b0dc504f5e811ff75a53357210c0c137f6f1df40f95bab_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
