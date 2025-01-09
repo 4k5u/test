@@ -346,3 +346,7 @@ Thu Jan 9 21:02:22 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._N8SKBBNqGtSRoK-SjGb0fIuYW1AuoZXy5plHwcFstkFGEwIzisygeVXru4wjHt1RRstqrCj8qCnAbFW5fhMU8JZvYfASZQ7lE617LtxI22TgsBHvtYMOH_clVhbM-cC
 Thu Jan 9 21:03:37 CST 2025
 删除oki_dokie 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-97784c934c90e62ba3968da099ce1f1531f3df7ff6aa347872163cef9aa64ece_trns_h264/playlist.m3u8
+Thu Jan 9 21:17:00 CST 2025
+Thu Jan 9 21:17:24 CST 2025
+Thu Jan 9 21:18:31 CST 2025
