@@ -261,3 +261,9 @@ Thu Jan 9 17:16:54 CST 2025
 Thu Jan 9 17:17:04 CST 2025
 添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dUH8PZdybu-rjxWQIrBEcgfS5M7A8tErT-PaefW_7zjv0VPRJd4Zu4Qe0JvX3dpjl_3I0-rB7qGV9oK0iHQYZG0N-PVhz8DuAApwtVP5ZE-6eWpQKK0Qkmm8kshQqmpB
 Thu Jan 9 17:18:34 CST 2025
+Thu Jan 9 17:31:56 CST 2025
+Thu Jan 9 17:32:05 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.guvNiiBY2oyJEN07HW2WRB95ZvICG7jJJoafM_g36xHpW7wPrjUWL21_Or-o6C0BuidxD6ZPbtvc0lCBQDs8TaFJgtfWT4s_cQ-WG6SU89tGuXnt6-XufVeCwnIcC6vk
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qHKIoiotxt_Eqf_NEXxKTkEK2eUTimM5yPVyF2sIzGfQA1Yr0Sl2BJeAtH7x3gisYn_ER7frhAtuEx1fRqlZ4yILwY5wY3YQCtX_kXOodLNmA8YCJSTWM01tkg6UjlC2
+Thu Jan 9 17:33:37 CST 2025
+删除oda_assuri 
