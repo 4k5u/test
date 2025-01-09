@@ -382,3 +382,12 @@ Thu Jan 9 22:47:29 CST 2025
 Thu Jan 9 22:48:41 CST 2025
 删除Dolv_1o 
 删除kyul365 
+Thu Jan 9 23:02:00 CST 2025
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5ODkxMjcyMC05MENELTQ1MTQtOEQzOC1GMkE2QTJBNEU0MUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQzNDk0MywiZXhwIjoxNzM2NDM1NTQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bSnfxoCxA7_IfeXJk1EedQx0T6Ne5Vz-71AK2rF-6OgRdwvsd_g2WQFIcZG_yNTG7Oi70ODcFPtDMi99fj9x9VXby77YBbiqj4ZZcDLSGrp5q2BSA8Nk6zRDrVC824fF
+Thu Jan 9 23:02:29 CST 2025
+Thu Jan 9 23:03:40 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除alswl2208 
+删除emforhs1919 
+删除dana9282 
+删除oki_dokie 
