@@ -15,3 +15,4 @@ oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2d539b
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uSR8ZHCwSobSe4LExhTwPJHYEMeRxcnsj9YWPVvmdca6nkeIZKi-AjcY2cBoQd_vshEyiFyEmFZgtBRex7rvwDK_mbHrYiloPsHw5HoX_D7gzhlFuO9IjL3SGbYhiWUo
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 ake_mi   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-62a1ff56df17690326273bc78128872688e54e9d0fdbcb76d0a9c8094b3eca37_trns_h264/playlist.m3u8
+Tmdgus5411   https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J-Pst4xmDnBhrZtBXqUId-QywIBerkTBK-ltlgO8AhqaRAdzjGm6mppAgD0joJYilk7xXTZPl4o0dUv20MPe9uSROAt8u-sNtlPCBvRH2h8BYVYG1SodLBPvY0g6Famd
