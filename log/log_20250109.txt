@@ -332,3 +332,10 @@ Thu Jan 9 20:32:17 CST 2025
 Thu Jan 9 20:33:26 CST 2025
 删除ee5844 
 删除dana9282 
+Thu Jan 9 20:48:07 CST 2025
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQ0NBNEVGRC04MUVCLTQ5MUUtODNBRC0zQUFFNjAxNkUwREQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQyNjkwMiwiZXhwIjoxNzM2NDI3NTAyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qR2ISnLZX7YRxgDnRiS-Xh9-Djg1p6SPGV5ECf5RuOdZpDVUOWOATGCb3vjKG2y9uUEwUQkWJsgBmo16XS3u6J1CGt6I0z4of8YhYxfvt-s4S8CD_eoLLbZvxuT8MMBu
+Thu Jan 9 20:48:29 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tMKqkZ6ppDhTypQ_kh7kdRHuxAHgqU73Sf7LFUSx8VuN341jr_XxPEudYBMZTkp6z_FIF_udlz0MjmT7hNSf8H_m0khkaYlMLgsTFjgBemJ7w3hNpnMQtOxb1YxuQoZZ
+Thu Jan 9 20:49:37 CST 2025
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+删除flower1023 
