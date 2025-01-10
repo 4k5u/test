@@ -4,6 +4,6 @@ kiyoko_rin   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-37c35
 sexygamesx   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a471ea6d58aea76c98823f214c3b3baf56316b907206ec972b1a1cb98e3978ab_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0134ea4af4bde91b5c4186d33e159c04a45246a1f7b9cd923272be6845acc82a_trns_h264/playlist.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d659bc5cae7f6a157f58c8a5cd2d913b2316176bde4b8b8b13b44ff7c1e80da1_trns_h264/playlist.m3u8
 oda_assuri   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2f25f393c07564d37048c06688d943d1a6201bece7c2b517ee56100418aeb82c_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
