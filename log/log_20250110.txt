@@ -417,3 +417,10 @@ Fri Jan 10 22:33:39 CST 2025
 删除eerttyui12 
 删除naras2 
 删除Ryo-sama 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-6b914ed68feb9652b8b723fa5bc398a856a4f8aa39dc4cedca9f115ad59b5415_trns_h264/playlist.m3u8
+Fri Jan 10 22:47:06 CST 2025
+Fri Jan 10 22:47:42 CST 2025
+Fri Jan 10 22:48:42 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除leelate 
