@@ -239,3 +239,9 @@ Fri Jan 10 14:17:00 CST 2025
 Fri Jan 10 14:18:20 CST 2025
 删除mikio_san 
 删除hanny27 
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-0158c61a3517517b87bd6b8bbc7b2fba7a49c32dfe4b64bf3464a3ca9d9b73e0_trns_h264/playlist.m3u8
+Fri Jan 10 14:32:05 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OTBDNzZERS00NjBFLTRGMTAtQTA5OS03QzFCOTU2MzY1REIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjQ5MDcyNiwiZXhwIjoxNzM2NDkxMzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OAvGsdrpRsaEGgQKIZgZXBhrpC9-V74_dDaC78T6SMlXvm-QAu4SGA-IQNE85348BL4UVCWZbRfAr-DZIGO2aNk4iTjFpXZEKQzvl_ZsQHo8PfHg9I-5jJpVxkXSfBue
+Fri Jan 10 14:32:15 CST 2025
+Fri Jan 10 14:33:39 CST 2025
+删除Sime_Naughty 
