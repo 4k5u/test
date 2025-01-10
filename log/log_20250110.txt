@@ -430,3 +430,11 @@ Fri Jan 10 23:02:41 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5sTBBMrQ85QyYQSvPJKh2FfugwFdxx14Fi0n27pdVmmsiUU07a6oDFDjvXmKLUilQhYjxhL_-j23kms7vo3hG3U1v-rxHgXlSJeN1RlYoXIcFy5KHZ5SeWoik7-nygOz
 Fri Jan 10 23:03:47 CST 2025
 删除emforhs1919 
+Fri Jan 10 23:16:58 CST 2025
+Fri Jan 10 23:17:28 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0ki5Q9OisxUZHKNbvujTu7OBAfO_IgqtMvw9hJ8uytUl6i0tlOJTMYLFBf8N1_6NKnR8vF1q5UzUUpojRTLxPxgUoNEoFBmTN17XxBtTWcbPrmrunIDtTPEzH2jba-du
+Fri Jan 10 23:18:30 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除hyuna0721 
+删除rico0210 
+删除ad0res 
