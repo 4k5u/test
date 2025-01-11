@@ -223,3 +223,8 @@ Sat Jan 11 12:47:00 CST 2025
 Sat Jan 11 12:47:00 CST 2025
 Sat Jan 11 12:48:19 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Sat Jan 11 13:01:54 CST 2025
+Sat Jan 11 13:01:54 CST 2025
+Sat Jan 11 13:03:18 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除eunyoung1238 
