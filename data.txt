@@ -4,3 +4,4 @@ _meganmeow_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-57d
 mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-3ef77b4c4313f1bdf003781d8567cf17863a931a6998fd9e97774c484e24730d_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-7369eb50111698bef61e51fa1d5c98b1490e9d8b3cb46c4abccb4da629496b6f_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-73d4821e3c6dc6a720f734f15e6fb9d0459a1e7f8c4ceecc4127f17211f6355c_trns_h264/playlist.m3u8
