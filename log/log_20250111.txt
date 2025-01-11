@@ -375,3 +375,8 @@ Sat Jan 11 20:33:24 CST 2025
 Sat Jan 11 20:34:37 CST 2025
 删除rud9281 
 删除dana9282 
+Sat Jan 11 20:46:59 CST 2025
+Sat Jan 11 20:47:30 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.SgnzbS_u-rd9VoSpq8LPiM1uEvn-PtvFSZGB2_-N0LHx1oKZR7JJmenrjn5-T9Gmwl4_jalePRMXj-irBVokWJ8_JbkbaHwLbPPX0t75nrgd9jThUoixT2K2xktB8vLB
+Sat Jan 11 20:48:44 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
