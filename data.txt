@@ -1,6 +1,4 @@
 rud9281   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vO6fDrss20eCTaV6taJfcrps2rwjLSMqAxq2OucB0idsN4kups18J1LQf29f7tGjQG8nH3K6Hf4W_F2m2_dfgq0XSRItk9G6rvZStjU4H00VrtLdJgPGhHPkqYAbmq2h
-Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
-kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-8e4742eac7ed1a0dc0dbf1633f7da3f82fa23c6504857e813164499d1d693829_trns_h264/playlist.m3u8
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-32a44e89e8be4885fce323f59dce42c36a0230e25e4808b6541cb135165b09d4_trns_h264/playlist.m3u8
 mazzanti_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8d7f11d80efab47450c7ae0b1510597be957169f3a0bcc64fc919a9d06a450b5_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9e4a480c8c26d3f22d736a465ea63b5c71643a8c6027a344d8fd44b917f2dbd2_trns_h264/playlist.m3u8
