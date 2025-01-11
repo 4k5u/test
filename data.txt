@@ -6,3 +6,4 @@ kyul365 aaa bbb https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=k
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 amilia4u   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-036897cf6fa4b571aaf4ef3a4d4fe85724f30801526f77bf2af8e36bb5e59419_trns_h264/playlist.m3u8
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-180b85ff8a526eb625207de8c3c1c874aefea89f19aea707da3293ed3e7cd8b2_trns_h264/playlist.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
