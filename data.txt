@@ -2,3 +2,4 @@ dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_p
 _meganmeow_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-57d011c0a76a43dc464eb0950ce1a8aa418f2b3c204ef6417500df795563dcff_trns_h264/playlist.m3u8
 mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-3ef77b4c4313f1bdf003781d8567cf17863a931a6998fd9e97774c484e24730d_trns_h264/playlist.m3u8
 oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-73d4821e3c6dc6a720f734f15e6fb9d0459a1e7f8c4ceecc4127f17211f6355c_trns_h264/playlist.m3u8
+leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lT2rklNIBC9W8IZPMfZ0iCYl097cd10_jQDpu7a9gRWi9dY9DSa0lKniCzrZzq_N78pWhIk62skgX7Ki_wvEQLZBOH1s6-dktz2PS6OkwPbCYmhezGFp9aB6O4djGA-n
