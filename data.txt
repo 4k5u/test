@@ -4,3 +4,5 @@ bongbong486   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+oda_assuri   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-cd9755f5ba484b11ded9c652ae3eb8096520baa03659d5a5d63c8ec32b808266_trns_h264/playlist.m3u8
+alswl2208   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.10wEucDUgd_mF5s0aznxa2RjrRFJ0PZHIAx0Up8fWEfTA5tBcVJnCWJW4HUlnX5h8MwhxXqRBp7uPlNDPX7JmukKiuJYnhLjy8hExJ66OS94p-acYfLtpasFv7FmhAhy
