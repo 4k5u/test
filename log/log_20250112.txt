@@ -351,3 +351,11 @@ Sun Jan 12 20:17:20 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9zoTcDb5Ur_GwDRwX7obOjAv2b35CfmgX4-aQsj0TUnIkZwP4nmZ0zbIbslWOl8zpGlvyYu6lGfZyz24oYXSp4GOvKjnwll4W54t3QNoZREij6Xp0y6CTJS3KVCbtiS0
 Sun Jan 12 20:18:45 CST 2025
 删除happyy2 
+添加honey_pinkgreen https://edge2-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9f9c1ca095d1764a5179cd8e309c1a754ff06f1624bb278e5edbf7b875aec00d_trns_h264/playlist.m3u8
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ec23dae76a68d3c6209d367c3030ff4259a9897d1dc93e16b073e0aafad2596d_trns_h264/playlist.m3u8
+Sun Jan 12 20:32:41 CST 2025
+Sun Jan 12 20:32:59 CST 2025
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xPI6ypRrrK7EJavvx4VcjfteF5B0MllcIh7cEAXHRWDqeYGvAuBo4lZACmAkYPayzXMLjZpaw54ul4kICE0H4lK3nHB23RHoEZi_iRN7DPnQGcpGKlQzrZ8RktlHiR9l
+Sun Jan 12 20:34:15 CST 2025
+删除green10004 
+删除ake_mi 
