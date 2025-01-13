@@ -84,3 +84,8 @@ Tue Jan 14 04:32:01 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0NzEig7rB9pApAhgMrKxDSLD0BmoU2Ty6esLJ58b8ZZvLQPKnBJLFbiiB1RLknA7hQ7D7kH4ZtcJ17qqNy_2LHyIYdJFvGtP5nW-439JGoGPVPxKp5kNHD0ziiqmV_cX
 Tue Jan 14 04:33:30 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Jan 14 04:46:49 CST 2025
+Tue Jan 14 04:46:53 CST 2025
+Tue Jan 14 04:48:13 CST 2025
+删除leelate 
+删除chuing77 
