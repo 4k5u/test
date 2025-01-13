@@ -352,3 +352,9 @@ Mon Jan 13 20:17:29 CST 2025
 Mon Jan 13 20:18:44 CST 2025
 删除Xenomy 
 删除Dolv_1o 
+Mon Jan 13 20:31:56 CST 2025
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.7avxKItSMoG4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzdhdnhLSXRTTW9HNCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMEIzNkZERC1GMzdELTQ5QjYtOTIyQy0zQzYyQjQwNjUwNDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjc3MTUzMiwiZXhwIjoxNzM2NzcyMTMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wZDi4U-0ZlFNgz6-cgJ3IAN7bfPVwRgnqJpW69NJaZsc7hHpGLpI1Qi8c-K2rt1MWJFHQ5iJ95x0XpEBKIMJYG6upI6qdVPMOP0IKZCCsgNqeSWjol4yr3DRkNsuy9MO
+Mon Jan 13 20:32:30 CST 2025
+Mon Jan 13 20:33:44 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除ake_mi 
