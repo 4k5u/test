@@ -372,3 +372,7 @@ Tue Jan 14 21:47:45 CST 2025
 Tue Jan 14 21:48:58 CST 2025
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 删除acac88 
+Tue Jan 14 22:03:29 CST 2025
+Tue Jan 14 22:04:03 CST 2025
+Tue Jan 14 22:05:09 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
