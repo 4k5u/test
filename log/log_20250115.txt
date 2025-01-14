@@ -120,3 +120,8 @@ Wed Jan 15 06:16:58 CST 2025
 Wed Jan 15 06:17:01 CST 2025
 Wed Jan 15 06:18:21 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daa9490a1bde6f3348e443067de14765268c358881fe2b38de6fcb9ac577afe8_trns_h264/playlist.m3u8
+Wed Jan 15 06:31:53 CST 2025
+Wed Jan 15 06:31:55 CST 2025
+Wed Jan 15 06:33:23 CST 2025
+删除lolsos 
