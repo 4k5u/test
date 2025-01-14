@@ -389,3 +389,13 @@ Tue Jan 14 22:46:56 CST 2025
 添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTlDMzdCMC1FMkExLTRDQjUtQUUyOS1EMjI4RDEwODc4Q0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjg2NjA1MCwiZXhwIjoxNzM2ODY2NjUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.eZNI_Wka36zP4G5fcZTdF6H-HQ8HEaTKapB3PMTSgyQ-O9PqOuaOXYDTtMAa_u9EwkcGF7DFcNM7_lEJj3a-nC34Io_HAwWKACQkEnK6uSLTW71-k7e592jX9UfMeTz_
 Tue Jan 14 22:47:37 CST 2025
 Tue Jan 14 22:48:45 CST 2025
+添加your_desssert https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f266eea5e87cc6550b34fdcab0bf1c4e2dc591df2cbf6023164113a0870095d3_trns_h264/playlist.m3u8
+Tue Jan 14 23:03:07 CST 2025
+Tue Jan 14 23:03:46 CST 2025
+Tue Jan 14 23:04:53 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除hyuna0721 
+删除eerttyui12 
+删除Dolv_1o 
+删除dana9282 
+删除Asia-Lynn 
