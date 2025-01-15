@@ -300,3 +300,11 @@ Wed Jan 15 17:16:53 CST 2025
 Wed Jan 15 17:17:05 CST 2025
 Wed Jan 15 17:18:31 CST 2025
 删除_meganmeow_ 
+Wed Jan 15 17:31:52 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3N0JEMjIwRC1DRjQ0LTRCQTMtQTRFRi0yMjZGOEZCQzhEQ0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjkzMzUxMywiZXhwIjoxNzM2OTM0MTEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Qa3DrwohV0-EcEKmUqQlLQuinlb_XM78kux-Qd9FE0-bP8cK22v1OGXbFq1fv15pZfrLvLpJ8YjUqzPlD0QEeSHnLlK9HPnrLqJ7a0APHVAWCxaZWtnCm5duRUx7PjlP
+Wed Jan 15 17:32:06 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Cvjwci7vejE6HFvRllHlr3Yj6B-TosJ9mDcBvETSNL53CQ5TNitCuq-sfU-mvxyhbN01zVhmjl7Z7apMLspdBCUPe_bfN2aWYYMbdZ_42-UyLTICjz80tJSFoLn1mqtH
+Wed Jan 15 17:33:36 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除SanySenise 
+删除flowerwar 
