@@ -24,3 +24,12 @@ Thu Jan 16 01:02:22 CST 2025
 Thu Jan 16 01:02:52 CST 2025
 Thu Jan 16 01:04:01 CST 2025
 删除starsh2802 
+Thu Jan 16 01:16:54 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQ0Q5NUY0NC04QzFDLTQzMzgtQkIwMC1EM0QxNzU3QkM1NjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjk2MTQxOSwiZXhwIjoxNzM2OTYyMDE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LIJEy7YdlOKAntAiR9mMowfoGlmaTMe3cKBpoZVyG-RX-9U6J36OXjImFKvTpEFKOpy5OfI151aFkPgoKjFWH_oVWkaJrGJufQY4EdVSJa9eX77dunpjT97RS0YizpU6
+Thu Jan 16 01:17:20 CST 2025
+Thu Jan 16 01:18:31 CST 2025
+删除1stforever 
+删除jodong2 
+删除kjjeong0609 
+删除eunyoung1238 
+删除bongbong486 
