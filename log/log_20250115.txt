@@ -277,3 +277,10 @@ Wed Jan 15 16:01:59 CST 2025
 Wed Jan 15 16:03:26 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除alicelebel 
+添加sexygamesx https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-922401f4cb1e0b9baa0adaccb4473583b4d41071f901cbcf0ee6587aa99496b0_trns_h264/playlist.m3u8
+Wed Jan 15 16:16:54 CST 2025
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQTFBQUU2Ny1DMjMzLTQ4RDctOEQ0MC05ODIyNDJENjI2OTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjkyOTAyMiwiZXhwIjoxNzM2OTI5NjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4cOSYgQxW391Lpyh6hqnb0RvbkZ4OzNpWIzqpFfmsmlZRPsQ4bsn7061q-q2T_h1yN_OKHsaXxPNrEr0RVGT5oJfRT5mjieZzNf6mXzZCLc6B98emiRNUoy_lfPqFmYr
+Wed Jan 15 16:17:04 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GrBvE_qJyPsL8RandTJw4rKub5R29hAShVer60kzS6jsgO6SIbV2jqlQW0yMug3Q1MgH711dfr5Y7Xiwnh7mFSvgbiXuCyU3jiZX-17BmoZL9cK78EHhOeYyuGmTc2fh
+Wed Jan 15 16:18:35 CST 2025
+删除oki_dokie 
