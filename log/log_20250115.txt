@@ -315,3 +315,13 @@ Wed Jan 15 17:48:00 CST 2025
 Wed Jan 15 17:49:24 CST 2025
 删除oda_assuri 
 删除ake_mi 
+添加_meganmeow_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6cc2a3e5c063bc1bce19a14423e7bbdbfac766c6fe38633b0bb29ad0456011b7_trns_h264/playlist.m3u8
+Wed Jan 15 18:03:06 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMzZCNDY3Qy0wMDhDLTQyRjctQUIxMC04MURGMEI3NDVDNEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNjkzNTM5MywiZXhwIjoxNzM2OTM1OTkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wlVKGXodQ8c0CLe3D1oc2fSfiVHyHFhk8Bmst0r32jIHGqLXvbdz76VXEL5fs_vQmis6Bzvtu__lL61RZApZJJs1L2m4BjHuXtrqZyCS780dfGjBfxsemTT8_Yxn1HJF
+Wed Jan 15 18:03:22 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UXVgOa_sgIgYqAu-N226yrGqvcSicy9baBCE4IkHf-LVj5FO082TzRRJY1LOJ78n71Z3kOp3QCMBjSZOX8tqIk31SwCm_92__W3XIb1peNuyXp84SkwCTbHkBIQWkg16
+Wed Jan 15 18:04:51 CST 2025
+删除Judy0523 
+删除dkssudgktpdy233 
+删除mikio_san 
+删除_meganmeow_ 
