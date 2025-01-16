@@ -331,3 +331,8 @@ Thu Jan 16 18:32:07 CST 2025
 Thu Jan 16 18:33:30 CST 2025
 删除oki_dokie 
 删除foxylovesyou 
+Thu Jan 16 18:46:52 CST 2025
+Thu Jan 16 18:47:02 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gG5xtuN0EN1n91CxjoLqncmZ64rz2JyJQC4ZazJSD_EGHWD-5WQjWidIBevkznIq8dDVX2UxE5GfsQ-ceVaoOwhJjjFUWTrrB5HasSrodiGWLh2VAsmvY7DCBWW14_sn
+Thu Jan 16 18:48:26 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
