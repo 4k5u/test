@@ -3,3 +3,4 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3ed5e6e0a12edaffe96ce1892c29c299079f1f350b7db9903f580eb8a16f0832_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-79f394c81f944783e6230bbc202474441a1da037d4b108b8100a5bd7a43b1fe3_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-5e371b337f32cc3d23350a2b1476bb754e4f1139b76ad0da69adf0718b66532a_trns_h264/playlist.m3u8
