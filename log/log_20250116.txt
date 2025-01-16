@@ -382,3 +382,9 @@ Thu Jan 16 20:33:02 CST 2025
 Thu Jan 16 20:33:27 CST 2025
 Thu Jan 16 20:34:30 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加your_desssert https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f345671e29e9924952d59636c95852fbf9760bde9abbbe6c06b55a75d2b2cf60_trns_h264/playlist.m3u8
+Thu Jan 16 20:47:10 CST 2025
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D6e6vk06XVmc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Q2ZTZ2azA2WFZtYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QThGNTQ1Qi0wRURFLTQwMjUtOTNBQy1ENTNBM0ZFOTZBRDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzAzMTY0NywiZXhwIjoxNzM3MDMyMjQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lC-c0cdDIn9wUc9YosKVaam6U5uF_9A3t4HAO6ZJ_1ZJQT4FVu4dHy9pqsewe2Vi8hwa-W8TFNAiYjVPLym3PCcefLTOXXqanwjO6k8-rnK8TcXV6dD_vpr4L8wB4LXY
+Thu Jan 16 20:47:34 CST 2025
+Thu Jan 16 20:48:34 CST 2025
+删除in0410 
