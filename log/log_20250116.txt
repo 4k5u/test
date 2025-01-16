@@ -359,3 +359,8 @@ Thu Jan 16 19:32:49 CST 2025
 Thu Jan 16 19:33:57 CST 2025
 删除gremmy 
 删除Angel-Bei-bei 
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c911226f5370c5274b357167d5f7de68d284a34a955e70624215037f4bc44c62_trns_h264/playlist.m3u8
+Thu Jan 16 19:47:22 CST 2025
+Thu Jan 16 19:47:38 CST 2025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wLXgt3MqA6R1twoQDoQyCVaRo_eNps3VEvVa7EZr2ExoOiGjo7CjMwwtF1lgsqC9ld585JPFfA0wuF4Y3ZSS13aL0Kz6eh-wi7mYiJQO2XLYenvTHtjpS9tZLUo0gab_
+Thu Jan 16 19:48:54 CST 2025
