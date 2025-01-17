@@ -232,3 +232,10 @@ Fri Jan 17 14:31:55 CST 2025
 Fri Jan 17 14:32:05 CST 2025
 Fri Jan 17 14:33:26 CST 2025
 删除_meganmeow_ 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4f617ee9236707cf1f541d1cd3ab96ea292a87f00ead29e82e9e5e18c18d65d8_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-31ecafbf9d9bfa0c50d463e4c1992505bcb2c6ac8afa319769595f84cadfcf8d_trns_h264/playlist.m3u8
+Fri Jan 17 14:46:59 CST 2025
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D6e6vk06XVmc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Q2ZTZ2azA2WFZtYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRUQzMkVBQi04NjdBLTRGNDgtODE1NS0zNUI4Rjc2NzU1NkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzA5NjQzMCwiZXhwIjoxNzM3MDk3MDMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8ARJaTO63NujJw-mlfosH3BihOTl1tyfPv86920ptZYGbjd9yb6jOmfCSnacoX7rDPi6Sbn739QPzyhQe54xe6Pj0JEOGRZ-gsviKZ9i_9EHaHJW_3YsmGU0Ttphl5mg
+Fri Jan 17 14:47:13 CST 2025
+Fri Jan 17 14:48:34 CST 2025
+删除hanny27 
