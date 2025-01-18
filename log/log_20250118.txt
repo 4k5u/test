@@ -244,3 +244,8 @@ Sat Jan 18 14:18:11 CST 2025
 Sat Jan 18 14:19:38 CST 2025
 删除flowerwar 
 删除Dolv_1o 
+添加ake_mi https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ae59527f7ed2bcf0530a265f9713f30e42370369110d969975971176f630e8f0_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-66a6481e7f4fcc3d93d45ba59a4539d5b2e180f8b85a0a0fa7a41dacb29c36cf_trns_h264/playlist.m3u8
+Sat Jan 18 14:33:40 CST 2025
+Sat Jan 18 14:33:42 CST 2025
+Sat Jan 18 14:35:02 CST 2025
