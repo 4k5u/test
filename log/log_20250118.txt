@@ -414,3 +414,12 @@ Sat Jan 18 22:18:34 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除alswl2208 
 删除Hahaha_ha2 
+Sat Jan 18 22:47:02 CST 2025
+Sat Jan 18 22:47:28 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xEPQJuu_QsfikpbqbjGt8mhZSQEQPym85OAh1Jf7EXPSWTjQ_e6BL_QErVNMrrLgRjO1sexVrqKBwVWaS7SNePKsgyum9_W7Z6n2aEGSmuLEwCvULJW_FjLCoTmsypfo
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1wv2oepm3aSTymBB_0ee5bRv8YOOSzfHT_AB20cOr1GFPr0SIcB-od5qhjU0vq89T-Pgctimtz4i6ej-OH07YwMlxGSJSkfcZpZe6PzrvY3bNYj_ascdhlivPkhxxPru
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xEPQJuu_QsfikpbqbjGt8tFwm3aabIqi6efyav8iw9xraBmJszVdrboIHmJoR11wHtl_pP1fE0Sj_HEHhMaQvd6UsFi0UIhbgzQqgihKKb6r37O-DxK4Y45a-VKNBlB5
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1wv2oepm3aSTymBB_0ee5e8qmLGlLV5TFJh-qOdO0C1GJ0pa7N-kJ07_GII38MfgFL1jBOlhxHLAD62lv8gdp7F4kNKr0VZ6lSonY7Nb2yOPku2I_6E08b1YRCwPXm4U
+Sat Jan 18 22:48:50 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除172----95----student 
