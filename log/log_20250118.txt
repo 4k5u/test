@@ -407,3 +407,10 @@ Sat Jan 18 22:01:55 CST 2025
 添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQTNFQTFERS1EMDZDLTRFODctODkwOS1ENDAyQTFGN0U3NzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzIwODk0MCwiZXhwIjoxNzM3MjA5NTQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fYxL_wRs4-xvOT3xQeEVA59EFPkHUPhqLjFQN1WOVOCC8TyzpFBor1AGA9CLdWU_VItjlDFYeLUkzzXxwfpTjefNyrw0JVdc0mHxKG9Ad-RlYsbHbZWvHVjaZIkdMguW
 Sat Jan 18 22:02:24 CST 2025
 Sat Jan 18 22:03:35 CST 2025
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-97f37bf6ea3ff06c36378d9ea639641bac4a92fe7ea7f537825807bf3d2debe0_trns_h264/playlist.m3u8
+Sat Jan 18 22:16:56 CST 2025
+Sat Jan 18 22:17:22 CST 2025
+Sat Jan 18 22:18:34 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除alswl2208 
+删除Hahaha_ha2 
