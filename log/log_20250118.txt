@@ -381,3 +381,9 @@ Sat Jan 18 20:48:30 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除gremmy 
 删除ad0res 
+Sat Jan 18 21:01:53 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNDk3MTQzOS0wOEQ0LTQ0RUItOTMwNC05RDU2MDA0NzZDNUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzIwNTMxOSwiZXhwIjoxNzM3MjA1OTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Rm-r6oPzA3SO0FSkeejeY9gjTkRRHNRY41h55ZUa_3OGJK79-Q6mJVyITvvJyUNPp_pTBdJUQhle3DdDLkNcEyFctoVbi75BmBV2a1OBiJg0eR7P4T0EPcRqu7v8SLQK
+Sat Jan 18 21:02:20 CST 2025
+Sat Jan 18 21:03:26 CST 2025
+删除lolsos 
+删除jjine0127 
