@@ -344,3 +344,8 @@ Sat Jan 18 19:18:42 CST 2025
 添加JP-KARIN https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 删除ake_mi 
 删除Angel-Bei-bei 
+添加ad0res https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-da9d2ad760cac2da97fd4f5313294929e07ba9a5a5ec8d1372011f42fe1e9cba_trns_h264/playlist.m3u8
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-97f37bf6ea3ff06c36378d9ea639641bac4a92fe7ea7f537825807bf3d2debe0_trns_h264/playlist.m3u8
+Sat Jan 18 19:32:22 CST 2025
+Sat Jan 18 19:32:39 CST 2025
+Sat Jan 18 19:33:49 CST 2025
