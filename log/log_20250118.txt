@@ -264,3 +264,7 @@ Sat Jan 18 15:17:28 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nffRtgvaefRvLZyP-mHnQu3EAKZ_QXlR5WewY9T4jqYnnHZlq6aniitVawlJkLhRulgwdRT7JD6TgMfuCxMUzlh0LGrn2DXj2Azc18gx68h6Zvk9OeJmb1YG0n7zPblo
 Sat Jan 18 15:18:48 CST 2025
 添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+Sat Jan 18 15:32:22 CST 2025
+Sat Jan 18 15:32:30 CST 2025
+Sat Jan 18 15:33:44 CST 2025
+删除4ocari 
