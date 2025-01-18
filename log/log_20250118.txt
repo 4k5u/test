@@ -237,3 +237,10 @@ Sat Jan 18 14:01:52 CST 2025
 Sat Jan 18 14:01:56 CST 2025
 Sat Jan 18 14:03:22 CST 2025
 删除San___San 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e7ae5569d49211bbfdcb6ee1592306a0d84aa969fbebad1bc2014d3b96e92ce4_trns_h264/playlist.m3u8
+Sat Jan 18 14:18:09 CST 2025
+Sat Jan 18 14:18:11 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.UaJYHESUIalJSrvnC-HsUl9X09VxTXUrvGAE3TASQfRGYCVyb71nrc5ktXzgaEuEj9iAaLbHd3xAvA4xr19SfWbyjTjqpZUVtRyDiB3xXtqAZawWaZYxExFLICFTsjZ2
+Sat Jan 18 14:19:38 CST 2025
+删除flowerwar 
+删除Dolv_1o 
