@@ -7,3 +7,4 @@ mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-893876
 my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e90dbfa3fbd46b9ce65ea5a7594eb59bd14894377f731cd2743ce50305c6f5f5_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.k54p90D3uIOXHJgxarOSElR_jX6n33XCTXBIHPHjDhn7pXI4NOIH1eHuX_IqzO3j-Gwp-wa4g6tIYQTIX8I_yQFdxZrA7cToyovY9Wj3KASqKCsmPrgD-TThimjE94u_
+oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-8c76cf47e47d64076b701e82f50a5765812d88292ead8b6b6c6d8f83bc230d3f_trns_h264/playlist.m3u8
