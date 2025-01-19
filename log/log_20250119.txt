@@ -199,3 +199,8 @@ Sun Jan 19 11:48:49 CST 2025
 Sun Jan 19 12:01:54 CST 2025
 Sun Jan 19 12:01:58 CST 2025
 Sun Jan 19 12:03:22 CST 2025
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-af17a0ed912976e96aaac1305436f43794d364174418f186e2bb5fb6fa1af975_trns_h264/playlist.m3u8
+Sun Jan 19 12:16:55 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENThDOTg2OC0zRjkwLTQ4MjctQkI3Ni1DNUFFQTAyRjYwRDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzI2MDIxNiwiZXhwIjoxNzM3MjYwODE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.yuZg7A19iVR9IrgOgr4UE9Nl60nkZOMsgPJdtEAzjocEBTOU3JiJJkf_3KcW_M8I6FLJqGRcd2lALoG3qHfQnCTO_CLRqywmh-ZWlNoOwq66tqE58PmCTERD9D555f8H
+Sun Jan 19 12:17:03 CST 2025
+Sun Jan 19 12:18:24 CST 2025
