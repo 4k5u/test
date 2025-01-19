@@ -10,3 +10,4 @@ Judy0523   https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-af17a0ed912976e96aaac1305436f43794d364174418f186e2bb5fb6fa1af975_trns_h264/playlist.m3u8
+alswl2208   https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Bfi_Elk032za5DqjyKJIgNkDN_xN71hyTZ1ju1Cv6bgOhXFot3E4OBnaMi4KLMwYDAzbxltTkV5CA95y9o4f5VXGXHp5_AdOjAkk6ougbeKt06XqIoJPs7yqmSUNkxUs
