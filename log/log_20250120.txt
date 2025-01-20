@@ -213,3 +213,9 @@ Mon Jan 20 14:32:59 CST 2025
 Mon Jan 20 14:33:05 CST 2025
 Mon Jan 20 14:34:31 CST 2025
 删除Judy0523 
+Mon Jan 20 15:02:54 CST 2025
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.v7Uq5t9Y8wqB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3Y3VXE1dDlZOHdxQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMTYxN0E3Mi03MDcyLTRFNTgtOTM0Mi04QTlFRTM4NDkxQkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzM1NjU3NywiZXhwIjoxNzM3MzU3MTc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6C1R98NxhDWStQWmquHegVlo8fl7qkPXcFDK5Nem1WEI1573iwRM-P7HgAIV0e_yqCui9s97i1VD7uIHvo6kIV7NuUry3ieqOrketgOhWvkgAT2OW8HAogbFBoOCltOt
+Mon Jan 20 15:03:04 CST 2025
+Mon Jan 20 15:04:28 CST 2025
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除4ocari 
