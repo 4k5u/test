@@ -296,3 +296,10 @@ Tue Jan 21 20:47:03 CST 2025
 Tue Jan 21 20:47:35 CST 2025
 Tue Jan 21 20:48:43 CST 2025
 删除sigmasian 
+Tue Jan 21 21:17:00 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwREY3NzZGOC1CRjg5LTQ1QjgtQTlFMi04QkEzRjZEMjZFQjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzQ2NTQzMSwiZXhwIjoxNzM3NDY2MDMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.l1X9NFlM-sOPwOlIAZB85i2z5hZ8exYX1AyeVGOcjILIvbGH6WCZINN96VVtJ6pH9JEJr1-gIUo_osastImZtVAVb9tGvwCeLS15AWQWk3uNapvEQl3MRVxWZvnDNsfB
+Tue Jan 21 21:17:34 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.C4iAq9fC6GsZb0yVXYsn9C9x55YlQv3KVLOe6frLvHZ567dURsNh3ZRMr5sQaCAaOBP-yMMN9Dc16Y3NSaiVeQUw2zJJIVJZKamtxCnOKVAnvSXygX5uwO0jdPV7zy3W
+Tue Jan 21 21:18:56 CST 2025
+删除foxylovesyou 
+删除acac88 
