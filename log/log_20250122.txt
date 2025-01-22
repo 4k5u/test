@@ -375,3 +375,11 @@ Wed Jan 22 23:18:34 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除Dolv_1o 
 删除ake_mi 
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-85a77d2d4155de8455de542ec630b65b3da50c95fcfa6b3d8cad6dbc4de7d13d_trns_h264/playlist.m3u8
+Wed Jan 22 23:31:57 CST 2025
+Wed Jan 22 23:32:23 CST 2025
+Wed Jan 22 23:33:32 CST 2025
+删除thgml1212 
+删除Asia-Lynn 
+删除homegirl 
+删除your_desssert 
