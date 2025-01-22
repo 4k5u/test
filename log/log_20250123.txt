@@ -32,3 +32,8 @@ Thu Jan 23 01:47:09 CST 2025
 Thu Jan 23 01:48:30 CST 2025
 删除chuing77 
 删除ad0res 
+Thu Jan 23 02:01:55 CST 2025
+Thu Jan 23 02:02:07 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.pEgtEaqZ5T1oB-I91XVieNsOcxjVuAzpSXaRjqFOS4BMITO2mLK9AIR8UBM9gKh7pN9XEQ1Wqi2-aW7vLZerRG1EuS_tvdBgaklagTVUR9UePE-_diPoSs7WRmuRsZAk
+Thu Jan 23 02:03:30 CST 2025
+添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
