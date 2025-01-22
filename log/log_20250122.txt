@@ -155,3 +155,9 @@ Wed Jan 22 11:47:39 CST 2025
 Wed Jan 22 11:47:44 CST 2025
 Wed Jan 22 11:49:13 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-372032c2e7de27046524f82bbb68db8d44f6c1410583780e4348be4fff6dd8ca_trns_h264/playlist.m3u8
+Wed Jan 22 12:01:52 CST 2025
+Wed Jan 22 12:01:56 CST 2025
+Wed Jan 22 12:03:26 CST 2025
+删除homegirl 
+删除intim_mate 
