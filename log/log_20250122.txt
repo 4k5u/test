@@ -352,3 +352,10 @@ Wed Jan 22 22:32:29 CST 2025
 Wed Jan 22 22:33:44 CST 2025
 删除Judy0523 
 删除akakak11112 
+Wed Jan 22 22:47:04 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MDIwRjQ2Mi02NUFCLTQxODgtQjlGRS1FQTI1RjBBNkYxN0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzU1NzIzNywiZXhwIjoxNzM3NTU3ODM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9DAMH9F0xB1UQbwTZyKxhfTNWVy4gTyGhMCDLn1jwEK7xq5K5ZKU8cXvlCHeIEaSifXcSNLhVITepQQFgMQkrAhTxcMofKOTauiZfsNl4VVM2yJYvU8JrnCxvKNPQ0eB
+Wed Jan 22 22:47:36 CST 2025
+Wed Jan 22 22:48:40 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除rico0210 
+删除starsh2802 
