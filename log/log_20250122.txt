@@ -188,3 +188,8 @@ Wed Jan 22 13:48:23 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除_meganmeow_ 
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-200d700ee7d34758b7c86da2d301bab1e9dc855caefaa8f36cecfd4413b1448e_trns_h264/playlist.m3u8
+Wed Jan 22 14:01:53 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQkZEOTgwNi1FQzgyLTQ2M0QtQjU0OS1ERkVFMEY5REZDM0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzUyNTcxNCwiZXhwIjoxNzM3NTI2MzE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sI70JuoEOnEr2vNmPayjAtVx6tLVkJOA8RG6Gu1XpVOerv-yKAiY_hDdW8NCb52DrzqKqfRMJttDL_RzcOewHhZgAhnGyoqUutOIS-CZvxLCfqII68ztaLDSQ6rlii13
+Wed Jan 22 14:02:00 CST 2025
+Wed Jan 22 14:03:27 CST 2025
