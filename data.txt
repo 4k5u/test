@@ -10,3 +10,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-68f4b6c0ff723eede41abf74f767bc321d22e9baf45a38649ae753237acfc5a4_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
