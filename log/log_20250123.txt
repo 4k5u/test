@@ -303,3 +303,10 @@ Thu Jan 23 20:17:52 CST 2025
 Thu Jan 23 20:19:15 CST 2025
 删除mode_bad 
 删除ee5844 
+Thu Jan 23 20:47:45 CST 2025
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YjzZJynyy2sN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1lqelpKeW55eTJzTiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQTVBOTAwMi04NTFDLTREQjItQjZERC0yRTA0RDYxNDhFQjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzYzNjQ4NiwiZXhwIjoxNzM3NjM3MDg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.300T36aR7ofCnHvrJqImnNngTVbv0Dp4QLQmg7ew72j1LUr6gi3oufbruPmGsk9q3XP4fH29-9-rjwMW6zcXXXPtfrxMF7aYSBPciB1bqqB5B5o5bh2lEOneE-ST399g
+Thu Jan 23 20:48:13 CST 2025
+Thu Jan 23 20:49:30 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除zzeongi2 
