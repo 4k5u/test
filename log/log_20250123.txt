@@ -220,3 +220,9 @@ Thu Jan 23 15:32:56 CST 2025
 Thu Jan 23 15:34:17 CST 2025
 删除dreamch77 
 删除hanny27 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-464db0fe443266d5bc0f1d2f0c7ce55d3ac894676f552ca54f494cd15792f2a2_trns_h264/playlist.m3u8
+Thu Jan 23 16:01:56 CST 2025
+Thu Jan 23 16:02:00 CST 2025
+Thu Jan 23 16:03:27 CST 2025
+删除Judy0523 
+删除alicelebel 
