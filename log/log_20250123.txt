@@ -143,3 +143,9 @@ Thu Jan 23 10:46:53 CST 2025
 Thu Jan 23 10:46:53 CST 2025
 Thu Jan 23 10:48:21 CST 2025
 删除homegirl 
+Thu Jan 23 11:01:55 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MEJFODI4RC0zRjZCLTRFOTYtOTREOS0yMzA0MjJBNkVCMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzYwMTMxNiwiZXhwIjoxNzM3NjAxOTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._lFkUNWs8Ejtnm0Vl7NWnTDFwrMwia7URmHF7BhtLYoHerLkL2zHd6_SXhOsT8I3Rx2gFGo0GhbbVApJvE9g3jU-eOUQGDjGHyN6WVD6FJgqADv4OjugS1qx5RFFZWpH
+Thu Jan 23 11:01:58 CST 2025
+Thu Jan 23 11:03:26 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除IdaJonesy 
