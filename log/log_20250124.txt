@@ -20,3 +20,8 @@ Fri Jan 24 00:47:18 CST 2025
 Fri Jan 24 00:48:40 CST 2025
 删除jodong2 
 删除day59day 
+Fri Jan 24 01:04:13 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MDNCRjgwNS1ENzNFLTRGQjctQTI4Qy0xMkI5Nzc1QTMxMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzY1MTg2MiwiZXhwIjoxNzM3NjUyNDYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wxgCoC19Ton7yl75eZNZ1Ct3FO0QZ_1ZDU3FlwIRihldyRSPMtnJSBc7-4KvqewZ41AHrn4nwTJXlPF-6XSJsFnJB5wpM-wqjkngEcIPhczA_YtEJ2pNMSwum7y8GOd9
+Fri Jan 24 01:04:39 CST 2025
+Fri Jan 24 01:05:59 CST 2025
+删除hanny27 
