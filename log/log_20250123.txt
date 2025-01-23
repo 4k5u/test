@@ -231,3 +231,7 @@ Thu Jan 23 16:16:53 CST 2025
 Thu Jan 23 16:17:01 CST 2025
 Thu Jan 23 16:18:30 CST 2025
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+Thu Jan 23 16:47:36 CST 2025
+Thu Jan 23 16:47:42 CST 2025
+Thu Jan 23 16:49:10 CST 2025
+删除ddooyaa 
