@@ -210,3 +210,11 @@ Fri Jan 24 14:17:06 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eNlsLh19aVf2U0zYuSI3wSSMrj88PCBNfCB7ZRlUmuhw0F0JM9ybCa9LGlisb55GcZeABpgaWU3l0yWuf2xp_X7DwKBT-J93JpVNIgB1Ma0fKvJIz1D015YnRFzr0W9c
 Fri Jan 24 14:18:42 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Fri Jan 24 15:01:55 CST 2025
+Fri Jan 24 15:02:01 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vbI87NjiBd6IcAzCvnpuSmIc1u-c3-aaxPcCzFisFzvAE5r5eesnWUx5i5h85WfnXIuhQgdKrpeWNt3b9iU7dqiVVwb52cocLGsiat3BEQ55m7vZgR4pRzpIIqBNYzOA
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MksKlQavTT4ijtx5144X2S9AWWx3dxUlBAM4qno0h-Zz0h_fKxABycWVI8sTsr_47YxEUbjdvpkk6tQdqKOpZtws6pZdWQHiFrT4RBs11dPjv_x7Zvk9NqoNDydH3am5
+Fri Jan 24 15:03:36 CST 2025
+删除your_desssert 
+删除hanny27 
+删除mikio_san 
