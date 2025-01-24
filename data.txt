@@ -8,3 +8,4 @@ lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_play
 dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MksKlQavTT4ijtx5144X2S9AWWx3dxUlBAM4qno0h-Zz0h_fKxABycWVI8sTsr_47YxEUbjdvpkk6tQdqKOpZtws6pZdWQHiFrT4RBs11dPjv_x7Zvk9NqoNDydH3am5
 foxylovesyou   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ac42bf9167042fefba7b26724439fe7bfb01ba559a5b75149346bdc55452e691_trns_h264/playlist.m3u8
 your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4f474fe8ece4b842f148d182c3a66245fceecfd50b2bc31485ba80d4a6bca674_trns_h264/playlist.m3u8
+ake_mi   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-301dd82da10f0a741df1a4d7c2333a10d12a35c9786560e4d32b0d6ddd51fd47_trns_h264/playlist.m3u8
