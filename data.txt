@@ -9,3 +9,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-afee48614c08785286567fd82dc2dc22272bd5ad61b0c2e8bb0bfb4fc32e5aa8_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+honey_pinkgreen   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-43b9d0fea22f67a7d4ca1987d3d52aee61771018949bb205d16d0ed4b733258f_trns_h264/playlist.m3u8

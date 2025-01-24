@@ -53,3 +53,7 @@ Sat Jan 25 02:48:33 CST 2025
 添加Akiyama_Key https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 删除nobleinc 
 删除starsh2802 
+添加honey_pinkgreen https://edge18-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-43b9d0fea22f67a7d4ca1987d3d52aee61771018949bb205d16d0ed4b733258f_trns_h264/playlist.m3u8
+Sat Jan 25 03:02:08 CST 2025
+Sat Jan 25 03:02:12 CST 2025
+Sat Jan 25 03:03:34 CST 2025
