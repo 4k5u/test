@@ -134,3 +134,8 @@ Fri Jan 24 07:48:30 CST 2025
 Fri Jan 24 08:16:54 CST 2025
 Fri Jan 24 08:16:57 CST 2025
 Fri Jan 24 08:18:27 CST 2025
+添加oda_assuri https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ff7b8f1107887e0771e4f36943f68e46c67f3fe7c4f58dc9ac1f374793caad76_trns_h264/playlist.m3u8
+Fri Jan 24 09:02:40 CST 2025
+Fri Jan 24 09:02:42 CST 2025
+Fri Jan 24 09:04:11 CST 2025
+删除Sime_Naughty 
