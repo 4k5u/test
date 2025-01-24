@@ -168,3 +168,8 @@ Fri Jan 24 11:01:53 CST 2025
 Fri Jan 24 11:01:55 CST 2025
 Fri Jan 24 11:03:25 CST 2025
 删除oki_dokie 
+Fri Jan 24 11:32:51 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMUVBNTcxMC04OTZBLTQ1OTktQTAyNi1EOUVBM0Q5ODJEMEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzY4OTU3NCwiZXhwIjoxNzM3NjkwMTc0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hCeu1Z57GFhUejhVZk-XT5IqyDK8d8L9sMQmigRgxn29Ji-qh77mnFL3pFgZAuyDvsOLvz9FrV7vZtGHnt3MuK-ao1Bf922oB0aH1RfUMRWhFaoLSUxz9KXcy22GinIL
+Fri Jan 24 11:32:57 CST 2025
+Fri Jan 24 11:34:25 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
