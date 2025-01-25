@@ -187,3 +187,7 @@ Sat Jan 25 12:46:56 CST 2025
 Sat Jan 25 12:47:00 CST 2025
 Sat Jan 25 12:48:33 CST 2025
 删除nobleinc 
+Sat Jan 25 13:01:54 CST 2025
+Sat Jan 25 13:01:58 CST 2025
+Sat Jan 25 13:03:29 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
