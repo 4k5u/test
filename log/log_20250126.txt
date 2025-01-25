@@ -109,3 +109,9 @@ Sun Jan 26 06:48:17 CST 2025
 Sun Jan 26 07:01:52 CST 2025
 Sun Jan 26 07:01:55 CST 2025
 Sun Jan 26 07:03:15 CST 2025
+Sun Jan 26 07:32:30 CST 2025
+Sun Jan 26 07:32:32 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-Xsz-B9OwfjKa3Z2oMevv0bLVuUODBlDXR6irW0hE-9MnluR11ZtC1ClosqE8kNjlwUsdl7GBK8dUT9dmk-8xi_W_ZtwmlTu_kqYUEs1ZCYDUJSr9gjwYYvMsUF1VZUj
+Sun Jan 26 07:33:57 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除glglehddl 
