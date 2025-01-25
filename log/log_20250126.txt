@@ -102,3 +102,7 @@ Sun Jan 26 06:31:58 CST 2025
 Sun Jan 26 06:33:21 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除mazzanti_ 
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0d829d9fad1e9201929386c1def06e9826f3536e3077daf232a78258ab77502a_trns_h264/playlist.m3u8
+Sun Jan 26 06:46:54 CST 2025
+Sun Jan 26 06:46:56 CST 2025
+Sun Jan 26 06:48:17 CST 2025
