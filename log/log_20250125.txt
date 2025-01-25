@@ -300,3 +300,9 @@ Sat Jan 25 19:16:56 CST 2025
 添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D6e6vk06XVmc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Q2ZTZ2azA2WFZtYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEM0ZEQTA1Ni0xQzU1LTQ5OTEtQTZEMy04QjBCMDQyRkI4MkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzgwMzgzOSwiZXhwIjoxNzM3ODA0NDM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Mu_2jkZ729_8zrcX1X7ZkN2belJuVby6y4FWwvixxg7gJFVBbzLAcrY9UGCV2065jgNwvb4NJ5XLP1knRN_3qiomVBgOgyM0vMvvW3dmLrl41WsSAy23D8xvSPyw5CFi
 Sat Jan 25 19:17:23 CST 2025
 Sat Jan 25 19:18:46 CST 2025
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-67f48de6a3edc44e323bf40d94767a841a235d94782d0659884e2719be70472f_trns_h264/playlist.m3u8
+Sat Jan 25 19:32:01 CST 2025
+Sat Jan 25 19:32:26 CST 2025
+Sat Jan 25 19:33:50 CST 2025
+删除oki_dokie 
+删除sonming52 
