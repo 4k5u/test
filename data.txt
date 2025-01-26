@@ -13,3 +13,4 @@ oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8b42ffd
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.M4KQ00OdMXohnrIb8k4mxoJzdLGZwKhIu_5134aovTApmBanS6-5UcNniQeR3iEPPrxb-RGSEAZyEUfX1c1Uty2-yfx3_BM01wcW0JnNmUUMZ_i1l1vsbhM5jV63OFn4
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
