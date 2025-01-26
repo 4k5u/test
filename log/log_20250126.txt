@@ -142,3 +142,9 @@ Sun Jan 26 10:18:24 CST 2025
 删除kiyoko_rin 
 删除Akiyama_Key 
 删除Sime_Naughty 
+Sun Jan 26 10:31:58 CST 2025
+Sun Jan 26 10:32:01 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.paXuB1UXkBALONejM4b_WZfnqodlRsoSLbaDr0G2ItlbtKjYv3uGpjyhzOYLaboQ5aM9hb3rax1QoFIjvAgc3WuMIRDrMIX_csEjuwq1FGVKCyyWt7ngn6Y_aK0RoOTg
+Sun Jan 26 10:33:27 CST 2025
+添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+删除my_eyes_higher 
