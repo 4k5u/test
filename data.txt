@@ -5,9 +5,9 @@ cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_aut
 glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vvbCSifaVTgviHNm39KkG5fHhm1Yu2teFiPd_HOgHOMWAZ4kKm15gfEWXnJSyJi2hwcH8_vorZtKvWAFf3fq8OOKpBDToE4LLZ0XSDbMHkS8tnOUctzySCWeOOl5DqA5
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-942da7690237679c482b5e17e816250f95e10b53f27a1a74dd67b6791e5e6e07_trns_h264/playlist.m3u8
-kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 green10004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQTA0Q0MyNS0wNDQ2LTQyQUItOUI1RS1FOUQwOUI0OTE3QTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzkxMTgxNCwiZXhwIjoxNzM3OTEyNDE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.__Oewx9g1WkvHv8o8OSdnqQa6nn2ABaYgvMh_eIh6w3NIvbg1pMPbCo-inxCZOeBnMkRIYbekMC66WLyYF-GvcjGEGGemv6FpuWH72yEz3yQ_isssh1uGYgMUlJRKfb3
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 sexygamesx   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ced7381ade5527c687088421d7c63ae3ef9d2cc271b87676295b31699be66a2f_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cecb9e0355e80660790e697a8451d41bd61201f22b75794136cb6303e1fc90ca_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daf44c05ce127bb6160c8ce7e9d06b464bc63d31ff706241d2a5c6ac7f5f96f5_trns_h264/playlist.m3u8
