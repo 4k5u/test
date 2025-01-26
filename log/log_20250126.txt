@@ -306,3 +306,9 @@ Sun Jan 26 20:01:58 CST 2025
 Sun Jan 26 20:02:22 CST 2025
 Sun Jan 26 20:03:47 CST 2025
 删除happyy2 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ec40003830147ac8be7142d3769ea40afa9b9d11d398faadacfd8e14314698fd_trns_h264/playlist.m3u8
+Sun Jan 26 20:17:02 CST 2025
+Sun Jan 26 20:17:25 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YnoXdFTYBHbxhvl_HzB8vl3ZfbrcQlGT19vIbn2LaBWof_hA1bzCo-7f-QOVmJ2qY8QIgw3kgKoLX195L2RBTiz_4stvNR7F2vaWwRaYyl7-GaO14UpJZMW1fgf2zl4y
+Sun Jan 26 20:18:54 CST 2025
+删除Xenomy 
