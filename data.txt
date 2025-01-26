@@ -11,3 +11,4 @@ green10004   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 sexygamesx   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-ced7381ade5527c687088421d7c63ae3ef9d2cc271b87676295b31699be66a2f_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cecb9e0355e80660790e697a8451d41bd61201f22b75794136cb6303e1fc90ca_trns_h264/playlist.m3u8
