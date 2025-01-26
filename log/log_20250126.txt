@@ -318,3 +318,8 @@ Sun Jan 26 20:33:42 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除sigmasian 
 删除cuddles_me 
+Sun Jan 26 20:46:58 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCREZGOTJBNS04RUNDLTQzM0EtODY0QS1ENkI5RTc1QjEyMDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczNzg5NTYyMywiZXhwIjoxNzM3ODk2MjIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6-yCPjef9Zzf1HRh2Vk_6L-i_jeOPDXhOTWe0CJ9LO6gkfIfC3CbGmBHiB7PnKfI_puQatzo4G2Lb0W-jQXgnkV3lJ5aNw4RUwI2WZ_YXH132-vgLZ4c_gR7kB2xt_SZ
+Sun Jan 26 20:47:24 CST 2025
+Sun Jan 26 20:48:44 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
