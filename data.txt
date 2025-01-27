@@ -1,6 +1,5 @@
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 kiyoko_rin   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-cecb9e0355e80660790e697a8451d41bd61201f22b75794136cb6303e1fc90ca_trns_h264/playlist.m3u8
-my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-daf44c05ce127bb6160c8ce7e9d06b464bc63d31ff706241d2a5c6ac7f5f96f5_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-20683be9f4c8980cbe2fe259eee3dd6af922d0288f7f97f8ba579b8d3f0a2933_trns_h264/playlist.m3u8
