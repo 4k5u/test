@@ -8,3 +8,4 @@ IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c6d2bdfdb45d5884b2030867e107351c1f4d913a2326f1f989144e7af5ccc793_trns_h264/playlist.m3u8
+your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9f18de608552c165a78330ed83eac48d0fdf579108ccac9c5f888330911c7e02_trns_h264/playlist.m3u8
