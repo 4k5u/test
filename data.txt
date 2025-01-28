@@ -1,9 +1,7 @@
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-311b4b4d63a4a52917acc141087a09c351ef6f0d696864352e7a8c61f14b121f_trns_h264/playlist.m3u8
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r4vAonefZhBQ_hyXd44vcr0ufflEWfePqqShbks3DX_ZIVtl-8yFdyk9aFl3zTLbhLVaagB4yJv_6PAE5EMvily2xsFsiMfbsZze3MKukVQB7E3VLBEW7XZbb4qBl0sH
 rvn1015   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.k4s3_lOQljOkHRdsESxIHcwLlPlPQR882DNVXfm4qZVr6aEsJTW1vjA6M03J5dKNAxS-Y0YRdUar4fU5HuqXMDpxV4RIG6fOMzPfVH6TMAqctdS9IK4ZB2eXOFUGiQ1Q
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
-IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c6d2bdfdb45d5884b2030867e107351c1f4d913a2326f1f989144e7af5ccc793_trns_h264/playlist.m3u8
