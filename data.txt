@@ -1,4 +1,3 @@
-oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-311b4b4d63a4a52917acc141087a09c351ef6f0d696864352e7a8c61f14b121f_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 your_desssert   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9f18de608552c165a78330ed83eac48d0fdf579108ccac9c5f888330911c7e02_trns_h264/playlist.m3u8
