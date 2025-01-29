@@ -2,4 +2,3 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 kiyoko_rin   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-ac9d03f0afa2656b0e8b1990b5f9f664346df8df3e1af10b3ba9dba1a08dcdf6_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BbzuKTSZ_D9HxpaiK2QB2XOyTwRtrosmwYl-yCH1lEm-71WFRppXa2XOz4yKpWZHXAVJWy78QTgKe6TiOzw-65esLCxErf2pe6RULkxy8J0hB0qdujemaVoKZtRrFXq3
-my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d89c159192230debca5caede0662a8a0fbd9405f246ddc18c603135744b2c99d_trns_h264/playlist.m3u8
