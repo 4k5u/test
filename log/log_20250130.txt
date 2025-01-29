@@ -99,3 +99,7 @@ Thu Jan 30 07:16:59 CST 2025
 Thu Jan 30 07:18:26 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Thu Jan 30 07:46:57 CST 2025
+Thu Jan 30 07:46:57 CST 2025
+Thu Jan 30 07:48:26 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
