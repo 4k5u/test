@@ -10,3 +10,4 @@ lovesong2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.p-6zifGxVVLAifxPcx6HGu20AFoPmT8n5CqvTAXBdrTgGi3lzR9yRx2OKwU7t7dhAFEBDGQWhEjsYfbnlRu46khgniYhkclHGrOMw6OpVvLGaZsoPLjAuexQ5QeKKdkQ
 iminako   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-093375f9a21c2491fd7b6ce9905713d96a0a09bc6c203855eb9dab45eafefa14_trns_h264/playlist.m3u8
 your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-9ee77ae76c396d0475d5268a568b3aa8c437bd8c75fa5760643651a79dd61fcc_trns_h264/playlist.m3u8
+ake_mi   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-287017ce234b2bcd6620017886fe769233895029b5c521d946d8abfba351af26_trns_h264/playlist.m3u8
