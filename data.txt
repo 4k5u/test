@@ -3,7 +3,8 @@ oda_assuri   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-89eb
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wdffA6oSgYGLBOs7ymFN_AZ3BhGMnPCDpRUfSmPvfHovxZ9pU4XuGW-HwbqkiGlGz-8Jej8dhkWlPfhMnRhQlzMCnelpt7BLKdBCmbHLH2UPGvuEUcJx2E3PjY49fiXh
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1c1f17952a8332db9cf71c8e4ab4bb2bdf2b3af65ce2adfedf045d225163f94f_trns_h264/playlist.m3u8
-flower1023   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aoFPzti9DbHh-2u1CHV1uNZNmtXn4-TlKrq2yXgoTkGqZjzUbdiR2bzPJHk_8u2GYDaDAUN3CTy0xsXWrk_hPGutQdWC5ikmJmXiy1wELEAsUXCnEOZiEZ4g8kTWIAhC
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5-smA0QytIV9SMoegymvfnuefGU8cXfU1fQjiVY7U71hiKUBfy4BDaBPl7PpHH7FdgWjlYAkpFrTJ1oyjdo9LK13JJSFBi8oPYVabeQZZZsat9rliRhqHWBIFkbdFlQS
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6f0e16cde03f8a310eabc28584bae68c39cd3f08151523f050cde82d02b26bc2_trns_h264/playlist.m3u8
+y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.O4Q_-dZLulGIEWePwZN4e4VUlMaVNLA49HGuzkZ4-fP7H5iehy8J2sfz_KXJf-d8uLPThVhN_uN7tGRTfZLSAwMEsYMKByEWSP2cWSbgcE7UqpoqyuK3SKbgAX0-PQbq
