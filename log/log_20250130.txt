@@ -163,3 +163,8 @@ Thu Jan 30 11:48:26 CST 2025
 Thu Jan 30 12:01:56 CST 2025
 Thu Jan 30 12:01:58 CST 2025
 Thu Jan 30 12:03:25 CST 2025
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-16d5e843fb9d52a22d9ab79c79f3ed9509230436b9189352b504d4e027f97bdd_trns_h264/playlist.m3u8
+Thu Jan 30 12:46:55 CST 2025
+Thu Jan 30 12:46:57 CST 2025
+Thu Jan 30 12:48:28 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
