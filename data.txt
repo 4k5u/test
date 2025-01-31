@@ -11,4 +11,3 @@ taitehambelton   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-
 your_desssert   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-d2b72570a86d09d83731c2fdec474a354502df3477491967760d6659f8fee6e7_trns_h264/playlist.m3u8
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8gTptUYD_S6_FFIxExuPY-2hTnLwMo9SSDJQ5oCbclVN2MZo0AADWrG27Cf1eZKpguqqd4v4aajiyicy0DaOVdDVHctWGjRBbNOxMsxkTmWk8Pxt65VN9keHCRdt8MXz
 foxylovesyou   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-158b1c7bdcb589c7894c9a5e52bc5b82d1b98a26d3be3bf355bd4e430890ade3_trns_h264/playlist.m3u8
-Tmdgus5411   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.A1tiqjwvuGoDHDMsv-XySjxhA20QAaLF3jJzXneQlaeUZBFkGZM7jntbcZJKYHFPNNvKc2HT-CAa780qnQ1zf2aIpSRYiqGttUOckAg3sZwe08m-V6n5sp502WHHnmNB
