@@ -5,3 +5,4 @@ kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-c8b83
 my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2b3a7c314ece51fb53a0bff30bcb8fb46ae436d17b8770f89c748c32c92d8e85_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-e59f89ec2359f353de7a7479177309ce5f20cbba848bdfa7a36ec2920e481ab0_trns_h264/playlist.m3u8
+cuddles_me   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-73c2f5e485c3eed6d138486eb3ac9db5540317335ba5ed3adcc9e6865db310c8_trns_h264/playlist.m3u8
