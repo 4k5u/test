@@ -118,3 +118,8 @@ Sun Feb 2 05:46:54 CST 2025
 Sun Feb 2 05:48:16 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除glglehddl 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f30f92e617fda7ef5492d60a11d291031ffb9f51ae04893936432157cc430ad8_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge6-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-511bf129ee40f605ce9f06a7cdb6fd16b4c5dddfb00e8fdce2e2ba6726f1ba27_trns_h264/playlist.m3u8
+Sun Feb 2 06:01:59 CST 2025
+Sun Feb 2 06:02:01 CST 2025
+Sun Feb 2 06:03:23 CST 2025
