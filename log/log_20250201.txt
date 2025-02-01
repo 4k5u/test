@@ -228,3 +228,9 @@ Sat Feb 1 15:02:00 CST 2025
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YQDyHsiQPpaov-0ScWOVfKpPUtSrNF1_4EPds4RvFPY_AmJwJuUpdShlZnHCIGx-5OT0ufzg1cTXZB3b79cXH5iLS2N2uMzPYNUzx6Y0N_A6j11Ina6u9HVUOs15QGs-
 Sat Feb 1 15:03:25 CST 2025
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-011b047d31be8d13c52f2721e92926460bf62f532c1b22baa0dabefd9b33cf09_trns_h264/playlist.m3u8
+Sat Feb 1 15:17:56 CST 2025
+Sat Feb 1 15:18:02 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YQDyHsiQPpaov-0ScWOVfM3Mf8GFxTuUiv9DBbqbeP93l3ByfZp62NpWNL8_Wry6dmuqHGKY8-qEaMVDwjKvvKGOSaRbOMNZw_IkAXfmRxtcWu3_UOY6DwpuDQf-aM31
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7fJ9Dif4RNdYUWniMkjn7BRxU0yD6W3_ufYzy6a6y5o_MlAdAqsGpQCSpVdoT_VNdpZ1bajEzgVZVQEjGJtdLne_LXYx8kqayPk2rR6qzEAvLDj4DnBasipr76pP8ZWC
+Sat Feb 1 15:19:24 CST 2025
