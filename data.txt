@@ -6,3 +6,4 @@ taitehambelton   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-
 intim_mate   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-818a475f2dbd8d78f4848498333e01c05b0f3fd8d0703d22f40c2e4551942c72_trns_h264/playlist.m3u8
 leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.quZcjwEcfKKKdWGg62q0ukr_1C1CYr7yZBKeDdefG1ECYgwKg4SD02NcKQPHP2HdpIVLBDRRxAuI2wfoVijSFRlzPFjP3VVotVGwnR7de-PHoy1fRNXKYglSIEQU92ph
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RNwCpyEM08MFBx5GyMadjwQFfX3xd_0xV60IQusIXHmhI7RqVGnSeNB44ZCu4s4a7JLsCElDtZWqrQzrrVkdqLexDSSI4Ok_5ETFizjIN0r7qYgtln7uhRqLZyWcSbtN
+sexygamesx   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-638fe9cf46637aa6ee9e72934ec628c55513c12089eac2730e731ffa76297780_trns_h264/playlist.m3u8
