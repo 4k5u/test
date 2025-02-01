@@ -146,3 +146,10 @@ Sat Feb 1 10:03:26 CST 2025
 Sat Feb 1 10:16:57 CST 2025
 Sat Feb 1 10:16:59 CST 2025
 Sat Feb 1 10:18:29 CST 2025
+Sat Feb 1 10:32:43 CST 2025
+Sat Feb 1 10:32:45 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.quZcjwEcfKKKdWGg62q0ukr_1C1CYr7yZBKeDdefG1ECYgwKg4SD02NcKQPHP2HdpIVLBDRRxAuI2wfoVijSFRlzPFjP3VVotVGwnR7de-PHoy1fRNXKYglSIEQU92ph
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RNwCpyEM08MFBx5GyMadjwQFfX3xd_0xV60IQusIXHmhI7RqVGnSeNB44ZCu4s4a7JLsCElDtZWqrQzrrVkdqLexDSSI4Ok_5ETFizjIN0r7qYgtln7uhRqLZyWcSbtN
+Sat Feb 1 10:34:15 CST 2025
+删除kiyoko_rin 
+删除Akiyama_Key 
