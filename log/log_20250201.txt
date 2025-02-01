@@ -131,3 +131,7 @@ Sat Feb 1 08:47:43 CST 2025
 Sat Feb 1 08:47:46 CST 2025
 Sat Feb 1 08:49:15 CST 2025
 删除ddooyaa 
+添加oda_assuri https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ad620937567362d68ca844229986cc629c719d69150dbf5905d72251422b596f_trns_h264/playlist.m3u8
+Sat Feb 1 09:16:55 CST 2025
+Sat Feb 1 09:16:57 CST 2025
+Sat Feb 1 09:18:28 CST 2025
