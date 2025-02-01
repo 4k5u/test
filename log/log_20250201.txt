@@ -190,3 +190,7 @@ Sat Feb 1 13:01:56 CST 2025
 Sat Feb 1 13:03:24 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除nobleinc 
+添加sexygamesx https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-638fe9cf46637aa6ee9e72934ec628c55513c12089eac2730e731ffa76297780_trns_h264/playlist.m3u8
+Sat Feb 1 13:16:56 CST 2025
+Sat Feb 1 13:16:58 CST 2025
+Sat Feb 1 13:18:24 CST 2025
