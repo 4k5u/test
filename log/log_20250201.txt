@@ -273,3 +273,7 @@ Sat Feb 1 17:46:57 CST 2025
 Sat Feb 1 17:47:08 CST 2025
 Sat Feb 1 17:48:32 CST 2025
 删除oki_dokie 
+Sat Feb 1 18:02:01 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUY2NDMxMi1ERDJFLTQxRDYtODNENC01QjNFODUyREJFMjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODQwNDEyNiwiZXhwIjoxNzM4NDA0NzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Nfn_ZsYxHBPYrA20fSE312kBP4lRcnrqSu-cROw_uAyyF4I-6KNfKojqYx_acUfgNGp8bey6jZUrW_8vgDleELP3UMGntz44yDrDTJJyzjeHwa_q_Lt98wAgu_po99D9
+Sat Feb 1 18:02:15 CST 2025
+Sat Feb 1 18:03:29 CST 2025
