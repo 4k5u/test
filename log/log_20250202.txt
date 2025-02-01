@@ -28,3 +28,9 @@ Sun Feb 2 00:49:07 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除soso621 
 删除oki_dokie 
+添加taitehambelton https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-4cc378e77a78a5e7a94e238405fa8130ffc056877916600683edce45314cbae9_trns_h264/playlist.m3u8
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4d61a85c8da2a776acd6253ecb4b79f4b0e40b03f06cb4e709e943b23c359509_trns_h264/playlist.m3u8
+Sun Feb 2 01:01:57 CST 2025
+Sun Feb 2 01:02:22 CST 2025
+Sun Feb 2 01:03:20 CST 2025
+删除smmms2002 
