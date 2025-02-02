@@ -6,3 +6,4 @@ my_eyes_higher   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a924a8ef956b3b06ddfe6a34704c24dc61d929b9a74af4ae4f7c15dad5eb01f9_trns_h264/playlist.m3u8
 kiyoko_rin   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-be65db518d0aa1ef775c2110831714bbbdb58244689ae140c008188e9b2f95ea_trns_h264/playlist.m3u8
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
+mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-a1bee9c8728426fe49e822de6ced30af9c9e1866abcd3d3eb24fc8f48604db7e_trns_h264/playlist.m3u8
