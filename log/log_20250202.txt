@@ -247,3 +247,8 @@ Sun Feb 2 15:01:57 CST 2025
 Sun Feb 2 15:02:05 CST 2025
 Sun Feb 2 15:03:27 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加your_desssert https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b0ff7b644fbe0997a46c93d8277459890f762dc2e4d2052b7a250658f7beba03_trns_h264/playlist.m3u8
+Sun Feb 2 15:16:58 CST 2025
+Sun Feb 2 15:17:06 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gIvPs_WYMcRxfhtPzx-nOVBo1KANkRLHjSaSH0s_EGSgiIVMsDm5mavEHj2P2n6NyUxU3OL-eUIXjMT45ckC3435U5zJzNRl1Mifs9tjbKrmC8uM7gZEWwHmJpDUY3Yn
+Sun Feb 2 15:18:30 CST 2025
