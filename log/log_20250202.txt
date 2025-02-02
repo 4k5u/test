@@ -169,3 +169,8 @@ Sun Feb 2 10:03:23 CST 2025
 删除ddooyaa 
 删除oki_dokie 
 删除mazzanti_ 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f30f92e617fda7ef5492d60a11d291031ffb9f51ae04893936432157cc430ad8_trns_h264/playlist.m3u8
+Sun Feb 2 10:16:57 CST 2025
+Sun Feb 2 10:16:57 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ELJLAUyHWdPoPZIo1bPHkHByXdYlT8aZAPysP3o0JY7ItB-6Z2dooCfRKPkQiN05Ve63AucfV0-qInBj9VchfQPrwKVgyxPs2n8jc8SUeK_XEuh2wnX4pAI-qwcITzVC
+Sun Feb 2 10:18:27 CST 2025
