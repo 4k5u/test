@@ -7,3 +7,5 @@ oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f30f92e
 _meganmeow_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-511bf129ee40f605ce9f06a7cdb6fd16b4c5dddfb00e8fdce2e2ba6726f1ba27_trns_h264/playlist.m3u8
 mazzanti_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4dce1c17cd6c82fa10d373e64f72da1952f0f424d99bd7b70eff3f22801ee61f_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+oda_assuri   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-755bb8f1af4f0a706a5c207b1fa2b50b604da4c81aae4655fd767db38d82af32_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
