@@ -21,3 +21,4 @@ day59day   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 JP-KARIN   https://edge-hls.doppiocdn.live/hls/118658626/master/118658626_auto.m3u8
 glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.u9-US17grmoXmZGxGWt4D-eioIu1YEpARGD_3HQKk3eqK75ADp8mAwYnObTzAMEFA81-3PcnfeEEPcscpbVnU_tkg40R3K4KH1Zgcgtvy9Kerp97Sy9aGuTU0hs_E2Co
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+oki_dokie   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-4266c900fe464673fd06464c0c688cf94da1ae1b9d8650ddc662fbaef7a468c2_trns_h264/playlist.m3u8
