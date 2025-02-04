@@ -378,3 +378,10 @@ Tue Feb 4 22:32:01 CST 2025
 添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMjYyMkI3QS0wNUU3LTQ1RTMtOTg4Ny0wODY4ODI4NEMzOUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODY3OTU1NCwiZXhwIjoxNzM4NjgwMTU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.WIrpSeTTL5Ccc4NNjETQ4YJ_paZFgJm5ceAsazMSNLuiIgHB-HEnE-vQey1Ig5uOOL7CWxTWn6OO2DrAHqys42bFHfeREgJSfP7hQVrCXZYrQ_uHxufsQLzG1ynQE6Ka
 Tue Feb 4 22:32:41 CST 2025
 Tue Feb 4 22:33:37 CST 2025
+Tue Feb 4 22:47:42 CST 2025
+Tue Feb 4 22:48:17 CST 2025
+Tue Feb 4 22:49:12 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除somsom0339 
+删除soso621 
+删除emforhs1919 
