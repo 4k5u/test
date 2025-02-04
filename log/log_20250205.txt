@@ -77,3 +77,7 @@ Wed Feb 5 05:32:00 CST 2025
 Wed Feb 5 05:32:05 CST 2025
 Wed Feb 5 05:33:34 CST 2025
 删除my_eyes_higher 
+Wed Feb 5 05:46:55 CST 2025
+Wed Feb 5 05:46:59 CST 2025
+Wed Feb 5 05:48:27 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
