@@ -12,4 +12,3 @@ kiyoko_rin   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b2f56
 Akiyama_Key   https://edge-hls.doppiocdn.live/hls/121137535/master/121137535_auto.m3u8
 sexygamesx   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-74e49c8fb6ca960a700e0c37eb410ed272c36d4b60b76dc6f49ceb6d4ca5c1a4_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.r_HKh3h18uDuABWeuPxJx2QXIO8a3rs_fJNb1KzoCgB_r4QVnns8DxG3JpNNMEm4fLm_bphxU4ZBw-pjP-zey_SGEpmnU9x5E_5SCLviHMhHKDEGhlB1Z1UFG1TSBTp_
