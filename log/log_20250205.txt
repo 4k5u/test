@@ -147,3 +147,12 @@ Wed Feb 5 11:18:45 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除leelate 
 删除oki_dokie 
+Wed Feb 5 12:01:56 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMTZBMkVGRS1GQ0EwLTRERUItQTEwQS1DRkZDQUEwRjgwQzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODcyODEyMCwiZXhwIjoxNzM4NzI4NzIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.a2W6hon13iWD8B_VjjEv_DlfUu5UrwVLkkJ3hhy058RjW0fIvu-EyDEu_Dd6jybQrXn3Pxgx-NMakLNuTn_oKo9p7WCms3imbTwuDSZqUCvox-H9MhwjNfut9DhKNeTF
+Wed Feb 5 12:02:05 CST 2025
+Wed Feb 5 12:03:33 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Akiyama_Key 
+删除nobleinc 
+删除kiyoko_rin 
+删除my_eyes_higher 
