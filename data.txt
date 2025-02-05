@@ -6,3 +6,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kiyoko_rin   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-b2f56a7a5f9745c4e0e8530d78445b39b74b2a6e3eeb0c54cb8f196e0af20b5c_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-92027319cae6bb86460a23df872ea7f46c12d20545feb03c5f45500dd8adab71_trns_h264/playlist.m3u8
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a5417592a590c80ec9361fb1b6ac4c9bb8cd082a33ff9f4882bf59ab2f6c7d79_trns_h264/playlist.m3u8
+_meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-edbefdc746f60a54903616916ee929203de5b6c15d6c266c72e0ce51b9025f3d_trns_h264/playlist.m3u8
