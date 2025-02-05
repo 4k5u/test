@@ -67,3 +67,8 @@ Thu Feb 6 03:17:08 CST 2025
 Thu Feb 6 03:18:18 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除ahri0801 
+Thu Feb 6 03:31:59 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOTUxMzlGNC00RjdBLTRBMDMtODJFMS0wOUQ2MERFM0UxQUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODc4MzkxOSwiZXhwIjoxNzM4Nzg0NTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.X3NqSn2v90bRArnIF6p1mHkYPKHKwoiycPp9qbhBcRnVZZSmwrzggXcEsd-39pK4q5EHxQKQlb-s7OgNnAf293dquZZWxTUJKQGy0xd8nEKqzaX3NI83bT8nPBCuI4KH
+Thu Feb 6 03:32:11 CST 2025
+Thu Feb 6 03:33:23 CST 2025
+删除starsh2802 
