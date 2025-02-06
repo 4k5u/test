@@ -253,3 +253,8 @@ Thu Feb 6 17:33:50 CST 2025
 Thu Feb 6 17:35:12 CST 2025
 删除oda_assuri 
 删除Xenomy 
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-066e9cc0d04759c6acaf200a56435384100c16ad904989c9f0fff0914c50d08d_trns_h264/playlist.m3u8
+Thu Feb 6 17:48:33 CST 2025
+Thu Feb 6 17:48:44 CST 2025
+Thu Feb 6 17:50:09 CST 2025
+删除mode_bad 
