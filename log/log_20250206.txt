@@ -321,3 +321,15 @@ Thu Feb 6 20:48:49 CST 2025
 删除naras2 
 删除somsom0339 
 删除lolsos 
+Thu Feb 6 21:32:43 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMDMyMDdENi0xNEMyLTRBMkItQTEzNS04NjgyOUQ4NTM4Q0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczODg0ODc4MCwiZXhwIjoxNzM4ODQ5MzgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.d8sDJ5kfTdzq5XgETHf55R5nmBZQCyTYcXbByVsRm9jDqwgiK0gvKoGUFkcCfY4JDCQd-pH3fhQ7LuoMlDfO2ESLKmO4gd9RVtXw8p03fu7p7Sx4PtsdxZY_3Xfn__R0
+Thu Feb 6 21:33:23 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ahqwyKG6nm81Lt1TF2cmybwoIGhZ8qhCN1oDkdxmxhA2ruZfl2ABP7zmk-MDf-3TLdFc44UTlZ5Fm3ob_z8HUz9lIuWnkI760HlY0akWlklc8UH1kB2CacyiAKb8j025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OslWoFzt3jd6KuJ4TBOCIiDujaTCzyhNwtw2ecEkYXOU4yQVEoA4wRqWKWZOzGV83L74EQH4PkKSZGpK-ZtLUeENrER6Ge-0Skz9cMc8Wn4wXBPxEhD4907R3paQgqOS
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qlp9XFM1F-6mSqwdi2ulpB4TB0KqIffoJlhRVHKNqBsv5T0eaKXp83c4VYoHg4RUFK_1qWbavhbzaaqBd36LWQszJm-8nNMAlrdGXvWiKt1d1Rm859-dFnJPbe3Xeig_
+Thu Feb 6 21:34:40 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除alswl2208 
+删除redholic377 
+删除hanny27 
+删除JP-KARIN 
