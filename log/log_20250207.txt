@@ -219,3 +219,7 @@ Fri Feb 7 14:34:33 CST 2025
 Fri Feb 7 14:46:54 CST 2025
 Fri Feb 7 14:47:02 CST 2025
 Fri Feb 7 14:48:23 CST 2025
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d48939cd9030a7a9046345ae9da074a3113f814925070b418375c696b1f5234c_trns_h264/playlist.m3u8
+Fri Feb 7 15:16:56 CST 2025
+Fri Feb 7 15:17:04 CST 2025
+Fri Feb 7 15:18:27 CST 2025
