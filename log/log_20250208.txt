@@ -375,3 +375,8 @@ Sat Feb 8 22:46:59 CST 2025
 Sat Feb 8 22:47:31 CST 2025
 Sat Feb 8 22:48:36 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Sat Feb 8 23:01:58 CST 2025
+Sat Feb 8 23:02:26 CST 2025
+Sat Feb 8 23:03:32 CST 2025
+删除jjine0127 
+删除oki_dokie 
