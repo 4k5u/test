@@ -35,3 +35,7 @@ Mon Feb 10 01:33:30 CST 2025
 删除tess00 
 删除day59day 
 删除cecilia0903 
+Mon Feb 10 01:47:23 CST 2025
+Mon Feb 10 01:47:33 CST 2025
+Mon Feb 10 01:48:57 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
