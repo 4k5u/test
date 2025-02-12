@@ -118,3 +118,9 @@ Thu Feb 13 06:01:56 CST 2025
 Thu Feb 13 06:02:00 CST 2025
 Thu Feb 13 06:03:22 CST 2025
 删除Reaowna 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-548b9b2f2300f9c18658561a87d7d34fa1dbeac4d05c8c9a215bf056809197f5_trns_h264/playlist.m3u8
+Thu Feb 13 06:17:02 CST 2025
+Thu Feb 13 06:17:07 CST 2025
+Thu Feb 13 06:18:20 CST 2025
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除dreamch77 
