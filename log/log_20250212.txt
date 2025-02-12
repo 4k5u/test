@@ -208,3 +208,8 @@ Wed Feb 12 15:31:56 CST 2025
 Wed Feb 12 15:32:04 CST 2025
 Wed Feb 12 15:33:31 CST 2025
 删除100472 
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-76e0ee760b336916732d245f43e8b67e3fe146eb62ea8f71b4a3b4703aac67a8_trns_h264/playlist.m3u8
+Wed Feb 12 15:46:54 CST 2025
+Wed Feb 12 15:47:00 CST 2025
+Wed Feb 12 15:48:26 CST 2025
+删除ddooyaa 
