@@ -205,3 +205,9 @@ Thu Feb 13 12:18:40 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除lolsos 
 删除_meganmeow_ 
+添加taitehambelton https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-daddff53db72a742d3eca217648e06f076d1385bb55363ca96750d2d60ac566a_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-677da08a100cb39ab8a0ebe06d0cde663957b9069f091d85d3fb67439735a9e3_trns_h264/playlist.m3u8
+Thu Feb 13 12:46:55 CST 2025
+Thu Feb 13 12:47:01 CST 2025
+Thu Feb 13 12:48:36 CST 2025
+删除my_eyes_higher 
