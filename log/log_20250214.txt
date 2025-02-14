@@ -331,3 +331,12 @@ Fri Feb 14 20:47:44 CST 2025
 Fri Feb 14 20:48:50 CST 2025
 删除mode_bad 
 删除somsom0339 
+Fri Feb 14 21:17:38 CST 2025
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NDJGRTNCMC03RDM1LTRGMTItOUZDQS1BMEJDN0QwNEMwOEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTUzOTA5NSwiZXhwIjoxNzM5NTM5Njk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.P1HNnjT_MYyytHec8TTdj9iU6M3B0vMYtP3tkD0B_IrNM4o4HV_pczjxCOTTcEKtlBX_JuNd8HjViieKFD0GLmx8PKnFH46gpICqKBl0tk9gPQ8xYke0VUYjiZZxA7Ui
+Fri Feb 14 21:18:18 CST 2025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dwp4JAJbZpAHd15l_LZ8v1SNSuV3wX57b1HG5wqMLeK6Qx5kC_JMPIQqrCo3LuZUDCk7jDfxBw8pBzGDbXMopDCAEomk1PGJLWQpq7bqHcsoZzRQcFKptf0uZHMbMtIk
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.B46j-WHKGf347ck1JoEMKRSBnhwkvaAGzYF7Gyo0aTFdVOAW-mxe8JR7swx7IADB8FgIx_6XmLvT1xRxVtB1xo2Plei2OLCAg0y8Q0Yvw-GCYVduVUNH_Im0pJDaXIp4
+Fri Feb 14 21:19:26 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除y1026 
+删除rvn1015 
