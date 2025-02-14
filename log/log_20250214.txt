@@ -309,3 +309,8 @@ Fri Feb 14 20:02:43 CST 2025
 Fri Feb 14 20:03:15 CST 2025
 Fri Feb 14 20:04:23 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Fri Feb 14 20:17:05 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.K0UH5AB9G9Kf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0swVUg1QUI5RzlLZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NEEwRkExOC00Nzc5LTRCMEEtODBGNi03NjkyQjk5Q0RDQjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTUzNTQ0OCwiZXhwIjoxNzM5NTM2MDQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xQxkgT0uejE86m2HvDWokSpOTPwvcTRT-SmNPylIaCFumkoMeuIQXMkKxa3zYrSB6AdEsPjR1OgZTvMHhoFPeYIOVvgtyK0VeaUnUMWVCOVszgoUvqWRBa0W21VY-7yL
+Fri Feb 14 20:17:39 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ls83kd747UmXr8IajRE6JyfV7aWn4WWbikbvXAkOtWJ9eEeyRErMISn0FDVeo5DcozzOghN5NZn6NLJfsgU7o1WEn0nfZW_XCsDaSbPFUl-5zdiNxoJTu976R0FmyyIO
+Fri Feb 14 20:18:45 CST 2025
