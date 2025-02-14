@@ -14,3 +14,10 @@ Sat Feb 15 00:18:26 CST 2025
 删除cecilia0903 
 删除172----95----student 
 删除sol3712 
+Sat Feb 15 00:31:59 CST 2025
+Sat Feb 15 00:32:21 CST 2025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dTAv_8F5cfNCPh9v0UomuRMTh-lPmrSDeL8F_gk55vfdGH0l377HTBM6c5D2bqXHOab0AAq6ExVtVuLdTwvbjEdn5gOgJ1ROM8DqFe6iPKUcvH9ETe9uMsn8tFphuTyv
+Sat Feb 15 00:33:34 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除thgml1212 
+删除kyul365 
