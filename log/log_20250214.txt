@@ -222,3 +222,8 @@ Fri Feb 14 15:02:06 CST 2025
 Fri Feb 14 15:02:16 CST 2025
 Fri Feb 14 15:03:38 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e70cee1ab3a771fa89479e5f2b1fb85232779285074552c82efdd44cb1f31566_trns_h264/playlist.m3u8
+Fri Feb 14 15:16:58 CST 2025
+Fri Feb 14 15:17:09 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WCn-ihHQDOKZAukSrw9mR9EtvRYbGdio42HNMwVJa5d8W5LpPpJijCMNN_J753Zqrzo3LS1wf2aGr_dx61sZmETmBYl0kGRV3R2CdHZ779vkIb-D-GVHrCTSPuV7ntUr
+Fri Feb 14 15:18:43 CST 2025
