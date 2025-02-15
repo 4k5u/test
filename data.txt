@@ -5,3 +5,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-098f75b52eeae1f854433f2494ffacb6da7e026c7189d22d4814e19c55e3a974_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 my_eyes_higher   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4348704160dda256a7f5dc6d7f77148b1f6b224929bdb4dd9f298c480b8b0d63_trns_h264/playlist.m3u8
+oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-61a3abdfe49abf9f59895d93676c81d0107d20b0b92187b4e35764431103f7ca_trns_h264/playlist.m3u8
