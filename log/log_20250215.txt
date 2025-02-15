@@ -237,3 +237,11 @@ Sat Feb 15 14:47:23 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.caMjSOQ2YOpR7l4_ndySmIenf5b4bbg6quTXRnNv58WdcrxHn_d6sz46LtF6lLQ-sHQZljpZFTgBJsJzsnPYuywrHpgp779EIMEVXI7-x9X7QHuCOj8kS4CRAESbKEOW
 Sat Feb 15 14:48:42 CST 2025
 删除Ryo-sama 
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-2d0120a172a9efa2d0ed23011d07668fc671c6c0796ab8e8989f38d296af1d4e_trns_h264/playlist.m3u8
+Sat Feb 15 15:16:57 CST 2025
+Sat Feb 15 15:17:09 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.qli6PiIb4a5s13ZwKJov-qESDBUp56fECI-bw7BFiusq5hXTDWhoC2OwCcjPK1akK0k3IaK423o88M9nCCgZ-n3ZNwAKX3opM1u1NB9oiobxT8f7yWVkfTzl9cLYxndQ
+Sat Feb 15 15:18:35 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除Reaowna 
+删除intim_mate 
