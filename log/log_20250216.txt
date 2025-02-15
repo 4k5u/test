@@ -43,3 +43,8 @@ Sun Feb 16 02:01:54 CST 2025
 Sun Feb 16 02:02:10 CST 2025
 Sun Feb 16 02:03:35 CST 2025
 删除362540 
+Sun Feb 16 02:16:59 CST 2025
+Sun Feb 16 02:17:13 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wJWunFyWQ3O-g2fsAQ8NkE85S2TP40D8zQpuQqpblewaRVo7dfCZxStEF0WRaCBJ3siO-ezjOtloEbwgAmO1IBXda4p5Htydb16JlBHT7Nq2vAve2sqW9C2x0T1ToXKT
+Sun Feb 16 02:18:43 CST 2025
+删除rud9281 
