@@ -223,3 +223,9 @@ Sat Feb 15 14:17:06 CST 2025
 Sat Feb 15 14:18:30 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 添加Judy0523 https://edge-hls.doppiocdn.live/hls/68025190/master/68025190_auto.m3u8
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8d9e9221e0f8aeb99504e3d756fd57e7ca6c7f2bb3c147dd38cea2ea8c53936b_trns_h264/playlist.m3u8
+Sat Feb 15 14:31:55 CST 2025
+Sat Feb 15 14:32:06 CST 2025
+Sat Feb 15 14:33:28 CST 2025
+删除acac88 
+删除Judy0523 
