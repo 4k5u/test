@@ -247,3 +247,12 @@ Sun Feb 16 15:17:00 CST 2025
 Sun Feb 16 15:17:04 CST 2025
 Sun Feb 16 15:18:28 CST 2025
 删除intim_mate 
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d708daf40b8e8f72a0493e8d19f333ce76924349d644078c2c7b7519df52cca0_trns_h264/playlist.m3u8
+添加sexygamesx https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-084ab16609d7918964daa3f11c1c6a32d8534aaee805559efc7f892101b25f1f_trns_h264/playlist.m3u8
+Sun Feb 16 15:47:45 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMTBDNkM3MC03REM5LTQ2Q0YtQTM2NC1FQUE1OUI4NzE2QUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTY5MjA3MCwiZXhwIjoxNzM5NjkyNjcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PbiQ0qqS0wurgBEjZqyYQsmTug8etyCdBqNPg2mlCu_PD1ovaexo7l3IRgtChgdU2BAVX2nx6CGMfhI-HlQgOE-efmWsNXV8fvbpQ2WkysCEVn9S30tIy6tcWm2x1Lco
+Sun Feb 16 15:47:53 CST 2025
+Sun Feb 16 15:49:10 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除dreamch77 
+删除oki_dokie 
