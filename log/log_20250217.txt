@@ -105,3 +105,7 @@ Mon Feb 17 06:01:55 CST 2025
 Mon Feb 17 06:03:22 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除cecilia0903 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c1f355604d99c15307fbdc45053b29175b309cc1f6760aa91f3bab71a3383fa9_trns_h264/playlist.m3u8
+Mon Feb 17 06:16:56 CST 2025
+Mon Feb 17 06:17:00 CST 2025
+Mon Feb 17 06:18:28 CST 2025
