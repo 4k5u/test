@@ -25,3 +25,7 @@ Mon Feb 17 01:01:51 CST 2025
 Mon Feb 17 01:02:10 CST 2025
 Mon Feb 17 01:03:33 CST 2025
 删除your_desssert 
+添加ad0res https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-7b63e805ab37d11025e6d6397592e3ff8640738f67f961b76f535052f2ab4a99_trns_h264/playlist.m3u8
+Mon Feb 17 01:16:55 CST 2025
+Mon Feb 17 01:17:13 CST 2025
+Mon Feb 17 01:18:37 CST 2025
