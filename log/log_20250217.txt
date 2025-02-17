@@ -372,3 +372,8 @@ Mon Feb 17 22:47:26 CST 2025
 Mon Feb 17 22:48:09 CST 2025
 Mon Feb 17 22:49:16 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+Mon Feb 17 23:01:58 CST 2025
+Mon Feb 17 23:02:38 CST 2025
+Mon Feb 17 23:03:53 CST 2025
+删除dign1461 
+删除tess00 
