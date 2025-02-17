@@ -24,3 +24,4 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dpW1KmXRhjspAaU1vYRrDSzbHm799lGcm-DSMMgMVLChAzesOxoSko8CUDXhWySdhgU-1DgQ14OBlVWtB1S8eBEnAfYHg-glLtffGtXs-yNTgvhvvld4p9p8oIioL8Oq
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dBoU9XcpYTehq4RH03o6eeeMJTP4J7iZl-jzxIwPNBYirbM2qwyL8q61l94XeCuwTYAEHxFKGvDqbA_wKblNPNUulpYz6GWE7fu8zvltyGn0AfU6aqCvVH4sg3GGfUgN
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
