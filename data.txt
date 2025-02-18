@@ -4,3 +4,4 @@ amilia4u   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-6b424f24
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e9e9ab68b1b5ad93de3425ecc13090d85a324145eb321a056c2c5c1ca46b394f_trns_h264/playlist.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
