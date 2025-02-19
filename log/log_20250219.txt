@@ -222,3 +222,9 @@ Wed Feb 19 13:03:16 CST 2025
 Wed Feb 19 13:18:00 CST 2025
 Wed Feb 19 13:18:02 CST 2025
 Wed Feb 19 13:19:27 CST 2025
+添加intim_mate https://edge5-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-0cbc3114091c0660040afbc48da7a74ae0217e37c8b002ff7b564d831c9604ab_trns_h264/playlist.m3u8
+Wed Feb 19 13:32:51 CST 2025
+Wed Feb 19 13:32:53 CST 2025
+Wed Feb 19 13:34:09 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除dreamch77 
