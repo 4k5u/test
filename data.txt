@@ -5,3 +5,4 @@ Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+taitehambelton   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-164ee167cf424dae25d2442a17a29b90cb84a84312906845992a6c772bb3a3de_trns_h264/playlist.m3u8
