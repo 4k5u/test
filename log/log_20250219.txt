@@ -167,3 +167,9 @@ Wed Feb 19 09:34:00 CST 2025
 Wed Feb 19 09:46:57 CST 2025
 Wed Feb 19 09:46:59 CST 2025
 Wed Feb 19 09:48:29 CST 2025
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8ebf28efa7f25f4370f5c03afc129647983c965c156454ca0b53dcf3e7aad8eb_trns_h264/playlist.m3u8
+Wed Feb 19 10:01:58 CST 2025
+Wed Feb 19 10:02:00 CST 2025
+Wed Feb 19 10:03:27 CST 2025
+删除Sime_Naughty 
+删除mikio_san 
