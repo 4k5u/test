@@ -4,3 +4,4 @@ dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_
 oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8ebf28efa7f25f4370f5c03afc129647983c965c156454ca0b53dcf3e7aad8eb_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
