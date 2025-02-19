@@ -292,3 +292,8 @@ Wed Feb 19 17:32:09 CST 2025
 Wed Feb 19 17:33:36 CST 2025
 删除Xenomy 
 删除sigmasian 
+Wed Feb 19 17:46:58 CST 2025
+添加acac88 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HNZJCZJRCVM0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hOWkpDWkpSQ1ZNMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1ODk4QzVCMi1BQTkxLTQyQTQtODY1MC0yQTI1OEFENTNEMkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTczOTk1ODQyNywiZXhwIjoxNzM5OTU5MDI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qh_zSt4LJhKDb5489SJboJ2AJKA1zns24IWsKxGRygz7MDVKgKC7lLGJSZ4-ShKhVh--n8KVQhK4jqeS6P86S3j_6L7Jo2NZDPWUOLiOLKNvujX1XLbutUXK9k1righm
+Wed Feb 19 17:47:10 CST 2025
+Wed Feb 19 17:48:34 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
