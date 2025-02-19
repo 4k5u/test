@@ -189,3 +189,8 @@ Wed Feb 19 11:02:24 CST 2025
 Wed Feb 19 11:03:44 CST 2025
 删除nobleinc 
 删除oki_dokie 
+Wed Feb 19 11:17:47 CST 2025
+Wed Feb 19 11:17:47 CST 2025
+Wed Feb 19 11:19:14 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Sime_Naughty 
