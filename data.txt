@@ -8,3 +8,4 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 sexygamesx   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bf930ea9ef41e6142f5b3c34d863e7d0038d1ded10d94d6f22e502cf0e61e755_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 taitehambelton   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-21f3331f60afa4fcce73126f8980e7f2f0cd52bf15b5c785b9b5ca1260865bf1_trns_h264/playlist.m3u8
+kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
