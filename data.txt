@@ -6,3 +6,4 @@ my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 taitehambelton   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-21f3331f60afa4fcce73126f8980e7f2f0cd52bf15b5c785b9b5ca1260865bf1_trns_h264/playlist.m3u8
 intim_mate   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-6aeab41502af28f7b79f59f36388ddcce8ca8379f24686b9fc0f8f9085a3aade_trns_h264/playlist.m3u8
+Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
