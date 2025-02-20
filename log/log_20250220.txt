@@ -143,3 +143,8 @@ Thu Feb 20 08:33:27 CST 2025
 Thu Feb 20 08:46:56 CST 2025
 Thu Feb 20 08:46:59 CST 2025
 Thu Feb 20 08:48:27 CST 2025
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b062e199be14ea3142f146d64671c7b6402a78899fbae4137682c80ba55d6f3a_trns_h264/playlist.m3u8
+Thu Feb 20 09:16:55 CST 2025
+Thu Feb 20 09:16:57 CST 2025
+Thu Feb 20 09:18:25 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
