@@ -332,3 +332,11 @@ Thu Feb 20 20:17:44 CST 2025
 Thu Feb 20 20:19:20 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除somsom0339 
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-76e05cea50dd4ae47e0633b55b84acd42bbaba0810d795153ab009391530d8b8_trns_h264/playlist.m3u8
+Thu Feb 20 20:32:51 CST 2025
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxMDFGMEEyQi1DRDMyLTQ0MUUtQUUyNi01N0JGRUIyQzQ3NDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDA1NDgwMywiZXhwIjoxNzQwMDU1NDAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CD6rWkEfyfx0OeKGsXcYAgBnn4eCQ98H1y2W3z3So1rgOoYn6Eu0HNg-IAqnMdq4aOiR8peszGgZkQ7aKh95NGX7xZdNGjNQ3Pu5ClMdwJAqsn180uY15ksYxM6j--Jv
+Thu Feb 20 20:33:30 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EkIUds4ZQonkDWjaINnxhHUaLyNpK718hCm6nek7fcuKQVpL5PMuF-ueq86HYpUFQjrzrj4sY53AhNxia-6Ds222c-61MacSg4idvgQHo8ADrCeZAvZDLg-PuoNdfrAi
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vPGocKyxXhRAVbukFIFyyGK_9PlC-3j6FoIUCM_v12PoXp51ZifBHlXPeO_8CtQbrlrMim7YhcVXatKMG5g3W1rHx7X8GLkRtokp-ZtBbeqyf7MmyiapwhWi6fMockQ4
+Thu Feb 20 20:34:53 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
