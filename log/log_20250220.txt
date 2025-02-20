@@ -383,3 +383,10 @@ Thu Feb 20 22:47:04 CST 2025
 Thu Feb 20 22:47:36 CST 2025
 Thu Feb 20 22:48:44 CST 2025
 删除ad0res 
+Thu Feb 20 23:02:01 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ihs5BQ6EbCAl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2loczVCUTZFYkNBbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxODQxOTcyRS1EMzk1LTRBRkMtQjgyMi1BRTFFQkQwNkVDNTkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDA2MzczOSwiZXhwIjoxNzQwMDY0MzM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wusYfUF4TDsJyv7DGRMMFCMheFlj6gjR2Jh_dmIhFqyhuglOFRX5MrO7zqA5-iYf5tXa6JeHWx6mpQqJa5n04tMrVf-T4Ud46oNHwHNh4KZ3L1SLJ9g7Z13MVSe7EcfV
+Thu Feb 20 23:02:39 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rcZ4BCiid5hroom4f3Mxz4keFNAgNQHe4q5E5_s6jJV5IBwQwAvNCGSSLLnfKHsVHoFIXGL9SFUL7n6Bzx9Ec3d16x_xczOZ7LYe8y91ORH4pH8wzScX-5wBo-ZPWPYZ
+Thu Feb 20 23:03:52 CST 2025
+删除oki_dokie 
+删除eunyoung1238 
