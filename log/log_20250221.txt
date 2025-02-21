@@ -410,3 +410,8 @@ Fri Feb 21 22:33:57 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除imissy0u 
 删除your_desssert 
+添加ad0res https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-b164a037fc418b3fa28372b933c00e77c508634f84fee2f912567838d9b4e671_trns_h264/playlist.m3u8
+添加your_desssert https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-34dd7cdf0c68444a1716a8e3e062aef88f5ec01447228cc8b925b607dd8dc08e_trns_h264/playlist.m3u8
+Fri Feb 21 22:47:06 CST 2025
+Fri Feb 21 22:47:47 CST 2025
+Fri Feb 21 22:48:55 CST 2025
