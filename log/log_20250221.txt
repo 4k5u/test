@@ -144,3 +144,8 @@ Fri Feb 21 08:46:57 CST 2025
 Fri Feb 21 08:48:28 CST 2025
 删除Sime_Naughty 
 删除taitehambelton 
+添加taitehambelton https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3d88f23528f590355d90fb9b993c133a9bedcbf16d58171efa9b4e71418e46f0_trns_h264/playlist.m3u8
+Fri Feb 21 09:03:36 CST 2025
+Fri Feb 21 09:03:38 CST 2025
+Fri Feb 21 09:05:10 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
