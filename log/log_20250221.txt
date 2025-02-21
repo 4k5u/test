@@ -217,3 +217,10 @@ Fri Feb 21 13:31:56 CST 2025
 Fri Feb 21 13:32:00 CST 2025
 Fri Feb 21 13:33:35 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加amilia4u https://edge1-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-386df050c6cad320f4944548888061ff87fd503a0b5277e8d2934ca18d4ca3a3_trns_h264/playlist.m3u8
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c5f3b49d306df40311e31693b232bfe1ebc889bca785a646358f3e1f6287fd2f_trns_h264/playlist.m3u8
+Fri Feb 21 13:46:58 CST 2025
+Fri Feb 21 13:47:02 CST 2025
+Fri Feb 21 13:48:33 CST 2025
+删除Sime_Naughty 
+删除amilia4u 
