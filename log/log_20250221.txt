@@ -395,3 +395,11 @@ Fri Feb 21 21:47:46 CST 2025
 添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.JL3vZoEGCB5KINtN88nB_zF1gJm1u8yV86_mB2VowbxB97h1_Wc1IB06XTgjQsSwqiRcLNPEg5mR7jMudcVYqkqfQdHG4XUkSoFQkrSBTXfBq45yUlcrTo62Dv16NpLg
 Fri Feb 21 21:49:01 CST 2025
 删除hyuna0721 
+Fri Feb 21 22:02:03 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RDFBMDUwMy1FNjNBLTQwNUMtODA3Qy00N0U1RDU5N0FBOTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDE0NjU2MSwiZXhwIjoxNzQwMTQ3MTYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.05tqCxbOQ7X12JhCPXLHuw1fdM_mBFpLFIlPQgM9ODd2tHBWLrkwsTgy2lSs67x941f_9OVEk_Q-Dmp8ALDCuONCV2dl-h-KwXM9p2R9z3rVn2_cHgO5s5-4j-SPncaz
+Fri Feb 21 22:02:48 CST 2025
+Fri Feb 21 22:03:55 CST 2025
+删除alswl2208 
+删除muse62 
+删除eli05021212 
+删除172----95----student 
