@@ -359,3 +359,11 @@ Fri Feb 21 20:17:40 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.d6g7cEdCMGyFHINNqdSgSelu3COEIV1c4BMhjvybwZf5NKF48nJE6_jn_aZIQsJzymFqnBS7c5-Uafisp3xHKz4U8Cy4vpVt-8u_miJ4pQvmAQysvWdTJAnhIHHXeehS
 Fri Feb 21 20:19:01 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-34dd7cdf0c68444a1716a8e3e062aef88f5ec01447228cc8b925b607dd8dc08e_trns_h264/playlist.m3u8
+Fri Feb 21 20:32:51 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDN0U1NDMzMC1CNkQ2LTQxQUQtODdCQS0xRTA3NkMxMDhFNTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDE0MTE4NiwiZXhwIjoxNzQwMTQxNzg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qZy40FyUwOgZCtVlJHSEFHb8fLRdlkgii06rrY5eJ7Ho0vTl8AH4ve0nyZsjHKTOXX1ANUjJQNgwQIlVCQfW8HrDXtQSdlqrcxi2LWJu_E7axguRc7_hYFfaHVMz19fg
+Fri Feb 21 20:33:29 CST 2025
+Fri Feb 21 20:34:41 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除howru010 
