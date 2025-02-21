@@ -61,3 +61,8 @@ Sat Feb 22 02:18:36 CST 2025
 删除dks2003 
 删除kolll88 
 删除ad0res 
+添加ad0res https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-b679687de133b9b3ddbc401008837e228d811a4167f35566824708d3fc417940_trns_h264/playlist.m3u8
+Sat Feb 22 02:32:48 CST 2025
+Sat Feb 22 02:32:54 CST 2025
+Sat Feb 22 02:34:16 CST 2025
+删除yourare 
