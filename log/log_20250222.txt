@@ -260,3 +260,7 @@ Sat Feb 22 15:18:54 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除oki_dokie 
 删除Lucille_evans 
+Sat Feb 22 15:31:55 CST 2025
+Sat Feb 22 15:32:08 CST 2025
+Sat Feb 22 15:33:36 CST 2025
+删除dign1461 
