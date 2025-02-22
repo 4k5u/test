@@ -251,3 +251,12 @@ Sat Feb 22 15:02:09 CST 2025
 Sat Feb 22 15:03:40 CST 2025
 删除kolll88 
 删除SanySenise 
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a9f2aa8f64191ed7dadd10fa89e934ab04b93f94ad8f67d86e69584bf8c34a0f_trns_h264/playlist.m3u8
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-5fa77bad375157aa71737709e5ebf17b9989c697eeb4a986cf4938ebbfe692de_trns_h264/playlist.m3u8
+Sat Feb 22 15:17:06 CST 2025
+Sat Feb 22 15:17:18 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.W9wCjzvU7zuG3-HwmUUvYn5RTOcvJEg_SrYNxE0KHBTxTQn1jXvxHw3gG6OzLbV-X8zaiBZlMEAbrBmzLJDr9s9IqpGe46GC28_YfC4LvnTfLB1TUC_QC4I4ZMz_qQ5c
+Sat Feb 22 15:18:54 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除oki_dokie 
+删除Lucille_evans 
