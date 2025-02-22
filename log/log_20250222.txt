@@ -285,3 +285,7 @@ Sat Feb 22 16:32:22 CST 2025
 添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RDIyQTJFOC02OEFCLTQ0MjYtQTI2Qi00MDlDQ0NCREYwRTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDIxMzE0OSwiZXhwIjoxNzQwMjEzNzQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.kRX3eOgJhGuErgeNlGc3TZZYlQVsYbhWzESKttqRX0ewccPd3bFrj2bCO1XTbRdr-QvZS12d45X6WYT_YPdEPR908TVTHg-_sryKHNeinUxQC_RkSr3ndfKUkQPIdhOs
 Sat Feb 22 16:32:40 CST 2025
 Sat Feb 22 16:33:53 CST 2025
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-070b64a18dfd0677a813e170f415813d25d51d2ab508f1d2c2ee28e32e2dc676_trns_h264/playlist.m3u8
+Sat Feb 22 16:47:00 CST 2025
+Sat Feb 22 16:47:16 CST 2025
+Sat Feb 22 16:48:40 CST 2025
