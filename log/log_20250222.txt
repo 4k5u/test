@@ -221,3 +221,12 @@ Sat Feb 22 13:18:25 CST 2025
 删除my_eyes_higher 
 删除dreamch77 
 删除amilia4u 
+添加amilia4u https://edge7-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5aee028ee0a9c4f35c8df662d1a980c258f3cb83b6cdd3079c28e63f667322ac_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f093e523451018a293fb5a6c104a20f8b4b2292f25f601c81c2bfb01fad2f867_trns_h264/playlist.m3u8
+Sat Feb 22 13:46:55 CST 2025
+添加pandaex https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5l5vszQvectU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVsNXZzelF2ZWN0VSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNjBCM0E0QS1FRjk4LTRERDgtQjJGQy1EREE4ODJGQUU4QTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDIwMzIxNiwiZXhwIjoxNzQwMjAzODE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e_-wdac17EgjYRjSHxzwakT4LYSn2wRlUEVHioxEM3ylBoa-pgeRby9cv6skILGr3pscwM0jPisN2Mdic2yB30Ji_nvc-dwsuEsSjGbQfg0M_kgjuV3H2gDGlOxFAwVV
+Sat Feb 22 13:47:03 CST 2025
+Sat Feb 22 13:48:34 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Sime_Naughty 
+删除Dolv_1o 
