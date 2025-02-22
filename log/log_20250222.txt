@@ -422,3 +422,9 @@ Sat Feb 22 23:17:39 CST 2025
 Sat Feb 22 23:18:02 CST 2025
 Sat Feb 22 23:19:02 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+Sat Feb 22 23:32:32 CST 2025
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyN0UxN0E3RC0wOTQxLTQxQjktQUNEMS02QUJEODQyM0M0RUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDIzODM3NSwiZXhwIjoxNzQwMjM4OTc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2KO_1J3aayw6OehtLRBJ-PxvxCVnh9sBqM8DzZzXbHKFx1WbzdQAdUq9GQ6PmCa4bpv6Coj3IhNp67-um8LP2M8-EP-PF2P_lcly5FLcnzQ2h5qwdvdLqDvYt2uSvukv
+Sat Feb 22 23:32:58 CST 2025
+Sat Feb 22 23:33:58 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除kyul365 
