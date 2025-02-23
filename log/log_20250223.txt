@@ -271,3 +271,8 @@ Sun Feb 23 17:02:20 CST 2025
 Sun Feb 23 17:03:42 CST 2025
 删除kolll88 
 删除dana9282 
+添加ad0res https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-1cfe2ff49271faaf6189104e1838602a60340db71707eba8655140582d920e56_trns_h264/playlist.m3u8
+Sun Feb 23 17:31:59 CST 2025
+Sun Feb 23 17:32:07 CST 2025
+Sun Feb 23 17:33:27 CST 2025
+删除jodong2 
