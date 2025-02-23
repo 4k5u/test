@@ -412,3 +412,9 @@ Sun Feb 23 23:02:40 CST 2025
 Sun Feb 23 23:03:50 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除jjine0127 
+Sun Feb 23 23:16:57 CST 2025
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNjg2RDc4NC1EMUU3LTRFNTItOTVENy1GOTI0QjIyMkNEODkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDMyMzg1MiwiZXhwIjoxNzQwMzI0NDUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Qxxpyy7KPRqsAhg9ilYLCa_QeeFvtekoYZAVshP7Sjgk4aPjwuoTUT8dI0cLsJgYnf33v1Uc8BHrjohUAQAgTtoIKTKXYz69JdPok0kLN-c2csdSLrDGm5rSkx6qrTzP
+Sun Feb 23 23:17:39 CST 2025
+Sun Feb 23 23:18:47 CST 2025
+删除somsom0339 
+删除oki_dokie 
