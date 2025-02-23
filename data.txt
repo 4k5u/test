@@ -7,4 +7,3 @@ ahri0801   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e3db2b64aa85a8bccc8de93c881e77357c76bd7462329d464be1389f2314999d_trns_h264/playlist.m3u8
-ad0res   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-64bc3b3928fc69416c3865391551f125c6fc8fa887d69772c327278aca6f7dca_trns_h264/playlist.m3u8
