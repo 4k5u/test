@@ -280,3 +280,9 @@ Sun Feb 23 17:46:54 CST 2025
 Sun Feb 23 17:47:02 CST 2025
 Sun Feb 23 17:48:19 CST 2025
 删除ad0res 
+Sun Feb 23 18:02:04 CST 2025
+Sun Feb 23 18:02:11 CST 2025
+Sun Feb 23 18:03:23 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除oki_dokie 
+删除hyuna0721 
