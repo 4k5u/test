@@ -214,3 +214,7 @@ Mon Feb 24 13:17:43 CST 2025
 Mon Feb 24 13:17:45 CST 2025
 Mon Feb 24 13:19:17 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Mon Feb 24 13:31:52 CST 2025
+Mon Feb 24 13:31:54 CST 2025
+Mon Feb 24 13:33:25 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
