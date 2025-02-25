@@ -222,3 +222,7 @@ Tue Feb 25 14:32:03 CST 2025
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.PtgOwqnZQqFd_tfBg_bnqEL6Vr12Vkm6VSZc3aA1BfOQoK3XlJp0Y9sQtJuiDkG1LpQtJ6xhqVk-zdtLBYiWJDIlckFyVtd_LhnpAxf1FQK8CUB7HuP90JCsg8ACSsOX
 Tue Feb 25 14:33:43 CST 2025
 删除sigmasian 
+Tue Feb 25 14:46:56 CST 2025
+Tue Feb 25 14:47:03 CST 2025
+Tue Feb 25 14:48:28 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
