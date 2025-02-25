@@ -370,3 +370,8 @@ Tue Feb 25 22:03:41 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除hyuna0721 
 删除onlyone521 
+Tue Feb 25 22:17:04 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3pZnsx6Jcwvl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNwWm5zeDZKY3d2bCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNjU4NzYzMi00QkYxLTRERDYtOTFCNi1CQUY3OTA0NDE5ODIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MDQ5MzA0NywiZXhwIjoxNzQwNDkzNjQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.E-2-8PDh1N_s3y1dAMb-C8wPKsdZkDnHLCF4v2ujHj4_3_p0zw6F5IiufkZt43Fz9oCRK-LrlUjDAGhvBg6zC3dIl8ccWntgOeXx_LggIvZqN1ClfOryQu7AuJV_z7e4
+Tue Feb 25 22:17:34 CST 2025
+Tue Feb 25 22:18:45 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
