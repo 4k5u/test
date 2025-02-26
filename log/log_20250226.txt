@@ -208,3 +208,7 @@ Wed Feb 26 13:01:51 CST 2025
 Wed Feb 26 13:03:23 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除_meganmeow_ 
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4951807403ecb718ab380579219317b070d94da3c1bd25d44cb398665a3d8b0c_trns_h264/playlist.m3u8
+Wed Feb 26 13:16:51 CST 2025
+Wed Feb 26 13:16:51 CST 2025
+Wed Feb 26 13:18:21 CST 2025
