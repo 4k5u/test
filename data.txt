@@ -10,3 +10,4 @@ Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_aut
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G932KOnWC-do6OjwFqBc454OOj1mXNuzNw7_2bhAbZ_bU8NmAQBAbEcI-gcK3ob4I_s-qYv50Zi19JcqBUKuYZf865YWMJBFtlRRunuo6Aujj4JWvE3bpB5UPcKMPBTv
 alswl2208   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.G932KOnWC-do6OjwFqBc4wXczWEzsghiw6ocyn8WvTLDEFMdRnhxIyUjHDKrROMVegDDOOjSiCLylHWa6TphraRft4HtulLquTIWDAGYu2maufeIFttyg26RgIxge_fe
 honey_pinkgreen   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-85f17adf01b06e6110947ae6bf55052f02614c272caa85972f713e141ec7c6f1_trns_h264/playlist.m3u8
+taitehambelton   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-fcdd3d8ba9b18169d9b7426a74f47baf0864b0770109439677a97d3a12cb2ddc_trns_h264/playlist.m3u8
