@@ -5,3 +5,4 @@ _meganmeow_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-23e
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+intim_mate   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:intim_mate-sd-1b7793cca786380cbd124268a2ec49e1f7b14f69c9d2d3d7146a00e24d84c48a_trns_h264/playlist.m3u8
