@@ -337,3 +337,8 @@ Thu Feb 27 19:32:53 CST 2025
 Thu Feb 27 19:34:04 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除ad0res 
+添加ad0res https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-05de4c39a5bc0371b6f82d273be6df23c44526214e2f6f6ecd7caf96719e1eaf_trns_h264/playlist.m3u8
+Thu Feb 27 19:47:02 CST 2025
+Thu Feb 27 19:47:43 CST 2025
+Thu Feb 27 19:48:58 CST 2025
+删除ad0res 
