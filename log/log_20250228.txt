@@ -196,3 +196,8 @@ Fri Feb 28 13:02:04 CST 2025
 Fri Feb 28 13:03:33 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除dign1461 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bc27eff0c64c0ab282bdf4d4cc4764a4ff69e2490124391c52579961662540e9_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2f036a7e5f7ef850dfd48fb31d08c16ce412c5638f39d9e981e1098dd44ead37_trns_h264/playlist.m3u8
+Fri Feb 28 13:17:05 CST 2025
+Fri Feb 28 13:17:10 CST 2025
+Fri Feb 28 13:18:33 CST 2025
