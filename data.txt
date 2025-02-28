@@ -6,3 +6,5 @@ starsh2802   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-593361a5f34cf53a895ee6a681499af820e36942caad5366ff92dcfa49708ccc_trns_h264/playlist.m3u8
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 mazzanti_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-497b49f93879316ea90745e7c1460acfd71f687553d3987f2619d36d22966266_trns_h264/playlist.m3u8
+_meganmeow_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-342e27ecfb2a0490fd05db0736882952ddcf3cf1a559f367a70290f1217a8c2f_trns_h264/playlist.m3u8
+gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8xEg1RIQJKFLM7DnyTJQrl5t4nowjMWqZ2YUwULa7PRsR6ctMMqmkTXaPsGwCj8wG45itfXrePC7qYc00Uih8g-pVH0apUc6If2NYgrMqN71TnDon-r2J0NQfaKwGas3
