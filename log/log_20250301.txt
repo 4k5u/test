@@ -376,3 +376,8 @@ Sat Mar 1 18:18:37 CST 2025
 删除SanySenise 
 删除your_desssert 
 删除foxylovesyou 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-cc4a58d2a0259cc72dc00599839ac16c4da24b40fd3496a61ffbb953319e7016_trns_h264/playlist.m3u8
+Sat Mar 1 18:31:56 CST 2025
+Sat Mar 1 18:32:12 CST 2025
+Sat Mar 1 18:33:32 CST 2025
+删除foxylovesyou 
