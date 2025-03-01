@@ -331,3 +331,10 @@ Sat Mar 1 16:03:34 CST 2025
 删除dign1461 
 删除lolsos 
 删除foxylovesyou 
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8b9badb82e853912b9854e5ab7199a55439db109d633aa605451a19793a41746_trns_h264/playlist.m3u8
+添加your_desssert https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6b6cae056d743ff675817db8d0e65fa98689135a0a0d5f68b9cdae053173b39a_trns_h264/playlist.m3u8
+Sat Mar 1 16:18:24 CST 2025
+Sat Mar 1 16:18:36 CST 2025
+Sat Mar 1 16:19:59 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除foxylovesyou 
