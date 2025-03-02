@@ -112,3 +112,11 @@ Mon Mar 3 05:18:15 CST 2025
 Mon Mar 3 05:18:18 CST 2025
 Mon Mar 3 05:19:36 CST 2025
 删除dign1461 
+添加mazzanti_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7f12b381310584788a282543acf8300a556e2a2100f2f9a0571aac68176f4af3_trns_h264/playlist.m3u8
+添加sexygamesx https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-53cf7b0aeb2621c078f17973df07a424bc3873de900338b95698d182060264ac_trns_h264/playlist.m3u8
+Mon Mar 3 05:47:03 CST 2025
+Mon Mar 3 05:47:05 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GHzjZ6RTG5js5ljRy9dmBoDDTf0uxI627J8jy64bkeMF1euOuScmJwog4U85LYS0IUr7lgD1XvT00-VhoWslWntaXgO2redThL0H3B21QC_ruq3Qgrbg3Bzrvzn9ndgE
+Mon Mar 3 05:48:30 CST 2025
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除Reaowna 
