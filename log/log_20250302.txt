@@ -415,3 +415,9 @@ Sun Mar 2 22:33:41 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除emforhs1919 
 删除namuh0926 
+添加ake_mi https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-eafca4e0692ff99acc49eab6ec2d57d379861d0c23cce7db56d545474bc170d6_trns_h264/playlist.m3u8
+Sun Mar 2 22:46:59 CST 2025
+Sun Mar 2 22:47:31 CST 2025
+Sun Mar 2 22:48:41 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+删除your_desssert 
