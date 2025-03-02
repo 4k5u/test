@@ -14,3 +14,4 @@ namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_
 your_desssert   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-5059194a854565681ef45d3b40d2c0199764c1dbaac91d672623bd17f6283ece_trns_h264/playlist.m3u8
 iminako   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-8deed53afde312a202f901b1a9174a1ea07716f6bd1415468a2cd7df83fc9bc3_trns_h264/playlist.m3u8
 Tmdgus5411   https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.vssFkfXaIvVNS48ker0ItN9tDjahONXCeddCw12GpSdGEKZU9B1EAid94jLlsGhWvxFIUG9iccadOAtufzAnlApyCwCxu33UJY0Rsd5WY5OdV0e1bhGp5zOfZB6ySno-
+smmms2002   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zaARAR0-MLmxEnixo_5tnqiL1zBMQj1x1JbCR67t7w8bb06GpTl4dapE_TK8ENa1K8yy7psAnv9VG7giH7uAQPq4NDBwJMGUbQR2BKa5Wj8qjRMx5Z8FCw_EqVsOHKWz
