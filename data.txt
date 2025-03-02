@@ -14,3 +14,4 @@ lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_pla
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 honey_pinkgreen   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-94224e755b19edc9f45608b1e68e0cd8cc9d14934f56accbf34daf6c2cecd05b_trns_h264/playlist.m3u8
+ad0res   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-20491a2acb48372d216a8840812b121dc63e795db42e6029f096d76f12ef8816_trns_h264/playlist.m3u8
