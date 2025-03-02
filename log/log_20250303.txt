@@ -120,3 +120,8 @@ Mon Mar 3 05:47:05 CST 2025
 Mon Mar 3 05:48:30 CST 2025
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除Reaowna 
+Mon Mar 3 06:17:57 CST 2025
+Mon Mar 3 06:17:58 CST 2025
+Mon Mar 3 06:19:24 CST 2025
+添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+删除mazzanti_ 
