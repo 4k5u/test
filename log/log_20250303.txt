@@ -152,3 +152,10 @@ Mon Mar 3 07:46:58 CST 2025
 Mon Mar 3 07:48:25 CST 2025
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除mazzanti_ 
+添加mazzanti_ https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7f12b381310584788a282543acf8300a556e2a2100f2f9a0571aac68176f4af3_trns_h264/playlist.m3u8
+Mon Mar 3 08:16:55 CST 2025
+Mon Mar 3 08:16:55 CST 2025
+Mon Mar 3 08:18:20 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 
+删除mazzanti_ 
