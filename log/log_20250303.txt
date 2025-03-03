@@ -284,3 +284,11 @@ Mon Mar 3 16:19:52 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除taitehambelton 
 删除your_desssert 
+添加taitehambelton https://edge5-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8023d3c4c3d6625ad0754dbe46f2d0fbc5a15f9c2c68b547ac65187c15c4686f_trns_h264/playlist.m3u8
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b453c6c06e1c8bf51434a17e04696aad6ed8d02c62dd86f59e4521ae60bc8df9_trns_h264/playlist.m3u8
+Mon Mar 3 16:32:03 CST 2025
+Mon Mar 3 16:32:20 CST 2025
+Mon Mar 3 16:34:10 CST 2025
+删除kolll88 
+删除taitehambelton 
+删除your_desssert 
