@@ -379,3 +379,11 @@ Tue Mar 4 18:03:45 CST 2025
 删除dreamch77 
 删除taitehambelton 
 删除foxylovesyou 
+添加taitehambelton https://edge8-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-dab2aa40c2a897aa8150757d8eca99822d31cb32fea3e202a85f8ee6afe7c3ce_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3bf5ad6ffd679591870fff43cf8270adf6a052bd0d4a42890ef922d901b8e891_trns_h264/playlist.m3u8
+Tue Mar 4 18:17:00 CST 2025
+Tue Mar 4 18:17:14 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.H8MxSijurBsOfmri2OFHMO35dSNIsJxFL9pm-ImEfKGq3LQdo_mu6Q9M-PG2YdjaKMFDgQK4M2CGFO4HZEA2Cw7ufosmCZhB0H67a4KDANM7LWNVC1viNS3o4UBbUqyj
+Tue Mar 4 18:18:47 CST 2025
+删除taitehambelton 
+删除foxylovesyou 
