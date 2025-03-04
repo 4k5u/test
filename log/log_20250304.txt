@@ -324,3 +324,9 @@ Tue Mar 4 15:48:42 CST 2025
 Tue Mar 4 15:50:38 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除taitehambelton 
+添加taitehambelton https://edge10-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b3844e34fde921039af59593e08d1c8865de7f81f651de742b9265dea4ffec11_trns_h264/playlist.m3u8
+Tue Mar 4 16:01:57 CST 2025
+Tue Mar 4 16:02:10 CST 2025
+Tue Mar 4 16:03:42 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除taitehambelton 
