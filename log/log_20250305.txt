@@ -9,3 +9,9 @@ Wed Mar 5 00:17:36 CST 2025
 Wed Mar 5 00:18:43 CST 2025
 删除glglehddl 
 删除oki_dokie 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9505c37426f0e4ef3999366b76d6ad4d17a9cd2fcf06203bac55346714496007_trns_h264/playlist.m3u8
+Wed Mar 5 00:32:43 CST 2025
+Wed Mar 5 00:33:13 CST 2025
+Wed Mar 5 00:34:26 CST 2025
+删除kjjeong0609 
+删除oki_dokie 
