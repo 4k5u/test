@@ -411,3 +411,9 @@ Tue Mar 4 19:02:21 CST 2025
 Tue Mar 4 19:03:49 CST 2025
 删除taitehambelton 
 删除foxylovesyou 
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3bf5ad6ffd679591870fff43cf8270adf6a052bd0d4a42890ef922d901b8e891_trns_h264/playlist.m3u8
+Tue Mar 4 19:17:01 CST 2025
+Tue Mar 4 19:17:16 CST 2025
+Tue Mar 4 19:18:40 CST 2025
+删除sigmasian 
+删除foxylovesyou 
