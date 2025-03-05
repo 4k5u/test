@@ -246,3 +246,8 @@ Wed Mar 5 13:18:20 CST 2025
 Wed Mar 5 13:19:40 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除San___San 
+Wed Mar 5 13:32:00 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NThGMjYwRS1DNzAxLTQ1RTMtQTQzNC0zMkQyRjY1NjhBNTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTE1MjcyMSwiZXhwIjoxNzQxMTUzMzIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Pd7dSHK2wV0Zduea8nCXpBPw-lZgNToPQzPKrkRw8HZ1DBvoEMgBzK3skJxk97SFNaQCahxXU9xRCIcAAsPmslbOHUkUGEys_0XAtChi_lNlXw67QQmpuzkgvq-HKMv6
+Wed Mar 5 13:32:05 CST 2025
+Wed Mar 5 13:33:34 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
