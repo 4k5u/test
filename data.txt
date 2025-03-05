@@ -4,3 +4,4 @@ _meganmeow_   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cdc
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-658593834e2e385f994a2b5ee49978b1411a757780a7ec4d3a3cd1325e3f8816_trns_h264/playlist.m3u8
