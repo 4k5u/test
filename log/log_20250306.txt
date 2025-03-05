@@ -46,3 +46,9 @@ Thu Mar 6 01:32:21 CST 2025
 Thu Mar 6 01:33:42 CST 2025
 删除starsh2802 
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7b09f1af414508970f722b960b0bfd7cd70d3e1621084bb23e7952e9cf4aacfb_trns_h264/playlist.m3u8
+Thu Mar 6 01:48:14 CST 2025
+Thu Mar 6 01:48:34 CST 2025
+Thu Mar 6 01:49:46 CST 2025
+删除howru010 
+删除oki_dokie 
