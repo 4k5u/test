@@ -256,3 +256,8 @@ Wed Mar 5 13:47:11 CST 2025
 Wed Mar 5 13:48:32 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+Wed Mar 5 14:01:58 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNEJDRUJGMi0yRjE5LTQ3QTYtQTU3Qi0wQUE4NkI5N0VENjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTE1NDUxOSwiZXhwIjoxNzQxMTU1MTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fhSGqiQ7bZh6_U5j1qsiQjFlEuxqJid3qIG3hPqL-oGwrjuNzZWV-ZdGSOCHCtzPSW2Buy81laoe7U5Z__iTaxRAdxZYsX5bLuUtX4Jp0ATWhSZR3YMX_HB7g8BXdJrn
+Wed Mar 5 14:02:06 CST 2025
+Wed Mar 5 14:03:34 CST 2025
+删除amilia4u 
