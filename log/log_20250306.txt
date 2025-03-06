@@ -300,3 +300,14 @@ Thu Mar 6 18:18:48 CST 2025
 删除yin2618 
 删除ake_mi 
 删除mode_bad 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f9539e74c6708f3c6d22c9d7b7285bf39d4398550f832125663e1603d8f977a5_trns_h264/playlist.m3u8
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cd7052670333cd900a5a04ad915f5730b27f147d062d669577bd9907e6d12582_trns_h264/playlist.m3u8
+Thu Mar 6 18:47:01 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.uaY2fROazwjw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3VhWTJmUk9hendqdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0Q0YyNUYyMC04QUQ2LTRCN0YtQTA0OS1CRjgwMzI2NDA5RjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTI1ODAzNCwiZXhwIjoxNzQxMjU4NjM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.B0IRISeUN3PdmS6UpFNbaP7AQZEJy2GxgqSejfNs9O_cFqsrggeRyhTssw-Lto5o9LJO9YJLFE88TKdhvqV_YGAr3KkTihmYWuubHf7pbUW_hPTRom3RxrFgQGiAvjxV
+Thu Mar 6 18:47:17 CST 2025
+Thu Mar 6 18:48:36 CST 2025
+删除oki_dokie 
+删除leelate 
+删除your_desssert 
+删除ake_mi 
+删除mode_bad 
