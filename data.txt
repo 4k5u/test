@@ -23,3 +23,5 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9bVrE_vGgx_SqKuMqfG5dRgXrjTTYBpu8CfHNUNxwzYmj5VHR0Nc7sNyHEic2F81AXRnXqq8zKCsgCC5XjCB_jMch7NCVw1kX119aRQsJkfvG8IdmWNUmcQSXZ-Zyo2o
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iGdk3n4tbpelqZMkFVAHOYNawKLM5wJoPxKM4Ttltj0OxQO36sipUMi8EJxFVbUYgWP4uNG24Ep-2bp79P_MQ2YmLCO_yszDF4pTj78H7IPs7wc5Xmph1EFn_UQsDDDY
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+your_desssert   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f8e8bfd9ac3621c76dd26db7be1711a34035b7d056050c2a8d73a288eaef9b00_trns_h264/playlist.m3u8
+Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
