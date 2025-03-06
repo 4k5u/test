@@ -332,3 +332,12 @@ Thu Mar 6 19:32:04 CST 2025
 Thu Mar 6 19:32:24 CST 2025
 Thu Mar 6 19:33:38 CST 2025
 删除mode_bad 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e88a34b77974046e65ada173e22aa2d79b85b5e1d40ac6a520c40dc84e62310f_trns_h264/playlist.m3u8
+添加mode_bad https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cd7052670333cd900a5a04ad915f5730b27f147d062d669577bd9907e6d12582_trns_h264/playlist.m3u8
+添加your_desssert https://edge7-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-04c2223d6d279a679700f72a67b13d008e7fa7163082545e1311cd16a4875c47_trns_h264/playlist.m3u8
+Thu Mar 6 19:47:06 CST 2025
+Thu Mar 6 19:47:24 CST 2025
+Thu Mar 6 19:48:38 CST 2025
+删除dreamch77 
+删除dana9282 
+删除mode_bad 
