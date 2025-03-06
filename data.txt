@@ -1,2 +1,3 @@
 _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f3753b1cbce5b3fa4314617cf2732eb0b9b5b92cbfa881b8c943bc70b74beeae_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c1ab8e9bd163b78e99edcdc3f215b1481c48435027b71cfe49919eab54662e1d_trns_h264/playlist.m3u8
