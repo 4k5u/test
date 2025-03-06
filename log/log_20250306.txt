@@ -416,3 +416,11 @@ Thu Mar 6 22:32:12 CST 2025
 Thu Mar 6 22:32:50 CST 2025
 Thu Mar 6 22:33:59 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e88a34b77974046e65ada173e22aa2d79b85b5e1d40ac6a520c40dc84e62310f_trns_h264/playlist.m3u8
+添加your_desssert https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b647bd7e5fcd6dc2a597a6e259f5ae5bbba7fedaaa6c627b33ce25231dc8af70_trns_h264/playlist.m3u8
+Thu Mar 6 22:47:06 CST 2025
+Thu Mar 6 22:47:40 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Hw-HNBoKCfRmaj6w7cV_wfr_sbE3Rkv1eIMGwSsRTbBC6rdM60FTlPsOryJoyz4RuTZvep0PvucSH3ib-tJukkeLQPFZ4wRALCJ1qxV3TxrFL-iH6oP5Q8xxnKW-96E2
+Thu Mar 6 22:49:02 CST 2025
+删除onlyone521 
+删除oki_dokie 
