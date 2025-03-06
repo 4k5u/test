@@ -391,3 +391,15 @@ Thu Mar 6 21:48:49 CST 2025
 删除foxylovesyou 
 删除oki_dokie 
 删除your_desssert 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e88a34b77974046e65ada173e22aa2d79b85b5e1d40ac6a520c40dc84e62310f_trns_h264/playlist.m3u8
+添加your_desssert https://edge4-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-f8e8bfd9ac3621c76dd26db7be1711a34035b7d056050c2a8d73a288eaef9b00_trns_h264/playlist.m3u8
+Thu Mar 6 22:02:10 CST 2025
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMDZEODk3Mi1GOEUxLTRBQ0UtODM3Ni0zRjUwN0NGNzNFQjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTI2OTc2MywiZXhwIjoxNzQxMjcwMzYzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cEmWVjfMqvm_alXiQgkHVLqmacgncaiRH07AI-cm_Ir9lh5iqIYFEmg7n9oxoZ4Q921EyLX2B1ANT5Oeo_aSbxI5F7NTNvxs8HuUNB9pgsJ5MHfWhdmUZDc7iApOF1na
+Thu Mar 6 22:02:48 CST 2025
+Thu Mar 6 22:03:57 CST 2025
+删除tyy750ii 
+删除alswl2208 
+删除somsom0339 
+删除emforhs1919 
+删除oki_dokie 
+删除your_desssert 
