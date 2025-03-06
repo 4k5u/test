@@ -431,3 +431,13 @@ Thu Mar 6 23:03:46 CST 2025
 删除hyuna0721 
 删除Reaowna 
 删除oki_dokie 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e88a34b77974046e65ada173e22aa2d79b85b5e1d40ac6a520c40dc84e62310f_trns_h264/playlist.m3u8
+Thu Mar 6 23:17:08 CST 2025
+Thu Mar 6 23:17:38 CST 2025
+Thu Mar 6 23:19:07 CST 2025
+添加kolll88 https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除jodong2 
+删除namuh0926 
+删除San___San 
+删除oki_dokie 
