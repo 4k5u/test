@@ -260,3 +260,7 @@ Thu Mar 6 16:02:06 CST 2025
 Thu Mar 6 16:03:38 CST 2025
 删除alicelebel 
 删除SanySenise 
+Thu Mar 6 16:16:57 CST 2025
+Thu Mar 6 16:17:03 CST 2025
+Thu Mar 6 16:18:40 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
