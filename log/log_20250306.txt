@@ -212,3 +212,7 @@ Thu Mar 6 13:47:50 CST 2025
 Thu Mar 6 13:47:54 CST 2025
 Thu Mar 6 13:49:25 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Thu Mar 6 14:01:55 CST 2025
+Thu Mar 6 14:01:59 CST 2025
+Thu Mar 6 14:03:32 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
