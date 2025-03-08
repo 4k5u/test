@@ -435,3 +435,12 @@ Sat Mar 8 21:32:41 CST 2025
 Sat Mar 8 21:33:35 CST 2025
 删除qwer00725 
 删除kyul365 
+Sat Mar 8 22:02:00 CST 2025
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.F7qyYSFwac08.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Y3cXlZU0Z3YWMwOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzODU3NDE1MS0yRDRFLTQxQjItODNFNi0zOTA1Mzg4RERFNkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ0MjU0NSwiZXhwIjoxNzQxNDQzMTQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8zD3PiB5CelMjw4eDXQnArFPYw8_MWCjR7dji_gmI2hz4Ue8iycqtQDfo5yHl9FWkqxnXSgsoLUiAu2h8NKtshR8CWVpBshL2JgiW2pWWUUIFIl0lCTGvtRu236QoBDX
+Sat Mar 8 22:02:35 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.tkZNJ8dBZ2TyjKA8ZN-ZE03jtbLuaRKJ5CgB03d017otuykwGO3Sz2FjMnzIcAxaw46tNPjVyBXkhljsTRaCNVZ9UBQgJuXpEUkgmYmRVqi4HVOdGz4NEQrsWnNsJ7Zo
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.u42-UrphrKe36OwLWvEOI262StJ95t3ioCLm1SYv6St-GbE3rK6ZN96aJGb7RkSb69RwsQ2COBV4Ji6KfS7ZzqGWDj-CeEjL7WNMjxnfskgmMiu-IFL-6w-nsjo2mW67
+Sat Mar 8 22:03:47 CST 2025
+删除alswl2208 
+删除hanny27 
+删除leelate 
