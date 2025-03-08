@@ -465,3 +465,9 @@ Sat Mar 8 23:02:04 CST 2025
 Sat Mar 8 23:02:38 CST 2025
 Sat Mar 8 23:03:38 CST 2025
 删除jodong2 
+Sat Mar 8 23:17:46 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ihs5BQ6EbCAl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2loczVCUTZFYkNBbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMjQwOUVFRi04NUY4LTRDQjEtQkUzQy1DMDZGMDFGMzk3MUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ0NzA4NSwiZXhwIjoxNzQxNDQ3Njg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._jc0fT-kD4uqErLe1r66MrYeSjkCbeezHTGkfCEzzbsV_X89ucXNlQEMo8S123GvEHyYw53oHSsrOoApcsQnzjqlLOKh1Fm7Wnkn_mwCHT3CPqGwPytL993F5WXV8ouL
+Sat Mar 8 23:18:20 CST 2025
+Sat Mar 8 23:19:20 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除oki_dokie 
