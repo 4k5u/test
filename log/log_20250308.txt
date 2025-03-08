@@ -361,3 +361,9 @@ Sat Mar 8 18:17:18 CST 2025
 Sat Mar 8 18:18:46 CST 2025
 删除mode_bad 
 删除iminako 
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-f93ecf82bc7b5798802a5be539a28b090bbe7e12d2051121a05d091459cb19ab_trns_h264/playlist.m3u8
+Sat Mar 8 18:32:02 CST 2025
+Sat Mar 8 18:32:23 CST 2025
+Sat Mar 8 18:33:51 CST 2025
+删除your_desssert 
+删除mode_bad 
