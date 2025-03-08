@@ -8,3 +8,6 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f7ff546a36b9b868c9973d21535690b2a10eff050c8aa65fefa15912aacf08eb_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6be467e3178f395210df1c04e6e78b13991c1648b9ed8b02830d23a0ec3aa24a_trns_h264/playlist.m3u8
+sexygamesx   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9d9b381d85b6d239ee581ac19a1f403341c4735788fa1ac53f423a15fa3c2c4b_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
