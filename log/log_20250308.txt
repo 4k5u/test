@@ -451,3 +451,8 @@ Sat Mar 8 22:18:35 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除tyy750ii 
+Sat Mar 8 22:31:57 CST 2025
+Sat Mar 8 22:32:27 CST 2025
+Sat Mar 8 22:33:31 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除eerttyui12 
