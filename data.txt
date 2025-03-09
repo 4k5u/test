@@ -7,5 +7,4 @@ _meganmeow_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f7
 oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6be467e3178f395210df1c04e6e78b13991c1648b9ed8b02830d23a0ec3aa24a_trns_h264/playlist.m3u8
 sexygamesx   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9d9b381d85b6d239ee581ac19a1f403341c4735788fa1ac53f423a15fa3c2c4b_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w1uUfwstgbLWr8UB2yL7cNX7tS8VByz18YW8giYUDbVxXw3r4LtcNPjzFWZVYZDrh0YcbpWmLX4AWscgXAbrl7Q90Jr6R9tTto4tLM0lxjXhKuR9Z8SAnhM9Ht4zpjyX
