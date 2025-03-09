@@ -351,3 +351,13 @@ Sun Mar 9 19:33:01 CST 2025
 Sun Mar 9 19:34:11 CST 2025
 删除oki_dokie 
 删除ake_mi 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ca245b0ff57526d15a897b85cea70334f03bdf4cae030e540c579764375ddc53_trns_h264/playlist.m3u8
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9ae2898ce15ee02632ca90f8d227279e03cdfc424c31f6608c0d0ec2b37268fb_trns_h264/playlist.m3u8
+添加your_desssert https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-5d3ce6aa8be6f3f91a0effb6c8d03c5e94421cf6a7c760bee559f7acaacfcca4_trns_h264/playlist.m3u8
+Sun Mar 9 19:47:03 CST 2025
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2M0Y1OTcwNC1CNDc2LTRERDctQjI2QS02RUM1N0FDRTczQkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTUyMDgzNiwiZXhwIjoxNzQxNTIxNDM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NegDOmxVtyxYx3Ma4x0c6qul43RRV4wleMgC8cBkILHcwVUNbMiSP5L8KDuVIdipi1sbMJAzuoa9VUpy-MFnAzA8cIVWFAz8M4ipw5f9pFl4bHl8lRTnn88z8Npt5ge6
+Sun Mar 9 19:47:19 CST 2025
+Sun Mar 9 19:48:28 CST 2025
+删除hyuna0721 
+删除oki_dokie 
+删除ake_mi 
