@@ -314,3 +314,13 @@ Sun Mar 9 18:17:19 CST 2025
 添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uxYqT_RfAXtHUwqDaRHDnJykzS_fvojZlpoE_EeKK3sk-gQxQ6HzNn7sTA_AGhzcDzxiTcHuqH6YGDYmu1pjkkV5a1tUaMvb-X_owKwnGB6ua19w7he3HOz58if3Eou5
 Sun Mar 9 18:18:36 CST 2025
 删除ake_mi 
+添加ake_mi https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9ae2898ce15ee02632ca90f8d227279e03cdfc424c31f6608c0d0ec2b37268fb_trns_h264/playlist.m3u8
+Sun Mar 9 18:46:55 CST 2025
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENDZGQjk3Ni03NzEzLTQ0N0ItQjBDRC1GMTYzMzdDNTMxM0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTUxNzIyMCwiZXhwIjoxNzQxNTE3ODIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lDlB1AjB6JgbxAFTIHESHhU9Ug2NT1h1vp6jQpDbMB8DISExIew4td7j87Reng_Jn2jF48cz31-fLyJQ38RXDxyGT6OsLO63toZ7Egg_LYAOHldHZD7MUKGQC5ItWo1k
+Sun Mar 9 18:47:10 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YduWyNsW3iadoVxFmfg9XtxedHK8xpqt-fdrAg5bbWfvrHmZPHebeDFFt7JEMhVwACwcKUxniqd8jWFm62ajY1pW4OCtueARuhzWm9m4JT7jawvLQo_wONbQwP8lp6E8
+Sun Mar 9 18:48:26 CST 2025
+删除sigmasian 
+删除dana9282 
+删除ad0res 
+删除ake_mi 
