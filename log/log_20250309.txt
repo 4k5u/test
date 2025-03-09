@@ -277,3 +277,11 @@ Sun Mar 9 17:01:58 CST 2025
 Sun Mar 9 17:02:11 CST 2025
 Sun Mar 9 17:03:32 CST 2025
 删除ake_mi 
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-0db002606e2d47cef6dc1a9e438257ae2a35a66750be591c7c4f553779314a3d_trns_h264/playlist.m3u8
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9ae2898ce15ee02632ca90f8d227279e03cdfc424c31f6608c0d0ec2b37268fb_trns_h264/playlist.m3u8
+Sun Mar 9 17:17:32 CST 2025
+Sun Mar 9 17:17:43 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nxzJp1VM_KOyufzQk-PCV0ngqJn6n2e9WCuIovxbKY6sUZt_5KUndbae99N2lec7vWr6G7flpbBVBhzRUeZ3v2T7acchjiiXbr9-79tluGx5RgMdIioYnm5A80wxM5ZN
+Sun Mar 9 17:19:09 CST 2025
+删除4ocari 
+删除ake_mi 
