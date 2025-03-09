@@ -239,3 +239,9 @@ Sun Mar 9 15:17:07 CST 2025
 Sun Mar 9 15:18:29 CST 2025
 删除alicelebel 
 删除your_desssert 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7fc365bcc83e643d72430d4ad8bdde6517dbe9e1e43e6a2457ec808cd117563e_trns_h264/playlist.m3u8
+添加your_desssert https://edge14-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-48d26cc7bb15994ba96a1fdb0bbb4b9ed8de7465ab62396de0b78487bfd14ca1_trns_h264/playlist.m3u8
+Sun Mar 9 15:31:58 CST 2025
+Sun Mar 9 15:32:04 CST 2025
+Sun Mar 9 15:33:22 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
