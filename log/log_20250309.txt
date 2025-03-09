@@ -182,3 +182,8 @@ Sun Mar 9 12:02:08 CST 2025
 添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENEIwNUE0Ni03OUU0LTQyRjQtOUQ1RS1FREYyRjlFQkQ3NzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTQ5MjkzMCwiZXhwIjoxNzQxNDkzNTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ytnSu2Dct8pZOaSP4Yhth4ytwKnUOSsyi6UcN8G05k3gZD-qOIOkd5NB90T9oXr4U-c4_OQ6HjCPcQlGezC0s-qOCGZnJFdO-jb_N_9JrsGmBqThqiBCLelltEtxkMKC
 Sun Mar 9 12:02:13 CST 2025
 Sun Mar 9 12:03:31 CST 2025
+Sun Mar 9 12:16:59 CST 2025
+Sun Mar 9 12:17:04 CST 2025
+Sun Mar 9 12:18:22 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除oki_dokie 
