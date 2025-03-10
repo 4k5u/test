@@ -109,3 +109,10 @@ Tue Mar 11 06:03:33 CST 2025
 Tue Mar 11 06:16:59 CST 2025
 Tue Mar 11 06:17:05 CST 2025
 Tue Mar 11 06:18:36 CST 2025
+Tue Mar 11 06:31:54 CST 2025
+Tue Mar 11 06:32:03 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zaTHYofZC85egDEtPTZuzmnQJvDsx9E5JW2gpc0EX2Q9brpXPmmnY5yjXPP8xG3hScOMQM5iwMLXRnOuG8r0S1XCjdVkYXpJ8Uu3S2HY1IsjiiOnZrfx7EzYbsVQwd7B
+Tue Mar 11 06:33:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除sonming52 
+删除kolll88 
