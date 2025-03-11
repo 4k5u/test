@@ -357,3 +357,15 @@ Tue Mar 11 17:02:13 CST 2025
 Tue Mar 11 17:03:33 CST 2025
 删除taitehambelton 
 删除oda_assuri 
+添加taitehambelton https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d0d6214b37f7dd04284a56f961166497ced0d5a42bc161925214871d18d33bb0_trns_h264/playlist.m3u8
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8bdec9509c966f378efd6c3d45278f1bdfd5aa746c430cd15717f462aa6ebdf9_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-54a732c06b45d93c02afc75d31fc91ca4a0d51a7f8abce892b16ef8111736b78_trns_h264/playlist.m3u8
+Tue Mar 11 17:33:22 CST 2025
+Tue Mar 11 17:33:32 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7kjlbWNKnJTJR1jZ83Rdz5dDbLYtg4sl5qDpXjcbKfwD7ZssOUcfZuuhkW7okUpM44vtO4GJ_9iMDA5jvdeGHS_HsOJKTV1mecwXX23UA21EEdMlBgtEiqflM0Q2asx2
+Tue Mar 11 17:34:49 CST 2025
+删除dkdlfjqm758 
+删除4ocari 
+删除lolsos 
+删除taitehambelton 
+删除foxylovesyou 
