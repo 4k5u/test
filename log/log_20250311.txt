@@ -421,3 +421,12 @@ Tue Mar 11 19:47:21 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Vr38-uk8p2MPJ4w7ZccBznf3QZOvfqjhJh0cjM7Bg0_nngEowmwZxUODLmnTNLaeF-TRPL7Hfjw1m8NJdhCRGL_3gUqHbFWiLfnGKpZbXhLBDGZGlZ1DPxr4tbSqvZGw
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gEUggEN9czTdAUgaPGa5SFPlTybh-yBUqJqA-Upf7r963V-GP8Gzj_AGsMe5AeAKtqfL6UAfooXh8DgNlacfBjtNHXtbVb2jXwvu9OGlS9hP7gafJHTjzEfQjJIjyu49
 Tue Mar 11 19:48:46 CST 2025
+Tue Mar 11 20:02:04 CST 2025
+Tue Mar 11 20:02:24 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IloX9Kc2R12EcIR1vkJrp_46BdX-BWT7-RN2_Nk5oxM9ayAIuvfes7CXpqUI948eXumCTUXGDNv5HKr3gR90WyRPqLDZwxt9G0UnppdDPO1U9em8R7rncEdpj6i0XJ03
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.me7IWnq-RU6M4E7R704daW7c-yecVILlFOeWSjN16MT4Y16dABlSpLBfffDF6Kh2bjwCgY-yobNcZlZoHurUcrfCbpbJRstuWfRyVkjhLNr0SC9uIrdOk53MbyMcalS7
+Tue Mar 11 20:03:42 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除my_eyes_higher 
+删除yin2618 
+删除foxylovesyou 
