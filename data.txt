@@ -24,3 +24,4 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Asia-Lynn   https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
