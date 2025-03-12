@@ -481,3 +481,17 @@ Wed Mar 12 16:33:37 CST 2025
 删除mode_bad 
 删除foxylovesyou 
 删除my_eyes_higher 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0ae15b7591d223287c44b433941bea36901b72e5fcfe228f806eadc1b7b644c0_trns_h264/playlist.m3u8
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-75409ddbeb908051e0661c29e072bdd4bfdbcd6324127a75bb080b97abaf8f1d_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4ddf684e9a26c0759805b4812d7f25bba5ddd05966c7e2b66195128334d91926_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1e5a2252f3930d5432d33655a4087be2c160012bb8ce20e3e031c8a22149f987_trns_h264/playlist.m3u8
+Wed Mar 12 17:08:09 CST 2025
+Wed Mar 12 17:08:21 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._HB9QFqfuApjdVFeuQy9JChUQbLTjgxXxhcm12WXM2ER9fZJtDn8XBezruxRgrz_i0h-ZKsvXgJl9nBy2N4EelNlbu6cf2RUJ-mbKiH2UFYhYLEz8kUJh8VtLx8WFZF7
+Wed Mar 12 17:09:49 CST 2025
+删除4ocari 
+删除hotse777 
+删除oki_dokie 
+删除mode_bad 
+删除foxylovesyou 
+删除my_eyes_higher 
