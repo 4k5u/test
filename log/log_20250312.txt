@@ -131,3 +131,10 @@ Wed Mar 12 08:35:48 CST 2025
 Wed Mar 12 08:37:18 CST 2025
 删除oda_assuri 
 删除sexygamesx 
+添加oda_assuri https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-1e1d1c411f70edd6053d27c3abbd978a79615a59d510f8af67beb3577c80574f_trns_h264/playlist.m3u8
+添加sexygamesx https://edge4-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-f26cd83a92711424b0cf3b5a92bfd5b08edecefc1e26c51a7620236ef349576c_trns_h264/playlist.m3u8
+Wed Mar 12 08:47:00 CST 2025
+Wed Mar 12 08:47:06 CST 2025
+Wed Mar 12 08:48:34 CST 2025
+删除oda_assuri 
+删除sexygamesx 
