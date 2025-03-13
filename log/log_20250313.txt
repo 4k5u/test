@@ -406,3 +406,21 @@ Thu Mar 13 16:04:34 CST 2025
 删除mode_bad 
 删除foxylovesyou 
 删除your_desssert 
+添加taitehambelton https://edge14-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b9a66f2d7861bc5b781a75e0eb234932c90090996aa4940130858ab355191414_trns_h264/playlist.m3u8
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9033d8a0f268c82d8ef50e9bcbf52f39456180e1df6c2293439fd950040dfcbb_trns_h264/playlist.m3u8
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4fc35f81b0f579a1a32fc3d8317d448e60344eecbbf27facae2c9ea273acc2f_trns_h264/playlist.m3u8
+添加oda_assuri https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6a343e4f741e0c6e0debf3431087fcfe2b0a4b2afffa922973ec1c3b7b42760b_trns_h264/playlist.m3u8
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-829b257e271600ae5dad830d2a705a3b66771135ff5e2d9fa07879d8a1227109_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1366775daee672e33c562a315eec58cd94589e9ff2d3dd7a2760302cf144afdf_trns_h264/playlist.m3u8
+添加your_desssert https://edge2-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-a68773107aef995613824c303459f6495b4d1ebe73bc4b65f46e0d86b547cf52_trns_h264/playlist.m3u8
+Thu Mar 13 16:17:02 CST 2025
+Thu Mar 13 16:17:09 CST 2025
+Thu Mar 13 16:18:40 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除taitehambelton 
+删除oki_dokie 
+删除ake_mi 
+删除oda_assuri 
+删除mode_bad 
+删除foxylovesyou 
+删除your_desssert 
