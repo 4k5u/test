@@ -1,5 +1,4 @@
 flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NEY1Q0RENS1BQ0U2LTRBN0ItOThGNi04Rjg2RUY4QzU3RDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTgyMDUxNywiZXhwIjoxNzQxODIxMTE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.E8W_jq9OdTBmsVyyY6C-aaJMKU26-7FTs2f0VYAXbMS9F6oJFWRUTwUEWHVvOwxfe-bJqnHBXyudxR0N3mE-U1EEUgDKZK7_cRp3meO5tYIySNxndpqefV-8J_2100UD
-alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
