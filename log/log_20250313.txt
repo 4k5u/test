@@ -731,3 +731,12 @@ Thu Mar 13 22:34:52 CST 2025
 删除oki_dokie 
 删除your_desssert 
 删除dreamch77 
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9242d467a7803594374b21fb514d552e9b6e44a114e6e26a137f09cdbbf34b6e_trns_h264/playlist.m3u8
+添加your_desssert https://edge9-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-abbb3388044e11e11858f76fd1a196b8b9657957d0182c1e76a4451cb14e7b76_trns_h264/playlist.m3u8
+Thu Mar 13 22:47:08 CST 2025
+Thu Mar 13 22:47:46 CST 2025
+Thu Mar 13 22:49:01 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除172----95----student 
+删除oki_dokie 
+删除your_desssert 
