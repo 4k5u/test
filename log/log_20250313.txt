@@ -286,3 +286,12 @@ Thu Mar 13 14:03:37 CST 2025
 删除Sime_Naughty 
 删除oki_dokie 
 删除oda_assuri 
+添加taitehambelton https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b9a66f2d7861bc5b781a75e0eb234932c90090996aa4940130858ab355191414_trns_h264/playlist.m3u8
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9033d8a0f268c82d8ef50e9bcbf52f39456180e1df6c2293439fd950040dfcbb_trns_h264/playlist.m3u8
+添加oda_assuri https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6a343e4f741e0c6e0debf3431087fcfe2b0a4b2afffa922973ec1c3b7b42760b_trns_h264/playlist.m3u8
+Thu Mar 13 14:17:36 CST 2025
+Thu Mar 13 14:17:42 CST 2025
+Thu Mar 13 14:19:13 CST 2025
+删除taitehambelton 
+删除oki_dokie 
+删除oda_assuri 
