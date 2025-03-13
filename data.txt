@@ -4,3 +4,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6u0EACCDEoQZB6svJVIhafd6zlrfC4vEumo7U6bFS46lD5HjVlqGLs2lqfYx_SGBwfcKtGo9rpi9sBfvwEl9Wbcp0vVquv5C_BaXO7UyslDoATPAGmXmuJbbeX-yp2Zi
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
