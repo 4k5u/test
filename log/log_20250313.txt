@@ -565,3 +565,18 @@ Thu Mar 13 19:19:08 CST 2025
 删除ake_mi 
 删除mode_bad 
 删除foxylovesyou 
+添加taitehambelton https://edge2-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b9a66f2d7861bc5b781a75e0eb234932c90090996aa4940130858ab355191414_trns_h264/playlist.m3u8
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9242d467a7803594374b21fb514d552e9b6e44a114e6e26a137f09cdbbf34b6e_trns_h264/playlist.m3u8
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-56f2bdf99c92e461e88dd8a0e053197da38111b6818435e108e1de640bafec16_trns_h264/playlist.m3u8
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-829b257e271600ae5dad830d2a705a3b66771135ff5e2d9fa07879d8a1227109_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1366775daee672e33c562a315eec58cd94589e9ff2d3dd7a2760302cf144afdf_trns_h264/playlist.m3u8
+Thu Mar 13 19:32:05 CST 2025
+添加sonming52 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D6e6vk06XVmc.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0Q2ZTZ2azA2WFZtYyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTY4M0NDMC0zQjI3LTQwNzEtQkYzNy0zNEUwREU2MDVGMUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MTg2NTU0NywiZXhwIjoxNzQxODY2MTQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GkhHMMKFSLjNvABsKVtfmegC4oYP_6a2UN9yzlsfKB-oWgnVEjoNJMFMY0jWxgo1Uf_Oa_gCGpbJY9AVWSMThFC2jL1vvAwJKqWohMhLONBvAqDSyp6z7LgpUqDDX4uO
+Thu Mar 13 19:32:35 CST 2025
+Thu Mar 13 19:34:03 CST 2025
+删除Xenomy 
+删除taitehambelton 
+删除oki_dokie 
+删除ake_mi 
+删除mode_bad 
+删除foxylovesyou 
