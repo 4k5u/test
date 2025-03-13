@@ -512,3 +512,16 @@ Thu Mar 13 18:03:44 CST 2025
 删除taitehambelton 
 删除mode_bad 
 删除foxylovesyou 
+添加taitehambelton https://edge14-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b9a66f2d7861bc5b781a75e0eb234932c90090996aa4940130858ab355191414_trns_h264/playlist.m3u8
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9033d8a0f268c82d8ef50e9bcbf52f39456180e1df6c2293439fd950040dfcbb_trns_h264/playlist.m3u8
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-829b257e271600ae5dad830d2a705a3b66771135ff5e2d9fa07879d8a1227109_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1366775daee672e33c562a315eec58cd94589e9ff2d3dd7a2760302cf144afdf_trns_h264/playlist.m3u8
+Thu Mar 13 18:17:04 CST 2025
+Thu Mar 13 18:17:16 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._YyyPNKRJl9DT1Xl3W9jzDeDRIFtfN4O_DqfaCoiQ7dFEIqnzwQokcj6AK5-np792e7l60GpuuUI62drbujpH1XWbQ9BgWU4J0FF6paegbSifCHmsIqBdn_U3_05EYIt
+Thu Mar 13 18:18:48 CST 2025
+删除SanySenise 
+删除taitehambelton 
+删除oki_dokie 
+删除mode_bad 
+删除foxylovesyou 
