@@ -129,3 +129,8 @@ Fri Mar 14 04:47:01 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jn8GxeIv4b75wblTKL6yF0JUxRiMGmFqXzOFX7n6G69VTqHMEyT197E7tfK0yw_5x9cUQvcLAN4yJODtNmjyH0Aes3q6OnM6v9XVVdvwMCpilawBHcNN3V80N3z3DE6T
 Fri Mar 14 04:48:38 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bfb9f420836ef56f0f5b7a030349192c05d540f958a6f3339c859058206bed7d_trns_h264/playlist.m3u8
+Fri Mar 14 05:16:58 CST 2025
+Fri Mar 14 05:17:00 CST 2025
+Fri Mar 14 05:18:26 CST 2025
+删除oki_dokie 
