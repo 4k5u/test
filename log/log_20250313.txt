@@ -278,3 +278,11 @@ Thu Mar 13 13:48:31 CST 2025
 删除y1026 
 删除oki_dokie 
 删除oda_assuri 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9033d8a0f268c82d8ef50e9bcbf52f39456180e1df6c2293439fd950040dfcbb_trns_h264/playlist.m3u8
+添加oda_assuri https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-6a343e4f741e0c6e0debf3431087fcfe2b0a4b2afffa922973ec1c3b7b42760b_trns_h264/playlist.m3u8
+Thu Mar 13 14:01:59 CST 2025
+Thu Mar 13 14:02:05 CST 2025
+Thu Mar 13 14:03:37 CST 2025
+删除Sime_Naughty 
+删除oki_dokie 
+删除oda_assuri 
