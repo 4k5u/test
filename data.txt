@@ -9,3 +9,5 @@ my_eyes_higher   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 your_desssert   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b4c95c8e95b4810e18832ffac91f2e4da64f2be73c024d59ad516c3b6dfbcc6c_trns_h264/playlist.m3u8
+mode_bad   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-41cc7cf4fd3b3e8d4261cbf78b289eed0ca888ac8b99871218c06ce594c13eda_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
