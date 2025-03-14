@@ -196,3 +196,7 @@ Fri Mar 14 09:07:57 CST 2025
 Fri Mar 14 09:08:01 CST 2025
 Fri Mar 14 09:09:29 CST 2025
 删除IdaJonesy 
+Fri Mar 14 09:17:03 CST 2025
+Fri Mar 14 09:17:07 CST 2025
+Fri Mar 14 09:18:28 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
