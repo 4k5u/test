@@ -222,3 +222,11 @@ Sat Mar 15 14:32:16 CST 2025
 Sat Mar 15 14:33:34 CST 2025
 删除SanySenise 
 删除sexygamesx 
+添加sexygamesx https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b43269e0c4ff3f8821b8abc1c31bfaaef34b761812a08736044bcc65b79dbef4_trns_h264/playlist.m3u8
+添加your_desssert https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-db8311c76663bb86717b5abc1bf3e0f5ee190106ce749887e0af77e1088df391_trns_h264/playlist.m3u8
+Sat Mar 15 14:47:00 CST 2025
+Sat Mar 15 14:47:10 CST 2025
+Sat Mar 15 14:48:36 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty 
+删除sexygamesx 
