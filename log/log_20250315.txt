@@ -243,3 +243,9 @@ Sat Mar 15 15:16:57 CST 2025
 Sat Mar 15 15:17:08 CST 2025
 Sat Mar 15 15:18:35 CST 2025
 删除sexygamesx 
+添加sexygamesx https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b43269e0c4ff3f8821b8abc1c31bfaaef34b761812a08736044bcc65b79dbef4_trns_h264/playlist.m3u8
+Sat Mar 15 15:32:00 CST 2025
+Sat Mar 15 15:32:10 CST 2025
+Sat Mar 15 15:33:39 CST 2025
+删除mode_bad 
+删除sexygamesx 
