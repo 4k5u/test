@@ -424,3 +424,13 @@ Sat Mar 15 22:18:30 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除oki_dokie 
 删除iminako 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3dd436b252027f310c279bb1c440175f6845d675d212d24bd36c88214c4197ba_trns_h264/playlist.m3u8
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-da65e7a2fa22b0ca6062a0bfd777a5dcd26d4457e81cef31992a6dd30d4f861f_trns_h264/playlist.m3u8
+添加iminako https://edge2-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a8b66f1917002a78b004658ebff30a7fde3545a6708f055279c0c09e8f035bd4_trns_h264/playlist.m3u8
+Sat Mar 15 22:32:00 CST 2025
+Sat Mar 15 22:32:22 CST 2025
+Sat Mar 15 22:33:26 CST 2025
+删除y1026 
+删除oki_dokie 
+删除ake_mi 
+删除iminako 
