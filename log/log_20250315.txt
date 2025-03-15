@@ -216,3 +216,9 @@ Sat Mar 15 14:17:12 CST 2025
 Sat Mar 15 14:18:37 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除sexygamesx 
+添加sexygamesx https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b43269e0c4ff3f8821b8abc1c31bfaaef34b761812a08736044bcc65b79dbef4_trns_h264/playlist.m3u8
+Sat Mar 15 14:32:05 CST 2025
+Sat Mar 15 14:32:16 CST 2025
+Sat Mar 15 14:33:34 CST 2025
+删除SanySenise 
+删除sexygamesx 
