@@ -326,3 +326,9 @@ Sat Mar 15 18:18:31 CST 2025
 删除sigmasian 
 删除ad0res 
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-597247379be152482ae0a9db6b5996b5c869a25ab3efa3556d9ca67f3cced790_trns_h264/playlist.m3u8
+Sat Mar 15 18:31:58 CST 2025
+Sat Mar 15 18:32:15 CST 2025
+Sat Mar 15 18:33:35 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除oki_dokie 
