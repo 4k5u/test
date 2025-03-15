@@ -454,3 +454,12 @@ Sat Mar 15 23:18:36 CST 2025
 删除Asia-Lynn 
 删除ake_mi 
 删除iminako 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b71d241bb0f943b2b022ddb758ae546b5aa16c2a9ac93342cd08cf5b89e30c05_trns_h264/playlist.m3u8
+添加iminako https://edge14-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a8b66f1917002a78b004658ebff30a7fde3545a6708f055279c0c09e8f035bd4_trns_h264/playlist.m3u8
+Sat Mar 15 23:32:03 CST 2025
+Sat Mar 15 23:32:21 CST 2025
+Sat Mar 15 23:33:28 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除dign1461 
+删除jodong2 
+删除iminako 
