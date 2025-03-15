@@ -15,3 +15,4 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 your_desssert   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-db8311c76663bb86717b5abc1bf3e0f5ee190106ce749887e0af77e1088df391_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+mode_bad   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cbfa0e7379afc1b357f127f1f95909daa0dc3a1af7e22902c5a03fc2743303ea_trns_h264/playlist.m3u8
