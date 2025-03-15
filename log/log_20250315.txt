@@ -160,3 +160,12 @@ Sat Mar 15 10:18:47 CST 2025
 Sat Mar 15 10:32:26 CST 2025
 Sat Mar 15 10:32:28 CST 2025
 Sat Mar 15 10:33:48 CST 2025
+Sat Mar 15 11:17:05 CST 2025
+Sat Mar 15 11:17:07 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iaj-iOk8XCPa7LA88Oj5u7aSQ-Hale84vbgdD2u3FvsFzjHBoL00VNmg8zJJjVe9X5wDH0j78gpTaG1Q8cmJ1eD9-AsZ3ObSiiM5tk7zb1VqKmxpqHhLyZzDPZQeQdRA
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wjdMsDD4sMy8Cf0icansWbZKH75d8vUlU6zgT44G2MbZ9QTV-bD_Qq-YEtHJtLRcgGdJdjERCXmqpvO3m_Kt36WmlE3tIjA2folxPyXbVSZk0k7PqT6ZdYMdodDKI4rV
+Sat Mar 15 11:18:35 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除_meganmeow_ 
+删除oki_dokie 
