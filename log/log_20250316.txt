@@ -298,3 +298,9 @@ Sun Mar 16 15:02:00 CST 2025
 Sun Mar 16 15:02:10 CST 2025
 Sun Mar 16 15:03:38 CST 2025
 删除oda_assuri 
+添加oda_assuri https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9da5cdc4709a2e42ff4516ae8902964fdf35051f12c91e8ad82b02aba8704d81_trns_h264/playlist.m3u8
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-303cac2e4920654ae35a3bb889579f21476ab24ef4485a2a080f7a328c6c932f_trns_h264/playlist.m3u8
+Sun Mar 16 15:17:04 CST 2025
+Sun Mar 16 15:17:14 CST 2025
+Sun Mar 16 15:18:33 CST 2025
+删除oda_assuri 
