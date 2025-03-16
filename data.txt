@@ -7,3 +7,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+cuddles_me   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:cuddles_me-sd-791ace427342c3a61f579ac32e8dfb1daba84a1644e2e8a88bedd9ef90566c2f_trns_h264/playlist.m3u8
