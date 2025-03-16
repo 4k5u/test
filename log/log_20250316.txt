@@ -365,3 +365,9 @@ Sun Mar 16 17:17:11 CST 2025
 Sun Mar 16 17:18:37 CST 2025
 删除oda_assuri 
 删除mode_bad 
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-303cac2e4920654ae35a3bb889579f21476ab24ef4485a2a080f7a328c6c932f_trns_h264/playlist.m3u8
+Sun Mar 16 17:46:57 CST 2025
+Sun Mar 16 17:47:09 CST 2025
+Sun Mar 16 17:48:35 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除mode_bad 
