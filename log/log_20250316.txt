@@ -315,3 +315,9 @@ Sun Mar 16 15:47:07 CST 2025
 Sun Mar 16 15:48:32 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除oda_assuri 
+添加oda_assuri https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9da5cdc4709a2e42ff4516ae8902964fdf35051f12c91e8ad82b02aba8704d81_trns_h264/playlist.m3u8
+Sun Mar 16 16:02:02 CST 2025
+Sun Mar 16 16:02:12 CST 2025
+Sun Mar 16 16:03:38 CST 2025
+删除mode_bad 
+删除oda_assuri 
