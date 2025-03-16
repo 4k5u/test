@@ -250,3 +250,10 @@ Sun Mar 16 13:18:36 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除amilia4u 
 删除oda_assuri 
+添加amilia4u https://edge1-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5e3acfb8aa43b94d4a478be979eed03ae4ffff78850ed62c02769b098e56c61_trns_h264/playlist.m3u8
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-24dbf7def9b8853fabb9c3bfdf5e4c27a68f6df3d38876050d9afb6053f30b82_trns_h264/playlist.m3u8
+添加oda_assuri https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9da5cdc4709a2e42ff4516ae8902964fdf35051f12c91e8ad82b02aba8704d81_trns_h264/playlist.m3u8
+Sun Mar 16 13:31:59 CST 2025
+Sun Mar 16 13:32:05 CST 2025
+Sun Mar 16 13:33:29 CST 2025
+删除oda_assuri 
