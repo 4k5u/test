@@ -15,3 +15,4 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 your_desssert   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-eb24d68b35d418cb12eaf99085bc69d331859c252c231441a678049de7e0a483_trns_h264/playlist.m3u8
 amilia4u   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5e3acfb8aa43b94d4a478be979eed03ae4ffff78850ed62c02769b098e56c61_trns_h264/playlist.m3u8
 mode_bad   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-303cac2e4920654ae35a3bb889579f21476ab24ef4485a2a080f7a328c6c932f_trns_h264/playlist.m3u8
+Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
