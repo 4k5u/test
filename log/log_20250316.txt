@@ -434,3 +434,8 @@ Sun Mar 16 20:32:34 CST 2025
 Sun Mar 16 20:33:02 CST 2025
 Sun Mar 16 20:34:08 CST 2025
 删除my_eyes_higher 
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-3589216bd20abd4cda79846c2a7d0c3aae5d3f0cd4619a86dce96216881b461a_trns_h264/playlist.m3u8
+Sun Mar 16 20:47:01 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hMtc2fTcTr5P.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hNdGMyZlRjVHI1UCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNENERkY4MC0yQjM0LTQ0MkQtODk3Ni0zNkY5NzgyNTA1NkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjEyOTI0NSwiZXhwIjoxNzQyMTI5ODQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GOBzoJDFkBiSKM78xvPw8dsGSmHqqhV6mcerVV6CuAcsn5KlCRBCUkzjWgOmmDroZc5MiU6SQQGvK7O9gbhkcKdTeeYTK0zWfGRjdDDQw4g0O3zUhChhxFH-KBt5_hEd
+Sun Mar 16 20:47:31 CST 2025
+Sun Mar 16 20:48:49 CST 2025
