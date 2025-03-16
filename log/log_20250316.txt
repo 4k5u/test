@@ -489,3 +489,8 @@ Sun Mar 16 23:33:00 CST 2025
 Sun Mar 16 23:34:03 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除day59day 
+Sun Mar 16 23:47:05 CST 2025
+Sun Mar 16 23:47:27 CST 2025
+Sun Mar 16 23:48:30 CST 2025
+删除somsom0339 
+删除Asia-Lynn 
