@@ -9,6 +9,4 @@ glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 oki_dokie   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c19f476001c29bd1ac1bf9a0369aa7c800d234ecef8fce2bfb83983f0d0a228b_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-Asia-Lynn   https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 kolll88   https://edge-hls.doppiocdn.live/hls/132482063/master/132482063_auto.m3u8
-your_desssert   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-40b91da93f6e52634c6657e5640647a1e1d7f3b38ebfd934e3f8103ccbb97fb3_trns_h264/playlist.m3u8
