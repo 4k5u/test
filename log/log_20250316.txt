@@ -265,3 +265,9 @@ Sun Mar 16 13:48:30 CST 2025
 删除mikio_san 
 删除amilia4u 
 删除oda_assuri 
+添加oda_assuri https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-9da5cdc4709a2e42ff4516ae8902964fdf35051f12c91e8ad82b02aba8704d81_trns_h264/playlist.m3u8
+Sun Mar 16 14:01:55 CST 2025
+Sun Mar 16 14:02:01 CST 2025
+Sun Mar 16 14:03:27 CST 2025
+删除my_eyes_higher 
+删除oda_assuri 
