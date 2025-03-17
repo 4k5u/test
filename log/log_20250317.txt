@@ -279,3 +279,8 @@ Mon Mar 17 18:17:12 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TjCrrSqlhLCk1EOMJZZYdz_EAjsgbNNMzaxK9ZEdsDtASZNDf2yllhEgCBRJb1NDc5DZLU8YfwkbjlpoGXaXlj8eYkSotR7oD14L0RvYNQTHMU4FYe7dbqf4Dcvcp6Ke
 Mon Mar 17 18:18:46 CST 2025
 删除4ocari 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8af5c991d73510574e734f434ee3fc62bacd6822c11e6e24e8fbb2419317d898_trns_h264/playlist.m3u8
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e6b2f76384b4facae0520e12c4e4d4e5b4f24c2615145a51ecc6dc6f31969dee_trns_h264/playlist.m3u8
+Mon Mar 17 18:31:59 CST 2025
+Mon Mar 17 18:32:09 CST 2025
+Mon Mar 17 18:33:36 CST 2025
