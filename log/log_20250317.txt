@@ -190,3 +190,8 @@ Mon Mar 17 13:02:09 CST 2025
 Mon Mar 17 13:03:33 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除flowerwar 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-490850113a190d1bf3d782349d73de037c3dcea88f6d81e3c3f766dc0fddb1ec_trns_h264/playlist.m3u8
+Mon Mar 17 13:17:30 CST 2025
+Mon Mar 17 13:17:34 CST 2025
+Mon Mar 17 13:19:00 CST 2025
+删除leelate 
