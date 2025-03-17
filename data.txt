@@ -3,4 +3,3 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ygIQxMXNaZ05rIxhiQvIbQgEkbTs01Ofl55TIfi09m53DNlzlXGQVpsRn5SZd9eqU3z_R1eSojTsET7kdcw3N9AgyJpG0uPQK-ua5tEax2PoUkdvhYDobLiqoUFiaC2Q
 oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-3b971610a2ea39f45fb1eb97527fb1db5d86ddb88a92c9101ffccf820d1ce8b7_trns_h264/playlist.m3u8
-oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1149cf98b9f72214a6609a9b4753c112d796ad06134ab9fe12181dd931d85449_trns_h264/playlist.m3u8
