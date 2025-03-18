@@ -256,3 +256,7 @@ Tue Mar 18 17:03:37 CST 2025
 Tue Mar 18 17:05:07 CST 2025
 删除oda_assuri 
 删除lolsos 
+Tue Mar 18 17:18:04 CST 2025
+Tue Mar 18 17:18:14 CST 2025
+Tue Mar 18 17:19:40 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
