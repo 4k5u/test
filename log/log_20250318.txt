@@ -344,3 +344,9 @@ Tue Mar 18 20:49:16 CST 2025
 Tue Mar 18 20:49:50 CST 2025
 Tue Mar 18 20:50:53 CST 2025
 删除acac88 
+Tue Mar 18 21:02:04 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hMtc2fTcTr5P.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hNdGMyZlRjVHI1UCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRTRFNUEwQi1BMzNCLTRCQ0QtQUUxMS1CMUFEMDlERUYxQzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjMwMjk1MywiZXhwIjoxNzQyMzAzNTUzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qQrbn4cOe-sFWvIdDyc5Iew91OJcxOPS2rzjA_0sGBPieTYpniIZU1qitxG_4axBkOTktW_FwlBdBM92P9RuUaK4NJz0Q0embzM5kab0UbK2pAxJmOKZWNA1n4gYdiFK
+Tue Mar 18 21:02:40 CST 2025
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Qmn__dQqPz3ajJxcMmWAUrr5WGcVVMqQ4sPIzEN0JtXxkBKIzAuaogEgts3EghV12lvPzuWOhMZeq-klxYFMgjuUoRjbCmR3S9h7KQCa70kzhdiyL2gq0JoOMkAkYXze
+Tue Mar 18 21:03:55 CST 2025
+删除hyuna0721 
