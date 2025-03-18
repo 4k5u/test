@@ -357,3 +357,8 @@ Tue Mar 18 21:18:12 CST 2025
 Tue Mar 18 21:18:57 CST 2025
 Tue Mar 18 21:20:04 CST 2025
 删除kyul365 
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-471df394673cc0b7bd4f0c6038a240f6589777dc424255cf816837edd3f7004e_trns_h264/playlist.m3u8
+Tue Mar 18 21:32:03 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4RDJEMDUyNi02RTRELTRCNTgtODI5Ri03NjRBNDE5MTFBODkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjMwNDc0MywiZXhwIjoxNzQyMzA1MzQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._xJmvs6lzv322ioJgT8mkMuwaLXb3DVLMDtFqg6nemU47XoCjtMY4ln6RqHaH9oQdGPOXKxYAMUA8g6VmMklZivXACH2o393Az958NVKT3FD_R3CxCk1DxjHOSGDCEgs
+Tue Mar 18 21:32:47 CST 2025
+Tue Mar 18 21:33:56 CST 2025
