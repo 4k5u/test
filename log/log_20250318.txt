@@ -170,3 +170,7 @@ Tue Mar 18 11:16:59 CST 2025
 Tue Mar 18 11:17:01 CST 2025
 Tue Mar 18 11:18:37 CST 2025
 删除oki_dokie 
+Tue Mar 18 11:32:01 CST 2025
+Tue Mar 18 11:32:03 CST 2025
+Tue Mar 18 11:33:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
