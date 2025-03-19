@@ -252,3 +252,8 @@ Wed Mar 19 16:32:54 CST 2025
 Wed Mar 19 16:33:05 CST 2025
 Wed Mar 19 16:34:36 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f9b1fe53359c6d1aa6c339460842d5d6143f288dcf609d8d94be47474adec343_trns_h264/playlist.m3u8
+Wed Mar 19 16:47:42 CST 2025
+Wed Mar 19 16:47:52 CST 2025
+Wed Mar 19 16:49:24 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
