@@ -4,3 +4,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oda_assuri   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-dc17b759d160ef257f507531409e3db27b0d44f881d353b601f3d53df0b5554e_trns_h264/playlist.m3u8
+oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c23882637639a3129b0b76f1e292cf0afc950be8d2b5ba8a72a870c2ac593eb5_trns_h264/playlist.m3u8
