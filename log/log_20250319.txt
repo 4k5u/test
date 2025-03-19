@@ -212,3 +212,7 @@ Wed Mar 19 14:01:57 CST 2025
 Wed Mar 19 14:02:07 CST 2025
 Wed Mar 19 14:03:39 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Wed Mar 19 14:17:53 CST 2025
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMTk3NEEzRi02NjMwLTQ2RjAtODE1Mi01QUQ1RDQzMTAyQjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjM2NTA3OCwiZXhwIjoxNzQyMzY1Njc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.V_OoQZJO1-9AgsqKF21mejCZwtT4H8pY6IclFue-F868QmD8TtrUoUeGmP62PrwABqMi1ee58y7BIGr3BaNwaTXfcdvw9abgGUsDrqFEIv5DtCBfrjvoS8hluk2loLYu
+Wed Mar 19 14:18:03 CST 2025
+Wed Mar 19 14:19:26 CST 2025
