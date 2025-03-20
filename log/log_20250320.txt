@@ -319,3 +319,11 @@ Thu Mar 20 18:02:58 CST 2025
 Thu Mar 20 18:03:08 CST 2025
 Thu Mar 20 18:04:34 CST 2025
 删除iminako 
+添加iminako https://edge5-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-04510aa34642c78418d7e5331e6899259dcbb2e813c308baeef2e7b3f78373a9_trns_h264/playlist.m3u8
+Thu Mar 20 18:17:05 CST 2025
+Thu Mar 20 18:17:13 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Tdv9xkoUmcfxKQqR1uXMglOXWC34IfHvxyo0K3IUgLOkw1uo0uxQjNZ8mLeIwcSfIYvuoOtEUI30QstEGLdQBzanna2oiFBO36LHQoYoTcQTzT47mcLXfMTlMsdmP4h3
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TinUdee0jqJlLW4ct0A_KFgn1KTTDDcdtDJm-4_Dz5FK4m0EMrlCqW7sCFd4aSNlxQQNY3Brh6b_VWpx4RXqUFFY1cs_hB88e0fqPeNJ5LwayCS5YfD_uusZNXj-7eHK
+Thu Mar 20 18:18:48 CST 2025
+删除oda_assuri 
+删除iminako 
