@@ -312,3 +312,10 @@ Thu Mar 20 17:47:08 CST 2025
 Thu Mar 20 17:48:35 CST 2025
 删除SanySenise 
 删除iminako 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f86b874bf4944df3c9d6ad1dc2a98a5b6620538592550a770e13546244d836af_trns_h264/playlist.m3u8
+添加iminako https://edge6-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-04510aa34642c78418d7e5331e6899259dcbb2e813c308baeef2e7b3f78373a9_trns_h264/playlist.m3u8
+Thu Mar 20 18:02:58 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRTJBRTkwNi00N0I4LTREMzItQTkyOS04NDk3OENCQzIwQTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjQ2NDk4MywiZXhwIjoxNzQyNDY1NTgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pYTst3ePk9nJkwLNS_7Khx87BTswPAOTBnCJKTl7Otfrv7vjkXYdcZF1pdnmGIgU8iOYASJHtlxPdrNfPBfZAo7iYL1P0dQxLauxU8CbTSqmIyIwt9OKsfuRqoxKMS6z
+Thu Mar 20 18:03:08 CST 2025
+Thu Mar 20 18:04:34 CST 2025
+删除iminako 
