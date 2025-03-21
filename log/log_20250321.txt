@@ -170,3 +170,10 @@ Fri Mar 21 10:18:36 CST 2025
 Fri Mar 21 10:31:54 CST 2025
 Fri Mar 21 10:31:58 CST 2025
 Fri Mar 21 10:33:29 CST 2025
+Fri Mar 21 11:01:56 CST 2025
+Fri Mar 21 11:02:00 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g-D6qHBjVfQq16fsV_ABwQHp-DDEdq7r-EtTBigH3vydduMu0PG1C73xytlYWLh8o0tgN6Kz6p7UhkB3X6X3U3jg8Vb5pYlhloqXJbEfChafx93ydJej72ogTgaIyqP4
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Lub3fdpdKucwC-Xb4h5jvqzxmVnjSdvnIxGpgeeTU7jmtfCEfX1C4DA1xSfSMb6gyfxmXnVJDdL3S043pLhMaZbugehkyoHXeCadiMuktvjOtA3DeoYsRmMcx6qIXQua
+Fri Mar 21 11:03:42 CST 2025
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+删除oki_dokie 
