@@ -194,3 +194,8 @@ Fri Mar 21 12:02:02 CST 2025
 添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1M0ExNTVDMy04MzQwLTQxRkItODlGQi05RUIyMzRBMEE1QTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MjUyOTcyNSwiZXhwIjoxNzQyNTMwMzI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mm08dsyWmFWV943EaQ0WhImVLbixOlXQq1mIhyL7yIcisPgnWhxqnfZnms5vHgB4HeazPNWYnKDgaygu-qGTYLMCTySvePvdXs0h4zlCRJpPcr3SznxJnISXswWXIgDa
 Fri Mar 21 12:02:08 CST 2025
 Fri Mar 21 12:03:25 CST 2025
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-296069ed6c5fc3cff6763c3c065f6fdde3809e3476fcfa76c054359710640b99_trns_h264/playlist.m3u8
+Fri Mar 21 12:16:58 CST 2025
+Fri Mar 21 12:17:02 CST 2025
+Fri Mar 21 12:18:28 CST 2025
+删除dana9282 
