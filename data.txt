@@ -3,3 +3,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-747d4a09a768093282ad86f3372011772a09a942cbd785ddd7aeb934963c553a_trns_h264/playlist.m3u8
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f499266d36bfb6566958f50cee197c6764923cb323250d33175aaa1a6a64ddb4_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+oda_assuri   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d0c889846c3cb88eeef7e23b5eb980f7344e7bc3e4cc951d3513718e2d08ddea_trns_h264/playlist.m3u8
