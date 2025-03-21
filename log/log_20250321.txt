@@ -206,3 +206,11 @@ Fri Mar 21 12:46:54 CST 2025
 Fri Mar 21 12:46:58 CST 2025
 Fri Mar 21 12:48:28 CST 2025
 删除taitehambelton 
+添加amilia4u https://edge14-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9e387b04e9c10eb7e64f392f2c4f2f95729858827df91fb7418c3214b4956cf9_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5801f66f8b53034dec0dcd02c415fb5ee158fb47ce368406d02cb7406e4865c4_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fca00a3536d957e0f8711e1bb4220c6c970fcc5075357d13d24a618fc614e037_trns_h264/playlist.m3u8
+Fri Mar 21 13:16:59 CST 2025
+Fri Mar 21 13:17:03 CST 2025
+Fri Mar 21 13:18:31 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除SanySenise 
