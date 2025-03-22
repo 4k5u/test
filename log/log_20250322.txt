@@ -145,3 +145,10 @@ Sat Mar 22 08:18:28 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 删除dign1461 
 删除sexygamesx 
+添加oda_assuri https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-3c03ab2034d450e3de36e38653d2fecd1feb1640a346b67d624054075c48e1a0_trns_h264/playlist.m3u8
+添加sexygamesx https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fcbba772c2e6f09f906c1e0a4a77bff19ebc53c79829ba3ff37739c159b21529_trns_h264/playlist.m3u8
+Sat Mar 22 08:31:59 CST 2025
+Sat Mar 22 08:32:01 CST 2025
+Sat Mar 22 08:33:31 CST 2025
+删除mazzanti_ 
+删除sexygamesx 
