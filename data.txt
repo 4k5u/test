@@ -7,3 +7,4 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 taitehambelton   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-da56a8c1e98b6251ed9d7ceeada05bd4cb729738fc793fd5379873a687054c0f_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a35ca89c52d9d160272230b2dfbeb76b471107ac831519036c4ecf0e907173ef_trns_h264/playlist.m3u8
