@@ -394,3 +394,8 @@ Sat Mar 22 22:18:12 CST 2025
 Sat Mar 22 22:19:19 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除hanny27 
+Sat Mar 22 22:31:57 CST 2025
+Sat Mar 22 22:32:20 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.MJK8vPhzAKFFhodtocCDvDgDoPesUWfWUqpesE1UbdtPVE_oEQrCiGISEAkng9Y8ctKQJk2m4pn_XylGAdHoPYuAtNx-YU7611i8bbS8-IAR_P109DHU5iMUivscxH4C
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7f8FIlhjJtGy3AN8ifVLbjiFSTnKjc_HzIoWbxCHrk4WhOIZTcb0SLY-sxrzGAvyzFd0IR8vwskhrU-nc6Xc_UOFyH5R87cXOH1HyLmERIv9CfqOsmzhwDaZd5n__a5A
+Sat Mar 22 22:33:41 CST 2025
