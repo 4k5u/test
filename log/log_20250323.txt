@@ -216,3 +216,7 @@ Sun Mar 23 14:18:03 CST 2025
 Sun Mar 23 14:19:22 CST 2025
 删除imanatural 
 删除eunyoung1238 
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4f941fce0b9ad5e0461fa5648b045272bb5aea3fd9977112066bdf1743e8eacb_trns_h264/playlist.m3u8
+Sun Mar 23 14:31:56 CST 2025
+Sun Mar 23 14:32:04 CST 2025
+Sun Mar 23 14:33:27 CST 2025
