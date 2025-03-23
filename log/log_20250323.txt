@@ -317,3 +317,8 @@ Sun Mar 23 20:47:28 CST 2025
 添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.boQunlp1TS_AqYtgnBYypOdHcS92L6EdOIR6lY6HnV3andxHwlaTFD2jUMsSl0tbl071sjFLZ1dFKd6zwtlyURIhxbfl_6LHk9IY-bUEc5ifLXvVYQujkMLjZD_y60VB
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._sCkJsTrK0EjIdUjeH11iPmZud-0w9D987ks9UT7H2l5Y8MHXeDkUgmpLB02F9czn5jurJNUnwzW7xZunP9N6bqmx7w4HHimudRJzZfDqcV1LFwiLv5PdhdN_nCJF7KA
 Sun Mar 23 20:48:41 CST 2025
+Sun Mar 23 21:01:58 CST 2025
+Sun Mar 23 21:02:24 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Vez16f2pJp-4UaU3dNQ3BaIb0-BSqHhK3KLZ8uF3U7KrmwYYgtVa_PzhEjXyflooMRIPovNS0zkLGruZYia06LmUYgywvjYmIOIZ0P_XYPfLjEiryMipMxJNLYkR9b4W
+Sun Mar 23 21:03:37 CST 2025
+删除my_eyes_higher 
