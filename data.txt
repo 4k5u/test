@@ -3,4 +3,3 @@ y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playl
 sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-34ae284c678a95018e1bcdc9999f9d75175da3bea0e18e40063e7297a6ed261b_trns_h264/playlist.m3u8
 mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b1b4ebc8d1b2a813517a47ea40456d78c3cf78a0313b60500a8050cf1253720a_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e37d4f733506e3565aa383af63924743fb0f2b517ed096f19339b5036cd75803_trns_h264/playlist.m3u8
-oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df98c7270cd730b2e0f5800d0e6f6f56afd3970dc5efee1885d04ac31006453b_trns_h264/playlist.m3u8
