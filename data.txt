@@ -18,3 +18,4 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7RzqDD4HG1RaDVCP4Z6snmGvwJlm1jSkEONKjggQUh7D0-oj6XvKCzVd96hW9tPygFQHxW9JM0pBUhalTnh4DBEI1WbPlbJpAHHz4uxRcm7EuLbEtkzaO1T8O2xZM1r7
+San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
