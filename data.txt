@@ -1,2 +1,1 @@
 y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BKiJEvjtqRc_j9LV09gimVDrJDPt1Rmy8CkeoenEcnB2LyzIDek2Uv8dE8srLXHIOwj2h3mT2XvcWdmZ-33FLEZ15k0dPd47g7otKDLGV-6K2_aVibqx-Eb-uIaW5s5b
-honey_pinkgreen   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e37d4f733506e3565aa383af63924743fb0f2b517ed096f19339b5036cd75803_trns_h264/playlist.m3u8
