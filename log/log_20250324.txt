@@ -333,3 +333,7 @@ Mon Mar 24 19:33:51 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除amilia4u 
 删除ake_mi 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-50879c0b921ba7fab17a8243f6dcd3074c003f5a64d3d7f9eb0a9848c4f4dc30_trns_h264/playlist.m3u8
+Mon Mar 24 19:47:05 CST 2025
+Mon Mar 24 19:47:32 CST 2025
+Mon Mar 24 19:48:59 CST 2025
