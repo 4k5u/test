@@ -232,3 +232,8 @@ Mon Mar 24 14:17:00 CST 2025
 Mon Mar 24 14:17:12 CST 2025
 Mon Mar 24 14:18:40 CST 2025
 删除San___San 
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-546a185a80f377678654a0cae9c0ee549f78b6c03d41cba89f49ce89111e7e34_trns_h264/playlist.m3u8
+Mon Mar 24 14:31:55 CST 2025
+Mon Mar 24 14:32:04 CST 2025
+Mon Mar 24 14:33:31 CST 2025
+添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
