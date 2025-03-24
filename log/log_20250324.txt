@@ -139,3 +139,7 @@ Mon Mar 24 08:02:05 CST 2025
 Mon Mar 24 08:03:25 CST 2025
 删除honey_pinkgreen 
 删除oki_dokie 
+添加oda_assuri https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ba8e25003adf43b9a47459e03521694f72c7a74a8b2b173c4d0000772ea5f3a8_trns_h264/playlist.m3u8
+Mon Mar 24 08:17:02 CST 2025
+Mon Mar 24 08:17:02 CST 2025
+Mon Mar 24 08:18:22 CST 2025
