@@ -346,3 +346,8 @@ Mon Mar 24 20:04:13 CST 2025
 删除Xenomy 
 删除happyy2 
 删除oki_dokie 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1d07b133f25b1f225f3fe22d72a02ea69d84093c4e4845d7a01870fe3ddbe138_trns_h264/playlist.m3u8
+Mon Mar 24 20:17:07 CST 2025
+Mon Mar 24 20:17:31 CST 2025
+Mon Mar 24 20:18:51 CST 2025
+删除jjine0127 
