@@ -3,3 +3,5 @@ oda_assuri   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-ba8e2
 taitehambelton   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-243c2d09dec0cd792b857b7bf81ab1e6bcca7e8ffc02b42b95ffee3eeaf4c035_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.N_w5F80YqawHmpjQAUjpQZBSsJZAKP8ZHHZtZrI5wTFHZ2HcEMV87CtRiMXnO35jsrEdaXRknbmmDO7TzQ8x3VPIeOPiLqQXs0Pb0hUhgo2b9zjMQxmDns4MfpNh_9Gx
 San___San   https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gO50dG6BXm_BGT0iuMCrjqey1KP_U8YsOy7-YUXIkyVPTxMfbOL9p-DtK6lgBeIpizBYnxOEnRYxRTnd33-rHa4_r578_pqYi-YoNtjjdTPeyPdXceDsJruT_zIEnxqA
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
