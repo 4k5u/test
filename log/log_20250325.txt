@@ -238,3 +238,9 @@ Tue Mar 25 15:16:56 CST 2025
 Tue Mar 25 15:17:05 CST 2025
 Tue Mar 25 15:18:36 CST 2025
 删除ake_mi 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ce5f03df23ebda5d048d2381dbd05138bad1df7e2f6e5f9a04d7ac8025914980_trns_h264/playlist.m3u8
+Tue Mar 25 15:32:06 CST 2025
+Tue Mar 25 15:32:14 CST 2025
+Tue Mar 25 15:33:38 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除ake_mi 
