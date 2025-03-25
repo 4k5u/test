@@ -266,3 +266,8 @@ Tue Mar 25 16:48:07 CST 2025
 Tue Mar 25 16:48:19 CST 2025
 Tue Mar 25 16:49:53 CST 2025
 删除mode_bad 
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-9fc05e086a6c0e8731d2ec29b414aaef8873b3fd8bcb828cbcf1c2f22c5d3b54_trns_h264/playlist.m3u8
+Tue Mar 25 17:02:30 CST 2025
+Tue Mar 25 17:02:42 CST 2025
+Tue Mar 25 17:04:14 CST 2025
+删除mode_bad 
