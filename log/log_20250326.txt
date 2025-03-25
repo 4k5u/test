@@ -154,3 +154,10 @@ Wed Mar 26 07:01:58 CST 2025
 Wed Mar 26 07:02:00 CST 2025
 Wed Mar 26 07:03:28 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-516322eb35c0d9a557407b00965eda0dfbb578960e54156c4be952aee7656938_trns_h264/playlist.m3u8
+Wed Mar 26 07:17:02 CST 2025
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vkeFn91sYVXx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZrZUZuOTFzWVZYeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MkM5QUJDQy01OENFLTQ0QkUtOURCMy0xOENCMUI1MTE0MkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mjk0NDYyNSwiZXhwIjoxNzQyOTQ1MjI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Sx2AkchnBWYSGbZlA3MnGX3K-F0rTT4a5W_CGWzo5wwWwRqMrGvPmzLW4dpscH5-ewnAey_sBMKrHjXeetn0IJfIx6v8ycUQKweDfiwfckLPLoAsnj2wTIyflwEvpGt8
+Wed Mar 26 07:17:10 CST 2025
+Wed Mar 26 07:18:31 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除oki_dokie 
