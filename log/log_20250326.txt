@@ -363,3 +363,8 @@ Wed Mar 26 17:02:37 CST 2025
 Wed Mar 26 17:04:46 CST 2025
 删除foxylovesyou 
 删除oda_assuri 
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b6b018f8ca38025408570080fee1589b355c6f86a1642ca21dfe712b602704e4_trns_h264/playlist.m3u8
+Wed Mar 26 17:18:06 CST 2025
+Wed Mar 26 17:18:19 CST 2025
+Wed Mar 26 17:19:55 CST 2025
+删除foxylovesyou 
