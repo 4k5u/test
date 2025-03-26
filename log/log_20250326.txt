@@ -399,3 +399,7 @@ Wed Mar 26 18:32:00 CST 2025
 Wed Mar 26 18:32:14 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wVCkjjwcDVZ3JUyaHG0jjAIVC9IBS0R2ZyS8mVQbZePuFyYLH12_I_zjfIl5iDHM8V1LNr4Itxpdhgyw-536yMNCIsa970q4jYMJh6f7YD8Zr2hTj1mlCE7bxRPwkHR1
 Wed Mar 26 18:33:48 CST 2025
+Wed Mar 26 18:47:00 CST 2025
+Wed Mar 26 18:47:12 CST 2025
+Wed Mar 26 18:48:39 CST 2025
+删除ad0res 
