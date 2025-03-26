@@ -495,3 +495,9 @@ Wed Mar 26 22:48:34 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除glglehddl 
 删除ake_mi 
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f1fccc8f897cd843c7697add18cac483e7322aab1375e46fdde2cd3d92e8acfd_trns_h264/playlist.m3u8
+Wed Mar 26 23:02:09 CST 2025
+Wed Mar 26 23:02:39 CST 2025
+Wed Mar 26 23:03:36 CST 2025
+删除oki_dokie 
+删除onlyone521 
