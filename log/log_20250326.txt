@@ -249,3 +249,8 @@ Wed Mar 26 12:47:01 CST 2025
 Wed Mar 26 12:47:07 CST 2025
 Wed Mar 26 12:48:41 CST 2025
 删除oda_assuri 
+添加oda_assuri https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-41a112bd553bdf6b422a8d2bf548d2840e045573fc6a261c578444d969e18bd4_trns_h264/playlist.m3u8
+Wed Mar 26 13:01:57 CST 2025
+Wed Mar 26 13:02:03 CST 2025
+Wed Mar 26 13:03:37 CST 2025
+删除oda_assuri 
