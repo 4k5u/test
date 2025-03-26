@@ -349,3 +349,10 @@ Wed Mar 26 16:33:47 CST 2025
 删除SanySenise 
 删除oki_dokie 
 删除oda_assuri 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b9310d561c13f404adf21d9f9fcd165332cfda1900e4493c13ce93f43fb8acb8_trns_h264/playlist.m3u8
+添加oda_assuri https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-41a112bd553bdf6b422a8d2bf548d2840e045573fc6a261c578444d969e18bd4_trns_h264/playlist.m3u8
+Wed Mar 26 16:47:05 CST 2025
+Wed Mar 26 16:47:16 CST 2025
+Wed Mar 26 16:48:39 CST 2025
+删除oki_dokie 
+删除oda_assuri 
