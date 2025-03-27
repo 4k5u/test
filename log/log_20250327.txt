@@ -210,3 +210,9 @@ Thu Mar 27 12:47:00 CST 2025
 Thu Mar 27 12:47:02 CST 2025
 Thu Mar 27 12:48:35 CST 2025
 删除sexygamesx 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a72470301e34a67ebcb5051f793d6dd38e3f52892e7191581b4be513de0d3264_trns_h264/playlist.m3u8
+添加sexygamesx https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d2a540a9aca1d305dc56f6fa297ce61bade4979aa38ffc5a303928a7354eb4ea_trns_h264/playlist.m3u8
+Thu Mar 27 13:02:45 CST 2025
+Thu Mar 27 13:02:47 CST 2025
+Thu Mar 27 13:04:11 CST 2025
+删除eli05021212 
