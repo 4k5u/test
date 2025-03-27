@@ -331,3 +331,11 @@ Thu Mar 27 19:48:33 CST 2025
 Thu Mar 27 19:50:05 CST 2025
 删除foxylovesyou 
 删除iminako 
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e2fb6b2f00f0c51e7494dd0589cada211680954d8f63605bc11025e429c5c7da_trns_h264/playlist.m3u8
+Thu Mar 27 20:18:10 CST 2025
+Thu Mar 27 20:18:25 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ItDfka-2yebrEeg-fez4LBNsqdJm64n60Vd3EWJeyP9VvQ5z_JxJ-nnhDI_3UJMP-Ly0XJod1skH9ClkSrPnbZp4Bynr--adMEeCa2pW-5td-Omt4vJuwJdZpKqzSIYW
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TR-8hq-7ePVbM37-5PZR1d5sxIp59tHtvEZmmP3BuBfeTA-ZvISbdCMU7Wi-ri3XBtNhLYAqy10Sse_D9mka3iCEQKSrxihx137zp8-L6b5uJ6JFiNS3pSUBzpN-9FNT
+Thu Mar 27 20:19:53 CST 2025
+删除Xenomy 
+删除jjine0127 
