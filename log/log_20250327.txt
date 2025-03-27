@@ -361,3 +361,9 @@ Thu Mar 27 21:17:06 CST 2025
 Thu Mar 27 21:17:31 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AZw-f8YdJoowoEZW6myJL9se8nDmIPLSJ4OPQLHFizKenwDTZA2B7rMRO_esujoDxZSJfbBnhiwZKHgxblejWcTHt9Xor75cHl5rD5kUujZ-g8Z5851DWeaztUiJQOFJ
 Thu Mar 27 21:18:53 CST 2025
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e2fb6b2f00f0c51e7494dd0589cada211680954d8f63605bc11025e429c5c7da_trns_h264/playlist.m3u8
+Thu Mar 27 21:34:31 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NTg5NDkxNS1BM0U2LTREREYtQjM5Qi0wRDY0NTM0NjZGQzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzA4MjQ4NSwiZXhwIjoxNzQzMDgzMDg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1Y22GmZ9ANHiwiJGrBd-Rk6dJc9jB3RuM3IB1CXpryKA7fi9CBUYBcrRHEaMclJZECisb6N-ybGRT-gbtWLSUSKuBKMXJA9WEP_Ni8JdFJbECOREbHzzme9jnKUXc6cI
+Thu Mar 27 21:34:58 CST 2025
+Thu Mar 27 21:36:10 CST 2025
+删除foxylovesyou 
