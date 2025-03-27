@@ -373,3 +373,7 @@ Thu Mar 27 22:02:33 CST 2025
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oZm8Z6Tu5Dc9U2ZF10xwdbmTuIutn7rINCJZgblPuWqSbuVLEY7FD-xi61fZO9Z3eyiii6Lhsutzh4GqFtHiIQObh_ECsTY6Ifylr5xcjTtA72ogpJNR1ocLDV5VpOMJ
 Thu Mar 27 22:03:53 CST 2025
 删除ake_mi 
+Thu Mar 27 22:17:08 CST 2025
+Thu Mar 27 22:17:38 CST 2025
+Thu Mar 27 22:18:42 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
