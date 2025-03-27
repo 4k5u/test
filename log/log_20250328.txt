@@ -93,3 +93,8 @@ Fri Mar 28 05:31:59 CST 2025
 Fri Mar 28 05:32:03 CST 2025
 Fri Mar 28 05:33:30 CST 2025
 删除dreamch77 
+Fri Mar 28 06:02:56 CST 2025
+Fri Mar 28 06:03:00 CST 2025
+Fri Mar 28 06:04:28 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
