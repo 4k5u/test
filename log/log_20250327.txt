@@ -227,3 +227,12 @@ Thu Mar 27 13:32:00 CST 2025
 Thu Mar 27 13:33:31 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除sexygamesx 
+添加sexygamesx https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d2a540a9aca1d305dc56f6fa297ce61bade4979aa38ffc5a303928a7354eb4ea_trns_h264/playlist.m3u8
+Thu Mar 27 13:47:29 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRDFEM0ZDNy0wM0JDLTRBREItQThCNy04NTNDMjAxMTYxMTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzA1NDQ1MCwiZXhwIjoxNzQzMDU1MDUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dCPGqI5i7nMEK4jX-C1aVxb5eAGxwddFNUG-maJDMPTsTGcszPfrWbvAq2SawZB6aanCJi25i9X5pWRCJt33wGG5GKQCEnhUNfOVgqYGC9GKbOw_3OlbFYJNY1S9sbhm
+Thu Mar 27 13:47:35 CST 2025
+Thu Mar 27 13:48:57 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除ddooyaa 
+删除amilia4u 
+删除sexygamesx 
