@@ -221,3 +221,9 @@ Thu Mar 27 13:16:58 CST 2025
 Thu Mar 27 13:17:00 CST 2025
 Thu Mar 27 13:18:32 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6c0e693e6d7d5753eb60bfd50f7eaed097e6d5eec0087f2519d8d0b9b87aa361_trns_h264/playlist.m3u8
+Thu Mar 27 13:31:58 CST 2025
+Thu Mar 27 13:32:00 CST 2025
+Thu Mar 27 13:33:31 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除sexygamesx 
