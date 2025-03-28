@@ -250,3 +250,7 @@ Fri Mar 28 15:32:01 CST 2025
 Fri Mar 28 15:33:38 CST 2025
 删除ddooyaa 
 删除SanySenise 
+Fri Mar 28 15:46:59 CST 2025
+Fri Mar 28 15:47:03 CST 2025
+Fri Mar 28 15:48:32 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
