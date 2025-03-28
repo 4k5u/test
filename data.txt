@@ -9,3 +9,5 @@ hyuna0721   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 ad0res   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f69741c6319afbd7af08af3136ad890d425d23c0d5f85e7b9ce7fe32fcdcfd99_trns_h264/playlist.m3u8
 Asia-Lynn   https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+honey_pinkgreen   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-aee5b226b3bc16987c21b162d258fd0b64ec6e1c4bc0474fab5acb678bfa7530_trns_h264/playlist.m3u8
+foxylovesyou   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0dc01b72ca988ddc8ea6488441d1e028bcde58d346b2c7ea8adcb6fe1d8b8d78_trns_h264/playlist.m3u8
