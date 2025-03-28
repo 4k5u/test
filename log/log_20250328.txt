@@ -213,3 +213,8 @@ Fri Mar 28 13:17:05 CST 2025
 Fri Mar 28 13:17:05 CST 2025
 Fri Mar 28 13:18:34 CST 2025
 添加San___San https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
+Fri Mar 28 13:32:55 CST 2025
+Fri Mar 28 13:32:55 CST 2025
+Fri Mar 28 13:34:15 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
