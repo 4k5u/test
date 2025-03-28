@@ -167,3 +167,9 @@ Fri Mar 28 10:46:55 CST 2025
 Fri Mar 28 10:47:03 CST 2025
 Fri Mar 28 10:48:32 CST 2025
 删除ksb0219 
+Fri Mar 28 11:02:57 CST 2025
+Fri Mar 28 11:03:03 CST 2025
+Fri Mar 28 11:04:24 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除nobleinc 
+删除oki_dokie 
