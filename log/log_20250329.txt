@@ -388,3 +388,13 @@ Sat Mar 29 19:48:57 CST 2025
 删除oki_dokie 
 删除ake_mi 
 删除my_eyes_higher 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8136c1bbba5d140c093047293eebc72d6ae48e042d3a98da19b28e84435746dd_trns_h264/playlist.m3u8
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-439da1d924191674efd52677b21469f10e21853866d1f327e1e888d2c2c8ea84_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-23e8bddb4a2c14c83efc6b26a058c0c84ffde3d3377b9c8500cb289a3023c486_trns_h264/playlist.m3u8
+Sat Mar 29 20:02:07 CST 2025
+Sat Mar 29 20:02:31 CST 2025
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nPElF2-FbpyrqMxjsWD2Cvuxor-8mktvvPIFn_CoIY6j1bhWELJ1sqw_SLbVx3UMNlA-9VDzobOqQ37nZhtoADzabybg8PUxAP3sgwtLZ5dkgAxRRSWbNW94_IwXl6JK
+Sat Mar 29 20:03:53 CST 2025
+删除Xenomy 
+删除jjine0127 
+删除ake_mi 
