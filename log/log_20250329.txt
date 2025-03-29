@@ -298,3 +298,8 @@ Sat Mar 29 16:33:14 CST 2025
 Sat Mar 29 16:34:40 CST 2025
 删除ddooyaa 
 删除oda_assuri 
+添加oda_assuri https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-21bcb8902d66da57d81c5ed49fb1d25bea667fe9770dc2dedac81c6ff4a5dc7e_trns_h264/playlist.m3u8
+Sat Mar 29 16:46:56 CST 2025
+Sat Mar 29 16:47:06 CST 2025
+Sat Mar 29 16:48:31 CST 2025
+删除oda_assuri 
