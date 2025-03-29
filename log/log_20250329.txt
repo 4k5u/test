@@ -200,3 +200,10 @@ Sat Mar 29 13:02:04 CST 2025
 Sat Mar 29 13:03:27 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-23e8bddb4a2c14c83efc6b26a058c0c84ffde3d3377b9c8500cb289a3023c486_trns_h264/playlist.m3u8
+Sat Mar 29 13:16:56 CST 2025
+Sat Mar 29 13:16:58 CST 2025
+Sat Mar 29 13:18:30 CST 2025
+删除100472 
+删除IdaJonesy 
+删除oki_dokie 
