@@ -49,3 +49,10 @@ Sun Mar 30 02:18:29 CST 2025
 删除Angel-Bei-bei 
 删除ad0res 
 删除oki_dokie 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-3a2a08b21ec4da559937646baf0a2fd35cf1755e8c1caad599423d9bee7b4e9e_trns_h264/playlist.m3u8
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6e84468ecfb24de5cf69b6617197ffef3b22b947c1496b91fa8a978c51e5f37a_trns_h264/playlist.m3u8
+Sun Mar 30 02:32:48 CST 2025
+Sun Mar 30 02:32:55 CST 2025
+Sun Mar 30 02:34:17 CST 2025
+删除Hahaha_ha2 
+删除oki_dokie 
