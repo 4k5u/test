@@ -207,3 +207,11 @@ Sat Mar 29 13:18:30 CST 2025
 删除100472 
 删除IdaJonesy 
 删除oki_dokie 
+添加taitehambelton https://edge12-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c156784d5cf91a317c2d877ba7e5199a1e8de54bc845fe6b0dfc149782210ec8_trns_h264/playlist.m3u8
+Sat Mar 29 13:31:57 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMUU2QjI2Ny1FQUIzLTRBRkEtODVDNS03QUQ3MENEQ0E1NEUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzIyNjMyMCwiZXhwIjoxNzQzMjI2OTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.g4UJlvsRStTNQhOkJ3PmDxRinuhIz5B-lDUc2eBUaNN9OuYXxHnqlCBPiRFOa4CIp0b76UVU9Mb41dzJUciAlY8gpDJM2oaJ6gAbHIm-Sb7qF46w2UK_2YPNzahESuu-
+Sat Mar 29 13:32:03 CST 2025
+Sat Mar 29 13:33:35 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除oda_assuri 
