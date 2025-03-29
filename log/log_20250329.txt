@@ -245,3 +245,9 @@ Sat Mar 29 14:32:06 CST 2025
 Sat Mar 29 14:33:36 CST 2025
 删除Sime_Naughty 
 删除oda_assuri 
+添加oda_assuri https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-21bcb8902d66da57d81c5ed49fb1d25bea667fe9770dc2dedac81c6ff4a5dc7e_trns_h264/playlist.m3u8
+Sat Mar 29 14:46:56 CST 2025
+Sat Mar 29 14:47:04 CST 2025
+Sat Mar 29 14:48:33 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除oda_assuri 
