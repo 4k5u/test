@@ -330,3 +330,10 @@ Sun Mar 30 17:32:41 CST 2025
 Sun Mar 30 17:34:02 CST 2025
 删除ad0res 
 删除ake_mi 
+添加ad0res https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-8fe1ac7f993a1a260005d98da98d20048c47b05f7b55d2caa6b4d6649b444d4d_trns_h264/playlist.m3u8
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aea6719dfd57bd998ce79724460476f0cd25cfe805325340d38c8bc984e74d1f_trns_h264/playlist.m3u8
+Sun Mar 30 17:47:00 CST 2025
+Sun Mar 30 17:47:12 CST 2025
+Sun Mar 30 17:48:41 CST 2025
+删除ad0res 
+删除ake_mi 
