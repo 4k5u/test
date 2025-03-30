@@ -337,3 +337,9 @@ Sun Mar 30 17:47:12 CST 2025
 Sun Mar 30 17:48:41 CST 2025
 删除ad0res 
 删除ake_mi 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a937611e858ef850cb8489e398dec9b52c5e01d89c66f23db1233373419f90db_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-aea6719dfd57bd998ce79724460476f0cd25cfe805325340d38c8bc984e74d1f_trns_h264/playlist.m3u8
+Sun Mar 30 18:03:32 CST 2025
+Sun Mar 30 18:03:44 CST 2025
+Sun Mar 30 18:05:13 CST 2025
+删除ake_mi 
