@@ -386,3 +386,9 @@ Sun Mar 30 20:01:58 CST 2025
 Sun Mar 30 20:02:22 CST 2025
 Sun Mar 30 20:03:40 CST 2025
 删除happyy2 
+Sun Mar 30 20:18:00 CST 2025
+Sun Mar 30 20:18:23 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ocz9Y7Qss2z8u3l3ITHLDK2D8Lrwe8dY4APheTjO09Ws5WClkMQyJL7HcwtrhDGl_aKIhc0h1xNt7O6iGy7RYc2izHPjn4UICddTR-ZSfpUgjPOqhi9hvkdyQzRlOAkP
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Ocz9Y7Qss2z8u3l3ITHLDOsSYLNWAujB4KuZB_cW31mQtku6MwczDm__mRVWVKDyzuc5vjcQOtbO54d9xeLY3msN7C6GP-e9IGwEXTQyDi3LM7qWIEjCozAi3p11i7RJ
+Sun Mar 30 20:19:53 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
