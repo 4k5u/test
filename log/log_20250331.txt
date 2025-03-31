@@ -216,3 +216,8 @@ Mon Mar 31 12:18:28 CST 2025
 Mon Mar 31 12:32:02 CST 2025
 Mon Mar 31 12:32:04 CST 2025
 Mon Mar 31 12:33:32 CST 2025
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fd0ae957885ae970460e99075b996d101fb75a45616f3bb44d7ed6ed939de73c_trns_h264/playlist.m3u8
+Mon Mar 31 12:46:58 CST 2025
+Mon Mar 31 12:47:01 CST 2025
+Mon Mar 31 12:48:31 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
