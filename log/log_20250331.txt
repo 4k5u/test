@@ -293,3 +293,9 @@ Mon Mar 31 18:01:59 CST 2025
 添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMDhGNjBEMy03Mjc1LTRGNTItOUYwNy00NDg2RjM0RUI1OTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0MzQxNTMyNywiZXhwIjoxNzQzNDE1OTI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.opBjuqJxeIi9PJ5BSbP2uJPodjU1JX8eixNZ02p_KvKw_6X-ReDcAZwPKjBUVDb-uomBr5JxCxyWtDQVpZbZyGmjSGF7YhMrfN3diG33VRNW_S0kx5QG5ec4s3WFRjG4
 Mon Mar 31 18:02:11 CST 2025
 Mon Mar 31 18:03:41 CST 2025
+Mon Mar 31 18:31:57 CST 2025
+Mon Mar 31 18:32:07 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-p6CvF66uTvSlX7nKZyUF8jPy20oDv-F6C83O17xsb-D33DTLHGNHOLrjO9UXSreo91yPtNY8JiD7EHd37LSEogRsSoqt2fPlRlmAdRHvi9ZSjN4edr0ttXL42ukMk-E
+Mon Mar 31 18:33:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Angel-Bei-bei 
