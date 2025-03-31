@@ -163,3 +163,7 @@ Mon Mar 31 08:31:55 CST 2025
 Mon Mar 31 08:31:57 CST 2025
 Mon Mar 31 08:33:25 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Mar 31 09:01:52 CST 2025
+Mon Mar 31 09:01:54 CST 2025
+Mon Mar 31 09:03:23 CST 2025
+删除cecilia0903 
