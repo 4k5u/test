@@ -246,3 +246,9 @@ Tue Apr 1 16:02:12 CST 2025
 Tue Apr 1 16:03:40 CST 2025
 删除alicelebel 
 删除ake_mi 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a0f5295a8342bfd177493161c2cfa011059e52ae03392351b9a0e911efe747b7_trns_h264/playlist.m3u8
+Tue Apr 1 16:20:13 CST 2025
+Tue Apr 1 16:20:29 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-R1-WFwhYP7LFNxT1PaRe3v1-SL3t9f1hgLCB8m4wR9M8uBUnrrZ045IaXt7asPEhS-ARqMkmoQ0ZaeTHKbdxFMSJHRViJ_mlz3URf_wUa6FGIIwmHoyLWhBmAnWkwQQ
+Tue Apr 1 16:21:56 CST 2025
+删除ake_mi 
