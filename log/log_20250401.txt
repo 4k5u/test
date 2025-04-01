@@ -291,3 +291,12 @@ Tue Apr 1 18:04:02 CST 2025
 删除pandaex 
 删除foxylovesyou 
 删除ake_mi 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5737efab696bfd3869a68650eb693b9a5eef2145855695cdb6f8304deb442d3d_trns_h264/playlist.m3u8
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a0f5295a8342bfd177493161c2cfa011059e52ae03392351b9a0e911efe747b7_trns_h264/playlist.m3u8
+添加sexygamesx https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-0efb1ab4ef876afe61a435e3fbb1301c49abba67c06fa6437b1392229e223207_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-6938d4f4150b17e416d102b028b8c34aa570bbf1297ab8c9946d657a91b8c0ba_trns_h264/playlist.m3u8
+Tue Apr 1 18:17:12 CST 2025
+Tue Apr 1 18:17:31 CST 2025
+Tue Apr 1 18:18:49 CST 2025
+删除ake_mi 
+删除foxylovesyou 
