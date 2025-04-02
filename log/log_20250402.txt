@@ -190,3 +190,8 @@ Wed Apr 2 11:31:57 CST 2025
 Wed Apr 2 11:33:25 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除nobleinc 
+Wed Apr 2 12:01:56 CST 2025
+Wed Apr 2 12:01:56 CST 2025
+Wed Apr 2 12:03:27 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除taitehambelton 
