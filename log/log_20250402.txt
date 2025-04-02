@@ -307,3 +307,9 @@ Wed Apr 2 17:04:14 CST 2025
 删除4ocari 
 删除oki_dokie 
 删除taitehambelton 
+添加taitehambelton https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-807c9af61f5d8644d5c9ea27ddace5600cb4671f88fad09d037772e05f7888e1_trns_h264/playlist.m3u8
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a2ad857bafc0bc846e3cfa251854394f891a09d7beb92907b0a2fe05b1341c85_trns_h264/playlist.m3u8
+Wed Apr 2 17:18:02 CST 2025
+Wed Apr 2 17:18:10 CST 2025
+Wed Apr 2 17:19:28 CST 2025
+删除taitehambelton 
