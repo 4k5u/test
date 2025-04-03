@@ -33,3 +33,9 @@ Fri Apr 4 01:36:27 CST 2025
 删除jeehyeoun 
 删除mikio_san 
 删除alicelebel 
+Fri Apr 4 01:47:48 CST 2025
+Fri Apr 4 01:48:04 CST 2025
+Fri Apr 4 01:49:16 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除dana9282 
