@@ -191,3 +191,9 @@ Thu Apr 3 12:16:59 CST 2025
 Thu Apr 3 12:17:03 CST 2025
 Thu Apr 3 12:18:33 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-236c98b625bf22ee9b24bd764a2c667c083fa6b466451dab77f57044ee7ca583_trns_h264/playlist.m3u8
+Thu Apr 3 12:46:54 CST 2025
+Thu Apr 3 12:46:58 CST 2025
+Thu Apr 3 12:48:28 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除amilia4u 
