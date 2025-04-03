@@ -292,3 +292,12 @@ Thu Apr 3 17:33:37 CST 2025
 删除ake_mi 
 删除Xenomy 
 删除SanySenise 
+添加ake_mi https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-911b7089b9444cc3ee94611e59567eda8196e1112388dbe6727f8324fef8e559_trns_h264/playlist.m3u8
+Thu Apr 3 18:08:07 CST 2025
+Thu Apr 3 18:08:15 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ATTBZnBFR9jqseto8RdB5XMig3z9w3OzBTfPsftFL_m9JTB1ZleNbZUSDfmbJaFInFu_h8IAt6cVgyUockUfiFnuzDrLaujeVq0wM-QrJWsq6DdfPcufoWIPi9Wsunri
+Thu Apr 3 18:09:42 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除howru010 
+删除ake_mi 
+删除Xenomy 
