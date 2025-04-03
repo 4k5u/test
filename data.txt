@@ -9,3 +9,5 @@ taitehambelton   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-236c98b625bf22ee9b24bd764a2c667c083fa6b466451dab77f57044ee7ca583_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+amilia4u   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-dbef9448e1bd3bf4649445205a638145460a17580377f33e8acc95cfa311af46_trns_h264/playlist.m3u8
+sexygamesx   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e3f312c26d068c3ee36f1a6c2404273aa2957e3d4af25def166776bd428a161d_trns_h264/playlist.m3u8
