@@ -229,3 +229,10 @@ Thu Apr 3 14:23:04 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除sexygamesx 
 删除SanySenise 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-236c98b625bf22ee9b24bd764a2c667c083fa6b466451dab77f57044ee7ca583_trns_h264/playlist.m3u8
+添加sexygamesx https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-2b4cff4d10bdd2862afec579d5bde7ebb5057b14414c504df152c4f0fb6c582a_trns_h264/playlist.m3u8
+Thu Apr 3 14:32:52 CST 2025
+Thu Apr 3 14:33:00 CST 2025
+Thu Apr 3 14:34:28 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Ryo-sama 
