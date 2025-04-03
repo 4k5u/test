@@ -284,3 +284,11 @@ Thu Apr 3 17:03:38 CST 2025
 Thu Apr 3 17:16:56 CST 2025
 Thu Apr 3 17:17:04 CST 2025
 Thu Apr 3 17:18:29 CST 2025
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-69c776ba7346b6f68e0f99758cbc00443198215f4f6d4347d4e4d1e524c5950f_trns_h264/playlist.m3u8
+Thu Apr 3 17:31:58 CST 2025
+Thu Apr 3 17:32:06 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yqgXwozDBuGSQs77mflkapfNxntpSa86MquntDA6DgjJJb9Scw2uwV_Y7v4Q6YpUzF7eIqijmctQqgnN0FcotchtJf0gyoKkJj2AtBLM2Mq2du0aon_csUv-ZWFRFQ-Y
+Thu Apr 3 17:33:37 CST 2025
+删除ake_mi 
+删除Xenomy 
+删除SanySenise 
