@@ -236,3 +236,6 @@ Thu Apr 3 14:33:00 CST 2025
 Thu Apr 3 14:34:28 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Ryo-sama 
+Thu Apr 3 14:47:42 CST 2025
+Thu Apr 3 14:47:54 CST 2025
+Thu Apr 3 14:49:22 CST 2025
