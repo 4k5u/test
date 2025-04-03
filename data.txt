@@ -11,3 +11,4 @@ oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-236c98
 ake_mi   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-911b7089b9444cc3ee94611e59567eda8196e1112388dbe6727f8324fef8e559_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VsRm022-oA0yhNMf9HPp0rYU6erRcJvkWCjcnvtI3JHaL1W_YZbdDwjmoof0rJdU9gnHmWKcwmgy_N0Hr-I07fXdXfCt0QrbhBSfkBXJdeEp-1ySO12WnNF5v8vrJfbY
