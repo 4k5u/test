@@ -177,3 +177,7 @@ Fri Apr 4 11:34:30 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie 
+Fri Apr 4 11:47:04 CST 2025
+Fri Apr 4 11:47:06 CST 2025
+Fri Apr 4 11:48:28 CST 2025
+删除dreamch77 
