@@ -269,3 +269,8 @@ Fri Apr 4 17:18:39 CST 2025
 删除Ryo-sama 
 删除sigmasian 
 删除Xenomy 
+Fri Apr 4 17:31:55 CST 2025
+Fri Apr 4 17:32:03 CST 2025
+Fri Apr 4 17:33:30 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
