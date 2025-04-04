@@ -140,3 +140,9 @@ Sat Apr 5 07:03:36 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除oki_dokie 
 删除Ryo-sama 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1d5e28031890bd7705ae483da283daff2d05c33da4f8991ca63c34cacdc2da8d_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2e246862d84366b8fa5f8b96871e2607300bbafc404887422a52d0359014e90c_trns_h264/playlist.m3u8
+Sat Apr 5 07:16:55 CST 2025
+Sat Apr 5 07:17:01 CST 2025
+Sat Apr 5 07:18:31 CST 2025
+删除Sime_Naughty 
