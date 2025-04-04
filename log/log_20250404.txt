@@ -235,3 +235,12 @@ Fri Apr 4 15:02:03 CST 2025
 Fri Apr 4 15:02:11 CST 2025
 Fri Apr 4 15:03:39 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Fri Apr 4 15:31:56 CST 2025
+Fri Apr 4 15:32:04 CST 2025
+Fri Apr 4 15:33:34 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除Xenomy 
+删除sigmasian 
+删除SanySenise 
+删除Ryo-sama 
+删除alicelebel 
