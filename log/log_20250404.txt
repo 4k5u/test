@@ -426,3 +426,9 @@ Fri Apr 4 23:04:01 CST 2025
 Fri Apr 4 23:17:29 CST 2025
 Fri Apr 4 23:18:09 CST 2025
 Fri Apr 4 23:19:07 CST 2025
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-188d8dd86f61d4dfdcbbf19374e023666122001cf35e17f2958e54393c387cf0_trns_h264/playlist.m3u8
+Fri Apr 4 23:32:11 CST 2025
+Fri Apr 4 23:32:49 CST 2025
+Fri Apr 4 23:33:49 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除thgml1212 
