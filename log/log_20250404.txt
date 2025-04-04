@@ -213,3 +213,7 @@ Fri Apr 4 13:16:58 CST 2025
 Fri Apr 4 13:17:04 CST 2025
 Fri Apr 4 13:18:32 CST 2025
 删除dreamch77 
+Fri Apr 4 13:31:58 CST 2025
+Fri Apr 4 13:32:04 CST 2025
+Fri Apr 4 13:33:37 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
