@@ -288,3 +288,7 @@ Fri Apr 4 18:17:09 CST 2025
 Fri Apr 4 18:18:43 CST 2025
 删除naras2 
 删除Xenomy 
+添加ad0res https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-c31a4b6d78dee8b0d1752227ee6b9bfa9b6886a4b2050f7e9dd9fb5f88b408d2_trns_h264/playlist.m3u8
+Fri Apr 4 18:32:06 CST 2025
+Fri Apr 4 18:32:12 CST 2025
+Fri Apr 4 18:33:38 CST 2025
