@@ -234,3 +234,8 @@ Sat Apr 5 12:18:33 CST 2025
 Sat Apr 5 12:31:58 CST 2025
 Sat Apr 5 12:32:04 CST 2025
 Sat Apr 5 12:33:32 CST 2025
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d4113993527123f00d5a89e27827d70a6d8551e100774c797aafe16ae1f4bdd0_trns_h264/playlist.m3u8
+Sat Apr 5 12:47:07 CST 2025
+Sat Apr 5 12:47:13 CST 2025
+Sat Apr 5 12:48:39 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
