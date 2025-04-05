@@ -272,3 +272,8 @@ Sat Apr 5 14:33:35 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Xenomy 
 删除SanySenise 
+Sat Apr 5 14:46:58 CST 2025
+Sat Apr 5 14:47:08 CST 2025
+Sat Apr 5 14:48:36 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
