@@ -4,3 +4,4 @@ rud9281   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_pl
 kiriko_chan   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1d1095dc728d250655f602b37d5f692e0998aa2648fac3d3d7059f6bae67f9b2_trns_h264/playlist.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-13d95df8efb595becde3d0a846ea0382319d52f730c364e5dfc83968bfb63bca_trns_h264/playlist.m3u8
