@@ -133,3 +133,8 @@ Mon Apr 7 06:02:09 CST 2025
 Mon Apr 7 06:03:40 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除kiriko_chan 
+添加sexygamesx https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c8b053936a8bec12c236e0aa74bb13c66ceaf80489caab1e28da27cc6d590a55_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2a918b9ab7716a1031f4f90e6d55d03503967fe43a919d8416457df47d2506ec_trns_h264/playlist.m3u8
+Mon Apr 7 06:17:04 CST 2025
+Mon Apr 7 06:17:07 CST 2025
+Mon Apr 7 06:18:31 CST 2025
