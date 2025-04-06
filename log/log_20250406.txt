@@ -389,3 +389,10 @@ Sun Apr 6 21:47:40 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EZvs7RdQ4Vttn_bsq4FhPNUxSs9H-56yAk8KHfPA4t10HQNVnpZ9NLywQTpbYgDII90y1jCXk8F_ZVSQXhQqTe5BOvETTB1dT6w7QMHNzno_rsnz93HxtVsvteh-MRdN
 Sun Apr 6 21:48:50 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-74bdd2b2530524adbf09495877e087ad3cf6a58baf912138d38932ea380671ca_trns_h264/playlist.m3u8
+Sun Apr 6 22:02:05 CST 2025
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QTkwMzMyRS05NjQ5LTRDMzUtOUI1Ri0zODlFODI5QzBFM0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mzk0ODEyOCwiZXhwIjoxNzQzOTQ4NzI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xdEp2CnNv_rW3iO2mErlgBOQgINRJ5d4XAQo9h5UiEA9RkK1N6huO4I57ztnYItrH6nQPoHOigyVXgkWdKmn8cvcZQvTBXOWYEhSBM3J9gcHPAS10kfmQib4VQ5Yns4v
+Sun Apr 6 22:02:46 CST 2025
+Sun Apr 6 22:03:44 CST 2025
+删除hyuna0721 
+删除lovesong2 
