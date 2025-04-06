@@ -15,3 +15,14 @@ Mon Apr 7 00:18:29 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除gremmy 
 删除ake_mi 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-900e88036f386593d629184e97ece89882ddcada73da4d91664f7ae4ddaf599c_trns_h264/playlist.m3u8
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-74bdd2b2530524adbf09495877e087ad3cf6a58baf912138d38932ea380671ca_trns_h264/playlist.m3u8
+Mon Apr 7 00:46:58 CST 2025
+Mon Apr 7 00:47:22 CST 2025
+Mon Apr 7 00:48:25 CST 2025
+删除nyangnyang1004 
+删除smmms2002 
+删除eunyoung1238 
+删除362540 
+删除thgml1212 
+删除ake_mi 
