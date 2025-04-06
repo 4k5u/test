@@ -396,3 +396,10 @@ Sun Apr 6 22:02:46 CST 2025
 Sun Apr 6 22:03:44 CST 2025
 删除hyuna0721 
 删除lovesong2 
+Sun Apr 6 22:16:56 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRjFDMTk1Qi0yOUQ0LTRFQTUtOEQzQi03ODU4NEMwNzU5NTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Mzk0OTAzMywiZXhwIjoxNzQzOTQ5NjMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c4s30sBdPcObenFXeVXlV8WKhx0qGfkCDomjMuv6DBruLxPSHA97_qVCK8NH20FmfVUPIQtuXucheDwH-VPLPlqqw43IXs6xX_Vo7L_ocdqp8jV_3pi_uTqWud2-T1y3
+Sun Apr 6 22:17:34 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rd0VVXPmfEkzuy1qd-uFDOr9smUTSe28CqSuuuOh-Nm3jjUWMZ7eVrbRyAv1QUd2F2a_oJt3gXw4zVoqY6744YdI6mVX1P62IWScZ2SXVEIO1OQ3sre-gziU9JT32nML
+Sun Apr 6 22:18:38 CST 2025
+删除lovable12 
+删除emforhs1919 
