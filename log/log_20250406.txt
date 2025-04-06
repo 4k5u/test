@@ -232,3 +232,8 @@ Sun Apr 6 13:01:54 CST 2025
 Sun Apr 6 13:01:58 CST 2025
 Sun Apr 6 13:03:23 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ab97a0176f8beec4d924cc24ab52e040a18eac8fb3a4e32c2d5258b82471565_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ffac1ff9834a3569c529ad4e3c642535ecb86b4a14c1bc38f7059f644782694d_trns_h264/playlist.m3u8
+Sun Apr 6 13:18:04 CST 2025
+Sun Apr 6 13:18:08 CST 2025
+Sun Apr 6 13:19:27 CST 2025
