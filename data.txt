@@ -4,3 +4,4 @@ _meganmeow_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-04
 oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e91aea9f593b8ce4346aa9d520e792a9a2b4d45ac872cfd91e872f0c9c5b1798_trns_h264/playlist.m3u8
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c8b053936a8bec12c236e0aa74bb13c66ceaf80489caab1e28da27cc6d590a55_trns_h264/playlist.m3u8
 kiriko_chan   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2a918b9ab7716a1031f4f90e6d55d03503967fe43a919d8416457df47d2506ec_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
