@@ -3,3 +3,7 @@ rud9281   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_pl
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-8d8b7f7b50821501b63d7d0015b9ea5d5a58fb7c8ae0c222ef9e7e9aaa1c34ce_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wwQLSUT3OkfkuRjB2OmwSkHgbPhIYzT8VW8yg-rP5xBNnV_AanLtpX69ibhRv7wIMXzrr286eFLi6iQ6jjOrcztgLZP66_gaKoBZbbHJyZltizw4xSEXNxVdrK0u6aNR
 oda_assuri   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-2e1de04a9da8124386961aae313093f9072890aa820c2d4537fc304e98c16082_trns_h264/playlist.m3u8
+taitehambelton   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-73f429e107429e2b85792008cadd25e445dabae59108422cda1be53c41a8a36c_trns_h264/playlist.m3u8
+Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
