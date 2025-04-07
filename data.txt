@@ -4,3 +4,4 @@ oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e91aea9
 sexygamesx   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c8b053936a8bec12c236e0aa74bb13c66ceaf80489caab1e28da27cc6d590a55_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xf_CDotJGoJB8kc6Uq6nCw_TbtjKCOrfRjvPVdu6_sCmK5maL9UwLoW9QFSkWLmNu4qtdV7EFRbtzksYFePtgCmaLTujmEigC_CGbjc9cpI6ZsJEuFhHGJSo2pivvi76
 oda_assuri   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-87941227bca2005b6d1500d168a7b1a178ad09aacbcc21cf7eac82e683412e51_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
