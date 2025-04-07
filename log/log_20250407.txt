@@ -410,3 +410,8 @@ Mon Apr 7 21:17:51 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.rMWy7v8sra5FO_ZpzZY32G8bRXEdagT4-jJ0lBXL125DqpVl2e-pcF2RQsAZmmcx2wD4JxA478CPfJAEE4TkcwHJ4Gu8oCoxshxjG1xktVH8emji28nDqmhyHRLDUweu
 Mon Apr 7 21:19:03 CST 2025
 删除172----95----student 
+Mon Apr 7 21:31:58 CST 2025
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MUU4REUwOC00NzlGLTQ3NkQtOEM2Ri1GMEVCNDFDMkZBQTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDAzMjcyNywiZXhwIjoxNzQ0MDMzMzI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oB6fsl58vctXgZde-_M5AptIaO4rrg3kApQnGgzuhj2eeGTvHc19q5VLnZBR2qHg_2PzMEQmqHgkElezH7V2fcegqUG8vTVbnD4d56-h8MAoCzzWOsXmI50hKbgXH3H8
+Mon Apr 7 21:32:44 CST 2025
+Mon Apr 7 21:33:47 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
