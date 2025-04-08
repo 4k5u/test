@@ -200,3 +200,7 @@ Tue Apr 8 13:16:54 CST 2025
 Tue Apr 8 13:16:54 CST 2025
 Tue Apr 8 13:18:31 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-38477d15e7fb371b53b2375b05c68a9bce2842caa0f36fd700ead1157ddd7179_trns_h264/playlist.m3u8
+Tue Apr 8 13:31:57 CST 2025
+Tue Apr 8 13:31:57 CST 2025
+Tue Apr 8 13:33:26 CST 2025
