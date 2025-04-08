@@ -435,3 +435,11 @@ Tue Apr 8 22:32:47 CST 2025
 Tue Apr 8 22:33:55 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Tue Apr 8 22:47:02 CST 2025
+Tue Apr 8 22:47:46 CST 2025
+Tue Apr 8 22:48:54 CST 2025
+删除dana9282 
+删除172----95----student 
+删除Ryo-sama 
+删除Asia-Lynn 
+删除cecilia0903 
