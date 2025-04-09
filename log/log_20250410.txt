@@ -76,3 +76,10 @@ Thu Apr 10 02:48:21 CST 2025
 删除jinricp 
 删除eli05021212 
 删除oki_dokie 
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cc2aa3c0f24d13ef82f77ed41b472245bb07195b23a70dd61107f2a110c85393_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3dd54b1ca40fe446382aeba7e598256d1da0fe6f2c814b96d9e1075887b0e2dd_trns_h264/playlist.m3u8
+Thu Apr 10 03:01:56 CST 2025
+Thu Apr 10 03:02:02 CST 2025
+Thu Apr 10 03:03:22 CST 2025
+删除cecilia0903 
+删除oki_dokie 
