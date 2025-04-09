@@ -267,3 +267,9 @@ Wed Apr 9 13:18:37 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除taitehambelton 
 删除ake_mi 
+添加ake_mi https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-34315c45356ced0f47dad2adb6d7a96ce75c50c8d25a76b011b345e91eeda1bd_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-dbaa73ffafce5fcb5c8ef86002f390d13c7c2f676efb5dd1feafc5b9c84a7902_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-00579c73a016acd4ae71d6e8046452daeab0325493beb2f463b866041c035b2e_trns_h264/playlist.m3u8
+Wed Apr 9 13:31:56 CST 2025
+Wed Apr 9 13:32:00 CST 2025
+Wed Apr 9 13:33:27 CST 2025
