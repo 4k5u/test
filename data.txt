@@ -8,5 +8,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 kiriko_chan   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3dd54b1ca40fe446382aeba7e598256d1da0fe6f2c814b96d9e1075887b0e2dd_trns_h264/playlist.m3u8
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b47cb275b80648bfd7ff877b8f71c60f0c2086dc2cb2db4d6672df947044f8a9_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
-alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
