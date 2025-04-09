@@ -492,3 +492,12 @@ Wed Apr 9 22:46:59 CST 2025
 Wed Apr 9 22:47:40 CST 2025
 Wed Apr 9 22:48:48 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Wed Apr 9 23:02:06 CST 2025
+Wed Apr 9 23:02:40 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.2tISCA_8Rg1NEd_8xrG9tP293DCO-Ozy1chGEL6agA8FkEv6aFNE7OdUXmwLSH1L2uTTYjIQSivQrd7KCAGaTx3QVCr3lC_b4dni-QyVjCHiuKn70SfBH4lP9aOiYqdz
+Wed Apr 9 23:03:49 CST 2025
+删除emforhs1919 
+删除nyangnyang1004 
+删除oki_dokie 
+删除jodong2 
+删除172----95----student 
