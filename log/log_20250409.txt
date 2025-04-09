@@ -512,3 +512,7 @@ Wed Apr 9 23:32:34 CST 2025
 Wed Apr 9 23:33:33 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除gremmy 
+Wed Apr 9 23:48:13 CST 2025
+Wed Apr 9 23:48:43 CST 2025
+Wed Apr 9 23:49:56 CST 2025
+删除rud9281 
