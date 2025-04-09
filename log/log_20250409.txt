@@ -378,3 +378,11 @@ Wed Apr 9 17:47:00 CST 2025
 Wed Apr 9 17:47:20 CST 2025
 Wed Apr 9 17:48:51 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f2d781fcfb614a76bb7440089f3c3b5cbc471871931760520a96e15080409e96_trns_h264/playlist.m3u8
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e9588529fc4b3910afd746932127a80e9ae308edc1d56c2a577eeeefee7a4349_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-58dae575d57035e0ef753e9ee27b7665d7db26f7ab2082429ac42630560f9cfe_trns_h264/playlist.m3u8
+Wed Apr 9 18:02:49 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RUQzRDVCNi1EOTM0LTRDQUItOTQ2Ri05RTU1MDc4MjgyREUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDE5Mjk3NCwiZXhwIjoxNzQ0MTkzNTc0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tL5CP1OaENkQoG-pRRQe4esWQN-Fe7d-oDgO8YQ_HWhDgIciUmC7gN2WecIw6WydefA8jTmjegjzFwpckVd_bZ9nbYlZoxWiAIAJ0JZ8wh5ILIj0hmIrzodYudfASaZy
+Wed Apr 9 18:03:11 CST 2025
+Wed Apr 9 18:04:43 CST 2025
+删除mode_bad 
