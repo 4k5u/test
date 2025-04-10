@@ -260,3 +260,10 @@ Thu Apr 10 12:01:55 CST 2025
 Thu Apr 10 12:01:58 CST 2025
 Thu Apr 10 12:03:28 CST 2025
 删除_meganmeow_ 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5280ab677bbb6199fccb4b7e38e5e02f7c7d899615ab8a93a47064bc40031251_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-89a9fd87c6ea190bf8e2874e1b38a69349e295f2736c9ee5abb42b8e860324f9_trns_h264/playlist.m3u8
+Thu Apr 10 12:17:37 CST 2025
+Thu Apr 10 12:17:39 CST 2025
+Thu Apr 10 12:19:11 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除_meganmeow_ 
