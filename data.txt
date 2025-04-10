@@ -9,3 +9,4 @@ amilia4u   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f91262a40
 oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5280ab677bbb6199fccb4b7e38e5e02f7c7d899615ab8a93a47064bc40031251_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 dana9282   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.RxD9JF0X_IzqVGPRqxggb5dTnNGo1TekyMuPECubqUQX41Le6yq4mpQNvRekLJw4JUtsQq84z3dEq0y0uK6f7DuWnkmup4ye5DwgKSbWEBno0FIQAZ_6DjfXSvQKPm6p
+ake_mi   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c60f0b6091b493dc34584c8ee3f6b377238b7125f84710156c21a2de38b6af18_trns_h264/playlist.m3u8
