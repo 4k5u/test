@@ -480,3 +480,8 @@ Thu Apr 10 22:32:42 CST 2025
 Thu Apr 10 22:33:49 CST 2025
 删除Asia-Lynn 
 删除dks2003 
+Thu Apr 10 22:46:58 CST 2025
+Thu Apr 10 22:47:35 CST 2025
+Thu Apr 10 22:48:43 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
