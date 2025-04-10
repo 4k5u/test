@@ -454,3 +454,8 @@ Thu Apr 10 21:17:49 CST 2025
 添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.avi8SRPa2OJnYOIlJc4o6P_bCmZ120erV-IP0l2TLtk7yrdamuhNBFvc671Rx2NVAYY4cNnUwV45NE1aKtYQ-pQ4Sk4PzA7DobDSfrF08EO_3FHpop2UcgBkg3lAfn6_
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ho8D3DXE38fmzSN0vPygccb9JatweJkutZJVbmJVWRSitBPtm0z5ZSiGN9UuI6YTC47ucO5GWYhq8crTaG_uZ_P8Z6euQeI_LIRORf7Y_vN0kiL6LuHgnp7wHUlsJEjH
 Thu Apr 10 21:19:03 CST 2025
+Thu Apr 10 21:33:10 CST 2025
+Thu Apr 10 21:33:48 CST 2025
+Thu Apr 10 21:34:57 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除mikio_san 
