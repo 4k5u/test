@@ -390,3 +390,10 @@ Thu Apr 10 19:02:47 CST 2025
 Thu Apr 10 19:03:02 CST 2025
 Thu Apr 10 19:04:25 CST 2025
 删除amilia4u 
+添加amilia4u https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f91262a40f39f06a5b93d57e84602f72c6b3dfcf8d7a272c1190603680ce8071_trns_h264/playlist.m3u8
+Thu Apr 10 19:16:47 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOTQyMkUzRS00NDg1LTRCNDMtOTA4Ri0yMTNFODVDQjcwNzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDI4MzgxMiwiZXhwIjoxNzQ0Mjg0NDEyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6N6twBNelgYwyoG3IHbSEW_HKwBTNwTXq6TCVgDE3VE4SpXR_2AYhzMdGCNGdGPhbvX-2z0RWcAEsFOyJ_Q9-CUpNKu3S-ndtQAGk6eGYe7d2rWvJPtQpgCvn5horDzf
+Thu Apr 10 19:17:05 CST 2025
+Thu Apr 10 19:18:29 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除foxylovesyou 
