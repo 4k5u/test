@@ -377,3 +377,11 @@ Fri Apr 11 18:04:34 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除ad0res 
 删除ake_mi 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-128acd3e33f8c99f25a6bf9d20d99c23ff05bbbb1f80e4a3c2f4d9e5026e1571_trns_h264/playlist.m3u8
+添加ake_mi https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-01d6fe2c260c83e75e89620f08366e7dc7ba38013e60e842a60b0b8df8afc3d1_trns_h264/playlist.m3u8
+Fri Apr 11 18:17:09 CST 2025
+Fri Apr 11 18:17:23 CST 2025
+Fri Apr 11 18:18:38 CST 2025
+删除y1026 
+删除m0m099 
+删除ake_mi 
