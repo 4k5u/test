@@ -6,3 +6,4 @@ _meganmeow_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d67
 kiriko_chan   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-f6b660cbd3668fef77f96e924b28dd2b58785fb4e96280aa2d47c8373669f187_trns_h264/playlist.m3u8
 glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.OqN3DPvZUUfjgklapLPKIm6BXZSJOd3JjCTW_Rd3E3UamEl6xvqHg_kdHfB6oMPcvSqz--_7dtYZAcO7_kTGr7FNHJ98TZcqgdw44BwqEKgapvzvySbRwRu2tuM9QV8d
 mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c1fb3853f02ebccccc613381283a7c6c2e828927145f1d3c457a87ad29cd3d19_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
