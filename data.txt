@@ -8,3 +8,4 @@ glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_
 mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c1fb3853f02ebccccc613381283a7c6c2e828927145f1d3c457a87ad29cd3d19_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a75d42c79b37db132187dbc20de7f51fcbf31754fcd2344675b1d37f79827f2b_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
