@@ -501,3 +501,9 @@ Fri Apr 11 22:32:44 CST 2025
 Fri Apr 11 22:33:51 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除hanny27 
+Fri Apr 11 22:47:08 CST 2025
+Fri Apr 11 22:47:42 CST 2025
+Fri Apr 11 22:48:45 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除homegirl 
+删除lolsos 
