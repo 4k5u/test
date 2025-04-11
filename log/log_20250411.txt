@@ -241,3 +241,8 @@ Fri Apr 11 11:31:53 CST 2025
 Fri Apr 11 11:31:56 CST 2025
 Fri Apr 11 11:33:27 CST 2025
 删除nobleinc 
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-48e5fbea29f54e02e3a3740ac24328c475fded5ae8c59abc5bfb0bcb862ffc10_trns_h264/playlist.m3u8
+Fri Apr 11 11:47:01 CST 2025
+Fri Apr 11 11:47:03 CST 2025
+Fri Apr 11 11:48:31 CST 2025
+删除my_eyes_higher 
