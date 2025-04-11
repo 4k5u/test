@@ -197,3 +197,8 @@ Fri Apr 11 09:01:59 CST 2025
 Fri Apr 11 09:02:07 CST 2025
 Fri Apr 11 09:03:40 CST 2025
 删除ksb0219 
+Fri Apr 11 09:17:19 CST 2025
+Fri Apr 11 09:17:23 CST 2025
+Fri Apr 11 09:18:49 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
