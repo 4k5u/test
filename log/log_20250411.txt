@@ -370,3 +370,10 @@ Fri Apr 11 17:48:49 CST 2025
 删除4ocari 
 删除SanySenise 
 删除ake_mi 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-01d6fe2c260c83e75e89620f08366e7dc7ba38013e60e842a60b0b8df8afc3d1_trns_h264/playlist.m3u8
+Fri Apr 11 18:02:56 CST 2025
+Fri Apr 11 18:03:11 CST 2025
+Fri Apr 11 18:04:34 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+删除ad0res 
+删除ake_mi 
