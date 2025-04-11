@@ -277,3 +277,7 @@ Fri Apr 11 13:17:29 CST 2025
 Fri Apr 11 13:18:49 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除mikio_san 
+Fri Apr 11 13:31:54 CST 2025
+Fri Apr 11 13:32:01 CST 2025
+Fri Apr 11 13:33:31 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

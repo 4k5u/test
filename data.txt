@@ -9,3 +9,4 @@ sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 foxylovesyou   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-67beebfc9a979d63dbe51f794622bf5c1e98536772423a1ddfa9f26ddb7a6078_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
