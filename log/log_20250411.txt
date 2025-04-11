@@ -225,3 +225,7 @@ Fri Apr 11 10:31:58 CST 2025
 Fri Apr 11 10:33:34 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除oki_dokie 
+添加taitehambelton https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-50775fad023539432b8ba25e8b85c628651cab7ba0eb33541bb44b3d313a20e0_trns_h264/playlist.m3u8
+Fri Apr 11 10:46:55 CST 2025
+Fri Apr 11 10:46:59 CST 2025
+Fri Apr 11 10:48:27 CST 2025
