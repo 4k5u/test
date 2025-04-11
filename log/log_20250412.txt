@@ -12,3 +12,10 @@ Sat Apr 12 00:32:23 CST 2025
 Sat Apr 12 00:33:43 CST 2025
 删除honey_pinkgreen 
 删除oki_dokie 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7b1856e454f52a1cfcb9a26036ccd1ec67756a5a4529cbc3c739f17e4f09147b_trns_h264/playlist.m3u8
+添加honey_pinkgreen https://edge18-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-33678c1dee64e769d57219aa7cc031cd18f232e571b052e5ee5300290ec6e874_trns_h264/playlist.m3u8
+Sat Apr 12 00:46:59 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RDMyMzExNC01Nzg2LTQ3NDMtODFGNi00NkU0RUVEM0VGOEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDM5MDAzNCwiZXhwIjoxNzQ0MzkwNjM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.FUTZuI_oEZQQjSEpapN6fNhLJUG5mu3g-Ikm5ZF-i7-OvfbUeU1R0Y8oPu1F1RZai3K4mhFLlBFddDMLRg-ikTv3fWweBI0ALlgewrcrFthKV6_65ViGdGKgQHEPp7wL
+Sat Apr 12 00:47:23 CST 2025
+Sat Apr 12 00:48:44 CST 2025
+删除tess00 
