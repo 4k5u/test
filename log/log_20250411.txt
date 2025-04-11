@@ -385,3 +385,13 @@ Fri Apr 11 18:18:38 CST 2025
 删除y1026 
 删除m0m099 
 删除ake_mi 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-3c32f60c473780d4c2c908de5120f917029346c353ba0a7e63bb046165d42db9_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-01d6fe2c260c83e75e89620f08366e7dc7ba38013e60e842a60b0b8df8afc3d1_trns_h264/playlist.m3u8
+Fri Apr 11 18:32:55 CST 2025
+Fri Apr 11 18:33:09 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.BfTZ_SzjKPPMbi9fbg8RklHI1SHx_e0H_1mwrUdtc2OrbZN6SqCzTgi-uHlxtK-U341-WVNuyWshYixpXCxFIYgvr63_BugodrnkMGGT53EOp6657HaxC7rBeV50DmA6
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._PLX4jVl-JGx8L1Wj0UJVVT8JP6QI-zF_63jMT2CnIDLqmMwpYIpT7GAp73Sw4XwNtkAuUUWvpteInYMRTUDiLOuIq6uBYrcWMYG5K3MhgoabE6LYtfRUDFKY0lLbQmA
+Fri Apr 11 18:34:37 CST 2025
+删除Xenomy 
+删除my_eyes_higher 
+删除ake_mi 
