@@ -249,3 +249,10 @@ Sat Apr 12 13:48:29 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除gusdk2362 
 删除ake_mi 
+添加ake_mi https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b142366c14cf3f1b22051bd75cad26e55d99b9ca00dd60ec7b0acb9103099641_trns_h264/playlist.m3u8
+Sat Apr 12 14:02:01 CST 2025
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JkgGs0DUSaAA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0prZ0dzMERVU2FBQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NzlDODU4Ni04NEZELTQzNDktODU0My1BQUVFMUQzOTFCRTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDQzNzcyMiwiZXhwIjoxNzQ0NDM4MzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.x_AFVvKrde3JgOc2GA2QjxZqBND53ZfKz5A10lfkD3yGRN6p_GWeY7cp2WnGv2lGgmGlLAwdT2ENg3JNTIypwE4sis2AI_uRYVYs_KKyKWRGkoCkNAdRCRHKyIW9Ob8M
+Sat Apr 12 14:02:14 CST 2025
+Sat Apr 12 14:03:35 CST 2025
+删除IdaJonesy 
+删除ake_mi 
