@@ -179,3 +179,10 @@ Sat Apr 12 10:18:24 CST 2025
 Sat Apr 12 10:31:52 CST 2025
 Sat Apr 12 10:31:56 CST 2025
 Sat Apr 12 10:33:23 CST 2025
+Sat Apr 12 10:47:07 CST 2025
+Sat Apr 12 10:47:11 CST 2025
+Sat Apr 12 10:48:29 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除oki_dokie 
+删除mikio_san 
