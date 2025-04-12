@@ -114,3 +114,8 @@ Sun Apr 13 06:18:30 CST 2025
 Sun Apr 13 06:31:51 CST 2025
 Sun Apr 13 06:31:57 CST 2025
 Sun Apr 13 06:33:25 CST 2025
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5834044e43e8c2d85440ec36b56a3933093944bab5c892a082ef212bdef2d553_trns_h264/playlist.m3u8
+Sun Apr 13 06:46:59 CST 2025
+Sun Apr 13 06:47:05 CST 2025
+Sun Apr 13 06:48:33 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
