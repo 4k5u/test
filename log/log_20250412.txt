@@ -146,3 +146,7 @@ Sat Apr 12 08:03:30 CST 2025
 Sat Apr 12 08:17:02 CST 2025
 Sat Apr 12 08:17:06 CST 2025
 Sat Apr 12 08:18:30 CST 2025
+添加oda_assuri https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-0af26f69e685a2c1ad4f86e9245d20cc147380af0556f94bb97d58081942c950_trns_h264/playlist.m3u8
+Sat Apr 12 08:32:41 CST 2025
+Sat Apr 12 08:32:45 CST 2025
+Sat Apr 12 08:34:18 CST 2025
