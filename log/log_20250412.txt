@@ -336,3 +336,12 @@ Sat Apr 12 17:03:43 CST 2025
 删除oki_dokie 
 删除ad0res 
 删除ake_mi 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d4c4c0b17b5702e6b5eaa8508aec90f674cfba462d473e608217d322d81d5e51_trns_h264/playlist.m3u8
+添加ake_mi https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b142366c14cf3f1b22051bd75cad26e55d99b9ca00dd60ec7b0acb9103099641_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6c4a2bbd5cf556cd8bedcf422bd6b8302fb3454359f0e81e80d2004f2fe14a07_trns_h264/playlist.m3u8
+Sat Apr 12 17:16:53 CST 2025
+Sat Apr 12 17:17:11 CST 2025
+Sat Apr 12 17:18:38 CST 2025
+删除oda_assuri 
+删除oki_dokie 
+删除ake_mi 
