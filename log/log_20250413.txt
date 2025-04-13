@@ -321,3 +321,10 @@ Sun Apr 13 19:02:00 CST 2025
 Sun Apr 13 19:02:19 CST 2025
 Sun Apr 13 19:03:45 CST 2025
 删除my_eyes_higher 
+Sun Apr 13 19:17:03 CST 2025
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QjU0MDQyMS1EQzUzLTQ0NkQtODdDOS1CNkI3OTlERjhENjMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDU0MzAyOSwiZXhwIjoxNzQ0NTQzNjI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.V4_AbwBZF7nrJjbeYrvXtTjDyquE2JrBB0iL5gtdBv9S-80238mLxkunyzr8V5kKjeBYdrCjhpbkmA_dsRiil_x4sMBrfcKm7DpgbUCp8Alpxm9Aei9ldsGsyhkHVx72
+Sun Apr 13 19:17:22 CST 2025
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.g4SBsv-FdNzdS2RugwQHD0-2q1w_dHxCj8_G-_syLNPqG5XDMTLik5kCAUJCFRGjjUW0R_mgMmbTDxHFvzY-pMVo3BtEswwe9K6e9nnkhJ1DECgcyBJY5i800pFz8oHM
+Sun Apr 13 19:18:44 CST 2025
+删除mode_bad 
+删除lolsos 
