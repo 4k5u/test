@@ -5,3 +5,4 @@ Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto
 oda_assuri   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-82616b059b90efdb81735fe1c3c44f3129faa2b6506088049881de2a687a535c_trns_h264/playlist.m3u8
 dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk._4dHNf7HH4cHTnnA3Lz_Rfs7His4m7JccTGE-6kY4igZeVW9F-RvHT0HP7yCr7wFJgysAJ95F4DxWzhteknrBCpyeNNLlDJM7NKY7Wl20z54RWqGOlSIjbSsWIY3vMHe
 taitehambelton   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8d5fdc9718bdfa80447ca7827ee97d642c3e5f645bebfee9990e3d73644c9bdd_trns_h264/playlist.m3u8
+eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K_H8-pUNlT8wYjzRkt6YLyc2pMYMzzfvQClDAeiclhomj02LLa4XWthM1r3k0JVsUnNfk1-HIuGaUOfgNIEUJVanM_MvSQXYFHK8hfwyFd8B4VX5B8rEPfjY-a1M1gqR
