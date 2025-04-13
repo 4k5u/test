@@ -137,3 +137,7 @@ Sun Apr 13 08:02:00 CST 2025
 Sun Apr 13 08:02:04 CST 2025
 Sun Apr 13 08:03:28 CST 2025
 删除nyangnyang1004 
+添加oda_assuri https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-82616b059b90efdb81735fe1c3c44f3129faa2b6506088049881de2a687a535c_trns_h264/playlist.m3u8
+Sun Apr 13 08:17:43 CST 2025
+Sun Apr 13 08:17:48 CST 2025
+Sun Apr 13 08:19:21 CST 2025

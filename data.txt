@@ -5,3 +5,4 @@ mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ae69f9e
 oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5834044e43e8c2d85440ec36b56a3933093944bab5c892a082ef212bdef2d553_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+oda_assuri   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-82616b059b90efdb81735fe1c3c44f3129faa2b6506088049881de2a687a535c_trns_h264/playlist.m3u8
