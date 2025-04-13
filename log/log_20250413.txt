@@ -171,3 +171,7 @@ Sun Apr 13 10:17:55 CST 2025
 Sun Apr 13 10:17:59 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.K_H8-pUNlT8wYjzRkt6YLyc2pMYMzzfvQClDAeiclhomj02LLa4XWthM1r3k0JVsUnNfk1-HIuGaUOfgNIEUJVanM_MvSQXYFHK8hfwyFd8B4VX5B8rEPfjY-a1M1gqR
 Sun Apr 13 10:19:32 CST 2025
+Sun Apr 13 10:31:52 CST 2025
+Sun Apr 13 10:31:56 CST 2025
+Sun Apr 13 10:33:23 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
