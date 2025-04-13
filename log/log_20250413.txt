@@ -376,3 +376,8 @@ Sun Apr 13 21:32:28 CST 2025
 Sun Apr 13 21:33:50 CST 2025
 删除oki_dokie 
 删除lovable12 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-185084da3fcd0ad92cd0e9206773499d5f18caa61ce960d831cc99ba0c93dce2_trns_h264/playlist.m3u8
+Sun Apr 13 21:46:58 CST 2025
+Sun Apr 13 21:47:26 CST 2025
+Sun Apr 13 21:48:47 CST 2025
+删除oki_dokie 
