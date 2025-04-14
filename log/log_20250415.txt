@@ -11,3 +11,8 @@ Tue Apr 15 00:18:26 CST 2025
 Tue Apr 15 00:31:56 CST 2025
 Tue Apr 15 00:32:18 CST 2025
 Tue Apr 15 00:33:27 CST 2025
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b760a6f47ee2fdf92cbd7774bb1e31556ebc7846cccabbb3bf237567a33388cd_trns_h264/playlist.m3u8
+Tue Apr 15 00:46:56 CST 2025
+Tue Apr 15 00:47:17 CST 2025
+Tue Apr 15 00:48:29 CST 2025
+删除thgml1212 
