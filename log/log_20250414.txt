@@ -273,3 +273,10 @@ Mon Apr 14 15:17:32 CST 2025
 Mon Apr 14 15:18:52 CST 2025
 删除oki_dokie 
 删除foxylovesyou 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-913f69544c4ac2f7d0582e0e75fa8fcba54c69e6c001f1079c85c3df4b93c14f_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-668ec40f2aa1a3c574bacf9fa95127aa1fb669a89981d6f9f74047842ce86aa2_trns_h264/playlist.m3u8
+Mon Apr 14 15:32:49 CST 2025
+Mon Apr 14 15:33:05 CST 2025
+Mon Apr 14 15:34:24 CST 2025
+删除oki_dokie 
+删除foxylovesyou 
