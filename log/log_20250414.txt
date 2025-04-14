@@ -385,3 +385,11 @@ Mon Apr 14 20:03:55 CST 2025
 删除jjine0127 
 删除happyy2 
 删除y1026 
+Mon Apr 14 20:17:01 CST 2025
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MjQ1QTJDMi0zMDc4LTQ5NDMtOTcxOC0yRDJBOEUwRDU3N0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDYzMzA0MiwiZXhwIjoxNzQ0NjMzNjQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AvLXq7cvwVJoVYHQjKC-57r4spOR2pk0Y39ZPlLoi8BtOroKlG1vw4LLSoRCYF3Rc7Cs_2aiFlzY6KwkEtYxx9o-wTR93jhfMTc-81Cv0iPJSVSph-Fsu3_oEr2Ab2AS
+Mon Apr 14 20:17:31 CST 2025
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.agOETAvoUAc-pGFfjjPvrWvQyQ-h2o71hayIFUVaHlgkI24S0Gr9vyMm6nKZ3lkAKV7YL3b3AhvgsciV5OslJPtDRVmEf9S7Sj4L4AYnK0Pm5fTsRszQoxxNKGnnyKwX
+Mon Apr 14 20:18:56 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除tyy750ii 
+删除Asia-Lynn 
