@@ -357,3 +357,8 @@ Mon Apr 14 18:46:58 CST 2025
 Mon Apr 14 18:47:22 CST 2025
 Mon Apr 14 18:48:46 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
+Mon Apr 14 19:03:38 CST 2025
+Mon Apr 14 19:04:00 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.H8X_evu75zGPmW4mFJgNR0aGqKfuGNCNBt-fFSS8N6HQfc0L2zyQabrqvrA4ec_2lhxPGoMJoP494-UuijSu07Hod3cJ1FtEpXONWbJ6rhp_q9WF5jdOsHEEHz3IGmPY
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.zxNQnwCsGQdBtSs5NDXdPSw_ve_aBmuyn1DfUAizOA8rFvN3WNy_nP4ZPj73uDKrNl91zG_KrVpjdjafpbObmwoJzt8fg20K-5hKNqmYivwUA1E0c5ow6ik2h53SntxC
+Mon Apr 14 19:05:25 CST 2025
