@@ -194,3 +194,7 @@ Tue Apr 15 11:31:59 CST 2025
 Tue Apr 15 11:32:01 CST 2025
 Tue Apr 15 11:33:27 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Tue Apr 15 11:47:00 CST 2025
+Tue Apr 15 11:47:02 CST 2025
+Tue Apr 15 11:48:35 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
