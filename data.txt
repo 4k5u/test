@@ -3,3 +3,4 @@ Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3
 taitehambelton   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-37e83b32a866aa61bc5f495e72f3b54ce2b81c5e0dfaa7cf753b3289ebe0e085_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+oki_dokie   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-eb2f955feac803b28cd69701da15a53683583e80f8f37bb44dd4c01b07d05f0b_trns_h264/playlist.m3u8
