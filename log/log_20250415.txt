@@ -289,3 +289,7 @@ Tue Apr 15 17:47:13 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xtfxA1Onf-Atp9oZKf00qq2S8LhlIQi0Q-HvQDQJi9oEY-d6ZfhnrF7qZNt0yX624i8_h0fhLSI76tz52JOMk5zQzhT_SNYO-9cdj8cWSyiivBaOfZFDw-iMETekY-_m
 Tue Apr 15 17:48:57 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Tue Apr 15 18:02:04 CST 2025
+Tue Apr 15 18:02:18 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FGEcz-DRKS-B4ndhEPdcPWErFkJtJtVf3LI_u1KZ0rCzv1-orqJQa8zS3_OgbLfQ0gWHXRViSuFpqy3u4TVaL0FBY1I92klL0cp_Oy-H50K-9v9y0spWvr-EbwXqQ51z
+Tue Apr 15 18:03:39 CST 2025
