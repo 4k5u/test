@@ -309,3 +309,11 @@ Tue Apr 15 19:02:38 CST 2025
 Tue Apr 15 19:02:56 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mFbKS-0zNW8DcdoJFBHWR5suXCkYLKA7DFRZtwa1fiRF48vUA1UrSyx3NNMJNB7JNwoypXrPp3vbJ5FnFWbTx1xI6ruOB_QGJFwj7Sr62k_d5y-3x1vDsJOuhhRRUwlp
 Tue Apr 15 19:04:25 CST 2025
+Tue Apr 15 19:18:07 CST 2025
+添加ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BATRWzSE2Nrb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JBVFJXelNFMk5yYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RkE4OUFBRC1CQ0YwLTRCNzgtQjIxQy0zODBENkZENEQ1ODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDcxNTkwNCwiZXhwIjoxNzQ0NzE2NTA0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pHL9WbbsPbZyJUDUtxofFCwWmKUPSAIe2SYgXLFGb0Rz413CQnjLkEvOPngfA7iJyu8S1a13WBvzmcQ3Hwh2RTTOLbgAgrBX3-yMsCn9T1Tx-kRw1MEJjUiPpXMyyTxU
+Tue Apr 15 19:18:26 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ebYA839q24t52M5MzIJxU41uwrZgU0f1dJbbI404i4imE9FOJyfKIsef469ftKPPXDqpU4Vqis7nHiXf8uXGDPXWh2HR9-HgtLPHZq62dQlk1rJhBWUB_SDHFwEml0SF
+Tue Apr 15 19:19:42 CST 2025
+删除taitehambelton 
+删除foxylovesyou 
+删除Asia-Lynn 
