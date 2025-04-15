@@ -198,3 +198,8 @@ Tue Apr 15 11:47:00 CST 2025
 Tue Apr 15 11:47:02 CST 2025
 Tue Apr 15 11:48:35 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Tue Apr 15 12:01:59 CST 2025
+Tue Apr 15 12:02:00 CST 2025
+Tue Apr 15 12:03:31 CST 2025
+删除nobleinc 
+删除oki_dokie 
