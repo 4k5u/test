@@ -11,3 +11,6 @@ Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Enw0oeSp8GMWVmiDskpvnhcA-XC5gxKJDssW1cQMSIwUzwbGjh7NzvvHR8tn2-VyeOxIFx_QBHDw0PxrF7jqvLPniipZbB-MiNjomoycyAJu_qA6idzvUgeFi522ARiR
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J5ZlcWQig2jHAtrBDpSPTgZ-tiKB7V7ibmxP6BymXctr-MFiLiqQ_k8p7NwkpDgmzKCThkM3Sv5BJLRjwYBLJ37T8WHnQ_hxg-x8t4Ih6nHTGcnmc_oSp5_zV8QluG6P
+oda_assuri   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri-sd-d9862362818f881713498e3ef3bcdec6a78cf3116c776740c59f874ea798c213_trns_h264/playlist.m3u8
+mode_bad   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-3e9fcaa25d01bd7ca8daba3d25abf1a97b2c14a119dd47312a5fb4b0023be311_trns_h264/playlist.m3u8
+sexygamesx   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-4c3553dff96b9f19e16a7a585caaab3466e384fe50bde1d38bc9674781ae359f_trns_h264/playlist.m3u8
