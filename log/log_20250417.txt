@@ -123,3 +123,8 @@ Thu Apr 17 06:01:51 CST 2025
 Thu Apr 17 06:01:55 CST 2025
 Thu Apr 17 06:03:29 CST 2025
 删除green10004 
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fc7f91dcaac7e313918f3c02d979df04c231980318a5bdd1265c0bc6827274cc_trns_h264/playlist.m3u8
+Thu Apr 17 06:16:54 CST 2025
+Thu Apr 17 06:16:56 CST 2025
+Thu Apr 17 06:18:27 CST 2025
+删除oki_dokie 
