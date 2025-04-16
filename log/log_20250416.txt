@@ -166,3 +166,7 @@ Wed Apr 16 09:32:09 CST 2025
 Wed Apr 16 09:32:13 CST 2025
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wiiZmv3i_m43XEV2qE7qF-drtoVzwCwc_uBySLRP3yElPLXcUOH29KI_zj4RsWPz59IGl_lWplO1OW7egelWbIwmNtoYWHjZFAGuR1js-9KtVOS04OUI2-1IWriunfUr
 Wed Apr 16 09:33:44 CST 2025
+Wed Apr 16 09:47:30 CST 2025
+Wed Apr 16 09:47:36 CST 2025
+Wed Apr 16 09:48:57 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
