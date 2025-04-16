@@ -10,3 +10,11 @@ Thu Apr 17 00:17:16 CST 2025
 Thu Apr 17 00:18:33 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除nyangnyang1004 
+Thu Apr 17 00:31:56 CST 2025
+Thu Apr 17 00:32:12 CST 2025
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cftu-VkfMZIwsoG5bYYb_SF1wpVfgzBoYmvsllo3WAgK78xcXuUrCu8RSYW_C-ED9mh214N7NPQHvnaV2sHH4mXL2qG-lDP-G_V92MAwvjDBl5O3oSIsW9gevqQdPv4x
+Thu Apr 17 00:33:34 CST 2025
+删除ohhanna 
+删除tess00 
+删除o111na 
+删除naras2 
