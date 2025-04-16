@@ -57,3 +57,8 @@ Thu Apr 17 02:17:13 CST 2025
 添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Snb5Uas8cEWqt91VFi4UazdLE6WeeIf0JwwkMyD_daY6-oCuOJJ-cqwuxLwpqIlgk2SwcTwoWVm2rj1rhNDMemiQmp4ZZvKI8v9jOcD295Yeowcs6MXOG9wXiqKx2a3Q
 Thu Apr 17 02:18:30 CST 2025
 删除cecilia0903 
+Thu Apr 17 02:32:57 CST 2025
+Thu Apr 17 02:33:07 CST 2025
+Thu Apr 17 02:34:27 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除Angel-Bei-bei 
