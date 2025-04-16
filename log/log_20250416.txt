@@ -422,3 +422,11 @@ Wed Apr 16 22:47:53 CST 2025
 Wed Apr 16 22:48:31 CST 2025
 Wed Apr 16 22:49:39 CST 2025
 删除naras2 
+Wed Apr 16 23:01:58 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QkIwOUEwQS05QTAxLTRDQzgtOTlBQi1FMDU1NUU3NTA2MjUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDgxNTcyOSwiZXhwIjoxNzQ0ODE2MzI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qLUy5GkOrVr9eu_H8zGk4PnRKsCPmEkmGsWzkvRdifHGPK8iMd4oYVyp_MyuGBsJ2MniF4mq7zwWXUxkjCe99vy8RqbY89rmcA_fOvoybon0ucAIj_v0Y8QzVreEepH-
+Wed Apr 16 23:02:38 CST 2025
+Wed Apr 16 23:03:52 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除oki_dokie 
+删除onlyone521 
+删除soso621 
