@@ -315,3 +315,7 @@ Wed Apr 16 17:31:58 CST 2025
 添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQjEyM0RDMy1FQkY3LTQ1MUYtQkZDRC1CMDYyQTM5NDMyQzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDc5NTkyNCwiZXhwIjoxNzQ0Nzk2NTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5baU-GBD8j3EKk0nSr5j3a-MfZ_q8AxSn8BI86ERgFVF9cqzRUQGPqFQdslNt4Xy6IgokerbWXd-Q_LwgvJTA-0pRNfrejTBGY0vKs8Y4O8krq6ORwL3obDrnRIYU_fs
 Wed Apr 16 17:32:14 CST 2025
 Wed Apr 16 17:33:42 CST 2025
+Wed Apr 16 17:46:57 CST 2025
+Wed Apr 16 17:47:11 CST 2025
+Wed Apr 16 17:48:36 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
