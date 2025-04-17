@@ -359,3 +359,10 @@ Thu Apr 17 20:18:38 CST 2025
 删除jjine0127 
 删除sexygamesx 
 删除ad0res 
+添加ad0res https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-428528ac6b855a85b8c835921481770f7dd025f387e12e73685d968fb74fbaad_trns_h264/playlist.m3u8
+Thu Apr 17 20:31:59 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QjVDQUY2Ni00MzAxLTRENzctODFFMy0xODZGMkExODA2OTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDg5MzEyNCwiZXhwIjoxNzQ0ODkzNzI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.S5aH5ySHxEee4PQ0WfpmrCvesJB_WHm7eGXTwUU_7YZGuCUrDUUPjUOrNtbmLVtn3QPeKxnR6owIStf6Krr35qYSOkQGRfFjgcEbEuEBVqXmzfM2CS3sDhY2TIf3oFFQ
+Thu Apr 17 20:32:33 CST 2025
+Thu Apr 17 20:33:42 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除my_eyes_higher 
