@@ -133,3 +133,9 @@ Fri Apr 18 04:03:29 CST 2025
 删除howru010 
 删除alicelebel 
 删除oki_dokie 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bc1d8aa1f0b1f9a409934d2b87e1ff63f53543e5ff92b2e88205540232ea24eb_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge2-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-1b70ed54feb2f4ea4685018d53baeae7ba2ec816ca910872c38a7fb8458f60b4_trns_h264/playlist.m3u8
+Fri Apr 18 04:17:03 CST 2025
+Fri Apr 18 04:17:09 CST 2025
+Fri Apr 18 04:18:33 CST 2025
+删除oki_dokie 
