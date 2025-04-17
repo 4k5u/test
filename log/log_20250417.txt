@@ -223,3 +223,8 @@ Thu Apr 17 12:48:25 CST 2025
 Thu Apr 17 13:01:53 CST 2025
 Thu Apr 17 13:01:55 CST 2025
 Thu Apr 17 13:03:24 CST 2025
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-cba1206ed58910d29f0a69090f53c1a5f12e10ca780d097e6ef011bb260cfff3_trns_h264/playlist.m3u8
+Thu Apr 17 13:17:13 CST 2025
+Thu Apr 17 13:17:15 CST 2025
+Thu Apr 17 13:18:35 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
