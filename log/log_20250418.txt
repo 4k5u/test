@@ -158,3 +158,8 @@ Fri Apr 18 05:03:40 CST 2025
 Fri Apr 18 05:16:50 CST 2025
 Fri Apr 18 05:17:00 CST 2025
 Fri Apr 18 05:18:34 CST 2025
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a8d862dab493c8a35439591b55ff0030a06ada1f1c2f593274e0b708d874838b_trns_h264/playlist.m3u8
+Fri Apr 18 05:31:54 CST 2025
+Fri Apr 18 05:32:04 CST 2025
+Fri Apr 18 05:33:37 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
