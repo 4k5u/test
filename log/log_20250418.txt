@@ -456,3 +456,9 @@ Fri Apr 18 22:01:59 CST 2025
 Fri Apr 18 22:02:45 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.52nljtUl392Iil8yU660zjLGmrH3pdm3r2Mnk2U9pkz2KzvLAvw6LYt2hcPO3fO9eSl_UB-kpOPaep_glQjcepL8AH0mNJiOH7M1fb_StbKqe6Bwmi45i0LHIdmdcilg
 Fri Apr 18 22:04:03 CST 2025
+Fri Apr 18 22:16:59 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFBGqUtHSQ1T.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQkdxVXRIU1ExVCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTM0OUZGQy1BRTlFLTQ2QTktODZGMC03MjExM0JFMDZFREUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NDk4NTg0MywiZXhwIjoxNzQ0OTg2NDQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-pmgVDJ13K_jkGTmYkhkDfgz2_dp-79VJUJ8PowJ8vo0tcyLLy6LhIL_DLlFOaET5EmGSdhBCHoW_x5uaVwlfM1UkPMmzqkNSzR2JEcPpSCe4o3s_10AdamKOmzaxcFQ
+Fri Apr 18 22:17:49 CST 2025
+Fri Apr 18 22:18:59 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除lovesong2 
