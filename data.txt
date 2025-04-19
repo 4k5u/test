@@ -12,3 +12,4 @@ SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m
 hanny27   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.iRcKK_nPX8gbOQE0VAxg_WfwCbNNuHt4DStMULI0Go311Dj9WqPCtJXL24dh6jOKJqzxTWU6_FFE59KcGa5pFezvYvUvvXbNDGyYZNq1rIipsTdmnld12c6JAJbSPR6s
 oki_dokie   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-04d6b82681ebd5b9ae770c61e3a8b329ee9415fd7179aa76d3a8353fcf7cbcf4_trns_h264/playlist.m3u8
 mode_bad   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c48a24f5cbc45e92c20de36e422e85556daf710f33746cdc9d51f3b218df7bf7_trns_h264/playlist.m3u8
+Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
