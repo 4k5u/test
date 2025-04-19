@@ -99,3 +99,7 @@ Sun Apr 20 04:01:57 CST 2025
 Sun Apr 20 04:02:05 CST 2025
 Sun Apr 20 04:03:34 CST 2025
 删除alicelebel 
+添加kiriko_chan https://edge14-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-73809737f73de4d92892313e5f0f785a29329a79b4d9961b96a8b6c39558a1b5_trns_h264/playlist.m3u8
+Sun Apr 20 04:18:26 CST 2025
+Sun Apr 20 04:18:34 CST 2025
+Sun Apr 20 04:19:54 CST 2025
