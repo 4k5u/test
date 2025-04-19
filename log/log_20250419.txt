@@ -303,3 +303,7 @@ Sat Apr 19 16:01:55 CST 2025
 Sat Apr 19 16:02:07 CST 2025
 Sat Apr 19 16:03:37 CST 2025
 删除alicelebel 
+添加mode_bad https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c48a24f5cbc45e92c20de36e422e85556daf710f33746cdc9d51f3b218df7bf7_trns_h264/playlist.m3u8
+Sat Apr 19 16:16:54 CST 2025
+Sat Apr 19 16:17:06 CST 2025
+Sat Apr 19 16:18:36 CST 2025
