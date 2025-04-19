@@ -343,3 +343,9 @@ Sat Apr 19 17:34:14 CST 2025
 Sat Apr 19 17:46:53 CST 2025
 Sat Apr 19 17:47:10 CST 2025
 Sat Apr 19 17:48:25 CST 2025
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6b2ac46dd09a9cedb1f0272bf1ca1f3615205de84749a3ef1c927382af132566_trns_h264/playlist.m3u8
+Sat Apr 19 18:01:55 CST 2025
+Sat Apr 19 18:02:11 CST 2025
+Sat Apr 19 18:03:29 CST 2025
+删除ad0res 
+删除oki_dokie 
