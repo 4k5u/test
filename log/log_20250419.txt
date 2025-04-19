@@ -390,3 +390,10 @@ Sat Apr 19 19:33:44 CST 2025
 Sat Apr 19 19:46:54 CST 2025
 Sat Apr 19 19:47:20 CST 2025
 Sat Apr 19 19:48:41 CST 2025
+Sat Apr 19 20:02:27 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNzUzRjY4QS0wN0QzLTQwRkMtODkyNS1DNUEwNTI3ODVEN0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTA2NDE1NiwiZXhwIjoxNzQ1MDY0NzU2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.A-PhHqfTFuFItVqW0kOGhbIkgTN42FlKDAvNy0XmQIUMAziFdE2ltwfQn2R2BL0WJwTbCS5J6hMjzSxuoqb10klxLqyYqXEtdFa6H9x8OuKyUWaVY-j0dQo8yzNlpr9x
+Sat Apr 19 20:02:57 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4YPArzmUqiggvH48UrWV0cYWmAOs-EyHPD8a_vUB7Z5d0wK8Dg6OQulgeuaR3LtmWL8h483BFrI9XT1oS-k-I38WPLN9rP_f4_qI6CsP9PF1xCJ6EorCfrjj2_BKVNrV
+Sat Apr 19 20:04:13 CST 2025
+删除mode_bad 
+删除smmms2002 
