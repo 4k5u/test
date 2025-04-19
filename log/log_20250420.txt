@@ -47,3 +47,10 @@ Sun Apr 20 01:48:41 CST 2025
 删除ahri0801 
 删除Sherry_niko 
 删除oki_dokie 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-8024f69dbc4b18bd66aa864616984b38622b3ca16e5674cb1bfb7ad7abad9f78_trns_h264/playlist.m3u8
+Sun Apr 20 02:02:25 CST 2025
+Sun Apr 20 02:02:47 CST 2025
+Sun Apr 20 02:04:04 CST 2025
+删除green10004 
+删除starsh2802 
+删除oki_dokie 
