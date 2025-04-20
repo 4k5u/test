@@ -380,3 +380,10 @@ Sun Apr 20 20:02:30 CST 2025
 Sun Apr 20 20:02:56 CST 2025
 Sun Apr 20 20:04:05 CST 2025
 删除my_eyes_higher 
+Sun Apr 20 20:16:54 CST 2025
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vkeFn91sYVXx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZrZUZuOTFzWVZYeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NkExNThBMC03ODIxLTREMjAtQjVDQi04Mzk3OTRCM0IyQTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTE1MTQzNSwiZXhwIjoxNzQ1MTUyMDM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bfwTiC_ZaxxVjGQ8DcBxTsTnJebHvSquIEEiwjQML2ACCKt3PBXJUDPZLr8pkYM4sskpNeCNg6Gwrt8yT-OoxGdcc1OgWpVp61IJnSzw8AW8LB4IiUct_uHiVBPUPyaU
+Sun Apr 20 20:17:26 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.moWzZhQr3pvQqvQlHsnX7M2qbyKbVaau4XNuXedvp9qhj57Wl8RgULbj8qRJFla8yJApIZBMaAfzfZo7KTDQ7sBuKeZYk-WDPyNgBIHekNqDvR3bDKA_CCg511ZNyjHQ
+Sun Apr 20 20:18:47 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除Ryo-sama 
