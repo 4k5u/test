@@ -86,3 +86,10 @@ Mon Apr 21 04:16:59 CST 2025
 Mon Apr 21 04:17:07 CST 2025
 Mon Apr 21 04:18:24 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-545054729fe28d272549ef4fa9738454d440b41bb35058b388867afd6b249b7c_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0de702d8843c014a2ae9b7b3603f223c946351c6005b2940c6a532834f836da7_trns_h264/playlist.m3u8
+Mon Apr 21 04:32:54 CST 2025
+Mon Apr 21 04:33:02 CST 2025
+Mon Apr 21 04:34:23 CST 2025
+删除dreamch77 
+删除oki_dokie 
