@@ -242,3 +242,8 @@ Sun Apr 20 12:34:15 CST 2025
 删除_meganmeow_ 
 删除mikio_san 
 删除Dolv_1o 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-128cb7c7c3da1dcdd2a5b7f18eb22c7fe0fa2d7de0482237192692d2fdf4a1f2_trns_h264/playlist.m3u8
+Sun Apr 20 12:46:58 CST 2025
+Sun Apr 20 12:47:02 CST 2025
+Sun Apr 20 12:48:27 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
