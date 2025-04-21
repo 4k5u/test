@@ -235,3 +235,10 @@ Mon Apr 21 13:18:23 CST 2025
 Mon Apr 21 13:32:22 CST 2025
 Mon Apr 21 13:32:24 CST 2025
 Mon Apr 21 13:33:45 CST 2025
+Mon Apr 21 13:46:59 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOEMwRTQ5My1DMTM2LTQzMzEtOTI3MS0xOUZCRDk4RkZENTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTIxNDQyMCwiZXhwIjoxNzQ1MjE1MDIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.F1qrAD8FIDq9PjyqPc2dYn-51EvMerU9vH-AoZdMu-8IPABEQ0aehsHT0ZQjj5uagv2P3JIK_QZHUtKNaspe5J4rKVZWJymSJiD0qERSRrOpkN-Mdst4QhAINgzLVK0H
+Mon Apr 21 13:47:05 CST 2025
+Mon Apr 21 13:48:26 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除ddooyaa 
+删除Sime_Naughty 
