@@ -2,7 +2,6 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNzQyOTIxNy00RTgyLTRGQjQtQTcxOC0yRjdGN0QzMjUxMTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTEyODkxNSwiZXhwIjoxNzQ1MTI5NTE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qIcc9Q80u7s2ABL4mTvroKEA3Wt5VCClRsk9ap7AerZoG-6uyDq1R2pkYJWjhVKM7yBILROFJBAJbREHikmLWddqQKxrXDdbfslehF0D5e6aI5l17VCWL0dvqNh5nGcO
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 _meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-0de702d8843c014a2ae9b7b3603f223c946351c6005b2940c6a532834f836da7_trns_h264/playlist.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 oki_dokie   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ad4a59dfa756a12714e43bab640414494a0bf69c945386eeb820dcc92cdfcb7f_trns_h264/playlist.m3u8
