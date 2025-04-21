@@ -174,3 +174,8 @@ Mon Apr 21 09:18:29 CST 2025
 Mon Apr 21 09:32:04 CST 2025
 Mon Apr 21 09:32:08 CST 2025
 Mon Apr 21 09:33:31 CST 2025
+Mon Apr 21 09:47:40 CST 2025
+Mon Apr 21 09:47:44 CST 2025
+Mon Apr 21 09:49:07 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除ahri0801 
