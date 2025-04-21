@@ -179,3 +179,7 @@ Mon Apr 21 09:47:44 CST 2025
 Mon Apr 21 09:49:07 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除ahri0801 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ad4a59dfa756a12714e43bab640414494a0bf69c945386eeb820dcc92cdfcb7f_trns_h264/playlist.m3u8
+Mon Apr 21 10:02:27 CST 2025
+Mon Apr 21 10:02:30 CST 2025
+Mon Apr 21 10:03:53 CST 2025
