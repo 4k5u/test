@@ -194,3 +194,8 @@ Tue Apr 22 10:18:23 CST 2025
 Tue Apr 22 10:32:01 CST 2025
 Tue Apr 22 10:32:03 CST 2025
 Tue Apr 22 10:33:23 CST 2025
+Tue Apr 22 10:46:59 CST 2025
+Tue Apr 22 10:47:01 CST 2025
+Tue Apr 22 10:48:21 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Sime_Naughty 
