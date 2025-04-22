@@ -304,3 +304,8 @@ Tue Apr 22 17:02:25 CST 2025
 Tue Apr 22 17:03:56 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除sigmasian 
+Tue Apr 22 17:17:44 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBN0NGQ0QwOS1FNkEyLTQ4MzctQTgwRS00NURCMEE2NjFDN0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTMxMzQ2OSwiZXhwIjoxNzQ1MzE0MDY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I7KX7uQX-xY9Z2dDJfdJtJuOtvzw0qlAKgzDm_kVJKyJkBWa5a8a0QZRfYA6-c-tatUnicbTCLxF3ieqMdrjhol5D8Qqt2WNqz2-xt0Z0Nh1LFNEiUHGgYECLc-DVyRB
+Tue Apr 22 17:18:05 CST 2025
+Tue Apr 22 17:19:35 CST 2025
+删除oki_dokie 
