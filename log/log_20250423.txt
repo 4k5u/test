@@ -151,3 +151,7 @@ Wed Apr 23 06:46:57 CST 2025
 Wed Apr 23 06:48:28 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除dign1461 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e7398af4b20c2a4a68ea86cc1162ed98e0a484d4b0f195951e969ef87526b70c_trns_h264/playlist.m3u8
+Wed Apr 23 07:01:56 CST 2025
+Wed Apr 23 07:02:01 CST 2025
+Wed Apr 23 07:03:33 CST 2025
