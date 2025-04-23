@@ -257,3 +257,9 @@ Wed Apr 23 13:31:56 CST 2025
 Wed Apr 23 13:31:58 CST 2025
 Wed Apr 23 13:33:30 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Wed Apr 23 13:46:51 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwRDY0MDU5OC1GRjdCLTRFQkUtODFFOC1BNUEyOUYwNTlCNjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTM4NzIxNSwiZXhwIjoxNzQ1Mzg3ODE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-xxikPHmov0IRDT37CC0rTFym_xZMcySJgSBrKt04QJV3aO90MJlVGYe-ieBhVOx-rfNTdHs9QnxTeWRFrp4KMrd6XpUL2HyADkhNS3rQXsmjBpDopcz0ihn45jUs8Pk
+Wed Apr 23 13:46:57 CST 2025
+Wed Apr 23 13:48:30 CST 2025
+删除IdaJonesy 
+删除Sime_Naughty 
