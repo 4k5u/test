@@ -198,3 +198,8 @@ Wed Apr 23 10:02:00 CST 2025
 Wed Apr 23 10:03:32 CST 2025
 删除oki_dokie 
 删除362540 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e7398af4b20c2a4a68ea86cc1162ed98e0a484d4b0f195951e969ef87526b70c_trns_h264/playlist.m3u8
+Wed Apr 23 10:16:57 CST 2025
+Wed Apr 23 10:17:01 CST 2025
+Wed Apr 23 10:18:34 CST 2025
+删除Sime_Naughty 
