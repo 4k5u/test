@@ -8,3 +8,4 @@ Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0691970ac48b8b17f6ec7b39ece0ce6247adcc98e3a8409fb8c850eda127a19a_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4f4a39bcdb85756192b43cb3ea76280a0dd179c919ce91a4c2f8036f0813f62c_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
