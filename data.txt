@@ -4,3 +4,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 sexygamesx   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-42673f70843015370ce3ad65e760fb05f55c6e2bbe69d5310ed4a1902db02f9f_trns_h264/playlist.m3u8
 _meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-4a1a78dadca0b5bfc8fad8965d22439fe68bcbd9c57d394c2cd74a4d33458648_trns_h264/playlist.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-25489faadf341e67e6ec28323e3b5dea6cb2d0ff6469564065488d227c07772f_trns_h264/playlist.m3u8
