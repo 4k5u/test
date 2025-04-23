@@ -228,3 +228,7 @@ Wed Apr 23 11:31:52 CST 2025
 Wed Apr 23 11:31:55 CST 2025
 Wed Apr 23 11:33:28 CST 2025
 删除nobleinc 
+Wed Apr 23 11:48:07 CST 2025
+Wed Apr 23 11:48:09 CST 2025
+Wed Apr 23 11:49:38 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
