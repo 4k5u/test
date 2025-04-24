@@ -273,3 +273,9 @@ Thu Apr 24 15:02:05 CST 2025
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6f7PlxjeSqJhy9aBLWLT5cEvIo2TtvnBSUMLJjzfvejSZTMjI39xyb-BkNpAI1uR0Ff6BjEjJoiphQGfqW1fV8fI7EV48ftdsrDs2qFkrUvk4JNx9nSBSqwVyHm03rdJ
 Thu Apr 24 15:03:39 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-48c586e655240ca47d0a916061b09f43ee71d4d419e8291dcf48a1e782964109_trns_h264/playlist.m3u8
+Thu Apr 24 15:18:01 CST 2025
+Thu Apr 24 15:18:13 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6f7PlxjeSqJhy9aBLWLT5ToG-nUr_sJsfU6HlDjf4Ae7xXQlIol7ZgYBiEhM1h7EuyZV5OWTYl1yajTW6KSGaALOWE7Xj2aSUSd8TdPUmX5SLrZCiUTo6xY2VAUNMEHL
+Thu Apr 24 15:19:42 CST 2025
+删除foxylovesyou 
