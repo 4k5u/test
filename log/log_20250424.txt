@@ -351,3 +351,11 @@ Thu Apr 24 18:17:08 CST 2025
 Thu Apr 24 18:18:30 CST 2025
 删除oki_dokie 
 删除foxylovesyou 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f798f1cd3b1bbdd46a064da946cc2c189b8c308ecde10fe96502a78017f815f1_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-48c586e655240ca47d0a916061b09f43ee71d4d419e8291dcf48a1e782964109_trns_h264/playlist.m3u8
+Thu Apr 24 18:32:00 CST 2025
+Thu Apr 24 18:32:14 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gDopaaVGWqvHEY4yHORd7B5qdBoX1TCNKKdYG5nSrZpmFufWiSHXOzTV-7CBUa3O3qO24DHSoKPU8ghcq_wtk7yGrNoOHxReH1k5euBhZQgOQHxteL1Je2JOEFKxVM43
+Thu Apr 24 18:33:42 CST 2025
+删除iminako 
+删除foxylovesyou 
