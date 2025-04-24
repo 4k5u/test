@@ -37,3 +37,9 @@ Fri Apr 25 01:48:38 CST 2025
 删除naras2 
 删除cecilia0903 
 删除ad0res 
+Fri Apr 25 02:01:54 CST 2025
+Fri Apr 25 02:02:08 CST 2025
+Fri Apr 25 02:03:34 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除howru010 
+删除day59day 
