@@ -468,3 +468,12 @@ Thu Apr 24 22:48:46 CST 2025
 删除ake_mi 
 删除leeaeae123 
 删除emforhs1919 
+Thu Apr 24 23:02:03 CST 2025
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y9L6K2qYP4iK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k5TDZLMnFZUDRpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQjg2MUY1MC0yREJBLTRENEQtQTY0MS1FNzgyNDc4Mjc2NTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTUwNjkzNCwiZXhwIjoxNzQ1NTA3NTM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qAvldODN3wh7kewu7f5u_vyd9zbXsOcMy9X_seT_pXOLytxOCNO-puUYcMI-GpRW7dkbJDk7RYH_AWoFUHdRkxOc9rp5-sMzaz-UCGSIcq2FI3bVCMywbluNn_5s_CuD
+Thu Apr 24 23:02:35 CST 2025
+Thu Apr 24 23:03:49 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除oki_dokie 
+删除ee5844 
+删除lovesong2 
