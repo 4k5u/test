@@ -7,3 +7,4 @@ happyy2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 ake_mi   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f6336a0a232250fb1b76b886c406c95adf674e3deae6f075766c481377b36e8_trns_h264/playlist.m3u8
 dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6IkJaJG4MIpblUyoOrSx45SWDYPHqVWPh0oMImMkBsff6ohvkE27lR1luXLEQttoaNIVYwvoHIQqxVuFqaxUtRLRMpO4PC5EdvlDlrdoUZyq7-lCho6pU9KI5RMqoT4d
+oki_dokie   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fff67912f22cf173487d91fdfa6f47159a701162d1ba92d566ffb6b23c2144f1_trns_h264/playlist.m3u8
