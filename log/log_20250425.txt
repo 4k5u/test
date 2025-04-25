@@ -149,3 +149,9 @@ Fri Apr 25 09:01:59 CST 2025
 Fri Apr 25 09:02:03 CST 2025
 Fri Apr 25 09:03:32 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Apr 25 09:16:55 CST 2025
+Fri Apr 25 09:16:59 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6IkJaJG4MIpblUyoOrSx45SWDYPHqVWPh0oMImMkBsff6ohvkE27lR1luXLEQttoaNIVYwvoHIQqxVuFqaxUtRLRMpO4PC5EdvlDlrdoUZyq7-lCho6pU9KI5RMqoT4d
+Fri Apr 25 09:18:30 CST 2025
+删除dkdlfjqm758 
+删除y1026 
