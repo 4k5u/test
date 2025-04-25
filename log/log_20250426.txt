@@ -111,3 +111,9 @@ Sat Apr 26 03:47:00 CST 2025
 Sat Apr 26 03:47:00 CST 2025
 Sat Apr 26 03:48:18 CST 2025
 删除cecilia0903 
+添加kiriko_chan https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-29f1625ed04610203ad3c8d61959262d7ab21aea500f3a188d6f91e795af9ad8_trns_h264/playlist.m3u8
+Sat Apr 26 04:01:55 CST 2025
+Sat Apr 26 04:01:55 CST 2025
+Sat Apr 26 04:03:21 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除alicelebel 
