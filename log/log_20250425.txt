@@ -259,3 +259,8 @@ Fri Apr 25 15:17:02 CST 2025
 Fri Apr 25 15:18:29 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除sigmasian 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f6336a0a232250fb1b76b886c406c95adf674e3deae6f075766c481377b36e8_trns_h264/playlist.m3u8
+Fri Apr 25 15:31:57 CST 2025
+Fri Apr 25 15:32:03 CST 2025
+Fri Apr 25 15:33:30 CST 2025
+删除dign1461 
