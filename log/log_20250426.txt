@@ -232,3 +232,7 @@ Sat Apr 26 11:47:43 CST 2025
 Sat Apr 26 11:47:45 CST 2025
 Sat Apr 26 11:49:06 CST 2025
 删除Sime_Naughty 
+Sat Apr 26 12:01:52 CST 2025
+Sat Apr 26 12:01:54 CST 2025
+Sat Apr 26 12:03:23 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
