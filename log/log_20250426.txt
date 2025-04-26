@@ -278,3 +278,7 @@ Sat Apr 26 14:32:06 CST 2025
 Sat Apr 26 14:33:38 CST 2025
 删除yourare 
 删除oki_dokie 
+Sat Apr 26 14:46:57 CST 2025
+Sat Apr 26 14:47:05 CST 2025
+Sat Apr 26 14:48:37 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
