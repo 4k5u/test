@@ -32,3 +32,10 @@ Sun Apr 27 01:17:14 CST 2025
 Sun Apr 27 01:18:25 CST 2025
 删除Sherry_niko 
 删除ake_mi 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-6ff2394314d19e6d172cab7c1df5ae917e126bb64e931f3240224dda59c4892a_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a32faf3635428ddaf2995669f1e5d2abebc84ffc2065a832313a640ae94fa80d_trns_h264/playlist.m3u8
+Sun Apr 27 01:31:55 CST 2025
+Sun Apr 27 01:32:05 CST 2025
+Sun Apr 27 01:33:26 CST 2025
+删除green10004 
+删除172----95----student 
