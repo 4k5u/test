@@ -236,3 +236,8 @@ Sat Apr 26 12:01:52 CST 2025
 Sat Apr 26 12:01:54 CST 2025
 Sat Apr 26 12:03:23 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5683c2b38a345c64e576b6b9b70aa9d46a391490716b0e2a97ea54aaff2894e4_trns_h264/playlist.m3u8
+Sat Apr 26 12:17:24 CST 2025
+Sat Apr 26 12:17:26 CST 2025
+Sat Apr 26 12:18:46 CST 2025
+删除sigmasian 
