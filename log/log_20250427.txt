@@ -325,3 +325,9 @@ Sun Apr 27 16:47:43 CST 2025
 Sun Apr 27 16:47:53 CST 2025
 Sun Apr 27 16:49:22 CST 2025
 删除ad0res 
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-ba103f18630fe3c20e0ce5ffb188d3510d93b3b6d28a32b6568450eaeef88056_trns_h264/playlist.m3u8
+Sun Apr 27 17:02:02 CST 2025
+Sun Apr 27 17:02:12 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uvCjjDIyzBALGjKG7ai-Rr9-K7jVsxsMspbtl02TbCzwKoA-0Z90SPxUFelaGAzNEGMJR2sOAT2wqeEjJlb_0sBaFr5ErYJOW_46i0bxfSoowoXy6woHFxOB4PjA616V
+Sun Apr 27 17:03:37 CST 2025
+删除Sime_Naughty 
