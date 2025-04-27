@@ -6,3 +6,5 @@ Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-d3e32cfda7021ff5bcd9542de00910d90fffd7dd1f43421381cf208c4acf3f96_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2dd774999456b04200e101ffadf732077f90aa98b13096c15da15aa36c56aa04_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
