@@ -104,3 +104,8 @@ Mon Apr 28 05:46:52 CST 2025
 Mon Apr 28 05:46:52 CST 2025
 Mon Apr 28 05:48:23 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加kiriko_chan https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-6da13fb82c6f999d3522754e3d10fd20a20f3d73933443ee11a8027a16260689_trns_h264/playlist.m3u8
+Mon Apr 28 06:01:58 CST 2025
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.eBxc3aR2XJmy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VCeGMzYVIyWEpteSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjY5N0QyNi1FNkQ3LTRGQ0UtQjlFMy1GNTkxNEZENkJBQ0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTc5MTMxOSwiZXhwIjoxNzQ1NzkxOTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Oi_qQ6l6Nnu-0kq3X26H7-uWNkvyvvcltm8To9i2490qZLNWwQTnW4l2cTSNLdNOaWe201nMgvPe_ekVA97z6jYdsBkDCz-lonrWGCV6kFXQ9oLoS-1EAUU-_zPBc-NM
+Mon Apr 28 06:02:02 CST 2025
+Mon Apr 28 06:03:31 CST 2025
