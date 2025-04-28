@@ -163,3 +163,7 @@ Mon Apr 28 09:32:04 CST 2025
 Mon Apr 28 09:32:06 CST 2025
 Mon Apr 28 09:33:26 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Mon Apr 28 09:47:09 CST 2025
+Mon Apr 28 09:47:11 CST 2025
+Mon Apr 28 09:48:35 CST 2025
+删除kiriko_chan 
