@@ -279,3 +279,15 @@ Mon Apr 28 15:04:24 CST 2025
 删除iminako 
 删除oki_dokie 
 删除ake_mi 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b720db9bbe1e50c06ede418f6575580fd382b64321a8a7f4d0233d9ce9f4e7f5_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-27c69f1e924ccdd2f50e56ad77c2c5c6b5b0d18f20e8b26aafe6ce011f48d0b3_trns_h264/playlist.m3u8
+添加iminako https://edge18-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a52080dfa03f5e895aeeae00f5d225faea556d63f9f2b8cc0aad4e2cb93cc040_trns_h264/playlist.m3u8
+Mon Apr 28 15:18:29 CST 2025
+添加happyy2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.OmLmfWvl3qiw.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL09tTG1mV3ZsM3FpdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNTY1QTlFMC1FMDRCLTQyRTAtOTA2OC1CMjgzOUY3NzE5ODAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NTgyNDcxNCwiZXhwIjoxNzQ1ODI1MzE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pJ6J49UK3rovaSfJ0-HSEKEOOktuKUKRc0V8v3Cr4LIGw0x28pQIL_kHKrFNpNETdnKAH1pIlEhxPtVKIInmftiMjmL8nk1_wdplVuJzkmAmOi9MH9mtVkr8_p6HuKyx
+Mon Apr 28 15:18:39 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dhYg_IMxEWR02dnP8D_wT56gEZ_fxouecTzCECydn6xpWVAvmTJ1GTwd0TRCWGiaGKMpuIaLk5oDCjZ0NpJR1ffjVUT4zZTjw1s9TMc9hxN3hUh_l-1uRR97vYHD_DC-
+Mon Apr 28 15:20:09 CST 2025
+删除lolsos 
+删除oki_dokie 
+删除ake_mi 
+删除iminako 
