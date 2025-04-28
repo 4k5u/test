@@ -298,3 +298,12 @@ Mon Apr 28 15:32:36 CST 2025
 Mon Apr 28 15:34:02 CST 2025
 删除ake_mi 
 删除iminako 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a8f1578c88c70ca551f55722d94f375aa2060900a20c7762b30c8878475ad5ea_trns_h264/playlist.m3u8
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-27c69f1e924ccdd2f50e56ad77c2c5c6b5b0d18f20e8b26aafe6ce011f48d0b3_trns_h264/playlist.m3u8
+添加iminako https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a52080dfa03f5e895aeeae00f5d225faea556d63f9f2b8cc0aad4e2cb93cc040_trns_h264/playlist.m3u8
+Mon Apr 28 15:47:00 CST 2025
+Mon Apr 28 15:47:09 CST 2025
+Mon Apr 28 15:48:35 CST 2025
+删除Tmdgus5411 
+删除ake_mi 
+删除iminako 
