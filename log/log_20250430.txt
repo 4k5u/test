@@ -80,3 +80,8 @@ Wed Apr 30 02:48:25 CST 2025
 删除glglehddl 
 删除leeaeae123 
 删除oki_dokie 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-053900acee8d0921a5e2ea04cc1839be901a0e0b56e71764198f427634266136_trns_h264/playlist.m3u8
+Wed Apr 30 03:01:57 CST 2025
+Wed Apr 30 03:02:01 CST 2025
+Wed Apr 30 03:03:27 CST 2025
+删除oki_dokie 
