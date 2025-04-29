@@ -190,3 +190,7 @@ Tue Apr 29 10:32:46 CST 2025
 Tue Apr 29 10:32:52 CST 2025
 Tue Apr 29 10:34:23 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Apr 29 10:46:53 CST 2025
+Tue Apr 29 10:47:00 CST 2025
+Tue Apr 29 10:48:32 CST 2025
+删除oki_dokie 
