@@ -379,3 +379,10 @@ Tue Apr 29 21:32:40 CST 2025
 Tue Apr 29 21:34:05 CST 2025
 添加Reaowna https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 删除ake_mi 
+添加ake_mi https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d3f6a87f566c0b2dc545a352d2c5a4ac991dda74d70312baa6c46126145386c1_trns_h264/playlist.m3u8
+Tue Apr 29 21:47:01 CST 2025
+Tue Apr 29 21:47:35 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.j4daJX_RuB9OEpmDSNgxfxLtKFNPXN27bZiZvvpBPvcK7j6IYqo3H9j5RPkShaBeuP-hTv3ert8i0km9PkidvcKW2AYitTOcpDmwahDN-B0OcW6r0aldZTJIXAtAp8ZJ
+Tue Apr 29 21:48:59 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+删除ake_mi 
