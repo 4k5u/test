@@ -6,4 +6,3 @@ gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 172----95----student   https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
-sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-bccf5ee8438c9d6e76413431ad1bd1e4e75bece715e1db806b2f4492800c747b_trns_h264/playlist.m3u8
