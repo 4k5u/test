@@ -375,3 +375,10 @@ Wed Apr 30 18:31:57 CST 2025
 Wed Apr 30 18:32:15 CST 2025
 Wed Apr 30 18:33:44 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-058cc7281c0ca643ef6b2c8f7c6f91b9d552e66fd23a3b70a27d104bb11d427a_trns_h264/playlist.m3u8
+Wed Apr 30 18:47:08 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERENDMDJEQi1DRjYxLTQ4N0ItQUVGMi01QkY4QjA4ODQ1RTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjAxMDAzOSwiZXhwIjoxNzQ2MDEwNjM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MAv-dllew9GtQl3wqiRjKNl27mmiw4cQJqELJhmsfZVWerFfILLGKMOKhgHeZHlmJNomL4zc1OwKTxwcKk8uacZJ3xMbh8xdsYUPLY7d9gztf2lc7MZEBtmG3qKy-mFo
+Wed Apr 30 18:47:30 CST 2025
+Wed Apr 30 18:48:51 CST 2025
+删除iminako 
+删除oki_dokie 
