@@ -474,3 +474,10 @@ Wed Apr 30 21:49:48 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除dkdlfjqm758 
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-77c8cd2505dcee650dad4de5c8a1854c94fee2b3804a59dd5f50ec34a3e2043d_trns_h264/playlist.m3u8
+Wed Apr 30 22:02:12 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KXp6nzGVyps0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tYcDZuekdWeXBzMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NDc5M0I2Mi1DMEZBLTQ3RjctQTM5NC02MzRCNjJDMEI4MzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjAyMTc2OCwiZXhwIjoxNzQ2MDIyMzY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.uSP5ylLg_dRkHPz0OqTaB6CA-AKHmQZ0k-WZyaTE4JBaqYwQY85SOSXqOChIryUHR_he34_WybhLlZiOZJHgyJtZAZF0TkNoJxD8qFHeqRtZI0A9G61btHUL603rvHLh
+Wed Apr 30 22:02:54 CST 2025
+Wed Apr 30 22:03:55 CST 2025
+删除4ocari 
+删除oki_dokie 
