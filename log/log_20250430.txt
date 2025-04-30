@@ -488,3 +488,8 @@ Wed Apr 30 22:20:35 CST 2025
 删除muse62 
 删除ee5844 
 删除oki_dokie 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-77c8cd2505dcee650dad4de5c8a1854c94fee2b3804a59dd5f50ec34a3e2043d_trns_h264/playlist.m3u8
+Wed Apr 30 22:32:07 CST 2025
+Wed Apr 30 22:32:43 CST 2025
+Wed Apr 30 22:33:39 CST 2025
+删除oki_dokie 
