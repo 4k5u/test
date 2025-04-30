@@ -370,3 +370,8 @@ Wed Apr 30 18:17:00 CST 2025
 Wed Apr 30 18:17:20 CST 2025
 Wed Apr 30 18:18:49 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-058cc7281c0ca643ef6b2c8f7c6f91b9d552e66fd23a3b70a27d104bb11d427a_trns_h264/playlist.m3u8
+Wed Apr 30 18:31:57 CST 2025
+Wed Apr 30 18:32:15 CST 2025
+Wed Apr 30 18:33:44 CST 2025
+删除oki_dokie 
