@@ -502,3 +502,9 @@ Wed Apr 30 23:02:00 CST 2025
 Wed Apr 30 23:02:36 CST 2025
 添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-54rJVvdG6lXa3BpAYVw0HQo3wHSkK54hbipTncUMLZc9Y9ZaYqXYbcLOoxVH-LmbhzBD30nSIXSfkUaoPzQn_yGuYzAZTyPX9enyS2WednVH-EAgMfyF2Nkd7Kl1YIP
 Wed Apr 30 23:03:42 CST 2025
+Wed Apr 30 23:17:27 CST 2025
+Wed Apr 30 23:17:58 CST 2025
+Wed Apr 30 23:18:49 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除jodong2 
+删除emforhs1919 
