@@ -302,3 +302,8 @@ Thu May 1 17:01:58 CST 2025
 Thu May 1 17:02:14 CST 2025
 Thu May 1 17:03:45 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-497530334c084fb32724988271a13790608334a20a2a5477b73716b4e09063bc_trns_h264/playlist.m3u8
+Thu May 1 17:18:21 CST 2025
+Thu May 1 17:18:34 CST 2025
+Thu May 1 17:20:05 CST 2025
+删除oki_dokie 
