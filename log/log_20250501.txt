@@ -277,3 +277,10 @@ Thu May 1 16:02:02 CST 2025
 Thu May 1 16:03:35 CST 2025
 删除alicelebel 
 删除oki_dokie 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-497530334c084fb32724988271a13790608334a20a2a5477b73716b4e09063bc_trns_h264/playlist.m3u8
+添加mode_bad https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-56339e36dfec2e3d5dc4b4b2ce7270ad254bd99845d4ec35fa666a580bff3b9b_trns_h264/playlist.m3u8
+Thu May 1 16:16:56 CST 2025
+Thu May 1 16:17:05 CST 2025
+Thu May 1 16:18:36 CST 2025
+删除iminako 
+删除oki_dokie 
