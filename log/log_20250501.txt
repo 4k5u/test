@@ -177,3 +177,7 @@ Thu May 1 11:02:01 CST 2025
 Thu May 1 11:02:01 CST 2025
 Thu May 1 11:03:22 CST 2025
 删除oki_dokie 
+Thu May 1 11:16:49 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0N0U4Qzg4NS0zRUZGLTQzN0YtQjM1RS03NDlDQzRCQjVGQUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjA2OTQxMSwiZXhwIjoxNzQ2MDcwMDExLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.w58cYDdtD5a2H5i-32e0suelAvoIQLd90tkK7nh954M6yBDtNDFkHY6wtsXsIch3fyzmXrhZQITeQktVk62bjZySvdRni0OcTecewuCE6swRMIWnmjcmlrgeQxN12d8N
+Thu May 1 11:16:53 CST 2025
+Thu May 1 11:18:21 CST 2025
