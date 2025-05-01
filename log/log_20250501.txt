@@ -390,3 +390,9 @@ Thu May 1 21:03:27 CST 2025
 Thu May 1 21:04:51 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除mode_bad 
+Thu May 1 21:17:07 CST 2025
+Thu May 1 21:17:37 CST 2025
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.F8ruiytKcqq3jeJuNeDX0XpVDu8GIzdtjLbzn2SOThIKBlLFAVe1Id_SG_jGTGrIJoVDVK6XCjBQ20Krz3x7XCTm1Kwns_NAbRLiyfr0RW48co-gvcQ_8O3QJRCuFM1h
+Thu May 1 21:19:07 CST 2025
+删除na2ppeum 
+删除172----95----student 
