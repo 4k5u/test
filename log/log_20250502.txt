@@ -425,3 +425,9 @@ Fri May 2 22:47:05 CST 2025
 Fri May 2 22:47:49 CST 2025
 Fri May 2 22:48:57 CST 2025
 删除starsh2802 
+Fri May 2 23:02:12 CST 2025
+添加day59day https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KXp6nzGVyps0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tYcDZuekdWeXBzMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNDBDREFDRi0xOENCLTQwMkItOEExOS1CRTcyRkQ5MEFFQTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjE5ODE2OSwiZXhwIjoxNzQ2MTk4NzY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jQJ3lPXNmSlGOAmCNLqbJB-ejbsN_87f8ftPlKsKgWl4szIR2QRT8tUDh_yd86B4lMI4rzot5KhpLXUtmFz3GRE1o1J97wJhG2IrLyD26o1CfyijOeD8v1_HwAAeRR05
+Fri May 2 23:02:58 CST 2025
+Fri May 2 23:04:01 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除thgml1212 
