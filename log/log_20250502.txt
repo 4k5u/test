@@ -216,3 +216,10 @@ Fri May 2 13:02:01 CST 2025
 Fri May 2 13:02:01 CST 2025
 Fri May 2 13:03:30 CST 2025
 删除Ryo-sama 
+添加iminako https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-58b174b16d15e942d8052dbca045611c258ce149ff5442eac26dcb4ab62b9f67_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-041c0089786eb5a2fbfaff445d646714b44f52e0c0c8698cca51c36ad53b803a_trns_h264/playlist.m3u8
+Fri May 2 13:17:04 CST 2025
+Fri May 2 13:17:04 CST 2025
+Fri May 2 13:18:23 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除dkdlfjqm758 
