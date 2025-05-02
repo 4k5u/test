@@ -260,3 +260,9 @@ Fri May 2 15:32:00 CST 2025
 Fri May 2 15:32:04 CST 2025
 Fri May 2 15:33:36 CST 2025
 删除iminako 
+添加iminako https://edge10-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-58b174b16d15e942d8052dbca045611c258ce149ff5442eac26dcb4ab62b9f67_trns_h264/playlist.m3u8
+Fri May 2 15:46:55 CST 2025
+Fri May 2 15:46:59 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uhFZvEw4nhyR9ttWZ_DLMpWHSn-WRwhzsQu8kA-SKV346PGmIcCHnT0yY_l3Zztp42ULIsjr8tL9p8kzflRIqeN_uyRYCOFpNfpCv6Ubf8uotoI6Po0_7z-rGjd_6ddP
+Fri May 2 15:48:34 CST 2025
+删除iminako 
