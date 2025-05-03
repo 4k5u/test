@@ -2,3 +2,4 @@ ksb0219   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
 kiriko_chan   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2bc71e35f6348b24cca8395a6f4a8d5229b1d5e413b06ffc1d4808d79cc8b79b_trns_h264/playlist.m3u8
 _meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-e2364c3efd37332b2ffb7bc940ef8e686d773341c9ea6f789aa17873b3f2f4ec_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
