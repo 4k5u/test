@@ -16,3 +16,4 @@ kjjeong0609   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-bElWKVrG3RXvDTgxNzl2ll2m59ueGofpTd-Hp-uSe7PAKuL-S5BB9K9KzjLHrSosFbJrZHjnORH2t26hfGK6Oy5eN6IufTuWLq70X10kNUiK6QFDy3ZvVNk1UWD_OlT
 dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.aG_8C9qABlY__XNo0If3jUxu42pZCKNhFifad_AFhLywZ1aCe5li6QHC6uunjWIK6EVoc36POoCnUtuUQHLr0lcYtU0xW70avGVEFbaSUncmhgRllX5K3F85g41xBExK
+kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FyZvSQoRNQlgKRSobmSfC3_ZqTEY5RpKVvHecX_axoLX4UU2FDmqYwYdFsEhAY7rANyLmg06NSRX45vPx9W5ZZ698EaCO4MkNiE0r_Rgk8fS9SDzJXiypVGT3i3ls-ru
