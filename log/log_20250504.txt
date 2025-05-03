@@ -177,3 +177,9 @@ Sun May 4 07:17:02 CST 2025
 Sun May 4 07:18:33 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除oki_dokie 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df1ed5c385827b413fe1a386673d6fd8a405468a009e6a38684e4eb656bd3de2_trns_h264/playlist.m3u8
+添加sexygamesx https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-706098172c9fff2abbb65f471ba25c0e285c9356793a0c4dbe44df9245da8339_trns_h264/playlist.m3u8
+Sun May 4 07:31:52 CST 2025
+Sun May 4 07:31:57 CST 2025
+Sun May 4 07:33:28 CST 2025
+删除oki_dokie 
