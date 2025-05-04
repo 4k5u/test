@@ -28,3 +28,11 @@ Mon May 5 01:02:06 CST 2025
 Mon May 5 01:03:25 CST 2025
 删除mikio_san 
 删除oki_dokie 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6873271b54727516f59d9aa81f0b24c1a31708746dd634c83e9b89f3bb8ee69c_trns_h264/playlist.m3u8
+Mon May 5 01:16:58 CST 2025
+Mon May 5 01:17:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.wuHGhNxsIvY5V4faia240FfZwKaMhDYoSzVgDD9awXHaDML9vk2r2pmlHuAElRJHQwkcet0XDKDrgollW-7-AYmQkPiofX2XYPyu5O1t-jUurND1s4TTexzZrgMTxagb
+Mon May 5 01:18:28 CST 2025
+删除eunyoung1238 
+删除saone451 
+删除oki_dokie 
