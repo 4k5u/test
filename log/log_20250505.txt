@@ -51,3 +51,7 @@ Mon May 5 02:02:30 CST 2025
 Mon May 5 02:03:41 CST 2025
 添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
 删除day59day 
+添加oki_dokie https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ff33c57818ff773fafcd30509db54054d570dfdfd3b1fb72068893d7d2a71be6_trns_h264/playlist.m3u8
+Mon May 5 02:16:55 CST 2025
+Mon May 5 02:17:01 CST 2025
+Mon May 5 02:18:20 CST 2025
