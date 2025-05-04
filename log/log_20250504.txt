@@ -188,3 +188,9 @@ Sun May 4 07:46:54 CST 2025
 Sun May 4 07:46:58 CST 2025
 Sun May 4 07:48:29 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge6-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df1ed5c385827b413fe1a386673d6fd8a405468a009e6a38684e4eb656bd3de2_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0faa1d1c1e86fe78a6be64be587e47ced7fede10cacc20c925b9c0fe64f4f2ad_trns_h264/playlist.m3u8
+Sun May 4 08:01:57 CST 2025
+Sun May 4 08:02:01 CST 2025
+Sun May 4 08:03:33 CST 2025
+删除oki_dokie 
