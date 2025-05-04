@@ -3,3 +3,9 @@ Mon May 5 00:02:01 CST 2025
 Mon May 5 00:02:15 CST 2025
 Mon May 5 00:03:25 CST 2025
 删除kkkku96 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-6873271b54727516f59d9aa81f0b24c1a31708746dd634c83e9b89f3bb8ee69c_trns_h264/playlist.m3u8
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-96fe5af31f6fe891c090f0b946fe988dc2b26418caac6fb3256fb6dcf50b4028_trns_h264/playlist.m3u8
+Mon May 5 00:16:58 CST 2025
+Mon May 5 00:17:06 CST 2025
+Mon May 5 00:18:20 CST 2025
+删除Ryo-sama 
