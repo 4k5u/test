@@ -462,3 +462,10 @@ Sun May 4 22:02:12 CST 2025
 Sun May 4 22:03:23 CST 2025
 删除emforhs1919 
 删除oki_dokie 
+添加oki_dokie https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-f37138538050e9fefbf861a19dd748857f5d0ac744f9ab0709e2e30c466f144b_trns_h264/playlist.m3u8
+Sun May 4 22:16:54 CST 2025
+Sun May 4 22:17:08 CST 2025
+Sun May 4 22:18:17 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
