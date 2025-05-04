@@ -207,3 +207,10 @@ Sun May 4 08:33:30 CST 2025
 删除IdaJonesy 
 删除mazzanti_ 
 删除oki_dokie 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-df1ed5c385827b413fe1a386673d6fd8a405468a009e6a38684e4eb656bd3de2_trns_h264/playlist.m3u8
+Sun May 4 08:50:24 CST 2025
+Sun May 4 08:50:28 CST 2025
+Sun May 4 08:51:59 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除sexygamesx 
+删除oki_dokie 
