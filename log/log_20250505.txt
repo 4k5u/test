@@ -423,3 +423,10 @@ Mon May 5 23:03:46 CST 2025
 删除ee5844 
 删除kjjeong0609 
 删除cecilia0903 
+Mon May 5 23:16:59 CST 2025
+Mon May 5 23:17:15 CST 2025
+Mon May 5 23:18:37 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除yasexy 
+删除Ryo-sama 
