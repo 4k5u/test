@@ -5,3 +5,5 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-00c5efb8194633b629fa13b2441c6d37d5a8c1c8175f25b7288c6887b0ffb842_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bd0468fc177047780534212fc289a2624b301d70e3814530d580d34c962a4099_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
