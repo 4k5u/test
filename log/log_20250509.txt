@@ -81,3 +81,10 @@ Fri May 9 04:02:03 CST 2025
 Fri May 9 04:03:21 CST 2025
 删除glglehddl 
 删除oki_dokie 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-20fcca4398d2da79023ac2b22d34fe0c34f2e7d6a210c1a6d5e82c61db7a8716_trns_h264/playlist.m3u8
+Fri May 9 04:17:39 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QkMzMEIwNy05OTNELTQxNDEtQTcyMC00QjY3QkM0NjU2QjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NjczNTQ2MSwiZXhwIjoxNzQ2NzM2MDYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ahT_iU_NuKMmKMVeHim_F3wA_O_4csWE84Wh9UoM62WFz2qYWZm9yG4XruTWgU8_ojBIELrRVbwQy-RThFaLh97EWdXUxM6mYzJMEQ1QOooB111NX_TVfFh-vHr5bCN3
+Fri May 9 04:17:47 CST 2025
+Fri May 9 04:19:17 CST 2025
+删除dkdlfjqm758 
+删除oki_dokie 
