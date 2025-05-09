@@ -149,3 +149,7 @@ Fri May 9 08:01:55 CST 2025
 Fri May 9 08:01:55 CST 2025
 Fri May 9 08:03:28 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-dc13662948d89b72308729c6fe6d56a39f3c955a0714939e3dc7aed69b8ea7e0_trns_h264/playlist.m3u8
+Fri May 9 08:16:54 CST 2025
+Fri May 9 08:16:55 CST 2025
+Fri May 9 08:18:28 CST 2025
