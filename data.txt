@@ -1,5 +1,4 @@
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1c8e203e1e391ca78521b3b413e771ac71abddc9a5e1a9c23dcb8b0da628835b_trns_h264/playlist.m3u8
 taitehambelton   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0bf76ea7d3deda6d50706c8ee31c2ff62c0e55b85b90f6391c6b4277aecd79cd_trns_h264/playlist.m3u8
-my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5c99b94c51bfc446ecaa5d00e64902c51a47b974ec2aaa1b8f8d1431b53d7138_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
