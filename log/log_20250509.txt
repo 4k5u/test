@@ -284,3 +284,12 @@ Fri May 9 16:02:27 CST 2025
 Fri May 9 16:02:27 CST 2025
 Fri May 9 16:03:51 CST 2025
 删除iminako 
+添加iminako https://edge6-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-afab568bfe7894d0e16f21f55f8116c296a192015550fa685c53327a673ad8bb_trns_h264/playlist.m3u8
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c4059aa474fb686e0e34fb0e603fd647500aa6b1f8c9d47affdc038d58f1e709_trns_h264/playlist.m3u8
+Fri May 9 16:17:16 CST 2025
+Fri May 9 16:17:16 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9_iLAUSpcSMFhnhXZdkYyPqN0U-uObSrjMTMCmM1a_i46xEQnEiPXIm0Z7Vsn86vg_-yWw6vSUPy8gW3jXnCHsDmwzWYHguG84l7dWgpoaXEVJc-VDZf-r18MRsLT75d
+Fri May 9 16:18:50 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除alicelebel 
+删除iminako 

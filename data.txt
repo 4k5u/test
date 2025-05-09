@@ -1,4 +1,6 @@
-alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1c8e203e1e391ca78521b3b413e771ac71abddc9a5e1a9c23dcb8b0da628835b_trns_h264/playlist.m3u8
 taitehambelton   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0bf76ea7d3deda6d50706c8ee31c2ff62c0e55b85b90f6391c6b4277aecd79cd_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+mode_bad   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c4059aa474fb686e0e34fb0e603fd647500aa6b1f8c9d47affdc038d58f1e709_trns_h264/playlist.m3u8
+namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9_iLAUSpcSMFhnhXZdkYyPqN0U-uObSrjMTMCmM1a_i46xEQnEiPXIm0Z7Vsn86vg_-yWw6vSUPy8gW3jXnCHsDmwzWYHguG84l7dWgpoaXEVJc-VDZf-r18MRsLT75d
+Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
