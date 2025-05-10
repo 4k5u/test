@@ -7,3 +7,4 @@ Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-bbbfc5b3c46e2564b545f39b28cc4ea3b149b5ae06dee76697bc178eeb32f1fc_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5232d88d2f7e378dca4fc1dddd33720cc5e2fa5959dfdca4b344ffbc3900ac9f_trns_h264/playlist.m3u8
