@@ -191,3 +191,7 @@ Sat May 10 11:03:09 CST 2025
 Sat May 10 11:03:11 CST 2025
 Sat May 10 11:04:32 CST 2025
 删除oki_dokie 
+Sat May 10 11:18:08 CST 2025
+Sat May 10 11:18:10 CST 2025
+Sat May 10 11:19:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
