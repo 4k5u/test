@@ -372,3 +372,9 @@ Sun May 11 18:34:05 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.4AK9cyXw0uA7wky30Ht9s2Zi9XmSaMcI0bNhnNidYDQokOTdjphnSHUR01ImV3NUKpWNpBrWPpRlen3RxuaRhiDlTJCwwnnWNQmQPhqWC9kGniYlw6grmGVHwXtwqeUp
 Sun May 11 18:35:29 CST 2025
 删除oki_dokie 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-df711f83b73f7b68a4241c29ac6499c1904c26ef444eab44377b7a9c5129518b_trns_h264/playlist.m3u8
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c56e78c130422c993f3722623ced6748a3e8bf920817c48b7d7dd16d76489434_trns_h264/playlist.m3u8
+Sun May 11 18:48:12 CST 2025
+Sun May 11 18:48:24 CST 2025
+Sun May 11 18:49:41 CST 2025
+删除ad0res 
