@@ -457,3 +457,9 @@ Sun May 11 22:03:53 CST 2025
 删除alswl2208 
 删除muse62 
 删除lovable12 
+Sun May 11 22:16:59 CST 2025
+Sun May 11 22:17:29 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LvT4D5-JRNBTw8EeHf09Y1UicegQlzblSsoojObxt76ZXJDBF0VXIvv3OizoqG_LhBlH_XknB_wPc0C_cObHNCOa7X4W7U98dbSZQIE2w98HxuFnZorqDpvUZjZ6ObuN
+Sun May 11 22:18:56 CST 2025
+添加172----95----student https://edge-hls.doppiocdn.live/hls/162907341/master/162907341_auto.m3u8
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
