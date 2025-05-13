@@ -253,3 +253,9 @@ Tue May 13 16:02:50 CST 2025
 Tue May 13 16:04:09 CST 2025
 删除leelate 
 删除foxylovesyou 
+添加mode_bad https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-256d45839d1defb427735d3c25e6a79b361b4e38c5dce91f77aba22758ed5b8f_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 16:18:16 CST 2025
+Tue May 13 16:18:20 CST 2025
+Tue May 13 16:19:43 CST 2025
+删除foxylovesyou 
