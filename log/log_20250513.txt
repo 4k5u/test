@@ -279,3 +279,8 @@ Tue May 13 17:03:06 CST 2025
 Tue May 13 17:04:24 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除foxylovesyou 
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 17:17:56 CST 2025
+Tue May 13 17:18:01 CST 2025
+Tue May 13 17:19:29 CST 2025
+删除foxylovesyou 
