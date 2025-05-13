@@ -236,3 +236,9 @@ Tue May 13 15:19:10 CST 2025
 Tue May 13 15:19:15 CST 2025
 Tue May 13 15:20:42 CST 2025
 删除foxylovesyou 
+添加taitehambelton https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-20324e8546131f3c016a6c925ca5d7ce87ae839611db02a72d8053f92373672f_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 15:33:05 CST 2025
+Tue May 13 15:33:09 CST 2025
+Tue May 13 15:34:37 CST 2025
+删除foxylovesyou 
