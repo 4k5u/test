@@ -284,3 +284,9 @@ Tue May 13 17:17:56 CST 2025
 Tue May 13 17:18:01 CST 2025
 Tue May 13 17:19:29 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 17:33:02 CST 2025
+Tue May 13 17:33:06 CST 2025
+Tue May 13 17:34:35 CST 2025
+删除my_eyes_higher 
+删除foxylovesyou 
