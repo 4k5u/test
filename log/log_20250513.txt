@@ -310,3 +310,11 @@ Tue May 13 18:18:12 CST 2025
 Tue May 13 18:18:19 CST 2025
 Tue May 13 18:19:47 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 18:32:31 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OTU1OTM0Ny1BRTc1LTQ3QUEtOENENi02RTBEMUQ5QUIyQzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzEzMjM1MiwiZXhwIjoxNzQ3MTMyOTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.g1EJIp77gW3K_cV3-qT1Xh02huywr-j6SEhzbTGfjCAUP4_QTpEV-zAzfXBwlrlHAB8r7-xUL6otFl2H0nGazyWX3cu8tYPzfQdKPWcjY7Cq10zB1tWiGvjyLC05DnRG
+Tue May 13 18:32:41 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.IGfVfdkSo3_kOXO5EuWc8TJE-70U7IC3OZ04g8x_WXwK-L8iMEv4MHXrRWCu1SfM6m5vTySL75DM9OErpLQvva-Di6SuR_bAELOAANhlfk_fHjKx3UZ-RNEmbMjwKnhq
+Tue May 13 18:34:13 CST 2025
+删除oki_dokie 
+删除foxylovesyou 
