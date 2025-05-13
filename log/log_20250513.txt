@@ -339,3 +339,9 @@ Tue May 13 19:17:42 CST 2025
 Tue May 13 19:17:57 CST 2025
 Tue May 13 19:19:17 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 19:33:11 CST 2025
+Tue May 13 19:33:23 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.J4Ve84hQwOONkUhlqToSUwCpyePgFnUc4GVjBzno5kuDIlwvI8IEYmcszEUBwoc6jZngbl6oTtlNQzF8tujjrd8dgR1RjBb4Bew7BPfNNUkt8JvTWTvqp8wF0Sf-3Ika
+Tue May 13 19:34:49 CST 2025
+删除foxylovesyou 
