@@ -332,3 +332,10 @@ Tue May 13 19:03:25 CST 2025
 Tue May 13 19:04:48 CST 2025
 删除SanySenise 
 删除foxylovesyou 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c9cff4a2ea4990770a7150137d3ecc890103fb30a5e1ae9491ed42f2922440d3_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5105fc785713418932d39aaea84123a426c5d96c1776f6121290f675125e7d8_trns_h264/playlist.m3u8
+Tue May 13 19:17:42 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQjgxNkNGMi0zOTk5LTQ5QkYtODgyMi0xQzZDMEUyNjI2RDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzEzNTA2OCwiZXhwIjoxNzQ3MTM1NjY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lo6yNIrzAyFw_Y3g-PLTYwZhvbQGAuMaaQHCKeFg4sm7sF1rfJWurcGdFONnN2lYesQ3NYYHqcQMCOOnfy82G9KtceGHPIc3biWHbWYDzOCU1ywjvLz4QfP-bXqs7Bqs
+Tue May 13 19:17:57 CST 2025
+Tue May 13 19:19:17 CST 2025
+删除foxylovesyou 
