@@ -3,3 +3,4 @@ dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_p
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3b80939d0f9fc4855a906b69dc02afb60b2c3bb207bbc9ae9f48bf0b0e46cfa7_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+taitehambelton   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2819b7c14b62e3af23a95a4b696a851a7180ff27d130ddab1560c8306bf87fab_trns_h264/playlist.m3u8
