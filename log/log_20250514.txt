@@ -223,3 +223,11 @@ Wed May 14 13:49:07 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除Dolv_1o 
 删除oki_dokie 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-fa2d7c0cebc4dfa593c28c24857c687d3c667b3d141edbdd778caad88ccd8b08_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1aa9a308f0a6b335e4bd175cbb832277fa9c5b94f6815c3f03368763e0981acf_trns_h264/playlist.m3u8
+Wed May 14 14:03:05 CST 2025
+Wed May 14 14:03:05 CST 2025
+Wed May 14 14:04:34 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除Sime_Naughty 
+删除oki_dokie 
