@@ -342,3 +342,11 @@ Wed May 14 19:48:42 CST 2025
 删除4ocari 
 删除honey_pinkgreen 
 删除mikio_san 
+添加honey_pinkgreen https://edge5-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-45419b7c0fc0d359b888f9dabc7f14b047ed8743cab2b48f1b8468b9ec01e81d_trns_h264/playlist.m3u8
+Wed May 14 20:07:18 CST 2025
+Wed May 14 20:07:36 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LlBuEGc2npSvKOCqe7Dhu0oLUoujusqOpdkhJ0E6jNFquMnt1GF_NkIu4MIva6yc5-Inftot3xjvG9EUHerhsHeNht24Olmr5R8yV0-5ZfoR2G1aOtoe4b0VaZd-cibl
+Wed May 14 20:09:02 CST 2025
+删除my_eyes_higher 
+删除Asia-Lynn 
+删除honey_pinkgreen 
