@@ -236,3 +236,7 @@ Thu May 15 13:31:55 CST 2025
 Thu May 15 13:31:59 CST 2025
 Thu May 15 13:33:29 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-dd6fb1662fbfc5dc1eff0ef7d9278df2de1905f1d6879474d7cd5452bda70942_trns_h264/playlist.m3u8
+Thu May 15 13:47:35 CST 2025
+Thu May 15 13:47:39 CST 2025
+Thu May 15 13:49:03 CST 2025
