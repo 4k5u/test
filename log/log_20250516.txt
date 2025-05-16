@@ -344,3 +344,11 @@ Fri May 16 19:03:23 CST 2025
 Fri May 16 19:03:51 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.NN3u1I8hJkSuVdBQ20TkaxGLCul9Bff_h4YOiHiV1WYjiEnOl_fh5-H-ugsyw2cRJlzYqS1Ey8IzOdbnH-B3LyQDI1ElFxvXH5kWV42kR_CexbRwpId4H8HQQ0SqAIB1
 Fri May 16 19:05:15 CST 2025
+添加oki_dokie https://edge18-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-c15b46ae3126d723ef9cbe072c2c06a32e3e4f5d80af829754e4faf08330b758_trns_h264/playlist.m3u8
+Fri May 16 19:33:01 CST 2025
+Fri May 16 19:33:17 CST 2025
+Fri May 16 19:34:34 CST 2025
+删除honey_pinkgreen 
+删除iminako 
+删除namuh0926 
+删除akakak11112 
