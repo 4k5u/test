@@ -202,3 +202,7 @@ Fri May 16 11:46:47 CST 2025
 Fri May 16 11:46:49 CST 2025
 Fri May 16 11:48:22 CST 2025
 删除amilia4u 
+Fri May 16 12:02:59 CST 2025
+Fri May 16 12:03:01 CST 2025
+Fri May 16 12:04:24 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
