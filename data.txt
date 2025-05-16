@@ -7,3 +7,4 @@ leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_pla
 amilia4u   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-adb30a57e053cdfd92533529753873dfe6e57da5a7a3e8614881381bad50e065_trns_h264/playlist.m3u8
 foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-804995adecbb8efe91c78a3da1642989f85ce3bd6fd3b6dfccec04297ef1a646_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-81463d66858a6afdb3c47561ad618a9bf997140e1451166d6fc3ca61b0bba056_trns_h264/playlist.m3u8
