@@ -280,3 +280,8 @@ Fri May 16 16:01:58 CST 2025
 Fri May 16 16:02:07 CST 2025
 Fri May 16 16:03:30 CST 2025
 删除alicelebel 
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5477625ca7270926f725441a3647f69af192cb5a736a24773d970794845e77d6_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-647856958bd383f3080d6f303a3d04e90deaa99e768b61bbb0a5d66aa7885b1d_trns_h264/playlist.m3u8
+Fri May 16 16:16:55 CST 2025
+Fri May 16 16:17:03 CST 2025
+Fri May 16 16:18:25 CST 2025
