@@ -244,3 +244,8 @@ Fri May 16 14:17:34 CST 2025
 Fri May 16 14:17:42 CST 2025
 Fri May 16 14:19:04 CST 2025
 删除flowerwar 
+添加honey_pinkgreen https://edge6-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-5334b700441dc337e7d182367204ffbec1803e212faa47627507189074db82f0_trns_h264/playlist.m3u8
+Fri May 16 14:32:03 CST 2025
+Fri May 16 14:32:07 CST 2025
+Fri May 16 14:33:36 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
