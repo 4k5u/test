@@ -269,3 +269,9 @@ Fri May 16 15:34:10 CST 2025
 删除oki_dokie 
 删除leelate 
 删除amilia4u 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e1a64cdff43fe7a15fd6468743c6ea1bb110e0d6e3db5cf352137b853cb71e6b_trns_h264/playlist.m3u8
+Fri May 16 15:46:58 CST 2025
+添加akakak11112 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9EiVM6UX2k3z.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlFaVZNNlVYMmszeiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzN0M1QzdFOC1BRTgzLTQ0MUEtOEI5RS1ENjk2NTIzREYwNzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzM4MTYyMSwiZXhwIjoxNzQ3MzgyMjIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zlJ7LF_JMCMHTLKNNA2HUO2zMgpo9FKvYjZt-iA2wqgK7kc4nY8rMz3SC7Q4S4lXFVmwvDGRBiDgyHqxRh-zuXfgir9J-MWfEBgP69ExcxZYmQoUGLQuYAGJdUryS8G_
+Fri May 16 15:47:06 CST 2025
+Fri May 16 15:48:30 CST 2025
+添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
