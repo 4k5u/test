@@ -320,3 +320,10 @@ Sat May 17 18:17:01 CST 2025
 Sat May 17 18:17:09 CST 2025
 Sat May 17 18:18:37 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dbfe1265e678329249fcb4a04bdcbce9ef672ca97508baaef491e1bd7a3b94ee_trns_h264/playlist.m3u8
+Sat May 17 18:32:53 CST 2025
+Sat May 17 18:32:59 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.mql8ll_bxtHcYAlY_PnYMmMIbHLcNTA3RvwA7A9GiEn7hDr2ohVKTIQpsogJyocZiRtZ2Ir9orTpmo_9U_sbSBgRTB-ev5VYSfoGabCTu_CJNpEFJR1i2GhHfEVbszVg
+Sat May 17 18:34:34 CST 2025
+删除akakak11112 
+删除oki_dokie 
