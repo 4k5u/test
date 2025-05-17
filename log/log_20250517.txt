@@ -424,3 +424,10 @@ Sat May 17 23:04:39 CST 2025
 Sat May 17 23:17:41 CST 2025
 Sat May 17 23:18:00 CST 2025
 Sat May 17 23:19:07 CST 2025
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-9a52480d7934ee3c7185870d46d9796475135a09e00d401f4f776dfb087db6cd_trns_h264/playlist.m3u8
+Sat May 17 23:32:02 CST 2025
+Sat May 17 23:32:20 CST 2025
+Sat May 17 23:33:34 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除m0m099 
