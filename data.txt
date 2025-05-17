@@ -4,3 +4,4 @@ eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_maste
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.-dQUTn7EJCSjWZyfzAEDuKi5aHfkcWahZzuIEwkKZw3rD4Q37SBQrbpGaoaCa2l--OpgMwn4L4eKU8H-vlO3p480GA4kcv8SSh8K1ZMgpbtN9z3tuly0_JpPIc-jPx8Z
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
