@@ -188,3 +188,7 @@ Sat May 17 10:34:44 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除362540 
 删除_meganmeow_ 
+Sat May 17 10:47:00 CST 2025
+Sat May 17 10:47:02 CST 2025
+Sat May 17 10:48:24 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
