@@ -374,3 +374,8 @@ Sat May 17 20:32:39 CST 2025
 Sat May 17 20:32:47 CST 2025
 Sat May 17 20:33:52 CST 2025
 删除my_eyes_higher 
+Sat May 17 20:47:04 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQzYwRjc2Ny1BRTVGLTQ1QTgtQjM1Ri1GNEJDRkIwODZBRjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzQ4NjAyOSwiZXhwIjoxNzQ3NDg2NjI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6znVWKicwnbesA53RSacT-bDwv1ReLhUpKjG5PlXElbqvU9TDGvJxw7lkpq2mncTQqtvf-uNPqsnFN_vRU3AHI3pPHOKx50mY6wOP3m35uZiqV_Gwu7VjriALA4NLwih
+Sat May 17 20:47:16 CST 2025
+Sat May 17 20:48:30 CST 2025
+删除mode_bad 
