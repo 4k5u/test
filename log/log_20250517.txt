@@ -286,3 +286,7 @@ Sat May 17 16:02:42 CST 2025
 Sat May 17 16:04:11 CST 2025
 删除alicelebel 
 删除mikio_san 
+添加mode_bad https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-973a0dfb1dc1e5d56246c2ab81e06b02845ddcd7c93553afb70a60c8c567902c_trns_h264/playlist.m3u8
+Sat May 17 16:18:13 CST 2025
+Sat May 17 16:18:19 CST 2025
+Sat May 17 16:19:51 CST 2025
