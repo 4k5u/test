@@ -62,3 +62,8 @@ Sun May 18 03:04:56 CST 2025
 删除Asia-Lynn 
 删除ake_mi 
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cf8d0e06d78bcaa56d61c63c45107cfa79ee9931a4a95ae46d6f16b9f11958c1_trns_h264/playlist.m3u8
+Sun May 18 03:17:49 CST 2025
+Sun May 18 03:17:55 CST 2025
+Sun May 18 03:19:17 CST 2025
+删除oki_dokie 
