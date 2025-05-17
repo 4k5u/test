@@ -223,3 +223,10 @@ Sat May 17 12:46:59 CST 2025
 Sat May 17 12:47:01 CST 2025
 Sat May 17 12:48:25 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ecb6e4ae21a74849876f83d2792bd6810cf852965291f4dd8b508171e36e630_trns_h264/playlist.m3u8
+添加iminako https://edge12-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-fc4cbee60b4605ff06174ae668c5d69530bcde5fa10347574ce3caeecf36dfbd_trns_h264/playlist.m3u8
+Sat May 17 13:03:13 CST 2025
+Sat May 17 13:03:15 CST 2025
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8O7GU59fA6FFuGseOX4QNl9QR-RinDXIaa7uLxuMZKmSEALyrcKJwjinXOu5wIGirjbUiwjL6od0ZsQ11DHkQ2HeDSQMfnKCVJYLXaJP8SsyD0tznPyIcGBUzA5JIqEu
+Sat May 17 13:04:45 CST 2025
+删除dign1461 
