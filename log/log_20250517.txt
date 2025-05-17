@@ -257,3 +257,9 @@ Sat May 17 14:17:52 CST 2025
 Sat May 17 14:19:19 CST 2025
 删除mikio_san 
 删除oki_dokie 
+添加oki_dokie https://edge8-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-5ecb6e4ae21a74849876f83d2792bd6810cf852965291f4dd8b508171e36e630_trns_h264/playlist.m3u8
+Sat May 17 14:32:58 CST 2025
+Sat May 17 14:33:04 CST 2025
+Sat May 17 14:34:34 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除Sime_Naughty 
