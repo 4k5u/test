@@ -355,3 +355,8 @@ Sun May 18 20:20:14 CST 2025
 添加Asia-Lynn https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 删除oki_dokie 
 删除mode_bad 
+添加mode_bad https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8fe637ec74559a6e399d171ea2fce8bd4934baf5a6a609f6e89d2d090530e989_trns_h264/playlist.m3u8
+Sun May 18 20:32:35 CST 2025
+Sun May 18 20:32:59 CST 2025
+Sun May 18 20:34:15 CST 2025
+删除mode_bad 
