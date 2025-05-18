@@ -308,3 +308,9 @@ Sun May 18 19:02:46 CST 2025
 Sun May 18 19:02:58 CST 2025
 Sun May 18 19:04:24 CST 2025
 删除mode_bad 
+添加mode_bad https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8fe637ec74559a6e399d171ea2fce8bd4934baf5a6a609f6e89d2d090530e989_trns_h264/playlist.m3u8
+Sun May 18 19:18:00 CST 2025
+添加lovable12 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.soD2XOXJilyV.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NvRDJYT1hKaWx5ViIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NEVCRTM0NC1FMDFCLTRENTgtOTg0OC0wRjUwRTFBNTY4ODkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzU2NzA4NSwiZXhwIjoxNzQ3NTY3Njg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.C-WTsdcZqyX90JrusSEnP3172yGY8vZAlAW1SRqrCYweApNNOxNreQTxfPm0WOtmlsGMiyEP1xFubIY0r3vLwCVssvA1HxRVajFiyY32W62gWn4eEjkyJ9sZml1qCsIZ
+Sun May 18 19:18:16 CST 2025
+Sun May 18 19:19:40 CST 2025
+删除mode_bad 
