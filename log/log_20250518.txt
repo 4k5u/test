@@ -425,3 +425,7 @@ Sun May 18 23:31:58 CST 2025
 Sun May 18 23:32:20 CST 2025
 Sun May 18 23:33:45 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加honey_pinkgreen https://edge6-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-481a78219ebc984c8e521844cdd4de42e757f48c7418fdfb263731e74d99e47d_trns_h264/playlist.m3u8
+Sun May 18 23:46:55 CST 2025
+Sun May 18 23:47:15 CST 2025
+Sun May 18 23:48:39 CST 2025
