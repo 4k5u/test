@@ -267,3 +267,9 @@ Mon May 19 15:46:55 CST 2025
 Mon May 19 15:47:01 CST 2025
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.xYHALJ66ect9_e0TrMvGkDP9XwU6r9ve2NVeHA05BmQ4nJBamIv6O5pT1hDNVw73q8M9kP4uBhem1qPPMyUH45xSNsjkPzv1b1oslZJu4BXOtGasfp8Pj7Q3CFp_-Wq2
 Mon May 19 15:48:40 CST 2025
+Mon May 19 16:18:17 CST 2025
+Mon May 19 16:18:23 CST 2025
+Mon May 19 16:19:51 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除alicelebel 
+删除my_eyes_higher 
