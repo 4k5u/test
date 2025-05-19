@@ -340,3 +340,10 @@ Mon May 19 19:43:50 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除Angel-Bei-bei 
 删除mode_bad 
+添加mode_bad https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cc72c0af1f988d91280647eba75c277c3ba10ed29a5a4404b9ebc9a7a58b18a6_trns_h264/playlist.m3u8
+Mon May 19 20:02:50 CST 2025
+添加yasexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.TNC1QhBOVKzm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ROQzFRaEJPVkt6bSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRTM0NzVBQy1BOUYxLTQzOEQtODJCNi1FNTk1RTVGRUU0N0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0NzY1NjE3NiwiZXhwIjoxNzQ3NjU2Nzc2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8AUIawumV_K_dUmE4t6Zim1qg1XApBnlkC7zkYVhVgnbn-KeJ9UIZY5BOYJZJ4PL2cuYxtSCDJdsa_0a-e4f7KdBIDok3ywGjtknm001_XYudmf1-MNXFdIwJ9sMXSH6
+Mon May 19 20:03:11 CST 2025
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Txi2k3JBgR0ebYUNkmNWD7-6PmEaUGVG4TW-K8fcGjN-2dxspvcLZ2dYIUP6Vt0dNeydgPPNnNQufZZKlM64m55K7evPttfHx_H0QiFpNRpwDn0SWzFFOupL45pAh3ys
+Mon May 19 20:04:34 CST 2025
+删除mode_bad 
