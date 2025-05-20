@@ -111,3 +111,7 @@ Wed May 21 07:02:02 CST 2025
 Wed May 21 07:03:32 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除flowerwar 
+添加sexygamesx https://edge8-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9a6ab0a45e848278bf2a54f792d96571b01a40e2a7993704d614c04ace10fe31_trns_h264/playlist.m3u8
+Wed May 21 07:18:05 CST 2025
+Wed May 21 07:18:07 CST 2025
+Wed May 21 07:19:29 CST 2025
