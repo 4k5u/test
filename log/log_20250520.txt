@@ -246,3 +246,9 @@ Tue May 20 17:17:02 CST 2025
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.o_oCqZxtxHAaMQV6SPQ_1rhiMKp-NIa9i_AT_T0H2OMeyAl6MB_NQxSL4QjkaWa52vGTKlEuRdO8dXKeBfKrC-sc2EpDL3TxM3fueLv6WZ-UL_AfQva4ZyI1_63RnoPT
 Tue May 20 17:18:37 CST 2025
 删除lovemeimscared 
+添加taitehambelton https://edge8-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-4744387699c9a07c3e1d84204e1bd2340992a52de1e932d04349485fc14fe065_trns_h264/playlist.m3u8
+Tue May 20 17:47:51 CST 2025
+Tue May 20 17:47:56 CST 2025
+Tue May 20 17:49:24 CST 2025
+删除SanySenise 
+删除foxylovesyou 
