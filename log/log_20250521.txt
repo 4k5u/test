@@ -27,3 +27,9 @@ Wed May 21 01:31:58 CST 2025
 Wed May 21 01:32:08 CST 2025
 Wed May 21 01:33:24 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Wed May 21 01:46:55 CST 2025
+Wed May 21 01:47:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jW_ZlVAfv4_J3gihaCFhr2gCgtUWm40oRRZr7y4Fzi8iJPmGgtW_vHTtUv5qMz0wBzlIgeybaByz0ACM_rrzysJsTB2YP87tQOr4QKiWNW_z-9cg0U-2fpKtR5uiRjLz
+Wed May 21 01:48:25 CST 2025
+删除glglehddl 
+删除yourare 
