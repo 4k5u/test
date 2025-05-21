@@ -5,3 +5,4 @@ mazzanti_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e8dbc1
 sexygamesx   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-9c64528f5d05c0e664247fad877dd7dfba151ede7edd2bf02583952f49d3243a_trns_h264/playlist.m3u8
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.AL5CZiWPh7O1QA_dl8h8eaeqyZlg1MEkLNLDzlXa_4FnVIkHyFbdsiFkMKmt8Mk90_0_yyBbWGbnWFitaifDlLuuksTI4GUKkzCuUD8wlVNPLR0QRmKfSXaAA63yNHAU
 oki_dokie   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-42d7f9a0911b336349127e2c606720465aecc617a35d4855f34e1f2ac95899c7_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
