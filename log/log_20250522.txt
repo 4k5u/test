@@ -40,3 +40,11 @@ Thu May 22 01:46:53 CST 2025
 Thu May 22 01:47:03 CST 2025
 Thu May 22 01:48:22 CST 2025
 删除nobleinc 
+Thu May 22 02:02:18 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQ0VEMThBQi1CRkQ5LTQwQjctQTEwQi1ENjRFNkJCNDAxQjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Nzg1MDU0NCwiZXhwIjoxNzQ3ODUxMTQ0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.i2sgwTl95eo5yIXcfI5dfKwFIvEi5023mvjEjIp1_2f7Cn7Xz1dgQ2pc5FYJ5QEzrTILIk6QuMklELYPWvC-thkafBarkoBt7bpxJ-OL9x3i8QOQQmibu-3wOh20Z22g
+Thu May 22 02:02:31 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ESwUVDmYERJk-X3dZkpk-Y-Pp5kNik7-mTRm684PNfmzkILQLru-9-XpWQgUaiRd9272eNjKx6cB-qKsnFfVQBQV0Fb2tXxUE995jPAbi5pm1prWEg3VaV2QRjHDJpWP
+Thu May 22 02:03:54 CST 2025
+删除dign1461 
+删除day59day 
+删除mikio_san 
