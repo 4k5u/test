@@ -8,3 +8,11 @@ Fri May 23 00:16:59 CST 2025
 Fri May 23 00:17:25 CST 2025
 Fri May 23 00:18:42 CST 2025
 删除rud9281 
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cabeb681147e94f1be20bbf91cd33e140ad8d79a952a45b07a58ae71785ddfe4_trns_h264/playlist.m3u8
+Fri May 23 00:31:56 CST 2025
+Fri May 23 00:32:22 CST 2025
+Fri May 23 00:33:40 CST 2025
+删除green10004 
+删除362540 
+删除naras2 
+删除mikio_san 
