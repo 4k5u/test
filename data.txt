@@ -14,3 +14,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cabeb681147e94f1be20bbf91cd33e140ad8d79a952a45b07a58ae71785ddfe4_trns_h264/playlist.m3u8
 Tmdgus5411   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uF5kE2tW03shfVZ01iHW_KJBrTcSLAjT_W2I1qSRzM7GlJd_GjQqcFbujtFEBuCxlyILXVmL20zyBkijwFT2Nb-mRcvZjFWTBIX5-VbqSaBFpb7x8oTGJ6L1iygypHxw
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
