@@ -201,3 +201,8 @@ Thu May 22 11:48:28 CST 2025
 Thu May 22 12:01:58 CST 2025
 Thu May 22 12:02:00 CST 2025
 Thu May 22 12:03:28 CST 2025
+添加oki_dokie https://edge2-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-92b87d8fc1ce4d201d7c5de74463abff60075bc7fb12625d617f129662344967_trns_h264/playlist.m3u8
+Thu May 22 12:17:49 CST 2025
+Thu May 22 12:17:49 CST 2025
+Thu May 22 12:19:17 CST 2025
+删除nobleinc 
