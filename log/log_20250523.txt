@@ -302,3 +302,10 @@ Fri May 23 18:17:01 CST 2025
 Fri May 23 18:17:08 CST 2025
 Fri May 23 18:18:28 CST 2025
 删除hyuna0721 
+Fri May 23 18:33:12 CST 2025
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KMLbAVmLZGOm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tNTGJBVm1MWkdPbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3M0IzRTJCNi1GOUQwLTQ3MjUtOUYwRC0yMjUxQzJDNTZBNTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0Nzk5NjM5OSwiZXhwIjoxNzQ3OTk2OTk5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cvdVjO2yNKsDHRkGnABtCaAd668xfBohESuzOo5pYGfbIHbfuAfcMaUaeaqyWLzUpOgX7d2176bymiCrIBZaNEaVcyLs4peRIhpxvjaheQm1wr4vx2oLx0FiS2M5Mwlv
+Fri May 23 18:33:22 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.oKXXSBYv8IPHYFl-G3rYE5b0FAiPBYoBsIKvzWSC-wZqSGcnGI0R49t0yVqIYTZHd7Uan90-HLmpAGyzGgB-O-ttyBShibKWvtdt3o9c5D5Zf4RFaDJ16M65H7E-xg9L
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.uGIOjNIlk7wxgQnRLBZT_DKNdu6_H-ERe6qSjUHwd9PLUYKs3K2Gj_Y7yjipLoNxZxNVQGm32W2BATQhbuoB_bWYFlw7-mKxsQhskD6pRSfl61F-O4Ggi9lR_XzATMn6
+Fri May 23 18:34:52 CST 2025
+删除oki_dokie 
