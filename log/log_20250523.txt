@@ -270,3 +270,9 @@ Fri May 23 16:18:24 CST 2025
 Fri May 23 16:31:54 CST 2025
 Fri May 23 16:31:58 CST 2025
 Fri May 23 16:33:24 CST 2025
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-2cb66e7d5d5ed106566b9baf2e1600207b5652b8fcac9b8189e603ed460187ac_trns_h264/playlist.m3u8
+Fri May 23 16:47:56 CST 2025
+Fri May 23 16:48:00 CST 2025
+Fri May 23 16:49:23 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除taitehambelton 
