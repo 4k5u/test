@@ -78,3 +78,10 @@ Sat May 24 03:33:31 CST 2025
 删除tess00 
 删除howru010 
 删除oki_dokie 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-e350c6ea18311da8a2c2c7bd3a4df7deacf82ea74db09776385f7863bd76a249_trns_h264/playlist.m3u8
+Sat May 24 03:47:58 CST 2025
+Sat May 24 03:48:06 CST 2025
+Sat May 24 03:49:31 CST 2025
+删除rud9281 
+删除moem9e9 
+删除oki_dokie 
