@@ -5,3 +5,4 @@ sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.TRGuaM_E9qJ5OqnJ_DzxVtgrHT7RQzMmkt-tlMUmpI-2MxqKgldf8nTotIpJ3u_Ytrd5T68hN858FVDjggmA4hDuJuzOWxWzcTAH2AAZjYvBLxHKFb2oI4ZF0OGKsSgp
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.32n9rAJrhsVW2Vn-KZFFV7PWgNJVp3N5PJcXWn8wWAhaGycMdIlmoI8Y9zsECPPBQWm86_bqd6cNDR2VNlw-ggzT46vZX70-qj8pysAqs2zu9fDkxna-I_Cgh_29FNGw
+oki_dokie   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-86b8cc5f67bd35c5ec14b9f91b7e2dfd8826df309d857052132d36eb4d4ff772_trns_h264/playlist.m3u8
