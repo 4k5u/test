@@ -295,3 +295,9 @@ Sat May 24 17:04:33 CST 2025
 Sat May 24 17:16:55 CST 2025
 Sat May 24 17:17:03 CST 2025
 Sat May 24 17:18:27 CST 2025
+Sat May 24 17:32:46 CST 2025
+Sat May 24 17:32:55 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.i1uAVIp_gLqHSrkdTs2heOLFjYzhjZ_dkqax525KbjkiC5PoRQ3UvVALBp0RXT7byobmRnIZrnJtepI1V-nWA8iQoZzSw6Q5HUfuch1da0--JiTi-1fRdBH7S9buQGGu
+Sat May 24 17:34:24 CST 2025
+删除oki_dokie 
+删除ad0res 
