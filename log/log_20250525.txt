@@ -89,3 +89,7 @@ Sun May 25 06:32:38 CST 2025
 Sun May 25 06:34:06 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除rico0210 
+添加mazzanti_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d2c70cc9b56c4fa94d21cde738454e49d87de32efab8ac25a0a251e87864ed4b_trns_h264/playlist.m3u8
+Sun May 25 06:47:35 CST 2025
+Sun May 25 06:47:37 CST 2025
+Sun May 25 06:49:07 CST 2025
