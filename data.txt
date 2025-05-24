@@ -5,5 +5,4 @@ gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_p
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d001fba69435e18f122eb97b5604f6402485d64379cd24cf1510019f27cdf8c7_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 oki_dokie   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-cab88cf3a5b22c0de16c54dff1864d4342c937205e4625bfedc85017423ca0cf_trns_h264/playlist.m3u8
-IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.9Jf2NcGltGUxsMnfuH3u7TIlAMIW-Sy5xcUZcw9WsH4qYRaRIqAEaGC6AItWlKakBfUOpRWer19kTRWHum3IIVg7RNDhlpR39oqydgwE3hPX18gIyD6QdmcTYkGJZsjW
