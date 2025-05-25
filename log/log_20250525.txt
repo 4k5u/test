@@ -429,3 +429,10 @@ Sun May 25 22:04:39 CST 2025
 删除alswl2208 
 删除imanatural 
 删除oki_dokie 
+添加oki_dokie https://edge4-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0e1aae04c8211330785bb8b57d67255957fd4b52655d63d4eeccac1f5c1e2c85_trns_h264/playlist.m3u8
+Sun May 25 22:17:38 CST 2025
+Sun May 25 22:18:15 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.WFjbLO4cbTk1-7mVltR8qJVd-jXTvEwh3Osna-PGwNGwXpSYEdsJDdO5MwAJYtSgszI5g-3o7oDRrCwHaIbRrWVV61O9jzS75g0fqBWup66rfLs_0670R2blT6ydwBPu
+Sun May 25 22:19:36 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除oki_dokie 
