@@ -54,3 +54,8 @@ Mon May 26 03:02:31 CST 2025
 Mon May 26 03:02:37 CST 2025
 Mon May 26 03:04:08 CST 2025
 删除cecilia0903 
+Mon May 26 03:16:52 CST 2025
+Mon May 26 03:16:55 CST 2025
+Mon May 26 03:18:26 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除howru010 
