@@ -344,3 +344,11 @@ Sun May 25 19:16:59 CST 2025
 Sun May 25 19:17:11 CST 2025
 Sun May 25 19:18:36 CST 2025
 删除mode_bad 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a70358cefd76d9bb72274aab2993dea81dde11cd55391448f18bc5f5a57803b6_trns_h264/playlist.m3u8
+添加mode_bad https://edge18-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c8eb6b77db0f3ab3bf60cee03fa852b12960d93d875c7449dcd5f9450ad4fc47_trns_h264/playlist.m3u8
+Sun May 25 19:32:04 CST 2025
+添加nyangnyang1004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JnTRNNuZzkeo.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0puVFJOTnVaemtlbyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MjQxQUU4MS01MzAzLTREQjgtQUY5MC00QTZENUZCRkFGMTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODE3MjcyNywiZXhwIjoxNzQ4MTczMzI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JA6WUqcSp2z5NP8oqdL9ohHFj3chpYXRQy16fctVL2ffwE_5mHqRKmhmELatvl7KEs5fPY5zD_B22qtUaOLzTUF2tPpAxpx51--dc2hR6Mm6w8tjO2YzJjP5GnYPKvuv
+Sun May 25 19:32:20 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.6IRCi_FVgM0qU_rldydoicf_igaPsI3s04dlq9PEtW8DuGFxiplLI9uVcMMwMPxKv8UJIwPv6BvNYpVH0-EO1JvbrD9gNITNaf3WfIe6H6qpmifZvR6KLq8pMUkPKH8-
+Sun May 25 19:33:48 CST 2025
+删除mode_bad 
