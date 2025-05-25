@@ -216,3 +216,9 @@ Sun May 25 14:07:21 CST 2025
 Sun May 25 14:08:39 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除oki_dokie 
+添加oki_dokie https://edge3-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-a2f8e0806a9d2933f389768410192fc24a1ffc121e34fb1b3ae1d99e524e8a20_trns_h264/playlist.m3u8
+Sun May 25 14:17:48 CST 2025
+Sun May 25 14:17:53 CST 2025
+Sun May 25 14:19:12 CST 2025
+删除Sime_Naughty 
+删除oki_dokie 
