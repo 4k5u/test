@@ -436,3 +436,8 @@ Sun May 25 22:18:15 CST 2025
 Sun May 25 22:19:36 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除oki_dokie 
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-0e1aae04c8211330785bb8b57d67255957fd4b52655d63d4eeccac1f5c1e2c85_trns_h264/playlist.m3u8
+Sun May 25 22:32:45 CST 2025
+Sun May 25 22:33:22 CST 2025
+Sun May 25 22:34:35 CST 2025
+删除oki_dokie 
