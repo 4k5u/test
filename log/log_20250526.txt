@@ -420,3 +420,12 @@ Mon May 26 23:33:46 CST 2025
 删除lovable12 
 删除yourare 
 删除ake_mi 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-82ea155723ae00785091146b96cd01e0f429c80203cb8472b2a1b53479933e55_trns_h264/playlist.m3u8
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f5c680a54ef4d446eeaadfb2b30eab6edb2407f92656597095bb0a86c7ae6aac_trns_h264/playlist.m3u8
+Mon May 26 23:47:02 CST 2025
+Mon May 26 23:47:24 CST 2025
+Mon May 26 23:48:45 CST 2025
+删除ohhanna 
+删除redholic377 
+删除oki_dokie 
+删除ake_mi 
