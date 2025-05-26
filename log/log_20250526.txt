@@ -405,3 +405,10 @@ Mon May 26 23:03:46 CST 2025
 删除hyuna0721 
 删除oki_dokie 
 删除ake_mi 
+添加oki_dokie https://edge12-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1ed44607e44bda182e746dbafe22fe2ca0a2f4ac112e8699137224ce3e47f313_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f5c680a54ef4d446eeaadfb2b30eab6edb2407f92656597095bb0a86c7ae6aac_trns_h264/playlist.m3u8
+Mon May 26 23:17:02 CST 2025
+Mon May 26 23:17:34 CST 2025
+Mon May 26 23:18:52 CST 2025
+删除oki_dokie 
+删除ake_mi 
