@@ -393,3 +393,15 @@ Mon May 26 22:34:57 CST 2025
 删除lolsos 
 删除oki_dokie 
 删除ake_mi 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-1ed44607e44bda182e746dbafe22fe2ca0a2f4ac112e8699137224ce3e47f313_trns_h264/playlist.m3u8
+添加ake_mi https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f5c680a54ef4d446eeaadfb2b30eab6edb2407f92656597095bb0a86c7ae6aac_trns_h264/playlist.m3u8
+Mon May 26 23:01:59 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3Mzg2NzZCMi01RkY4LTQ1MUEtQkVEQi0zRDNEQTIxRkExMjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODI3MTc0MSwiZXhwIjoxNzQ4MjcyMzQxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4UVoENVW7w8Uk3Ju6kUGiN6-ZiDaDsb5BdtY3AEoH_RE-rynF_o6E9Ep7FBi8MKiFtbzrJT3T2srfFPufwLHcckOLC6cb1USzy7TUzYfcaphk9Lv4IugdSlmO_fcE76d
+Mon May 26 23:02:34 CST 2025
+Mon May 26 23:03:46 CST 2025
+删除hanny27 
+删除kkkku96 
+删除bongbong486 
+删除hyuna0721 
+删除oki_dokie 
+删除ake_mi 
