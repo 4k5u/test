@@ -15,3 +15,10 @@ Tue May 27 00:39:42 CST 2025
 删除Ryo-sama 
 删除oki_dokie 
 删除ake_mi 
+添加oki_dokie https://edge14-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-82ea155723ae00785091146b96cd01e0f429c80203cb8472b2a1b53479933e55_trns_h264/playlist.m3u8
+添加ake_mi https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f5c680a54ef4d446eeaadfb2b30eab6edb2407f92656597095bb0a86c7ae6aac_trns_h264/playlist.m3u8
+Tue May 27 00:46:58 CST 2025
+Tue May 27 00:47:17 CST 2025
+Tue May 27 00:48:35 CST 2025
+删除oki_dokie 
+删除ake_mi 
