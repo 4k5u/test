@@ -232,3 +232,10 @@ Mon May 26 15:33:48 CST 2025
 Mon May 26 15:47:54 CST 2025
 Mon May 26 15:48:00 CST 2025
 Mon May 26 15:49:18 CST 2025
+添加oki_dokie https://edge5-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-7890dc810cb9d0918f0c46949503711d5c508e1d21b0cfd501617c92e873789a_trns_h264/playlist.m3u8
+Mon May 26 16:32:03 CST 2025
+Mon May 26 16:32:09 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.e1DNqs8Dhwa6BaujWPZ7p0HHAu0muvLPs1esOVKSQqRA3j3hQRjRDQltYSBz_n5Nm_nGlQp3C3TfnDPXtHrSVLFrkXlWN8uyvvkgbiOZPQMcdOjCFJ28rEmNSvlXAB2y
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.bUE_O_F7pxRmBD6pdlSQ9HFuk8O1jOAoAcFWaPVIJK692a6V6Kv79HA4ytggl8MDx6Co2Nr9JFf5JqGCp0CcCZXx3xN7jhj1Hc33VI8E_V0iefcaj6V2n6qNJcgEMeDw
+Mon May 26 16:33:34 CST 2025
+删除ee5844 
