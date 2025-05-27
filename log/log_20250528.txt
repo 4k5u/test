@@ -145,3 +145,8 @@ Wed May 28 07:03:32 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Ryo-sama 
 删除_meganmeow_ 
+添加_meganmeow_ https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f09f72d2972d3fdad9289c72ecd2cf46da0d1c809f2f7d0f817122a133e4e468_trns_h264/playlist.m3u8
+Wed May 28 07:17:46 CST 2025
+Wed May 28 07:17:48 CST 2025
+Wed May 28 07:19:17 CST 2025
+删除_meganmeow_ 
