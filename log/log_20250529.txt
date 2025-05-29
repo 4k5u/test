@@ -338,3 +338,9 @@ Thu May 29 22:20:29 CST 2025
 Thu May 29 22:21:01 CST 2025
 Thu May 29 22:22:12 CST 2025
 删除ake_mi 
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2f13946972c3b4aaec4386da6a4b97644a050d378b30df9631819580e72a5a2b_trns_h264/playlist.m3u8
+Thu May 29 22:32:02 CST 2025
+Thu May 29 22:32:32 CST 2025
+Thu May 29 22:33:42 CST 2025
+删除oki_dokie 
+删除ake_mi 
