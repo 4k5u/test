@@ -208,3 +208,8 @@ Thu May 29 15:02:33 CST 2025
 Thu May 29 15:02:37 CST 2025
 添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.eqsXEv2_QifKx33Kad7Z2heRG1xJVwqKvP1QtLBGDEXN1DlFhJWvM57nFQxPwX5BdMM-nCs3hZcu8RkwbI6EE_9ypN53atXpk87tm5ez2T60V6I64c2GMDp-wIxifzT0
 Thu May 29 15:04:15 CST 2025
+Thu May 29 15:32:41 CST 2025
+添加ee5844 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.BATRWzSE2Nrb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0JBVFJXelNFMk5yYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMURCMDgwRS00OTUxLTQ3QkUtQkVDOC03ODc1RkUxQjAyMTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODUwMzk2NiwiZXhwIjoxNzQ4NTA0NTY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rLoQVj9dmB0K569cpr7S9cBKCDig4K1Q-iI5PBug4pNSiv0NZT-XWVFQb-rypFU6-Vmkz462CFjaxyZwU1dIfaP0CBiOgbAja2ubCJ9qu5T1GSFxr15_gqt_ckmiPgyT
+Thu May 29 15:32:49 CST 2025
+Thu May 29 15:34:13 CST 2025
+删除Tmdgus5411 
