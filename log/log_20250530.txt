@@ -271,3 +271,11 @@ Fri May 30 18:02:17 CST 2025
 添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.dqom32RSgwyWM5poc5NXnBDRQg1Cgx8k2a2EziEmP4L46XlZd_3Qh5j2QCRH4HNY4OAwF_roEu0pOJNIbNaA5jTcQBw9spIOHsr9-BEXaFRr87oH3g2NZSYSkIK7TFzE
 Fri May 30 18:03:52 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge2-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5dec09e5f4c8ff8a274e65c38770d0c898227385c557f943f21884d9b3f3f9a2_trns_h264/playlist.m3u8
+添加oki_dokie https://edge7-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-390eb489facbc7b56f591ecd69824fddba448fcc6e2a368f9b2f2019da78ae1e_trns_h264/playlist.m3u8
+Fri May 30 18:17:02 CST 2025
+Fri May 30 18:17:12 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.w8zKKnZJckp5O_F4sMH_2bSF-9QzncyS8pSozIk8rrs-U2C1k5mhDwlPwXzZlqmddbWWBNCoyxQY6czMits6vaFN_pu623MGvIv4eo_7lFlS4D9UjmSGPgReGHaGDXZn
+Fri May 30 18:18:43 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除taitehambelton 
