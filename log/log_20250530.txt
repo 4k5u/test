@@ -302,3 +302,9 @@ Fri May 30 19:32:01 CST 2025
 Fri May 30 19:32:21 CST 2025
 Fri May 30 19:33:41 CST 2025
 删除mikio_san 
+Fri May 30 19:48:07 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERUM4OEVFMy02ODhFLTQ4MjktODAzNi1DRUI3QTU0NUFFOUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODYwNTY5MiwiZXhwIjoxNzQ4NjA2MjkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9st1Y_YKWJj3G_qzKsh_S1MxX_OgbGVHaNgQDuZTx4mlU8G48rTfBsbHKm_4mbgzTyydZ9pKMbtP4ufnnme0Yt9YNE4oF4aIFU11kt5oRI4nvMn22rFlfuT28HmV-p3m
+Fri May 30 19:48:25 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.ye8K4j477LDRahHUBIv2b8v2wkGOLUCaw54rFp5VKqbm7Ht4iY5ouz2vl1mHptq_Zk3NwhP_0CLx6DSEZRWOTwoG-9Bb6Z9iuLr1j6Y7eMHCibCibv1t2e3ggQwU6IIx
+Fri May 30 19:49:49 CST 2025
+删除4ocari 
