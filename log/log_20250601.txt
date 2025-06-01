@@ -356,3 +356,8 @@ Sun Jun 1 21:18:45 CST 2025
 添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.LHk69c609wk0Uo019M-y3I_S0znZIg_OTs3yxN5RpdbSB3QI80fBRZ1UwGc8nEuKbVkCEXUo8OWt4PUjLe1RFF2YrX5OkKRhJJxSprUsca0VvQTFJJwtlQcujjFdnTup
 添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.5p5N4_lxIZR35v46O_4UziQyZTOdT6m3ha7rbGz5WWEL7BG-yuzVKkzvTIMSI5Rzi1DecArhx3KyJb6O5yUH5NkD28MLD83zjj896ILFnASWRtkB0NfF61A2KXjEFymy
 Sun Jun 1 21:20:01 CST 2025
+Sun Jun 1 21:32:04 CST 2025
+Sun Jun 1 21:32:38 CST 2025
+Sun Jun 1 21:33:37 CST 2025
+删除nobleinc 
+删除kkkku96 
