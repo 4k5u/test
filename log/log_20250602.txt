@@ -54,3 +54,9 @@ Mon Jun 2 02:22:08 CST 2025
 删除eunyoung1238 
 删除cecilia0903 
 删除oki_dokie 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-2dd539991463233998630353d5d08472256df05984ec0b0e37fa732a695de46a_trns_h264/playlist.m3u8
+Mon Jun 2 02:31:57 CST 2025
+Mon Jun 2 02:32:01 CST 2025
+Mon Jun 2 02:33:26 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除oki_dokie 
