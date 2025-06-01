@@ -5,3 +5,4 @@ IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.
 eunyoung1238   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.yKGAxiNQn7WEI-VquoRG4GI0QqJ7HYYJ8TzJ25qm56w9K2hzC2sUuHl9adzz0CXG7EUCHlo0Gai-4oqZD9jvir45UG32R6GZFtxRnLUSU0nM8gPTHHSbFo9Hk6hWtL4h
 leelate   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.A7RIJ3VIjM5397yJLDX3vMDcvEByWCrogq76My6g9bmf50zUVhioUiQKNK82j3wipBLLB4EhmT5oq6-_hE0abINIK6sIi5ZW8NHyytY-1rB4_-RxMT4JB6KFDt5QExn1
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
