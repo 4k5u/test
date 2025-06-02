@@ -23,3 +23,4 @@ cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_aut
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 Asia-Lynn   https://edge-hls.doppiocdn.live/hls/98877537/master/98877537_auto.m3u8
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+oki_dokie   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-abbd009d22c949a9c493048d255ee22a953544b1d15cd68f49b11b329074f61f_trns_h264/playlist.m3u8
