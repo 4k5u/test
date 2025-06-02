@@ -210,3 +210,8 @@ Mon Jun 2 10:03:30 CST 2025
 删除Sime_Naughty 
 删除IdaJonesy 
 删除_meganmeow_ 
+添加oki_dokie https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-ec011fb54382d6f7eb5002a816bc2d1183b13eb24783ec36d1e3b514c404ed12_trns_h264/playlist.m3u8
+Mon Jun 2 10:26:50 CST 2025
+Mon Jun 2 10:26:51 CST 2025
+Mon Jun 2 10:28:12 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
