@@ -66,3 +66,8 @@ Tue Jun 3 03:17:03 CST 2025
 Tue Jun 3 03:18:30 CST 2025
 删除nobleinc 
 删除leelate 
+Tue Jun 3 03:31:58 CST 2025
+Tue Jun 3 03:32:04 CST 2025
+Tue Jun 3 03:33:30 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除jinricp 
