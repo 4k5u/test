@@ -4,3 +4,4 @@ IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 oki_dokie   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-b116b242c1e6f136c758a2a0fac0a8e69a7b52d44772c5be11531b6896be0ef7_trns_h264/playlist.m3u8
+iminako   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-043400610490d6187faa8416da84bf04332dddd3c45860f2884ab22566395653_trns_h264/playlist.m3u8
