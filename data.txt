@@ -3,3 +3,4 @@ sexygamesx   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-75365
 mazzanti_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-37f9b4b97ee30d622362e6eb4db018b704178a4251de1e675787d61ab485b5e9_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+oki_dokie   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-3f61663fe8cc36287ebf0eebe925821a1eeaff0c7d947363f361648d0bf7a8b4_trns_h264/playlist.m3u8
