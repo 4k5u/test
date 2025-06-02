@@ -266,3 +266,10 @@ Mon Jun 2 15:03:03 CST 2025
 Mon Jun 2 15:03:11 CST 2025
 添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YpeWRRv-C3hSreus8mTbtcGc914zu7OgeIgt4Q-SrezwuhfqgJ44XO69Nmmz04A2P3UmJ7vIiuQDNsdy92T0HnmX38t4jS7HeSBm4JIIZ4icKLjp3kPP5LILttcp2bng
 Mon Jun 2 15:04:45 CST 2025
+Mon Jun 2 15:17:52 CST 2025
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQzU0NTM3RS03QTRELTQ4RUMtQjk3OS05RTEyRUQ5QzU5MjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0ODg0ODY3NSwiZXhwIjoxNzQ4ODQ5Mjc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7J_Dt81t6YTJ1BCh1dm6yoQNFZBD2HgoIG9EyJU1XHiSg4E5vOMahiF2yhanKPacqUfUOhOtV4fdb73agLQQCqySV9RuLXbmoOXiOtYy-tiWKTmrF2oxrI8iS444t-Y6
+Mon Jun 2 15:17:59 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.7k8G5_876lGvmriWm3XcWCj8jBCfXxB6OB0uXuoB0I_hdA7R2QipcDXAQBR8IkZjCk586l24N-lhx98DHUpZ1nTmCOSbdRq0i0Y8lYV62hly8z_-Sx6-ZkNkNgex8liQ
+Mon Jun 2 15:19:29 CST 2025
+删除oki_dokie 
+删除jinricp 
