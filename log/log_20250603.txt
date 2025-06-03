@@ -145,3 +145,9 @@ Tue Jun 3 07:46:57 CST 2025
 Tue Jun 3 07:47:01 CST 2025
 Tue Jun 3 07:48:32 CST 2025
 删除oki_dokie 
+添加oki_dokie https://edge9-nrt.live.mmcdn.com/live-hls/amlst:oki_dokie-sd-93026e27347184f058778714d233bd9d9605f3d0ef8f7862e123c3eff2afe011_trns_h264/playlist.m3u8
+Tue Jun 3 08:16:57 CST 2025
+Tue Jun 3 08:17:01 CST 2025
+Tue Jun 3 08:18:31 CST 2025
+删除mikio_san 
+删除oki_dokie 
