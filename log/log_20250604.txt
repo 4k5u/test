@@ -228,3 +228,7 @@ Wed Jun 4 15:32:02 CST 2025
 Wed Jun 4 15:32:08 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.F3W9BKu2HR7V6pfI9MHtQVca2CrEinf2RXxXep2uCzOHdHp70cc4Ewu_hshSqdeBbmxrj8l4y78k4UGzojvUK5PWbt73ZvHn9tnHKIKP71unCmOfZfn7tQO_84woILZo
 Wed Jun 4 15:33:42 CST 2025
+Wed Jun 4 15:47:06 CST 2025
+Wed Jun 4 15:47:12 CST 2025
+Wed Jun 4 15:48:32 CST 2025
+删除my_eyes_higher 
