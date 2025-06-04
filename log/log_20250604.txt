@@ -249,3 +249,8 @@ Wed Jun 4 16:47:05 CST 2025
 Wed Jun 4 16:48:35 CST 2025
 删除SanySenise 
 删除foxylovesyou 
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bf8e13c4c398512dfdfb22346b5bf2415463e5b201f58faefd916e8c2cd7486d_trns_h264/playlist.m3u8
+Wed Jun 4 17:01:59 CST 2025
+Wed Jun 4 17:02:07 CST 2025
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.8sc39Yh6vWyEU7IYjuvwNn3dashTZceCW1wdWyyLqpSxCi0J25761ppv-DPFZSZ44xYQ8UqoVaPgyBn1Nba6ff-AzBuxQzRR2tG6qCL628NM3TfG1HhJd6Wk1odymUw2
+Wed Jun 4 17:03:41 CST 2025
