@@ -6,3 +6,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-5cfae5a0cff8009b3c3bfd9c95ed07dca4343385ddecc713a3c408da369024e7_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-142e3b44f877f49f58b46aaf04f19516184c27be2a7358fb245523f45d2990a6_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+amilia4u   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f1fb70cf48d81403afc0fc50da365e8e554079dc953da3c348e248513066bb72_trns_h264/playlist.m3u8
