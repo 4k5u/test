@@ -225,3 +225,9 @@ Fri Jun 6 14:01:58 CST 2025
 Fri Jun 6 14:02:04 CST 2025
 Fri Jun 6 14:03:37 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Fri Jun 6 14:16:57 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMzMxQjM0NC0wNzVBLTRFREYtQjU4Mi0xOUIyQTU4M0NCRDkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTE5MDYyMiwiZXhwIjoxNzQ5MTkxMjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.6RpkjVUSrBKbmnlxOPfrAhEM-KCDJttkxQC_CeQiFYkCaIdjTN4w-NoeGNUXE0eBAGHdt5qVErgsnAMw-UFRbSnDJzKPBcpAz4AnNWSpsxE6HPwWl8MOyV7pPCEmCUp4
+Fri Jun 6 14:17:05 CST 2025
+Fri Jun 6 14:18:37 CST 2025
+删除Sime_Naughty 
+删除amilia4u 
