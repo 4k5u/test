@@ -417,3 +417,11 @@ Fri Jun 6 21:50:25 CST 2025
 删除muse62 
 删除yeonnacho 
 删除hanny27 
+Fri Jun 6 22:03:38 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3ODM3QkRERi02NUVCLTQ5RTgtOUFERC1CREJBM0YwQTIxNUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTIxODY0NSwiZXhwIjoxNzQ5MjE5MjQ1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.nvgNV8vTTeSfclbgr-xyIPWGKUjVx8WmN7z8xrdN5be_US80XoGhhrC8ImXIJwuS03KQ4BgjW0kTQHy7eqD17lIcLKtaFypy85zx7GqHmxoRTKT0phOk3Wu4dRGm2YjG
+Fri Jun 6 22:04:24 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Fri Jun 6 22:05:45 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除alswl2208 
+删除hanny27 
