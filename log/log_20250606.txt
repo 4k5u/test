@@ -436,3 +436,9 @@ Fri Jun 6 22:19:18 CST 2025
 删除emforhs1919 
 删除qwer00725 
 删除hanny27 
+Fri Jun 6 22:32:37 CST 2025
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNzNDOTMzRS0zMjVBLTQxQUUtOTFBQy1BQkY5OTlDQkIyNEIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTIyMDM1OCwiZXhwIjoxNzQ5MjIwOTU4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.STo9-Vz_NzL58PwG_l3Z1qwUrUFoCb5MhHHdr8wRsbU_3HZkS4vILWC-LC0SKMnREdfXGpdW3frylNEG2nn_ikneqXPGwBQASTPI7xX7tSJJvb0Zye3l8iJUPKyhIYvp
+Fri Jun 6 22:33:27 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Fri Jun 6 22:34:45 CST 2025
+删除hanny27 
