@@ -308,3 +308,9 @@ Fri Jun 6 18:16:59 CST 2025
 Fri Jun 6 18:17:15 CST 2025
 Fri Jun 6 18:18:35 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Fri Jun 6 18:32:05 CST 2025
+添加green10004 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.mFC1eSatgATs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL21GQzFlU2F0Z0FUcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QzdFNTA2My03QzhGLTQ2ODAtODBEMS05MTMwQTE4QzE3RjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTIwNTkyOCwiZXhwIjoxNzQ5MjA2NTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NFB7I3HcpLfblK0xAnXs3r17ntoluugtiaX2_qZuJgjJOVsrWLTcjKOPyUQzk45DN3xNNqJ-Fcd_hHk4rm4RdOxTFxP7uTD9ptDH6aaHEeUIl_VGldr9Vz75LM24S4Dq
+Fri Jun 6 18:32:23 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Jun 6 18:33:45 CST 2025
+删除hanny27 
