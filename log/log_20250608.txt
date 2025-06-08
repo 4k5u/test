@@ -431,3 +431,12 @@ Sun Jun 8 22:33:22 CST 2025
 Sun Jun 8 22:34:43 CST 2025
 删除imanatural 
 删除namuh0926 
+Sun Jun 8 22:46:59 CST 2025
+添加qwer00725 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.sWVcbUkr9eEM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NXVmNiVWtyOWVFTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRkM5MEFENi1ERjRCLTQxNkYtOUREMC00NjhBM0I0MTkzREEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM5NDAyMCwiZXhwIjoxNzQ5Mzk0NjIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.VkJuHYyrYUqZJHnAnUjrKbel0IWGz0SrUP9kByzPKEKlaRFMiXf9P-3HdIClsNIVN2I0ffKHWlHvQEc_gX-6IwBYTsEdQEuJ7gG4Dl5C10EPNdTg2lxelGVLmLiroEnf
+Sun Jun 8 22:47:41 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Jun 8 22:49:08 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除nobleinc 
+删除namuh0926 
