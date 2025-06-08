@@ -238,3 +238,9 @@ Sun Jun 8 13:01:59 CST 2025
 添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ALHC31Bua7Ow.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0FMSEMzMUJ1YTdPdyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFN0I3MzBCOC0xMEIwLTQ4MEMtQjY2RC0zNURCQzlBMkYxQkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM1ODkyNCwiZXhwIjoxNzQ5MzU5NTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hXggQ59ddoV-gZ0DpOLNbo3DOQQL85QmBXAnN0k3VHOlQKoT20akpH9qq7tAn3WCiWpWDlfs9cNcTWPyMz8Pvgl1HGjZ8kiahjp19Kp1THW0--PcBr_bIVSOw95QVAJN
 Sun Jun 8 13:02:07 CST 2025
 Sun Jun 8 13:03:34 CST 2025
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-dd0d899ca0324038c4d019d23fa75321c95129d1bfdedcbd6e59c1a60fa6cf89_trns_h264/playlist.m3u8
+Sun Jun 8 13:18:07 CST 2025
+Sun Jun 8 13:18:13 CST 2025
+Sun Jun 8 13:19:41 CST 2025
+删除taitehambelton 
+删除362540 
