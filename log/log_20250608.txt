@@ -307,3 +307,7 @@ Sun Jun 8 16:47:39 CST 2025
 Sun Jun 8 16:47:55 CST 2025
 Sun Jun 8 16:49:23 CST 2025
 删除ad0res 
+添加ad0res https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-fd5458f4fafd9ef252478bfed0f9127d6e8259fafcec2d4dd531fa6b029fe97e_trns_h264/playlist.m3u8
+Sun Jun 8 17:02:54 CST 2025
+Sun Jun 8 17:03:08 CST 2025
+Sun Jun 8 17:04:32 CST 2025
