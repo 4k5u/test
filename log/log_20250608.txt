@@ -409,3 +409,11 @@ Sun Jun 8 21:47:37 CST 2025
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sun Jun 8 21:49:03 CST 2025
 删除namuh0926 
+Sun Jun 8 22:02:04 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQzMxNDREMi0yNzYwLTQ4OTMtODE1RS1BQkZCOTVCMDU1RDUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTM5MTM0OSwiZXhwIjoxNzQ5MzkxOTQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.slOhksAnzsM0kKiOXdC0Soox-s5uUujXxG_Bn8SfMey49sHsjD6Z5-x8h0jpUOoWGP8thNCkvCxX888GdxgBp8t9wPMpnJuKjXhfeYxgBJTdyWYuBt1RK8KFgriBNkoN
+Sun Jun 8 22:02:46 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Jun 8 22:04:06 CST 2025
+删除jjine0127 
+删除hyuna0721 
+删除namuh0926 
