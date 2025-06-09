@@ -422,3 +422,9 @@ Mon Jun 9 21:02:26 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
 Mon Jun 9 21:03:31 CST 2025
 删除hanny27 
+Mon Jun 9 21:17:00 CST 2025
+Mon Jun 9 21:17:22 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.51fumpHP5t8qNBf-CJHcGCbCGhOOCI6jGrH-SIhuJ4cSiX9oNjqBqT00PjljnWuPyAYuv4r7ZWctlsra-RwDoyyvPsadbRRdSGzM4BZ5En8k5fCkSJYA83toXke4EaxiLCWlv_0pZN8xjpmhxXJVQCZYRnaTQI3Rl1VparBh817Z97aCzqd0o04Oj_HhBXfh
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+Mon Jun 9 21:18:25 CST 2025
+删除hanny27 
