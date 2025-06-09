@@ -272,3 +272,9 @@ Mon Jun 9 15:48:44 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除iminako 
 删除foxylovesyou 
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4e8984514c44690efa3934b933e8c657dcd0dea9ab9001c9f5ade2e3dd033d0b_trns_h264/playlist.m3u8
+Mon Jun 9 16:01:59 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQkQ3NkFFMy0wMzI5LTRCMTUtQjU2Ni00RTE1QjA4NDZGOEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTQ1NjEyMiwiZXhwIjoxNzQ5NDU2NzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cXx60G3-oNn13ReijYXDDdOk2LJ2PDFmE7V0Jbx5vCllAwd7eZTkozhbG6ia3ow9MCzq39O-_CG3f_Wf-k1X_lD0PNvRLfWLGq51e0HBLxYR3TzGLTsWba9atdi1W2Cd
+Mon Jun 9 16:02:09 CST 2025
+Mon Jun 9 16:03:40 CST 2025
+删除foxylovesyou 
