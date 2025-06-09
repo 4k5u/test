@@ -260,3 +260,8 @@ Mon Jun 9 15:17:03 CST 2025
 Mon Jun 9 15:18:34 CST 2025
 删除ddooyaa 
 删除foxylovesyou 
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4e8984514c44690efa3934b933e8c657dcd0dea9ab9001c9f5ade2e3dd033d0b_trns_h264/playlist.m3u8
+Mon Jun 9 15:32:50 CST 2025
+Mon Jun 9 15:32:56 CST 2025
+Mon Jun 9 15:34:22 CST 2025
+删除foxylovesyou 
