@@ -251,3 +251,7 @@ Tue Jun 10 16:02:07 CST 2025
 Tue Jun 10 16:03:32 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除taitehambelton 
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8edb9fe366965b55dc944920227413bb667b69e0e27af71276f4e15c6abc57a5_trns_h264/playlist.m3u8
+Tue Jun 10 16:17:05 CST 2025
+Tue Jun 10 16:17:15 CST 2025
+Tue Jun 10 16:18:32 CST 2025
