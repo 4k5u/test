@@ -398,3 +398,12 @@ Tue Jun 10 21:32:47 CST 2025
 Tue Jun 10 21:34:11 CST 2025
 删除eunyoung1238 
 删除hanny27 
+Tue Jun 10 21:47:14 CST 2025
+添加imanatural https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9D0FYHOlXRPU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlEMEZZSE9sWFJQVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDQ0I5REMxRC0xMDdDLTRCQ0UtQjlFRC1EMkU3QjVCNTY1NjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTU2MzI3NSwiZXhwIjoxNzQ5NTYzODc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.c7Cd-G2VnmOZwWEK7TieZ96MYQZUH7IM-_uUHVr7JRcyaaCacZLbpwL0OwyCHw5wsuEfgAu_S1TQUEaPngYy9m5NhJBFIEdyubLvp_o9ny5w-q2gfW3g0n0gwn6vuGFX
+Tue Jun 10 21:48:00 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Tue Jun 10 21:49:22 CST 2025
+删除muse62 
+删除eunyoung1238 
+删除hanny27 
