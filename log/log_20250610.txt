@@ -391,3 +391,10 @@ Tue Jun 10 21:17:49 CST 2025
 Tue Jun 10 21:19:10 CST 2025
 删除eunyoung1238 
 删除hanny27 
+Tue Jun 10 21:32:03 CST 2025
+Tue Jun 10 21:32:47 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Tue Jun 10 21:34:11 CST 2025
+删除eunyoung1238 
+删除hanny27 
