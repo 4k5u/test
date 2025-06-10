@@ -465,3 +465,10 @@ Tue Jun 10 23:32:39 CST 2025
 Tue Jun 10 23:34:00 CST 2025
 删除redholic377 
 删除eunyoung1238 
+Tue Jun 10 23:47:23 CST 2025
+Tue Jun 10 23:48:02 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Jun 10 23:49:24 CST 2025
+添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+删除qwer00725 
+删除eunyoung1238 
