@@ -130,3 +130,9 @@ Wed Jun 11 07:16:57 CST 2025
 Wed Jun 11 07:18:35 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除gusdk2362 
+添加sexygamesx https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-6e7d4a61be8cee32479302ab2b89f03f73c51af2f037cdf0adc83f13c2385993_trns_h264/playlist.m3u8
+Wed Jun 11 07:47:52 CST 2025
+Wed Jun 11 07:47:54 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Wed Jun 11 07:49:35 CST 2025
+删除gusdk2362 
