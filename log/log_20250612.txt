@@ -178,3 +178,8 @@ Thu Jun 12 07:34:30 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除honey_pinkgreen 
 删除gusdk2362 
+Thu Jun 12 07:46:55 CST 2025
+Thu Jun 12 07:46:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 07:48:35 CST 2025
+删除gusdk2362 
