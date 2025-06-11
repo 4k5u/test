@@ -398,3 +398,8 @@ Wed Jun 11 23:03:44 CST 2025
 Wed Jun 11 23:04:58 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 删除soso621 
+Wed Jun 11 23:17:01 CST 2025
+Wed Jun 11 23:17:35 CST 2025
+Wed Jun 11 23:18:48 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除kkkku96 
