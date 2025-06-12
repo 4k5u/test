@@ -188,3 +188,8 @@ Thu Jun 12 08:01:57 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Thu Jun 12 08:03:32 CST 2025
 删除gusdk2362 
+Thu Jun 12 08:16:49 CST 2025
+Thu Jun 12 08:16:53 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 08:18:34 CST 2025
+删除gusdk2362 
