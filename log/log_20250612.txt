@@ -317,3 +317,8 @@ Thu Jun 12 15:17:12 CST 2025
 添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1rufkwkfvWRnI1WBfX4y8ah8SHiSX_no2OpLX_oh_Fy863CRltvUtTgxho98FUs6IkGdvibEnhX6wxWKjEDdEFHsBLX-7EnqSPa4LF-DB2cZN2QtqdNyxYfagb9b0UfoqZQHqSgVjaKomHOeT0sCnCzih_kcswmiZ7NtcS1nJdKPTigy4Wgc2pOnO60Irvcj
 Thu Jun 12 15:18:35 CST 2025
 删除amilia4u 
+添加amilia4u https://edge3-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5be4082a50111f932f67bcbc846302dde9f60076f79e74e560307c929b6e93d_trns_h264/playlist.m3u8
+Thu Jun 12 15:32:02 CST 2025
+Thu Jun 12 15:32:08 CST 2025
+Thu Jun 12 15:33:25 CST 2025
+删除amilia4u 
