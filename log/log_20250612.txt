@@ -329,3 +329,11 @@ Thu Jun 12 15:48:45 CST 2025
 删除alicelebel 
 删除Tmdgus5411 
 删除amilia4u 
+添加amilia4u https://edge3-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5be4082a50111f932f67bcbc846302dde9f60076f79e74e560307c929b6e93d_trns_h264/playlist.m3u8
+Thu Jun 12 16:01:59 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1OEM3OTE5My1BNENCLTRGQzgtQTA3Mi01QzRDRTYzOEE2QzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTcxNTMyMiwiZXhwIjoxNzQ5NzE1OTIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.E1jUCu9vxpPyRy2NOeX9houd-IGCxaKN10SJZS-_viAuhTTPUZG4lxfVLpV2eE6DSkacmnvYa-t_DTZmaquBAszmAJkD8AV0y_Ujo33ktM7Gf6A0qcOtQyA2wl4MqeXX
+Thu Jun 12 16:02:09 CST 2025
+Thu Jun 12 16:03:35 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除my_eyes_higher 
+删除amilia4u 
