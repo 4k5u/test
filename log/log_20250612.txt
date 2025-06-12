@@ -337,3 +337,9 @@ Thu Jun 12 16:03:35 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除my_eyes_higher 
 删除amilia4u 
+添加amilia4u https://edge16-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f5be4082a50111f932f67bcbc846302dde9f60076f79e74e560307c929b6e93d_trns_h264/playlist.m3u8
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-29ba10e154aa6d2462d27ef45d6a8e15c9190b882004aee13c7efdc82aaef2dd_trns_h264/playlist.m3u8
+Thu Jun 12 16:16:58 CST 2025
+Thu Jun 12 16:17:06 CST 2025
+Thu Jun 12 16:18:34 CST 2025
+删除amilia4u 
