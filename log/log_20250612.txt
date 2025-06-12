@@ -385,3 +385,9 @@ Thu Jun 12 18:32:17 CST 2025
 添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Napuy8FCG_kCexVuWtLAGnW0i2rWmW_DC_VhNSOgGIZZ30h-X14axV5RQqB3TKCp2_qthcSZlrypRjN37GAeJyGK4iepCasBXMprQU4r7HxL89JBcAWoCjLTLm3ohG4_yvqDLnZlg4YbsbcWDHh5zfT90MHlckxJgocQy6DAEL_b9q7re_6gyOiVkgE5TxDx
 Thu Jun 12 18:33:44 CST 2025
 删除Angel-Bei-bei 
+Thu Jun 12 18:47:09 CST 2025
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRUYxQUQ0My0xN0E5LTRBNEUtOEI0Ri1EN0E3ODMwRUVEQzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTcyNTIzNCwiZXhwIjoxNzQ5NzI1ODM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pav8RZ0IOvevSTLS5lBrbv-fdHDC-t90myN7yvZz03ydhkxlfQ5IYNTOjWczC6T2N42ARE6wgNj-vFqdY4G_3gdymnYT76c2_VadjkGCIaqxHAPaMvPBlOIFAfiBEICu
+Thu Jun 12 18:47:25 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 18:48:50 CST 2025
+删除hanny27 
