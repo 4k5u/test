@@ -512,3 +512,11 @@ Thu Jun 12 23:05:06 CST 2025
 删除emforhs1919 
 删除lolsos 
 删除hanny27 
+Thu Jun 12 23:17:58 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.cO2mhg6IbAVh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2NPMm1oZzZJYkFWaCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzgxRDlGRi0zQkRGLTRERjQtQkJENy00MkUzRkU0OThBNTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTc0MTQ5NSwiZXhwIjoxNzQ5NzQyMDk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LqDJNn5ExQcMyTz_MrmKKRVktY8tHCWTAjvNBGylIIbATtB91661SU85o4Kn_HkjaZIX9asTuY86PvoELk_8OjDXeWoP6Uv0zRiT9btTTkRpQG4D0C87xQ_RmOV5hgBQ
+Thu Jun 12 23:18:30 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Thu Jun 12 23:19:46 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除imanatural 
+删除hanny27 
