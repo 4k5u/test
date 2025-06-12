@@ -94,3 +94,7 @@ Fri Jun 13 07:32:05 CST 2025
 Fri Jun 13 07:32:09 CST 2025
 Fri Jun 13 07:33:44 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mazzanti_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-b19ddbd1e86bd2c786d4e06df5a1bae814dfba872915efd5bf70ad6161ddf3f5_trns_h264/playlist.m3u8
+Fri Jun 13 07:46:54 CST 2025
+Fri Jun 13 07:46:58 CST 2025
+Fri Jun 13 07:48:30 CST 2025
