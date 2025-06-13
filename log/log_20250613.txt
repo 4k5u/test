@@ -209,3 +209,10 @@ Fri Jun 13 15:17:09 CST 2025
 Fri Jun 13 15:18:41 CST 2025
 删除yourare 
 删除sigmasian 
+Fri Jun 13 15:32:50 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1op0J38Qa4u6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFvcDBKMzhRYTR1NiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNjlGMERCQy03QzQ1LTRBQjItQjdEMi1DQkE3NTRGQkY3QTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc0OTc5OTk3NSwiZXhwIjoxNzQ5ODAwNTc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MrK8dmN18FwjxffPWbM4izjxXf0lVoFnrBECRMZqp8ZsY0uthucpg1RpUZss0ZdEQ6XiWcQDJGVvMJ4_yI34fn-Zn4iHMe6uAZ2XLKoMIcCb-qGFMKgWy3hCYTQNyEPK
+Fri Jun 13 15:33:00 CST 2025
+Fri Jun 13 15:34:31 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除green10004 
+删除qwer00725 
