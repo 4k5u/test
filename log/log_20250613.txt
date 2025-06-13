@@ -216,3 +216,7 @@ Fri Jun 13 15:34:31 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除green10004 
 删除qwer00725 
+Fri Jun 13 15:47:56 CST 2025
+Fri Jun 13 15:48:03 CST 2025
+Fri Jun 13 15:49:23 CST 2025
+删除IdaJonesy 
