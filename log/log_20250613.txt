@@ -379,3 +379,11 @@ Fri Jun 13 22:18:16 CST 2025
 Fri Jun 13 22:19:33 CST 2025
 删除muse62 
 删除hanny27 
+Fri Jun 13 22:33:19 CST 2025
+Fri Jun 13 22:33:51 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Fri Jun 13 22:35:12 CST 2025
+删除kkkku96 
+删除lolsos 
+删除hanny27 
