@@ -224,3 +224,8 @@ Fri Jun 13 16:02:40 CST 2025
 Fri Jun 13 16:02:47 CST 2025
 Fri Jun 13 16:04:05 CST 2025
 删除alicelebel 
+添加mode_bad https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-d324a4985f4537397b8b704e70af2aadad42e97ae906baa983fdb04b1b3c0f22_trns_h264/playlist.m3u8
+Fri Jun 13 16:17:01 CST 2025
+Fri Jun 13 16:17:07 CST 2025
+Fri Jun 13 16:18:40 CST 2025
+删除SanySenise 
