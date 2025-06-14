@@ -1,5 +1,6 @@
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
-Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2a7bc7eafbcfe6e0662c459e48649e4accd46b414ab49fdf0a1a11d257bff1df_trns_h264/playlist.m3u8
+amilia4u   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-61d2d016acb9d8e9241bc773e2a9e92540117548f4165507d489259ab6a1b559_trns_h264/playlist.m3u8
+iminako   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a5096afbd886ca32ba9508662ea906307ce4c24a845b5605c1cfead665e271d2_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-68f970eac3728c6ab326c3fb0be847de6581efbf8df685f543f09888a47c3af7_trns_h264/playlist.m3u8
