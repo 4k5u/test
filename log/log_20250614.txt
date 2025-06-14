@@ -251,3 +251,8 @@ Sat Jun 14 15:02:51 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-19/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.0jdnXWVfuYXJrPhsKkRufBYaCvb1sHqBGGcFpZcZ7CeiAyQAWml1Xb5b5EMCqlf8NQxW_dYBFVT9W3BkKFbNrw9qjXa3IpgkznEBuSUEiGs3Q5kNPvgGw1KZeBwKfSiRBsm8B6rtT-iNZUY8iZz32A94OyqS06ltWykcOBl8DrS74jonxEt4Yy72_LEEs_jo
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.G8vcBEFm7bYTIrdKItPg_Biwbi2yrGtDZsRy7eKkh7aiNlQbqMU5aXZWWC14pgJJRfSQsDKNuqYQt6L-CilrRB-SqMqG1aSsfjh5D41_9Cpo4xPPZtp8v72YIsuKrk_sZoF1AUg0SxT0pjp5yjZ_Jo6XO3D0R6-cwYqFvLgbGIxyR1FeiMmJqGEd1IsiFQxq
 Sat Jun 14 15:04:30 CST 2025
+Sat Jun 14 15:17:47 CST 2025
+Sat Jun 14 15:17:53 CST 2025
+Sat Jun 14 15:19:05 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除taitehambelton 
