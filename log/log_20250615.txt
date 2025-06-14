@@ -128,3 +128,10 @@ Sun Jun 15 06:47:00 CST 2025
 Sun Jun 15 06:47:02 CST 2025
 Sun Jun 15 06:48:35 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加mazzanti_ https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0c1b2f03331cafabe4ddbab2277b2b28f56b04da203715c21bf0ddc326388d7a_trns_h264/playlist.m3u8
+添加sexygamesx https://edge5-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d134d40fb5021405d9217397a96e568437087aeef5a6a63d112ba5b505a6da0f_trns_h264/playlist.m3u8
+Sun Jun 15 07:02:06 CST 2025
+Sun Jun 15 07:02:08 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sun Jun 15 07:03:39 CST 2025
+删除gusdk2362 
