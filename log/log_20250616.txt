@@ -23,3 +23,10 @@ Mon Jun 16 00:48:27 CST 2025
 Mon Jun 16 00:49:55 CST 2025
 删除qwer00725 
 删除eunyoung1238 
+Mon Jun 16 01:02:45 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMEY4MjE4NC01NzIzLTQwODUtOTI4OC05RDgzMERFN0I0OUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDAwNjk3OCwiZXhwIjoxNzUwMDA3NTc4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oxxqXuUiCryCjOZG7fxeAfNzBlVGxi9fYNMVA6o4moN5dbg3w8fL-3LFkSVmCl4sXHgmGxkZpoXlh57YijW3EWvt1VwEDXe_Ur1kuB5xVzdE9jnXLCSOSh5sot6MwTp6
+Mon Jun 16 01:03:05 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Mon Jun 16 01:04:32 CST 2025
+删除anystar00 
+删除eunyoung1238 
