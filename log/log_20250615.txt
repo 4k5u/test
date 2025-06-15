@@ -308,3 +308,7 @@ Sun Jun 15 15:17:35 CST 2025
 Sun Jun 15 15:17:37 CST 2025
 Sun Jun 15 15:19:02 CST 2025
 删除leelate 
+添加honey_pinkgreen https://edge4-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-c2782a04ea9e4fe4e813a366881cc52613e28e9a7d29ed8ae4c08e89cc8bf338_trns_h264/playlist.m3u8
+Sun Jun 15 15:32:08 CST 2025
+Sun Jun 15 15:32:10 CST 2025
+Sun Jun 15 15:33:30 CST 2025
