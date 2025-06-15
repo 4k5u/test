@@ -312,3 +312,9 @@ Sun Jun 15 15:19:02 CST 2025
 Sun Jun 15 15:32:08 CST 2025
 Sun Jun 15 15:32:10 CST 2025
 Sun Jun 15 15:33:30 CST 2025
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-73bf9e2e17cf735f510b9a195d3f3dbf761b09c8ed8025c09a1d9a50169f2cfb_trns_h264/playlist.m3u8
+Sun Jun 15 15:47:39 CST 2025
+Sun Jun 15 15:47:41 CST 2025
+Sun Jun 15 15:49:07 CST 2025
+删除honey_pinkgreen 
+删除ad0res 
