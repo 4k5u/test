@@ -327,3 +327,11 @@ Sun Jun 15 16:03:09 CST 2025
 Sun Jun 15 16:04:47 CST 2025
 删除alicelebel 
 删除honey_pinkgreen 
+添加ad0res https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-73bf9e2e17cf735f510b9a195d3f3dbf761b09c8ed8025c09a1d9a50169f2cfb_trns_h264/playlist.m3u8
+添加mode_bad https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-299f1c384722582f8e25beee54a1f49ae30079e11a40f4fbfe0ba032cc043801_trns_h264/playlist.m3u8
+添加honey_pinkgreen https://edge9-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-c2782a04ea9e4fe4e813a366881cc52613e28e9a7d29ed8ae4c08e89cc8bf338_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-429a7f79e0ce7059224a304fd0c2c740889e2883f07978a39a78aeaca4d40e3a_trns_h264/playlist.m3u8
+Sun Jun 15 16:17:36 CST 2025
+Sun Jun 15 16:17:40 CST 2025
+Sun Jun 15 16:19:04 CST 2025
+删除honey_pinkgreen 
