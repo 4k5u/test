@@ -164,3 +164,9 @@ Sun Jun 15 08:18:04 CST 2025
 Sun Jun 15 08:19:42 CST 2025
 删除Sime_Naughty 
 删除gusdk2362 
+添加sexygamesx https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d134d40fb5021405d9217397a96e568437087aeef5a6a63d112ba5b505a6da0f_trns_h264/playlist.m3u8
+Sun Jun 15 08:32:48 CST 2025
+Sun Jun 15 08:32:51 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Sun Jun 15 08:34:23 CST 2025
+删除gusdk2362 
