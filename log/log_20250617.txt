@@ -281,3 +281,9 @@ Tue Jun 17 18:33:02 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
 Tue Jun 17 18:34:31 CST 2025
 删除hanny27 
+添加honey_pinkgreen https://edge9-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-53403fd63dd851ffc2140e3f4b58611d047c018035c9c2ae277e04b2993bf831_trns_h264/playlist.m3u8
+Tue Jun 17 18:47:45 CST 2025
+Tue Jun 17 18:47:57 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Tue Jun 17 18:49:18 CST 2025
+删除hanny27 
