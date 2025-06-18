@@ -4,3 +4,4 @@ namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_p
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 sexygamesx   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c050642703a12898b14f37b1dbe676cfcf3e61f130bf4ba92190b2b3667e6a08_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+taitehambelton   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-60cebe4fb1e06c98a01dbd901fb82c6fb18539e55c55b2c65518ebf10bd9616f_trns_h264/playlist.m3u8

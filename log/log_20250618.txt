@@ -226,3 +226,9 @@ Wed Jun 18 14:18:22 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除IdaJonesy 
 删除iminako 
+添加taitehambelton https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-60cebe4fb1e06c98a01dbd901fb82c6fb18539e55c55b2c65518ebf10bd9616f_trns_h264/playlist.m3u8
+添加iminako https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-591fcbf2b24d6f628e38f2cc2573f517751b5c53b1bb36b5736b6a878afbd9cd_trns_h264/playlist.m3u8
+Wed Jun 18 14:32:03 CST 2025
+Wed Jun 18 14:32:03 CST 2025
+Wed Jun 18 14:33:22 CST 2025
+删除iminako 
