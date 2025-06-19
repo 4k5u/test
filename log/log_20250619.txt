@@ -183,3 +183,7 @@ Thu Jun 19 12:02:49 CST 2025
 Thu Jun 19 12:04:16 CST 2025
 删除Reaowna 
 删除Sime_Naughty 
+Thu Jun 19 12:16:55 CST 2025
+Thu Jun 19 12:16:55 CST 2025
+Thu Jun 19 12:18:26 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
