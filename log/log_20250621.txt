@@ -120,3 +120,8 @@ Sat Jun 21 07:19:15 CST 2025
 Sat Jun 21 07:32:00 CST 2025
 Sat Jun 21 07:32:02 CST 2025
 Sat Jun 21 07:33:31 CST 2025
+添加mazzanti_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2553b941217f738ccc67faada86def1cea07038ddda107c24c08c6c809b9c709_trns_h264/playlist.m3u8
+Sat Jun 21 07:47:26 CST 2025
+Sat Jun 21 07:47:29 CST 2025
+Sat Jun 21 07:48:58 CST 2025
+删除mode_bad 
