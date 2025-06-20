@@ -245,3 +245,8 @@ Fri Jun 20 16:17:53 CST 2025
 Fri Jun 20 16:18:00 CST 2025
 Fri Jun 20 16:19:30 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-35df8f83b790525662fb0bf9f46b0a1f4de337d763c69ec28ff4980a37fb146a_trns_h264/playlist.m3u8
+Fri Jun 20 16:33:10 CST 2025
+Fri Jun 20 16:33:16 CST 2025
+Fri Jun 20 16:34:35 CST 2025
+删除taitehambelton 
