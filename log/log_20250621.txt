@@ -65,3 +65,7 @@ Sat Jun 21 03:31:52 CST 2025
 Sat Jun 21 03:31:57 CST 2025
 Sat Jun 21 03:33:23 CST 2025
 删除glglehddl 
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-1db856be42c7a8d174cdba5ce9ac628cd2d0c81c0eb48ef395aeb5f2c568c72c_trns_h264/playlist.m3u8
+Sat Jun 21 03:46:56 CST 2025
+Sat Jun 21 03:47:00 CST 2025
+Sat Jun 21 03:48:29 CST 2025
