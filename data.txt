@@ -1,3 +1,1 @@
 Reaowna   https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
-mazzanti_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2553b941217f738ccc67faada86def1cea07038ddda107c24c08c6c809b9c709_trns_h264/playlist.m3u8
