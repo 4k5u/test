@@ -378,3 +378,7 @@ Sat Jun 21 23:17:25 CST 2025
 Sat Jun 21 23:18:26 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除jodong2 
+Sat Jun 21 23:32:03 CST 2025
+Sat Jun 21 23:32:25 CST 2025
+Sat Jun 21 23:33:28 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
