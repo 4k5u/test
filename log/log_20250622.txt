@@ -128,3 +128,11 @@ Sun Jun 22 07:01:51 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
 Sun Jun 22 07:03:25 CST 2025
 删除gusdk2362 
+添加mazzanti_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-858f89f9fbe9fc6b050983eb7c51d4dcb41e76aa46459317fbceee0f8e94674b_trns_h264/playlist.m3u8
+Sun Jun 22 07:17:55 CST 2025
+Sun Jun 22 07:17:57 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Sun Jun 22 07:19:21 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除mode_bad 
+删除gusdk2362 
