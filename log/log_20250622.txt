@@ -226,3 +226,9 @@ Sun Jun 22 11:16:58 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 Sun Jun 22 11:18:26 CST 2025
 删除gusdk2362 
+Sun Jun 22 11:32:59 CST 2025
+Sun Jun 22 11:33:01 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sun Jun 22 11:34:29 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除gusdk2362 
