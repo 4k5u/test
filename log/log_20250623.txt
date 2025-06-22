@@ -36,3 +36,8 @@ Mon Jun 23 01:47:57 CST 2025
 Mon Jun 23 01:49:26 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除naras2 
+Mon Jun 23 02:01:56 CST 2025
+Mon Jun 23 02:02:04 CST 2025
+Mon Jun 23 02:03:34 CST 2025
+删除lovemeimscared 
+删除Angel-Bei-bei 
