@@ -207,3 +207,7 @@ Tue Jun 24 14:17:48 CST 2025
 Tue Jun 24 14:17:52 CST 2025
 Tue Jun 24 14:19:12 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加amilia4u https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8ba2d87c4296009452b4d82a20108f95ec608ad81aadfcab8470f9c1f3f25971_trns_h264/playlist.m3u8
+Tue Jun 24 14:31:57 CST 2025
+Tue Jun 24 14:32:02 CST 2025
+Tue Jun 24 14:33:29 CST 2025
