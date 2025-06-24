@@ -277,3 +277,11 @@ Tue Jun 24 17:47:19 CST 2025
 Tue Jun 24 17:48:38 CST 2025
 删除amilia4u 
 删除foxylovesyou 
+添加amilia4u https://edge9-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8ba2d87c4296009452b4d82a20108f95ec608ad81aadfcab8470f9c1f3f25971_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-ea5a37d40e37ff260049bec40240ad7abb525b4dd45e021c6110dc9385911970_trns_h264/playlist.m3u8
+Tue Jun 24 18:02:46 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRUFBQ0U0Ri1DMjZDLTRBMUEtQTFBQi02ODk0QkU3RjI4NDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MDc1OTM2OSwiZXhwIjoxNzUwNzU5OTY5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ESnRkrHRbc5SpI0Y8U4uKjHIhbO40L5ZcVcOQckWFiGYIizgZv7hHLS0ZfAeIv3FYA7iEJUcPeVbLYhirEkBnUZmXeBO5duJ_Grf5NFDKYzlXhQ7rPIWdOLOMepCApKV
+Tue Jun 24 18:03:02 CST 2025
+Tue Jun 24 18:04:25 CST 2025
+删除SanySenise 
+删除foxylovesyou 
