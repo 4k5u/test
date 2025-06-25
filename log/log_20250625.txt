@@ -204,3 +204,7 @@ Wed Jun 25 14:02:00 CST 2025
 Wed Jun 25 14:02:04 CST 2025
 Wed Jun 25 14:03:23 CST 2025
 添加cecilia0903 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
+Wed Jun 25 14:16:59 CST 2025
+Wed Jun 25 14:17:01 CST 2025
+Wed Jun 25 14:18:28 CST 2025
+删除IdaJonesy 
