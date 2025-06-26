@@ -3,3 +3,10 @@ Fri Jun 27 00:02:33 CST 2025
 Fri Jun 27 00:03:38 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除homegirl 
+添加honey_pinkgreen https://edge3-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-75ead4d14480fe2fc2d6fe97b67e2b257e6c857769c747efb809a8592b91e488_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-429f38df7a96075a9e75fd32f70a2f93d48585ee30d7427d50216e5049d2850a_trns_h264/playlist.m3u8
+Fri Jun 27 00:17:56 CST 2025
+Fri Jun 27 00:18:20 CST 2025
+Fri Jun 27 00:19:31 CST 2025
+删除tess00 
+删除dks2003 
