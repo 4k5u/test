@@ -195,3 +195,8 @@ Thu Jun 26 13:03:19 CST 2025
 Thu Jun 26 13:17:32 CST 2025
 Thu Jun 26 13:17:32 CST 2025
 Thu Jun 26 13:18:59 CST 2025
+Thu Jun 26 13:31:55 CST 2025
+Thu Jun 26 13:31:56 CST 2025
+Thu Jun 26 13:33:23 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除IdaJonesy 
