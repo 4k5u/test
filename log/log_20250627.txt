@@ -300,3 +300,8 @@ Fri Jun 27 18:02:14 CST 2025
 Fri Jun 27 18:02:18 CST 2025
 Fri Jun 27 18:03:39 CST 2025
 删除ee5844 
+Fri Jun 27 18:16:56 CST 2025
+Fri Jun 27 18:17:00 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.OWXrCyNwndmMraqE4C17vtNsiynaQdM1RaDGxMGM6JBS-dK9bwocW4UsgjEfOzaGrJWL0102HcMUEFb9LKTs3EIlLJ6rG74pWBzxp-TOQJKQFYejLLV-JFYRzNGpvQNNrmJog0q2U3IQjXoGalvITajhthelF6_bqpKWbwLYPN0Y_HtDBmFL9Ejb5q2k8yLV
+Fri Jun 27 18:18:16 CST 2025
+删除ad0res 
