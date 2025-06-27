@@ -279,3 +279,11 @@ Fri Jun 27 17:02:00 CST 2025
 Fri Jun 27 17:02:08 CST 2025
 Fri Jun 27 17:03:21 CST 2025
 删除iminako 
+添加ad0res https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-3dd08118b8f2ba6e511cc528a202dd033332992e6f971e1c9845c45e80aace82_trns_h264/playlist.m3u8
+添加iminako https://edge8-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-6435e25bf5125055a938469677b9042b4423f185c43015e039066656ec52e7e2_trns_h264/playlist.m3u8
+Fri Jun 27 17:17:42 CST 2025
+Fri Jun 27 17:17:49 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.686J4gtpsdNjxKiUMU3gfib_SHRp3BykyfjGqYOJYdlzgJT3e8q0uVKsmOjJH8FkhZIoFnzdDLG8hEd6Gvlb4Tp1oMe2L6G58TCVQgfoUcdrkacx7feaVEXo21LyuKp71ydYi10TaJizP7ydG4xQ0qC_0FCVwSD-NXkLVrXuwB-VMTPpkk8Wj7QeRZ_AgqhV
+Fri Jun 27 17:19:08 CST 2025
+删除SanySenise 
+删除iminako 
