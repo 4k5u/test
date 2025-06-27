@@ -295,3 +295,8 @@ Fri Jun 27 17:46:55 CST 2025
 Fri Jun 27 17:47:02 CST 2025
 Fri Jun 27 17:48:14 CST 2025
 删除ad0res 
+添加ad0res https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-3dd08118b8f2ba6e511cc528a202dd033332992e6f971e1c9845c45e80aace82_trns_h264/playlist.m3u8
+Fri Jun 27 18:02:14 CST 2025
+Fri Jun 27 18:02:18 CST 2025
+Fri Jun 27 18:03:39 CST 2025
+删除ee5844 
