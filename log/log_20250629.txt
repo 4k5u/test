@@ -81,3 +81,9 @@ Sun Jun 29 04:04:10 CST 2025
 删除Tmdgus5411 
 删除alicelebel 
 删除gusdk2362 
+添加mode_bad https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-65ac772bda72f81f0bba639d27028ec9316aa3ff0cd512dca789398c8a07f3da_trns_h264/playlist.m3u8
+Sun Jun 29 04:16:55 CST 2025
+Sun Jun 29 04:17:02 CST 2025
+Sun Jun 29 04:18:29 CST 2025
+删除imanatural 
+删除eli05021212 
