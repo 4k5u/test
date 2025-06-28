@@ -360,3 +360,9 @@ Sat Jun 28 21:47:00 CST 2025
 Sat Jun 28 21:47:26 CST 2025
 Sat Jun 28 21:48:22 CST 2025
 删除eunyoung1238 
+Sat Jun 28 22:02:39 CST 2025
+Sat Jun 28 22:03:04 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+Sat Jun 28 22:04:10 CST 2025
+删除mikio_san 
+删除eunyoung1238 
