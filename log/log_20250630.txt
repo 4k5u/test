@@ -18,3 +18,8 @@ Mon Jun 30 00:47:47 CST 2025
 Mon Jun 30 00:47:58 CST 2025
 Mon Jun 30 00:49:13 CST 2025
 删除Tmdgus5411 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-a4acac911975cb86d3602fb9da2181642f27719f1be0964292c4e87db544ee47_trns_h264/playlist.m3u8
+Mon Jun 30 01:01:56 CST 2025
+Mon Jun 30 01:02:06 CST 2025
+Mon Jun 30 01:03:25 CST 2025
+删除starsh2802 
