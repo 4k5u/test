@@ -205,3 +205,10 @@ Mon Jun 30 14:03:29 CST 2025
 Mon Jun 30 14:16:55 CST 2025
 Mon Jun 30 14:16:57 CST 2025
 Mon Jun 30 14:18:28 CST 2025
+添加amilia4u https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-ce786ca0b05f9862245deb719304b561d77dd7def17d2caf088eddb9474acbe6_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-525e67410cb6dabba0549529c982d72b89b1466717010b6787ff2101a9d6eb55_trns_h264/playlist.m3u8
+Mon Jun 30 14:33:01 CST 2025
+Mon Jun 30 14:33:03 CST 2025
+Mon Jun 30 14:34:26 CST 2025
+删除amilia4u 
+删除foxylovesyou 
