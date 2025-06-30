@@ -367,3 +367,8 @@ Mon Jun 30 23:03:57 CST 2025
 Mon Jun 30 23:05:13 CST 2025
 删除anystar00 
 删除kjjeong0609 
+Mon Jun 30 23:17:37 CST 2025
+Mon Jun 30 23:18:15 CST 2025
+Mon Jun 30 23:19:36 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
