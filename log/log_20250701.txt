@@ -74,3 +74,7 @@ Tue Jul 1 04:03:20 CST 2025
 Tue Jul 1 04:18:01 CST 2025
 Tue Jul 1 04:18:01 CST 2025
 Tue Jul 1 04:19:30 CST 2025
+添加mode_bad https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-60e34a2c4e0ae016801a8fbaf62c9246599864e838bf72d1052018784e4de443_trns_h264/playlist.m3u8
+Tue Jul 1 04:31:57 CST 2025
+Tue Jul 1 04:31:57 CST 2025
+Tue Jul 1 04:33:27 CST 2025
