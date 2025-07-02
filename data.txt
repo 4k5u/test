@@ -6,3 +6,4 @@ glglehddl   https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_p
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-49f81c7cb478813bbf2af685918fa262b26a8312b0451a219c3da4a7489241e7_trns_h264/playlist.m3u8
 gusdk2362   https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.yXPoazkoOehLL680phES5d8U1E77kjY7bAIRnkYkbjlNak94FF2OBviCcgPZYYLI8fMWdLm3-Bx55UUqFvhSovqEGzsi8GPUWA2HAPv0PVDACddkujd1JqxvHw84M_dTPeU40rhaUWgzYGUL-eZKo9MDe-usCA7cJl5FTqD5FNp7JiSTEkfutXcho4K7RBcQ
+_meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-68d0c054ccab0e5c1f2d77ae48045fbd4a8098fe80db3cd7a79e99434e8fd8a4_trns_h264/playlist.m3u8
