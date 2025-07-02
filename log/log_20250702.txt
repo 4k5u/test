@@ -444,3 +444,15 @@ Wed Jul 2 22:49:20 CST 2025
 删除my_eyes_higher 
 删除hanny27 
 删除yin2618 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a9fea2c3929ca8295606a692a33e7e1dab05da041f056fbeea1cf0cc58caf4ce_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fe91512b943765c47c501a9539ee2510cc0c4ae7db0a08636cc063465d9240ed_trns_h264/playlist.m3u8
+Wed Jul 2 23:03:01 CST 2025
+Wed Jul 2 23:03:33 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 2 23:04:49 CST 2025
+删除somsom0339 
+删除ake_mi 
+删除my_eyes_higher 
+删除hanny27 
+删除yin2618 
