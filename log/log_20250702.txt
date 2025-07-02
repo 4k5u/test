@@ -279,3 +279,8 @@ Wed Jul 2 18:16:57 CST 2025
 添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Q4e69XvOLZWS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1E0ZTY5WHZPTFpXUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRTA3MkE2OC1GOTU2LTQ0REUtOEIyNi02NDNFMEFEOEMzQTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTQ1MTQyNSwiZXhwIjoxNzUxNDUyMDI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2GGVpJE4YFzVGfnVR8T8lGUK2R0MY0V7ijZ5dfqOjA1rdp7Pcr6JNOpA0Ah_4EIeRj954dVv9yAJ8at81qBhDBMY5CtAFcfAcilhqWtNTTt48pzaIEddnDk5cVTNaXML
 Wed Jul 2 18:17:07 CST 2025
 Wed Jul 2 18:18:20 CST 2025
+Wed Jul 2 18:32:09 CST 2025
+Wed Jul 2 18:32:17 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Jul 2 18:33:29 CST 2025
+删除hanny27 
