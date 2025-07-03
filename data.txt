@@ -5,3 +5,4 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 cecilia0903   https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+foxylovesyou   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-52c71748e3ae21e7b6191ec41103f443c46665bdcbffc34135dfbe8ff9a00eb9_trns_h264/playlist.m3u8
