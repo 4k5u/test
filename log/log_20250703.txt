@@ -169,3 +169,7 @@ Thu Jul 3 10:32:51 CST 2025
 Thu Jul 3 10:32:51 CST 2025
 Thu Jul 3 10:34:19 CST 2025
 删除Sime_Naughty 
+Thu Jul 3 10:47:09 CST 2025
+Thu Jul 3 10:47:09 CST 2025
+Thu Jul 3 10:48:27 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
