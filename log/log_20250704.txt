@@ -466,3 +466,14 @@ Fri Jul 4 22:04:41 CST 2025
 删除eunyoung1238 
 删除namuh0926 
 删除hanny27 
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ca9db4dcaa8788cbad8e8425f4af35152ff134d75ca74ccd9ee7c9b82a0216fd_trns_h264/playlist.m3u8
+Fri Jul 4 22:17:48 CST 2025
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MTlEQkNFNi0yMjg4LTQxNkUtODUxNC03QUQzRjU2RThFQzIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTYzODcwMCwiZXhwIjoxNzUxNjM5MzAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sVmRPrtzkTABcFpurO5CvBIqySPGvqzYx6qoAnnuZ8iKjragW9I4eQJi7JKRVhNdjboDQznRYiJA_kkjCs910HRz-GIWhfOe9qY3wjrt87g53u1vLeTS9YSe-GH8oEV-
+Fri Jul 4 22:18:31 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Jul 4 22:19:52 CST 2025
+删除eunyoung1238 
+删除namuh0926 
+删除hanny27 
