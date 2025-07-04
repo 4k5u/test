@@ -211,3 +211,10 @@ Fri Jul 4 14:02:36 CST 2025
 Fri Jul 4 14:02:40 CST 2025
 Fri Jul 4 14:04:10 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ed8c06282833455275fa87a006880d7be887447a9c4f1a635ba1ba3660152901_trns_h264/playlist.m3u8
+Fri Jul 4 14:17:41 CST 2025
+Fri Jul 4 14:17:43 CST 2025
+Fri Jul 4 14:19:16 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除foxylovesyou 
+删除taitehambelton 
