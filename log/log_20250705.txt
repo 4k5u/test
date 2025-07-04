@@ -9,3 +9,12 @@ Sat Jul 5 00:04:36 CST 2025
 删除redholic377 
 删除eunyoung1238 
 删除hanny27 
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ca9db4dcaa8788cbad8e8425f4af35152ff134d75ca74ccd9ee7c9b82a0216fd_trns_h264/playlist.m3u8
+Sat Jul 5 00:16:59 CST 2025
+Sat Jul 5 00:17:25 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Jul 5 00:18:54 CST 2025
+删除my_eyes_higher 
+删除eunyoung1238 
+删除hanny27 
