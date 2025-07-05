@@ -399,3 +399,13 @@ Sat Jul 5 21:03:20 CST 2025
 Sat Jul 5 21:04:34 CST 2025
 删除ake_mi 
 删除hanny27 
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e52f355f1b3fa9950fa4aa5042e954858ce7aff6e3690b5946f4544c94cd6fbd_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7be59bbe9c1ff4a8dfb717d7b26913a500f39123ae72e8cb5c8d9023549eb8af_trns_h264/playlist.m3u8
+Sat Jul 5 21:17:02 CST 2025
+Sat Jul 5 21:17:26 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Sat Jul 5 21:18:40 CST 2025
+删除tess00 
+删除ake_mi 
+删除my_eyes_higher 
+删除hanny27 
