@@ -309,3 +309,9 @@ Sat Jul 5 17:47:40 CST 2025
 Sat Jul 5 17:47:50 CST 2025
 Sat Jul 5 17:49:10 CST 2025
 删除sigmasian 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-d255a6a141955ded916ba94631052180d8d42fb4f535f0f446cf9641899fb1a4_trns_h264/playlist.m3u8
+Sat Jul 5 18:02:00 CST 2025
+添加54soda https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Q4e69XvOLZWS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1E0ZTY5WHZPTFpXUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNjFCQkQ3MS1DNjUwLTQ4NEQtODQ5Qy1BNjkwRkVDNDE5NDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTcwOTczMSwiZXhwIjoxNzUxNzEwMzMxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TR_xGrrUTTLAFrDfTS9fVU2Zu_s75YbutEZ14bLFTcWfa6Sije0vRUz4-O47e-f8pJnz62pJ59RdzBC0OfMA6StfaJW_yd748M6EO39vIgB5dievogTVYg51rv3DJJqR
+Sat Jul 5 18:02:14 CST 2025
+Sat Jul 5 18:03:32 CST 2025
+删除Tmdgus5411 
