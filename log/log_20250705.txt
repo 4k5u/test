@@ -184,3 +184,7 @@ Sat Jul 5 10:32:03 CST 2025
 Sat Jul 5 10:32:04 CST 2025
 Sat Jul 5 10:33:24 CST 2025
 删除mazzanti_ 
+添加mazzanti_ https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0921e9e08a671aaa320612008703d96ad88773a0cd6c49cbc288ba6204090e26_trns_h264/playlist.m3u8
+Sat Jul 5 10:47:01 CST 2025
+Sat Jul 5 10:47:02 CST 2025
+Sat Jul 5 10:48:23 CST 2025
