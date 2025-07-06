@@ -259,3 +259,8 @@ Sun Jul 6 17:02:42 CST 2025
 Sun Jul 6 17:02:48 CST 2025
 Sun Jul 6 17:04:12 CST 2025
 删除yin2618 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-873608328c8dbbb2a106a1ad3e17ca2a26ec8c7f1a7432c56549be0521350fdc_trns_h264/playlist.m3u8
+Sun Jul 6 17:17:41 CST 2025
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.rZjI1bDQTpSg.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3JaakkxYkRRVHBTZyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxM0UzMTIxQy1FMkZCLTQxOEQtODJFQS1GRDUxMDI0MUFBNDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTc5MzQ2MiwiZXhwIjoxNzUxNzk0MDYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.OxoCheZegGVuYv4ieKVgVISnVNG_vCSMhvbLClkfimHrS9rmVo5raEuMUf_t7DU30yEMUIdvREsnO98umwDnxtrMKBRWtn4Xali_vuMSTwOWCjeRQQZC8xjmBsYYbBRm
+Sun Jul 6 17:17:51 CST 2025
+Sun Jul 6 17:19:21 CST 2025
