@@ -49,3 +49,9 @@ Mon Jul 7 01:47:03 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Mon Jul 7 01:48:28 CST 2025
 删除eunyoung1238 
+Mon Jul 7 02:01:57 CST 2025
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UF2fRqfPd4Dv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VGMmZScWZQZDREdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0N0Y4NzVFQi1COEIyLTQ4MzAtQTA5NC1CMTdBN0IwQUQ0RDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MTgyNDkyMCwiZXhwIjoxNzUxODI1NTIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cr1GnmWr7spvJ6jshYXZAdvKH_SUrSPSU6P5uhd0KNOIlYbLxUuQOmkWOvz6OHuW5FFi7_bfYEqqFSoKZ-Ym5U6b5atdQ587T_i3MZ_ZyhkbCKIMX2A8o9CRxMcG9v7K
+Mon Jul 7 02:02:09 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Mon Jul 7 02:03:36 CST 2025
+删除eunyoung1238 
