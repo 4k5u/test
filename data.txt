@@ -3,3 +3,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 mazzanti_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8f7df1d3b48c066aeae73f08f1fc5aacd453545467a03e9dc82e426f662a76fc_trns_h264/playlist.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 taitehambelton   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8af5be481ce0b6cc3e481f1efd7d9c4a7a80ffb6a2d6474ae4e63cd7d13ad0a7_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
