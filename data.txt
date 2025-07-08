@@ -6,3 +6,4 @@ ake_mi   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-fe992466ce8a
 foxylovesyou   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b11317b3180f90287a14e4f6a459b0c22a3c0065a7d1941ba688e9f4219b671b_trns_h264/playlist.m3u8
 amilia4u   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-02bc48ace11e29b4de3f98fa9b3390636660d6a5f3886d14399f52f655d3f3d1_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
