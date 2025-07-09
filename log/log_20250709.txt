@@ -476,3 +476,10 @@ Wed Jul 9 22:18:45 CST 2025
 删除jjine0127 
 删除eunyoung1238 
 删除yin2618 
+Wed Jul 9 22:32:00 CST 2025
+Wed Jul 9 22:32:30 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 9 22:33:47 CST 2025
+删除eunyoung1238 
+删除yin2618 
