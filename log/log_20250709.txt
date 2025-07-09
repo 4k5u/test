@@ -417,3 +417,12 @@ Wed Jul 9 20:32:34 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.bFXhOqQz_VxcK-eI0APNcuURLhJvBlsX7woS6NZ7ux9dw0L7kWV5kHCMr2jF7_FzC99NIA9o0qybwCZPyj3HE1xBWoBsH6ncdgkiEpUV8LGVncgRggznnmhFVKSZUQQ_f3_kDB5sy6YdsOaIpdzlUA1OD1x0KTmvOtV1FJoAOf0_Wpnn-QvVkQPSdwZsJtWf
 Wed Jul 9 20:34:04 CST 2025
 删除eunyoung1238 
+Wed Jul 9 20:47:00 CST 2025
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9xWKHlGeSN06.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzl4V0tIbEdlU04wNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMjMxM0ZGNS02ODFDLTQ0RjQtODMxQi0yRTEwQTlFOUI1Q0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjA2NTI0OSwiZXhwIjoxNzUyMDY1ODQ5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.HGs20PXr3yBMA3oHhbmEI-glrU9r8kY3X83naiVckxw6o60XlokQSxEQHPA9lxwYZzjGKTw4d6zG2LyQ3Upq3mUN-yk9IV2DXbSNMaSBhWsRzL1phNyaYrTDaywQYlPE
+Wed Jul 9 20:47:34 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.q4Hk38KY_Bb-ho3rJgxTk3bPkzN4fU7xpNwfqVY_ZUv9ZwqQ17zT3MCi1-8wreTmhCOEYtje_sxhVvNRU-8Uau3VpL_P36WHsg5xmop3gXeFeYWNG_CT6X4moLCwHX_LM3p0L-cyu49usjFEi9rgJiwveNRPMYF1SoWfDdGCTXL07ZHiLZxt64G3lj63li3N
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+Wed Jul 9 20:49:06 CST 2025
+删除eunyoung1238 
+删除gusdk2362 
