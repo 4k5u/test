@@ -108,3 +108,9 @@ Thu Jul 10 04:33:23 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Thu Jul 10 04:34:57 CST 2025
 删除lolsos 
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-822c9201430ab7e2243fac1924f299a85c648fe384e1f6f3b584fa31132b794a_trns_h264/playlist.m3u8
+Thu Jul 10 04:47:19 CST 2025
+Thu Jul 10 04:47:21 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Thu Jul 10 04:48:59 CST 2025
+删除lolsos 
