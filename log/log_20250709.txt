@@ -513,3 +513,12 @@ Wed Jul 9 23:33:42 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除eunyoung1238 
 删除yin2618 
+Wed Jul 9 23:47:02 CST 2025
+Wed Jul 9 23:47:33 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 9 23:48:38 CST 2025
+删除tyy750ii 
+删除rud9281 
+删除eunyoung1238 
+删除yin2618 
