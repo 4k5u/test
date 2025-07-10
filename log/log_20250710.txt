@@ -356,3 +356,8 @@ Thu Jul 10 19:47:49 CST 2025
 Thu Jul 10 19:48:15 CST 2025
 Thu Jul 10 19:49:24 CST 2025
 删除foxylovesyou 
+添加ad0res https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-a097bac3f5f42f1ad659fb32446a6b24b6096009f21f255f9bab4d5188aa6d70_trns_h264/playlist.m3u8
+Thu Jul 10 20:02:05 CST 2025
+Thu Jul 10 20:02:27 CST 2025
+Thu Jul 10 20:03:36 CST 2025
+删除yin2618 
