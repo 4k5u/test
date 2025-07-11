@@ -5,3 +5,4 @@ sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.
 taitehambelton   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-287d60a7757df6e9e4dd05a91df65d2c8caa0382bc085293e760140601b7ed9b_trns_h264/playlist.m3u8
 sexygamesx   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7e54f55863bf97e4e3ad032847ceb20bb86e1cf86d6ccbaf45b49ffd7f3bae71_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b8f10375886a034e509638cc3d4d2e1c64f5c358d3dcfbd71044bd1e5c0c6819_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8

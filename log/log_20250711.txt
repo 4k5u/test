@@ -215,3 +215,7 @@ Fri Jul 11 13:32:38 CST 2025
 Fri Jul 11 13:32:42 CST 2025
 Fri Jul 11 13:34:13 CST 2025
 删除IdaJonesy 
+Fri Jul 11 13:46:53 CST 2025
+Fri Jul 11 13:46:57 CST 2025
+Fri Jul 11 13:48:29 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
