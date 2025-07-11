@@ -180,3 +180,7 @@ Fri Jul 11 11:16:58 CST 2025
 Fri Jul 11 11:18:32 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除100472 
+Fri Jul 11 11:32:53 CST 2025
+Fri Jul 11 11:32:59 CST 2025
+Fri Jul 11 11:34:33 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
