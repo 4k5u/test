@@ -480,3 +480,14 @@ Sat Jul 12 22:18:52 CST 2025
 删除rud9281 
 删除eunyoung1238 
 删除hanny27 
+Sat Jul 12 22:32:59 CST 2025
+Sat Jul 12 22:33:29 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Sat Jul 12 22:34:44 CST 2025
+删除hyuna0721 
+删除somsom0339 
+删除rud9281 
+删除eunyoung1238 
+删除hanny27 
