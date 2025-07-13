@@ -6,3 +6,4 @@ kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_pla
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 sexygamesx   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-a6d2de94b8423e89e114703e2e0a4fa50179e8b0bf9876af9e5bed9e1a1dc5a1_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bdaf8ee1cd2a737af5691363bff76945e37e6f169f7046a61ae601a7b6deb698_trns_h264/playlist.m3u8
