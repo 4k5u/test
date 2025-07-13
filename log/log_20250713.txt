@@ -188,3 +188,8 @@ Sun Jul 13 12:01:57 CST 2025
 Sun Jul 13 12:02:02 CST 2025
 Sun Jul 13 12:03:31 CST 2025
 删除Sime_Naughty 
+Sun Jul 13 12:16:55 CST 2025
+Sun Jul 13 12:16:59 CST 2025
+Sun Jul 13 12:18:26 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除taitehambelton 
