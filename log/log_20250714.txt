@@ -120,3 +120,7 @@ Mon Jul 14 07:48:08 CST 2025
 Mon Jul 14 07:48:14 CST 2025
 Mon Jul 14 07:49:44 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Mon Jul 14 08:02:32 CST 2025
+Mon Jul 14 08:02:38 CST 2025
+Mon Jul 14 08:04:11 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8

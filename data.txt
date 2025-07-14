@@ -3,3 +3,4 @@ ksb0219   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-e7df71e7f1d00df858da4b239dbe5ea40a34ee072f215aacd570e427be812783_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
