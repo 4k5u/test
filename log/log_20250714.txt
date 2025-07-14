@@ -290,3 +290,12 @@ Mon Jul 14 18:18:09 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
 Mon Jul 14 18:19:33 CST 2025
 删除yin2618 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bd8201a40408e2024e785bdee2e295eb17fe24ea680d75e03c1de6e294789b8b_trns_h264/playlist.m3u8
+Mon Jul 14 18:32:08 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTU4MEUyQy1EQTQ2LTQ3QkYtOUU2My1EREM1Q0MyRDQ4NDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjQ4OTE0MywiZXhwIjoxNzUyNDg5NzQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-MbIdiQ52poAaBRYVi8xVMCL5kLeCQdLefHZ4ct7LL5T5hBdEgPEj2-8xZGayZqjZaEOkIcsxXoiS-WGMUDJydgzTesWBDAhA8D9jxlinloHksPrEM_eCqAvJ89YLy_W
+Mon Jul 14 18:32:30 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Jul 14 18:33:53 CST 2025
+删除hanny27 
+删除yin2618 
