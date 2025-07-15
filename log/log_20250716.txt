@@ -74,3 +74,7 @@ Wed Jul 16 04:02:50 CST 2025
 Wed Jul 16 04:03:00 CST 2025
 Wed Jul 16 04:04:28 CST 2025
 删除sexygamesx 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-42d2a966a7f8915456f607969dcb09d9702d30a39fa5248a4e11a6591b9002fe_trns_h264/playlist.m3u8
+Wed Jul 16 04:17:47 CST 2025
+Wed Jul 16 04:17:57 CST 2025
+Wed Jul 16 04:19:27 CST 2025
