@@ -5,3 +5,4 @@ IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9c5a3554d8973b57db04206606474f42271e636c8008727696b7667a2ba28893_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ymh-jxSxSVu1l7wbcZ2FAOsffeekuhTw9TezDSZ2IITzvc4q7BQF13BQtI1c5KN-JaFeFxQLwnD6qDtkcxN87uMC75lfn5mWfGnP7qssUcRXIkj7nhHR_zGvdSQs6rORWvcUJz_f-No7VEAfbc3_TYJ9ytgvTtOCcA5gwHPyJ9lP9O0b76RE762lI8JHFte-
