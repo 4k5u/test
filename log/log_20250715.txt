@@ -299,3 +299,10 @@ Tue Jul 15 18:32:22 CST 2025
 Tue Jul 15 18:33:44 CST 2025
 删除iminako 
 删除yin2618 
+Tue Jul 15 18:46:59 CST 2025
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5CF4w5XAvR8X.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVDRjR3NVhBdlI4WCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJENkMyMDM3Ni01OEI3LTRBMkQtOUJCQS0xMDU2QkM2RjRGQjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjU3NjQzNSwiZXhwIjoxNzUyNTc3MDM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fvnuP9GLOzKGcrQ5z2AGzXz-wu_aOvmqse4nS4WujfO8sf2x-fHNMT6BnQlReol2gIbhzbWQ-sxLNT5NO1MOO2VLSfJXQlhh1LcmTUwdZfrgRPNxu1AI8dclwqS8y0v2
+Tue Jul 15 18:47:20 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Tue Jul 15 18:48:42 CST 2025
+删除amilia4u 
+删除yin2618 
