@@ -487,3 +487,11 @@ Wed Jul 16 20:49:21 CST 2025
 删除my_eyes_higher 
 删除hanny27 
 删除yin2618 
+Wed Jul 16 21:03:01 CST 2025
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QzNFMDAzNi1DQzcxLTQ3MjYtOEIzQy1CNzlFNjU1NkE3N0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjY3MTAxMywiZXhwIjoxNzUyNjcxNjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Q__c7Bftr5zsrZJHE8_keyCW03nEE7gtFWwGJysG_mGNcUI6ifgrrjX1b0XnGVyJSqQRHhnOMVFGNt9T2U8qRKrMcx4pHMnVYk22b93qtqB2dxaffax1BEdBfoiBMQbj
+Wed Jul 16 21:03:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 16 21:05:09 CST 2025
+删除hanny27 
+删除yin2618 
