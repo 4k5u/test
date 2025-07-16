@@ -180,3 +180,9 @@ Wed Jul 16 12:03:14 CST 2025
 Wed Jul 16 12:03:20 CST 2025
 Wed Jul 16 12:04:40 CST 2025
 删除nobleinc 
+Wed Jul 16 12:17:00 CST 2025
+Wed Jul 16 12:17:06 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Jul 16 12:18:38 CST 2025
+删除leelate 
+删除gremmy 
