@@ -318,3 +318,14 @@ Wed Jul 16 17:03:56 CST 2025
 删除foxylovesyou 
 删除gremmy 
 删除yin2618 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-542c5eace0c2ffc21e93133989c57b9869ae141c87e8426b2c93f292cd030117_trns_h264/playlist.m3u8
+Wed Jul 16 17:17:09 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQzQyNEJGNy03OTc0LTQzRDItOURERi1FQzc1OTIzQUQxQkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjY1NzQ0MCwiZXhwIjoxNzUyNjU4MDQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.orTjtr0is_fUuC1d_eiFBpnSCiIJz10TiHBmkqSWxSG9LgxCCDr0niBxNUE4m93Mj78boIvt7jtjz00xNGK4c1gwgYLl7KsGZvP1MrJIeqPIEsvGxX52h8BAZVQ3ofd9
+Wed Jul 16 17:17:25 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 16 17:18:58 CST 2025
+删除SanySenise 
+删除foxylovesyou 
+删除gremmy 
+删除yin2618 
