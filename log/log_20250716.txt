@@ -249,3 +249,9 @@ Wed Jul 16 14:47:04 CST 2025
 添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
 Wed Jul 16 14:48:41 CST 2025
 删除gremmy 
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-542c5eace0c2ffc21e93133989c57b9869ae141c87e8426b2c93f292cd030117_trns_h264/playlist.m3u8
+Wed Jul 16 15:01:57 CST 2025
+Wed Jul 16 15:02:05 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Wed Jul 16 15:03:43 CST 2025
+删除gremmy 
