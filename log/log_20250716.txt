@@ -211,3 +211,10 @@ Wed Jul 16 13:17:00 CST 2025
 添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
 Wed Jul 16 13:18:41 CST 2025
 删除gremmy 
+添加taitehambelton https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b03a30045045d27a166428d5caea71c4ff47a8cf1c47e4d7801f92c9b1660a32_trns_h264/playlist.m3u8
+添加amilia4u https://edge12-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-f20c8f5c3a606f6618968ea9162421547cc143b901e744379a20e177c382cae9_trns_h264/playlist.m3u8
+Wed Jul 16 13:32:00 CST 2025
+Wed Jul 16 13:32:04 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Wed Jul 16 13:33:42 CST 2025
+删除gremmy 
