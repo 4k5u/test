@@ -299,3 +299,8 @@ Thu Jul 17 16:04:47 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除alicelebel 
 删除yin2618 
+Thu Jul 17 16:17:05 CST 2025
+Thu Jul 17 16:17:11 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Jul 17 16:18:48 CST 2025
+删除yin2618 
