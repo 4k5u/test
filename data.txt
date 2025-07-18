@@ -3,7 +3,6 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-19275f1b3ef58a5b6dba7534716a4b5aab643700e335dbac14315fada9fc2c91_trns_h264/playlist.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
-my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b7cc60632c1b5c1733236daef3d447a6acd99326e87b76fafac490fdc3d271b9_trns_h264/playlist.m3u8
 nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4Q0ZGMjhCRC1ENDIyLTREOEUtODNBRS0yMjA2RjBEMjBGMzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MjgxODU4MCwiZXhwIjoxNzUyODE5MTgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.q-Yk9qPfDHTZgIGvXQTWyxDbqU3CwHMmC_gXdeJktBBNb5S8n297WFri4QZs0S0JZBkCElez4OYFlK0jW1Cwd5GrTjGv7sbxIP00diO9pH7HEFEWD_1o2gvH0fHodXzc
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 amilia4u   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-7569e98e1ddcda035c2a91af09dac1e74f4cb20bd30e2f56f5a76c762a683754_trns_h264/playlist.m3u8
