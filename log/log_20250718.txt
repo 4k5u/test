@@ -388,3 +388,9 @@ Fri Jul 18 21:49:50 CST 2025
 删除navi04 
 删除somsom0339 
 删除dreamch77 
+Fri Jul 18 22:02:55 CST 2025
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AurE0JJeNO7J.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F1ckUwSkplTk83SiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFREFBOThGMS1CNTE4LTRBOUUtQTQ1NC0yNUM5OUQ1NTFGNkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mjg0NzM5MCwiZXhwIjoxNzUyODQ3OTkwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ec0mDPmZhU0M2HFCV_4yOMunc73b5ErsGt4-ro26_41UzF-Ze-B5fTFJViXKkCbUbZpo8TbmKmOp9T6cizwmw6g3SOmz5uw5u4KdoyIRzlNAjTzidDj0A-1rxdiVpfj0
+Fri Jul 18 22:03:19 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Fri Jul 18 22:04:21 CST 2025
+删除dreamch77 
