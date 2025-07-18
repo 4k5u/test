@@ -284,3 +284,9 @@ Fri Jul 18 17:18:41 CST 2025
 删除SanySenise 
 删除ad0res 
 删除yin2618 
+添加ad0res https://edge7-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-87f8672723f9b445badbf57d4d271b5b3931a90a6d063a2523e6ed24706c6fad_trns_h264/playlist.m3u8
+Fri Jul 18 17:31:58 CST 2025
+Fri Jul 18 17:32:06 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Jul 18 17:33:35 CST 2025
+删除yin2618 
