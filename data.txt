@@ -6,3 +6,4 @@ Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto
 iminako   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-19275f1b3ef58a5b6dba7534716a4b5aab643700e335dbac14315fada9fc2c91_trns_h264/playlist.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b7cc60632c1b5c1733236daef3d447a6acd99326e87b76fafac490fdc3d271b9_trns_h264/playlist.m3u8
