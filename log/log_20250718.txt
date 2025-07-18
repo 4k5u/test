@@ -269,3 +269,10 @@ Fri Jul 18 16:47:10 CST 2025
 Fri Jul 18 16:48:33 CST 2025
 删除iminako 
 删除yin2618 
+添加amilia4u https://edge6-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-771223f01c0dd23b4d8cc2a90e967414b634ebde3c53d7d7f573521afa64465e_trns_h264/playlist.m3u8
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-87f8672723f9b445badbf57d4d271b5b3931a90a6d063a2523e6ed24706c6fad_trns_h264/playlist.m3u8
+Fri Jul 18 17:03:09 CST 2025
+Fri Jul 18 17:03:17 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Jul 18 17:04:50 CST 2025
+删除yin2618 
