@@ -347,3 +347,11 @@ Sun Jul 20 19:33:33 CST 2025
 Sun Jul 20 19:35:05 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-80986419acf18a41347fe9c60018f6616a6b0180f42d12e73975baad36bf5bcc_trns_h264/playlist.m3u8
+Sun Jul 20 19:47:54 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.shvLpgvQjUk9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NodkxwZ3ZRalVrOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMEM5NDVDQi0zNjc4LTQ2OUMtODVBMC0zQzRERDJDQzJBMTciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzAxMjA4NSwiZXhwIjoxNzUzMDEyNjg1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.idLQuyJdfi5MpGJl24Laoo13NEw3p1j9SIeHzsXF9vKAvMTja8rk9TXZ0K6ljPZXD0Nx8BM62WbiKi2FAQQrZ5vzaex-Y6cOu8mcydbVrEXpGvePfdA9Rsw5-AMN4a9r
+Sun Jul 20 19:48:18 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sun Jul 20 19:49:42 CST 2025
+删除my_eyes_higher 
+删除yin2618 
