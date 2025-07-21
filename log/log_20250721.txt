@@ -307,3 +307,11 @@ Mon Jul 21 19:33:05 CST 2025
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 Mon Jul 21 19:34:33 CST 2025
 删除navi04 
+添加ake_mi https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9f9474a718ef6878fd027ec60928679f5980b1127a73964e5c920b6c9536a8b0_trns_h264/playlist.m3u8
+Mon Jul 21 19:47:00 CST 2025
+Mon Jul 21 19:47:16 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Mon Jul 21 19:48:43 CST 2025
+删除dkdlfjqm758 
+删除foxylovesyou 
+删除navi04 
