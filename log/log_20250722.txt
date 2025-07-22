@@ -251,3 +251,8 @@ Tue Jul 22 16:32:58 CST 2025
 Tue Jul 22 16:33:04 CST 2025
 Tue Jul 22 16:34:35 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-66f8cc6d5747e5e4e62e9d5fc89e1c775c6a1f564e8c68a52bcb71fe99d5e29b_trns_h264/playlist.m3u8
+Tue Jul 22 16:47:33 CST 2025
+Tue Jul 22 16:47:39 CST 2025
+Tue Jul 22 16:49:01 CST 2025
+删除foxylovesyou 
