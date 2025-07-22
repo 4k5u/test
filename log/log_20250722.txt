@@ -152,3 +152,7 @@ Tue Jul 22 10:16:59 CST 2025
 Tue Jul 22 10:17:05 CST 2025
 Tue Jul 22 10:18:27 CST 2025
 删除gusdk2362 
+Tue Jul 22 10:32:51 CST 2025
+Tue Jul 22 10:32:57 CST 2025
+Tue Jul 22 10:34:26 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
