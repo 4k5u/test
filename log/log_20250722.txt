@@ -321,3 +321,11 @@ Tue Jul 22 18:47:52 CST 2025
 Tue Jul 22 18:49:25 CST 2025
 删除foxylovesyou 
 删除yin2618 
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-66f8cc6d5747e5e4e62e9d5fc89e1c775c6a1f564e8c68a52bcb71fe99d5e29b_trns_h264/playlist.m3u8
+Tue Jul 22 19:02:05 CST 2025
+Tue Jul 22 19:02:17 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1WxwJmfgafhP9TN9wPiQX-3MXEicaDNh1NuT9a4WJuLaEnThH5R9xuIYxq9JKWT7OtfDcJzKJZQyytdVBPkc7JdcdZxyA-BQ_W53UQTvJUUZBb4Sz939daOoVQAMwzx-1PYr6Da3_KFjUoBZ_SiBoUAzV5-NnphBhOciHf_jq2m_LUdbZGqUM7noiNs8Q8rZ
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Tue Jul 22 19:03:54 CST 2025
+删除foxylovesyou 
+删除yin2618 
