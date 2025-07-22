@@ -314,3 +314,10 @@ Tue Jul 22 18:32:13 CST 2025
 Tue Jul 22 18:33:51 CST 2025
 删除foxylovesyou 
 删除yin2618 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-66f8cc6d5747e5e4e62e9d5fc89e1c775c6a1f564e8c68a52bcb71fe99d5e29b_trns_h264/playlist.m3u8
+Tue Jul 22 18:47:40 CST 2025
+Tue Jul 22 18:47:52 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Tue Jul 22 18:49:25 CST 2025
+删除foxylovesyou 
+删除yin2618 
