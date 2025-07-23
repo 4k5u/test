@@ -309,3 +309,10 @@ Wed Jul 23 18:51:27 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
 Wed Jul 23 18:52:52 CST 2025
 删除yin2618 
+添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-14c45f1c06a50b0cd3d70b9099220b51ece296d8634245324204fde7274ad698_trns_h264/playlist.m3u8
+Wed Jul 23 19:02:40 CST 2025
+Wed Jul 23 19:02:56 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.7E0NOx6X2UNhEW1EXq88BmkhNNRX9NX1oliQ4cLu3YCp3bmaQMs3mDhQLQjZRt7GlyoAOYEU7Z-JdcWsrLrK9QThisXJX6Ur9WoMGM6FQdhNQxJ1DcQa1aYt7KiBEFD2aF0OwE_kJyOER6mzneGTl-f9NHZQ_58XIMaEOkqUT44fMp8Nlq6Vf4hdm-dYbMYV
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 23 19:04:21 CST 2025
+删除yin2618 
