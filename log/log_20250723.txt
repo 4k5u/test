@@ -284,3 +284,9 @@ Wed Jul 23 17:48:01 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
 Wed Jul 23 17:49:25 CST 2025
 删除yin2618 
+Wed Jul 23 18:02:06 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwNjhFODgwQy1DOUE2LTQ4QUItOEI5OC1FOTlFNzc1ODA5N0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzI2NDkyOSwiZXhwIjoxNzUzMjY1NTI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.myp4mOSsTpNLl5nmiKmfHQUPMjWuzJ5Xbj_3MtWK9lmqW-qRVqO_8F-IPjRc-IeZz1XjJzg3yEm7XRJ_amPGRbqhBSa5HjqAXNpCVnCNwEIDEDATKjxMN8zMZbi1RvMh
+Wed Jul 23 18:02:20 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Jul 23 18:03:48 CST 2025
+删除yin2618 
