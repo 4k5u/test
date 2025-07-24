@@ -315,3 +315,10 @@ Thu Jul 24 19:32:42 CST 2025
 Thu Jul 24 19:34:15 CST 2025
 删除alswl2208 
 删除yin2618 
+Thu Jul 24 19:47:35 CST 2025
+Thu Jul 24 19:48:00 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Thu Jul 24 19:49:32 CST 2025
+删除alswl2208 
+删除yin2618 
