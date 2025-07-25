@@ -457,3 +457,11 @@ Fri Jul 25 22:32:42 CST 2025
 Fri Jul 25 22:33:55 CST 2025
 删除alswl2208 
 删除hanny27 
+Fri Jul 25 22:47:28 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxNUJFMzM3Ni1FQzI0LTQ0OEYtOEFCRS1CRDM1MUZBRjBBMzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzQ1NDg2MSwiZXhwIjoxNzUzNDU1NDYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.EVosFsctbfJiKPIAB-O_5v_smQP3CVLujNr81W_LFNxh-S23i9VXCRzxbyILAwe21FPxJTUBQq1krfWvIDcJ4LqFkJpEXoQ_kvDBzDCBs1Nmdkj8NYHIFCrv4vWsAkwB
+Fri Jul 25 22:48:08 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_playlist.m3u8?aid=null
+Fri Jul 25 22:49:31 CST 2025
+删除alswl2208 
+删除hanny27 
