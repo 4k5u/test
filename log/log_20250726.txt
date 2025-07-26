@@ -325,3 +325,9 @@ Sat Jul 26 19:03:11 CST 2025
 Sat Jul 26 19:04:30 CST 2025
 删除ad0res 
 删除yin2618 
+Sat Jul 26 19:17:02 CST 2025
+Sat Jul 26 19:17:14 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Sat Jul 26 19:18:38 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除yin2618 
