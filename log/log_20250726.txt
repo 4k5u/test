@@ -238,3 +238,8 @@ Sat Jul 26 15:32:08 CST 2025
 Sat Jul 26 15:33:38 CST 2025
 删除m0m099 
 删除gusdk2362 
+Sat Jul 26 15:47:00 CST 2025
+Sat Jul 26 15:47:08 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Jul 26 15:48:35 CST 2025
+删除gusdk2362 
