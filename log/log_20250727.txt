@@ -361,3 +361,10 @@ Sun Jul 27 23:33:49 CST 2025
 删除Tmdgus5411 
 删除anystar00 
 删除eunyoung1238 
+添加honey_pinkgreen https://edge4-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-5280ca88badb8902e771726ba4aba731abdde454dd6f1a9f3f2e19a1795ba706_trns_h264/playlist.m3u8
+Sun Jul 27 23:47:34 CST 2025
+Sun Jul 27 23:47:50 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Jul 27 23:49:27 CST 2025
+删除imanatural 
+删除eunyoung1238 
