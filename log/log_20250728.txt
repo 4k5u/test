@@ -105,3 +105,7 @@ Mon Jul 28 06:33:58 CST 2025
 删除moem9e9 
 删除sigmasian 
 删除lolsos 
+Mon Jul 28 06:47:51 CST 2025
+Mon Jul 28 06:47:55 CST 2025
+Mon Jul 28 06:49:23 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
