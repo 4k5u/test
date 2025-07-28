@@ -4,3 +4,7 @@ Tue Jul 29 00:03:23 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Tue Jul 29 00:04:51 CST 2025
 删除hanny27 
+Tue Jul 29 00:17:22 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5MzAxQTFERi0xRTY5LTREOTctODM0OC0yODNDOTZGRDY2QTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzcxOTQ1NSwiZXhwIjoxNzUzNzIwMDU1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.dRx0rwRHKopph6NdjHSNzIk1mw7i0rd6FsLe-pZuJoiWsK5Y326B7zLhy_xXJ_DgO8wj-V5DT6b1ajLypNQBuTtsphNUYncj0HFTifvBBT1ay5Jmk4k4wV2wMzKnRBD9
+Tue Jul 29 00:17:42 CST 2025
+Tue Jul 29 00:19:07 CST 2025
