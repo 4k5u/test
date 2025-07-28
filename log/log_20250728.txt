@@ -314,3 +314,11 @@ Mon Jul 28 19:33:04 CST 2025
 Mon Jul 28 19:34:36 CST 2025
 删除hanny27 
 删除yin2618 
+Mon Jul 28 19:47:04 CST 2025
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGMTU0RDkyNC0yNDA2LTQ1NkItQUVEMC02OUZCMTA3MUFGM0UiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzcwMzIyOCwiZXhwIjoxNzUzNzAzODI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.j42OgeH0DuVmwPsKtK7JQwlOCtkjQ73AyrZtemq1Brx87GvIWR9uBo0DbFirKpFqFBshFOBdW-I5JUvV9V0d7lCU8X3kOFuAFeC4oXjhjCcw6D5CR3rQ39IVzAYKBX0R
+Mon Jul 28 19:47:25 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Jul 28 19:48:46 CST 2025
+删除hanny27 
+删除yin2618 
