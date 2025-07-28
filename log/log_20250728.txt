@@ -426,3 +426,12 @@ Mon Jul 28 23:18:30 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Mon Jul 28 23:19:54 CST 2025
 删除hanny27 
+Mon Jul 28 23:32:43 CST 2025
+Mon Jul 28 23:33:01 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Mon Jul 28 23:34:27 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除bongbong486 
+删除kkkku96 
+删除mikio_san 
+删除hanny27 
