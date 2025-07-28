@@ -296,3 +296,12 @@ Mon Jul 28 19:04:23 CST 2025
 删除dign1461 
 删除hanny27 
 删除yin2618 
+Mon Jul 28 19:17:38 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.shvLpgvQjUk9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NodkxwZ3ZRalVrOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwREEzMERCNi00ODM0LTRGMUEtQTFBMy1CRTdFODFEODBCMTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1MzcwMTQ2NiwiZXhwIjoxNzUzNzAyMDY2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.I4d-qPpn8xoZRuxBEiXq0tZtkdOb0h4Fz3DgIZ_rNGGZdTRqv0agRgzIpJB3u4H-7j1E3HcvM6k_Occ3q178ealw5ejDP4XTRmAI2nhF3TWkqW3Zdpf8x10bGB_25WCM
+Mon Jul 28 19:17:55 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Jul 28 19:19:20 CST 2025
+删除glglehddl 
+删除hanny27 
+删除yin2618 
