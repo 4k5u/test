@@ -377,3 +377,13 @@ Mon Jul 28 21:32:30 CST 2025
 Mon Jul 28 21:33:55 CST 2025
 删除hanny27 
 删除yin2618 
+Mon Jul 28 21:47:39 CST 2025
+Mon Jul 28 21:48:03 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Jul 28 21:49:26 CST 2025
+删除navi04 
+删除emforhs1919 
+删除leelate 
+删除hanny27 
+删除yin2618 
