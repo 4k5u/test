@@ -249,3 +249,8 @@ Wed Jul 30 16:03:12 CST 2025
 Wed Jul 30 16:03:19 CST 2025
 Wed Jul 30 16:04:47 CST 2025
 删除sigmasian 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b4d80d0879cdce2660f1097a56e16034f25d9ca396c16e7e45dfe2e2cb48dfcf_trns_h264/playlist.m3u8
+Wed Jul 30 16:32:35 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRTE5Nzk2OS00OTA0LTQ3ODktODdFQS0zMUY0NzMwOEI1Q0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Mzg2NDM2MCwiZXhwIjoxNzUzODY0OTYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qy8qVspRSpjnWbqRn5cwfSNDREZ0K0P-K0npFpNZ22Qo01gOaKq8_GSoMnsbhRVpyi3N3rG43JAT1MZdMpY8QnnhgmXjv7jtYXzqojc7Z-xgnHnLT4LIjh71WI-Lw2CW
+Wed Jul 30 16:32:45 CST 2025
+Wed Jul 30 16:34:14 CST 2025
