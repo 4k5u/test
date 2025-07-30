@@ -405,3 +405,8 @@ Wed Jul 30 23:34:44 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除gusdk2362 
 删除chuing77 
+Wed Jul 30 23:47:38 CST 2025
+Wed Jul 30 23:48:10 CST 2025
+Wed Jul 30 23:49:30 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除m0m099 
