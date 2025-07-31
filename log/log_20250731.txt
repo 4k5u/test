@@ -226,3 +226,7 @@ Thu Jul 31 14:32:59 CST 2025
 Thu Jul 31 14:33:01 CST 2025
 Thu Jul 31 14:34:21 CST 2025
 删除sigmasian 
+Thu Jul 31 14:47:49 CST 2025
+Thu Jul 31 14:47:51 CST 2025
+Thu Jul 31 14:49:10 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
