@@ -1,4 +1,3 @@
 _meganmeow_   https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-53b0c3242e099e712814a40c007e3d1855079f331917649b3bdcc60a9e2af7a6_trns_h264/playlist.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-d6f9ff82348fa7e8050aea8029ae3d5dc0cbe1402d2f957e96ef2824ea00e82f_trns_h264/playlist.m3u8
 sexygamesx   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-e1cf1a281630f283e3eee2602d90bf3dea190084039381b9ded0fe7d65c9b246_trns_h264/playlist.m3u8
