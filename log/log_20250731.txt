@@ -178,3 +178,8 @@ Thu Jul 31 11:16:58 CST 2025
 Thu Jul 31 11:16:58 CST 2025
 Thu Jul 31 11:18:26 CST 2025
 删除sexygamesx 
+添加sexygamesx https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b64c4fc4c60d9f61d660ca2fb9e56e000f53577fccfdba83639e0eb3cf0d0968_trns_h264/playlist.m3u8
+Thu Jul 31 11:32:32 CST 2025
+Thu Jul 31 11:32:33 CST 2025
+Thu Jul 31 11:34:04 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
