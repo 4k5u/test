@@ -377,3 +377,13 @@ Fri Aug 1 20:32:41 CST 2025
 Fri Aug 1 20:33:59 CST 2025
 删除alswl2208 
 删除hanny27 
+Fri Aug 1 20:51:25 CST 2025
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y9L6K2qYP4iK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k5TDZLMnFZUDRpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RUY4NUFGMi00MDA1LTRCOUEtODhFMy1GN0ZFRkFBRjA2Q0QiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDA1MjY5MiwiZXhwIjoxNzU0MDUzMjkyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-ZDAiMSARRk0E2Cx9kkeLXzh7KxdyfpGsjioPV9X0J1rMolgpGQTZoElnUIakCOdX6uxh7BWQHP8ODzeogrI1NhwFCAJSZpAtv6f0FTKjofHJyHElHtvd66xxe--cwYW
+Fri Aug 1 20:51:59 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Fri Aug 1 20:53:07 CST 2025
+删除your_desssert 
+删除navi04 
+删除alswl2208 
+删除hanny27 
