@@ -5,3 +5,10 @@ Sat Aug 2 00:03:44 CST 2025
 删除chuing77 
 删除gusdk2362 
 删除mikio_san 
+Sat Aug 2 00:16:59 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGRDFEODNGNS1FN0VBLTRFMzgtOTQ3Ni1BQzQ1MUU0MUJEQTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDA2NTAzMiwiZXhwIjoxNzU0MDY1NjMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TDlcbbeu4dSC_5g3CoE-ehAiEkMmW07H2ksFX2qswXHo8Ifi0cXYbfAI4Bim-E0S7Dh8NpcR8-bwxNpqvTAXAjiRuwpC-H91itOoelg3F6xwdswtvHgUrhg_uew6Pwj-
+Sat Aug 2 00:17:21 CST 2025
+Sat Aug 2 00:18:32 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除your_desssert 
+删除Ryo-sama 
