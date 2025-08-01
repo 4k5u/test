@@ -396,3 +396,11 @@ Fri Aug 1 21:03:58 CST 2025
 删除ee5844 
 删除alswl2208 
 删除hanny27 
+Fri Aug 1 21:17:14 CST 2025
+Fri Aug 1 21:17:46 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Fri Aug 1 21:18:56 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除alswl2208 
+删除hanny27 
