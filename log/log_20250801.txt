@@ -207,3 +207,7 @@ Fri Aug 1 14:02:01 CST 2025
 Fri Aug 1 14:02:05 CST 2025
 Fri Aug 1 14:03:35 CST 2025
 删除Sime_Naughty 
+Fri Aug 1 14:17:46 CST 2025
+Fri Aug 1 14:17:48 CST 2025
+Fri Aug 1 14:19:19 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
