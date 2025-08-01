@@ -48,3 +48,9 @@ Sat Aug 2 02:19:35 CST 2025
 Sat Aug 2 02:32:01 CST 2025
 Sat Aug 2 02:32:12 CST 2025
 Sat Aug 2 02:33:31 CST 2025
+Sat Aug 2 02:48:00 CST 2025
+Sat Aug 2 02:48:06 CST 2025
+Sat Aug 2 02:49:34 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除nobleinc 
+删除soso621 
