@@ -473,3 +473,11 @@ Fri Aug 1 23:35:08 CST 2025
 删除homegirl 
 删除howru010 
 删除hanny27 
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-45b5de5dba98b15a925467c0dc178c7797b338b0550f926691d8ffd562d8b1da_trns_h264/playlist.m3u8
+Fri Aug 1 23:47:02 CST 2025
+Fri Aug 1 23:47:26 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Fri Aug 1 23:48:42 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除gremmy 
+删除hanny27 
