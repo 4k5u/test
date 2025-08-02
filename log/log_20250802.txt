@@ -317,3 +317,12 @@ Sat Aug 2 18:02:57 CST 2025
 Sat Aug 2 18:04:18 CST 2025
 删除alswl2208 
 删除hanny27 
+Sat Aug 2 18:17:44 CST 2025
+添加imissy0u https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FHsIxEwqiitH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZIc0l4RXdxaWl0SCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUE5QjUxRS04QTgyLTRCRUYtQUYwNy1BOUJERTYxRUFGOUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDEyOTg3MywiZXhwIjoxNzU0MTMwNDczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AYrtm9I6e_ORb-xjh2EMY1a1UnrDTzMg2id0pwyKMMGQSyFCh8uR0YGlMXvGy4oN6Y8dJ5953c_SZ2c__ICt1V1bTsWCHagL4XnwGakNniuCLBPi6FZYKCqYd11x129l
+Sat Aug 2 18:18:02 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Aug 2 18:19:15 CST 2025
+删除ohhanna 
+删除alswl2208 
+删除hanny27 
