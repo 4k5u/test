@@ -326,3 +326,12 @@ Sat Aug 2 18:19:15 CST 2025
 删除ohhanna 
 删除alswl2208 
 删除hanny27 
+添加sexygamesx https://edge18-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1d6846893f8145e820de436e577e74107369a35256f289cdcf7227b939b0cd48_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f203b688539f6a135d9bfd0d334e64c0d51eaa7219833b9b9f5cfc24a56ae083_trns_h264/playlist.m3u8
+Sat Aug 2 18:33:09 CST 2025
+Sat Aug 2 18:33:26 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Aug 2 18:34:39 CST 2025
+删除alswl2208 
+删除hanny27 
