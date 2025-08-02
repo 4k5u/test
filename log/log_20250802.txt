@@ -414,3 +414,8 @@ Sat Aug 2 20:32:39 CST 2025
 Sat Aug 2 20:33:56 CST 2025
 删除your_desssert 
 删除alswl2208 
+Sat Aug 2 20:48:09 CST 2025
+Sat Aug 2 20:48:43 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Sat Aug 2 20:49:46 CST 2025
+删除alswl2208 
