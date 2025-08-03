@@ -4,3 +4,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Sherry_niko   https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 _meganmeow_   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-cc0bad8013b1daa15a3f9f44b7c8b1906cf2e5cfb42438bdfbe76ff09af2ff0b_trns_h264/playlist.m3u8
 dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.bI_OKh2e2tloovICljZ_RywxgZT3EbiPjfEjebPvB4WdwaV6oyo-ZH5l8NNrT6yvNh1lylUS_HAshlDthQEoDqZN5KqpIB_k47j5s9bZZ0siBb7UC1tsyX4UzVywx1Vbj0e8PESC96Vv2FIp3GiOx-K7yaceBvsPtRYZHD90HUZbjrmTnMRbx1iTD-MsrFCM
+mode_bad   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6c15c91b0ff3cbd619663e01aa011caecd8237dc3c01310feae89fcecf286f69_trns_h264/playlist.m3u8
