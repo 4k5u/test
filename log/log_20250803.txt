@@ -392,3 +392,9 @@ Sun Aug 3 23:02:45 CST 2025
 Sun Aug 3 23:03:09 CST 2025
 Sun Aug 3 23:04:27 CST 2025
 删除jodong2 
+Sun Aug 3 23:17:46 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OTFFNzJGMS1EQjBELTQ5RTktOTU2Ni03MDNCNEM1N0M5MUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDIzNDI4MSwiZXhwIjoxNzU0MjM0ODgxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hshNPIZ-lvyzuCLJePo-D5GhezXwBwEOU_9mIajDtaW2JzfF8LriuWXRK32OVV0sfxdYUnG_gk8k638Fpwgin-ak4NTn-QTcjlCVHOfFq_ftxOiRcBDGbl0yc90crlvy
+Sun Aug 3 23:18:14 CST 2025
+Sun Aug 3 23:19:31 CST 2025
+删除rud9281 
+删除honey_pinkgreen 
