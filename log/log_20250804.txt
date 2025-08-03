@@ -98,3 +98,7 @@ Mon Aug 4 06:46:55 CST 2025
 Mon Aug 4 06:46:57 CST 2025
 Mon Aug 4 06:48:25 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加mazzanti_ https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-2a80440245262d6b0b17868f59e7357c614240671014231b6576713023828037_trns_h264/playlist.m3u8
+Mon Aug 4 07:03:07 CST 2025
+Mon Aug 4 07:03:09 CST 2025
+Mon Aug 4 07:04:42 CST 2025
