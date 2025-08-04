@@ -157,3 +157,7 @@ Mon Aug 4 11:01:58 CST 2025
 Mon Aug 4 11:02:00 CST 2025
 Mon Aug 4 11:03:33 CST 2025
 删除taitehambelton 
+Mon Aug 4 11:18:00 CST 2025
+Mon Aug 4 11:18:02 CST 2025
+Mon Aug 4 11:19:30 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
