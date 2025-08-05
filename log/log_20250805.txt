@@ -198,3 +198,7 @@ Tue Aug 5 14:17:49 CST 2025
 Tue Aug 5 14:17:53 CST 2025
 Tue Aug 5 14:19:12 CST 2025
 删除Sime_Naughty 
+Tue Aug 5 14:31:57 CST 2025
+Tue Aug 5 14:31:59 CST 2025
+Tue Aug 5 14:33:25 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
