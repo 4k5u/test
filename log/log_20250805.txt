@@ -283,3 +283,12 @@ Tue Aug 5 18:33:35 CST 2025
 删除lovemeimscared 
 删除foxylovesyou 
 删除hanny27 
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-57b54c2e0c447186dd6930264f2437bbc9aed64dfa07ff679e150a13c161bc7c_trns_h264/playlist.m3u8
+Tue Aug 5 18:48:10 CST 2025
+Tue Aug 5 18:48:22 CST 2025
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.88WR69u1JUVOREkW6NM6tve8uCg1Hn0s_ln_XVwSqPKapJAeOLTBdP_sbOm0MrVGxPVRyB2_eXNKE1VAAoPtb-ppbl1Pkqknjnet3-hvMbOxPHSFvUD-yflxe6XNR1bsLYneJsi3L1BZms-HXumpR5rypCLFU5qc5Cz64I6i1MHIqBnwSXdraWszE3SJaAfQ
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.40KsYcKr0GW-n8MV_iP4L8wf_T74KHmEGcbHXipFD9Ib3HO9BPh2y25AFsiuK8Rc3mSlpcMOglp0XyNQj5v7xgjIkPkEje49DfjetmBvbvYrOykCt61fuDks5ylUdx2sGt-bfe_IEVCNMkYlY4fl5ngCJWCE_BOrnXPETPKSoJ9XO4OjbGZGdInE2ROfq_xT
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Tue Aug 5 18:49:48 CST 2025
+删除foxylovesyou 
+删除hanny27 
