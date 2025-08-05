@@ -233,3 +233,8 @@ Tue Aug 5 16:18:17 CST 2025
 Tue Aug 5 16:19:50 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除your_desssert 
+添加your_desssert https://edge16-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-6c290fe4445ab3ffaf9a1a97d3f060585faa0678665db4190188a8459f1f6a61_trns_h264/playlist.m3u8
+Tue Aug 5 16:32:41 CST 2025
+Tue Aug 5 16:32:49 CST 2025
+Tue Aug 5 16:34:19 CST 2025
+删除my_eyes_higher 
