@@ -348,3 +348,11 @@ Tue Aug 5 20:19:47 CST 2025
 删除your_desssert 
 删除foxylovesyou 
 删除hanny27 
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-57b54c2e0c447186dd6930264f2437bbc9aed64dfa07ff679e150a13c161bc7c_trns_h264/playlist.m3u8
+Tue Aug 5 20:32:06 CST 2025
+添加leeaeae123 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.y9L6K2qYP4iK.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3k5TDZLMnFZUDRpSyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDNGOUEwNi1DNDI2LTQ1MEEtQTkzMC0yRTA2MUUyREZGNkMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDM5NzEzMywiZXhwIjoxNzU0Mzk3NzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.hBDZPGz0nf-KlwIsx3oGS35xj54AkF7mikOc0MJ1lvf4uSjqZkgV8jbAUxG2-5F8HUW4Bdn72_rs3dxiIsPSywjA_EY4NeJM5eWu14zYkSE4tZaMfvbil88PrTUVFV6k
+Tue Aug 5 20:32:42 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Tue Aug 5 20:33:55 CST 2025
+删除foxylovesyou 
+删除hanny27 
