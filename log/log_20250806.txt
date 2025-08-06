@@ -207,3 +207,10 @@ Wed Aug 6 13:47:02 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Wed Aug 6 13:48:31 CST 2025
 删除gusdk2362 
+Wed Aug 6 14:02:48 CST 2025
+Wed Aug 6 14:02:50 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Wed Aug 6 14:04:30 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty 
+删除gusdk2362 
