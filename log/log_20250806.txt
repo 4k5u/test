@@ -438,3 +438,11 @@ Wed Aug 6 21:49:49 CST 2025
 删除emforhs1919 
 删除yeonnacho 
 删除yin2618 
+Wed Aug 6 22:02:13 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.FDUGWU0nfUMQ.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0ZEVUdXVTBuZlVNUSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNjc2NEE3Ri1CQUJGLTRDMzktOTg0Ny02RDFDQ0FCQkJFNEEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDQ4ODk0NiwiZXhwIjoxNzU0NDg5NTQ2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.r2VlD5cejoh1r6BGTc6g1SNXe_sSuYLvjWQw2jw-Se7Rp3eN537Fv1WTaG4vIfFaTMElRftAlhM68tJyKOlVTa71riBHnZnqwKHiCS4paYFcdcxlhMzm9f9kzlPQW1Mq
+Wed Aug 6 22:02:47 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Aug 6 22:03:57 CST 2025
+删除yeonnacho 
+删除yin2618 
