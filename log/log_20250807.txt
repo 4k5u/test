@@ -147,3 +147,8 @@ Thu Aug 7 07:18:29 CST 2025
 Thu Aug 7 07:19:57 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除mode_bad 
+添加mode_bad https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-030eae7abc69ecce0bf470ff471fad606401058c8d8e25034f555cbe3a57c24e_trns_h264/playlist.m3u8
+Thu Aug 7 07:32:55 CST 2025
+Thu Aug 7 07:32:58 CST 2025
+Thu Aug 7 07:34:23 CST 2025
+删除mode_bad 
