@@ -27,3 +27,11 @@ Thu Aug 7 00:49:16 CST 2025
 删除dign1461 
 删除eunyoung1238 
 删除gremmy 
+Thu Aug 7 01:02:53 CST 2025
+Thu Aug 7 01:03:09 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Thu Aug 7 01:04:37 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除m0m099 
+删除leelate 
+删除gremmy 
