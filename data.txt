@@ -8,4 +8,3 @@ foxylovesyou   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 my_eyes_higher   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-085a0da69da4e811de7a0468b11024f9b822b0c92c916216bb73e8e90cae2db7_trns_h264/playlist.m3u8
 your_desssert   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-921c59e3d6a0494660ae6df7ce0ba6a759bb8a7c76c4345e3b7bb62fd379031c_trns_h264/playlist.m3u8
-honey_pinkgreen   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-f61b1065f3596b2e5368b5f35604991bf1a89dad469bdd9c45daf14c92b19ab8_trns_h264/playlist.m3u8
