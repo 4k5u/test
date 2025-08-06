@@ -446,3 +446,13 @@ Wed Aug 6 22:02:47 CST 2025
 Wed Aug 6 22:03:57 CST 2025
 删除yeonnacho 
 删除yin2618 
+Wed Aug 6 22:18:25 CST 2025
+Wed Aug 6 22:18:57 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Aug 6 22:20:08 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除my_eyes_higher 
+删除your_desssert 
+删除yeonnacho 
+删除yin2618 
