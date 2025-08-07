@@ -121,3 +121,7 @@ Fri Aug 8 07:17:40 CST 2025
 Fri Aug 8 07:17:42 CST 2025
 Fri Aug 8 07:19:12 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Fri Aug 8 07:32:54 CST 2025
+Fri Aug 8 07:32:56 CST 2025
+Fri Aug 8 07:34:26 CST 2025
+删除mode_bad 
