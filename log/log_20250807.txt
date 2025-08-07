@@ -246,3 +246,8 @@ Thu Aug 7 13:19:21 CST 2025
 Thu Aug 7 13:33:02 CST 2025
 Thu Aug 7 13:33:04 CST 2025
 Thu Aug 7 13:34:32 CST 2025
+Thu Aug 7 13:47:54 CST 2025
+Thu Aug 7 13:47:57 CST 2025
+Thu Aug 7 13:49:23 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除IdaJonesy 
