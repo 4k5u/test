@@ -514,3 +514,9 @@ Fri Aug 8 23:02:51 CST 2025
 Fri Aug 8 23:04:04 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除eunyoung1238 
+Fri Aug 8 23:17:13 CST 2025
+Fri Aug 8 23:17:45 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 23:18:52 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除eunyoung1238 
