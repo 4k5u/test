@@ -219,3 +219,10 @@ Fri Aug 8 13:47:44 CST 2025
 Fri Aug 8 13:47:44 CST 2025
 Fri Aug 8 13:49:10 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Fri Aug 8 14:02:47 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyN0NBRUU3RS04QkVCLTQzMzUtOTA0Qy04RjE4QUU1NjU1ODEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDYzMjk2OCwiZXhwIjoxNzU0NjMzNTY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UMJDntvMWISxuRDtMexhVPap2hajraRiK5d2XQwYQDJ2nFoRjmBWeRfKeqFNg0vmKtRXGp1GnVjxpKQQGTBRX7vjk9p0af2K5b28TPGRPCZpb8VrOuObZ4tkToNqGebH
+Fri Aug 8 14:02:51 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 14:04:22 CST 2025
+删除IdaJonesy 
+删除yin2618 
