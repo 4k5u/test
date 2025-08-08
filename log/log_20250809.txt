@@ -54,3 +54,10 @@ Sat Aug 9 01:34:21 CST 2025
 删除m0m099 
 删除saone451 
 删除eunyoung1238 
+Sat Aug 9 01:47:40 CST 2025
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2mjOQL3HGHvG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJtak9RTDNIR0h2RyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NkEzMzMxNS03NDBGLTQyQzUtQjdGRC0zMTEwNkU5NzVENkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDY3NTI2NywiZXhwIjoxNzU0Njc1ODY3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._ievWgi0bt_PvrH3itfO8gYXm75puBUSBAaW_woC7JqJONki3ZdShqGw-t1QQPVf7gqXMltJjUfA3rf56fdopgu5wjt1kkjjm5TTuY8qT8n65ksBYqWZNA9UpdLV7xpP
+Sat Aug 9 01:47:56 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 01:49:23 CST 2025
+删除starsh2802 
+删除eunyoung1238 
