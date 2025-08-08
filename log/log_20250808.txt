@@ -359,3 +359,10 @@ Fri Aug 8 18:33:44 CST 2025
 删除lolsos 
 删除alswl2208 
 删除yin2618 
+Fri Aug 8 18:48:08 CST 2025
+Fri Aug 8 18:48:16 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 18:49:32 CST 2025
+删除alswl2208 
+删除yin2618 
