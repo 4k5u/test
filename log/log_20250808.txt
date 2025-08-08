@@ -294,3 +294,11 @@ Fri Aug 8 16:48:36 CST 2025
 删除SanySenise 
 删除yin2618 
 删除Hahaha_ha2 
+添加honey_pinkgreen https://edge10-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9cd1f88919e6f80190f1de1b205b5e56a02b6a011f1d3cfc57353257605c2cb0_trns_h264/playlist.m3u8
+Fri Aug 8 17:02:01 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEODY4MkI5NC02RTAxLTQwMEMtOTU5QS1DRUQyQ0RBMjRBOTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDY0MzcyNiwiZXhwIjoxNzU0NjQ0MzI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.z0LJU3NjkxTFnumnCDS5MPqE9rUqqQLUfwD_LG65p-YH8m7t5w7DncZCVCjBFTDWdhhynrLnJaI8bbk9vMjo7l_ZwxoapcdpTXhuMWybCNdjXoPhhDm85j3l53UtpGpg
+Fri Aug 8 17:02:09 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Aug 8 17:03:23 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除yin2618 
