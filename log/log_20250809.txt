@@ -331,3 +331,8 @@ Sat Aug 9 17:47:54 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Sat Aug 9 17:49:27 CST 2025
 删除alswl2208 
+Sat Aug 9 18:03:01 CST 2025
+Sat Aug 9 18:03:05 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 18:04:38 CST 2025
+删除alswl2208 
