@@ -325,3 +325,9 @@ Sat Aug 9 17:34:18 CST 2025
 删除ad0res 
 删除taitehambelton 
 删除alswl2208 
+添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3f515ca7fe40b7caf89f9a684091a3f791b9c600026a6906f7d4b7032df80c22_trns_h264/playlist.m3u8
+Sat Aug 9 17:47:50 CST 2025
+Sat Aug 9 17:47:54 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 17:49:27 CST 2025
+删除alswl2208 
