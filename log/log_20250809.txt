@@ -268,3 +268,6 @@ Sat Aug 9 14:32:36 CST 2025
 Sat Aug 9 14:33:56 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除naras2 
+Sat Aug 9 14:47:41 CST 2025
+Sat Aug 9 14:47:44 CST 2025
+Sat Aug 9 14:49:09 CST 2025
