@@ -34,3 +34,10 @@ Sun Aug 10 01:04:25 CST 2025
 删除lovesong2 
 删除ake_mi 
 删除eunyoung1238 
+Sun Aug 10 01:16:45 CST 2025
+Sun Aug 10 01:16:52 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Aug 10 01:18:22 CST 2025
+删除dks2003 
+删除imanatural 
+删除eunyoung1238 
