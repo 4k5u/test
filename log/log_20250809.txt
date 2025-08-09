@@ -496,3 +496,10 @@ Sat Aug 9 23:18:50 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除muse62 
 删除eunyoung1238 
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-1181e57732e43e47dd6d8e59aebdb045e2842ef7e49d1629693a96b8fdf95310_trns_h264/playlist.m3u8
+Sat Aug 9 23:31:57 CST 2025
+Sat Aug 9 23:32:23 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 23:33:52 CST 2025
+删除Tmdgus5411 
+删除eunyoung1238 
