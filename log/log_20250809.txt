@@ -215,3 +215,10 @@ Sat Aug 9 11:17:38 CST 2025
 Sat Aug 9 11:17:43 CST 2025
 Sat Aug 9 11:19:07 CST 2025
 删除IdaJonesy 
+Sat Aug 9 11:45:18 CST 2025
+Sat Aug 9 11:45:20 CST 2025
+Sat Aug 9 11:46:37 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除nobleinc 
+删除sexygamesx 
