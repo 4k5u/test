@@ -428,3 +428,12 @@ Sat Aug 9 21:03:28 CST 2025
 Sat Aug 9 21:04:47 CST 2025
 删除alswl2208 
 删除eunyoung1238 
+Sat Aug 9 21:17:39 CST 2025
+添加tess00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ntyoT0hyIojr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL250eW9UMGh5SW9qciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4QjVBMTREOS0wQTlBLTQ3RDQtOENGNy01QUYxQTEyQkExOTYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDc0NTQ4MCwiZXhwIjoxNzU0NzQ2MDgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.rdS8tqbhj_R6t0dqj9MoiMwN-Im3YvIYeFtlgqrhG1vil3NWyDgBzSP0p_aU9cFX6ZehrzGy7rXiGeZKXMB7GPDeEoRAQ8AQBiHR_DatmTReHz0ZJRxRttHFS5NYwRwp
+Sat Aug 9 21:18:09 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 21:19:35 CST 2025
+删除sigmasian 
+删除alswl2208 
+删除eunyoung1238 
