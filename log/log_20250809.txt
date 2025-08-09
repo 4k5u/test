@@ -402,3 +402,11 @@ Sat Aug 9 20:18:16 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Sat Aug 9 20:19:37 CST 2025
 删除alswl2208 
+Sat Aug 9 20:32:55 CST 2025
+Sat Aug 9 20:33:18 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 20:34:42 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除alswl2208 
+删除eunyoung1238 
