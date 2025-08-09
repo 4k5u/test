@@ -263,3 +263,8 @@ Sat Aug 9 14:19:05 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除Sime_Naughty 
 删除leelate 
+Sat Aug 9 14:32:34 CST 2025
+Sat Aug 9 14:32:36 CST 2025
+Sat Aug 9 14:33:56 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除naras2 
