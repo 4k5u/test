@@ -107,3 +107,7 @@ Sun Aug 10 06:01:58 CST 2025
 Sun Aug 10 06:02:02 CST 2025
 Sun Aug 10 06:03:24 CST 2025
 删除mode_bad 
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-ff8ec2a94999c65016b31d141a9bf792dac8fd476ead24d551ac15487cbd1842_trns_h264/playlist.m3u8
+Sun Aug 10 06:17:00 CST 2025
+Sun Aug 10 06:17:04 CST 2025
+Sun Aug 10 06:18:21 CST 2025
