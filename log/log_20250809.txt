@@ -410,3 +410,13 @@ Sat Aug 9 20:34:42 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除alswl2208 
 删除eunyoung1238 
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-59af57415e7402b8b83d1d6acb98b0d6f3f3720c2e4abef350e39f6ae3a6bff7_trns_h264/playlist.m3u8
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-8630ff2287532ef9b3058dd4402a864cbce91abc783eda2ab8edd6e91b0eee67_trns_h264/playlist.m3u8
+Sat Aug 9 20:48:03 CST 2025
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNEFGMDA1NC0xQkNFLTQzNEEtOEM3QS0xMDcyNjI4QjBCMkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NDc0MzY4NiwiZXhwIjoxNzU0NzQ0Mjg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qjvWLUXG3pLW9ehvBgCkTFiUnZNLhxaeg1yr25WDMBPh70mTu9_bMi03X33EKP0A5w7X8Cp8Ho2pQvZRPTvCJQnzlba5_jo8H8H931jITknmWaRDOQ_TfbTYnbCMa5MU
+Sat Aug 9 20:48:29 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Aug 9 20:49:49 CST 2025
+删除alswl2208 
+删除eunyoung1238 
