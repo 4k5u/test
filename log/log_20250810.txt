@@ -211,3 +211,7 @@ Sun Aug 10 13:02:00 CST 2025
 Sun Aug 10 13:02:06 CST 2025
 Sun Aug 10 13:03:39 CST 2025
 删除IdaJonesy 
+Sun Aug 10 13:17:00 CST 2025
+Sun Aug 10 13:17:06 CST 2025
+Sun Aug 10 13:18:28 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
