@@ -403,3 +403,12 @@ Mon Aug 11 22:04:08 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除4ocari 
 删除hanny27 
+Mon Aug 11 22:17:19 CST 2025
+Mon Aug 11 22:17:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Aug 11 22:19:11 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除jjine0127 
+删除my_eyes_higher 
+删除mikio_san 
+删除hanny27 
