@@ -69,3 +69,8 @@ Tue Aug 12 03:48:56 CST 2025
 Tue Aug 12 04:02:28 CST 2025
 Tue Aug 12 04:02:32 CST 2025
 Tue Aug 12 04:03:55 CST 2025
+添加mode_bad https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-169091ccf97b362c983e29cad0274cfcd8679aa91321d6cb19b49afa8bb53816_trns_h264/playlist.m3u8
+Tue Aug 12 04:17:50 CST 2025
+Tue Aug 12 04:17:52 CST 2025
+Tue Aug 12 04:19:14 CST 2025
+删除moem9e9 
