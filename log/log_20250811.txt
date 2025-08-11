@@ -158,3 +158,8 @@ Mon Aug 11 10:34:16 CST 2025
 Mon Aug 11 10:47:04 CST 2025
 Mon Aug 11 10:47:04 CST 2025
 Mon Aug 11 10:48:30 CST 2025
+Mon Aug 11 11:02:02 CST 2025
+Mon Aug 11 11:02:02 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Mon Aug 11 11:03:35 CST 2025
+删除yin2618 
