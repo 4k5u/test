@@ -245,3 +245,12 @@ Tue Aug 12 15:49:21 CST 2025
 删除amilia4u 
 删除my_eyes_higher 
 删除your_desssert 
+添加amilia4u https://edge12-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-2828596065ee46a0dc8cdf9e46bab5174116e9bb325e91e807996fe6fb34f560_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-49c4ffb56abfaab0b7d983f2029af2a6e89d3f080f43b89c5ac5249786af5a69_trns_h264/playlist.m3u8
+Tue Aug 12 16:02:22 CST 2025
+Tue Aug 12 16:02:28 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Tue Aug 12 16:03:49 CST 2025
+删除alicelebel 
+删除my_eyes_higher 
+删除yin2618 
