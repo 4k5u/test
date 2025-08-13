@@ -486,3 +486,14 @@ Wed Aug 13 23:17:41 CST 2025
 Wed Aug 13 23:19:03 CST 2025
 删除yeonnacho 
 删除hanny27 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-d2edef66c33811b6b48d38de55962aa690c0fab9fa3b1484d9c1d8016959493b_trns_h264/playlist.m3u8
+Wed Aug 13 23:32:17 CST 2025
+Wed Aug 13 23:32:37 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Wed Aug 13 23:34:00 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除ohhanna 
+删除Ryo-sama 
+删除yeonnacho 
+删除hanny27 
