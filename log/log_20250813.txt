@@ -366,3 +366,17 @@ Wed Aug 13 20:05:02 CST 2025
 删除my_eyes_higher 
 删除yeonnacho 
 删除hanny27 
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1cf159348c49c4a1427a62422ead824d9312e6ee4fca0e7cadddad1c930a7b1b_trns_h264/playlist.m3u8
+添加your_desssert https://edge18-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ee0f6ed6722df2fb0a513f7d9d29394888856427728567cface52aa2e140bfa1_trns_h264/playlist.m3u8
+Wed Aug 13 20:17:58 CST 2025
+添加lovesong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.shvLpgvQjUk9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3NodkxwZ3ZRalVrOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5NzYwNUJDNS03MDNDLTQ5NUQtOUZCNS0zRkJDQjREMTI0NjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTA4NzQ4OSwiZXhwIjoxNzU1MDg4MDg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wAjhvmrkCp-Ujd4ktT9DRKnZ5Clq9AkfWKVSqqehElsjooMgY6bNBGKId-_9QhmTYaGyoMyIhDhIiIcyLSMjVKDo-9hTbJyiNaEM87eZHwVXLORwW_6qYKPC5DZpHW3n
+Wed Aug 13 20:18:20 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.tEVaiCMoCiKsIMeMRlBWDMo_fJuGoHQkTLVpu1GtjNBSqJO_QZXSvuPtvnqbb1uO0BAG5Dsr8pJX0GGsJnlTmcDR7SAd3sloPd4dwGBsfbzWlw31qohVq6m7LS0Zin6pSUW5MqGpUn6Tl0VEJ_VGo0Ps1pN12URLLwkeFHHOb51dj2KNaHhJck-tM5hfXWpa
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.jxzUdMnVqCTiOhYJbw4j43cW0RLjvtSgIYaQUZdOhpI0MxcBYHFXC471d4CiJpT_VtCGcMnewm3W58s8AAomYl44lz7G_ERcP1mlfRZOBHZZeE2lYQrU4BzbRzPj60xfipB5stVIlcopRDFnfUO4fPvEzdHQJ_2JmFzVr_HGKrmBzTUmmZy_YuW5uOP2k-hW
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Wed Aug 13 20:19:53 CST 2025
+删除ddooyaa 
+删除my_eyes_higher 
+删除yeonnacho 
+删除hanny27 
