@@ -4,3 +4,6 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 my_eyes_higher   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5ced6917f72b5cc6b9342b9551f17dfa095519c81ac2ba41e135ebab15323343_trns_h264/playlist.m3u8
+iminako   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-f9184af43d1e9ca5779bebfad002ab2cb8b6cd14d1c4e80b083414b2cdf0a71c_trns_h264/playlist.m3u8
+your_desssert   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-73a78dcb8753a9ff9af90fa8dab8d6d74a2f623a94cd34573a41050865c56621_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
