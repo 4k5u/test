@@ -234,3 +234,8 @@ Wed Aug 13 15:32:40 CST 2025
 添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wSEa8P41wwPb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dTRWE4UDQxd3dQYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMjJBQzY0Qi0wQzkxLTQzMUUtOTRDQS1GRDU4QTUxNzZFRDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTA3MDM2MSwiZXhwIjoxNzU1MDcwOTYxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CsN7Kfu4wno_TXq5LrltdK5XZPTYeO1IuJFHmtSZpMZu6AqIXkiANOPWcJdDdq5wY2pQRJRLXBSvay1-8RVc60YmY--gQ-XD5hbCem77PcgQSHCxqzNcHqEKqlILXSZB
 Wed Aug 13 15:32:44 CST 2025
 Wed Aug 13 15:34:08 CST 2025
+添加amilia4u https://edge2-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-41eb37ef326504c6599a4c7dd9fa3e98b7f8583c161e9d2ba336a7eb3e9bacc8_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1cf159348c49c4a1427a62422ead824d9312e6ee4fca0e7cadddad1c930a7b1b_trns_h264/playlist.m3u8
+Wed Aug 13 15:47:06 CST 2025
+Wed Aug 13 15:47:08 CST 2025
+Wed Aug 13 15:48:34 CST 2025
