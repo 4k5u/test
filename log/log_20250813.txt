@@ -213,3 +213,9 @@ Wed Aug 13 14:32:28 CST 2025
 Wed Aug 13 14:34:04 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-37a67517febd8cde14448c917a0c6bde75504ea8493312e0c92ff86f9c99b168_trns_h264/playlist.m3u8
+Wed Aug 13 14:47:50 CST 2025
+Wed Aug 13 14:47:51 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Wed Aug 13 14:49:32 CST 2025
+删除yin2618 
