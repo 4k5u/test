@@ -478,3 +478,9 @@ Thu Aug 14 23:33:28 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除soso621 
 删除yeonnacho 
+Thu Aug 14 23:47:47 CST 2025
+Thu Aug 14 23:48:11 CST 2025
+Thu Aug 14 23:49:17 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除flower1023 
+删除hanny27 
