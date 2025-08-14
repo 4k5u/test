@@ -69,3 +69,7 @@ Fri Aug 15 04:03:01 CST 2025
 Fri Aug 15 04:03:01 CST 2025
 Fri Aug 15 04:04:25 CST 2025
 删除alicelebel 
+添加mode_bad https://edge12-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cf7308e22817ea4ff1075625e7a2b674cbfbd929dddfdcb58b5f57110d7670e6_trns_h264/playlist.m3u8
+Fri Aug 15 04:17:03 CST 2025
+Fri Aug 15 04:17:03 CST 2025
+Fri Aug 15 04:18:20 CST 2025
