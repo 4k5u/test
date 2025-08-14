@@ -250,3 +250,9 @@ Thu Aug 14 16:01:58 CST 2025
 Thu Aug 14 16:02:02 CST 2025
 Thu Aug 14 16:03:26 CST 2025
 删除amilia4u 
+添加amilia4u https://edge14-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-62d2cde9a6f709d8ad01c584b5b28779db277706344c8281c58ee8aafe2a9a44_trns_h264/playlist.m3u8
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-42597436c4db323c07f0425d3524cb818a27143e464a079405e708a3a3ae27b1_trns_h264/playlist.m3u8
+Thu Aug 14 16:17:18 CST 2025
+Thu Aug 14 16:17:22 CST 2025
+Thu Aug 14 16:18:42 CST 2025
+删除amilia4u 
