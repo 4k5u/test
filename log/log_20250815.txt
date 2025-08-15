@@ -337,3 +337,7 @@ Fri Aug 15 18:31:57 CST 2025
 Fri Aug 15 18:32:03 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.SbBQ667xhxwfqnIhmLiiXWZ1hbk5mKCWU5qG73RHkiNmGBpBXVElTD3cSvmvaoFWPgC9DhIhE_e-RFNvkQLN3k4MrEPw3lKlc_pBCLIk6FyRQqWwbFYpEePFHmgDp4bUPhACxJXm1Q8EeYa8Tk8MB9Um85Yu9z9_j9ArILFsztkRJDsG8ds_M1X396XxSFr6
 Fri Aug 15 18:33:31 CST 2025
+添加honey_pinkgreen https://edge3-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-cc8bd4ecb6273688f121fa586a725b3304eb9a04a4bc04dd78351516a90226eb_trns_h264/playlist.m3u8
+Fri Aug 15 18:47:20 CST 2025
+Fri Aug 15 18:47:26 CST 2025
+Fri Aug 15 18:48:45 CST 2025
