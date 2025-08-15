@@ -266,3 +266,10 @@ Fri Aug 15 16:02:19 CST 2025
 Fri Aug 15 16:03:41 CST 2025
 删除sexygamesx 
 删除foxylovesyou 
+添加sexygamesx https://edge3-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-090f8ff940998e9c76c76ba1b9db446f5355e7c8393c53b395ef8034d968c76a_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5e78993205d0238deb99e9a7ff87f4bee5d9f565931b7a89440279d80406a11_trns_h264/playlist.m3u8
+Fri Aug 15 16:17:00 CST 2025
+Fri Aug 15 16:17:04 CST 2025
+Fri Aug 15 16:18:27 CST 2025
+删除sexygamesx 
+删除foxylovesyou 
