@@ -457,3 +457,10 @@ Fri Aug 15 22:47:44 CST 2025
 Fri Aug 15 22:48:53 CST 2025
 删除ake_mi 
 删除yin2618 
+Fri Aug 15 23:02:37 CST 2025
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.NAWlL59xcPgs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL05BV2xMNTl4Y1BncyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5ODQ4QUI5OS02QzZFLTQ1RjMtQjZCRC1BREE1MDMwRDA3MEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTI3MDE3MCwiZXhwIjoxNzU1MjcwNzcwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.miuijLIXQ1Th8eJUuV6pAAcKfQtbqggtET032LZlSzBxIdsuPVVxUG_PKdCWchU2t3ePwuuPqkjh73yjy7Io6MELaulRu4nvHCBq4zVVycDgy90CbHvdzC0bFN3OqZTJ
+Fri Aug 15 23:03:17 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Fri Aug 15 23:04:18 CST 2025
+删除ohhanna 
+删除yin2618 
