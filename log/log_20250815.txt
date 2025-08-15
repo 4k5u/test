@@ -311,3 +311,10 @@ Fri Aug 15 17:33:08 CST 2025
 Fri Aug 15 17:34:34 CST 2025
 删除mikio_san 
 删除foxylovesyou 
+添加honey_pinkgreen https://edge7-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4186c0ec59f239b63d49823d3ec6c0cebfd58e12d394dcab1dd84832d173328f_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b5e78993205d0238deb99e9a7ff87f4bee5d9f565931b7a89440279d80406a11_trns_h264/playlist.m3u8
+Fri Aug 15 17:47:03 CST 2025
+Fri Aug 15 17:47:05 CST 2025
+Fri Aug 15 17:48:33 CST 2025
+删除sexygamesx 
+删除foxylovesyou 
