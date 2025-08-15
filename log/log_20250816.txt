@@ -69,3 +69,7 @@ Sat Aug 16 03:34:08 CST 2025
 删除3ww1ww3 
 删除yourare 
 删除SanySenise 
+Sat Aug 16 03:47:05 CST 2025
+Sat Aug 16 03:47:11 CST 2025
+Sat Aug 16 03:48:32 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
