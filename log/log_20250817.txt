@@ -8,3 +8,8 @@ Sun Aug 17 00:18:22 CST 2025
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除namuh0926 
 删除tess00 
+添加ake_mi https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-76161d87449a1e2892d5a3c60e7938b778f48caef13fa828d7892164e3a17e58_trns_h264/playlist.m3u8
+Sun Aug 17 00:31:49 CST 2025
+Sun Aug 17 00:32:05 CST 2025
+Sun Aug 17 00:33:15 CST 2025
+删除362540 
