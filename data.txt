@@ -5,3 +5,4 @@ kkkku96   https://live-global-cdn-v02.sooplive.co.kr/live-stm-13/auth_master_pla
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 iminako   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-a72016a3db6350cc09092dce4720fb05708c32eef5b9829e180f573765aa18dd_trns_h264/playlist.m3u8
+Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
