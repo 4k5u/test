@@ -474,3 +474,10 @@ Sat Aug 16 21:33:52 CST 2025
 删除eli05021212 
 删除alswl2208 
 删除leelate 
+添加your_desssert https://edge8-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-131eb55ff26310c49d8330ee8d5c31b7b4de7c86d4f33982435d54ee6e8d0191_trns_h264/playlist.m3u8
+Sat Aug 16 21:47:06 CST 2025
+Sat Aug 16 21:47:28 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Aug 16 21:48:35 CST 2025
+删除m0m099 
+删除leelate 
