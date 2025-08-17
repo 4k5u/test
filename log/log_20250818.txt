@@ -71,3 +71,7 @@ Mon Aug 18 04:17:54 CST 2025
 Mon Aug 18 04:17:54 CST 2025
 Mon Aug 18 04:19:11 CST 2025
 删除3ww1ww3 
+添加mode_bad https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-707eaaa6e5fcb27217d2161e43d6917c3c66df583001cf1ea61fad0c0c16620e_trns_h264/playlist.m3u8
+Mon Aug 18 04:32:27 CST 2025
+Mon Aug 18 04:32:27 CST 2025
+Mon Aug 18 04:33:52 CST 2025
