@@ -292,3 +292,7 @@ Sun Aug 17 18:17:02 CST 2025
 Sun Aug 17 18:17:16 CST 2025
 Sun Aug 17 18:18:23 CST 2025
 删除your_desssert 
+添加ad0res https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-0f227844aade407db3a2c74bac8da5ee4db0cb522ded2ad5c3b6ca7a7f1faca6_trns_h264/playlist.m3u8
+Sun Aug 17 18:32:36 CST 2025
+Sun Aug 17 18:32:47 CST 2025
+Sun Aug 17 18:34:02 CST 2025
