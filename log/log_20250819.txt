@@ -62,3 +62,7 @@ Tue Aug 19 03:48:54 CST 2025
 Tue Aug 19 04:02:26 CST 2025
 Tue Aug 19 04:02:28 CST 2025
 Tue Aug 19 04:03:51 CST 2025
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-e83e981f23c24f803f6fbcb33a1143cb0a552ad187d18f33119d1c5f0d11325d_trns_h264/playlist.m3u8
+Tue Aug 19 04:17:43 CST 2025
+Tue Aug 19 04:17:46 CST 2025
+Tue Aug 19 04:19:15 CST 2025
