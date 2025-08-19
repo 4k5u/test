@@ -154,3 +154,7 @@ Tue Aug 19 10:47:26 CST 2025
 Tue Aug 19 10:47:26 CST 2025
 Tue Aug 19 10:48:49 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Tue Aug 19 11:01:55 CST 2025
+Tue Aug 19 11:01:55 CST 2025
+Tue Aug 19 11:03:25 CST 2025
+删除IdaJonesy 
