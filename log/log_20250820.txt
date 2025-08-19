@@ -34,3 +34,10 @@ Wed Aug 20 01:32:57 CST 2025
 Wed Aug 20 01:34:11 CST 2025
 删除362540 
 删除y1026 
+Wed Aug 20 01:47:54 CST 2025
+Wed Aug 20 01:48:02 CST 2025
+Wed Aug 20 01:49:19 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除leelate 
+删除eunyoung1238 
+删除lovesong2 
