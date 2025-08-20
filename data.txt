@@ -1,3 +1,3 @@
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 honey_pinkgreen   https://edge12-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9243f57a689ebb508b843d3597cfa11e49978aae9ecd2b6c8cf5541fc500c0a9_trns_h264/playlist.m3u8
-ake_mi   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3f9b3cc7dd9730cf164025c9a5faceb37296c27c02d3d5129bbc47bd5d6728f1_trns_h264/playlist.m3u8
+taitehambelton   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9e0710ccc02f5cd9385025c5b6b6e8ecab3d21025683aa0ce2c93dcc079974aa_trns_h264/playlist.m3u8
