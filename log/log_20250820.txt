@@ -179,3 +179,8 @@ Wed Aug 20 11:33:36 CST 2025
 Wed Aug 20 11:33:36 CST 2025
 Wed Aug 20 11:35:04 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加honey_pinkgreen https://edge12-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-9243f57a689ebb508b843d3597cfa11e49978aae9ecd2b6c8cf5541fc500c0a9_trns_h264/playlist.m3u8
+Wed Aug 20 11:47:11 CST 2025
+Wed Aug 20 11:47:11 CST 2025
+Wed Aug 20 11:48:44 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
