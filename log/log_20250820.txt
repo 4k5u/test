@@ -293,3 +293,9 @@ Wed Aug 20 18:17:42 CST 2025
 Wed Aug 20 18:19:02 CST 2025
 删除dana9282 
 删除ake_mi 
+添加ake_mi https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-cee6330802affb1f25175489bd4533c98865740769a3c35afb61a609037aebe0_trns_h264/playlist.m3u8
+Wed Aug 20 18:32:41 CST 2025
+Wed Aug 20 18:32:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Em4RnN2-VtbsLoodlHH1S2qGAHDvcN9crTzz-UwTSmKRtgypQv1nTCpi43hmCBHG6n91FAVpdenXdVN7rZv4CjgH64BFHHbgU_Ea9EHi7em9l4MBvVocvqIGfrlXa9wPZVURxANfZCuf_NebxSvGDkdMAZKXiBaX-X5NBeqSo5XUiuo3-3SwGiUPik21irRZ
+Wed Aug 20 18:34:09 CST 2025
+删除ake_mi 
