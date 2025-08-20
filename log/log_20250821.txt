@@ -36,3 +36,8 @@ Thu Aug 21 01:18:48 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除lovesong2 
 删除eli05021212 
+Thu Aug 21 01:32:18 CST 2025
+Thu Aug 21 01:32:28 CST 2025
+Thu Aug 21 01:33:53 CST 2025
+删除362540 
+删除jodong2 
