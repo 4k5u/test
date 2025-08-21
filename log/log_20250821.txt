@@ -478,3 +478,11 @@ Thu Aug 21 22:04:04 CST 2025
 删除mikio_san 
 删除emforhs1919 
 删除yin2618 
+Thu Aug 21 22:18:34 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNTUwQ0NEMy0zMTZCLTQ4N0UtQUNGMC01QUNDNDQ3M0QzRTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTc4NTk0MiwiZXhwIjoxNzU1Nzg2NTQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.x_aEjN-vb-IjchJ5yDfeL0iOD5LavKYCxVkSQmREIXCswo1BoyCNO9YX7kSgucarmEkSEOLe50Ok5P2yq5kJoVhMs9izBTzLBEi5dEtZpBht3z-ijss8noaypzXb1tAk
+Thu Aug 21 22:19:13 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Thu Aug 21 22:20:23 CST 2025
+删除leelate 
+删除somsom0339 
+删除yin2618 
