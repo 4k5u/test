@@ -337,3 +337,10 @@ Thu Aug 21 18:17:57 CST 2025
 Thu Aug 21 18:19:36 CST 2025
 删除alswl2208 
 删除hanny27 
+Thu Aug 21 18:32:21 CST 2025
+Thu Aug 21 18:32:25 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Aug 21 18:33:54 CST 2025
+删除alswl2208 
+删除hanny27 
