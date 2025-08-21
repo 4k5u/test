@@ -379,3 +379,12 @@ Thu Aug 21 19:35:01 CST 2025
 删除ad0res 
 删除alswl2208 
 删除hanny27 
+添加ad0res https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-9df7cf125e5418c8f61c786843659916fa293bbc439f355109f95f10b28942cc_trns_h264/playlist.m3u8
+Thu Aug 21 19:49:30 CST 2025
+添加na2ppeum https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.2mjOQL3HGHvG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzJtak9RTDNIR0h2RyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMEMzQjk1OC1DMENFLTQzQjUtQTYzQi05ODY4NzA3NkY4NzUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTc3Njk3NywiZXhwIjoxNzU1Nzc3NTc3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ah9zsHp4wOGwkot6rtdsmWlf6rnf13GKAULb-F2siPkJYyHgW4diqJ-SlxcKMDVeCLScEpl9e6Ju2R_PI7e4ltat0xvuTdcpbfFktBD4C8_1fgIPFO9AJ6cP6Kxj8JR6
+Thu Aug 21 19:49:40 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Aug 21 19:51:10 CST 2025
+删除alswl2208 
+删除hanny27 
