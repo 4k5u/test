@@ -339,3 +339,13 @@ Fri Aug 22 19:33:43 CST 2025
 删除gusdk2362 
 删除hanny27 
 删除yin2618 
+Fri Aug 22 19:47:56 CST 2025
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CjN8hxCbbLyS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NqTjhoeENiYkx5UyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyQjI1MjlCQi05NTk4LTRBM0UtODE0MC0xN0IxRjQzOTM3RUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTg2MzI4NywiZXhwIjoxNzU1ODYzODg3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wI3IaAEOo1sv87c7eqoHWbOtTXmvg9HM1QUh8W4LaNYHzDdMfcAQxeXYbGnfaqNitJdZAeuWB-D1hdKb9XOhTEa_kq8KGW4078GnB_OHJNxzTbtXo1ujP8ylZNH8fZ_r
+Fri Aug 22 19:48:12 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Aug 22 19:49:52 CST 2025
+删除gusdk2362 
+删除hanny27 
+删除yin2618 
