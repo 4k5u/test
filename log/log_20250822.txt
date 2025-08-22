@@ -458,3 +458,11 @@ Fri Aug 22 22:19:34 CST 2025
 Fri Aug 22 22:20:56 CST 2025
 删除gusdk2362 
 删除m0m099 
+Fri Aug 22 22:32:55 CST 2025
+Fri Aug 22 22:33:24 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Fri Aug 22 22:34:49 CST 2025
+删除emforhs1919 
+删除gusdk2362 
+删除m0m099 
