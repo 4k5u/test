@@ -349,3 +349,15 @@ Fri Aug 22 19:49:52 CST 2025
 删除gusdk2362 
 删除hanny27 
 删除yin2618 
+Fri Aug 22 20:02:16 CST 2025
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2NzRGRTAyRi0yNTA2LTQxOEYtODY5My01N0UwRjQzNDA0RjciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NTg2NDE0MywiZXhwIjoxNzU1ODY0NzQzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sK1YtHY2S5bB2iftTU6aq4rGzM3YYqQx3vy4FDbtYFdbJmvo2CTf9AQbIe90wWRbFeIRZYo5gNIgi3RshMsPKdVp0LpIHvAssztYfcqDo7dJeFA2EauOqJW0xSFR7Tbi
+Fri Aug 22 20:02:34 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Aug 22 20:04:00 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除your_desssert 
+删除gusdk2362 
+删除hanny27 
+删除yin2618 
