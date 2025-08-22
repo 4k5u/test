@@ -327,3 +327,15 @@ Fri Aug 22 19:19:16 CST 2025
 删除gusdk2362 
 删除hanny27 
 删除yin2618 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-0c87e6a0c6102571b007c6512184c9263601391fdcaa96af4716ef5dec7a296e_trns_h264/playlist.m3u8
+添加your_desssert https://edge6-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-5faf68fcd80d662d6013a314bcb04b07688b9544a42857f1bf9b76f7d13da2ee_trns_h264/playlist.m3u8
+Fri Aug 22 19:32:09 CST 2025
+Fri Aug 22 19:32:21 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Fri Aug 22 19:33:43 CST 2025
+删除dreamch77 
+删除gusdk2362 
+删除hanny27 
+删除yin2618 
