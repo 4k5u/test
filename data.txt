@@ -2,3 +2,4 @@ lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_play
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 taitehambelton   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d570238ce6d430cf93a093c196f358797124c1aef192e8540bc3045406bf4e91_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
