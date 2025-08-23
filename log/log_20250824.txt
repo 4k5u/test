@@ -11,3 +11,9 @@ Sun Aug 24 00:17:11 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Sun Aug 24 00:18:30 CST 2025
 删除gusdk2362 
+Sun Aug 24 00:31:52 CST 2025
+Sun Aug 24 00:32:07 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sun Aug 24 00:33:25 CST 2025
+删除saone451 
+删除gusdk2362 
