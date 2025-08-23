@@ -153,3 +153,8 @@ Sat Aug 23 15:34:42 CST 2025
 Sat Aug 23 15:47:09 CST 2025
 Sat Aug 23 15:47:13 CST 2025
 Sat Aug 23 15:48:36 CST 2025
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-7aff5647c02b05947acc9c054cf5a6e531ddfb328b43d7ca56ef6e60ea0fda8b_trns_h264/playlist.m3u8
+添加your_desssert https://edge3-nrt.live.mmcdn.com/live-hls/amlst:your_desssert-sd-ad95ac233ec374c4d882e81dea289beb17ce66f51ac3455efc541e03a1d79921_trns_h264/playlist.m3u8
+Sat Aug 23 16:02:47 CST 2025
+Sat Aug 23 16:02:51 CST 2025
+Sat Aug 23 16:04:22 CST 2025
