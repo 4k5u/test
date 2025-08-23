@@ -1,6 +1,5 @@
 _meganmeow_   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9d0bd8834ffd64e3dfba26fdb4a5e0093aea26317bc036ff56750eaece45b7be_trns_h264/playlist.m3u8
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YeHZ8xP7a6z3vZapZtTxPKTYiEllZ-zPlbchL23qtz6bD0i4pkXADNo3VueDy0vAJEiG7PvCZlvpxhVXRrX_sClNmnmQ3tCYjgL6oF4Ygu6fLmze2I5kjTj5MtcBPEu4r_OnAz6NJHvET3Uefo7S-3pQZ67cpa9uCanoSltA-ic-uXQdh0lQx-RysShAxiUz
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-47b7134f0a93897c39bfcaee88df3be2f1fc847629e41834f18458be29ac211b_trns_h264/playlist.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
