@@ -114,3 +114,9 @@ Sat Aug 23 13:02:09 CST 2025
 Sat Aug 23 13:02:10 CST 2025
 Sat Aug 23 13:03:39 CST 2025
 删除Sime_Naughty 
+Sat Aug 23 13:17:11 CST 2025
+Sat Aug 23 13:17:11 CST 2025
+Sat Aug 23 13:18:42 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Lucille_evans 
