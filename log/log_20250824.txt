@@ -187,3 +187,8 @@ Sun Aug 24 10:48:35 CST 2025
 Sun Aug 24 11:03:07 CST 2025
 Sun Aug 24 11:03:07 CST 2025
 Sun Aug 24 11:04:32 CST 2025
+Sun Aug 24 11:17:03 CST 2025
+Sun Aug 24 11:17:03 CST 2025
+Sun Aug 24 11:18:21 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除dreamch77 
