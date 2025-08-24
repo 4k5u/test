@@ -250,3 +250,7 @@ Sun Aug 24 15:03:10 CST 2025
 Sun Aug 24 15:03:14 CST 2025
 Sun Aug 24 15:04:31 CST 2025
 删除dreamch77 
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6dc8b6d1805d6525debf8b78d4f93bed8c1342f24ae44f47f086776de1708eac_trns_h264/playlist.m3u8
+Sun Aug 24 15:17:47 CST 2025
+Sun Aug 24 15:17:49 CST 2025
+Sun Aug 24 15:19:19 CST 2025
