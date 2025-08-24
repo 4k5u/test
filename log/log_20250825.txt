@@ -16,3 +16,11 @@ Mon Aug 25 00:18:05 CST 2025
 Mon Aug 25 00:19:36 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
+Mon Aug 25 00:31:59 CST 2025
+Mon Aug 25 00:32:12 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Aug 25 00:33:41 CST 2025
+删除tess00 
+删除eunyoung1238 
+删除gusdk2362 
