@@ -245,3 +245,8 @@ Sun Aug 24 14:46:53 CST 2025
 Sun Aug 24 14:46:53 CST 2025
 Sun Aug 24 14:48:15 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Sun Aug 24 15:03:10 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wSEa8P41wwPb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dTRWE4UDQxd3dQYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2M0EwNjQ4Ni1DM0M1LTRGQUQtQTU2OS1FNEJEM0U1MzFENjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjAxODk5MSwiZXhwIjoxNzU2MDE5NTkxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.YScpjLBnPtxEkkeAR5yfRHl8uefVs4TO2F0-KgqNES6--oS7ha0K-V9W6S2W6BwjVKlOd5FLCWcecDTt6hXeqaltGpexNaPjN6RMEBFYWS7GjnrLY4-7u0kqbt0bCUqc
+Sun Aug 24 15:03:14 CST 2025
+Sun Aug 24 15:04:31 CST 2025
+删除dreamch77 
