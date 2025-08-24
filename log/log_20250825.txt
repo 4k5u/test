@@ -110,3 +110,10 @@ Mon Aug 25 04:04:15 CST 2025
 删除moem9e9 
 删除alicelebel 
 删除gusdk2362 
+添加_meganmeow_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9a4618d538140ef51f5cd28f37f503e66246ed32f55d66f1402a43a829884a63_trns_h264/playlist.m3u8
+Mon Aug 25 04:17:02 CST 2025
+Mon Aug 25 04:17:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Mon Aug 25 04:18:29 CST 2025
+删除leelate 
+删除gusdk2362 
