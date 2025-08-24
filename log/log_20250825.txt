@@ -82,3 +82,8 @@ Mon Aug 25 02:49:13 CST 2025
 删除in0410 
 删除Tmdgus5411 
 删除gusdk2362 
+Mon Aug 25 03:02:41 CST 2025
+Mon Aug 25 03:02:49 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Aug 25 03:04:19 CST 2025
+删除gusdk2362 
