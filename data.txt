@@ -4,3 +4,4 @@ yourare   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9a4618d538140ef51f5cd28f37f503e66246ed32f55d66f1402a43a829884a63_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+taitehambelton   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9324689fab60baf4f6e579f6badf8f3ff9c1d7d2eb5d250a503213cbb6932ab8_trns_h264/playlist.m3u8
