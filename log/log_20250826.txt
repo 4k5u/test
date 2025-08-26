@@ -181,3 +181,7 @@ Tue Aug 26 12:32:45 CST 2025
 Tue Aug 26 12:32:47 CST 2025
 Tue Aug 26 12:34:04 CST 2025
 删除Sime_Naughty 
+Tue Aug 26 12:48:15 CST 2025
+Tue Aug 26 12:48:17 CST 2025
+Tue Aug 26 12:49:34 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
