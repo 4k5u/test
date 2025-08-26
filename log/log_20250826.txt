@@ -376,3 +376,11 @@ Tue Aug 26 22:17:46 CST 2025
 Tue Aug 26 22:18:52 CST 2025
 删除muse62 
 删除hanny27 
+Tue Aug 26 22:32:54 CST 2025
+Tue Aug 26 22:33:23 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Aug 26 22:34:35 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除my_eyes_higher 
+删除m0m099 
+删除hanny27 
