@@ -59,3 +59,7 @@ Wed Aug 27 02:17:10 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 Wed Aug 27 02:18:43 CST 2025
 删除gusdk2362 
+Wed Aug 27 02:32:36 CST 2025
+Wed Aug 27 02:32:46 CST 2025
+Wed Aug 27 02:34:14 CST 2025
+删除imsocutesexy 
