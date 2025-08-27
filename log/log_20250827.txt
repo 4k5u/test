@@ -248,3 +248,8 @@ Wed Aug 27 13:03:34 CST 2025
 Wed Aug 27 13:20:54 CST 2025
 Wed Aug 27 13:20:56 CST 2025
 Wed Aug 27 13:22:19 CST 2025
+Wed Aug 27 13:32:25 CST 2025
+Wed Aug 27 13:32:28 CST 2025
+Wed Aug 27 13:33:51 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除IdaJonesy 
