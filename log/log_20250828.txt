@@ -210,3 +210,8 @@ Thu Aug 28 14:19:25 CST 2025
 Thu Aug 28 14:32:19 CST 2025
 Thu Aug 28 14:32:21 CST 2025
 Thu Aug 28 14:33:44 CST 2025
+Thu Aug 28 14:48:13 CST 2025
+Thu Aug 28 14:48:15 CST 2025
+Thu Aug 28 14:49:40 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除dreamch77 
