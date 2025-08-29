@@ -1,1 +1,1 @@
-taitehambelton   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-63b88c01791eeb1a5d81fdf2c2f4b53cbeb8d203aed334856b7c50faef1c3c02_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
