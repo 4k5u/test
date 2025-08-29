@@ -373,3 +373,10 @@ Fri Aug 29 19:17:13 CST 2025
 Fri Aug 29 19:18:46 CST 2025
 删除hanny27 
 删除yin2618 
+Fri Aug 29 19:32:48 CST 2025
+Fri Aug 29 19:32:56 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Fri Aug 29 19:34:26 CST 2025
+删除hanny27 
+删除yin2618 
