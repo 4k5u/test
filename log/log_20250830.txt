@@ -85,3 +85,10 @@ Sat Aug 30 04:18:18 CST 2025
 Sat Aug 30 04:19:50 CST 2025
 删除alicelebel 
 删除gusdk2362 
+添加mode_bad https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8d38f17d69c198bf8de8533be5c4996b39401bfcaf0092af60c9a1db72c2c968_trns_h264/playlist.m3u8
+Sat Aug 30 04:32:35 CST 2025
+Sat Aug 30 04:32:37 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Sat Aug 30 04:34:10 CST 2025
+删除362540 
+删除gusdk2362 
