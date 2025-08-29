@@ -10,3 +10,4 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 _meganmeow_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-611620a9d0c4e156a19673593886e9ab68448f749457e4caeb3c0d5e07d4ac38_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Sherry_niko   https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8

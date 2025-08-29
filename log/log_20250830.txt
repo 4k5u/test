@@ -49,3 +49,7 @@ Sat Aug 30 02:32:56 CST 2025
 Sat Aug 30 02:33:09 CST 2025
 Sat Aug 30 02:34:28 CST 2025
 删除Sherry_niko 
+Sat Aug 30 02:46:55 CST 2025
+Sat Aug 30 02:47:07 CST 2025
+Sat Aug 30 02:48:34 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
