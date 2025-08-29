@@ -297,3 +297,10 @@ Fri Aug 29 16:34:47 CST 2025
 Fri Aug 29 16:48:04 CST 2025
 Fri Aug 29 16:48:09 CST 2025
 Fri Aug 29 16:49:38 CST 2025
+Fri Aug 29 17:03:06 CST 2025
+Fri Aug 29 17:03:09 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Fri Aug 29 17:04:41 CST 2025
+删除SanySenise 
+删除ad0res 
+删除yin2618 
