@@ -61,3 +61,9 @@ Sat Aug 30 03:17:54 CST 2025
 Sat Aug 30 03:18:05 CST 2025
 Sat Aug 30 03:19:32 CST 2025
 删除in0410 
+Sat Aug 30 03:33:52 CST 2025
+Sat Aug 30 03:33:58 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sat Aug 30 03:35:31 CST 2025
+删除saone451 
+删除gusdk2362 
