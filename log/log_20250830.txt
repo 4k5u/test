@@ -121,3 +121,7 @@ Sat Aug 30 06:19:16 CST 2025
 Sat Aug 30 06:32:45 CST 2025
 Sat Aug 30 06:32:45 CST 2025
 Sat Aug 30 06:34:14 CST 2025
+Sat Aug 30 06:47:50 CST 2025
+Sat Aug 30 06:47:50 CST 2025
+Sat Aug 30 06:49:09 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
