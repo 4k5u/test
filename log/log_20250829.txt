@@ -317,3 +317,12 @@ Fri Aug 29 17:32:12 CST 2025
 Fri Aug 29 17:33:43 CST 2025
 删除ad0res 
 删除yin2618 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-e09e4b704e63218c962d3b63312490f395dddf6997352cbeb2d8e6e3b2b868ff_trns_h264/playlist.m3u8
+Fri Aug 29 17:47:42 CST 2025
+Fri Aug 29 17:47:44 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Fri Aug 29 17:49:20 CST 2025
+删除taitehambelton 
+删除hanny27 
+删除yin2618 
