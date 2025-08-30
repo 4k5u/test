@@ -428,3 +428,8 @@ Sat Aug 30 23:02:06 CST 2025
 Sat Aug 30 23:02:24 CST 2025
 Sat Aug 30 23:03:32 CST 2025
 删除somsom0339 
+Sat Aug 30 23:18:05 CST 2025
+Sat Aug 30 23:18:23 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Aug 30 23:19:44 CST 2025
+删除yeonnacho 
