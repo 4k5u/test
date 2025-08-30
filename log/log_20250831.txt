@@ -63,3 +63,10 @@ Sun Aug 31 03:02:00 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 Sun Aug 31 03:03:29 CST 2025
 删除gusdk2362 
+添加_meganmeow_ https://edge6-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-73878a99ac12b0fea12cad27b32c54e53b2ed7c697aa86477ebbc450eeefc6fb_trns_h264/playlist.m3u8
+Sun Aug 31 03:17:57 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQjk1QTkwQy0zODIyLTQ1ODAtOURFMC1GRTMxMTU5QkQ5OEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjU4MTQ4MCwiZXhwIjoxNzU2NTgyMDgwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Z2dPnZVei4MnjvtaL9ZMjRUk6_iSTFDf-qzQXY-0paOgg8gx0mn3Y2vhXcz9aDhpYkNbftXf38Z74G9IqbHZ8loUCt_Rf0Fwl7lAJxPzSOBNS-KVg_bicL6vWyT-EE1s
+Sun Aug 31 03:18:05 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sun Aug 31 03:19:34 CST 2025
+删除gusdk2362 
