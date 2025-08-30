@@ -140,3 +140,9 @@ Sun Aug 31 06:16:54 CST 2025
 Sun Aug 31 06:18:27 CST 2025
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除gusdk2362 
+Sun Aug 31 06:33:37 CST 2025
+Sun Aug 31 06:33:37 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Aug 31 06:35:04 CST 2025
+删除Sherry_niko 
+删除gusdk2362 
