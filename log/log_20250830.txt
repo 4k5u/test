@@ -356,3 +356,11 @@ Sat Aug 30 20:03:07 CST 2025
 Sat Aug 30 20:04:29 CST 2025
 删除honey_pinkgreen 
 删除yin2618 
+Sat Aug 30 20:18:27 CST 2025
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.r36k296u7SvA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3IzNmsyOTZ1N1N2QSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFRUY2ODNBNS00OTQ3LTRGN0QtODczRS0zNzMzQjk4RkFBNjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjU1NjMwOSwiZXhwIjoxNzU2NTU2OTA5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.CztIpmrPn_RWR1q8CjkdT8SV9uChl3YEvHRWQix1NbTydUt9tBtTvbJAQJZ1sFP5fWHfAgeB3PwxVEMUIXmW9CDRv6QjaEjBFgWnYNXDl5FJx5mVjLu0jrsnLMwJFE2_
+Sat Aug 30 20:18:35 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sat Aug 30 20:19:45 CST 2025
+删除4ocari 
+删除ad0res 
+删除yin2618 
