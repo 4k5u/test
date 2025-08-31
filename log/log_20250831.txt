@@ -471,3 +471,11 @@ Sun Aug 31 23:18:12 CST 2025
 Sun Aug 31 23:19:40 CST 2025
 删除eunyoung1238 
 删除yin2618 
+添加ake_mi https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-ec8e32b1595402b754b73ba35f97b2a4a9227230bf22091226174a05e44de9ab_trns_h264/playlist.m3u8
+Sun Aug 31 23:33:15 CST 2025
+Sun Aug 31 23:33:35 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.nh8VLtPJvRu4F6MRU4BcIBX5zPq-MWUHXZHh3n5eY__Y3r0JCrZmshygI_UtbJhYXKvhFiAc5Ig99Wb8hgcrqVHO9UP70zvfVNs9-Q8XltD8HcqfEymqLdsRelnwlReXpb273u9uB5wFVvhIhY-eGh3tDVsqBtsWpyHXfFw8g1prnrAPUJ1gdIFyLqXaz4pc
+Sun Aug 31 23:34:51 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除jodong2 
+删除rud9281 
