@@ -464,3 +464,10 @@ Sun Aug 31 23:04:00 CST 2025
 Sun Aug 31 23:05:21 CST 2025
 删除eunyoung1238 
 删除yin2618 
+Sun Aug 31 23:17:50 CST 2025
+Sun Aug 31 23:18:12 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sun Aug 31 23:19:40 CST 2025
+删除eunyoung1238 
+删除yin2618 
