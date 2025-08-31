@@ -136,3 +136,7 @@ Mon Sep 1 07:32:45 CST 2025
 Mon Sep 1 07:32:45 CST 2025
 Mon Sep 1 07:34:14 CST 2025
 删除mode_bad 
+添加mazzanti_ https://edge6-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-f242b1a0813ec42ffa4163aa83de73fd3711580c29a6ae3647891960a3c25bd6_trns_h264/playlist.m3u8
+Mon Sep 1 07:47:51 CST 2025
+Mon Sep 1 07:47:51 CST 2025
+Mon Sep 1 07:49:23 CST 2025
