@@ -1,3 +1,2 @@
 _meganmeow_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-aa840f27a0254592b29dd1b80c86beb95051b078ebf812ec837523d1800a74d1_trns_h264/playlist.m3u8
-mode_bad   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-277b4f2b840e2456060ff856a8e13058767762c8cca0ecffc2fd199d3c5b7ae8_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
