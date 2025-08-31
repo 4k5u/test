@@ -87,3 +87,7 @@ Mon Sep 1 03:47:35 CST 2025
 Mon Sep 1 03:49:11 CST 2025
 删除alicelebel 
 删除gusdk2362 
+添加mode_bad https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-277b4f2b840e2456060ff856a8e13058767762c8cca0ecffc2fd199d3c5b7ae8_trns_h264/playlist.m3u8
+Mon Sep 1 04:03:05 CST 2025
+Mon Sep 1 04:03:08 CST 2025
+Mon Sep 1 04:04:37 CST 2025
