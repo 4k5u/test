@@ -4,3 +4,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-73878a99ac12b0fea12cad27b32c54e53b2ed7c697aa86477ebbc450eeefc6fb_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7b255330460ebca34a47919fb560798be9fabdcfb917e6cbe736b8bf588f2f4f_trns_h264/playlist.m3u8
+y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.3jhVPfLCN6cV9xO1qSnsedbz4-EgFzkLc5s1VPiwi_bzDPPFkPTaxyLIvYEPaTZCLlaCYfcnBZg3KcDhTlxbKD6fXKPMc9dOaUxalsaznhtYyJMx5-kWE7qFNVGRjwgh3KvfngHRZyZugAq-_1GUVMExq3mssjKIVEM4wcmAWm1RAOwo1LuQr7B4LoGJjrVV
