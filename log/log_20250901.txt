@@ -9,3 +9,8 @@ Mon Sep 1 00:31:55 CST 2025
 Mon Sep 1 00:32:13 CST 2025
 Mon Sep 1 00:33:34 CST 2025
 删除m0m099 
+Mon Sep 1 00:46:56 CST 2025
+Mon Sep 1 00:47:14 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon Sep 1 00:48:43 CST 2025
+删除gusdk2362 
