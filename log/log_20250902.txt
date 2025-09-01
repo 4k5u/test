@@ -103,3 +103,8 @@ Tue Sep 2 06:47:48 CST 2025
 Tue Sep 2 06:49:33 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除hanny27 
+Tue Sep 2 07:02:38 CST 2025
+Tue Sep 2 07:02:38 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Tue Sep 2 07:04:10 CST 2025
+删除hanny27 
