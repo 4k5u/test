@@ -411,3 +411,9 @@ Tue Sep 2 21:48:23 CST 2025
 Tue Sep 2 21:49:37 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除hanny27 
+Tue Sep 2 22:04:57 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.SooztP2c68ef.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1Nvb3p0UDJjNjhlZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyRTg3ODcxMS0zQzhBLTQ3MTktOTQyRS05ODlDODIyOUMzQkIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjgyMTkwNiwiZXhwIjoxNzU2ODIyNTA2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Mw2eGfQheR4T6rpR_G_JOGV2B6sD-OzblZNnrZHMX76j70urwUVXCY0dLuwIA1SHdNQcNv4Qj7o8PwwepVvHbMqb3-F16mmTk_KFLXP0HyuX1k2LXPfeCs1Z4F__ZyYT
+Tue Sep 2 22:05:29 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Tue Sep 2 22:06:38 CST 2025
+删除hanny27 
