@@ -280,3 +280,8 @@ Tue Sep 2 18:17:48 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 Tue Sep 2 18:19:22 CST 2025
 删除yin2618 
+Tue Sep 2 18:32:13 CST 2025
+Tue Sep 2 18:32:15 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Tue Sep 2 18:33:39 CST 2025
+删除yin2618 
