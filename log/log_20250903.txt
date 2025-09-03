@@ -219,3 +219,9 @@ Wed Sep 3 14:48:12 CST 2025
 Wed Sep 3 14:48:22 CST 2025
 Wed Sep 3 14:49:52 CST 2025
 删除ake_mi 
+Wed Sep 3 15:02:44 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.wSEa8P41wwPb.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3dTRWE4UDQxd3dQYiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQzgyQTM5Ny0wMTA1LTRFOUMtQUQzNS03QkEyM0Q4M0Y4NkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Njg4Mjk3MywiZXhwIjoxNzU2ODgzNTczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7Fq9jnIRZanrfLSFUlNQe7oczZ_1GGtufCw-R_XUG08Zf4w4obY2mMTV95rdh-4_TSq36BXqaiP7_vWaA5R_ZKeqzlj_XeaBXQvaS7i5WiRrAnSOaMrDxL7LcQTMp12u
+Wed Sep 3 15:02:56 CST 2025
+Wed Sep 3 15:04:26 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除sexygamesx 
