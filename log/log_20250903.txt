@@ -326,3 +326,13 @@ Wed Sep 3 19:18:02 CST 2025
 Wed Sep 3 19:19:31 CST 2025
 删除dana9282 
 删除yin2618 
+Wed Sep 3 19:33:40 CST 2025
+Wed Sep 3 19:34:01 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ttnr0oUqDmxg78G4gzF5kG1PcGI66L7YozSdFB7wE_PiVdvzRSxWGm-feaAbIeeSplajUuqQAVkwk99LRuzWCfOWLssBBNoQ8EfnYXuya0wtiSsfX71GZMRDtnS3EMbznKmxpbnZxeMkABz9ChVLSqZioQlwR0hRo-QNBbIT6JoI75Ed4-vPOrn80m_o7ubs
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.JcV6mVv3iSCDqBo9pIlN7PussQFFceFzWuwIZ0DWwhxLkZ7XiOASvbCl8-Sr0ulgyjUicsdLZ_XG4PqRu0pgKBRLI0chqA99McjJvS2qTDVukzdeWjGcergRkzbXAsyTGhvsVKX5xgqmjnoLt8j0whtNIrJTiWR9KSRx4mmGqiyQzbdAYkbFPkt0EQT6kpFq
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 19:35:36 CST 2025
+删除foxylovesyou 
+删除dana9282 
+删除yin2618 
