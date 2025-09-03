@@ -301,3 +301,11 @@ Wed Sep 3 18:33:10 CST 2025
 Wed Sep 3 18:34:39 CST 2025
 删除sexygamesx 
 删除yin2618 
+添加sexygamesx https://edge14-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8c9f28f103008c1933011950751ec07d179824e985a42157963a81525dccf504_trns_h264/playlist.m3u8
+Wed Sep 3 18:47:44 CST 2025
+Wed Sep 3 18:47:58 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 18:49:25 CST 2025
+删除jodong2 
+删除sexygamesx 
+删除yin2618 
