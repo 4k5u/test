@@ -407,3 +407,10 @@ Wed Sep 3 22:03:01 CST 2025
 Wed Sep 3 22:03:39 CST 2025
 Wed Sep 3 22:04:36 CST 2025
 删除somsom0339 
+添加honey_pinkgreen https://edge8-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-55850248b7338707a25887c1d4f24d00e52daf6f8043375ec5be90ccc8ab9b72_trns_h264/playlist.m3u8
+Wed Sep 3 22:19:05 CST 2025
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MkJDNTlBOC01MjYxLTRCRDYtQTg5Mi1BOTEwRTY1NjRBNkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NjkwOTE4MywiZXhwIjoxNzU2OTA5NzgzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.BvBFk9GtRg8cA2o-E0xpExG_q_4SjUm7SZmdYHQf0mj9jy4Fj4-9rVACKwoXUJYvUArZ08Zl2U51g_vVHc4Sk08CFSpM7gUKFp7ZVLrBsYjxumERWPdQfLPh8vmU3tH0
+Wed Sep 3 22:19:48 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 22:20:57 CST 2025
+删除yeonnacho 
