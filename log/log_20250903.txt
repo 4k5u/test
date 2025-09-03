@@ -336,3 +336,11 @@ Wed Sep 3 19:35:36 CST 2025
 删除foxylovesyou 
 删除dana9282 
 删除yin2618 
+Wed Sep 3 19:49:00 CST 2025
+Wed Sep 3 19:49:20 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.w_Ljedj_5nZDMAFT0iopudcYI-sUw_EIjl2mf2TETFO9B2UkMT0EUf-6xhYOiGG-xMaRHKE7PH_t4KDPrXuU66fkc4sodu8DbPiJZZkereUZB1qQkUYle-MDtbCdu8tx0QbzBXGF4LSbYrMTY0ZIIPlGSNNyBGSUYu5jd9dBcnIMYNJQllqbH9aKHk5TRmut
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 19:50:38 CST 2025
+删除dana9282 
+删除yin2618 
