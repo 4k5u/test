@@ -274,3 +274,9 @@ Wed Sep 3 17:33:20 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 Wed Sep 3 17:34:47 CST 2025
 删除yin2618 
+Wed Sep 3 17:49:03 CST 2025
+Wed Sep 3 17:49:17 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 17:50:45 CST 2025
+删除SanySenise 
+删除yin2618 
