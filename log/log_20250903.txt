@@ -318,3 +318,11 @@ Wed Sep 3 19:02:35 CST 2025
 Wed Sep 3 19:03:54 CST 2025
 删除dana9282 
 删除yin2618 
+Wed Sep 3 19:17:40 CST 2025
+添加100472 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.D1jVUKO0gA45.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0QxalZVS08wZ0E0NSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNDU1ODkyRi0xMjE2LTRENDAtODMxQy01NzE0RkUxQzA5RjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Njg5ODI3NSwiZXhwIjoxNzU2ODk4ODc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ghBqF4WbiJzqGhN5I5qM52s4gb7teOGyPZ9JySQoId-NUlYiFNkjyxnn75JaVMjvHfshqXppKFfmPdIGIWOkjCRQI7sxJdhe86lCL7JMbnI8WUoaGhYTBYCLN05wtk-M
+Wed Sep 3 19:18:02 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Wed Sep 3 19:19:31 CST 2025
+删除dana9282 
+删除yin2618 
