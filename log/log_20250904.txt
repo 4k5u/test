@@ -282,3 +282,9 @@ Thu Sep 4 17:47:55 CST 2025
 Thu Sep 4 17:49:15 CST 2025
 删除ad0res 
 删除yin2618 
+添加ad0res https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-aed9a16badb39914c3cc81e2b535a489bf9461052b0c9b163714605c3f2788e2_trns_h264/playlist.m3u8
+Thu Sep 4 18:03:23 CST 2025
+Thu Sep 4 18:03:29 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Sep 4 18:04:49 CST 2025
+删除yin2618 
