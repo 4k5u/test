@@ -36,3 +36,8 @@ Sat Sep 6 01:33:41 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Sat Sep 6 01:35:00 CST 2025
 删除eunyoung1238 
+Sat Sep 6 01:47:32 CST 2025
+Sat Sep 6 01:48:02 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Sep 6 01:49:19 CST 2025
+删除eunyoung1238 
