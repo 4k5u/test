@@ -1,3 +1,4 @@
 my_eyes_higher   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b449eeb26f1bf82cefa439ca889c6e36214ce47937f4a1a1f8d02136a1b4abbc_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 mode_bad   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-55729cbc9203121f37fc6d525d9f4778363d4eb58c7f192b833cc30aefa85178_trns_h264/playlist.m3u8
+_meganmeow_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-06bb83fa44ee5aba72c5dbfa35e331a559799f7fd88810c7bfa5c7069e2f1c19_trns_h264/playlist.m3u8
