@@ -89,3 +89,12 @@ Fri Sep 5 21:49:38 CST 2025
 删除dana9282 
 删除eunyoung1238 
 删除hanny27 
+Fri Sep 5 22:02:47 CST 2025
+Fri Sep 5 22:03:50 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.V-ZsLReJp5OznAYTgtcud6XNrkAMbgb97QNA9ifrCq7SWaBAPwyWuvyqYOPEGF_jX3I5CmgyUHetN7fXECEgnK2FEvpNYRWNzBYrkxhOUchBMXE_Is9G0VcASXixRsBJi5C01v7hIKdKa_tHNN-v3zC4u9zOhn-kNaaJ13P4ZYjhp6DK4vbORNvhIboywc_O
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Fri Sep 5 22:05:21 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除eunyoung1238 
+删除hanny27 
