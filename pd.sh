@@ -14,7 +14,7 @@ pdapi="$PDAPI"
 logfile="log/log_`date '+%Y%m%d'`.txt"
 #userIds=$1
 
-
+: << 'END_COMMENT'
 fetch_json() {
     local offset="$1"
     local limit="$2"
@@ -64,6 +64,10 @@ mv  "$json_file1"  all.json
 
 #echo "清理临时文件"
 rm "$json_file2"
+
+END_COMMENT
+
+wget -N "${m3u8site}/player/list.json" -O all.json
 json=$(cat all.json)
 
 isAdults=$(echo "$json" |jq .list[]|jq 'select(.isAdult == true)'|jq .userId|wc -l)
@@ -138,7 +142,7 @@ unreachableIds=()
                     curl -sSL --connect-timeout 5 --retry-delay 3 --retry 3  -w %{http_code} -H 'accept:application/json, text/plain, */*' -H "authorization:${roomToken}" -d "{\"id\": \"$movieid\"}" "${synctv}/api/movie/current"
                 
                     echo "$userId 已推送到Sync TV, removing from list"
-                    #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
+                    #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，sync维护！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}/player/pandalive.html?url=${userId})\n\n"
                     #text=$(echo "${text}" | sed 's/-/\\\\-/g')
                     #curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 elif [ "$roomid" = null ]; then
@@ -149,8 +153,8 @@ unreachableIds=()
                 fi
             
                 echo "$userId 推送到TG"
-                #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}?url=${userId})\n\n"
-                text="*J哥提醒你！！！！*\n\nPanda主播${userId}上线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源观看](${m3u8site}?url=${userId})\n\n[需要安装插件才能播](https://t.me/kbjba1/98804)\n\n[直播间地址](https://www.pandalive.co.kr/live/play/${userId})\n\n"
+                #text="*J哥提醒你！！！！*\n\nPanda主播${userId}直播源已添加到SyncTV\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直达地址，让我康康！](${synctv}/web/cinema/${roomid})\n\n[直达地址②，再次康康！](${m3u8site}/player/pandalive.html?url=${userId})\n\n"
+                text="*J哥提醒你！！！！*\n\nPanda主播${userId}上线\n\n本场开播时间：$startTime（韩国时间快1小时）\n\n[直播源观看](${m3u8site}/player/pandalive.html?url=${userId})\n\n[需要安装插件才能播](https://t.me/kbjba1/98804)\n\n[直播间地址](https://www.pandalive.co.kr/live/play/${userId})\n\n"
                 text=$(echo "${text}" | sed 's/-/\\\\-/g')
                 curl -H 'Content-Type: application/json' -d "{\"chat_id\": \"@Sexbjlive_Chat\", \"caption\":\"$text\", \"photo\":\"$img\"}" "https://api.telegram.org/${bot}/sendPhoto?parse_mode=MarkdownV2"
                 echo -e "$userId $roomid $roomToken $hls">> data.txt
