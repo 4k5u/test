@@ -40,3 +40,11 @@ Fri Sep 5 20:18:59 CST 2025
 Fri Sep 5 20:20:24 CST 2025
 删除eunyoung1238 
 删除hanny27 
+Fri Sep 5 20:32:23 CST 2025
+Fri Sep 5 20:33:07 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Fri Sep 5 20:34:28 CST 2025
+删除ad0res 
+删除eunyoung1238 
+删除hanny27 
