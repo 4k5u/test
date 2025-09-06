@@ -360,3 +360,10 @@ Sat Sep 6 21:19:25 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 Sat Sep 6 21:20:48 CST 2025
 删除eunyoung1238 
+Sat Sep 6 21:33:54 CST 2025
+Sat Sep 6 21:34:21 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Sep 6 21:35:40 CST 2025
+删除ake_mi 
+删除my_eyes_higher 
+删除eunyoung1238 
