@@ -127,3 +127,7 @@ Sat Sep 6 07:46:56 CST 2025
 Sat Sep 6 07:47:00 CST 2025
 Sat Sep 6 07:48:30 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Sat Sep 6 08:02:29 CST 2025
+Sat Sep 6 08:02:32 CST 2025
+Sat Sep 6 08:04:03 CST 2025
+删除mode_bad 
