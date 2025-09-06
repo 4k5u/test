@@ -101,3 +101,8 @@ Sun Sep 7 03:35:11 CST 2025
 Sun Sep 7 03:47:36 CST 2025
 Sun Sep 7 03:47:51 CST 2025
 Sun Sep 7 03:49:19 CST 2025
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-cfd066c421c20eeee6038060634c117904698ebbb2c9107178326755e1255d27_trns_h264/playlist.m3u8
+Sun Sep 7 04:02:34 CST 2025
+Sun Sep 7 04:02:52 CST 2025
+Sun Sep 7 04:04:19 CST 2025
+删除alicelebel 
