@@ -433,3 +433,13 @@ Sat Sep 6 23:35:38 CST 2025
 删除gremmy 
 删除rud9281 
 删除eunyoung1238 
+Sat Sep 6 23:46:55 CST 2025
+Sat Sep 6 23:47:18 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Sep 6 23:49:02 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除gremmy 
+删除rud9281 
+删除eunyoung1238 
