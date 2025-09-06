@@ -66,3 +66,10 @@ Sun Sep 7 02:02:20 CST 2025
 Sun Sep 7 02:03:53 CST 2025
 删除gremmy 
 删除rud9281 
+Sun Sep 7 02:17:59 CST 2025
+Sun Sep 7 02:18:14 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Sep 7 02:19:50 CST 2025
+删除gremmy 
+删除rud9281 
