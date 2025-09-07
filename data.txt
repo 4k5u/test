@@ -1,1 +1,2 @@
 taitehambelton   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-07a97456a684977e6d5c658251dcbfc4144429bc602db606cded1f6bdb5af867_trns_h264/playlist.m3u8
+mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-c4d9afc58efa2367c892062f648ef60224d72a976f3d14bd1992afc2c87abb63_trns_h264/playlist.m3u8
