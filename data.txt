@@ -1,1 +1,2 @@
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+my_eyes_higher   https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-483e25a4903d4e0d5565b9b1323f9fb54bdac3188d579a1bb51b8f9e859d8ac5_trns_h264/playlist.m3u8

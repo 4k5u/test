@@ -19,3 +19,7 @@ Mon Sep 8 01:02:26 CST 2025
 Mon Sep 8 01:03:43 CST 2025
 删除glglehddl 
 删除namuh0926 
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-483e25a4903d4e0d5565b9b1323f9fb54bdac3188d579a1bb51b8f9e859d8ac5_trns_h264/playlist.m3u8
+Mon Sep 8 01:17:54 CST 2025
+Mon Sep 8 01:18:09 CST 2025
+Mon Sep 8 01:19:38 CST 2025
