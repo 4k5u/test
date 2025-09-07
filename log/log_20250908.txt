@@ -89,3 +89,8 @@ Mon Sep 8 06:18:23 CST 2025
 Mon Sep 8 06:33:16 CST 2025
 Mon Sep 8 06:33:20 CST 2025
 Mon Sep 8 06:34:46 CST 2025
+Mon Sep 8 06:48:45 CST 2025
+Mon Sep 8 06:48:48 CST 2025
+Mon Sep 8 06:50:16 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除dreamch77 
