@@ -333,3 +333,11 @@ Sun Sep 7 18:48:01 CST 2025
 Sun Sep 7 18:49:40 CST 2025
 删除hanny27 
 删除yin2618 
+Sun Sep 7 19:03:28 CST 2025
+Sun Sep 7 19:03:47 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Sun Sep 7 19:05:03 CST 2025
+删除leelate 
+删除hanny27 
+删除yin2618 
