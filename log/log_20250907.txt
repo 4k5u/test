@@ -299,3 +299,8 @@ Sun Sep 7 17:37:20 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Sun Sep 7 17:39:00 CST 2025
 删除yin2618 
+Sun Sep 7 17:55:28 CST 2025
+Sun Sep 7 17:55:44 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sun Sep 7 17:57:05 CST 2025
+删除yin2618 
