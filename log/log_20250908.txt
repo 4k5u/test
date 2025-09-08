@@ -345,3 +345,8 @@ Mon Sep 8 21:47:20 CST 2025
 添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2RkUxQjAzMC1CODkxLTQ3NTItQTU4OC1CODg5OTYyNkE3OUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzMzOTI3MSwiZXhwIjoxNzU3MzM5ODcxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mpU8r6mIEdVr9kO3gPYPFZvuGY7gjusb5IWj8D1fV6VUsLRDDAef7tYCux2XZJ4ETYlVjMpX_SG1J_h4PEpF123l-zVrBLT456UFZBdAz8rXGBh98lFlNlRstL4mnQhh
 Mon Sep 8 21:47:56 CST 2025
 Mon Sep 8 21:48:59 CST 2025
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b3b1dc1630f9dcc2c7db74fd85909130b6c121049dc283ce25f90c6c66cde8e6_trns_h264/playlist.m3u8
+Mon Sep 8 22:04:38 CST 2025
+Mon Sep 8 22:05:12 CST 2025
+Mon Sep 8 22:06:09 CST 2025
+删除yin2618 
