@@ -93,3 +93,7 @@ Tue Sep 9 05:02:17 CST 2025
 Tue Sep 9 05:03:39 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除hanny27 
+Tue Sep 9 05:16:58 CST 2025
+Tue Sep 9 05:17:02 CST 2025
+Tue Sep 9 05:18:37 CST 2025
+删除my_eyes_higher 
