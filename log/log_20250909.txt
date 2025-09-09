@@ -445,3 +445,10 @@ Tue Sep 9 22:33:36 CST 2025
 Tue Sep 9 22:34:50 CST 2025
 删除hanny27 
 删除yin2618 
+Tue Sep 9 22:48:44 CST 2025
+Tue Sep 9 22:49:12 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Sep 9 22:50:27 CST 2025
+删除hanny27 
+删除yin2618 
