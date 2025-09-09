@@ -184,3 +184,7 @@ Tue Sep 9 11:33:47 CST 2025
 Tue Sep 9 11:35:14 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除nobleinc 
+Tue Sep 9 11:48:45 CST 2025
+Tue Sep 9 11:48:45 CST 2025
+Tue Sep 9 11:50:14 CST 2025
+删除IdaJonesy 
