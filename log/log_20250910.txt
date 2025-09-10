@@ -459,3 +459,9 @@ Wed Sep 10 23:33:54 CST 2025
 Wed Sep 10 23:34:55 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除dks2003 
+Wed Sep 10 23:48:04 CST 2025
+Wed Sep 10 23:48:38 CST 2025
+Wed Sep 10 23:49:40 CST 2025
+删除anystar00 
+删除jodong2 
+删除hanny27 
