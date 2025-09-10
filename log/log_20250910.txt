@@ -312,3 +312,11 @@ Wed Sep 10 19:02:47 CST 2025
 Wed Sep 10 19:04:16 CST 2025
 删除foxylovesyou 
 删除hanny27 
+添加ake_mi https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-41b79a02f70b95312719f99e9bac80451f87840dd31b5e15d127db8c50750e2d_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a7bd37ee5e61ea15f930f2bff01da2aa80e68741c48c3dd7b99b4fe923b78473_trns_h264/playlist.m3u8
+Wed Sep 10 19:21:07 CST 2025
+Wed Sep 10 19:21:23 CST 2025
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ycFNXE7rRCbjMNMXPIZ25t59lMvW-_ECGGU45bfMlg2Evor2BEOmjvYlW3YxafXpo34iIHHrxbmui6vnA-IThCYBvONUwOB0RQI2OoaTTydfh5cMGfFqksvgzyH3nI2FxN0u4B-JMy4KrabCzfJlWJombdtyXFUkpskVWI-_wS3mn6Z_lwtU_j1trnxeWzxx
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Wed Sep 10 19:22:44 CST 2025
+删除hanny27 
