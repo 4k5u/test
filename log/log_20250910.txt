@@ -140,3 +140,7 @@ Wed Sep 10 09:02:11 CST 2025
 Wed Sep 10 09:02:13 CST 2025
 Wed Sep 10 09:03:35 CST 2025
 删除mode_bad 
+Wed Sep 10 09:16:59 CST 2025
+Wed Sep 10 09:17:01 CST 2025
+Wed Sep 10 09:18:29 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
