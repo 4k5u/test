@@ -297,3 +297,10 @@ Wed Sep 10 18:34:20 CST 2025
 Wed Sep 10 18:35:56 CST 2025
 删除foxylovesyou 
 删除hanny27 
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bba5304fe7fbd8d6542b1ffd97cdbddd824c6e71e61366c04d690017e56f63fa_trns_h264/playlist.m3u8
+Wed Sep 10 18:46:55 CST 2025
+Wed Sep 10 18:47:09 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Wed Sep 10 18:48:36 CST 2025
+删除foxylovesyou 
+删除hanny27 
