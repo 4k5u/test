@@ -235,3 +235,6 @@ Thu Sep 11 14:32:07 CST 2025
 Thu Sep 11 14:32:18 CST 2025
 Thu Sep 11 14:33:43 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Thu Sep 11 14:48:11 CST 2025
+Thu Sep 11 14:48:21 CST 2025
+Thu Sep 11 14:49:38 CST 2025
