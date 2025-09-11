@@ -92,3 +92,10 @@ Fri Sep 12 03:31:57 CST 2025
 Fri Sep 12 03:33:28 CST 2025
 删除in0410 
 删除my_eyes_higher 
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f861743a73dc2b87f82bb4100c86e1f8606b1a51a5ecbf2047b4dca2341a69cb_trns_h264/playlist.m3u8
+Fri Sep 12 03:47:02 CST 2025
+Fri Sep 12 03:47:06 CST 2025
+Fri Sep 12 03:48:32 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除lolsos 
+删除my_eyes_higher 
