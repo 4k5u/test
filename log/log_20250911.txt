@@ -238,3 +238,7 @@ Thu Sep 11 14:33:43 CST 2025
 Thu Sep 11 14:48:11 CST 2025
 Thu Sep 11 14:48:21 CST 2025
 Thu Sep 11 14:49:38 CST 2025
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-83a9691ab4ed561cfd384248148c02ea29dce9f5199917807dd5338abb20080e_trns_h264/playlist.m3u8
+Thu Sep 11 15:03:32 CST 2025
+Thu Sep 11 15:03:43 CST 2025
+Thu Sep 11 15:05:00 CST 2025
