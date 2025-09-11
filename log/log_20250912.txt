@@ -51,3 +51,8 @@ Fri Sep 12 01:48:33 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除chuing77 
 删除my_eyes_higher 
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f861743a73dc2b87f82bb4100c86e1f8606b1a51a5ecbf2047b4dca2341a69cb_trns_h264/playlist.m3u8
+Fri Sep 12 02:04:18 CST 2025
+Fri Sep 12 02:04:26 CST 2025
+Fri Sep 12 02:05:52 CST 2025
+删除my_eyes_higher 
