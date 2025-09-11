@@ -190,3 +190,7 @@ Thu Sep 11 11:32:22 CST 2025
 Thu Sep 11 11:32:26 CST 2025
 Thu Sep 11 11:33:47 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加taitehambelton https://edge5-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-48976fd7b09ccce50af5788c63b04bb38593d0dbc79793674a0d1fda53687f2d_trns_h264/playlist.m3u8
+Thu Sep 11 11:47:16 CST 2025
+Thu Sep 11 11:47:21 CST 2025
+Thu Sep 11 11:48:49 CST 2025
