@@ -353,3 +353,11 @@ Fri Sep 12 18:50:05 CST 2025
 删除tyy750ii 
 删除ad0res 
 删除alswl2208 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f5ce9b797c2fde5468960142f71a214ef6e36a7ea6125eb803363dd7d4600791_trns_h264/playlist.m3u8
+Fri Sep 12 19:02:01 CST 2025
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MzlFM0YwMi04MDA1LTQxREYtQUM4OC1GNjc5QTgwOTMxMUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY3NDkyOCwiZXhwIjoxNzU3Njc1NTI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.o3C5hWFh5MPb4WSkB1E05vJ6bL9YztnsLolVhJlCOodSmtZIsafs8gNoh14zw47LSL_CrZARqJYGvOb4NWqlrEy1I4lmFucXWvko5wwn8ZJ5EqiJL0nVkIirMRhyWJZp
+Fri Sep 12 19:02:15 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 19:03:42 CST 2025
+删除honey_pinkgreen 
+删除alswl2208 
