@@ -315,3 +315,9 @@ Fri Sep 12 17:17:33 CST 2025
 添加anystar00 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.YZhCdqqVr9X2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1laaENkcXFWcjlYMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQTk3OTcyMC1DRjQwLTQ4OUUtQjNFQy1ENEQzNTJDRkQ2RTQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY2ODY2MCwiZXhwIjoxNzU3NjY5MjYwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZYOhf4IrZI6Jbe0JvQkmtd2EzLfSuSf5QKNJ6V8nA6Mf2d-wndsJ-cJ1TmxaPle9YDmryML7zW9v4NTIqFmiP6DjKArkwHBLz0GG41SUpJHuVQaF_J7eFLdZgQ7DjAPn
 Fri Sep 12 17:17:45 CST 2025
 Fri Sep 12 17:19:05 CST 2025
+添加ad0res https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-f5ce9b797c2fde5468960142f71a214ef6e36a7ea6125eb803363dd7d4600791_trns_h264/playlist.m3u8
+Fri Sep 12 17:32:38 CST 2025
+Fri Sep 12 17:32:48 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 17:34:24 CST 2025
+删除alswl2208 
