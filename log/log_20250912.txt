@@ -480,3 +480,9 @@ Fri Sep 12 22:33:58 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
 Fri Sep 12 22:35:34 CST 2025
 删除yin2618 
+Fri Sep 12 22:47:43 CST 2025
+Fri Sep 12 22:48:21 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 22:51:44 CST 2025
+删除starsh2802 
+删除yin2618 
