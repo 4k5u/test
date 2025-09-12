@@ -413,3 +413,11 @@ Fri Sep 12 20:33:20 CST 2025
 Fri Sep 12 20:34:42 CST 2025
 删除alswl2208 
 删除yin2618 
+Fri Sep 12 20:48:59 CST 2025
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NkFEQUQxRi04RTg4LTQ2RUMtODA2Ny1DMUZFMzQ3NEE5QkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY4MTM1MiwiZXhwIjoxNzU3NjgxOTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-Md4McFWVLe4Tz177fCRjYpyU4EU09OumpLwqrSsDsck3FPfRKb4Hh6wIS9iyXn_pY1DivwvDENkqKCCMYgbfRr8eo33ygx8u3bMW6olPiFiv3qySHHT1X7NEFNU__Qe
+Fri Sep 12 20:49:33 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 20:50:59 CST 2025
+删除alswl2208 
+删除yin2618 
