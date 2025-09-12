@@ -486,3 +486,10 @@ Fri Sep 12 22:48:21 CST 2025
 Fri Sep 12 22:51:44 CST 2025
 删除starsh2802 
 删除yin2618 
+Fri Sep 12 23:03:56 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.MccvHaJWBvso.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL01jY3ZIYUpXQnZzbyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMzA3Q0ZCRS05MzFDLTQ3RDUtODE2Qy05M0IwQUREMDJGNDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1NzY4OTQ1OSwiZXhwIjoxNzU3NjkwMDU5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Dlrs8Y5Ld7Fo7t5FiWKwdIeRtw3O1dOj4EsmugGkwFWrJ3f5ft8AYpUPdpUdqVS6f6bmvU4FtPxND-EzGUbUO8GpuR_KCPHcriWuMdLnF1P8C1yJOjLIYce8bEysV_in
+Fri Sep 12 23:04:37 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 23:07:56 CST 2025
+删除jodong2 
+删除yin2618 
