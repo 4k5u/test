@@ -211,3 +211,9 @@ Fri Sep 12 11:18:53 CST 2025
 Fri Sep 12 11:20:19 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除taitehambelton 
+添加taitehambelton https://edge2-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a610bab5865d7494945fe48487e2433abe4951d521b007c2cbb09641f0c3d789_trns_h264/playlist.m3u8
+Fri Sep 12 11:32:57 CST 2025
+Fri Sep 12 11:32:57 CST 2025
+Fri Sep 12 11:34:24 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除taitehambelton 
