@@ -321,3 +321,10 @@ Fri Sep 12 17:32:48 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 Fri Sep 12 17:34:24 CST 2025
 删除alswl2208 
+添加honey_pinkgreen https://edge9-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-e8f317854bad0cba7a966552785dfb1731e9b80a8e185ce4cac33b23e2ae1e1f_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-464321d59746546fb43eb4845c5f07e3eb695e5ca2de61c2ccbcad45a1fd9577_trns_h264/playlist.m3u8
+Fri Sep 12 17:48:46 CST 2025
+Fri Sep 12 17:48:56 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Sep 12 17:50:29 CST 2025
+删除alswl2208 
