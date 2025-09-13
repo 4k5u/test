@@ -530,3 +530,11 @@ Sat Sep 13 20:19:42 CST 2025
 删除ad0res 
 删除iminako 
 删除navi04 
+添加iminako https://edge3-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-028f8c9e8a58df49a6e530b6e4b3d4469d018ff01e76977ecb6ea8576cd97946_trns_h264/playlist.m3u8
+Sat Sep 13 20:34:08 CST 2025
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MzNBMDFBMS1FNEJCLTQ3NUItOTU0NS0zQzVBMEFBNkQ2NUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzc2Njg2MiwiZXhwIjoxNzU3NzY3NDYyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.v8YPhW83di7bqwn_Gyvg6splNQKG7_G3rRZ-7gFEObBogxcZ4dkrHpBjYlNJBdbekjMSegGs6y-myU9Lkox44wz723Un9bwhtwDZI_l9mbEbntmen-fNch0eQomBeyJ2
+Sat Sep 13 20:34:27 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 20:35:29 CST 2025
+删除iminako 
+删除navi04 
