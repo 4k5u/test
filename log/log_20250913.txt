@@ -221,3 +221,12 @@ Sat Sep 13 11:17:26 CST 2025
 Sat Sep 13 11:18:43 CST 2025
 删除gusdk2362 
 删除taitehambelton 
+添加taitehambelton https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-94c6009b52b1f1a47381f2ac46e269988d88fb1edb9415d215c0c8c176f260cd_trns_h264/playlist.m3u8
+Sat Sep 13 11:32:43 CST 2025
+Sat Sep 13 11:32:43 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 11:34:19 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除_meganmeow_ 
+删除taitehambelton 
+删除gusdk2362 
