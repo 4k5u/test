@@ -190,3 +190,9 @@ Sat Sep 13 09:19:25 CST 2025
 Sat Sep 13 09:32:09 CST 2025
 Sat Sep 13 09:32:09 CST 2025
 Sat Sep 13 09:33:35 CST 2025
+添加taitehambelton https://edge12-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-94c6009b52b1f1a47381f2ac46e269988d88fb1edb9415d215c0c8c176f260cd_trns_h264/playlist.m3u8
+Sat Sep 13 09:47:01 CST 2025
+Sat Sep 13 09:47:01 CST 2025
+Sat Sep 13 09:48:26 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Sime_Naughty 
