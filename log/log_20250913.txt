@@ -338,3 +338,8 @@ Sat Sep 13 15:17:50 CST 2025
 Sat Sep 13 15:19:31 CST 2025
 删除taitehambelton 
 删除gusdk2362 
+Sat Sep 13 15:35:23 CST 2025
+Sat Sep 13 15:35:29 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 15:37:02 CST 2025
+删除gusdk2362 
