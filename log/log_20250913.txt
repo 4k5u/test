@@ -441,3 +441,14 @@ Sat Sep 13 18:35:23 CST 2025
 删除navi04 
 删除gusdk2362 
 删除hanny27 
+Sat Sep 13 18:47:56 CST 2025
+Sat Sep 13 18:48:04 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 18:49:37 CST 2025
+删除iminako 
+删除tyy750ii 
+删除navi04 
+删除gusdk2362 
+删除hanny27 
