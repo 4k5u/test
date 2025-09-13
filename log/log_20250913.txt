@@ -298,3 +298,8 @@ Sat Sep 13 13:48:37 CST 2025
 Sat Sep 13 13:50:09 CST 2025
 删除Sime_Naughty 
 删除gusdk2362 
+Sat Sep 13 14:02:43 CST 2025
+Sat Sep 13 14:02:43 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 14:04:11 CST 2025
+删除gusdk2362 
