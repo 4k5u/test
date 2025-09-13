@@ -382,3 +382,13 @@ Sat Sep 13 17:05:35 CST 2025
 删除sexygamesx 
 删除taitehambelton 
 删除gusdk2362 
+添加ad0res https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-147aa89d28196f05d8dc32cc852b47e444e5e2afa4c0aae46d029c71ca79163b_trns_h264/playlist.m3u8
+添加sexygamesx https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-60790229fe4c95592b29c885ad02e907eb1149e6ef17c28e61d2871e7cebd42a_trns_h264/playlist.m3u8
+Sat Sep 13 17:18:50 CST 2025
+Sat Sep 13 17:18:56 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sat Sep 13 17:20:31 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除navi04 
+删除gusdk2362 
