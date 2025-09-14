@@ -142,3 +142,8 @@ Sun Sep 14 09:04:57 CST 2025
 Sun Sep 14 09:18:47 CST 2025
 Sun Sep 14 09:18:50 CST 2025
 Sun Sep 14 09:20:19 CST 2025
+添加taitehambelton https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-ca8990d4b95b5b2662c975d5da97fc12316fc8313f70ab2df9754a000960490f_trns_h264/playlist.m3u8
+Sun Sep 14 09:34:52 CST 2025
+Sun Sep 14 09:34:54 CST 2025
+Sun Sep 14 09:36:25 CST 2025
+删除Sime_Naughty 
