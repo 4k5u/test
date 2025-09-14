@@ -64,3 +64,9 @@ Mon Sep 15 02:33:35 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
 Mon Sep 15 02:34:56 CST 2025
 删除gusdk2362 
+Mon Sep 15 02:47:00 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzRDI0NURERC1GMEFDLTRFREMtQjY3NS0zNjFBM0ZBNURBNDQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzg3NTYyMiwiZXhwIjoxNzU3ODc2MjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tI_NdHqQcEuA99xFVKt_sTyC1CyGdPee1EYVEHtZUgjQpQmR8G6V5sWQp8SU07F5AFlWNPKPGdlfxHFJW1eHRMy1gRZbiuS4CQM5mBc44Qf_YlMJUgLJ67pHios6OUgv
+Mon Sep 15 02:47:11 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Sep 15 02:48:43 CST 2025
+删除gusdk2362 
