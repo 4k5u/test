@@ -53,3 +53,9 @@ Mon Sep 15 02:03:45 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
 Mon Sep 15 02:05:11 CST 2025
 删除gusdk2362 
+Mon Sep 15 02:18:32 CST 2025
+Mon Sep 15 02:18:38 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Sep 15 02:20:05 CST 2025
+删除nobleinc 
+删除gusdk2362 
