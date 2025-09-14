@@ -93,3 +93,10 @@ Mon Sep 15 03:48:26 CST 2025
 Mon Sep 15 03:49:53 CST 2025
 删除dreamch77 
 删除gusdk2362 
+添加mode_bad https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7ec89f2227f7803e34c34f7b857979904c086d3de9eb66dbfc89b39a57bc814c_trns_h264/playlist.m3u8
+Mon Sep 15 04:03:14 CST 2025
+Mon Sep 15 04:03:22 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Mon Sep 15 04:04:46 CST 2025
+删除alicelebel 
+删除gusdk2362 
