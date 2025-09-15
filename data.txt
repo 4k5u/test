@@ -4,3 +4,4 @@ mode_bad   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-7ec89f222
 _meganmeow_   https://edge14-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bc72333a3c8bb4683da9a858b62bd8aa6f5a859eaff6a55c17a56ef1f88875ba_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ebc41f8a75e970ff2458a53638aac301a6229f132d8ea929a72da00fc4e137e6_trns_h264/playlist.m3u8
+sexygamesx   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7ead728ec60d6d5b9ef3ff7099abe88abe1720d82724af1d212012140095d8b8_trns_h264/playlist.m3u8
