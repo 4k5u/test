@@ -468,3 +468,12 @@ Mon Sep 15 21:47:45 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
 Mon Sep 15 21:49:06 CST 2025
 删除hanny27 
+添加honey_pinkgreen https://edge6-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-32854cf574f4fa9d0ae91c2aac0eda70e289d2871416b1d652afae192113257b_trns_h264/playlist.m3u8
+Mon Sep 15 22:02:30 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5ADmtH51QQJS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVBRG10SDUxUVFKUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NzY5MjI0Ni1GQkE2LTRFMjItQTRGQy05MzE2NDBGMDg2NzQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1Nzk0NDk3MywiZXhwIjoxNzU3OTQ1NTczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Dr84t0ip1pCMo6E9uxfC9K7J89AAZ0Nd9ocWVZB5MgGvH_ocfvNJOQBGUI879FHUJsEQ0nRk_9sKNDcgOEM4Xcp62tydulpKtclNEZn-al3tlHPwGy26-I5uT7BcdLIx
+Mon Sep 15 22:03:10 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Mon Sep 15 22:04:31 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除jodong2 
+删除hanny27 
