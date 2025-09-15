@@ -393,3 +393,10 @@ Mon Sep 15 19:34:02 CST 2025
 删除foxylovesyou 
 删除alswl2208 
 删除hanny27 
+Mon Sep 15 19:47:23 CST 2025
+Mon Sep 15 19:47:41 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Mon Sep 15 19:49:00 CST 2025
+删除alswl2208 
+删除hanny27 
