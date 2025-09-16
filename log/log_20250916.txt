@@ -223,3 +223,7 @@ Tue Sep 16 14:18:48 CST 2025
 Tue Sep 16 14:18:56 CST 2025
 Tue Sep 16 14:20:27 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-363345eeea1ac1bb97c51311176c01f63c2e88440c9d16c28cffa25fbd8b2371_trns_h264/playlist.m3u8
+Tue Sep 16 14:33:50 CST 2025
+Tue Sep 16 14:33:56 CST 2025
+Tue Sep 16 14:35:19 CST 2025
