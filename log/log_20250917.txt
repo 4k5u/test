@@ -417,3 +417,13 @@ Wed Sep 17 22:49:27 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
 Wed Sep 17 22:50:36 CST 2025
 删除yin2618 
+Wed Sep 17 23:03:05 CST 2025
+Wed Sep 17 23:03:38 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Wed Sep 17 23:04:52 CST 2025
+删除jodong2 
+删除glglehddl 
+删除ahri0801 
+删除gusdk2362 
+删除yin2618 
