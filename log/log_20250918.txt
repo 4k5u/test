@@ -109,3 +109,7 @@ Thu Sep 18 04:18:13 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Thu Sep 18 04:19:39 CST 2025
 删除gusdk2362 
+添加_meganmeow_ https://edge16-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-b2fd5e4a79d35aee27275823c06c077dc2e150955515eb47815ff87f673d64e4_trns_h264/playlist.m3u8
+Thu Sep 18 04:32:02 CST 2025
+Thu Sep 18 04:32:06 CST 2025
+Thu Sep 18 04:33:39 CST 2025
