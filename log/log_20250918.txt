@@ -96,3 +96,10 @@ Thu Sep 18 03:50:21 CST 2025
 删除o111na 
 删除alicelebel 
 删除gusdk2362 
+添加kiriko_chan https://edge2-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-f67057f443c20f17bbd6f570fafe615b8d1d59ce5e411e61fce850057a678a00_trns_h264/playlist.m3u8
+Thu Sep 18 04:02:45 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRDdBRTExMS1BOUQ3LTRFRjEtODhCRi0yQzRFQkUyMTIyQTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODEzOTM2OCwiZXhwIjoxNzU4MTM5OTY4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2D3Gg5-D-c4dlOXfw9m0ml8ATplnWSqxNrUazDZpztPcJEBV1jnH-QC3Y-pEL_-hWbehwmO6se0A0tfj-W7KOnaxeIISGdEXXtnh52Wr-T17q6SShMC949DYBMK9CnRG
+Thu Sep 18 04:02:51 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Sep 18 04:04:18 CST 2025
+删除gusdk2362 
