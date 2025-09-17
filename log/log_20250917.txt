@@ -399,3 +399,10 @@ Wed Sep 17 22:06:22 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除redholic377 
 删除yin2618 
+Wed Sep 17 22:17:03 CST 2025
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UF2fRqfPd4Dv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VGMmZScWZQZDREdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RDk5QTc4QS0zQ0M2LTQ3RTEtODlFMS1DQUU0RDQ2MjFFQUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODExODYyOCwiZXhwIjoxNzU4MTE5MjI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vJYTPYSM0rcrIIg0w2F6SxWWZLHb2zmc_O3lHPVkwyvMgclX5sVJwvct9lKszQWpbiZQSzep4PpA6wfJ6_--yJu24LRavxQ7VzhIZ96y3zDijiYl4hP6S7G2eWVMwYke
+Wed Sep 17 22:17:35 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Wed Sep 17 22:18:41 CST 2025
+删除alswl2208 
+删除yin2618 
