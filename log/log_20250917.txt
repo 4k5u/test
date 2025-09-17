@@ -276,3 +276,8 @@ Wed Sep 17 18:17:24 CST 2025
 Wed Sep 17 18:17:38 CST 2025
 Wed Sep 17 18:18:55 CST 2025
 删除honey_pinkgreen 
+Wed Sep 17 18:34:01 CST 2025
+Wed Sep 17 18:34:15 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Wed Sep 17 18:35:42 CST 2025
+删除hanny27 
