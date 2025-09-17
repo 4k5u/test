@@ -9,3 +9,4 @@ y1026   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_play
 taitehambelton   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0b0d942e3e37c2d4ad2d309f3febb90645e80aceeba143b93b3372fcc643bcc9_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4bcbd4d1498299e732d6e1932fb593319bc7137fa0e75bbdb61b990b741aab01_trns_h264/playlist.m3u8
 foxylovesyou   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-36645bf10d7f954f7ecac48f3721183ef390b57e7995837efa0c5c9b7dcb0204_trns_h264/playlist.m3u8
+ad0res   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-3ad3f981f6dfc3527c3ab4b2c8369ed5182f17811db0f7703b51a5926ca7e29a_trns_h264/playlist.m3u8
