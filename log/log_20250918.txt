@@ -480,3 +480,11 @@ Thu Sep 18 22:02:52 CST 2025
 Thu Sep 18 22:04:08 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除yin2618 
+Thu Sep 18 22:19:13 CST 2025
+Thu Sep 18 22:19:35 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Sep 18 22:20:43 CST 2025
+删除alswl2208 
+删除muse62 
+删除redholic377 
+删除yin2618 
