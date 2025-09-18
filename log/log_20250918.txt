@@ -306,3 +306,7 @@ Thu Sep 18 15:34:03 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除namuh0926 
 删除foxylovesyou 
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-54f320116bc581773973916e6026e27cff7e53ff25e6c47b36f9f0df33aaf1bf_trns_h264/playlist.m3u8
+Thu Sep 18 15:49:25 CST 2025
+Thu Sep 18 15:49:36 CST 2025
+Thu Sep 18 15:50:58 CST 2025
