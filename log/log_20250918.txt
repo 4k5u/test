@@ -283,3 +283,8 @@ Thu Sep 18 14:33:50 CST 2025
 Thu Sep 18 14:35:12 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除m0m099 
+添加sexygamesx https://edge7-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1f5f5abe9163243b8862eb62b49421df01c83664a0b2b38f320ba6266335a5e6_trns_h264/playlist.m3u8
+Thu Sep 18 14:48:13 CST 2025
+Thu Sep 18 14:48:19 CST 2025
+Thu Sep 18 14:49:35 CST 2025
+删除smmms2002 
