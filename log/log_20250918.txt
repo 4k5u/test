@@ -371,3 +371,9 @@ Thu Sep 18 19:04:39 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Thu Sep 18 19:06:06 CST 2025
 删除hanny27 
+Thu Sep 18 19:18:40 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Qe1jBDW0Juxq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1FlMWpCRFcwSnV4cSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MzIzQTQ5MC0xOEFFLTQyOEItQkNENC03RTNGMDQxMzc0NDMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODE5NDMzMCwiZXhwIjoxNzU4MTk0OTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Iabkp7mrTymG9FwMT4S2ahwUyZvkRDsVK1Ktskk1eeWoLSYYpG-8WkDbCHRhEb2C5HjI7wJ0U2fzrpNOlhNt7sia3DLQJK7oQ4a_zYE9qjrOMKQtJUUA8_7Nc6qkhQ2Y
+Thu Sep 18 19:18:59 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Thu Sep 18 19:20:27 CST 2025
+删除hanny27 
