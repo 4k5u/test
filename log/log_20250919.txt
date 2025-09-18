@@ -72,3 +72,7 @@ Fri Sep 19 04:17:02 CST 2025
 Fri Sep 19 04:17:10 CST 2025
 Fri Sep 19 04:18:33 CST 2025
 删除kiriko_chan 
+添加mode_bad https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-c1fa88e2ca7aa2463f31fb394d345e14523fd5290f763ac5cbd58b3b7b001fb1_trns_h264/playlist.m3u8
+Fri Sep 19 04:34:02 CST 2025
+Fri Sep 19 04:34:11 CST 2025
+Fri Sep 19 04:35:33 CST 2025
