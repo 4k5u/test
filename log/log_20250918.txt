@@ -512,3 +512,7 @@ Thu Sep 18 23:33:38 CST 2025
 Thu Sep 18 23:34:48 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除anystar00 
+Thu Sep 18 23:47:01 CST 2025
+Thu Sep 18 23:47:21 CST 2025
+Thu Sep 18 23:48:28 CST 2025
+删除kkkku96 
