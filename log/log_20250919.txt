@@ -398,3 +398,12 @@ Fri Sep 19 21:48:12 CST 2025
 Fri Sep 19 21:49:20 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除yin2618 
+Fri Sep 19 22:03:03 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CO0rg6s2RKkP.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NPMHJnNnMyUktrUCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4Qjk2MUJERS1CODkzLTQxMUYtOUZFNi0yRUQ0NTIzQ0VEMzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODI5MDU5NiwiZXhwIjoxNzU4MjkxMTk2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-HH_UYArlK4Atczbf5BhKNJyM__JE6YU8RLVy0QS1qH5Jalrzx3YYkcsi9vYZ9Xhs_EjZWocZwN7Xg29H43isM7K4dbHJihU6-VWk2rO4sYjK-HbWltWQuPeNxRacbNb
+Fri Sep 19 22:03:49 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Fri Sep 19 22:05:05 CST 2025
+删除navi04 
+删除muse62 
+删除honey_pinkgreen 
+删除yin2618 
