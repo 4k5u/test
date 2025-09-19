@@ -422,3 +422,8 @@ Fri Sep 19 22:34:15 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除ddooyaa 
 删除yin2618 
+Fri Sep 19 22:48:31 CST 2025
+Fri Sep 19 22:49:15 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri Sep 19 22:50:38 CST 2025
+删除yin2618 
