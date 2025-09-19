@@ -362,3 +362,11 @@ Fri Sep 19 20:49:27 CST 2025
 删除tyy750ii 
 删除honey_pinkgreen 
 删除yin2618 
+添加honey_pinkgreen https://edge16-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2b6cec36d8b09127e69ac2713301c910b93a46596ff0874f10f37fcaca8e3614_trns_h264/playlist.m3u8
+Fri Sep 19 21:02:29 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5ADmtH51QQJS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVBRG10SDUxUVFKUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGQjJFMzU5Mi1FMTNBLTRBMTEtQUZFQS1GNzYwMzc0RTUzMEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODI4Njk3MywiZXhwIjoxNzU4Mjg3NTczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.9E1xPLF6G8I9vOe8pc2gx9f2p7OqAtS7L5lcMA2kH67rFu476odWBYDcPzcivBWNeg7MtZhktlyLqhik8kYPbyZal5QP6yNP4I2iiG_NnbTGs_a4H8OgZSLrhfTPhG-5
+Fri Sep 19 21:03:06 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Fri Sep 19 21:04:21 CST 2025
+删除honey_pinkgreen 
+删除yin2618 
