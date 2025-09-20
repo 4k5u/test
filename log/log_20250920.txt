@@ -268,3 +268,8 @@ Sat Sep 20 15:32:09 CST 2025
 Sat Sep 20 15:33:42 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+Sat Sep 20 15:47:14 CST 2025
+Sat Sep 20 15:47:20 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 15:48:43 CST 2025
+删除yin2618 
