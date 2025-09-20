@@ -256,3 +256,9 @@ Sat Sep 20 15:03:38 CST 2025
 Sat Sep 20 15:05:02 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+添加my_eyes_higher https://edge14-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e3a2e47ccdc5b596b492dc894746b4658c3b68efc7603af08093a75c790dc3aa_trns_h264/playlist.m3u8
+Sat Sep 20 15:18:57 CST 2025
+Sat Sep 20 15:19:03 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 15:20:34 CST 2025
+删除yin2618 
