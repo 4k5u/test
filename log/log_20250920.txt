@@ -243,3 +243,7 @@ Sat Sep 20 14:22:15 CST 2025
 删除Sime_Naughty 
 删除eunyoung1238 
 删除alicelebel 
+Sat Sep 20 14:32:45 CST 2025
+Sat Sep 20 14:32:51 CST 2025
+Sat Sep 20 14:34:20 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
