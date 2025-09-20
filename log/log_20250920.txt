@@ -440,3 +440,9 @@ Sat Sep 20 22:18:46 CST 2025
 Sat Sep 20 22:20:01 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除rud9281 
+Sat Sep 20 22:33:53 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5ADmtH51QQJS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVBRG10SDUxUVFKUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQkRGREE5RS0yRjA4LTRCMUUtQkU5MS03MzQwRjIyQkE2NkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODM3ODg1NCwiZXhwIjoxNzU4Mzc5NDU0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5Bjra-fVLwpi9Jrkvj0IKeNFOJBecC0RKWt8fV8RabT3k9qSv5bORZJkGiIJ2f6oc2_eyEsIJErWcH_AG0yvCCVdiIF2HnPAUUbs36OfW8OYFSKxaLOv_9PvmF_8tOH0
+Sat Sep 20 22:34:22 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 22:35:29 CST 2025
+删除rud9281 
