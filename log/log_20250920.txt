@@ -446,3 +446,8 @@ Sat Sep 20 22:34:22 CST 2025
 添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Sat Sep 20 22:35:29 CST 2025
 删除rud9281 
+Sat Sep 20 22:48:34 CST 2025
+Sat Sep 20 22:49:02 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 22:50:18 CST 2025
+删除rud9281 
