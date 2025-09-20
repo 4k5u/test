@@ -434,3 +434,9 @@ Sat Sep 20 22:03:25 CST 2025
 Sat Sep 20 22:04:40 CST 2025
 删除yourare 
 删除rud9281 
+Sat Sep 20 22:18:19 CST 2025
+Sat Sep 20 22:18:46 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Sep 20 22:20:01 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除rud9281 
