@@ -314,3 +314,9 @@ Sun Sep 21 18:02:13 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Sun Sep 21 18:03:40 CST 2025
 删除alswl2208 
+Sun Sep 21 18:18:11 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzhCNTRGRS0yRURELTQyQTgtQTNFQy02RkNFNjQyREQzMjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODQ0OTg5MywiZXhwIjoxNzU4NDUwNDkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.sR3wwTdtRmyzBfTrg_qJu4ATjZIX8bP_ygzdrbGZkJYfUVxoknW1WxznJV-ScltF0xS4en3y0xd8E77Ag34FAYOSc-ZTBeESB5o9jxOFaEW7ng4OOjzxmkABCq2jbxn7
+Sun Sep 21 18:18:24 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Sep 21 18:19:51 CST 2025
+删除alswl2208 
