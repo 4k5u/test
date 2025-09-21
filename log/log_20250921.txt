@@ -422,3 +422,9 @@ Sun Sep 21 21:48:45 CST 2025
 添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Sun Sep 21 21:50:09 CST 2025
 删除gremmy 
+Sun Sep 21 22:03:31 CST 2025
+Sun Sep 21 22:03:55 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Sep 21 22:05:10 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除gremmy 
