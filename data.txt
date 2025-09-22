@@ -1,1 +1,2 @@
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+mazzanti_   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-616fcda74c7e3640b5673a9d881578e10015f019438df9d8ac6cb3e17ed3ba34_trns_h264/playlist.m3u8
