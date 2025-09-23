@@ -76,3 +76,9 @@ Wed Sep 24 04:03:25 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 Wed Sep 24 04:04:59 CST 2025
 删除gusdk2362 
+Wed Sep 24 04:19:00 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3ODY4NEY0OC03RDQzLTQ3NUUtQjlDQy1DMjM0REFCMUJEOEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODY1ODc0NiwiZXhwIjoxNzU4NjU5MzQ2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TE7No1LciijZIvco3KRW5z3j86SZ_GPz1SnAVbiw_Xs7xKDL-JuFCcZ8F31RXfvvwkKrCfbZAOqOhbS9mStlnE-8MwBP2Nxez97a-7Z4Rj2KcKW-e9kF84M8BsR2_Xy_
+Wed Sep 24 04:19:11 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Wed Sep 24 04:20:46 CST 2025
+删除gusdk2362 
