@@ -264,3 +264,11 @@ Tue Sep 23 17:38:54 CST 2025
 Tue Sep 23 17:40:31 CST 2025
 删除navi04 
 删除alswl2208 
+Tue Sep 23 17:55:21 CST 2025
+Tue Sep 23 17:55:29 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Tue Sep 23 17:56:57 CST 2025
+删除naras2 
+删除navi04 
+删除alswl2208 
