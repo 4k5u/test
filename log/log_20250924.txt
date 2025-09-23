@@ -50,3 +50,8 @@ Wed Sep 24 02:49:01 CST 2025
 Wed Sep 24 02:50:27 CST 2025
 删除in0410 
 删除imsocutesexy 
+Wed Sep 24 03:02:12 CST 2025
+Wed Sep 24 03:02:18 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Wed Sep 24 03:03:42 CST 2025
+删除gusdk2362 
