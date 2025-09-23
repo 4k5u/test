@@ -211,3 +211,7 @@ Tue Sep 23 14:17:10 CST 2025
 Tue Sep 23 14:17:27 CST 2025
 Tue Sep 23 14:18:57 CST 2025
 删除Sime_Naughty 
+Tue Sep 23 14:33:47 CST 2025
+Tue Sep 23 14:34:00 CST 2025
+Tue Sep 23 14:35:29 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
