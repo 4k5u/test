@@ -162,3 +162,8 @@ Thu Sep 25 06:49:00 CST 2025
 Thu Sep 25 06:50:29 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Thu Sep 25 07:03:07 CST 2025
+Thu Sep 25 07:03:09 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 07:04:51 CST 2025
+删除gusdk2362 
