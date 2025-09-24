@@ -164,3 +164,8 @@ Wed Sep 24 08:02:07 CST 2025
 Wed Sep 24 08:03:44 CST 2025
 删除IdaJonesy 
 删除gusdk2362 
+Wed Sep 24 08:18:09 CST 2025
+Wed Sep 24 08:18:11 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Wed Sep 24 08:19:53 CST 2025
+删除gusdk2362 
