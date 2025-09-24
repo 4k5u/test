@@ -223,3 +223,7 @@ Wed Sep 24 11:48:35 CST 2025
 Wed Sep 24 11:48:43 CST 2025
 Wed Sep 24 11:50:11 CST 2025
 删除IdaJonesy 
+Wed Sep 24 12:02:26 CST 2025
+Wed Sep 24 12:02:33 CST 2025
+Wed Sep 24 12:04:03 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
