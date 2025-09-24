@@ -272,3 +272,8 @@ Wed Sep 24 14:48:18 CST 2025
 Wed Sep 24 14:48:26 CST 2025
 Wed Sep 24 14:49:43 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+Wed Sep 24 15:02:58 CST 2025
+Wed Sep 24 15:03:04 CST 2025
+Wed Sep 24 15:04:36 CST 2025
+删除ee5844 
+删除alicelebel 
