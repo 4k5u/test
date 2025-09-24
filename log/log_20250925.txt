@@ -96,3 +96,10 @@ Thu Sep 25 03:47:10 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Thu Sep 25 03:48:41 CST 2025
 删除gusdk2362 
+Thu Sep 25 04:03:32 CST 2025
+Thu Sep 25 04:03:34 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 04:05:13 CST 2025
+删除flowerwar 
+删除alicelebel 
+删除gusdk2362 
