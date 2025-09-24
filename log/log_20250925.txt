@@ -79,3 +79,9 @@ Thu Sep 25 03:02:06 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Thu Sep 25 03:03:38 CST 2025
 删除gusdk2362 
+Thu Sep 25 03:17:01 CST 2025
+Thu Sep 25 03:17:04 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 03:18:37 CST 2025
+删除iminako 
+删除gusdk2362 
