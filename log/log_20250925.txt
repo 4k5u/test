@@ -74,3 +74,8 @@ Thu Sep 25 02:48:12 CST 2025
 Thu Sep 25 02:49:45 CST 2025
 删除yeonnacho 
 删除gusdk2362 
+Thu Sep 25 03:02:04 CST 2025
+Thu Sep 25 03:02:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 03:03:38 CST 2025
+删除gusdk2362 
