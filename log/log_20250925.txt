@@ -358,3 +358,8 @@ Thu Sep 25 18:24:36 CST 2025
 添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.R23WfZ6pah-IZ3FxgwujcEBl-aefkcoMvNknfC6wK4oT1CoDwnFearr__zu4jcBVjZtnSWSg1QHef6ESFDb1xHvuCi1cU1BWIaKIQdxROU04-_F5tDMpMm22CaPAafaHUrmU3PYI6a2vIHtdXWyD2lSp9hCT9LmDeAkrAI9gyssAIR7RI05Y2cLy8VuWAT49
 Thu Sep 25 18:26:15 CST 2025
 删除honey_pinkgreen 
+Thu Sep 25 18:32:18 CST 2025
+Thu Sep 25 18:32:28 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 18:33:51 CST 2025
+删除hanny27 
