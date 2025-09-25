@@ -425,3 +425,8 @@ Thu Sep 25 20:33:20 CST 2025
 Thu Sep 25 20:34:28 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除hanny27 
+Thu Sep 25 20:48:45 CST 2025
+Thu Sep 25 20:49:09 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Thu Sep 25 20:50:11 CST 2025
+删除hanny27 
