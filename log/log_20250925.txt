@@ -326,3 +326,9 @@ Thu Sep 25 16:49:04 CST 2025
 Thu Sep 25 16:50:30 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除taitehambelton 
+添加taitehambelton https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-15fcf3024aa797bdb4b30b26e5f5d9e5e61f07559776ee47481ddf9683031932_trns_h264/playlist.m3u8
+Thu Sep 25 17:02:21 CST 2025
+Thu Sep 25 17:02:29 CST 2025
+Thu Sep 25 17:03:57 CST 2025
+删除naras2 
+删除homegirl 
