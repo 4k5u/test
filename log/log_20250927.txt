@@ -61,3 +61,8 @@ Sat Sep 27 02:35:00 CST 2025
 删除nobleinc 
 删除eli05021212 
 删除gusdk2362 
+Sat Sep 27 02:48:11 CST 2025
+Sat Sep 27 02:48:21 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Sat Sep 27 02:49:53 CST 2025
+删除gusdk2362 
