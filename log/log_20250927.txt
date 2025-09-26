@@ -107,3 +107,8 @@ Sat Sep 27 04:32:58 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Sat Sep 27 04:34:32 CST 2025
 删除gusdk2362 
+Sat Sep 27 04:48:06 CST 2025
+Sat Sep 27 04:48:08 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sat Sep 27 04:49:40 CST 2025
+删除gusdk2362 
