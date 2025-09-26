@@ -341,3 +341,10 @@ Fri Sep 26 19:33:37 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除ad0res 
 删除hanny27 
+添加ad0res https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-6f63ec74d59a76265c6758e94102aaa04c94e78ec0dc23363529f0568dcd4ec8_trns_h264/playlist.m3u8
+Fri Sep 26 19:49:10 CST 2025
+Fri Sep 26 19:49:24 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Sep 26 19:50:31 CST 2025
+删除ad0res 
+删除hanny27 
