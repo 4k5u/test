@@ -292,3 +292,8 @@ Fri Sep 26 17:35:42 CST 2025
 删除tyy750ii 
 删除y1026 
 删除ad0res 
+添加ad0res https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-6f63ec74d59a76265c6758e94102aaa04c94e78ec0dc23363529f0568dcd4ec8_trns_h264/playlist.m3u8
+Fri Sep 26 17:48:16 CST 2025
+Fri Sep 26 17:48:24 CST 2025
+Fri Sep 26 17:49:35 CST 2025
+删除ad0res 
