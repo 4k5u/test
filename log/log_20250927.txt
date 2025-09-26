@@ -41,3 +41,10 @@ Sat Sep 27 01:47:13 CST 2025
 Sat Sep 27 01:48:42 CST 2025
 删除dign1461 
 删除gusdk2362 
+Sat Sep 27 02:03:07 CST 2025
+Sat Sep 27 02:03:23 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sat Sep 27 02:04:57 CST 2025
+删除saone451 
+删除o111na 
+删除gusdk2362 
