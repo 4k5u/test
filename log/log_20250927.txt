@@ -339,3 +339,9 @@ Sat Sep 27 17:49:33 CST 2025
 Sat Sep 27 18:03:28 CST 2025
 Sat Sep 27 18:03:34 CST 2025
 Sat Sep 27 18:04:55 CST 2025
+Sat Sep 27 18:17:12 CST 2025
+Sat Sep 27 18:17:18 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Sep 27 18:18:41 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除hanny27 
