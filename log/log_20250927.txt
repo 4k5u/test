@@ -416,3 +416,9 @@ Sat Sep 27 20:48:51 CST 2025
 添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.G2y-iS2ci8QrTKIQ8RjkkNigk-UP30tcqhUULjaWqhKzVDyCT2edGuMA66BtZ6aCyYv-xD_Gw7Y-sB_c0KQOEXym429bLpUmIqJJWVwPlbFYSp1UUPGw50bchCb1Tmz2IeVccvyS0nv4ljh56QdZZtWyOLzCVEzC3KRloen966S1OzucdPNTVeSph0DnjumS
 Sat Sep 27 20:50:12 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ffc8b7345b0c88fe98bd7806d250ef57c37428bf136e82d44c463e4d98dfce76_trns_h264/playlist.m3u8
+Sat Sep 27 21:02:10 CST 2025
+Sat Sep 27 21:02:25 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Qx83dfA8XtkazITv020iDKiYaCgoNtLTq0xpyXGLIdCBWGlfgJvdx14uyXitDJLwMuF6bLBovAxXkMkfT0701pr-5o8mDPhZvgmgeUwAJJ9CRQ8xHKvrd36c-dK_zbiVzGlK6PMdpKjCnnX12DZLS2ThdZ9HEQVoERDU-qGMDUi8yvx_cNXDRfUfzl9QcpiC
+Sat Sep 27 21:03:44 CST 2025
+删除my_eyes_higher 
