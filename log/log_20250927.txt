@@ -439,3 +439,8 @@ Sat Sep 27 22:03:05 CST 2025
 添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5ADmtH51QQJS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVBRG10SDUxUVFKUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NzY3NjVEQy1ENTg3LTRCMUItQTNCMi00QkNGN0U2QkM2RDgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1ODk4MTc5NSwiZXhwIjoxNzU4OTgyMzk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.n7HAQHs0dk39lk928nsYvOWYBIGfpazyde9gzRH1s0JogM4MhqGNxak_3lhmuJj-2mRNBDbNTk_IC28z3U9MfzzC0hjHlCmrb68nZ7dYN0jOS1gKtwQ5u_nh0XDvXiT2
 Sat Sep 27 22:03:27 CST 2025
 Sat Sep 27 22:04:42 CST 2025
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-96d9f2ea663a333b0288145ec587bb77abdeb5f8535fcf2fab124535d5950c62_trns_h264/playlist.m3u8
+Sat Sep 27 22:17:09 CST 2025
+Sat Sep 27 22:17:28 CST 2025
+Sat Sep 27 22:18:38 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
