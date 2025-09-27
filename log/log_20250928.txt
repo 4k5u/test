@@ -131,3 +131,6 @@ Sun Sep 28 07:32:05 CST 2025
 Sun Sep 28 07:33:32 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除gusdk2362 
+Sun Sep 28 07:49:01 CST 2025
+Sun Sep 28 07:49:03 CST 2025
+Sun Sep 28 07:50:27 CST 2025
