@@ -459,3 +459,7 @@ Sat Sep 27 23:03:41 CST 2025
 Sat Sep 27 23:04:51 CST 2025
 删除ohhanna 
 删除flower1023 
+Sat Sep 27 23:19:07 CST 2025
+Sat Sep 27 23:19:21 CST 2025
+Sat Sep 27 23:20:33 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
