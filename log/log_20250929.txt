@@ -23,3 +23,10 @@ Mon Sep 29 00:47:04 CST 2025
 Mon Sep 29 00:47:18 CST 2025
 Mon Sep 29 00:48:38 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge12-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-59ca82c4b3fd3819c9f8591a210c6d2883cdfc2bd1f1814f38ed7d25d49f6cf2_trns_h264/playlist.m3u8
+Mon Sep 29 01:03:28 CST 2025
+Mon Sep 29 01:03:42 CST 2025
+Mon Sep 29 01:05:04 CST 2025
+删除flowerwar 
+删除glglehddl 
+删除my_eyes_higher 
