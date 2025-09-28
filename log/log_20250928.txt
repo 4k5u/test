@@ -303,3 +303,12 @@ Sun Sep 28 18:17:12 CST 2025
 Sun Sep 28 18:18:47 CST 2025
 删除hanny27 
 删除yin2618 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1f94aee71df1f8e8a81cb205e7771a9e52ea3ebe4f6625949ec1995b5f33f9db_trns_h264/playlist.m3u8
+Sun Sep 28 18:33:58 CST 2025
+Sun Sep 28 18:34:07 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Sep 28 18:35:34 CST 2025
+删除eli05021212 
+删除hanny27 
+删除yin2618 
