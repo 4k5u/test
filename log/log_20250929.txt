@@ -89,3 +89,12 @@ Mon Sep 29 03:33:34 CST 2025
 Mon Sep 29 03:35:06 CST 2025
 删除my_eyes_higher 
 删除gusdk2362 
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-59ca82c4b3fd3819c9f8591a210c6d2883cdfc2bd1f1814f38ed7d25d49f6cf2_trns_h264/playlist.m3u8
+Mon Sep 29 03:48:12 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.5ADmtH51QQJS.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzVBRG10SDUxUVFKUyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzODY0MzkzNS1GQUZDLTRCQkQtOEEyMy0yQTAwQzRDQUZDQkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTA4ODkwMCwiZXhwIjoxNzU5MDg5NTAwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.N2Ee6yTGpoLRHFprCHqXqPzZze7MT-d1AEDUh3ptl0sd1boopBV5_NQsR6GFg_0QXTKkqdPkW-w63WI38CPSKJe-K7J4ZjOPVHFlMJ0FWgtJj9hGrVdbAZr8o_TQhFb8
+Mon Sep 29 03:48:23 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Mon Sep 29 03:49:58 CST 2025
+删除3ww1ww3 
+删除my_eyes_higher 
+删除gusdk2362 
