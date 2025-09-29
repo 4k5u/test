@@ -371,3 +371,8 @@ Mon Sep 29 20:18:25 CST 2025
 Mon Sep 29 20:19:04 CST 2025
 Mon Sep 29 20:20:32 CST 2025
 删除4ocari 
+添加amilia4u https://edge16-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-9fd306a5cc68f986c39c575b9fa4c92cb15a8c6788c6d2fcba306f8f186f50c5_trns_h264/playlist.m3u8
+Mon Sep 29 20:32:40 CST 2025
+Mon Sep 29 20:33:11 CST 2025
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.yDZU7U-i6mpQ5_KNiB8-3tlq3TaF7xeUHi0JDDODT3UfDzGkhcLVDUQApZ518LBNAvF22Hi-cco981qtMpQQZbDJ3DKvP4jmXZYXSOR5s1UQxwmJYWEIds0KXgrEIrza5Vqu_cjhHWxyerR6tMN5EF7OKhRjU_d655RqaXXmcTWviCfeYmzYfJt53h4ZCJLf
+Mon Sep 29 20:34:31 CST 2025
