@@ -299,3 +299,7 @@ Tue Sep 30 19:03:23 CST 2025
 Tue Sep 30 19:03:33 CST 2025
 Tue Sep 30 19:04:47 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+Tue Sep 30 19:18:46 CST 2025
+添加lovemeimscared https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.1AYNP2qd5ZF7.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzFBWU5QMnFkNVpGNyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMkRDMDM3RS0xRTM1LTRDQzEtQkJGOS05RjUwNkVCOEVFRjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTIzMTEzMywiZXhwIjoxNzU5MjMxNzMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.DNwiqC_CN5Ilt1I6pGtNNSk7OnrMGHGFpZlJbDArhR05lmwhZ6QLGq-rPdmcN2hM37Kb3_7f2EQGVe7X50GbmKOzrJLoA8bYzKMGUo1K7dE7DKBr1COKg2oOIpsv4UpT
+Tue Sep 30 19:18:58 CST 2025
+Tue Sep 30 19:20:17 CST 2025
