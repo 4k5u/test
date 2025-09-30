@@ -132,3 +132,7 @@ Tue Sep 30 08:19:07 CST 2025
 Tue Sep 30 08:19:09 CST 2025
 Tue Sep 30 08:20:31 CST 2025
 删除mode_bad 
+Tue Sep 30 08:32:07 CST 2025
+Tue Sep 30 08:32:09 CST 2025
+Tue Sep 30 08:33:32 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
