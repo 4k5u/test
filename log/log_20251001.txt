@@ -333,3 +333,12 @@ Wed Oct 1 18:35:00 CST 2025
 删除my_eyes_higher 
 删除hanny27 
 删除yin2618 
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-4489c9789bff97eb44a9dd1599d13fdfca13e9947b0204454764e373e6542759_trns_h264/playlist.m3u8
+Wed Oct 1 18:47:21 CST 2025
+Wed Oct 1 18:47:31 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Wed Oct 1 18:48:59 CST 2025
+删除foxylovesyou 
+删除hanny27 
+删除yin2618 
