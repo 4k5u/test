@@ -486,3 +486,10 @@ Wed Oct 1 23:17:59 CST 2025
 Wed Oct 1 23:18:26 CST 2025
 Wed Oct 1 23:19:29 CST 2025
 删除jodong2 
+Wed Oct 1 23:31:59 CST 2025
+添加ksb0219 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vkeFn91sYVXx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZrZUZuOTFzWVZYeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBNDNFRURGNS05RTAwLTQxMTYtODYyNC01MUY1QkE3MTcwNDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTMzMjczNywiZXhwIjoxNzU5MzMzMzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ndCIOMyczKiTrKusBej5w_4anfoFcDUF4HJadKIVYS_bJeD8rYsP5_Tc-d2QsQpBEu1ZzjZJq_VbMCpFI0gOt34ukIAb_hmxo-J1FHKUGCTeJ1EwJmgB6XY8bYDhNAQT
+Wed Oct 1 23:32:28 CST 2025
+Wed Oct 1 23:33:34 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除yourare 
+删除thgml1212 
