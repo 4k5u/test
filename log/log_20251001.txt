@@ -215,3 +215,6 @@ Wed Oct 1 14:47:15 CST 2025
 Wed Oct 1 14:48:42 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除hyuna0721 
+Wed Oct 1 15:01:56 CST 2025
+Wed Oct 1 15:02:04 CST 2025
+Wed Oct 1 15:03:37 CST 2025
