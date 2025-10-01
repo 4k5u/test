@@ -428,3 +428,12 @@ Wed Oct 1 20:50:25 CST 2025
 删除my_eyes_higher 
 删除hanny27 
 删除yin2618 
+Wed Oct 1 21:02:08 CST 2025
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RjBBMzRCMy1GMDQ1LTQwODMtOUI3OS1GQTU5Q0VGMEMxNkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTMyMzczNiwiZXhwIjoxNzU5MzI0MzM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.d4y_2xlGiR1i4bY4AHs7gAlNpRFVM8EThjLGKrqEXRAXAfdS_zzBjJ6S1nmBhpYpsUA2pFyCqMNy1MlgeTSpo39ht2mIr9Rm-FyktqDbeeHVO40f4FNQVAhWykoNWlX2
+Wed Oct 1 21:02:35 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Wed Oct 1 21:03:39 CST 2025
+删除navi04 
+删除hanny27 
+删除yin2618 
