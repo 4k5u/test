@@ -470,3 +470,16 @@ Thu Oct 2 22:04:13 CST 2025
 删除rud9281 
 删除eunyoung1238 
 删除yin2618 
+添加honey_pinkgreen https://edge3-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2f1ba0c607f578e81aebfc24bec987d42976c5452a3f34c0638d9dbde5737810_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-58dc596c27fd22a9300cc2e72a69df11931bc425e6fef20db06080761870eda7_trns_h264/playlist.m3u8
+Thu Oct 2 22:17:02 CST 2025
+Thu Oct 2 22:17:26 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Thu Oct 2 22:18:42 CST 2025
+删除alswl2208 
+删除honey_pinkgreen 
+删除rud9281 
+删除eunyoung1238 
+删除yin2618 
