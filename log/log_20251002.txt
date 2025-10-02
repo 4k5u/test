@@ -375,3 +375,10 @@ Thu Oct 2 19:47:25 CST 2025
 Thu Oct 2 19:48:32 CST 2025
 删除dkdlfjqm758 
 删除foxylovesyou 
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 20:03:46 CST 2025
+Thu Oct 2 20:03:54 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Thu Oct 2 20:05:05 CST 2025
+删除foxylovesyou 
+删除yin2618 
