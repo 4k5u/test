@@ -214,3 +214,10 @@ Thu Oct 2 13:47:00 CST 2025
 Thu Oct 2 13:47:06 CST 2025
 Thu Oct 2 13:48:34 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a1d1e4f5245ef329e6ef82eecde513fa84ed782cf379fbdd952a7a82c079c273_trns_h264/playlist.m3u8
+Thu Oct 2 14:02:02 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDRjQ5NTdCNi0xQkNELTRGOTQtQUI5NC03MzM4RTBGMkI0QTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTM4NDkyNCwiZXhwIjoxNzU5Mzg1NTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.aasfWRrwedgleIMAby3zXaRk6bTHiJAJX93HH3MatNtGI5xVpauBRB1MS0xDFDLJBns-usnzkecwf-y6TDD7Za1h9RNbG9zGvgIL0ZkOeOT7VYh2_L1Y9zEgMpHsn1Io
+Thu Oct 2 14:02:10 CST 2025
+Thu Oct 2 14:03:42 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty 
