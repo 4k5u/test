@@ -258,3 +258,9 @@ Thu Oct 2 16:03:46 CST 2025
 Thu Oct 2 16:05:18 CST 2025
 删除alicelebel 
 删除amilia4u 
+添加foxylovesyou https://edge7-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 16:17:03 CST 2025
+Thu Oct 2 16:17:09 CST 2025
+Thu Oct 2 16:18:39 CST 2025
+删除SanySenise 
+删除foxylovesyou 
