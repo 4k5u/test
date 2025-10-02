@@ -284,3 +284,13 @@ Thu Oct 2 17:03:00 CST 2025
 Thu Oct 2 17:04:28 CST 2025
 删除SanySenise 
 删除foxylovesyou 
+添加ad0res https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-53704b19c6fbf085070d3139e848cc62c55a4a97ecdae9ecb90c8fc05205f78a_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge12-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 17:18:00 CST 2025
+Thu Oct 2 17:18:06 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fOnTV3HXJGI7P3sfZga8YksdsOgt80oZUuTAGK2Z78urAOKvj_d1z8Yv1l0V5pSGOurO2mY_0maTApHh4gF67wwUD5GAKFlb-2heLA2MketYDCOZjxUFf-NOZPGqhvjpuL8uYchTjRo-6wg6zQEpXkDBwkB-IO3FBz0uW7Ne87gf4A1rxzoFzq65lmUX-L_C
+Thu Oct 2 17:19:41 CST 2025
+删除taitehambelton 
+删除amilia4u 
+删除ad0res 
+删除foxylovesyou 
