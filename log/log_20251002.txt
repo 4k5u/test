@@ -273,3 +273,8 @@ Thu Oct 2 16:34:28 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除ddooyaa 
 删除foxylovesyou 
+添加foxylovesyou https://edge6-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 16:48:20 CST 2025
+Thu Oct 2 16:48:26 CST 2025
+Thu Oct 2 16:49:53 CST 2025
+删除foxylovesyou 
