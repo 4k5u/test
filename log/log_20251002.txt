@@ -309,3 +309,11 @@ Thu Oct 2 17:47:05 CST 2025
 Thu Oct 2 17:47:13 CST 2025
 Thu Oct 2 17:48:33 CST 2025
 删除foxylovesyou 
+添加amilia4u https://edge18-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-673f9ca75decff50a50854181c2d35d2c8e4d6b21082282acf61a47b439f6eb0_trns_h264/playlist.m3u8
+添加ad0res https://edge8-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-53704b19c6fbf085070d3139e848cc62c55a4a97ecdae9ecb90c8fc05205f78a_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 18:03:21 CST 2025
+Thu Oct 2 18:03:27 CST 2025
+Thu Oct 2 18:04:51 CST 2025
+删除ad0res 
+删除foxylovesyou 
