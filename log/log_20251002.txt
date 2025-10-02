@@ -278,3 +278,9 @@ Thu Oct 2 16:48:20 CST 2025
 Thu Oct 2 16:48:26 CST 2025
 Thu Oct 2 16:49:53 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge2-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-b23ecab7e80fcf33f68abb62c1838f0a0061c32ed81c498f2e2e829246b674e0_trns_h264/playlist.m3u8
+Thu Oct 2 17:02:54 CST 2025
+Thu Oct 2 17:03:00 CST 2025
+Thu Oct 2 17:04:28 CST 2025
+删除SanySenise 
+删除foxylovesyou 
