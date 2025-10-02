@@ -179,3 +179,7 @@ Thu Oct 2 11:19:53 CST 2025
 Thu Oct 2 11:33:39 CST 2025
 Thu Oct 2 11:33:45 CST 2025
 Thu Oct 2 11:35:25 CST 2025
+Thu Oct 2 11:48:50 CST 2025
+Thu Oct 2 11:48:56 CST 2025
+Thu Oct 2 11:50:16 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
