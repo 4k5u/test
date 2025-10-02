@@ -252,3 +252,9 @@ Thu Oct 2 15:47:01 CST 2025
 Thu Oct 2 15:47:07 CST 2025
 Thu Oct 2 15:48:38 CST 2025
 删除Tmdgus5411 
+添加amilia4u https://edge2-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-d9b1279a1283e11632eaa4473b9e9b720ee6451640a23f2941557ece4878d5a3_trns_h264/playlist.m3u8
+Thu Oct 2 16:03:40 CST 2025
+Thu Oct 2 16:03:46 CST 2025
+Thu Oct 2 16:05:18 CST 2025
+删除alicelebel 
+删除amilia4u 
