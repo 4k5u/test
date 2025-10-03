@@ -307,3 +307,7 @@ Fri Oct 3 12:35:15 CST 2025
 Fri Oct 3 12:48:15 CST 2025
 Fri Oct 3 12:48:15 CST 2025
 Fri Oct 3 12:49:43 CST 2025
+Fri Oct 3 13:03:40 CST 2025
+Fri Oct 3 13:03:40 CST 2025
+Fri Oct 3 13:05:08 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
