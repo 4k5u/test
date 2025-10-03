@@ -388,3 +388,8 @@ Fri Oct 3 17:33:19 CST 2025
 Fri Oct 3 17:34:36 CST 2025
 删除taitehambelton 
 删除amilia4u 
+添加ad0res https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-8f0a0589c75a6140c550239d26a04b2ab7f4ed444b4a38221557ceda86bd2e76_trns_h264/playlist.m3u8
+Fri Oct 3 17:48:12 CST 2025
+Fri Oct 3 17:48:18 CST 2025
+Fri Oct 3 17:49:29 CST 2025
+删除dreamch77 
