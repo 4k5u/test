@@ -435,3 +435,12 @@ Fri Oct 3 19:17:27 CST 2025
 Fri Oct 3 19:18:48 CST 2025
 删除ad0res 
 删除alswl2208 
+Fri Oct 3 19:33:40 CST 2025
+Fri Oct 3 19:33:59 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Fri Oct 3 19:35:20 CST 2025
+删除foxylovesyou 
+删除Sime_Naughty 
+删除alswl2208 
+删除gremmy 
