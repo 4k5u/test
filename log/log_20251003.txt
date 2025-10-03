@@ -444,3 +444,12 @@ Fri Oct 3 19:35:20 CST 2025
 删除Sime_Naughty 
 删除alswl2208 
 删除gremmy 
+Fri Oct 3 19:47:09 CST 2025
+Fri Oct 3 19:47:27 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Fri Oct 3 19:48:43 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除dkdlfjqm758 
+删除alswl2208 
+删除gremmy 
