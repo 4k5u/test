@@ -376,3 +376,9 @@ Fri Oct 3 17:03:39 CST 2025
 Fri Oct 3 17:03:45 CST 2025
 Fri Oct 3 17:05:09 CST 2025
 删除homegirl 
+Fri Oct 3 17:18:48 CST 2025
+Fri Oct 3 17:18:54 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1._xTKCMmsdHn6LOdHMsFNR5qtBzSbB-jHyDSlGu0VMk6QFo-A0NExLCxbJeYCTcQHlTROcGVlqZI6upY6C-bcHga0chpRI0JJeXyUk30gFy-zeUTeipkSnuwJT-FlM_4jLDrqnqEtG6skkTHYnC6cTqS1RtAlMC0oVP_YqP7NEtzUIs3nTZc3m03XHdqmGxNq
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GVdeEjAvGYOzdllyIttMR3LK7Uyf3dEeXG5DKCSlKVi2r7EpfluIFyFmZzs-yY-fpmSrmlYdhgLr7G_0PM8XApuNKPLMPc7oJ8oUhbMd6HQP8ieb55XT2D2_2HvePSJ3KlG4ps7emil1Y_kV1-Q5sT-SuYIqypZFlKL3UudpUen3Ygbc_0CmyKq6YF5i4MbO
+Fri Oct 3 17:20:25 CST 2025
+删除SanySenise 
