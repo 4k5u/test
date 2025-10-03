@@ -533,3 +533,15 @@ Fri Oct 3 21:20:20 CST 2025
 删除gremmy 
 删除eunyoung1238 
 删除yin2618 
+Fri Oct 3 21:33:26 CST 2025
+Fri Oct 3 21:33:54 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Fri Oct 3 21:35:11 CST 2025
+删除navi04 
+删除alswl2208 
+删除gremmy 
+删除eunyoung1238 
+删除yin2618 
