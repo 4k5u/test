@@ -369,3 +369,6 @@ Fri Oct 3 16:33:15 CST 2025
 Fri Oct 3 16:34:31 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除my_eyes_higher 
+Fri Oct 3 16:48:01 CST 2025
+Fri Oct 3 16:48:09 CST 2025
+Fri Oct 3 16:49:34 CST 2025
