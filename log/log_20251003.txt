@@ -595,3 +595,16 @@ Fri Oct 3 22:33:50 CST 2025
 删除gremmy 
 删除eunyoung1238 
 删除yin2618 
+Fri Oct 3 22:47:12 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MEI2MTI5Qy04QjQ2LTQ0NTctOEExMC0zN0NGNUVBNzlCRkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTUwMjg0MiwiZXhwIjoxNzU5NTAzNDQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.5e-bVSTJ187q8PLxSH-k7OsSTpXoNXr-JmzWF77ysuCRWWjrPVca5qIt1E3ferSmMIhe_NjN-F_84rHVsazgHBTJ6bjuWmUBDR8W2kMRjbNzSnw_dHRlTys-utzkRgtd
+Fri Oct 3 22:47:50 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Fri Oct 3 22:49:02 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除imsocutesexy 
+删除mikio_san 
+删除gremmy 
+删除eunyoung1238 
+删除yin2618 
