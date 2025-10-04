@@ -338,3 +338,10 @@ Sat Oct 4 16:11:55 CST 2025
 Sat Oct 4 16:13:29 CST 2025
 删除alicelebel 
 删除yin2618 
+添加ad0res https://edge6-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-a118fc3e40300b9228f6c3c8b954fc3dbeafe26076bfae1b7f787462313f5ce1_trns_h264/playlist.m3u8
+Sat Oct 4 16:17:44 CST 2025
+Sat Oct 4 16:17:51 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 16:19:21 CST 2025
+删除flower1023 
+删除yin2618 
