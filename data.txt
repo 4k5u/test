@@ -1,1 +1,3 @@
 _meganmeow_   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-12357b5a9db5a3cf7bbbba19afe53b11199f8c858140ea588c8f6abb6efd8140_trns_h264/playlist.m3u8
+mazzanti_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-4c15c60dbbd4b571cd207331cdd5cb13e6782c40653e24af5702c0396ee0c40b_trns_h264/playlist.m3u8
+dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fYDJUu-gZ8DbOyH4GKQGTtld93VWEl5dBr2i7MxnPEShNvY4VWagKgrfSI9e9lCgcswVVwtAg988FV8qIyyp4A9w4BffoI5YvFK2DlIC6Ijw0hBVPOF9d7ZiXLDwtt12UL0SLb9A3X9nJvGB9a-rKs5NxgQhEW4tHZvt0l8jn-WP5DaxPx4eZo00bYt6hahB
