@@ -318,3 +318,8 @@ Sat Oct 4 15:17:04 CST 2025
 Sat Oct 4 15:17:08 CST 2025
 Sat Oct 4 15:18:30 CST 2025
 删除m0m099 
+Sat Oct 4 15:32:02 CST 2025
+Sat Oct 4 15:32:06 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 15:33:39 CST 2025
+删除yin2618 
