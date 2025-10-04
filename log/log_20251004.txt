@@ -303,3 +303,7 @@ Sat Oct 4 14:18:24 CST 2025
 添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.3VZT74iSycWu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzNWWlQ3NGlTeWNXdSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MEI2RDU1NS1FODNELTQ5MjktQUMxQy1DOEEwOTJDQzUwRDYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTU1ODcwOCwiZXhwIjoxNzU5NTU5MzA4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LRjAuroXDjtcR-jxuxfC5oY_Il2yCiJRDcU6X0pGW_3fFCP9Zh2Of8BSgo1_XhEslhzg5draOdbfvrCDYgPn4DUaQsWCBlaKz8QnaH61HJV6xi64V0fGtaaSj4cJ7aw7
 Sat Oct 4 14:18:31 CST 2025
 Sat Oct 4 14:19:57 CST 2025
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2734d03dd0ee3a64293993da9fe4ec45ac6a1846116f83501f8e8b2f67ef05d3_trns_h264/playlist.m3u8
+Sat Oct 4 14:34:01 CST 2025
+Sat Oct 4 14:34:06 CST 2025
+Sat Oct 4 14:35:34 CST 2025
