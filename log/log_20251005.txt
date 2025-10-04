@@ -115,3 +115,9 @@ Sun Oct 5 06:17:10 CST 2025
 Sun Oct 5 06:18:33 CST 2025
 删除y1026 
 删除gusdk2362 
+Sun Oct 5 06:32:11 CST 2025
+Sun Oct 5 06:32:12 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.P4FGvq1YNYS_PkIRZPZhtYIulFM4zKllTwEqv6UjleXsinzR8PjEi7DAFArxIXiSrs6sezJuAhnKzHGlJW3wpYCVBK8h2PFB56TShbLD7t3LypzVAKTZuxokTSys94t8r6kgejSHuv2NyXjp2otMdP3OTabJ3kOcyqgmJexHuH_eOzM_u-x_gnaJuCGLhoyB
+Sun Oct 5 06:33:54 CST 2025
+删除gusdk2362 
