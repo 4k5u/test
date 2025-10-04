@@ -397,3 +397,10 @@ Sat Oct 4 18:33:16 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sat Oct 4 18:34:43 CST 2025
 删除yin2618 
+Sat Oct 4 18:47:03 CST 2025
+添加imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oS6GyYQIKW3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29TNkd5WVFJS1czRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4OENCNzQ0Ni00QkRBLTRDQjYtQTJDNC03NkI2RTNEQUFFQkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTU3NDgyOCwiZXhwIjoxNzU5NTc1NDI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.LW0ZvcMCtGHl2z3ts8Hyh2kXRnzFs97ibPv5j98I-02NqXYOeehbTvSMI9-2KfVLeici-WYxHUKl8Sh3GfHz53puxm2Was6RJPDwRHixb3ARkMh1bbJqf8JR7_vC2pe-
+Sat Oct 4 18:47:13 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 18:48:38 CST 2025
+删除sigmasian 
+删除yin2618 
