@@ -438,3 +438,10 @@ Sat Oct 4 20:03:32 CST 2025
 Sat Oct 4 20:05:02 CST 2025
 删除hyuna0721 
 删除eunyoung1238 
+Sat Oct 4 20:17:03 CST 2025
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkVFMkY1Ny1EQTNBLTQzREQtQTNFQy00NDZEN0MxNDEzRUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc1OTU4MDIyOCwiZXhwIjoxNzU5NTgwODI4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bg-CvX0NdC6n2n5VciS7QhSKzL8q_pvCSfs1AKjn55NrXOASpH909jgNzy7qdqTOy_rBHkmM-fg5OSyA9OpG2TqMdcX-zEiMUxD9lFiqHcc0rLWdZ8vfvlaKDQGeTvYj
+Sat Oct 4 20:17:23 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Oct 4 20:18:38 CST 2025
+删除Tmdgus5411 
+删除eunyoung1238 
