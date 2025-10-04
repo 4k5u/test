@@ -418,3 +418,7 @@ Sat Oct 4 19:18:59 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 Sat Oct 4 19:20:29 CST 2025
 删除yin2618 
+Sat Oct 4 19:34:00 CST 2025
+Sat Oct 4 19:34:14 CST 2025
+Sat Oct 4 19:35:30 CST 2025
+删除my_eyes_higher 
