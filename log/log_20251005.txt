@@ -109,3 +109,9 @@ Sun Oct 5 05:49:57 CST 2025
 Sun Oct 5 06:03:41 CST 2025
 Sun Oct 5 06:03:41 CST 2025
 Sun Oct 5 06:05:08 CST 2025
+Sun Oct 5 06:17:10 CST 2025
+Sun Oct 5 06:17:10 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 06:18:33 CST 2025
+删除y1026 
+删除gusdk2362 
