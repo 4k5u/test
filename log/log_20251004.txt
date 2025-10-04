@@ -262,3 +262,9 @@ Sat Oct 4 11:47:13 CST 2025
 Sat Oct 4 11:47:13 CST 2025
 Sat Oct 4 11:48:38 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a6f10eb3005e3729273a3a750814d86dc03cc6e2bf1ec82cf4a8112e342197e6_trns_h264/playlist.m3u8
+Sat Oct 4 12:03:38 CST 2025
+Sat Oct 4 12:03:38 CST 2025
+Sat Oct 4 12:05:04 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除taitehambelton 
