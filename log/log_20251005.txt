@@ -289,3 +289,9 @@ Sun Oct 5 15:34:56 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
 Sun Oct 5 15:36:30 CST 2025
 删除hanny27 
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c985b268d1a8a63bf712cd39372e07e57450d38b073f4b58dcd9251b5696af02_trns_h264/playlist.m3u8
+Sun Oct 5 15:48:42 CST 2025
+Sun Oct 5 15:48:42 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 15:50:14 CST 2025
+删除hanny27 
