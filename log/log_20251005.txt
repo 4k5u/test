@@ -463,3 +463,8 @@ Sun Oct 5 22:18:49 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Sun Oct 5 22:20:17 CST 2025
 删除eunyoung1238 
+Sun Oct 5 22:33:51 CST 2025
+Sun Oct 5 22:33:57 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 22:35:24 CST 2025
+删除eunyoung1238 
