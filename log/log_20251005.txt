@@ -276,3 +276,11 @@ Sun Oct 5 15:03:14 CST 2025
 Sun Oct 5 15:04:44 CST 2025
 删除my_eyes_higher 
 删除hanny27 
+添加taitehambelton https://edge5-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-4fbdbeb9686f019788464694566f03e4575051793adadf14faf7c76e90a01a06_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b82407d37dfc77cb1a5809f9498edfd511680bf0885449e3cab5940a05acdb42_trns_h264/playlist.m3u8
+Sun Oct 5 15:18:31 CST 2025
+Sun Oct 5 15:18:31 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Sun Oct 5 15:19:55 CST 2025
+删除my_eyes_higher 
+删除hanny27 
