@@ -301,3 +301,8 @@ Mon Oct 6 17:48:28 CST 2025
 Mon Oct 6 18:03:27 CST 2025
 Mon Oct 6 18:03:27 CST 2025
 Mon Oct 6 18:04:51 CST 2025
+Mon Oct 6 18:18:12 CST 2025
+Mon Oct 6 18:18:12 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Mon Oct 6 18:19:43 CST 2025
+删除alswl2208 
