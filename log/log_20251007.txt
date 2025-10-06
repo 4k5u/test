@@ -56,3 +56,7 @@ Tue Oct 7 04:04:00 CST 2025
 Tue Oct 7 04:18:22 CST 2025
 Tue Oct 7 04:18:27 CST 2025
 Tue Oct 7 04:19:53 CST 2025
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-0222c1d2a20c478864e1eb734057abe20fa0f359961729699f7f0fcbb39384ac_trns_h264/playlist.m3u8
+Tue Oct 7 04:32:09 CST 2025
+Tue Oct 7 04:32:13 CST 2025
+Tue Oct 7 04:33:40 CST 2025
