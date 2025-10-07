@@ -302,3 +302,10 @@ Tue Oct 7 19:18:22 CST 2025
 Tue Oct 7 19:18:30 CST 2025
 Tue Oct 7 19:19:47 CST 2025
 删除foxylovesyou 
+添加foxylovesyou https://edge1-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-93df12ec9f0fd7d38312f758ce09d3d07349e70eea4f1871e4044ee25e8a83ec_trns_h264/playlist.m3u8
+Tue Oct 7 19:33:21 CST 2025
+Tue Oct 7 19:33:27 CST 2025
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.sBhADaRNLtzLVq-H5snBUmVaLy3RfFQsf-ogsBtH2Dfa8kkhOvbjrYxZ3Y1_04e2QI4rVlYNTLb2Hi4zH1UbT4tO1P1eTKKPqXOAr7m9JK6OLdx_-Gye9yBymocBIa5KLo-cYbHerL5MQRFzgK7jtVeQzqmT3-BNBe_zJuNQSn-bnYAAtsLfRZ27RF8C1t31
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.sBhADaRNLtzLVq-H5snBUs0Mq4--Lwygq1VjFXNhuuWtdCaVl5lXO0NkoG0jQofREpfoNRIIUkJvIPMVy_B3-iizRWxDh5kcLD8Vda1wSfPv6ik46CiIXQDIc-Enoj4Srsw3KzPM6573NucuSGgCMrrvoJaWTYzN3ia1SQ26wOuyJINB41vjZtiTJhoI7xjQ
+Tue Oct 7 19:34:54 CST 2025
+删除foxylovesyou 
