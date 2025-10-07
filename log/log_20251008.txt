@@ -93,3 +93,10 @@ Wed Oct 8 04:48:25 CST 2025
 Wed Oct 8 04:49:58 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
+添加_meganmeow_ https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1aee84da3c44cc303b8a7333fa918489b1b844b4a4961f3bf0e5dd1e1c921683_trns_h264/playlist.m3u8
+Wed Oct 8 05:03:55 CST 2025
+Wed Oct 8 05:03:55 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Oct 8 05:05:30 CST 2025
+删除362540 
+删除gusdk2362 
