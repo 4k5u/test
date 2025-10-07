@@ -335,3 +335,10 @@ Tue Oct 7 20:33:45 CST 2025
 Tue Oct 7 20:34:57 CST 2025
 删除iminako 
 删除foxylovesyou 
+添加iminako https://edge1-nrt.live.mmcdn.com/live-hls/amlst:iminako-sd-873a2cd21498fde642463c66da872097f2624124acceb62d2f0669181156ced3_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-93df12ec9f0fd7d38312f758ce09d3d07349e70eea4f1871e4044ee25e8a83ec_trns_h264/playlist.m3u8
+Tue Oct 7 20:48:15 CST 2025
+Tue Oct 7 20:48:23 CST 2025
+Tue Oct 7 20:49:32 CST 2025
+删除iminako 
+删除foxylovesyou 
