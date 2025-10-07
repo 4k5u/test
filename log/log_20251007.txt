@@ -162,3 +162,7 @@ Tue Oct 7 11:50:01 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除IdaJonesy 
 删除sexygamesx 
+添加sexygamesx https://edge4-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-085427de17bd403f489b7d39b1c9d336c8fefff95925e0140654261604def372_trns_h264/playlist.m3u8
+Tue Oct 7 12:02:09 CST 2025
+Tue Oct 7 12:02:10 CST 2025
+Tue Oct 7 12:03:41 CST 2025
