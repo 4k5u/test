@@ -289,3 +289,10 @@ Wed Oct 8 17:02:04 CST 2025
 Wed Oct 8 17:03:37 CST 2025
 删除sigmasian 
 删除yin2618 
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-8f90ced978cdf658b071feb93607311177a5cb839329fdbbdc60a29aefeffe50_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8bbb4dc41506abf070ac28e504c5dd6df5bae07a7f6423ab8bf47226996676ef_trns_h264/playlist.m3u8
+Wed Oct 8 17:19:41 CST 2025
+Wed Oct 8 17:19:43 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Wed Oct 8 17:21:06 CST 2025
+删除yin2618 
