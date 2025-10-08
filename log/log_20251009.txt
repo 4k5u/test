@@ -55,3 +55,9 @@ Thu Oct 9 03:18:39 CST 2025
 Thu Oct 9 03:32:06 CST 2025
 Thu Oct 9 03:32:12 CST 2025
 Thu Oct 9 03:33:52 CST 2025
+添加kiriko_chan https://edge6-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-3d69f77b81b449e35e3736fa7c68996439205f3fa9ddd58bb3bbf41c942555bd_trns_h264/playlist.m3u8
+Thu Oct 9 03:47:13 CST 2025
+Thu Oct 9 03:47:19 CST 2025
+Thu Oct 9 03:48:43 CST 2025
+删除alicelebel 
+删除starsh2802 
