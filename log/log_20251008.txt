@@ -277,3 +277,8 @@ Wed Oct 8 16:35:00 CST 2025
 删除alicelebel 
 删除y1026 
 删除yin2618 
+Wed Oct 8 16:48:44 CST 2025
+Wed Oct 8 16:48:46 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Wed Oct 8 16:50:13 CST 2025
+删除yin2618 
