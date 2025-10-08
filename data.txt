@@ -1,1 +1,2 @@
 _meganmeow_   https://edge5-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1aee84da3c44cc303b8a7333fa918489b1b844b4a4961f3bf0e5dd1e1c921683_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
