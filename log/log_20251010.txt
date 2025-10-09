@@ -57,3 +57,8 @@ Fri Oct 10 02:17:12 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 Fri Oct 10 02:18:35 CST 2025
 删除eunyoung1238 
+Fri Oct 10 02:34:07 CST 2025
+Fri Oct 10 02:34:11 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 02:35:35 CST 2025
+删除eunyoung1238 
