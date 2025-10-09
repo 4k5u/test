@@ -3,3 +3,10 @@ Fri Oct 10 00:02:51 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Fri Oct 10 00:04:22 CST 2025
 删除eunyoung1238 
+Fri Oct 10 00:18:28 CST 2025
+Fri Oct 10 00:18:38 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 00:20:09 CST 2025
+删除glglehddl 
+删除jjine0127 
+删除eunyoung1238 
