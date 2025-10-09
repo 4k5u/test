@@ -189,3 +189,11 @@ Fri Oct 10 07:20:24 CST 2025
 删除sexygamesx 
 删除kiriko_chan 
 删除gusdk2362 
+添加kiriko_chan https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e0fff7572ebba735f6310f85b50175ed1dd847d7c07d723b4d3d874091713103_trns_h264/playlist.m3u8
+Fri Oct 10 07:33:31 CST 2025
+Fri Oct 10 07:33:32 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 07:35:08 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除kiriko_chan 
+删除gusdk2362 
