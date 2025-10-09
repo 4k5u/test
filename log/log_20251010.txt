@@ -159,3 +159,11 @@ Fri Oct 10 06:17:13 CST 2025
 Fri Oct 10 06:18:40 CST 2025
 删除kiriko_chan 
 删除gusdk2362 
+添加sexygamesx https://edge6-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-137656dcba8e5ec355de77c4e84c05ddd376290539a992c5d13cdb7e38be0d3e_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e0fff7572ebba735f6310f85b50175ed1dd847d7c07d723b4d3d874091713103_trns_h264/playlist.m3u8
+Fri Oct 10 06:33:39 CST 2025
+Fri Oct 10 06:33:39 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 06:35:06 CST 2025
+删除kiriko_chan 
+删除gusdk2362 
