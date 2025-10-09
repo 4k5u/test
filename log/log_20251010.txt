@@ -106,3 +106,11 @@ Fri Oct 10 04:17:07 CST 2025
 Fri Oct 10 04:18:46 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
+Fri Oct 10 04:32:07 CST 2025
+Fri Oct 10 04:32:07 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 04:33:49 CST 2025
+删除in0410 
+删除eunyoung1238 
+删除gusdk2362 
