@@ -269,3 +269,9 @@ Thu Oct 9 18:03:45 CST 2025
 Thu Oct 9 18:03:54 CST 2025
 Thu Oct 9 18:05:15 CST 2025
 删除amilia4u 
+添加amilia4u https://edge3-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8978a2e97b24473e41d4cd2d634bc0ba840a71b4d0cf2c36aaf5f414af0da5fb_trns_h264/playlist.m3u8
+Thu Oct 9 18:18:33 CST 2025
+Thu Oct 9 18:18:39 CST 2025
+Thu Oct 9 18:20:02 CST 2025
+删除lolsos 
+删除amilia4u 
