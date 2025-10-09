@@ -308,3 +308,7 @@ Thu Oct 9 19:34:15 CST 2025
 Thu Oct 9 19:35:38 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除amilia4u 
+Thu Oct 9 19:46:59 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2QTAxQ0UxMi02OTRBLTQ2Q0QtOTcyQi1DQzlFOTExMDdBMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDAxMDQyMiwiZXhwIjoxNzYwMDExMDIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.t6NMYLqyVByPphAz_ieVdXMqaU-H868N1H84CkGUhb1vTUIQNv2Qy9w2EoEbwKv7qaFc8gk5Um-VrHA___elxVwZVZ1qbrs0Jvp_rsT_YCeU78dTpSv_4Z8dl0LYVKqY
+Thu Oct 9 19:47:13 CST 2025
+Thu Oct 9 19:48:35 CST 2025
