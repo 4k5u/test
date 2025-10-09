@@ -370,3 +370,9 @@ Thu Oct 9 21:50:03 CST 2025
 Thu Oct 9 21:51:32 CST 2025
 删除somsom0339 
 删除eunyoung1238 
+Thu Oct 9 22:03:27 CST 2025
+Thu Oct 9 22:03:45 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Thu Oct 9 22:05:06 CST 2025
+删除ee5844 
+删除eunyoung1238 
