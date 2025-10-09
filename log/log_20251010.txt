@@ -174,3 +174,10 @@ Fri Oct 10 06:48:48 CST 2025
 Fri Oct 10 06:50:14 CST 2025
 删除kiriko_chan 
 删除gusdk2362 
+添加kiriko_chan https://edge5-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-e0fff7572ebba735f6310f85b50175ed1dd847d7c07d723b4d3d874091713103_trns_h264/playlist.m3u8
+Fri Oct 10 07:02:01 CST 2025
+Fri Oct 10 07:02:01 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 07:03:38 CST 2025
+删除kiriko_chan 
+删除gusdk2362 
