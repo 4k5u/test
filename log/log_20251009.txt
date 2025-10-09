@@ -263,3 +263,9 @@ Thu Oct 9 17:47:22 CST 2025
 Thu Oct 9 17:48:55 CST 2025
 删除SanySenise 
 删除amilia4u 
+添加amilia4u https://edge9-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8978a2e97b24473e41d4cd2d634bc0ba840a71b4d0cf2c36aaf5f414af0da5fb_trns_h264/playlist.m3u8
+Thu Oct 9 18:03:45 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFQ0UyOUQ0My1DQzQ2LTRFRDEtOEEwRC00NEY1OTM1NDc3MTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDAwNDIyNywiZXhwIjoxNzYwMDA0ODI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.np4Tar5bq1CWc-dBjupUvBxMLcJOsQ49aXnltgr1s9WqWCSA551FTcpxgy3LcuvloHKbdiK3qAY94WYzpvW16-Q-EE5fclh8EcDwe2nCbZz1U27kVVwniunmfLdKsFG7
+Thu Oct 9 18:03:54 CST 2025
+Thu Oct 9 18:05:15 CST 2025
+删除amilia4u 
