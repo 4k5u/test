@@ -312,3 +312,7 @@ Fri Oct 10 14:03:37 CST 2025
 Fri Oct 10 14:18:30 CST 2025
 Fri Oct 10 14:18:32 CST 2025
 Fri Oct 10 14:19:56 CST 2025
+Fri Oct 10 14:34:07 CST 2025
+Fri Oct 10 14:34:09 CST 2025
+Fri Oct 10 14:35:40 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8

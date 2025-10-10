@@ -5,3 +5,4 @@ homegirl   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 taitehambelton   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f503a8b72b8b67bf9ad8229ea2544851064471a844f66bf9f1ed5bf40a65e92c_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher   https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-50de3358da5e54388ae823ac9cb9d85e41d155753f5b75608d16e9284bed6899_trns_h264/playlist.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
