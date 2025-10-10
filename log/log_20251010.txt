@@ -308,3 +308,7 @@ Fri Oct 10 14:02:12 CST 2025
 Fri Oct 10 14:02:15 CST 2025
 Fri Oct 10 14:03:37 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-50de3358da5e54388ae823ac9cb9d85e41d155753f5b75608d16e9284bed6899_trns_h264/playlist.m3u8
+Fri Oct 10 14:18:30 CST 2025
+Fri Oct 10 14:18:32 CST 2025
+Fri Oct 10 14:19:56 CST 2025
