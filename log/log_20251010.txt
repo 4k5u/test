@@ -388,3 +388,10 @@ Fri Oct 10 17:32:46 CST 2025
 Fri Oct 10 17:32:57 CST 2025
 Fri Oct 10 17:34:29 CST 2025
 删除my_eyes_higher 
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-086aac92dfd793eef6f39669ef4d8dd7bd50a12eb544d2bce1a4c65ee4f1f3b4_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge8-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-50de3358da5e54388ae823ac9cb9d85e41d155753f5b75608d16e9284bed6899_trns_h264/playlist.m3u8
+Fri Oct 10 17:48:26 CST 2025
+Fri Oct 10 17:48:37 CST 2025
+Fri Oct 10 17:50:00 CST 2025
+删除foxylovesyou 
+删除my_eyes_higher 
