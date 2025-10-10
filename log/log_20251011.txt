@@ -43,3 +43,7 @@ Sat Oct 11 02:33:54 CST 2025
 Sat Oct 11 02:35:12 CST 2025
 删除Tmdgus5411 
 删除SanySenise 
+Sat Oct 11 02:48:14 CST 2025
+Sat Oct 11 02:48:18 CST 2025
+Sat Oct 11 02:49:32 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
