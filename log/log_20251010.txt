@@ -224,3 +224,6 @@ Fri Oct 10 08:48:01 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
 Fri Oct 10 08:49:26 CST 2025
 删除gusdk2362 
+Fri Oct 10 09:02:01 CST 2025
+Fri Oct 10 09:02:01 CST 2025
+Fri Oct 10 09:03:31 CST 2025
