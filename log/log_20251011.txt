@@ -90,3 +90,9 @@ Sat Oct 11 05:35:26 CST 2025
 Sat Oct 11 05:49:07 CST 2025
 Sat Oct 11 05:49:07 CST 2025
 Sat Oct 11 05:50:35 CST 2025
+Sat Oct 11 06:02:55 CST 2025
+Sat Oct 11 06:02:56 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 06:04:30 CST 2025
+删除dreamch77 
+删除gusdk2362 
