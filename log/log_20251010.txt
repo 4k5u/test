@@ -575,3 +575,13 @@ Fri Oct 10 21:49:52 CST 2025
 删除Xenomy 
 删除muse62 
 删除hanny27 
+Fri Oct 10 22:02:11 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwN0JDNDBEMS1GMjM1LTRDNEEtOENDRC1BMEFFMEZDNDNGNjIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDEwNDk0MiwiZXhwIjoxNzYwMTA1NTQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.0fOe5LqY7O42q92opcVeAOp5CFdeoTvS4LCgAxZTsdI_aVlTnffmxJhZN7sflx9Gwh_VvOJ-a184aAqg8ItOCd7gvEp5ivJ4HBTRXSUiJ9hrZVXvWyu5YYqXz5216HBC
+Fri Oct 10 22:02:35 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.wmG4-JF9LLms03KjO7UB4StdKpHtjx-piPFSoGfGdrJdJaWWX-_T-SB-xUZQqbet7QxoJCP8IC74xRCYnhmrmhdaly_OTVsvK38HOcX4wVJY49tTeX2CumnE9W2dgJS0CVhsMlAQviyFOXV9gxxCe0C3L3bOScumfeOAZ_5LltHn56JkHHc5qw6L_PVzHDpp
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Fri Oct 10 22:03:57 CST 2025
+删除somsom0339 
+删除yeonnacho 
+删除Tmdgus5411 
+删除hanny27 
