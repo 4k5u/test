@@ -4,3 +4,9 @@ Sun Oct 12 00:03:24 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Sun Oct 12 00:04:54 CST 2025
 删除leelate 
+Sun Oct 12 00:18:21 CST 2025
+Sun Oct 12 00:18:47 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Oct 12 00:20:08 CST 2025
+删除bongbong486 
+删除leelate 
