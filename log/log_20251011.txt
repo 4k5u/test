@@ -269,3 +269,11 @@ Sat Oct 11 15:48:58 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Sat Oct 11 15:50:29 CST 2025
 删除yin2618 
+Sat Oct 11 16:03:54 CST 2025
+添加hyuna0721 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.AzTFfdrzpRaq.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0F6VEZmZHJ6cFJhcSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNDVDRkMwRC1BQUZCLTQ4NUYtOEI3RC1DRTk5NkM2NTQ5N0EiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE2OTgzOCwiZXhwIjoxNzYwMTcwNDM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cyEenFNxiXeMmVWw1vcI-eWtM9z2L2uNezILXFHyagygdYYewQdmk1BGAMdmDrg69JvuYhkeuT_LHDspoWhlyJ0iyosggA9yuDxVXVNM1-r05HBO7zVTBm83ngOWsweV
+Sat Oct 11 16:04:01 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 16:05:32 CST 2025
+删除alicelebel 
+删除homegirl 
+删除yin2618 
