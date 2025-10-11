@@ -495,3 +495,9 @@ Sat Oct 11 23:33:45 CST 2025
 Sat Oct 11 23:35:12 CST 2025
 删除jodong2 
 删除leelate 
+Sat Oct 11 23:48:23 CST 2025
+Sat Oct 11 23:48:47 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 23:50:06 CST 2025
+删除eunyoung1238 
+删除leelate 
