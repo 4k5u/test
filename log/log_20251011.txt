@@ -144,3 +144,8 @@ Sat Oct 11 08:17:07 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Sat Oct 11 08:18:33 CST 2025
 删除gusdk2362 
+添加mazzanti_ https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-94bb6f8b6a7ea21c215869ded107b5cd2e00b4c98d39f1db245ee28ee7716fe2_trns_h264/playlist.m3u8
+Sat Oct 11 08:33:30 CST 2025
+Sat Oct 11 08:33:31 CST 2025
+Sat Oct 11 08:34:54 CST 2025
+删除sexygamesx 
