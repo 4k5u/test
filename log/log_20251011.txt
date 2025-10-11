@@ -242,3 +242,7 @@ Sat Oct 11 14:18:31 CST 2025
 Sat Oct 11 14:31:56 CST 2025
 Sat Oct 11 14:31:58 CST 2025
 Sat Oct 11 14:33:25 CST 2025
+Sat Oct 11 14:48:51 CST 2025
+Sat Oct 11 14:48:53 CST 2025
+Sat Oct 11 14:50:20 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
