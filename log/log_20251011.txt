@@ -425,3 +425,12 @@ Sat Oct 11 21:17:51 CST 2025
 Sat Oct 11 21:19:20 CST 2025
 删除leelate 
 删除hanny27 
+Sat Oct 11 21:33:48 CST 2025
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UF2fRqfPd4Dv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VGMmZScWZQZDREdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDMjlDOEMyRi0yMkNELTQ1Q0YtQUJERi1BQkFCMkZDM0QwRUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE4OTYyOSwiZXhwIjoxNzYwMTkwMjI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mUrdrPyftzKcPc9BIvUXSAuumDvAwtnM-At1sdK45pSpIdUw2UrbvXAQA47OxgsCaB_3BpU-RqXlQfoaixOqzRHU23MAUebxXPBs-0WHPxgUCmNuhgRHKqCU_RIRT4RB
+Sat Oct 11 21:34:20 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.k9cZPGWbRndfW5Z6Vn2R8kHGhldyTqo5apLDGqvkun5SW4BbNWeuZmoIz6id0LaNNS4ZoF-bSIfMuhYk5PI-MlG8UpA2dLU_818edhObJ4VB4WTunAHsI_l1elI1YHSUNKyntPnIQi_UyDjCw_wksklX3U_i3tc3xjRWU898oP7VQjTMiW3oDc2y0H5Mp5C2
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 21:35:55 CST 2025
+删除leelate 
+删除hanny27 
