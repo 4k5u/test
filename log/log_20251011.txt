@@ -434,3 +434,11 @@ Sat Oct 11 21:34:20 CST 2025
 Sat Oct 11 21:35:55 CST 2025
 删除leelate 
 删除hanny27 
+Sat Oct 11 21:47:50 CST 2025
+Sat Oct 11 21:48:18 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 21:49:45 CST 2025
+删除imissy0u 
+删除leelate 
+删除hanny27 
