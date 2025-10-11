@@ -332,3 +332,11 @@ Sat Oct 11 18:02:10 CST 2025
 Sat Oct 11 18:03:47 CST 2025
 删除hanny27 
 删除yin2618 
+Sat Oct 11 18:18:30 CST 2025
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MUMxNTc1MS1CNEQzLTQzNjEtQkFFQS1GNDBFQUNCREE3MzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDE3NzkxMywiZXhwIjoxNzYwMTc4NTEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cywmmxonzqOwuap6leNJdxOWCpjw4VqJ9MzwC21ndmj92UX74Crmte7hqQMrBOj1h-Kk3qpDnJoV2t9ueo2YmzUmvOCuT5a-jDQjlyVTu798qPzrLFb9_R33Dhg9zzP1
+Sat Oct 11 18:18:42 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 18:20:17 CST 2025
+删除hanny27 
+删除yin2618 
