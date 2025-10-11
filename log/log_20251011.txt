@@ -346,3 +346,9 @@ Sat Oct 11 18:34:00 CST 2025
 Sat Oct 11 18:35:23 CST 2025
 删除somsom0339 
 删除hanny27 
+添加ad0res https://edge10-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-8acdc403bf59361985bd3df4d4cba7c26aa861d8a37b3dda2368f6f80d5fd6de_trns_h264/playlist.m3u8
+Sat Oct 11 18:47:02 CST 2025
+Sat Oct 11 18:47:12 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 18:48:47 CST 2025
+删除hanny27 
