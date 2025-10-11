@@ -352,3 +352,9 @@ Sat Oct 11 18:47:12 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
 Sat Oct 11 18:48:47 CST 2025
 删除hanny27 
+Sat Oct 11 19:01:59 CST 2025
+Sat Oct 11 19:02:09 CST 2025
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.XeuqjEL-2FPPEQKGw1pagnUHIHR0YAVgjCk8_9qgLsME9vvQMv86B8jCcgr_lyAfiCM2ycKJqHfJQrLjyII_a-DbXiISDlsEk1TDl2EnjPQovU8mC4jHFjcm6yvcSLg_CEJZ5p2t_L_pZYhoU9wL1a2VhEsX5NPaGjg6bPXywIZ3bZmLlmXRyubrFlXYuP6v
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 19:03:49 CST 2025
+删除hanny27 
