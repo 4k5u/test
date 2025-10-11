@@ -246,3 +246,8 @@ Sat Oct 11 14:48:51 CST 2025
 Sat Oct 11 14:48:53 CST 2025
 Sat Oct 11 14:50:20 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+Sat Oct 11 15:02:03 CST 2025
+Sat Oct 11 15:02:05 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Sat Oct 11 15:03:37 CST 2025
+删除yin2618 
