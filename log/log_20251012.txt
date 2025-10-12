@@ -237,3 +237,6 @@ Sun Oct 12 11:35:29 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Sun Oct 12 11:48:31 CST 2025
+Sun Oct 12 11:48:33 CST 2025
+Sun Oct 12 11:49:49 CST 2025
