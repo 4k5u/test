@@ -204,3 +204,9 @@ Sun Oct 12 10:20:28 CST 2025
 删除IdaJonesy 
 删除Ryo-sama 
 删除gusdk2362 
+添加taitehambelton https://edge8-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b51d2a03aba676c172de5363cf8a311a98aa7c1cba4884df71572a7cfa6eab7a_trns_h264/playlist.m3u8
+Sun Oct 12 10:33:37 CST 2025
+Sun Oct 12 10:33:39 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sun Oct 12 10:35:08 CST 2025
+删除gusdk2362 
