@@ -230,3 +230,10 @@ Sun Oct 12 11:18:06 CST 2025
 Sun Oct 12 11:19:36 CST 2025
 删除taitehambelton 
 删除gusdk2362 
+Sun Oct 12 11:33:58 CST 2025
+Sun Oct 12 11:34:00 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sun Oct 12 11:35:29 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 
