@@ -224,3 +224,9 @@ Sun Oct 12 11:04:50 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除mazzanti_ 
 删除gusdk2362 
+Sun Oct 12 11:18:04 CST 2025
+Sun Oct 12 11:18:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sun Oct 12 11:19:36 CST 2025
+删除taitehambelton 
+删除gusdk2362 
