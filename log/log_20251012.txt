@@ -216,3 +216,11 @@ Sun Oct 12 10:48:21 CST 2025
 Sun Oct 12 10:49:50 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
+Sun Oct 12 11:03:21 CST 2025
+Sun Oct 12 11:03:24 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.mTjNZi20fFXN8crLKEPV0zpQJaPFMqrWX0e8I6UYeDcU3yFDSDx23hQ6KePcCZI4zMzLPfVN-zLPDjpTdXRiL9cB6QE51B3YyBHEwRVN4iOsWzIJ1G_0ZmJm4I-bZoR1W9THrFKxU_WhS8N3CZcDYXAoxtgy1_lUWw3RsqAHXa_8TIIGK1g2HJM8nvdwXsFS
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sun Oct 12 11:04:50 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除mazzanti_ 
+删除gusdk2362 
