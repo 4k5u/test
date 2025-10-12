@@ -3,3 +3,4 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Ryo-sama   https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 mode_bad   https://edge4-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-25e975b4c6c4d59bb2404081c55295826c2d4e5f5fe7445954e5faec71b89bcb_trns_h264/playlist.m3u8
+mazzanti_   https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-83b2ad53921e18017e3c53695bab4725e26085091cab0d040929d793c838d90c_trns_h264/playlist.m3u8
