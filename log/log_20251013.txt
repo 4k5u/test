@@ -179,3 +179,6 @@ Mon Oct 13 11:33:14 CST 2025
 Mon Oct 13 11:34:44 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Mon Oct 13 11:47:43 CST 2025
+Mon Oct 13 11:47:45 CST 2025
+Mon Oct 13 11:49:16 CST 2025
