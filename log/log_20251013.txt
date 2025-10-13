@@ -321,3 +321,12 @@ Mon Oct 13 19:19:48 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除navi04 
 删除hanny27 
+Mon Oct 13 19:33:33 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RUYyODY4Qi0yOEQ1LTQ1QzYtODREOC1DRjgxNEQ1NURERTgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDM1NTIxNiwiZXhwIjoxNzYwMzU1ODE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mE3P6aw-Jjf8S50ZU9S5kn8ZH50a-6epGrMj4zk6tNh1qCm12CXH-1tztguJA1V1kqeRUc9wrZmQMTZ9LQTAYG4QQBxc3mggNEwQ-BWODx8jAdGOVmktsCU8C95A-8QS
+Mon Oct 13 19:33:43 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.JnZoEC-NOIYpxD_7aJQ5Fu56_BAOesyVSP3y-KCZGiz0M_KiOpTMUkZOWkZ2710CIXuAJgFXhWx6fvFeBiUWxgQZCMk3p71LsME-LXfq5MdYmR_JlIegO6SUPGWws30nO99mMSpGrMTDxh5qPu2WwAZtWp-fVte5R1-daHKrNuJU4cawHrDKZpTJKKK-92lC
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Mon Oct 13 19:35:15 CST 2025
+删除navi04 
+删除hanny27 
