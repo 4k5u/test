@@ -418,3 +418,8 @@ Mon Oct 13 22:20:20 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除muse62 
 删除hanny27 
+Mon Oct 13 22:32:01 CST 2025
+Mon Oct 13 22:32:23 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Mon Oct 13 22:33:40 CST 2025
+删除hanny27 
