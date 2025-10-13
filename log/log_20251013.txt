@@ -272,3 +272,11 @@ Mon Oct 13 17:47:10 CST 2025
 Mon Oct 13 17:48:36 CST 2025
 删除sigmasian 
 删除navi04 
+Mon Oct 13 18:02:05 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQzlGRTZENy1BMTI5LTQ4Q0UtOEVBRi01NTZDRTFDOTExNzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDM0OTczMCwiZXhwIjoxNzYwMzUwMzMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.JOdCVhzdoM9j1kHtR_M_VqMOPqCeDMDf2CRF4CEZ7H1gbO-x_fGHw_9zj7ZXa8hRtoRWlya3CGeyHWqEzrROAqRvXyHhftDtVI3t6gUVlwaZnEv5kiXLxHMTI7sH6WVy
+Mon Oct 13 18:02:13 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Mon Oct 13 18:03:52 CST 2025
+删除navi04 
+删除hanny27 
