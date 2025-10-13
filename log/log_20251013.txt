@@ -296,3 +296,11 @@ Mon Oct 13 18:33:46 CST 2025
 Mon Oct 13 18:35:27 CST 2025
 删除navi04 
 删除hanny27 
+Mon Oct 13 18:47:23 CST 2025
+Mon Oct 13 18:47:29 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Mon Oct 13 18:48:54 CST 2025
+删除honey_pinkgreen 
+删除navi04 
+删除hanny27 
