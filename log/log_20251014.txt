@@ -261,3 +261,8 @@ Tue Oct 14 17:03:04 CST 2025
 Tue Oct 14 17:03:12 CST 2025
 Tue Oct 14 17:04:27 CST 2025
 删除foxylovesyou 
+添加amilia4u https://edge4-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-2eb061e98c16e48312140d49da2c5e94653f119bf79baf0f805bce2e038a8850_trns_h264/playlist.m3u8
+Tue Oct 14 17:17:01 CST 2025
+Tue Oct 14 17:17:09 CST 2025
+Tue Oct 14 17:18:25 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
