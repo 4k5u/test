@@ -407,3 +407,16 @@ Tue Oct 14 21:04:55 CST 2025
 删除alswl2208 
 删除hanny27 
 删除yin2618 
+Tue Oct 14 21:18:15 CST 2025
+Tue Oct 14 21:18:43 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Tue Oct 14 21:19:48 CST 2025
+删除yeonnacho 
+删除4ocari 
+删除navi04 
+删除y1026 
+删除alswl2208 
+删除hanny27 
+删除yin2618 
