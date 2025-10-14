@@ -270,3 +270,9 @@ Tue Oct 14 17:32:10 CST 2025
 Tue Oct 14 17:32:18 CST 2025
 Tue Oct 14 17:33:26 CST 2025
 删除SanySenise 
+添加my_eyes_higher https://edge1-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-39cfcceb3ade4894332c169cc5642727a142cbc80a931ca4bf722cd04e19f0d6_trns_h264/playlist.m3u8
+Tue Oct 14 17:47:03 CST 2025
+Tue Oct 14 17:47:11 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Tue Oct 14 17:48:31 CST 2025
+删除alswl2208 
