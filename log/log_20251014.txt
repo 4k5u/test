@@ -443,3 +443,15 @@ Tue Oct 14 21:48:58 CST 2025
 删除alswl2208 
 删除hanny27 
 删除yin2618 
+Tue Oct 14 22:03:37 CST 2025
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDNjlDMzA3RC0yMjQ5LTRGNEMtQUYxOC0xOTAyNjlCQzk3NzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDQ1MDY0MiwiZXhwIjoxNzYwNDUxMjQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lZ9LBNiqX1OPtfRPBtgv7JOyDkcCGTib4Jdnd5oH2VwTD1-87u71OZ3a26bqXyBfTeMd31hCGqE6PS5mMB0fedG4HEDtedGPyP3oNsEsMf6nA6WRSc8u-nEYuC2f_-sz
+Tue Oct 14 22:04:11 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Tue Oct 14 22:05:31 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除ee5844 
+删除alswl2208 
+删除hanny27 
+删除yin2618 
