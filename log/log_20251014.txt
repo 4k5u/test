@@ -327,3 +327,12 @@ Tue Oct 14 19:32:50 CST 2025
 Tue Oct 14 19:34:18 CST 2025
 删除alswl2208 
 删除hanny27 
+Tue Oct 14 19:47:07 CST 2025
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCNjkwMjc5Qy1GQUZFLTREMzgtOEQ4MC1BNEMxMUE2NUZEQ0MiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDQ0MjQzMiwiZXhwIjoxNzYwNDQzMDMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pyecipZQtJLwgZuA8f76zBnOEBmpwtP37x5_xh8iS-PV3x2OYzpbzdcQUiNteyJIVOthk5LBaBVJ5K-Q3LVY-xZu2lFVE_JA3KSHbew-FS5AunqAthTv_CcGwQTogrfJ
+Tue Oct 14 19:47:23 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Tue Oct 14 19:48:24 CST 2025
+删除dkdlfjqm758 
+删除alswl2208 
+删除hanny27 
