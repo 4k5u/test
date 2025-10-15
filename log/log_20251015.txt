@@ -228,3 +228,9 @@ Wed Oct 15 13:50:08 CST 2025
 Wed Oct 15 14:03:33 CST 2025
 Wed Oct 15 14:03:35 CST 2025
 Wed Oct 15 14:05:03 CST 2025
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-defe5bc47db63cb0c2479a15520a3754b8927557aa5cb90941a3ebd726f40272_trns_h264/playlist.m3u8
+Wed Oct 15 14:27:12 CST 2025
+Wed Oct 15 14:27:14 CST 2025
+Wed Oct 15 14:28:47 CST 2025
+删除naras2 
+删除my_eyes_higher 
