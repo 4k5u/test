@@ -417,3 +417,10 @@ Wed Oct 15 21:34:47 CST 2025
 Wed Oct 15 21:35:58 CST 2025
 删除alswl2208 
 删除yin2618 
+Wed Oct 15 21:48:20 CST 2025
+Wed Oct 15 21:48:52 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Wed Oct 15 21:50:12 CST 2025
+删除alswl2208 
+删除yin2618 
