@@ -360,3 +360,12 @@ Wed Oct 15 20:03:33 CST 2025
 Wed Oct 15 20:05:02 CST 2025
 删除alswl2208 
 删除yin2618 
+Wed Oct 15 20:17:45 CST 2025
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRDQ1RjEyMS02QTRELTRBNzYtQjA2NS0zOUY2MkE5RERBNkEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDUzMDY3NSwiZXhwIjoxNzYwNTMxMjc1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2JhDyPpHOxUKyamM_AyvFuth_rhxZund6Lg4oPPjlBqrr8u1l9Dhwc7Oicr8VqHzHc8yqVeEYx_CRZrvyC42GQLKRAnphwjrWeuCf5BhtTj289u8cIfHTz0S2MoOezJU
+Wed Oct 15 20:18:05 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Wed Oct 15 20:19:26 CST 2025
+删除tyy750ii 
+删除alswl2208 
+删除yin2618 
