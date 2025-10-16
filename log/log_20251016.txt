@@ -243,3 +243,6 @@ Thu Oct 16 13:48:34 CST 2025
 Thu Oct 16 13:48:36 CST 2025
 Thu Oct 16 13:49:57 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Thu Oct 16 14:03:46 CST 2025
+Thu Oct 16 14:03:48 CST 2025
+Thu Oct 16 14:05:19 CST 2025
