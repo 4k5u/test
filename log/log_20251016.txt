@@ -246,3 +246,7 @@ Thu Oct 16 13:49:57 CST 2025
 Thu Oct 16 14:03:46 CST 2025
 Thu Oct 16 14:03:48 CST 2025
 Thu Oct 16 14:05:19 CST 2025
+Thu Oct 16 14:17:00 CST 2025
+Thu Oct 16 14:17:02 CST 2025
+Thu Oct 16 14:18:32 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
