@@ -259,3 +259,11 @@ Fri Oct 17 17:32:09 CST 2025
 Fri Oct 17 17:32:15 CST 2025
 Fri Oct 17 17:33:30 CST 2025
 删除foxylovesyou 
+添加amilia4u https://edge14-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-aca139fef4de203e1f29d04a635fa813de5bfbe2bb1a43bf28914aad42df5139_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d94f8ab035b059fccd65a72bf1fbec116979dd7ccf3a8b26ac2e4c3554a649a9_trns_h264/playlist.m3u8
+Fri Oct 17 17:48:13 CST 2025
+Fri Oct 17 17:48:19 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Fri Oct 17 17:49:49 CST 2025
+删除foxylovesyou 
+删除leelate 
