@@ -255,3 +255,7 @@ Fri Oct 17 17:20:04 CST 2025
 Fri Oct 17 17:21:32 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除amilia4u 
+Fri Oct 17 17:32:09 CST 2025
+Fri Oct 17 17:32:15 CST 2025
+Fri Oct 17 17:33:30 CST 2025
+删除foxylovesyou 
