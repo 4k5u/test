@@ -64,3 +64,10 @@ Sat Oct 18 01:52:28 CST 2025
 Sat Oct 18 01:53:54 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除gusdk2362 
+Sat Oct 18 02:03:20 CST 2025
+Sat Oct 18 02:03:32 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Sat Oct 18 02:04:59 CST 2025
+删除hyuna0721 
+删除saone451 
+删除gusdk2362 
