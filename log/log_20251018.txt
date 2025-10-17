@@ -83,3 +83,8 @@ Sat Oct 18 02:36:16 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Sat Oct 18 02:37:44 CST 2025
 删除gusdk2362 
+Sat Oct 18 02:47:58 CST 2025
+Sat Oct 18 02:48:02 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Sat Oct 18 02:49:29 CST 2025
+删除gusdk2362 
