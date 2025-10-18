@@ -74,3 +74,8 @@ Sun Oct 19 03:19:45 CST 2025
 删除eli05021212 
 删除iminako 
 删除gusdk2362 
+Sun Oct 19 03:31:56 CST 2025
+Sun Oct 19 03:32:02 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sun Oct 19 03:33:34 CST 2025
+删除gusdk2362 
