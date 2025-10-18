@@ -267,3 +267,7 @@ Sat Oct 18 13:48:31 CST 2025
 Sat Oct 18 14:02:33 CST 2025
 Sat Oct 18 14:02:33 CST 2025
 Sat Oct 18 14:04:07 CST 2025
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-eb7b8736486f8d58bfc09c21fef1dc5482b58d9138c453cb5cddbb8210e2e8cd_trns_h264/playlist.m3u8
+Sat Oct 18 14:16:56 CST 2025
+Sat Oct 18 14:16:57 CST 2025
+Sat Oct 18 14:18:30 CST 2025
