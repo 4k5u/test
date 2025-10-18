@@ -417,3 +417,9 @@ Sat Oct 18 22:03:57 CST 2025
 Sat Oct 18 22:05:01 CST 2025
 删除4ocari 
 删除alswl2208 
+Sat Oct 18 22:17:01 CST 2025
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEODk1QTREOC1FRkYzLTQwMDItQjYzQS0xNURBMTIyNUZDNzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDc5NzA1MCwiZXhwIjoxNzYwNzk3NjUwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MBw98ifMI_D1YFa6NEH6TeVSOB_roMgziAO_i4ufwZcaOLFoXgV252n2TETJr8ONwT2hI51pDWrrQRChlET0KWuWVb-nKzgYCDWWmJYDHpDSgZeAdRfsQ0vtEk7Zx5ha
+Sat Oct 18 22:17:37 CST 2025
+Sat Oct 18 22:18:39 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除redholic377 
