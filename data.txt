@@ -6,3 +6,4 @@ Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_aut
 taitehambelton   https://edge18-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-bd078f73d5a9d6417fd76cea8bacb091a4882036623bb3cdae8e053b252ff173_trns_h264/playlist.m3u8
 foxylovesyou   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-9bd011af5b087021d92262a9b4ed2cca668572eaaf715b68c405110db0112496_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-eb7b8736486f8d58bfc09c21fef1dc5482b58d9138c453cb5cddbb8210e2e8cd_trns_h264/playlist.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
