@@ -295,3 +295,9 @@ Sun Oct 19 16:03:03 CST 2025
 Sun Oct 19 16:03:09 CST 2025
 Sun Oct 19 16:04:39 CST 2025
 删除my_eyes_higher 
+添加taitehambelton https://edge4-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3322eb9a4e1cb73a720a4b6d8075fdbfc3184b9de5828a1ce60ab38ba7652714_trns_h264/playlist.m3u8
+Sun Oct 19 16:18:50 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.zbfMCuLFKqdC.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3piZk1DdUxGS3FkQyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1MzYzMzA3OC05MTUzLTRDRDgtODNFQi1GODVDQjhDMjE5MUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDg2MTkzMCwiZXhwIjoxNzYwODYyNTMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.beoPQ9YeKboFZAKGhxVrCwj2fg3eBuM7hY9j5KNx4_eT49PD6WGUJXLK6EgFIK7cNGd3UpkGUEbWh4PPJ1HM221qRMMpSPB0dcxoftWAB_J9iwGqrxSaxV-YojRWQSBn
+Sun Oct 19 16:18:59 CST 2025
+Sun Oct 19 16:20:19 CST 2025
+删除alicelebel 
