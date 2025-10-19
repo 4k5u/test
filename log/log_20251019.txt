@@ -264,3 +264,7 @@ Sun Oct 19 13:48:22 CST 2025
 Sun Oct 19 13:49:49 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除redholic377 
+添加mazzanti_ https://edge3-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-223cac3143dd78f92eb599c55cdb81d0d91659ea52bee8bfef0cc054931e64ac_trns_h264/playlist.m3u8
+Sun Oct 19 14:03:09 CST 2025
+Sun Oct 19 14:03:13 CST 2025
+Sun Oct 19 14:04:31 CST 2025
