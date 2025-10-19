@@ -380,3 +380,8 @@ Sun Oct 19 20:48:12 CST 2025
 Sun Oct 19 20:48:26 CST 2025
 Sun Oct 19 20:49:37 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+Sun Oct 19 21:03:24 CST 2025
+Sun Oct 19 21:03:37 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fw4Mi5__RM6SyClQRZvFw1yk5u8mnPbESo7G6Qu8CMURVTGcglmXbCMafa5wsc978SS1EUFwWRQaHbTfQLVUqAPvqLWB5lMPL40Smdq9CQIlwSynMyXqxvpNese4n_HNNl6q6D6h8ml0zC5V3W4yGQVM2FXAXQVvoCRtqaJjnmW4LnBBWn_e80eJq34lG6cw
+Sun Oct 19 21:04:52 CST 2025
+删除taitehambelton 
