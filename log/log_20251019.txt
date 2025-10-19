@@ -259,3 +259,8 @@ Sun Oct 19 13:34:59 CST 2025
 删除eunyoung1238 
 删除IdaJonesy 
 删除sigmasian 
+Sun Oct 19 13:48:18 CST 2025
+Sun Oct 19 13:48:22 CST 2025
+Sun Oct 19 13:49:49 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除redholic377 
