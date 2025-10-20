@@ -371,3 +371,8 @@ Mon Oct 20 22:33:57 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 Mon Oct 20 22:35:19 CST 2025
 删除hanny27 
+Mon Oct 20 22:47:59 CST 2025
+Mon Oct 20 22:48:21 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Mon Oct 20 22:49:45 CST 2025
+删除hanny27 
