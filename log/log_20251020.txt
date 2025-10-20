@@ -153,3 +153,7 @@ Mon Oct 20 11:03:12 CST 2025
 Mon Oct 20 11:03:12 CST 2025
 Mon Oct 20 11:04:43 CST 2025
 删除mazzanti_ 
+Mon Oct 20 11:18:43 CST 2025
+Mon Oct 20 11:18:43 CST 2025
+Mon Oct 20 11:20:13 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
