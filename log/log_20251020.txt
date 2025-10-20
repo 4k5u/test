@@ -287,3 +287,9 @@ Mon Oct 20 19:18:49 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Mon Oct 20 19:20:15 CST 2025
 删除hanny27 
+Mon Oct 20 19:32:06 CST 2025
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ixV2v9LJ11dG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2l4VjJ2OUxKMTFkRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNkFBQUYzOC1CQTA1LTQyNUMtOTIxNS1GRDQxMUVCNDUwRDEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MDk1OTkzNSwiZXhwIjoxNzYwOTYwNTM1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ZAcRleREbM4GLrzXICvYj4Cuji7UvBzAVM-O-c99YwS-AVN52Ul3qBDskj9aryZ-GOUAn2an8-A86CONAvtOzeHIzkd9Z4Jqb6-5NPm5iwoQNfEShvZZ6Js2SR4xBxwT
+Mon Oct 20 19:32:24 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Mon Oct 20 19:33:42 CST 2025
+删除hanny27 
