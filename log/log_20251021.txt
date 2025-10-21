@@ -338,3 +338,15 @@ Tue Oct 21 17:24:07 CST 2025
 删除amilia4u 
 删除foxylovesyou 
 删除navi04 
+添加taitehambelton https://edge10-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-124a6a488e3135d01da680ed693e07faa03aea2febc9d5ca1a9667d47ee31be2_trns_h264/playlist.m3u8
+添加amilia4u https://edge10-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-89d15692b848626680c0d9a0d96abb773b657431459563f3522f63c7cfed8095_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge9-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e25728e586253d2ef57e259a31b7b81bd723e4760f07d66b5850736146e7ebd8_trns_h264/playlist.m3u8
+Tue Oct 21 17:33:25 CST 2025
+Tue Oct 21 17:33:35 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.QXJYgeU0eYk46K2mFhtDlaOYJLoYhcu6P1NMy4C5SKfbweAhiks7ShcC8M9YzBH9V8BUXR5MDZ4a_hGV9oml3Z-HTxokBJ9vKxJ__Q6ixJwMZ3Vy5Tbbb77LJstYH4jBNNd4rSMPnlBz7d3WBOFNxT9FvKubZndMVg1wt2Wi9Kr7cdaQWzDmxAFYXAsWfFlO
+Tue Oct 21 17:35:00 CST 2025
+删除taitehambelton 
+删除amilia4u 
+删除foxylovesyou 
+删除navi04 
