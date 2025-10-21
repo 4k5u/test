@@ -231,3 +231,10 @@ Tue Oct 21 14:35:08 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除taitehambelton 
 删除my_eyes_higher 
+添加taitehambelton https://edge12-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-124a6a488e3135d01da680ed693e07faa03aea2febc9d5ca1a9667d47ee31be2_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge18-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-876e071924b5854d8479a34dc65d1acd0c19b310355640151cc1554dfc3daa62_trns_h264/playlist.m3u8
+Tue Oct 21 14:47:11 CST 2025
+Tue Oct 21 14:47:17 CST 2025
+Tue Oct 21 14:48:45 CST 2025
+删除taitehambelton 
+删除my_eyes_higher 
