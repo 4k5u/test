@@ -209,3 +209,8 @@ Tue Oct 21 13:47:31 CST 2025
 Tue Oct 21 13:48:50 CST 2025
 删除Sime_Naughty 
 删除taitehambelton 
+添加taitehambelton https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-124a6a488e3135d01da680ed693e07faa03aea2febc9d5ca1a9667d47ee31be2_trns_h264/playlist.m3u8
+Tue Oct 21 14:03:31 CST 2025
+Tue Oct 21 14:03:35 CST 2025
+Tue Oct 21 14:05:04 CST 2025
+删除taitehambelton 
