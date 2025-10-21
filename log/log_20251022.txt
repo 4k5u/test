@@ -43,3 +43,7 @@ Wed Oct 22 01:47:13 CST 2025
 Wed Oct 22 01:47:19 CST 2025
 Wed Oct 22 01:48:33 CST 2025
 删除saone451 
+Wed Oct 22 02:03:38 CST 2025
+Wed Oct 22 02:03:40 CST 2025
+Wed Oct 22 02:04:48 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
