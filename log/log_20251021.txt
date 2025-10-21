@@ -281,3 +281,17 @@ Tue Oct 21 16:03:54 CST 2025
 删除amilia4u 
 删除foxylovesyou 
 删除my_eyes_higher 
+添加taitehambelton https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-124a6a488e3135d01da680ed693e07faa03aea2febc9d5ca1a9667d47ee31be2_trns_h264/playlist.m3u8
+添加amilia4u https://edge5-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-89d15692b848626680c0d9a0d96abb773b657431459563f3522f63c7cfed8095_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge18-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e25728e586253d2ef57e259a31b7b81bd723e4760f07d66b5850736146e7ebd8_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-876e071924b5854d8479a34dc65d1acd0c19b310355640151cc1554dfc3daa62_trns_h264/playlist.m3u8
+Tue Oct 21 16:17:49 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.zbfMCuLFKqdC.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3piZk1DdUxGS3FkQyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNjhDRkYwQi03Qzc5LTRENEYtOERGMS02N0Q2QjcwMkVEQ0IiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTAzNDY3MywiZXhwIjoxNzYxMDM1MjczLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fWm1AyT0ZeVEXxHv6XEFm-jXFQQm7BkQuSRfhZgbRgd9VYHo-p3Wq63mXK34omLVXL18eQzhdRpEGEZGQ3R9fO50gglOJLeHGY-y6Flp4tTZVYKICmMBA3pLUh6tHHq9
+Tue Oct 21 16:18:00 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Tue Oct 21 16:19:33 CST 2025
+删除taitehambelton 
+删除amilia4u 
+删除foxylovesyou 
+删除my_eyes_higher 
+删除navi04 
