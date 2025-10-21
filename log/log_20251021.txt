@@ -517,3 +517,13 @@ Tue Oct 21 20:49:08 CST 2025
 删除navi04 
 删除eunyoung1238 
 删除hanny27 
+添加my_eyes_higher https://edge4-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-28ee6d4672bfd386c8c941c129b4bd77409c035c361525bc781d88cd35c123ab_trns_h264/playlist.m3u8
+Tue Oct 21 21:03:27 CST 2025
+Tue Oct 21 21:03:56 CST 2025
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.F09Htr_emGClKNZPbcoiZQHH7ahA6AZVA0kmHD6WdQyA4DATnm3ap2R7GVwLXsr2DVpidoudwzJ2S2wD6TQhCQEI29GvEF40VzutJfPbjNUvvm-cXGlAb_J4-tnvTya9RKtJIAifBRv_8j-YJy6zmwkBKQZjlZdTbkECBIgFopJVflwLlRRBG7ShmtLYIVMg
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Tue Oct 21 21:05:04 CST 2025
+删除my_eyes_higher 
+删除eunyoung1238 
+删除hanny27 
