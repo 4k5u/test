@@ -566,3 +566,11 @@ Tue Oct 21 22:03:51 CST 2025
 删除tyy750ii 
 删除eunyoung1238 
 删除hanny27 
+Tue Oct 21 22:18:06 CST 2025
+Tue Oct 21 22:18:30 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Tue Oct 21 22:19:43 CST 2025
+删除y1026 
+删除eunyoung1238 
+删除hanny27 
