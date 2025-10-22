@@ -411,3 +411,14 @@ Wed Oct 22 18:04:10 CST 2025
 删除foxylovesyou 
 删除my_eyes_higher 
 删除navi04 
+添加honey_pinkgreen https://edge14-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-3bb5ca7665eff6561d59fb4336b107ee529337b5ac7b156d76fa5672448000cb_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge10-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d36ef98c3c6dc7297ee5d4dbc731e3fe61e221fe4bf77c489f70ef0d0dd40346_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge16-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-61ebbe52670c633afff05352af229bcdf981166b702f3ef553a8fda99f5be700_trns_h264/playlist.m3u8
+Wed Oct 22 18:18:20 CST 2025
+Wed Oct 22 18:18:24 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Wed Oct 22 18:19:55 CST 2025
+删除honey_pinkgreen 
+删除foxylovesyou 
+删除my_eyes_higher 
+删除navi04 
