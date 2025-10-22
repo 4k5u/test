@@ -470,3 +470,10 @@ Wed Oct 22 19:33:43 CST 2025
 删除my_eyes_higher 
 删除navi04 
 删除hanny27 
+Wed Oct 22 19:47:13 CST 2025
+Wed Oct 22 19:47:23 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Wed Oct 22 19:48:44 CST 2025
+删除navi04 
+删除hanny27 
