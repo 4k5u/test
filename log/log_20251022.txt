@@ -353,3 +353,13 @@ Wed Oct 22 16:50:32 CST 2025
 删除taitehambelton 
 删除honey_pinkgreen 
 删除foxylovesyou 
+添加taitehambelton https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d133bc4cc15482e141613153e0fda8364a79ba786dcf9279e3a3ee413671b016_trns_h264/playlist.m3u8
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-3bb5ca7665eff6561d59fb4336b107ee529337b5ac7b156d76fa5672448000cb_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge5-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d36ef98c3c6dc7297ee5d4dbc731e3fe61e221fe4bf77c489f70ef0d0dd40346_trns_h264/playlist.m3u8
+Wed Oct 22 17:02:12 CST 2025
+Wed Oct 22 17:02:16 CST 2025
+Wed Oct 22 17:03:45 CST 2025
+删除sigmasian 
+删除taitehambelton 
+删除honey_pinkgreen 
+删除foxylovesyou 
