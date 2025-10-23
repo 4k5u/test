@@ -324,3 +324,9 @@ Thu Oct 23 17:48:25 CST 2025
 Thu Oct 23 17:48:29 CST 2025
 Thu Oct 23 17:49:46 CST 2025
 删除ake_mi 
+添加ake_mi https://edge16-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4595e5a8a287eb93b4a0b8e298ef98609780ff17f991e1317abc4169202d9b1_trns_h264/playlist.m3u8
+Thu Oct 23 18:02:16 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4Mzg5RjNBOC1DNUQwLTQzNEQtQkM1NC02MEU2NDc5Qjk2QUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTIxMzczNywiZXhwIjoxNzYxMjE0MzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gtYs5DbccWJitFWF5tDZ6v_8wZg8P-RtFngFs8gwr_423we679fzXUMf1w0Kexr1mEtE5wTBCAg7dyRn8fFJ4d-dD2xavdl7SRf4_jWvNUBxZRbwGmhEfkfTOqA4Ogu_
+Thu Oct 23 18:02:24 CST 2025
+Thu Oct 23 18:03:34 CST 2025
+删除ake_mi 
