@@ -41,3 +41,8 @@ Fri Oct 24 02:17:06 CST 2025
 Fri Oct 24 02:17:10 CST 2025
 Fri Oct 24 02:18:32 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Fri Oct 24 02:33:49 CST 2025
+Fri Oct 24 02:33:53 CST 2025
+Fri Oct 24 02:35:14 CST 2025
+删除y1026 
+删除honey_pinkgreen 
