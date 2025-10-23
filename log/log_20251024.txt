@@ -37,3 +37,7 @@ Fri Oct 24 02:02:10 CST 2025
 Fri Oct 24 02:03:34 CST 2025
 删除in0410 
 删除SanySenise 
+Fri Oct 24 02:17:06 CST 2025
+Fri Oct 24 02:17:10 CST 2025
+Fri Oct 24 02:18:32 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
