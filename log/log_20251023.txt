@@ -318,3 +318,9 @@ Thu Oct 23 17:35:08 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除ake_mi 
 删除foxylovesyou 
+添加ake_mi https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4595e5a8a287eb93b4a0b8e298ef98609780ff17f991e1317abc4169202d9b1_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge14-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0269cce28fea2480fccb8453701b036f10fe696946786c490bd94ba4154f7039_trns_h264/playlist.m3u8
+Thu Oct 23 17:48:25 CST 2025
+Thu Oct 23 17:48:29 CST 2025
+Thu Oct 23 17:49:46 CST 2025
+删除ake_mi 
