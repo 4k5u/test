@@ -345,3 +345,11 @@ Thu Oct 23 18:32:12 CST 2025
 Thu Oct 23 18:33:37 CST 2025
 删除ake_mi 
 删除foxylovesyou 
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4595e5a8a287eb93b4a0b8e298ef98609780ff17f991e1317abc4169202d9b1_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge16-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-0269cce28fea2480fccb8453701b036f10fe696946786c490bd94ba4154f7039_trns_h264/playlist.m3u8
+Thu Oct 23 18:47:18 CST 2025
+Thu Oct 23 18:47:24 CST 2025
+Thu Oct 23 18:48:39 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除ake_mi 
+删除foxylovesyou 
