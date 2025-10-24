@@ -277,3 +277,12 @@ Fri Oct 24 16:33:29 CST 2025
 删除taitehambelton 
 删除amilia4u 
 删除my_eyes_higher 
+添加amilia4u https://edge9-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-1ca73c7da37bc8a892a8c4ec2ac68aae001da62a18374d78778001c528381f14_trns_h264/playlist.m3u8
+添加ad0res https://edge12-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-efbed751cc3a14636984a3138e21a133ed330111980ec0f508ee1d00ab7889f2_trns_h264/playlist.m3u8
+添加ake_mi https://edge4-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-82e25d246be3568748878e7e1a4510c797eb8863bfa34449f6ddb749b3da2215_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge2-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-65617eb27e16cd7237895d2fc642fef8117c2eed1499287e38f301d51d4ea224_trns_h264/playlist.m3u8
+Fri Oct 24 16:47:10 CST 2025
+Fri Oct 24 16:47:10 CST 2025
+Fri Oct 24 16:48:37 CST 2025
+删除ad0res 
+删除my_eyes_higher 
