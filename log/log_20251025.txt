@@ -86,3 +86,9 @@ Sat Oct 25 04:47:08 CST 2025
 Sat Oct 25 04:47:10 CST 2025
 Sat Oct 25 04:48:35 CST 2025
 删除kiriko_chan 
+添加_meganmeow_ https://edge4-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-993e61c8ba8e57209d4b0a023aa04c40d42b2b6df671e1405368b2958f39d1d9_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge4-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 05:02:08 CST 2025
+Sat Oct 25 05:02:10 CST 2025
+Sat Oct 25 05:03:39 CST 2025
+删除kiriko_chan 
