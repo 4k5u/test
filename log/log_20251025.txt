@@ -75,3 +75,9 @@ Sat Oct 25 04:18:33 CST 2025
 Sat Oct 25 04:19:53 CST 2025
 删除alicelebel 
 删除kiriko_chan 
+添加mode_bad https://edge5-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-642f577d97bf1d1baaf72c76a6848ccbbd86964fc6eaa83e464ed2b898a072c1_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 04:33:35 CST 2025
+Sat Oct 25 04:33:37 CST 2025
+Sat Oct 25 04:35:02 CST 2025
+删除kiriko_chan 
