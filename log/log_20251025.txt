@@ -129,3 +129,9 @@ Sat Oct 25 06:33:28 CST 2025
 Sat Oct 25 06:33:30 CST 2025
 Sat Oct 25 06:34:55 CST 2025
 删除kiriko_chan 
+添加kiriko_chan https://edge8-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 06:47:16 CST 2025
+Sat Oct 25 06:47:18 CST 2025
+Sat Oct 25 06:48:51 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除kiriko_chan 
