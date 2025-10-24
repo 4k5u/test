@@ -215,3 +215,10 @@ Fri Oct 24 13:47:06 CST 2025
 Fri Oct 24 13:47:06 CST 2025
 Fri Oct 24 13:48:34 CST 2025
 删除Sime_Naughty 
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-65617eb27e16cd7237895d2fc642fef8117c2eed1499287e38f301d51d4ea224_trns_h264/playlist.m3u8
+Fri Oct 24 14:09:50 CST 2025
+Fri Oct 24 14:09:50 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YCBd0ecN7xgfHW4XUmn9BWrWKx55YLm99f3Oiqv9681B3ZnWqldFHuMMswjoHm2i_o4rAiKPRRqQlrVUxRIxEndemSRpLayx_cbuSASAngA_-2batIhLq672QQL6rSzmQL1k2Yq9MKR9lR25UDNYmrvv5EynjA_VeYQobAEj6JVwDfeiec0XgJlzVWhF2I_i
+Fri Oct 24 14:11:21 CST 2025
+删除IdaJonesy 
+删除my_eyes_higher 
