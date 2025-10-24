@@ -118,3 +118,9 @@ Sat Oct 25 06:03:01 CST 2025
 Sat Oct 25 06:03:07 CST 2025
 Sat Oct 25 06:04:32 CST 2025
 删除kiriko_chan 
+添加kiriko_chan https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 06:17:12 CST 2025
+Sat Oct 25 06:17:16 CST 2025
+Sat Oct 25 06:18:43 CST 2025
+删除moem9e9 
+删除kiriko_chan 
