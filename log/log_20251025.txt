@@ -92,3 +92,11 @@ Sat Oct 25 05:02:08 CST 2025
 Sat Oct 25 05:02:10 CST 2025
 Sat Oct 25 05:03:39 CST 2025
 删除kiriko_chan 
+添加sexygamesx https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-647cb78ab23de001331cdb72f30006e9a007901dbea891e9f6b82e9b357674c1_trns_h264/playlist.m3u8
+添加kiriko_chan https://edge10-nrt.live.mmcdn.com/live-hls/amlst:kiriko_chan-sd-2747d97ad09112832b76e1b693ef0db74e1b8465daa914958e2fda7fded0f78c_trns_h264/playlist.m3u8
+Sat Oct 25 05:18:34 CST 2025
+Sat Oct 25 05:18:36 CST 2025
+Sat Oct 25 05:19:58 CST 2025
+删除SanySenise 
+删除sexygamesx 
+删除kiriko_chan 
