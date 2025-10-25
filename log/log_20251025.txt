@@ -172,3 +172,8 @@ Sat Oct 25 08:50:01 CST 2025
 Sat Oct 25 09:04:30 CST 2025
 Sat Oct 25 09:04:32 CST 2025
 Sat Oct 25 09:05:57 CST 2025
+添加mazzanti_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-64ea554f4d6105a1d5c436c3744adbc2ba2e61be49b505dd3cf599c6a07edf25_trns_h264/playlist.m3u8
+Sat Oct 25 09:17:27 CST 2025
+Sat Oct 25 09:17:29 CST 2025
+Sat Oct 25 09:18:59 CST 2025
+删除mode_bad 
