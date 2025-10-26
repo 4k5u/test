@@ -206,3 +206,9 @@ Sun Oct 26 12:48:31 CST 2025
 Sun Oct 26 12:49:58 CST 2025
 删除hyuna0721 
 删除gusdk2362 
+Sun Oct 26 13:02:06 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJERjVENTY4Ri0xMEY2LTQ5MjUtOTlENS0yOEYzOEUxMzY5NEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTQ1NDkyNywiZXhwIjoxNzYxNDU1NTI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4l6od1p8orRmK3h0mPDM4I35IxQ_LqEyeLnJseSmbe9YUN2YFTOcnQ5DON1m-AKhDjbY_Qz6icOouVpc1W8dKAbsjH6pr3yAML5Idn1-Nvu0aqMN9tHZRsaqlNZRN9VQ
+Sun Oct 26 13:02:10 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Oct 26 13:03:34 CST 2025
+删除gusdk2362 
