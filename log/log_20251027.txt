@@ -252,3 +252,9 @@ Mon Oct 27 16:25:49 CST 2025
 Mon Oct 27 16:33:23 CST 2025
 Mon Oct 27 16:33:35 CST 2025
 Mon Oct 27 16:35:07 CST 2025
+添加honey_pinkgreen https://edge1-nrt.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-5b7bb79a03b14027870d59557e63a0b3123a4c28fb89f0aad77a77b9c79c9259_trns_h264/playlist.m3u8
+Mon Oct 27 16:47:33 CST 2025
+Mon Oct 27 16:47:45 CST 2025
+Mon Oct 27 16:49:09 CST 2025
+删除Lucille_evans 
+删除honey_pinkgreen 
