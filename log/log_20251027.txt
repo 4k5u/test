@@ -380,3 +380,10 @@ Mon Oct 27 20:39:13 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除navi04 
 删除hanny27 
+Mon Oct 27 20:47:06 CST 2025
+Mon Oct 27 20:47:30 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Mon Oct 27 20:48:56 CST 2025
+删除navi04 
+删除hanny27 
