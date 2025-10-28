@@ -266,3 +266,10 @@ Tue Oct 28 16:32:02 CST 2025
 Tue Oct 28 16:33:32 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除foxylovesyou 
+添加foxylovesyou https://edge4-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1904f376ff4d3666843f19aebd8a6bd38b98d82f6613ce8276cb353a7da53039_trns_h264/playlist.m3u8
+Tue Oct 28 16:47:19 CST 2025
+Tue Oct 28 16:47:27 CST 2025
+Tue Oct 28 16:48:48 CST 2025
+删除SanySenise 
+删除IdaJonesy 
+删除foxylovesyou 
