@@ -234,3 +234,8 @@ Tue Oct 28 15:17:15 CST 2025
 Tue Oct 28 15:18:43 CST 2025
 删除dkdlfjqm758 
 删除foxylovesyou 
+添加foxylovesyou https://edge8-nrt.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1904f376ff4d3666843f19aebd8a6bd38b98d82f6613ce8276cb353a7da53039_trns_h264/playlist.m3u8
+Tue Oct 28 15:33:49 CST 2025
+Tue Oct 28 15:33:55 CST 2025
+Tue Oct 28 15:35:20 CST 2025
+删除foxylovesyou 
