@@ -78,3 +78,7 @@ Wed Oct 29 04:49:43 CST 2025
 Wed Oct 29 05:03:31 CST 2025
 Wed Oct 29 05:03:31 CST 2025
 Wed Oct 29 05:05:00 CST 2025
+添加mode_bad https://edge16-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-ce036b9bb06f1d20a08366ced8a01d09c6f34856b31dc55b106ee150bb61948e_trns_h264/playlist.m3u8
+Wed Oct 29 05:20:21 CST 2025
+Wed Oct 29 05:20:21 CST 2025
+Wed Oct 29 05:21:53 CST 2025
