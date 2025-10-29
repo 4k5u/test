@@ -88,3 +88,7 @@ Thu Oct 30 05:06:07 CST 2025
 Thu Oct 30 05:17:03 CST 2025
 Thu Oct 30 05:17:07 CST 2025
 Thu Oct 30 05:18:34 CST 2025
+添加mode_bad https://edge2-nrt.live.mmcdn.com/live-hls/amlst:mode_bad-sd-874f68f1769f74ab55cb48363fe634bc783d802de2dafb22c089ae9d4a414c18_trns_h264/playlist.m3u8
+Thu Oct 30 05:33:26 CST 2025
+Thu Oct 30 05:33:30 CST 2025
+Thu Oct 30 05:34:50 CST 2025
