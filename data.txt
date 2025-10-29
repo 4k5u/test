@@ -4,3 +4,4 @@ ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=k
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-034dcfde6ef51e7e1795fc39301c623e8f5b6d14ba726ba6dafaa6215b0f9ea3_trns_h264/playlist.m3u8
+dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1na8kiMPoV3fSJ3OMYP770w8Avvh-U2aSXLUPaOd1Juz8VpB2OClfdgANTylz_UEhOaNc84a-NnupKfUOre_Mqsqu7J3k1DruMAlfDq8SRzb8VBFU0ivzu16c8EOpmeQGBYH9JO7BYUI2FPwCFlr1clNkuWqvcCyjGTXxDmxjxA4KT0Rr_7Dr3k5m6XI1dL4
