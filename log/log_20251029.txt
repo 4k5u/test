@@ -307,3 +307,9 @@ Wed Oct 29 17:18:40 CST 2025
 Wed Oct 29 17:20:13 CST 2025
 删除taitehambelton 
 删除yin2618 
+添加ake_mi https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c1f187e8c556b44898041db1bb966e11968ed97ab62175d1b42c86c99d15d147_trns_h264/playlist.m3u8
+Wed Oct 29 17:33:25 CST 2025
+Wed Oct 29 17:33:33 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Wed Oct 29 17:34:57 CST 2025
+删除yin2618 
