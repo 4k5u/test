@@ -357,3 +357,9 @@ Thu Oct 30 20:17:25 CST 2025
 Thu Oct 30 20:18:40 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除yin2618 
+Thu Oct 30 20:33:36 CST 2025
+Thu Oct 30 20:33:50 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Oct 30 20:35:06 CST 2025
+删除yourare 
+删除yin2618 
