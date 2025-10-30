@@ -188,3 +188,7 @@ Thu Oct 30 12:03:20 CST 2025
 Thu Oct 30 12:04:43 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除ddooyaa 
+Thu Oct 30 12:18:18 CST 2025
+Thu Oct 30 12:18:20 CST 2025
+Thu Oct 30 12:19:42 CST 2025
+删除nobleinc 
