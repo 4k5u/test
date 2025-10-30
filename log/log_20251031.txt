@@ -111,3 +111,7 @@ Fri Oct 31 06:32:08 CST 2025
 Fri Oct 31 06:32:12 CST 2025
 Fri Oct 31 06:33:29 CST 2025
 删除lolsos 
+Fri Oct 31 06:48:29 CST 2025
+Fri Oct 31 06:48:31 CST 2025
+Fri Oct 31 06:49:51 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
