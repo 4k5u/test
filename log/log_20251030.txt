@@ -248,3 +248,10 @@ Thu Oct 30 15:49:49 CST 2025
 删除ake_mi 
 删除Tmdgus5411 
 删除Xenomy 
+Thu Oct 30 16:03:21 CST 2025
+Thu Oct 30 16:03:25 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Oct 30 16:05:00 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除alicelebel 
+删除yin2618 
