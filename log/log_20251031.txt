@@ -301,3 +301,11 @@ Fri Oct 31 16:47:07 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
 Fri Oct 31 16:48:42 CST 2025
 删除yin2618 
+添加amilia4u https://edge1-nrt.live.mmcdn.com/live-hls/amlst:amilia4u-sd-68ddc6730cdc3ccf5dddbaa1ebde8a64d3e8b68c7f926293594c27fd612be7cb_trns_h264/playlist.m3u8
+Fri Oct 31 17:02:07 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9NSvvPFVsZaA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlOU3Z2UEZWc1phQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3MzcwNUEyNi0xQ0EzLTRDRjctQjczMi0wQkZFNTA1ODA5RUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MTkwMTMzNCwiZXhwIjoxNzYxOTAxOTM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.--ffsbqSB-mn8JdGAXpCyYxngADXlts1ofAa9CUcp7XJrA6G3HXZXy8ZGUJncA8856zWzd4warJc-b28RPz3Xz4OCCBwn8hhn4i6Magg2nQVbLSw3E7Oc4IUFDod7Ad3
+Fri Oct 31 17:02:18 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Fri Oct 31 17:03:45 CST 2025
+删除amilia4u 
+删除yin2618 
