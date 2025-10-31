@@ -454,3 +454,9 @@ Fri Oct 31 23:16:59 CST 2025
 Fri Oct 31 23:17:33 CST 2025
 Fri Oct 31 23:18:52 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+Fri Oct 31 23:32:11 CST 2025
+Fri Oct 31 23:32:43 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.loaFGmQvrNfInphLe7PXtDRvb6dJy8B9CD4bEAvInw31zk5NpFbtY0nnIAKvGzJ-MGpGVV2emdHVtwYdGxdR9EC9skW82V9HaVaX-tBqF5G01kKzVgnmegukAaCrKA9gFW4XupvH_E6-FxIoJjygxBT1rGGiyunP1Ei1dJtd3ZgGLzyqGWg8hXS1chgKrnU6
+Fri Oct 31 23:33:58 CST 2025
+删除ohhanna 
+删除Tmdgus5411 
