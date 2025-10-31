@@ -198,3 +198,8 @@ Fri Oct 31 12:47:02 CST 2025
 Fri Oct 31 12:47:05 CST 2025
 Fri Oct 31 12:48:37 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Oct 31 13:03:41 CST 2025
+Fri Oct 31 13:03:43 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Fri Oct 31 13:05:16 CST 2025
+删除yin2618 
