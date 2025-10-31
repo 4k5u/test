@@ -445,3 +445,8 @@ Fri Oct 31 22:47:49 CST 2025
 Fri Oct 31 22:48:58 CST 2025
 删除m0m099 
 删除ake_mi 
+Fri Oct 31 23:07:18 CST 2025
+Fri Oct 31 23:07:53 CST 2025
+Fri Oct 31 23:09:06 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除jodong2 
