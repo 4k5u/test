@@ -450,3 +450,7 @@ Fri Oct 31 23:07:53 CST 2025
 Fri Oct 31 23:09:06 CST 2025
 添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 删除jodong2 
+Fri Oct 31 23:16:59 CST 2025
+Fri Oct 31 23:17:33 CST 2025
+Fri Oct 31 23:18:52 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
