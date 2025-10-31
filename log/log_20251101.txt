@@ -32,3 +32,7 @@ Sat Nov 1 01:47:35 CST 2025
 Sat Nov 1 01:48:57 CST 2025
 删除saone451 
 删除Angel-Bei-bei 
+Sat Nov 1 02:03:39 CST 2025
+Sat Nov 1 02:03:57 CST 2025
+Sat Nov 1 02:05:17 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
