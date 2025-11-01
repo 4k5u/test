@@ -283,3 +283,10 @@ Sat Nov 1 16:18:47 CST 2025
 删除ake_mi 
 删除gusdk2362 
 删除yin2618 
+Sat Nov 1 16:33:00 CST 2025
+Sat Nov 1 16:33:02 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Nov 1 16:34:38 CST 2025
+删除gusdk2362 
+删除yin2618 
