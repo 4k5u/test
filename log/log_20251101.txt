@@ -220,3 +220,9 @@ Sat Nov 1 14:03:18 CST 2025
 Sat Nov 1 14:04:42 CST 2025
 删除_meganmeow_ 
 删除yin2618 
+添加my_eyes_higher https://edge6-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e5866e9cdb424d5818c515a50f9232fc7043b01ca9e2d03931c0135467318e48_trns_h264/playlist.m3u8
+Sat Nov 1 14:17:03 CST 2025
+Sat Nov 1 14:17:05 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Nov 1 14:18:35 CST 2025
+删除yin2618 
