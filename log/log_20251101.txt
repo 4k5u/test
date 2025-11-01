@@ -339,3 +339,9 @@ Sat Nov 1 18:17:10 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sat Nov 1 18:18:39 CST 2025
 删除yin2618 
+添加my_eyes_higher https://edge3-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8744d9fdf31d14c09e49db6cb824d34778a1364886bf01758bf6d87ea7848a85_trns_h264/playlist.m3u8
+Sat Nov 1 18:32:08 CST 2025
+Sat Nov 1 18:32:14 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Nov 1 18:33:55 CST 2025
+删除yin2618 
