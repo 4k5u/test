@@ -240,3 +240,12 @@ Sat Nov 1 15:04:15 CST 2025
 删除hyuna0721 
 删除taitehambelton 
 删除yin2618 
+添加taitehambelton https://edge9-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b100ecedacda2a441474bc61677df24f1dc8830f3c99dc734ae890286e7dc442_trns_h264/playlist.m3u8
+Sat Nov 1 15:18:15 CST 2025
+Sat Nov 1 15:18:15 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Sat Nov 1 15:19:51 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除gusdk2362 
+删除yin2618 
