@@ -142,3 +142,8 @@ Sun Nov 2 09:03:18 CST 2025
 Sun Nov 2 09:03:18 CST 2025
 Sun Nov 2 09:04:51 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+添加taitehambelton https://edge3-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0da99dbe94b8035c6be1634ee47e7eafd7e17140b08317a81b4dbf2fe7d5f779_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7c230b7fab5ef58f9dedda68b4748d0a6b4657fcd4f7291a638d16791741f46c_trns_h264/playlist.m3u8
+Sun Nov 2 09:18:35 CST 2025
+Sun Nov 2 09:18:35 CST 2025
+Sun Nov 2 09:20:05 CST 2025
