@@ -2,3 +2,4 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 _meganmeow_   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-f83f6cc992ecd774b1fa7cf17e0c6d89d8e387721f0f219ab7c006955cbc6261_trns_h264/playlist.m3u8
 mazzanti_   https://edge8-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7c230b7fab5ef58f9dedda68b4748d0a6b4657fcd4f7291a638d16791741f46c_trns_h264/playlist.m3u8
 taitehambelton   https://edge16-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0da99dbe94b8035c6be1634ee47e7eafd7e17140b08317a81b4dbf2fe7d5f779_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
