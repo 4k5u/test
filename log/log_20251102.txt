@@ -311,3 +311,13 @@ Sun Nov 2 17:34:05 CST 2025
 删除gusdk2362 
 删除hanny27 
 删除yin2618 
+Sun Nov 2 17:47:12 CST 2025
+Sun Nov 2 17:47:22 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Nov 2 17:49:02 CST 2025
+删除taitehambelton 
+删除gusdk2362 
+删除hanny27 
+删除yin2618 
