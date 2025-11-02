@@ -275,3 +275,9 @@ Sun Nov 2 16:18:25 CST 2025
 Sun Nov 2 16:20:04 CST 2025
 删除my_eyes_higher 
 删除gusdk2362 
+Sun Nov 2 16:32:00 CST 2025
+添加4ocari https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.9NSvvPFVsZaA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzlOU3Z2UEZWc1phQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0NDRBM0MxRC1GRjMwLTRCMDYtOEMzNi0zQjBBQjk0OEJCNzYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjA3MjMyNiwiZXhwIjoxNzYyMDcyOTI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qb2xWkMCPFIzFTYMk_ci2Dx00MeB8scR9NaBztYquqrZ5AwmyluElY56wQM2kZ_gkz8Fb91gyuSi3l7FkoPnn8O1IKONr4t6BfZESBrOCTOnjo18X3p600mrlJ5Tnh1W
+Sun Nov 2 16:32:10 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sun Nov 2 16:33:47 CST 2025
+删除gusdk2362 
