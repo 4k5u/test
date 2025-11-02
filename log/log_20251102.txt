@@ -530,3 +530,14 @@ Sun Nov 2 22:47:28 CST 2025
 Sun Nov 2 22:49:08 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
+Sun Nov 2 23:03:28 CST 2025
+Sun Nov 2 23:03:53 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sun Nov 2 23:05:19 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除jodong2 
+删除thgml1212 
+删除soso621 
+删除eunyoung1238 
+删除gusdk2362 
