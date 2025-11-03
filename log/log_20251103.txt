@@ -192,3 +192,7 @@ Mon Nov 3 10:48:11 CST 2025
 Mon Nov 3 10:49:41 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除mazzanti_ 
+添加taitehambelton https://edge7-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-0b669fed6f2f90603e58cb68ceb0754f29af61f603ac6d5c2e90547759cba678_trns_h264/playlist.m3u8
+Mon Nov 3 11:03:13 CST 2025
+Mon Nov 3 11:03:13 CST 2025
+Mon Nov 3 11:04:37 CST 2025
