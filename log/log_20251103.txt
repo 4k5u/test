@@ -131,3 +131,8 @@ Mon Nov 3 07:48:26 CST 2025
 Mon Nov 3 07:48:26 CST 2025
 Mon Nov 3 07:49:54 CST 2025
 删除Sime_Naughty 
+添加mazzanti_ https://edge14-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-16525fddf841019c253f3cfceca5d25820a37b6d9ce086ea7ff5c8ecf785dc70_trns_h264/playlist.m3u8
+Mon Nov 3 08:03:10 CST 2025
+Mon Nov 3 08:03:10 CST 2025
+Mon Nov 3 08:04:32 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
