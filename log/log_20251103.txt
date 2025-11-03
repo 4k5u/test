@@ -458,3 +458,9 @@ Mon Nov 3 22:18:45 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Mon Nov 3 22:20:00 CST 2025
 删除hanny27 
+Mon Nov 3 22:32:10 CST 2025
+Mon Nov 3 22:32:35 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Mon Nov 3 22:33:50 CST 2025
+删除redholic377 
+删除hanny27 
