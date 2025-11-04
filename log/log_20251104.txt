@@ -443,3 +443,11 @@ Tue Nov 4 21:48:44 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
 Tue Nov 4 21:50:09 CST 2025
 删除yin2618 
+Tue Nov 4 22:02:04 CST 2025
+Tue Nov 4 22:02:34 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Tue Nov 4 22:03:57 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除emforhs1919 
+删除362540 
+删除yin2618 
