@@ -219,3 +219,7 @@ Tue Nov 4 14:03:39 CST 2025
 Tue Nov 4 14:03:41 CST 2025
 Tue Nov 4 14:05:03 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加ake_mi https://edge5-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-25b822ad78f7a25ed79b66ea2eeb8526b4b4a0f8671d7dd8403723ce02102cb7_trns_h264/playlist.m3u8
+Tue Nov 4 14:18:58 CST 2025
+Tue Nov 4 14:19:00 CST 2025
+Tue Nov 4 14:20:23 CST 2025
