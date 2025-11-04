@@ -3,3 +3,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge9-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ff943db2273315ce9af10572e3b3c996027b9c04e049ca4d8c289efd1f3b8c20_trns_h264/playlist.m3u8
+taitehambelton   https://edge6-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-a7b913f7c4e8d5c3075d025fe3a27f990a0d90f9d42b8331930e155db91d3e7b_trns_h264/playlist.m3u8
