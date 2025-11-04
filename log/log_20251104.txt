@@ -167,3 +167,9 @@ Tue Nov 4 10:48:00 CST 2025
 Tue Nov 4 10:48:02 CST 2025
 Tue Nov 4 10:49:31 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mazzanti_ https://edge10-nrt.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-ff943db2273315ce9af10572e3b3c996027b9c04e049ca4d8c289efd1f3b8c20_trns_h264/playlist.m3u8
+Tue Nov 4 11:03:37 CST 2025
+Tue Nov 4 11:03:39 CST 2025
+Tue Nov 4 11:04:58 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除taitehambelton 
