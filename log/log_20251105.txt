@@ -191,3 +191,7 @@ Wed Nov 5 10:48:32 CST 2025
 Wed Nov 5 11:03:38 CST 2025
 Wed Nov 5 11:03:40 CST 2025
 Wed Nov 5 11:05:10 CST 2025
+Wed Nov 5 11:18:04 CST 2025
+Wed Nov 5 11:18:06 CST 2025
+Wed Nov 5 11:19:38 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
