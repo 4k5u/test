@@ -408,3 +408,11 @@ Wed Nov 5 21:18:35 CST 2025
 删除homegirl 
 删除ake_mi 
 删除hanny27 
+Wed Nov 5 21:33:26 CST 2025
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxOTkwMjlFNy1CQTMxLTRDNjktQTc0Ni1GQ0JERjdERTExRkQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjM0OTYzMCwiZXhwIjoxNzYyMzUwMjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.xoO5U5_HOvA-IOiw6RZsAkUWceu0RYyN7V1Zf4H1W161dCz85QYwpI-JSnkgVpTl0Yq4U-EMVqTZzwH3bXxJnS-3TZiTPnslHL9zQKlkr9AMMnKHWHnSUUjRo8MF2leJ
+Wed Nov 5 21:34:00 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Wed Nov 5 21:35:10 CST 2025
+删除tyy750ii 
+删除glglehddl 
+删除hanny27 
