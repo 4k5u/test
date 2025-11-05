@@ -296,3 +296,9 @@ Wed Nov 5 17:32:06 CST 2025
 添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Wed Nov 5 17:33:35 CST 2025
 删除m0m099 
+添加my_eyes_higher https://edge9-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7731be69b7072873936e70b47f4b1caa95d73519685bea4a89b203814231183d_trns_h264/playlist.m3u8
+Wed Nov 5 17:47:15 CST 2025
+Wed Nov 5 17:47:23 CST 2025
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Wed Nov 5 17:48:41 CST 2025
+删除m0m099 
