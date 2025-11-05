@@ -217,3 +217,7 @@ Wed Nov 5 12:47:02 CST 2025
 Wed Nov 5 12:47:04 CST 2025
 Wed Nov 5 12:48:32 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+添加ake_mi https://edge14-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e6720183f1cb284dbc2180ee82c83ddf39048b3b1e29945f49469ca23ebc5d46_trns_h264/playlist.m3u8
+Wed Nov 5 13:02:01 CST 2025
+Wed Nov 5 13:02:03 CST 2025
+Wed Nov 5 13:03:34 CST 2025
