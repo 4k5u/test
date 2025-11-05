@@ -213,3 +213,7 @@ Wed Nov 5 12:18:35 CST 2025
 Wed Nov 5 12:31:57 CST 2025
 Wed Nov 5 12:31:59 CST 2025
 Wed Nov 5 12:33:28 CST 2025
+Wed Nov 5 12:47:02 CST 2025
+Wed Nov 5 12:47:04 CST 2025
+Wed Nov 5 12:48:32 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
