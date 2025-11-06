@@ -240,3 +240,10 @@ Thu Nov 6 15:02:19 CST 2025
 Thu Nov 6 15:03:52 CST 2025
 删除dreamch77 
 删除ake_mi 
+添加taitehambelton https://edge1-nrt.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2f5ebbe1ea7f7fbee7907a4316de3b5c2d46109105f26b3c4c0d7e2fedd9f298_trns_h264/playlist.m3u8
+添加ake_mi https://edge18-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0e59e2008533816407e8c03116f3a66619f6c3b204ff1729abed1c3c9d023fd9_trns_h264/playlist.m3u8
+Thu Nov 6 15:17:10 CST 2025
+Thu Nov 6 15:17:12 CST 2025
+Thu Nov 6 15:18:40 CST 2025
+删除taitehambelton 
+删除ake_mi 
