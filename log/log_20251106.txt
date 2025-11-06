@@ -257,3 +257,8 @@ Thu Nov 6 15:33:16 CST 2025
 Thu Nov 6 15:34:36 CST 2025
 删除hyuna0721 
 删除ake_mi 
+添加ake_mi https://edge3-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-0e59e2008533816407e8c03116f3a66619f6c3b204ff1729abed1c3c9d023fd9_trns_h264/playlist.m3u8
+Thu Nov 6 15:48:42 CST 2025
+Thu Nov 6 15:48:46 CST 2025
+Thu Nov 6 15:50:11 CST 2025
+删除ake_mi 
