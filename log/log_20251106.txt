@@ -453,3 +453,12 @@ Thu Nov 6 21:02:23 CST 2025
 Thu Nov 6 21:03:46 CST 2025
 删除hanny27 
 删除yin2618 
+Thu Nov 6 21:18:09 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JtnSkDVgQOKA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0p0blNrRFZnUU9LQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMUQ4RUE2OS1GNERDLTQ3NDktODc0NS0wMjc0QThDN0IxNzAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjQzNTEwMywiZXhwIjoxNzYyNDM1NzAzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lZagyFZVZrpTq5qhE-IR6cnTzBw8R57TXTb4zqs0Qvnck98x6D_LgJpt-N_TuqPfvxycgv9RMxFKYy2r6p7CegjRjLZd6eh5JWnP-8vIa323QtJo9WJ95ZXsRrCrAfyO
+Thu Nov 6 21:18:30 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Thu Nov 6 21:19:41 CST 2025
+删除emforhs1919 
+删除hanny27 
+删除yin2618 
