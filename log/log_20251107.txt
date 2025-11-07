@@ -243,3 +243,8 @@ Fri Nov 7 15:36:30 CST 2025
 添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEQUMwRTgxNi0zMDNCLTQ4RkUtOTc0My05NjNBNUIyNDQ5NzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjUwMDk5MywiZXhwIjoxNzYyNTAxNTkzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.AW_B-oeDkDea07b73JHMhIJ1q33K6KYPaqhmaPa0pLe0pUfFBHy8OMaPiWkN28OJngr76y8ZcRdhMkxyjUfHcLxXXqWEetkHPqZfRy0Vy53_kz9BjGPzucOYWcbWqBsn
 Fri Nov 7 15:36:38 CST 2025
 Fri Nov 7 15:37:55 CST 2025
+Fri Nov 7 15:47:02 CST 2025
+Fri Nov 7 15:47:08 CST 2025
+Fri Nov 7 15:48:34 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除yeonnacho 
