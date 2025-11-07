@@ -443,3 +443,8 @@ Fri Nov 7 23:02:37 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Fri Nov 7 23:03:48 CST 2025
 删除eunyoung1238 
+Fri Nov 7 23:17:15 CST 2025
+Fri Nov 7 23:17:47 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Fri Nov 7 23:19:00 CST 2025
+删除eunyoung1238 
