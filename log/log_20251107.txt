@@ -448,3 +448,12 @@ Fri Nov 7 23:17:47 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
 Fri Nov 7 23:19:00 CST 2025
 删除eunyoung1238 
+Fri Nov 7 23:32:10 CST 2025
+Fri Nov 7 23:32:37 CST 2025
+添加yeonnacho https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.tTkbTLg3vpzH_9J3k9ap8i3nfMO73oUNGoJb5YSErnRHNchCwwwN1o1D7cNjeEjeKdgAmcF18tGEbph4mlZQXi35ujRItA7CxX048raf3LqgX-uTDVfMxvgLyg6QnyynmPenBjJsRUxmA70UbuNf7XEfXAvDS2Za3ie_9-8XXsNdvuCwyhRHBUKzh4RhNheG
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Nov 7 23:33:56 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除ohhanna 
+删除3ww1ww3 
+删除eunyoung1238 
