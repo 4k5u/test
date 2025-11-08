@@ -216,3 +216,7 @@ Sat Nov 8 12:59:27 CST 2025
 Sat Nov 8 13:00:54 CST 2025
 删除ddooyaa 
 删除sigmasian 
+Sat Nov 8 13:28:21 CST 2025
+Sat Nov 8 13:28:21 CST 2025
+Sat Nov 8 13:29:44 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
