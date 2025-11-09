@@ -241,3 +241,11 @@ Sun Nov 9 20:35:33 CST 2025
 Sun Nov 9 20:36:42 CST 2025
 删除my_eyes_higher 
 删除hanny27 
+添加my_eyes_higher https://edge7-nrt.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7e4664b8c64a72f822891b3b27196ec19d24c07a126fd9478b56ff63bcc2af88_trns_h264/playlist.m3u8
+Sun Nov 9 20:48:05 CST 2025
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3NDE1NjdFNS1GODRFLTQwMUUtODYzRC1BNDlEN0E1RUIyQUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjY5MjQ4OSwiZXhwIjoxNzYyNjkzMDg5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.lV-c8iLXIppn-LBbhMEoSxpfrbvN_-sLREfvmYMof7gFtgsDR_yplLZQrc7ufTcgvls0Jjo4c8f4icBlr9xzvW9CELyplPp2ms7MO6uRW9LPhL_nQ969MtNJVkuOqRZp
+Sun Nov 9 20:48:32 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Sun Nov 9 20:49:47 CST 2025
+删除my_eyes_higher 
+删除hanny27 
