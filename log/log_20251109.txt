@@ -215,3 +215,9 @@ Sun Nov 9 19:32:10 CST 2025
 Sun Nov 9 19:32:26 CST 2025
 Sun Nov 9 19:33:35 CST 2025
 删除dkdlfjqm758 
+添加ad0res https://edge2-nrt.live.mmcdn.com/live-hls/amlst:ad0res-sd-a91d331b562437e4380709ccfff7a0a69389ef0e8dd9a0245e479ebc6a111cd2_trns_h264/playlist.m3u8
+Sun Nov 9 19:47:20 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4MjM3MTRGNy0zMDk4LTQ1QjgtQUJCNy1EQkE3QTU1NThDMzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjY4ODg0NywiZXhwIjoxNzYyNjg5NDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SQjsYaBn7y6nqecxc0NNqHSih1oHhm8Avq7O6j4NoPHCIVC0BI-7I8-BvG6F-HzLAJ7_Q6kPJ7I51gCjD3VF7HYiKACPFEEGqQGAhK93KAy1KtZoqSsoRPouG8ndVq9M
+Sun Nov 9 19:47:40 CST 2025
+Sun Nov 9 19:48:55 CST 2025
+删除ad0res 
