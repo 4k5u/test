@@ -267,3 +267,10 @@ Sun Nov 9 21:32:28 CST 2025
 Sun Nov 9 21:33:34 CST 2025
 删除ake_mi 
 删除hanny27 
+Sun Nov 9 21:47:02 CST 2025
+添加yourare https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.DD3Y8Udnr8H0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0REM1k4VWRucjhIMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QjIxRDQ4NS1GQTdDLTRGMEMtOEQyOC0zNTk2QTk1MUQ2QTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MjY5NjAzMiwiZXhwIjoxNzYyNjk2NjMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.4x6yCaNSwMYb6JgGkxU2-BjwbYCzcabP6uR_NrYUwse0UYKdV5O3O5f8gfbu4CY5udkufDO_TPrbjbwNXgIT9-ERgtB4rtRxY3Q4hto7HQ_AsM7Y69F0_JnTWt5LM-hC
+Sun Nov 9 21:47:29 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Sun Nov 9 21:48:46 CST 2025
+删除4ocari 
+删除hanny27 
