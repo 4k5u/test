@@ -210,3 +210,8 @@ Sun Nov 9 19:17:41 CST 2025
 Sun Nov 9 19:18:54 CST 2025
 删除ddooyaa 
 删除ad0res 
+添加ake_mi https://edge9-nrt.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c253d3124629d261a4ab38f0aa07108e247a0638e065a932ff993725b404ede0_trns_h264/playlist.m3u8
+Sun Nov 9 19:32:10 CST 2025
+Sun Nov 9 19:32:26 CST 2025
+Sun Nov 9 19:33:35 CST 2025
+删除dkdlfjqm758 
