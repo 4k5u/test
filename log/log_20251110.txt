@@ -281,3 +281,7 @@ Mon Nov 10 16:46:58 CST 2025
 Mon Nov 10 16:47:08 CST 2025
 Mon Nov 10 16:48:34 CST 2025
 删除Xenomy 
+Mon Nov 10 17:02:04 CST 2025
+Mon Nov 10 17:02:14 CST 2025
+Mon Nov 10 17:03:34 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
