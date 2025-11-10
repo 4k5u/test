@@ -291,3 +291,10 @@ Mon Nov 10 17:19:16 CST 2025
 Mon Nov 10 17:32:01 CST 2025
 Mon Nov 10 17:32:11 CST 2025
 Mon Nov 10 17:33:39 CST 2025
+添加ake_mi https://edge3-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7894562ec31b3a480d51dac1d4f4c6046d791198bd20849a06066cbb2d145573_trns_h264/playlist.m3u8
+Mon Nov 10 17:47:06 CST 2025
+Mon Nov 10 17:47:17 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Mon Nov 10 17:48:42 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除yin2618 
