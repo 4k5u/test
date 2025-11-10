@@ -303,3 +303,9 @@ Mon Nov 10 18:02:11 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
 Mon Nov 10 18:03:43 CST 2025
 删除yin2618 
+Mon Nov 10 18:17:16 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1NDE2RjI3QS02MUI5LTQ5QUEtOUM4NC1GQzYzRjE0NjlDNEIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mjc2OTg0NywiZXhwIjoxNzYyNzcwNDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.gX3ASf60QMizjmn6OYT7rx9NMxAciAEPV_pPmsZSVA6G-eTAAbeofZsu6oRfK0942BcVT4zdWVovXODXq65otZHkJEO58VGr2K8scKPjUcOQcnb_a277hRZ0kJfgwmy4
+Mon Nov 10 18:17:30 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Mon Nov 10 18:18:53 CST 2025
+删除yin2618 
