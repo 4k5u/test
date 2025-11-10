@@ -268,3 +268,8 @@ Mon Nov 10 16:02:20 CST 2025
 Mon Nov 10 16:03:53 CST 2025
 删除alicelebel 
 删除leelate 
+Mon Nov 10 16:17:11 CST 2025
+Mon Nov 10 16:17:19 CST 2025
+Mon Nov 10 16:18:47 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除ddooyaa 
