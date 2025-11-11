@@ -441,3 +441,9 @@ Tue Nov 11 22:32:45 CST 2025
 Tue Nov 11 22:33:42 CST 2025
 删除alswl2208 
 删除leelate 
+Tue Nov 11 22:47:15 CST 2025
+Tue Nov 11 22:47:49 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Tue Nov 11 22:48:54 CST 2025
+删除imissy0u 
+删除leelate 
