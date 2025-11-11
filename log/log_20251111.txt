@@ -333,3 +333,9 @@ Tue Nov 11 18:47:31 CST 2025
 Tue Nov 11 18:48:48 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除navi04 
+添加ake_mi https://edge3-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-4f38e01bab4dfeb8ee89cd4ad3d681f1d0bd77fe6ddee931b6d3a267bb9981a4_trns_h264/playlist.m3u8
+Tue Nov 11 19:02:07 CST 2025
+Tue Nov 11 19:02:23 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Tue Nov 11 19:03:33 CST 2025
+删除navi04 
