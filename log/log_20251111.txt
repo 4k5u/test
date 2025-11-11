@@ -326,3 +326,10 @@ Tue Nov 11 18:33:32 CST 2025
 Tue Nov 11 18:34:49 CST 2025
 删除my_eyes_higher 
 删除navi04 
+添加my_eyes_higher https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c274fa93ad967106fbeddd95ce03ba1b26d041b486d4705fb6e035062f902376_trns_h264/playlist.m3u8
+Tue Nov 11 18:47:15 CST 2025
+Tue Nov 11 18:47:31 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Tue Nov 11 18:48:48 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除navi04 
