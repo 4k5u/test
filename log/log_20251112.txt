@@ -291,3 +291,10 @@ Wed Nov 12 15:47:06 CST 2025
 Wed Nov 12 15:47:12 CST 2025
 Wed Nov 12 15:48:48 CST 2025
 删除dkdlfjqm758 
+Wed Nov 12 16:02:15 CST 2025
+Wed Nov 12 16:02:21 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Wed Nov 12 16:03:54 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除alicelebel 
+删除navi04 
