@@ -298,3 +298,9 @@ Wed Nov 12 16:03:54 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除alicelebel 
 删除navi04 
+Wed Nov 12 16:17:21 CST 2025
+Wed Nov 12 16:17:28 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Wed Nov 12 16:18:54 CST 2025
+删除my_eyes_higher 
+删除navi04 
