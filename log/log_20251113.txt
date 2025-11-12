@@ -29,3 +29,8 @@ Thu Nov 13 01:33:16 CST 2025
 Thu Nov 13 01:34:39 CST 2025
 删除leelate 
 删除362540 
+Thu Nov 13 01:47:03 CST 2025
+Thu Nov 13 01:47:21 CST 2025
+Thu Nov 13 01:48:48 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除saone451 
