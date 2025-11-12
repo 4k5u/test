@@ -465,3 +465,11 @@ Wed Nov 12 21:04:18 CST 2025
 删除my_eyes_higher 
 删除hanny27 
 删除yin2618 
+添加iminako https://edge23-sea.live.mmcdn.com/live-hls/amlst:iminako-sd-7351dc3839d4c013d1b537631b801055deff6b3221a03ad1b6df1e63ad5ac061_trns_h264/playlist.m3u8
+Wed Nov 12 21:17:06 CST 2025
+Wed Nov 12 21:17:30 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Wed Nov 12 21:18:47 CST 2025
+删除hanny27 
+删除yin2618 
