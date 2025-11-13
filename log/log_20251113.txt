@@ -226,3 +226,10 @@ Thu Nov 13 13:18:41 CST 2025
 删除IdaJonesy 
 删除taitehambelton 
 删除gusdk2362 
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-e0a3b9929d4f35092dec17b05f57612cfd98a4cca11ce78bf05ddeb8d3caceaa_trns_h264/playlist.m3u8
+添加ake_mi https://edge21-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-3b7e3bef1778a32d2bafa84392e0b75544b3f169102a544c730c37d5b14c9794_trns_h264/playlist.m3u8
+Thu Nov 13 13:32:16 CST 2025
+Thu Nov 13 13:32:20 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 13:33:54 CST 2025
+删除gusdk2362 
