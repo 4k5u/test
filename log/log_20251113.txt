@@ -524,3 +524,10 @@ Thu Nov 13 22:48:38 CST 2025
 删除imissy0u 
 删除Angel-Bei-bei 
 删除yin2618 
+Thu Nov 13 23:02:10 CST 2025
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UF2fRqfPd4Dv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VGMmZScWZQZDREdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRTQ4NjBGMS0xM0U4LTQ0NjgtOEM0NS01RThEQUFGM0Q0MzkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzA0NjEzMiwiZXhwIjoxNzYzMDQ2NzMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QcPs0-uOz0ZhbzGvBj2U-SNsrNdf9uADM4pG3e9djARQvM3bgcA8t_jLzsmr9HApLCgbNcJzn0sCOnfA8J6yVx-qpBw9KapacjhQTzL1kCbuMtD3Z-PVKVpMxXSPAbhn
+Thu Nov 13 23:02:30 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 23:03:42 CST 2025
+删除somsom0339 
+删除yin2618 
