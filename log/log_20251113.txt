@@ -288,3 +288,11 @@ Thu Nov 13 15:47:04 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
 Thu Nov 13 15:48:39 CST 2025
 删除gusdk2362 
+Thu Nov 13 16:02:11 CST 2025
+Thu Nov 13 16:02:15 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 16:03:43 CST 2025
+删除alicelebel 
+删除Tmdgus5411 
+删除lolsos 
+删除gusdk2362 
