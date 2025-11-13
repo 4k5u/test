@@ -341,3 +341,11 @@ Thu Nov 13 17:34:01 CST 2025
 删除taitehambelton 
 删除navi04 
 删除gusdk2362 
+Thu Nov 13 17:48:09 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzMDkzMDZCNC0wREQzLTQxNzctQTY3My1DRTY4Rjc3NTJGQUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzAyNzI5NSwiZXhwIjoxNzYzMDI3ODk1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.959Q9Qz-i4hmxmwZijyYvQiSV_83Ad0g352HW6oILNceVdkKOvygUXYxgFM4BO4JSQH6YJJPMDuqrs759Q_5JHXcUntHa7qM5380V1pF1HfRYd2lkU7EQPJw16ngdbqq
+Thu Nov 13 17:48:18 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 17:49:41 CST 2025
+删除navi04 
+删除gusdk2362 
