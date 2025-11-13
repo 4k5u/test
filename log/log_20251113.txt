@@ -308,3 +308,11 @@ Thu Nov 13 16:32:05 CST 2025
 Thu Nov 13 16:33:36 CST 2025
 删除yeonnacho 
 删除gusdk2362 
+Thu Nov 13 16:47:15 CST 2025
+Thu Nov 13 16:47:19 CST 2025
+添加yeonnacho ?aid=.A32.pxqRXFPZNcY9Qg1.Kbm9FMgn_Dv_b9lokvv9o1QrUvoEHDfDBp_OYKcvikbL2lYmijUVM6MKYowGjSLTKFKenEYj5bANvvI9ckyFkzugNsGWhBUjvH7IrOSp26j44n8IrDuq-moMjWoJVXpQ4-VU-SAwbxDO4iTglVzgdbD2htHiCIM-PX1EU-qHXlVwFqqVsO0EB8Cc3Z7klbDq
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 16:48:51 CST 2025
+删除sigmasian 
+删除yeonnacho 
+删除gusdk2362 
