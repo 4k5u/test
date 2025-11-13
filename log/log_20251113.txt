@@ -275,3 +275,10 @@ Thu Nov 13 15:17:17 CST 2025
 Thu Nov 13 15:18:42 CST 2025
 删除taitehambelton 
 删除gusdk2362 
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-abb965d154572e6147b52e2482ad81007dd0b24f2fccf5d6c1e54fa08de0a2fd_trns_h264/playlist.m3u8
+Thu Nov 13 15:32:00 CST 2025
+Thu Nov 13 15:32:04 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Thu Nov 13 15:33:32 CST 2025
+删除y1026 
+删除gusdk2362 
