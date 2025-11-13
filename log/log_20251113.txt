@@ -183,3 +183,8 @@ Thu Nov 13 11:17:01 CST 2025
 Thu Nov 13 11:17:03 CST 2025
 Thu Nov 13 11:18:36 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-e0a3b9929d4f35092dec17b05f57612cfd98a4cca11ce78bf05ddeb8d3caceaa_trns_h264/playlist.m3u8
+Thu Nov 13 11:32:21 CST 2025
+Thu Nov 13 11:32:23 CST 2025
+Thu Nov 13 11:33:45 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
