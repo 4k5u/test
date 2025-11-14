@@ -77,3 +77,12 @@ Sat Nov 15 03:17:09 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
 Sat Nov 15 03:18:30 CST 2025
 删除gusdk2362 
+Sat Nov 15 03:31:56 CST 2025
+Sat Nov 15 03:32:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 03:33:35 CST 2025
+删除nobleinc 
+删除Hahaha_ha2 
+删除imsocutesexy 
+删除smmms2002 
+删除gusdk2362 
