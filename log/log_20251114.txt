@@ -167,3 +167,7 @@ Fri Nov 14 09:47:08 CST 2025
 Fri Nov 14 09:47:10 CST 2025
 Fri Nov 14 09:48:42 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-fadd33b1afb811bf84b7faac000e637d7996cba75e32cc49ad1c72fcdcf429fd_trns_h264/playlist.m3u8
+Fri Nov 14 10:02:10 CST 2025
+Fri Nov 14 10:02:12 CST 2025
+Fri Nov 14 10:03:40 CST 2025
