@@ -101,3 +101,8 @@ Sat Nov 15 04:01:58 CST 2025
 Sat Nov 15 04:03:39 CST 2025
 删除moem9e9 
 删除gusdk2362 
+Sat Nov 15 04:17:02 CST 2025
+Sat Nov 15 04:17:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 04:18:45 CST 2025
+删除gusdk2362 
