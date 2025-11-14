@@ -44,3 +44,8 @@ Sat Nov 15 01:47:21 CST 2025
 Sat Nov 15 01:48:39 CST 2025
 删除saone451 
 删除gusdk2362 
+Sat Nov 15 02:01:58 CST 2025
+Sat Nov 15 02:02:14 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 02:03:40 CST 2025
+删除gusdk2362 
