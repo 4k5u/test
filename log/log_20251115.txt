@@ -173,3 +173,7 @@ Sat Nov 15 08:46:56 CST 2025
 Sat Nov 15 08:47:01 CST 2025
 Sat Nov 15 08:48:32 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加mazzanti_ https://edge15-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-308833f562ffd7fb6e56674cdace90e8a951caf66a2d581856edd6bc4b8c05e3_trns_h264/playlist.m3u8
+Sat Nov 15 09:01:57 CST 2025
+Sat Nov 15 09:02:01 CST 2025
+Sat Nov 15 09:03:30 CST 2025
