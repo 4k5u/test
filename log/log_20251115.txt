@@ -318,3 +318,9 @@ Sat Nov 15 15:17:07 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
 Sat Nov 15 15:18:35 CST 2025
 删除hanny27 
+添加ake_mi https://edge24-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-a4eae6d10819ce4093e7a501351b3948bbb3eca37d42dabe34427e89c880a91c_trns_h264/playlist.m3u8
+Sat Nov 15 15:32:02 CST 2025
+Sat Nov 15 15:32:07 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 15:33:36 CST 2025
+删除hanny27 
