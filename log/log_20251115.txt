@@ -312,3 +312,9 @@ Sat Nov 15 15:02:04 CST 2025
 Sat Nov 15 15:03:32 CST 2025
 删除taitehambelton 
 删除hanny27 
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-bb112d7677b160f9e22ff46c5e5077460501f674035f43d90226e318a9e4138f_trns_h264/playlist.m3u8
+Sat Nov 15 15:17:03 CST 2025
+Sat Nov 15 15:17:07 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 15:18:35 CST 2025
+删除hanny27 
