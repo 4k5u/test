@@ -370,3 +370,9 @@ Sat Nov 15 17:33:31 CST 2025
 删除mikio_san 
 删除ad0res 
 删除my_eyes_higher 
+添加ad0res https://edge14-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-1164ea4493b818854518507ca7b1d2c746118fef676d0821eefbd89954a671c1_trns_h264/playlist.m3u8
+Sat Nov 15 17:46:50 CST 2025
+Sat Nov 15 17:46:56 CST 2025
+Sat Nov 15 17:48:20 CST 2025
+删除y1026 
+删除taitehambelton 
