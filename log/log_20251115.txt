@@ -447,3 +447,7 @@ Sat Nov 15 21:16:53 CST 2025
 Sat Nov 15 21:17:21 CST 2025
 添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.MASp8FG_ujE3-2T6VH_jNfNbh3LPdt2ORADgvmSbCGodF-CR9nfW3dNVf-lFBFLF6TMHbscTDGOVTpcjDGFxsXwZE6U0jiiMfpf54XpaMfwKEYyQh2t0nNtBYHQ8-MnJPh3qYTZyAk4XdgwcAwaCxNpmrh3scFFoVg6D6i8Sd9St53gRBlKg8eIb4dvT2WAG
 Sat Nov 15 21:18:45 CST 2025
+Sat Nov 15 21:32:04 CST 2025
+Sat Nov 15 21:32:30 CST 2025
+Sat Nov 15 21:33:44 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
