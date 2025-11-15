@@ -249,3 +249,10 @@ Sat Nov 15 12:47:01 CST 2025
 Sat Nov 15 12:48:34 CST 2025
 删除namuh0926 
 删除hanny27 
+添加iminako https://edge7-sea.live.mmcdn.com/live-hls/amlst:iminako-sd-152d10e84178f00c7203fe7d1ea8aafeeb7a4f48b4c2a590334262c137e1e1ed_trns_h264/playlist.m3u8
+Sat Nov 15 13:01:55 CST 2025
+Sat Nov 15 13:01:57 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 13:03:32 CST 2025
+删除mazzanti_ 
+删除hanny27 
