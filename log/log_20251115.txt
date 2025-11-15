@@ -228,3 +228,10 @@ Sat Nov 15 12:01:52 CST 2025
 Sat Nov 15 12:03:21 CST 2025
 删除taitehambelton 
 删除Ryo-sama 
+添加taitehambelton https://edge4-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-618172979bdf878c462f4ca3d4efe23bf1cf1af75fbb11784f68a8ac2095a471_trns_h264/playlist.m3u8
+Sat Nov 15 12:17:01 CST 2025
+Sat Nov 15 12:17:03 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Nov 15 12:18:40 CST 2025
+删除taitehambelton 
+删除hanny27 
