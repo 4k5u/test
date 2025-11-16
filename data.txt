@@ -4,3 +4,4 @@ yeonnacho   https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_p
 taitehambelton   https://edge24-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d78a6ba0a72d20df4ae5f06e62734a29e369057d7136d15d4637bc1081e150b7_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge18-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-0af4bc2bab0900f3a8f71de43208b20dffa1dc0074661a303eb413c2746ba3a8_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
