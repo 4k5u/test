@@ -217,3 +217,10 @@ Sun Nov 16 14:02:03 CST 2025
 Sun Nov 16 14:03:25 CST 2025
 删除naras2 
 删除gusdk2362 
+添加my_eyes_higher https://edge11-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c89c40dab213b66ee4299df8adc4f61430c95f15bbfdc7aad1c87c4d6ccfe162_trns_h264/playlist.m3u8
+Sun Nov 16 14:17:11 CST 2025
+Sun Nov 16 14:17:13 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sun Nov 16 14:18:45 CST 2025
+删除mazzanti_ 
+删除gusdk2362 
