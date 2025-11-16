@@ -224,3 +224,9 @@ Sun Nov 16 14:17:13 CST 2025
 Sun Nov 16 14:18:45 CST 2025
 删除mazzanti_ 
 删除gusdk2362 
+Sun Nov 16 14:32:03 CST 2025
+Sun Nov 16 14:32:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Sun Nov 16 14:33:35 CST 2025
+删除yeonnacho 
+删除gusdk2362 
