@@ -461,3 +461,11 @@ Sun Nov 16 22:47:18 CST 2025
 Sun Nov 16 22:48:24 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除redholic377 
+Sun Nov 16 23:01:59 CST 2025
+Sun Nov 16 23:02:19 CST 2025
+Sun Nov 16 23:03:24 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除jodong2 
+删除thgml1212 
+删除namuh0926 
+删除imanatural 
