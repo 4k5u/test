@@ -4,3 +4,10 @@ Tue Nov 18 00:02:13 CST 2025
 Tue Nov 18 00:03:29 CST 2025
 删除flower1023 
 删除leelate 
+Tue Nov 18 00:16:56 CST 2025
+Tue Nov 18 00:17:08 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 00:18:35 CST 2025
+删除dign1461 
+删除howru010 
+删除leelate 
