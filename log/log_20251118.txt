@@ -90,3 +90,7 @@ Tue Nov 18 05:31:50 CST 2025
 Tue Nov 18 05:31:56 CST 2025
 Tue Nov 18 05:33:27 CST 2025
 删除moem9e9 
+Tue Nov 18 05:46:49 CST 2025
+Tue Nov 18 05:46:53 CST 2025
+Tue Nov 18 05:48:25 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
