@@ -376,3 +376,12 @@ Mon Nov 17 21:33:33 CST 2025
 删除tyy750ii 
 删除dks2003 
 删除yin2618 
+添加ake_mi https://edge11-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6e20b274383d829e2f703177564199e7209c7d9aa02e280c11adf507bacbe554_trns_h264/playlist.m3u8
+Mon Nov 17 21:46:55 CST 2025
+Mon Nov 17 21:47:16 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Mon Nov 17 21:48:35 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除leelate 
+删除yin2618 
