@@ -339,3 +339,13 @@ Mon Nov 17 20:17:27 CST 2025
 Mon Nov 17 20:18:57 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除yin2618 
+Mon Nov 17 20:31:40 CST 2025
+Mon Nov 17 20:32:02 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Mon Nov 17 20:33:24 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除amilia4u 
+删除homegirl 
+删除my_eyes_higher 
+删除redholic377 
+删除yin2618 
