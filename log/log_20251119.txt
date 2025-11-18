@@ -49,3 +49,8 @@ Wed Nov 19 02:31:54 CST 2025
 Wed Nov 19 02:32:00 CST 2025
 Wed Nov 19 02:33:17 CST 2025
 删除alicelebel 
+Wed Nov 19 02:46:49 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBOTBDNDdGQi03REI5LTRCMjktOEMxMy0yOEJGQzM2MTlBNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzQ5MTYxNywiZXhwIjoxNzYzNDkyMjE3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.59ZvhiMfJXYlcKp2ZtxzicGg6zN2_0TQfjTb1z_w5j2w_vAMZhSR-TmNPM1oKI8UPSImMM_ktap9npVaVsmVu7U19Tqub2Avio3pkiseP-cpnXr03o-vfM5gjbypB6oO
+Wed Nov 19 02:47:00 CST 2025
+Wed Nov 19 02:48:15 CST 2025
+删除Tmdgus5411 
