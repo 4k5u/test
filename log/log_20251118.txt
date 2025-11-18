@@ -397,3 +397,11 @@ Tue Nov 18 21:33:33 CST 2025
 删除tyy750ii 
 删除alswl2208 
 删除hanny27 
+Tue Nov 18 21:47:00 CST 2025
+Tue Nov 18 21:47:01 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 21:48:17 CST 2025
+删除foxylovesyou 
+删除alswl2208 
+删除hanny27 
