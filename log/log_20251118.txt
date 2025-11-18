@@ -251,3 +251,8 @@ Tue Nov 18 16:03:38 CST 2025
 Tue Nov 18 16:16:54 CST 2025
 Tue Nov 18 16:16:58 CST 2025
 Tue Nov 18 16:18:21 CST 2025
+添加foxylovesyou https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-3ea88cc5adee9234f67ce7481063bff2f8e36b0eef6298f6bedd3baa4a10df1b_trns_h264/playlist.m3u8
+Tue Nov 18 16:32:02 CST 2025
+Tue Nov 18 16:32:06 CST 2025
+Tue Nov 18 16:33:32 CST 2025
+删除my_eyes_higher 
