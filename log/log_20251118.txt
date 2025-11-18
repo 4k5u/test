@@ -442,3 +442,11 @@ Tue Nov 18 22:47:35 CST 2025
 Tue Nov 18 22:48:57 CST 2025
 删除gusdk2362 
 删除hanny27 
+Tue Nov 18 23:02:15 CST 2025
+Tue Nov 18 23:02:15 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 23:03:36 CST 2025
+删除jodong2 
+删除gusdk2362 
+删除hanny27 
