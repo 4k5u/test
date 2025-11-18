@@ -121,3 +121,7 @@ Tue Nov 18 07:46:50 CST 2025
 Tue Nov 18 07:46:52 CST 2025
 Tue Nov 18 07:48:24 CST 2025
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+Tue Nov 18 08:01:55 CST 2025
+Tue Nov 18 08:01:57 CST 2025
+Tue Nov 18 08:03:19 CST 2025
+删除IdaJonesy 
