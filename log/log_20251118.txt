@@ -414,3 +414,11 @@ Tue Nov 18 22:03:26 CST 2025
 删除navi04 
 删除alswl2208 
 删除hanny27 
+Tue Nov 18 22:17:01 CST 2025
+Tue Nov 18 22:17:01 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 22:18:23 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除alswl2208 
+删除hanny27 
