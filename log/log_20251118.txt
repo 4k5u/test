@@ -186,3 +186,7 @@ Tue Nov 18 12:31:59 CST 2025
 Tue Nov 18 12:32:01 CST 2025
 Tue Nov 18 12:33:37 CST 2025
 删除nobleinc 
+Tue Nov 18 12:46:48 CST 2025
+Tue Nov 18 12:46:51 CST 2025
+Tue Nov 18 12:48:25 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
