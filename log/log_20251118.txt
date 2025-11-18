@@ -325,3 +325,13 @@ Tue Nov 18 19:03:39 CST 2025
 删除my_eyes_higher 
 删除alswl2208 
 删除hanny27 
+添加foxylovesyou https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c8ee77f2a2e8f1e9b6fe875b0bc270a1234b67d9e0b5e0a9692f463672cd0b0f_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e8cd4df68798aa2516865bc16b76d0f2770ea1f1944cb3ead315588102568ced_trns_h264/playlist.m3u8
+Tue Nov 18 19:16:56 CST 2025
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pB6225K2lJZY.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BCNjIyNUsybEpaWSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5OTY3QjU1QS00OTE2LTRFNjQtQUIwMi00NUYwQ0VFQzkzRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzQ2NDYzNiwiZXhwIjoxNzYzNDY1MjM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Oh8u9A5mRf5dGxMPe5eylU9hsgN-aIFvNeC4ZMc9p9w_dq-CIUZBcq0HLKlM7dp12u-qhoX5IsDX-JJvLkV8xetzx-ksfuon4G2QRAG-wj_PCO8nW1UxG9ApdSJU2K4U
+Tue Nov 18 19:17:18 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Tue Nov 18 19:18:50 CST 2025
+删除alswl2208 
+删除hanny27 
