@@ -1,0 +1,5 @@
+Wed Nov 19 00:02:08 CST 2025
+Wed Nov 19 00:02:08 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Wed Nov 19 00:03:29 CST 2025
+删除gusdk2362 
