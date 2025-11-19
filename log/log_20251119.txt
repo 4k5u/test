@@ -399,3 +399,15 @@ Wed Nov 19 21:03:41 CST 2025
 删除honey_pinkgreen 
 删除eunyoung1238 
 删除yin2618 
+添加honey_pinkgreen https://edge23-sea.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-facb7ba08d01bfece4995396d9833ae5cb71d299bf2385f1132d62ab614acbf4_trns_h264/playlist.m3u8
+添加foxylovesyou https://edge3-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-7ca49c45491f24161a4f695c2241230b53391ce1de3ceefffbef0712f34798d9_trns_h264/playlist.m3u8
+Wed Nov 19 21:17:06 CST 2025
+添加3ww1ww3 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.VX0WbtziTlR1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1ZYMFdidHppVGxSMSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxRUEzNTVBRC0wNkJFLTQyNjAtQkQ3NC0xQkY1NEE5MzBGRUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzU1ODI0OCwiZXhwIjoxNzYzNTU4ODQ4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.2WUtMQ_90QpWmL-_rFsUa0W8a1DQcIXyaa5KvVHbodKN6G5OTF6fpVpZf2PfRWlQs8HCb8AwxKjUg4UlK9P2Y_WiUAeKhXZecgbFjQw_yFehwAPzhNgWA99zj714nORL
+Wed Nov 19 21:17:40 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Nov 19 21:18:46 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除foxylovesyou 
+删除eunyoung1238 
+删除yin2618 
