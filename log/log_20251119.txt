@@ -461,3 +461,10 @@ Wed Nov 19 22:33:44 CST 2025
 删除foxylovesyou 
 删除eunyoung1238 
 删除yin2618 
+添加foxylovesyou https://edge21-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-934d4d8cab4f18234dbf5463b66d9e94cc8c97b3375b43608387147b7334606f_trns_h264/playlist.m3u8
+Wed Nov 19 22:46:55 CST 2025
+Wed Nov 19 22:47:27 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Wed Nov 19 22:48:37 CST 2025
+删除muse62 
+删除eunyoung1238 
