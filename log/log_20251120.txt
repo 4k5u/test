@@ -43,3 +43,13 @@ Thu Nov 20 01:03:38 CST 2025
 删除eunyoung1238 
 删除gusdk2362 
 删除Sherry_niko 
+Thu Nov 20 01:16:50 CST 2025
+Thu Nov 20 01:17:02 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Nov 20 01:18:28 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除flowerwar 
+删除eunyoung1238 
+删除gusdk2362 
