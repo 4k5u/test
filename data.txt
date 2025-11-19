@@ -3,3 +3,4 @@ dign1461   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_p
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 taitehambelton   https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5394ae4b39fb8865dbfb29a0075720ace41c4a501fa6245e20fe4bd89e2c8712_trns_h264/playlist.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
