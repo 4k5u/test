@@ -104,3 +104,10 @@ Thu Nov 20 03:17:03 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 Thu Nov 20 03:18:26 CST 2025
 删除gusdk2362 
+Thu Nov 20 03:32:04 CST 2025
+Thu Nov 20 03:32:08 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Thu Nov 20 03:33:24 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除y1026 
+删除gusdk2362 
