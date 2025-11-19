@@ -1,0 +1,9 @@
+添加ake_mi https://edge15-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c4dffd9bf8a4b4d12e8ad1190dee8f3378df2e75bfec6a253e294e6e14beacef_trns_h264/playlist.m3u8
+Thu Nov 20 00:01:59 CST 2025
+Thu Nov 20 00:02:15 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Thu Nov 20 00:03:38 CST 2025
+删除bongbong486 
+删除eunyoung1238 
+删除gusdk2362 
