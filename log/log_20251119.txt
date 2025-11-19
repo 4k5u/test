@@ -364,3 +364,16 @@ Wed Nov 19 20:19:45 CST 2025
 删除eunyoung1238 
 删除hanny27 
 删除yin2618 
+添加ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-9988aeb3867c584f3b55974ae3f6fc47cca4d03c315ca63e7151f8ef5f4c7e06_trns_h264/playlist.m3u8
+Wed Nov 19 20:31:58 CST 2025
+Wed Nov 19 20:32:26 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Nov 19 20:33:42 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除somsom0339 
+删除honey_pinkgreen 
+删除eunyoung1238 
+删除hanny27 
+删除yin2618 
