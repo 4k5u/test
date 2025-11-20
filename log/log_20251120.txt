@@ -249,3 +249,7 @@ Thu Nov 20 12:31:54 CST 2025
 Thu Nov 20 12:31:56 CST 2025
 Thu Nov 20 12:33:31 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge24-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-07710c8000357fcdd6f185f442049b275ef420ba6b25ef91488c479eb378dc6a_trns_h264/playlist.m3u8
+Thu Nov 20 12:46:50 CST 2025
+Thu Nov 20 12:46:52 CST 2025
+Thu Nov 20 12:48:22 CST 2025
