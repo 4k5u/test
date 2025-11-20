@@ -492,3 +492,9 @@ Thu Nov 20 22:18:25 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除kkkku96 
 删除alswl2208 
+Thu Nov 20 22:31:52 CST 2025
+Thu Nov 20 22:32:12 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Thu Nov 20 22:33:31 CST 2025
+删除Hahaha_ha2 
+删除alswl2208 
