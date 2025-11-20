@@ -498,3 +498,8 @@ Thu Nov 20 22:32:12 CST 2025
 Thu Nov 20 22:33:31 CST 2025
 删除Hahaha_ha2 
 删除alswl2208 
+Thu Nov 20 22:46:58 CST 2025
+Thu Nov 20 22:47:16 CST 2025
+Thu Nov 20 22:48:27 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除soso621 
