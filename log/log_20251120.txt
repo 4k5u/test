@@ -353,3 +353,9 @@ Thu Nov 20 18:17:14 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
 Thu Nov 20 18:18:37 CST 2025
 删除alswl2208 
+Thu Nov 20 18:32:01 CST 2025
+Thu Nov 20 18:32:16 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Thu Nov 20 18:33:38 CST 2025
+删除ake_mi 
+删除alswl2208 
