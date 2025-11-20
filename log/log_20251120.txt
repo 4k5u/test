@@ -271,3 +271,7 @@ Thu Nov 20 13:47:08 CST 2025
 Thu Nov 20 13:48:43 CST 2025
 删除ake_mi 
 删除sexygamesx 
+添加ake_mi https://edge15-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-7067195a8bdc25e407a649c183e6bc3c9bd456d545ba71348b68e1533096feb8_trns_h264/playlist.m3u8
+Thu Nov 20 14:01:57 CST 2025
+Thu Nov 20 14:02:01 CST 2025
+Thu Nov 20 14:03:31 CST 2025
