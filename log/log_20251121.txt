@@ -239,3 +239,10 @@ Fri Nov 21 15:33:31 CST 2025
 Fri Nov 21 15:46:56 CST 2025
 Fri Nov 21 15:47:04 CST 2025
 Fri Nov 21 15:48:24 CST 2025
+添加ake_mi https://edge15-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-204339cdd94b4a75f91a8ad7dc0065b7435276f0e16ba24a6fb3bb55d5104d47_trns_h264/playlist.m3u8
+Fri Nov 21 16:01:54 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RDA3QUY5Qi1ERDJELTQwOUYtQUFBMi01RThGNDFBOTdDRTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzcxMjEyMiwiZXhwIjoxNzYzNzEyNzIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.cvLmikLVWuGvuaJASoLloO21Wq6NcPABRZLWHk3bGQQrnwspS6F2sWncUSkfwhoWLCxMxHTS3gv1WOwC78lRz4CSBVX2Qkh9u792fJH_6mlF-AGGbJkzzs74qVqiM6zR
+Fri Nov 21 16:02:07 CST 2025
+Fri Nov 21 16:03:26 CST 2025
+删除ee5844 
+删除dreamch77 
