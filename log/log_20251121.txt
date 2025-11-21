@@ -391,3 +391,13 @@ Fri Nov 21 21:18:07 CST 2025
 Fri Nov 21 21:19:22 CST 2025
 删除hanny27 
 删除yin2618 
+Fri Nov 21 21:31:51 CST 2025
+Fri Nov 21 21:32:13 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Nov 21 21:33:29 CST 2025
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
+删除yeonnacho 
+删除emforhs1919 
+删除hanny27 
+删除yin2618 
