@@ -146,3 +146,9 @@ Sat Nov 22 06:47:01 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Sat Nov 22 06:48:38 CST 2025
 删除gusdk2362 
+Sat Nov 22 07:01:54 CST 2025
+Sat Nov 22 07:01:58 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sat Nov 22 07:03:37 CST 2025
+删除sexygamesx 
+删除gusdk2362 
