@@ -296,3 +296,10 @@ Fri Nov 21 18:17:10 CST 2025
 Fri Nov 21 18:18:36 CST 2025
 删除alswl2208 
 删除hanny27 
+Fri Nov 21 18:31:49 CST 2025
+Fri Nov 21 18:32:04 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Fri Nov 21 18:33:29 CST 2025
+删除alswl2208 
+删除hanny27 
