@@ -267,3 +267,8 @@ Fri Nov 21 17:16:55 CST 2025
 添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.esxNrxxtxwoL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VzeE5yeHh0eHdvTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2N0NDOTY4OS04NjQ1LTQwM0ItOEExRi03QjEyODZDNDk3OEQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2MzcxNjYyMiwiZXhwIjoxNzYzNzE3MjIyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pcWV0FYl2e66Q-XzuKdzJ4cKqxKb_oBucAS-GzOQdtAp71vfkes2ziB0Tr3GMIwQoSYXC9oUYEJqUd0hQkFgm5T7RO60NlN7Y7UEmG5EIcZNCEJloJt-HC4xYpyRBMRT
 Fri Nov 21 17:17:07 CST 2025
 Fri Nov 21 17:18:24 CST 2025
+Fri Nov 21 17:31:51 CST 2025
+Fri Nov 21 17:32:01 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Fri Nov 21 17:33:25 CST 2025
+删除alswl2208 
