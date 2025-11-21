@@ -102,3 +102,8 @@ Sat Nov 22 04:47:08 CST 2025
 Sat Nov 22 04:48:47 CST 2025
 删除Hahaha_ha2 
 删除gusdk2362 
+Sat Nov 22 05:01:57 CST 2025
+Sat Nov 22 05:02:01 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Nov 22 05:03:34 CST 2025
+删除gusdk2362 
