@@ -134,3 +134,9 @@ Sat Nov 22 06:17:08 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Sat Nov 22 06:18:46 CST 2025
 删除gusdk2362 
+Sat Nov 22 06:31:52 CST 2025
+Sat Nov 22 06:31:56 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Nov 22 06:33:32 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 
