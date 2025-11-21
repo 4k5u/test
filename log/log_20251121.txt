@@ -272,3 +272,10 @@ Fri Nov 21 17:32:01 CST 2025
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Fri Nov 21 17:33:25 CST 2025
 删除alswl2208 
+Fri Nov 21 17:46:55 CST 2025
+Fri Nov 21 17:47:06 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Nov 21 17:48:35 CST 2025
+删除alswl2208 
+删除hanny27 
