@@ -452,3 +452,10 @@ Fri Nov 21 23:18:36 CST 2025
 删除smmms2002 
 删除3ww1ww3 
 删除yin2618 
+Fri Nov 21 23:31:52 CST 2025
+Fri Nov 21 23:32:14 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Nov 21 23:33:32 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除rico0210 
+删除yin2618 
