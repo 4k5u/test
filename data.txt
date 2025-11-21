@@ -6,3 +6,4 @@ Sherry_niko   https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+sexygamesx   https://edge3-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-09dfe755938b6075bea4a200b580fb6113b194fc9173fbea5718cf6330aafed9_trns_h264/playlist.m3u8
