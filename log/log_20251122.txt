@@ -77,3 +77,11 @@ Sat Nov 22 03:46:56 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Sat Nov 22 03:48:29 CST 2025
 删除gusdk2362 
+添加_meganmeow_ https://edge7-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-6677846624bebd1a95bbd0c4bf08c2385b8593c06684d6e70dc88fc0a1bb849a_trns_h264/playlist.m3u8
+添加sexygamesx https://edge11-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-09dfe755938b6075bea4a200b580fb6113b194fc9173fbea5718cf6330aafed9_trns_h264/playlist.m3u8
+Sat Nov 22 04:01:56 CST 2025
+Sat Nov 22 04:02:00 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sat Nov 22 04:03:33 CST 2025
+删除alicelebel 
+删除gusdk2362 
