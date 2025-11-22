@@ -482,3 +482,8 @@ Sat Nov 22 22:18:31 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除somsom0339 
 删除ake_mi 
+添加ake_mi https://edge19-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b271ed718afdd7db30b7fb777d357e92c9c932fe0d322823106ada18fe182305_trns_h264/playlist.m3u8
+Sat Nov 22 22:31:57 CST 2025
+Sat Nov 22 22:32:21 CST 2025
+Sat Nov 22 22:33:29 CST 2025
+删除ake_mi 
