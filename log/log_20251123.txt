@@ -262,3 +262,9 @@ Sun Nov 23 17:02:07 CST 2025
 Sun Nov 23 17:02:09 CST 2025
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.KSDRT3xVFRX3YwcYCbyfdGZMiEe8fFARicjX0zwBIyZQ7D5yG3FobEbyaFVWi9fWlz0BjjunVx_p-GaGH7RNz2DJA-KDsqlrcgq40B0Ez18fvKl4IaGtoNWBuj_7HaWP_hKlVPJkyt9TCnJNSsP1y5JyMU0Tiag-NI0wwopFSR-G3cTK3nLXImCun0AcdvM3
 Sun Nov 23 17:03:26 CST 2025
+添加ad0res https://edge11-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-a900a4289e69a96f1b373f44cf9bf991e75cf4422bf3365e327ac42753c3b564_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-03de414cfc885f50ec7ae463fb81d84da5af6585e91bdfcdef0b2bdc44207852_trns_h264/playlist.m3u8
+Sun Nov 23 17:17:00 CST 2025
+Sun Nov 23 17:17:03 CST 2025
+Sun Nov 23 17:18:22 CST 2025
+删除taitehambelton 
