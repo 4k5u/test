@@ -380,3 +380,15 @@ Mon Nov 24 20:33:57 CST 2025
 删除navi04 
 删除hanny27 
 删除yin2618 
+Mon Nov 24 20:46:51 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.17aunxOveBtu.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzE3YXVueE92ZUJ0dSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFNzE0NkU1OS1GOEJCLTQwNEUtOThFMC1DMjBCQ0M0NjE3QUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Mzk4ODQxOCwiZXhwIjoxNzYzOTg5MDE4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ioNNWp6Z6haO9i5QhcJaJekmOIx6lDuVnG52F7SkZYBgnrl1RUUZ6xnuEtlbITEz-rGnCemNXpXQiBFDAk1cuDrLaWsG8re8SaXBUh-f8ohqPvt-xFaqK3JjPoPLyWu1
+Mon Nov 24 20:47:17 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Mon Nov 24 20:48:56 CST 2025
+删除sigmasian 
+删除ake_mi 
+删除navi04 
+删除hanny27 
+删除yin2618 
