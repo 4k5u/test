@@ -297,3 +297,10 @@ Mon Nov 24 18:33:47 CST 2025
 删除dkdlfjqm758 
 删除navi04 
 删除hanny27 
+Mon Nov 24 18:46:50 CST 2025
+Mon Nov 24 18:47:03 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Mon Nov 24 18:48:45 CST 2025
+删除navi04 
+删除hanny27 
