@@ -180,3 +180,8 @@ Mon Nov 24 12:31:49 CST 2025
 Mon Nov 24 12:31:53 CST 2025
 Mon Nov 24 12:33:21 CST 2025
 删除Sime_Naughty 
+添加ake_mi https://edge7-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-6f9df3cc52b40aa85250b68ac3f3ce8762e8f1582ee05d10248a1af960eff923_trns_h264/playlist.m3u8
+Mon Nov 24 12:46:51 CST 2025
+Mon Nov 24 12:46:56 CST 2025
+Mon Nov 24 12:48:30 CST 2025
+添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
