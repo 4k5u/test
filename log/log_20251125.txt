@@ -150,3 +150,10 @@ Tue Nov 25 09:16:54 CST 2025
 Tue Nov 25 09:18:30 CST 2025
 删除nobleinc 
 删除hanny27 
+添加taitehambelton https://edge23-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8e32e3b22ef2b0aa5362084647ca1bb02af2ee418d774d30cd72d5036d053d60_trns_h264/playlist.m3u8
+Tue Nov 25 09:32:41 CST 2025
+Tue Nov 25 09:32:43 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Tue Nov 25 09:34:21 CST 2025
+删除Sime_Naughty 
+删除hanny27 
