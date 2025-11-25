@@ -292,3 +292,7 @@ Tue Nov 25 16:17:05 CST 2025
 Tue Nov 25 16:18:32 CST 2025
 删除taitehambelton 
 删除my_eyes_higher 
+添加taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d334a300959b6b0f0934f17e3a22f804af660f2e22ad6735d20199beb36893f9_trns_h264/playlist.m3u8
+Tue Nov 25 16:31:55 CST 2025
+Tue Nov 25 16:32:01 CST 2025
+Tue Nov 25 16:33:28 CST 2025
