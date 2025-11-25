@@ -277,3 +277,8 @@ Tue Nov 25 15:33:29 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除ee5844 
 删除ake_mi 
+添加ake_mi https://edge36-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e15683814ee5532afe7c92c3fa2d9dde6c9ac83a425286157f1aee3fed1c0a75_trns_h264/playlist.m3u8
+Tue Nov 25 15:46:52 CST 2025
+Tue Nov 25 15:46:56 CST 2025
+Tue Nov 25 15:48:21 CST 2025
+删除ake_mi 
