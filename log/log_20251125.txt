@@ -433,3 +433,8 @@ Tue Nov 25 22:17:31 CST 2025
 Tue Nov 25 22:18:47 CST 2025
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除yin2618 
+Tue Nov 25 22:32:02 CST 2025
+Tue Nov 25 22:32:28 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Tue Nov 25 22:33:38 CST 2025
+删除yin2618 
