@@ -305,3 +305,12 @@ Wed Nov 26 18:17:07 CST 2025
 Wed Nov 26 18:18:28 CST 2025
 删除my_eyes_higher 
 删除navi04 
+添加my_eyes_higher https://edge19-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-be5b907fa8dda04d12cc7094fc2d02e7650d4c699513e2a2071cc596ceaf5d94_trns_h264/playlist.m3u8
+Wed Nov 26 18:31:58 CST 2025
+Wed Nov 26 18:32:14 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Wed Nov 26 18:33:31 CST 2025
+删除ddooyaa 
+删除navi04 
+删除hanny27 
