@@ -279,3 +279,8 @@ Wed Nov 26 17:18:30 CST 2025
 删除dkdlfjqm758 
 删除sigmasian 
 删除navi04 
+Wed Nov 26 17:32:01 CST 2025
+Wed Nov 26 17:32:11 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Nov 26 17:33:29 CST 2025
+删除navi04 
