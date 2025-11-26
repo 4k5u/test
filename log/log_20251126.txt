@@ -246,3 +246,8 @@ Wed Nov 26 15:31:57 CST 2025
 Wed Nov 26 15:32:03 CST 2025
 Wed Nov 26 15:33:26 CST 2025
 删除ake_mi 
+添加ake_mi https://edge11-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-bdb2e70e6a761a2b0e5c1981034371bd3cb077bfe18d4c58833220465b624843_trns_h264/playlist.m3u8
+Wed Nov 26 15:46:54 CST 2025
+Wed Nov 26 15:47:01 CST 2025
+Wed Nov 26 15:48:22 CST 2025
+删除Lucille_evans 
