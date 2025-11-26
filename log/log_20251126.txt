@@ -323,3 +323,11 @@ Wed Nov 26 18:48:39 CST 2025
 删除emforhs1919 
 删除navi04 
 删除hanny27 
+Wed Nov 26 19:02:08 CST 2025
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8mUkm9czXHf0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzhtVWttOWN6WEhmMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3REY0MjYzOS04QTVCLTRGQjQtQUY0OS03QUVEMzM4MDBDQjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDE1NDkzOSwiZXhwIjoxNzY0MTU1NTM5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8ImPXs3iLDJdcWHfzMIGjUt6G-hnjuiYbWOPH87oDOCAkFCh1crrGasZlxLIUlLFUq9fq4l_03KWNecvJWRNPqenpzc5eJfe6HSjsZuFMLo9YIOTKHag65lnRTfCuKpc
+Wed Nov 26 19:02:26 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Wed Nov 26 19:03:46 CST 2025
+删除navi04 
+删除hanny27 
