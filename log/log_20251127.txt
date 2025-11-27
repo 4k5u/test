@@ -428,3 +428,12 @@ Thu Nov 27 23:03:29 CST 2025
 删除m0m099 
 删除mikio_san 
 删除hanny27 
+添加honey_pinkgreen https://edge5-sea.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-bc6707d055ccc0dde926b145372bcdc44a7ea7b53ef70270eff333eec795d1aa_trns_h264/playlist.m3u8
+Thu Nov 27 23:16:51 CST 2025
+Thu Nov 27 23:17:09 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Nov 27 23:18:27 CST 2025
+删除glglehddl 
+删除bongbong486 
+删除moem9e9 
+删除hanny27 
