@@ -404,3 +404,9 @@ Thu Nov 27 22:17:28 CST 2025
 Thu Nov 27 22:18:27 CST 2025
 删除ake_mi 
 删除hanny27 
+添加ake_mi https://edge17-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-067546db622ebe9b6dbb113e2287293886dc31742f16ddd12b789b84a0d5ba73_trns_h264/playlist.m3u8
+Thu Nov 27 22:31:54 CST 2025
+Thu Nov 27 22:32:20 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Nov 27 22:33:28 CST 2025
+删除hanny27 
