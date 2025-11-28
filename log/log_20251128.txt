@@ -312,3 +312,11 @@ Fri Nov 28 18:32:10 CST 2025
 Fri Nov 28 18:33:44 CST 2025
 删除hanny27 
 删除yin2618 
+Fri Nov 28 18:46:59 CST 2025
+Fri Nov 28 18:47:11 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Fri Nov 28 18:48:30 CST 2025
+删除taitehambelton 
+删除hanny27 
+删除yin2618 
