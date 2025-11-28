@@ -3,3 +3,8 @@ Sat Nov 29 00:02:11 CST 2025
 Sat Nov 29 00:03:28 CST 2025
 删除kkkku96 
 删除alicelebel 
+Sat Nov 29 00:16:52 CST 2025
+Sat Nov 29 00:17:13 CST 2025
+Sat Nov 29 00:18:32 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sherry_niko https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
