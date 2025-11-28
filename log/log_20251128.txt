@@ -454,3 +454,8 @@ Fri Nov 28 22:46:57 CST 2025
 Fri Nov 28 22:47:19 CST 2025
 Fri Nov 28 22:48:25 CST 2025
 删除ake_mi 
+添加ake_mi https://edge16-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-87ccc25e497a8a0f03d1249c8ae7b2af8a52d3406da29372e5e6fb69491bbb9f_trns_h264/playlist.m3u8
+Fri Nov 28 23:02:03 CST 2025
+Fri Nov 28 23:02:25 CST 2025
+Fri Nov 28 23:03:35 CST 2025
+删除yeonnacho 
