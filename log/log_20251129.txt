@@ -133,3 +133,11 @@ Sat Nov 29 05:48:53 CST 2025
 删除sexygamesx 
 删除gusdk2362 
 删除hanny27 
+添加sexygamesx https://edge25-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-682671a0961a5aaaf8d7e9d240517e585d69e60d70a62b9a5d816deeda856d34_trns_h264/playlist.m3u8
+Sat Nov 29 06:01:57 CST 2025
+Sat Nov 29 06:02:00 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 06:03:30 CST 2025
+删除gusdk2362 
+删除hanny27 
