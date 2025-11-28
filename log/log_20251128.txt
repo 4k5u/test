@@ -368,3 +368,13 @@ Fri Nov 28 20:03:44 CST 2025
 删除yourare 
 删除hanny27 
 删除yin2618 
+添加ad0res https://edge14-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-fe62a13e1e33d14f69b175e43bad248e4a5f0ea58cb33ebd393e1ea8d6913d14_trns_h264/playlist.m3u8
+Fri Nov 28 20:16:59 CST 2025
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.65RctG1IICMM.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzY1UmN0RzFJSUNNTSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCRTIyMjZCQy03OUUyLTQ0RTctQjVCOC03NEUwQTA2OTg0MzciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDMzMjI0MCwiZXhwIjoxNzY0MzMyODQwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1Q0RnBznCDwrlPCiVi397Za8sJmz14HVP4tJ2-6yfo35toB7BibqiTBB5UElat5OZ5MXLE6QBJG3_7bjmvq-Qltl_P1SXnveEXhF2W8B0VuSWEq8yab4nGlZfxT0mgSp
+Fri Nov 28 20:17:23 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.xKbV3YgHdYhTrDVEQxcRJSL2cIGvEkp1RcacAdTsj1K4XiYqpObbhFyKis8JOk2JH4Cw4cYMUiHwGQQyteQpKjr9sOzHw97LaqiUKgzx67e8VrZQL2jq1ISplw25MdtTWY0Zh3x0kqQhL_XMOA7TXtUzYh8FEDjfbZNHtZ0GS16UdaDk6FK8tKCV27Tq1Z56
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Fri Nov 28 20:18:51 CST 2025
+删除hanny27 
+删除yin2618 
