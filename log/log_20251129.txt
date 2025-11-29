@@ -384,3 +384,9 @@ Sat Nov 29 16:02:13 CST 2025
 Sat Nov 29 16:03:45 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+Sat Nov 29 16:16:52 CST 2025
+Sat Nov 29 16:16:58 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 16:18:27 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除yin2618 
