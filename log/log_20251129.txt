@@ -444,3 +444,8 @@ Sat Nov 29 18:32:12 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
 Sat Nov 29 18:33:48 CST 2025
 删除yin2618 
+Sat Nov 29 18:46:52 CST 2025
+Sat Nov 29 18:47:01 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 18:48:35 CST 2025
+删除yin2618 
