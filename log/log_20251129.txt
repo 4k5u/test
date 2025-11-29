@@ -377,3 +377,10 @@ Sat Nov 29 15:46:56 CST 2025
 Sat Nov 29 15:48:23 CST 2025
 删除my_eyes_higher 
 删除yin2618 
+添加my_eyes_higher https://edge8-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-862a3b1b89d103082774d430ecc57b1a455e828f8a759a5df4cce9db49bd5a5b_trns_h264/playlist.m3u8
+Sat Nov 29 16:02:07 CST 2025
+Sat Nov 29 16:02:13 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 16:03:45 CST 2025
+删除my_eyes_higher 
+删除yin2618 
