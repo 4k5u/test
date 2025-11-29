@@ -226,3 +226,9 @@ Sat Nov 29 09:16:55 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
 Sat Nov 29 09:18:27 CST 2025
 删除gusdk2362 
+添加taitehambelton https://edge15-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3d07dcf3271dba3102d8305fb9d26fa178f4729b72e2b7b381c9a1f75d4da7e9_trns_h264/playlist.m3u8
+Sat Nov 29 09:31:56 CST 2025
+Sat Nov 29 09:31:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 09:33:32 CST 2025
+删除gusdk2362 
