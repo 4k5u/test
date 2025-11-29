@@ -245,3 +245,9 @@ Sat Nov 29 10:01:55 CST 2025
 Sat Nov 29 10:03:29 CST 2025
 删除nobleinc 
 删除gusdk2362 
+添加mazzanti_ https://edge3-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-a39ec20765d3fce882dc764449a12c01317790fecc05fe37c698e1ca771c374c_trns_h264/playlist.m3u8
+Sat Nov 29 10:16:59 CST 2025
+Sat Nov 29 10:16:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Nov 29 10:18:34 CST 2025
+删除gusdk2362 
