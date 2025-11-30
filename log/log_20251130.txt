@@ -314,3 +314,11 @@ Sun Nov 30 17:47:11 CST 2025
 Sun Nov 30 17:48:45 CST 2025
 删除gremmy 
 删除gusdk2362 
+Sun Nov 30 18:02:59 CST 2025
+Sun Nov 30 18:03:09 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Sun Nov 30 18:04:40 CST 2025
+删除sexygamesx 
+删除gremmy 
+删除gusdk2362 
