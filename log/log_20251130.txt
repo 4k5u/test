@@ -322,3 +322,11 @@ Sun Nov 30 18:04:40 CST 2025
 删除sexygamesx 
 删除gremmy 
 删除gusdk2362 
+Sun Nov 30 18:17:02 CST 2025
+添加imsocutesexy https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.oS6GyYQIKW3G.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL29TNkd5WVFJS1czRyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI4NzE0RDU0RC01NjNELTQxMDQtQkZBOS03QjQ4Mzg3QUQyMDAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDQ5NzgyNCwiZXhwIjoxNzY0NDk4NDI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-8ym1aOX5AvvJFv6uuqYaGYlELnsUUG5xd48gUcxxvcL3-ZLWRO_XkNlTeTrho3wxkqXVsVKw86Fb3FFJfXwyEPDyz3K1_FINhdheQ56NTnoJTswm_8Dn9KCTwG-qQq1
+Sun Nov 30 18:17:16 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Sun Nov 30 18:18:41 CST 2025
+删除gremmy 
+删除gusdk2362 
