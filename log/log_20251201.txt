@@ -345,3 +345,12 @@ Mon Dec 1 20:17:10 CST 2025
 Mon Dec 1 20:18:24 CST 2025
 删除hanny27 
 删除yin2618 
+Mon Dec 1 20:32:00 CST 2025
+Mon Dec 1 20:32:17 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Mon Dec 1 20:33:32 CST 2025
+删除glglehddl 
+删除dks2003 
+删除hanny27 
+删除yin2618 
