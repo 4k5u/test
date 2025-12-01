@@ -428,3 +428,8 @@ Mon Dec 1 22:47:09 CST 2025
 Mon Dec 1 22:48:21 CST 2025
 删除m0m099 
 删除hanny27 
+Mon Dec 1 23:02:01 CST 2025
+Mon Dec 1 23:02:19 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon Dec 1 23:03:36 CST 2025
+删除hanny27 
