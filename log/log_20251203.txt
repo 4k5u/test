@@ -7,3 +7,13 @@ Wed Dec 3 00:03:30 CST 2025
 删除ahri0801 
 删除ake_mi 
 删除yin2618 
+添加ake_mi https://edge26-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-b08ff9f698869957ec79e56d7fc725f86b1612ccf017a6819fa583e8ef6527ac_trns_h264/playlist.m3u8
+Wed Dec 3 00:31:57 CST 2025
+Wed Dec 3 00:32:15 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Wed Dec 3 00:33:22 CST 2025
+删除chuing77 
+删除Angel-Bei-bei 
+删除dreamch77 
+删除iminako 
+删除yin2618 
