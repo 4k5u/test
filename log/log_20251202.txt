@@ -429,3 +429,12 @@ Tue Dec 2 21:48:30 CST 2025
 删除foxylovesyou 
 删除iminako 
 删除yin2618 
+添加foxylovesyou https://edge11-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8aeb7fc14a0a31a815f22b566e2157f216361879f94ec9d33897d12b3f609a54_trns_h264/playlist.m3u8
+Tue Dec 2 22:02:02 CST 2025
+Tue Dec 2 22:02:29 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Tue Dec 2 22:03:27 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除tyy750ii 
+删除ake_mi 
+删除yin2618 
