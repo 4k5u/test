@@ -290,3 +290,9 @@ Tue Dec 2 15:47:00 CST 2025
 Tue Dec 2 15:47:06 CST 2025
 Tue Dec 2 15:48:25 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge35-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-78e7d419c6a61c349298cd9a3154891e368c6dda2150c428983efd5a81330174_trns_h264/playlist.m3u8
+添加amilia4u https://edge17-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-5a57a5c80bd91166571de1e1d7849faac3b19cdf56ee4619ca3c849126ab0647_trns_h264/playlist.m3u8
+Tue Dec 2 16:02:08 CST 2025
+Tue Dec 2 16:02:14 CST 2025
+Tue Dec 2 16:03:49 CST 2025
+删除amilia4u 
