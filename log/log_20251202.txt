@@ -399,3 +399,11 @@ Tue Dec 2 20:47:12 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Tue Dec 2 20:48:14 CST 2025
 删除yin2618 
+Tue Dec 2 21:01:55 CST 2025
+Tue Dec 2 21:02:19 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Dec 2 21:03:22 CST 2025
+删除glglehddl 
+删除homegirl 
+删除ake_mi 
+删除yin2618 
