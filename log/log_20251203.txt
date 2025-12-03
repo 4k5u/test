@@ -381,3 +381,9 @@ Wed Dec 3 21:33:29 CST 2025
 删除chuing77 
 删除dks2003 
 删除yin2618 
+Wed Dec 3 21:47:41 CST 2025
+Wed Dec 3 21:48:07 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Wed Dec 3 21:49:08 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除yin2618 
