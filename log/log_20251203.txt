@@ -351,3 +351,10 @@ Wed Dec 3 20:32:36 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
 Wed Dec 3 20:33:37 CST 2025
 删除yin2618 
+添加honey_pinkgreen https://edge11-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-fb0f84e18067a123d6f86d26db85b4a86f253ceb6a7f7699490a7349e8fedb83_trns_h264/playlist.m3u8
+Wed Dec 3 20:46:58 CST 2025
+Wed Dec 3 20:47:24 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Wed Dec 3 20:48:23 CST 2025
+删除homegirl 
+删除yin2618 
