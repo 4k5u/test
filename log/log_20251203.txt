@@ -200,3 +200,8 @@ Wed Dec 3 12:46:53 CST 2025
 Wed Dec 3 12:46:55 CST 2025
 Wed Dec 3 12:48:22 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge13-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f785bddfc18487a1ff2c2601e246ac6f001f647a5720d60c14325de98a74a1be_trns_h264/playlist.m3u8
+Wed Dec 3 13:02:03 CST 2025
+Wed Dec 3 13:02:05 CST 2025
+Wed Dec 3 13:03:22 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
