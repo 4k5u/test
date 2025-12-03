@@ -97,3 +97,12 @@ Thu Dec 4 02:48:33 CST 2025
 删除dreamch77 
 删除dana9282 
 删除gusdk2362 
+Thu Dec 4 03:01:53 CST 2025
+Thu Dec 4 03:01:55 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Y0WtkN2AGExKK_5c24giGdsMFLB1G-1hPbIbiUO4MHw1GcydkW2hQL2e3uJ9bOewRwxi6_KMznS5japXVWOESAPk2Zhj44B7O5jOyZRUCKXny-bfhYS8a-ZTdkofPPIsPawdTwjUkI4FZ-bcpDUH0wLfDuEYw-DITMhyO-p490KlBm_cTZES66S4cuyehkoe
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Dec 4 03:03:43 CST 2025
+删除jinricp 
+删除dana9282 
+删除gusdk2362 
