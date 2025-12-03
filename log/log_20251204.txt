@@ -77,3 +77,13 @@ Thu Dec 4 02:18:31 CST 2025
 删除leelate 
 删除dreamch77 
 删除dana9282 
+Thu Dec 4 02:32:07 CST 2025
+Thu Dec 4 02:32:11 CST 2025
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Thu Dec 4 02:33:52 CST 2025
+删除honey_pinkgreen 
+删除dreamch77 
+删除dana9282 
+删除gusdk2362 
