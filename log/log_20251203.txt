@@ -222,3 +222,7 @@ Wed Dec 3 14:02:23 CST 2025
 Wed Dec 3 14:03:47 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除taitehambelton 
+添加taitehambelton https://edge14-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f785bddfc18487a1ff2c2601e246ac6f001f647a5720d60c14325de98a74a1be_trns_h264/playlist.m3u8
+Wed Dec 3 14:16:58 CST 2025
+Wed Dec 3 14:17:00 CST 2025
+Wed Dec 3 14:18:22 CST 2025
