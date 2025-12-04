@@ -125,3 +125,7 @@ Fri Dec 5 07:16:51 CST 2025
 Fri Dec 5 07:16:53 CST 2025
 Fri Dec 5 07:18:26 CST 2025
 删除gusdk2362 
+Fri Dec 5 07:32:00 CST 2025
+Fri Dec 5 07:32:02 CST 2025
+Fri Dec 5 07:33:26 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
