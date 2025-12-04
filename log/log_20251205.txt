@@ -64,3 +64,8 @@ Fri Dec 5 03:47:03 CST 2025
 Fri Dec 5 03:48:30 CST 2025
 删除dign1461 
 删除alicelebel 
+Fri Dec 5 04:01:57 CST 2025
+Fri Dec 5 04:02:03 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Fri Dec 5 04:03:29 CST 2025
+删除gusdk2362 
