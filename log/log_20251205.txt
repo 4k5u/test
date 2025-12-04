@@ -69,3 +69,9 @@ Fri Dec 5 04:02:03 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Fri Dec 5 04:03:29 CST 2025
 删除gusdk2362 
+Fri Dec 5 04:16:44 CST 2025
+Fri Dec 5 04:16:51 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Fri Dec 5 04:18:31 CST 2025
+删除imanatural 
+删除gusdk2362 
