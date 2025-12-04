@@ -443,3 +443,10 @@ Thu Dec 4 20:32:18 CST 2025
 Thu Dec 4 20:33:21 CST 2025
 删除Xenomy 
 删除hanny27 
+Thu Dec 4 20:46:52 CST 2025
+Thu Dec 4 20:47:13 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Thu Dec 4 20:48:22 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除leelate 
+删除hanny27 
