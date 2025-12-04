@@ -324,3 +324,8 @@ Thu Dec 4 15:01:49 CST 2025
 Thu Dec 4 15:01:55 CST 2025
 Thu Dec 4 15:03:20 CST 2025
 删除ee5844 
+Thu Dec 4 15:16:57 CST 2025
+Thu Dec 4 15:17:01 CST 2025
+Thu Dec 4 15:18:23 CST 2025
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+删除dreamch77 
