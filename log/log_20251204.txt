@@ -385,3 +385,9 @@ Thu Dec 4 18:17:08 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
 Thu Dec 4 18:18:40 CST 2025
 删除hanny27 
+Thu Dec 4 18:31:53 CST 2025
+Thu Dec 4 18:32:05 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.9WQqHGZyrnrLymaA2vLhcKULdBnRN3hQvk76GXtC9ofUPc9n4ouGuyLCs2jgC_Yptw1_USkP45GyvnvmdKsnQS7eqEHY6GTAZi739VaGfboZmfEgG8Bwo3V3EuITryDTm0bD0r6f3R8xZsYB2BOm9qZKzF-aWwwLFjTyMrroeUsHuW7TSTTWsycaB33B0a3d
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Dec 4 18:33:41 CST 2025
+删除hanny27 
