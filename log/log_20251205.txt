@@ -201,3 +201,9 @@ Fri Dec 5 12:01:58 CST 2025
 Fri Dec 5 12:02:02 CST 2025
 Fri Dec 5 12:03:32 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge4-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-d30fdc3212d58388ed9f3c2828507f42f3335b09cb291f6e3f44a2ab4cd3642b_trns_h264/playlist.m3u8
+Fri Dec 5 12:16:54 CST 2025
+Fri Dec 5 12:16:58 CST 2025
+Fri Dec 5 12:18:29 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除Sime_Naughty 
