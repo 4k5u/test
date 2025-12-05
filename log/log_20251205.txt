@@ -426,3 +426,13 @@ Fri Dec 5 22:18:36 CST 2025
 删除m0m099 
 删除dana9282 
 删除eunyoung1238 
+Fri Dec 5 22:31:54 CST 2025
+Fri Dec 5 22:32:27 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Fri Dec 5 22:33:32 CST 2025
+删除Xenomy 
+删除4ocari 
+删除namuh0926 
+删除dana9282 
+删除eunyoung1238 
