@@ -170,3 +170,8 @@ Fri Dec 5 10:01:42 CST 2025
 Fri Dec 5 10:01:44 CST 2025
 Fri Dec 5 10:03:16 CST 2025
 删除mode_bad 
+Fri Dec 5 10:17:06 CST 2025
+Fri Dec 5 10:17:08 CST 2025
+Fri Dec 5 10:18:43 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除sexygamesx 
