@@ -417,3 +417,12 @@ Fri Dec 5 22:03:24 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除dana9282 
 删除eunyoung1238 
+Fri Dec 5 22:16:51 CST 2025
+添加rico0210 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.UVVNmWrRCNCy.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1VWVk5tV3JSQ05DeSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5Rjg2Q0RDOS0xRjRBLTQ5NEItODE4NC05MEM3NEQ4MjhDRjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDk0NDIxMywiZXhwIjoxNzY0OTQ0ODEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-WFhk-z_nuMCWbAuqO-eu5REZlCZwXwKYSx7UJJshY5NIQly68XWS4ELh1N64u-uCqFUHrSzOyxEcSsvoefOVDclPSOuptaT1PzxAmJy-bTbLY6mewKb0Emg3qyf-nil
+Fri Dec 5 22:17:28 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Dec 5 22:18:36 CST 2025
+删除m0m099 
+删除dana9282 
+删除eunyoung1238 
