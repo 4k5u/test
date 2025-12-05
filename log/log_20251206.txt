@@ -58,3 +58,13 @@ Sat Dec 6 02:03:21 CST 2025
 删除naras2 
 删除y1026 
 删除eunyoung1238 
+Sat Dec 6 02:17:07 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HLTZVmcz08ZH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hMVFpWbWN6MDhaSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3RTI4RERCMS0yQjg4LTQxN0EtOUVDOC1GNkUzNUVDM0ZBMzMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NDk1ODYzMiwiZXhwIjoxNzY0OTU5MjMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.8-aUaA1IkSpdgiXy_b60uLXK85dsR1jjVhIGV7QZ2cqEfbJygxdhKHJzPII260iVShK--wnQYXapn_8MxOfjcgNZnM0kANCTw_ITU451VYCS5JvogsdMzAC49Cnvkv0k
+Sat Dec 6 02:17:19 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 02:18:39 CST 2025
+删除imsocutesexy 
+删除chuing77 
+删除saone451 
+删除rico0210 
+删除eunyoung1238 
