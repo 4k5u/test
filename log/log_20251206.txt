@@ -116,3 +116,9 @@ Sat Dec 6 05:02:06 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 Sat Dec 6 05:03:28 CST 2025
 删除gusdk2362 
+添加mode_bad https://edge20-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f05d564fc8eaaf4262f6a94e2e0ab365cccde7cc0ad176281ff085959_trns_h264/playlist.m3u8
+Sat Dec 6 05:16:59 CST 2025
+Sat Dec 6 05:16:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 05:18:23 CST 2025
+删除gusdk2362 
