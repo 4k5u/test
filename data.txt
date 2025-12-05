@@ -5,3 +5,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 Sherry_niko   https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 mode_bad   https://edge20-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f05d564fc8eaaf4262f6a94e2e0ab365cccde7cc0ad176281ff085959_trns_h264/playlist.m3u8
 _meganmeow_   https://edge16-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a6e568257d34f0d31b51f5d3a98d7912f98aef4cd7a8e596ac203a82f1db3627_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
