@@ -251,3 +251,9 @@ Sat Dec 6 11:03:27 CST 2025
 删除taitehambelton 
 删除mazzanti_ 
 删除gusdk2362 
+添加taitehambelton https://edge11-aus.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b150c6ccf65fc57ba6b8e930b5226a2ccac3dc64cf29b6089d890daf94576863_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge18-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-65a93cb9e66dc4e734076bb9b94820ab36512180986a52a4b7b40b5b51bbca2c_trns_h264/playlist.m3u8
+Sat Dec 6 11:17:00 CST 2025
+Sat Dec 6 11:17:00 CST 2025
+Sat Dec 6 11:18:18 CST 2025
+删除taitehambelton 
