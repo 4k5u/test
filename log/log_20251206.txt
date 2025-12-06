@@ -471,3 +471,9 @@ Sat Dec 6 21:47:25 CST 2025
 添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
 Sat Dec 6 21:48:34 CST 2025
 删除leelate 
+Sat Dec 6 22:01:54 CST 2025
+Sat Dec 6 22:02:31 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 22:03:33 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除leelate 
