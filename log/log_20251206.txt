@@ -220,3 +220,10 @@ Sat Dec 6 09:46:41 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sat Dec 6 09:48:15 CST 2025
 删除gusdk2362 
+添加mazzanti_ https://edge8-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bb396a92d30aefb919aa8a9f17294a505e5256d85c58e38d9c250158d9ba0131_trns_h264/playlist.m3u8
+Sat Dec 6 10:02:09 CST 2025
+Sat Dec 6 10:02:09 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 10:03:43 CST 2025
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 

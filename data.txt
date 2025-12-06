@@ -6,3 +6,5 @@ mode_bad   https://edge20-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-920baa6f
 _meganmeow_   https://edge16-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a6e568257d34f0d31b51f5d3a98d7912f98aef4cd7a8e596ac203a82f1db3627_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 taitehambelton   https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b150c6ccf65fc57ba6b8e930b5226a2ccac3dc64cf29b6089d890daf94576863_trns_h264/playlist.m3u8
+mazzanti_   https://edge8-aus.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bb396a92d30aefb919aa8a9f17294a505e5256d85c58e38d9c250158d9ba0131_trns_h264/playlist.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
