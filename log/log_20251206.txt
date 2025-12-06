@@ -460,3 +460,9 @@ Sat Dec 6 21:17:37 CST 2025
 Sat Dec 6 21:18:57 CST 2025
 删除m0m099 
 删除leelate 
+Sat Dec 6 21:31:46 CST 2025
+Sat Dec 6 21:32:23 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 21:33:30 CST 2025
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除leelate 
