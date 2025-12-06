@@ -406,3 +406,11 @@ Sat Dec 6 19:33:14 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除glglehddl 
 删除leelate 
+Sat Dec 6 19:46:48 CST 2025
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.8mUkm9czXHf0.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzhtVWttOWN6WEhmMCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNkZGQUYwMi00RDYyLTQ3RTgtOUExQS00QjFDRDRDRjM1M0YiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTAyMTYzMCwiZXhwIjoxNzY1MDIyMjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.tTO1axa5_VYXLXQsz7X_Ll6wjYZYPi-3d6_rNWlT1b3MwZBQtlTqM6OxRLsrHMGcj8Z0vXyxJjVcpkUQ1K9dcjMHVTKw7T8_X4HHTILgKLZUxo_B7sMLbRb-Ftew1gs-
+Sat Dec 6 19:47:13 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 19:48:29 CST 2025
+删除dkdlfjqm758 
+删除ad0res 
+删除leelate 
