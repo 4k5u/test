@@ -8,3 +8,4 @@ dreamch77   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_
 _meganmeow_   https://edge15-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-ae117f2b1030d33b3df6c6a5fd304afa57f30232631aa240801ac5f696a454a4_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge12-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-18d9ff2e1e5c3abef22d7495502921aa576449d2049363db9a85765561e9b4b1_trns_h264/playlist.m3u8
 sexygamesx   https://edge17-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-c323cb73ca88c91bae76fb06a9185da6d7d64ce553dc917ec8942cafadc63f17_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
