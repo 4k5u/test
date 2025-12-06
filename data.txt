@@ -5,3 +5,5 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 _meganmeow_   https://edge16-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a6e568257d34f0d31b51f5d3a98d7912f98aef4cd7a8e596ac203a82f1db3627_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge18-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-65a93cb9e66dc4e734076bb9b94820ab36512180986a52a4b7b40b5b51bbca2c_trns_h264/playlist.m3u8
+taitehambelton   https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-69dc3768dba640f14e06c4f7bda889f27aad68c6d2384055c4eebc1145472ac6_trns_h264/playlist.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
