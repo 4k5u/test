@@ -399,3 +399,10 @@ Sat Dec 6 19:17:19 CST 2025
 Sat Dec 6 19:18:38 CST 2025
 删除ake_mi 
 删除leelate 
+Sat Dec 6 19:31:48 CST 2025
+Sat Dec 6 19:32:08 CST 2025
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sat Dec 6 19:33:14 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除glglehddl 
+删除leelate 
