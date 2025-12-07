@@ -300,3 +300,10 @@ Sun Dec 7 16:47:09 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
 Sun Dec 7 16:48:42 CST 2025
 删除hanny27 
+Sun Dec 7 17:01:57 CST 2025
+Sun Dec 7 17:02:01 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sun Dec 7 17:03:32 CST 2025
+删除hyuna0721 
+删除iminako 
+删除hanny27 
