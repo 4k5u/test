@@ -287,3 +287,10 @@ Sun Dec 7 16:16:56 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sun Dec 7 16:18:18 CST 2025
 删除hanny27 
+Sun Dec 7 16:31:46 CST 2025
+Sun Dec 7 16:31:52 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Sun Dec 7 16:33:22 CST 2025
+删除moem9e9 
+删除alicelebel 
+删除hanny27 
