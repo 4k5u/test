@@ -447,3 +447,11 @@ Mon Dec 8 23:02:08 CST 2025
 添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Mon Dec 8 23:03:23 CST 2025
 删除lolsos 
+Mon Dec 8 23:16:50 CST 2025
+Mon Dec 8 23:17:14 CST 2025
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Mon Dec 8 23:18:30 CST 2025
+删除rud9281 
+删除smmms2002 
+删除Ryo-sama 
+删除lolsos 
