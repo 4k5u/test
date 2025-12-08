@@ -323,3 +323,12 @@ Mon Dec 8 19:17:00 CST 2025
 Mon Dec 8 19:18:22 CST 2025
 删除navi04 
 删除hanny27 
+添加iminako https://edge30-phx.live.mmcdn.com/live-hls/amlst:iminako-sd-0f4bf15e8bf8d36cbf6bdc5dcee1df7e736bdbb00b3166e70294faa3555f7546_trns_h264/playlist.m3u8
+Mon Dec 8 19:31:52 CST 2025
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzNDUyN0REMi0yRjBFLTQ1NjQtOUY3QS1CQTdBMzZDQzQ4RTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTE5MzUxOSwiZXhwIjoxNzY1MTk0MTE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.IMYcuQ93H0JPkmnUkW13fBMbvcFfQRTaFzCkWZ8QN4-es-7YsG328PVhCWlmfl_dHB-0HrYSyIwXdbRhY9J7nqvjVs1jXUSUnmWnAor9pb63IUaPXKRPH_0nB_erIlA3
+Mon Dec 8 19:32:10 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Mon Dec 8 19:33:32 CST 2025
+删除navi04 
+删除hanny27 
