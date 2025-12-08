@@ -406,3 +406,13 @@ Mon Dec 8 21:33:36 CST 2025
 删除foxylovesyou 
 删除navi04 
 删除hanny27 
+添加foxylovesyou https://edge5-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e33922ece3e49ec26a75f79a90a3f91eacbbce3981a74db2e8b97043a451d679_trns_h264/playlist.m3u8
+Mon Dec 8 21:46:42 CST 2025
+Mon Dec 8 21:47:04 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+Mon Dec 8 21:48:17 CST 2025
+删除tyy750ii 
+删除iminako 
+删除navi04 
+删除hanny27 
