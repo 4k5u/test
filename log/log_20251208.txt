@@ -243,3 +243,12 @@ Mon Dec 8 17:01:43 CST 2025
 Mon Dec 8 17:01:47 CST 2025
 Mon Dec 8 17:03:12 CST 2025
 删除ddooyaa 
+Mon Dec 8 17:16:53 CST 2025
+添加tyy750ii https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.46xdis94uIHn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzQ2eGRpczk0dUlIbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFOUE2MUE3Qi1BODc5LTRCRkMtQTNGMi1CNUU4RjBCMDQzOEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTE4NTQxOSwiZXhwIjoxNzY1MTg2MDE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.PLel-uxuNHrgfr4FS1HOrB2OluRzAkA7kYD5ifLthdkY1pf18TrNplb3RO7b1NWv_CYtPrb8Y8mlRCA-OsVaiDoQmrTZHI_nTKTSvwOoaY63NbyPL21KWo0aLrYdDUT-
+Mon Dec 8 17:17:01 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Mon Dec 8 17:18:39 CST 2025
+删除sigmasian 
+删除navi04 
+删除hanny27 
