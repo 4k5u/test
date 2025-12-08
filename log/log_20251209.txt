@@ -86,3 +86,7 @@ Tue Dec 9 05:03:19 CST 2025
 Tue Dec 9 05:16:51 CST 2025
 Tue Dec 9 05:16:51 CST 2025
 Tue Dec 9 05:18:18 CST 2025
+添加mode_bad https://edge17-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-052631c79913b7aabe30f4575a5673db6d3e00fe055baeac808af3388f8cc42f_trns_h264/playlist.m3u8
+Tue Dec 9 05:31:50 CST 2025
+Tue Dec 9 05:31:50 CST 2025
+Tue Dec 9 05:33:13 CST 2025
