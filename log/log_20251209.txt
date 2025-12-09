@@ -343,3 +343,14 @@ Tue Dec 9 19:48:21 CST 2025
 删除foxylovesyou 
 删除navi04 
 删除hanny27 
+添加foxylovesyou https://edge17-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-5ffad55c1b53cdde0f721948965eff75b64ef0b83e03cba8a63778f275a79c71_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge5-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-06176833c29c3cc784b5361361496f39e3c8a286c43ef844992124db0e95eaa1_trns_h264/playlist.m3u8
+Tue Dec 9 20:02:03 CST 2025
+添加bongbong486 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.bve2VGU61bIx.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2J2ZTJWR1U2MWJJeCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0OERDNjA5RS1FNzAzLTQ0RkYtQjNFOS1EMDA1N0M5RUJCRkUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTI4MTc0MiwiZXhwIjoxNzY1MjgyMzQyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Ok8oaHKTTLbHaTrHWD0p-vC8Z9DUmjtvHH8vFTpoNphevkzjZzS_p067FmVyzipudqeaKc9aXHruHnVru-ppc_gLafhCnknv3_ltKSrzBo0eRBLtt1voqqvVnUhHNA5k
+Tue Dec 9 20:02:27 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Tue Dec 9 20:03:48 CST 2025
+删除y1026 
+删除navi04 
+删除hanny27 
