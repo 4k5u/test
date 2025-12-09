@@ -200,3 +200,8 @@ Tue Dec 9 13:48:22 CST 2025
 Tue Dec 9 14:01:50 CST 2025
 Tue Dec 9 14:01:56 CST 2025
 Tue Dec 9 14:03:23 CST 2025
+添加my_eyes_higher https://edge11-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-784ad3b76da723d70f5bd35bcb5fe74dd53d69104b0daeee35c28b2888aeed75_trns_h264/playlist.m3u8
+Tue Dec 9 14:16:49 CST 2025
+Tue Dec 9 14:16:55 CST 2025
+Tue Dec 9 14:18:20 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
