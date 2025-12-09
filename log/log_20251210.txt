@@ -157,3 +157,8 @@ Wed Dec 10 07:16:51 CST 2025
 Wed Dec 10 07:18:21 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除gusdk2362 
+Wed Dec 10 07:31:50 CST 2025
+Wed Dec 10 07:31:52 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Wed Dec 10 07:33:28 CST 2025
+删除gusdk2362 
