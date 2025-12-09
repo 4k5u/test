@@ -384,3 +384,12 @@ Tue Dec 9 20:48:21 CST 2025
 删除foxylovesyou 
 删除my_eyes_higher 
 删除navi04 
+添加foxylovesyou https://edge14-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-d0b32978d97168e45e562d166ab3135d47066e66d937cf16e1fbc32417772fa4_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e19fb9a8329fb5b9e6188f4ce1dbf39a5ba189fdb3ab113c302756f345c6bd2b_trns_h264/playlist.m3u8
+Tue Dec 9 21:01:58 CST 2025
+Tue Dec 9 21:02:24 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Tue Dec 9 21:03:21 CST 2025
+删除IdaJonesy 
+删除my_eyes_higher 
+删除navi04 
