@@ -330,3 +330,9 @@ Wed Dec 10 18:02:04 CST 2025
 Wed Dec 10 18:03:22 CST 2025
 删除my_eyes_higher 
 删除hanny27 
+添加ake_mi https://edge17-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-dc1be3fed3a955271bf754dc74841db3bb6ed232bda899ff2d73fa0826b1648b_trns_h264/playlist.m3u8
+Wed Dec 10 18:16:42 CST 2025
+Wed Dec 10 18:16:52 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Wed Dec 10 18:18:15 CST 2025
+删除hanny27 
