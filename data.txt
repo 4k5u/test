@@ -6,3 +6,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 mode_bad   https://edge3-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b4008c2897c6643a78cba4b6f0b2cc23237c9ac66c13e3f8295a8cd7165381ae_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
