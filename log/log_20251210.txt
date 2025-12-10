@@ -312,3 +312,11 @@ Wed Dec 10 17:31:58 CST 2025
 Wed Dec 10 17:32:07 CST 2025
 Wed Dec 10 17:33:31 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7e86f498ebc043b7fbb3bef6db4320cb7c06c556d8e217f754b1eb7ecd520f50_trns_h264/playlist.m3u8
+Wed Dec 10 17:47:01 CST 2025
+Wed Dec 10 17:47:07 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Wed Dec 10 17:48:24 CST 2025
+删除4ocari 
+删除my_eyes_higher 
+删除hanny27 
