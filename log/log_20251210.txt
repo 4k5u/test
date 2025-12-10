@@ -409,3 +409,9 @@ Wed Dec 10 21:31:46 CST 2025
 Wed Dec 10 21:32:16 CST 2025
 Wed Dec 10 21:33:16 CST 2025
 删除glglehddl 
+添加ake_mi https://edge29-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-2592caf2c86aa39abfc2fe51bc8886d9544116f3882771e71b32c79ac68f2b2e_trns_h264/playlist.m3u8
+Wed Dec 10 21:46:45 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5QTM3QkUwQS03OTdDLTQ4RkItQjQyRi01ODU5RkRBRDE2OUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTM3NDQyNiwiZXhwIjoxNzY1Mzc1MDI2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.MEtYfKHHUe-N00pgJN1JOMwxh3ysaKclDyA2edN4lKxvD0404kWskA9tOgNlNauzB18ywc9oNTmPP7G3KRLwjIzhTKOHXzeC-AUlo4uN7NnAZtRNxXawhe6d-aqTMig1
+Wed Dec 10 21:47:19 CST 2025
+Wed Dec 10 21:48:23 CST 2025
+删除navi04 
