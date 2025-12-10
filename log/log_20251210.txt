@@ -182,3 +182,7 @@ Wed Dec 10 08:48:23 CST 2025
 Wed Dec 10 09:01:45 CST 2025
 Wed Dec 10 09:01:47 CST 2025
 Wed Dec 10 09:03:16 CST 2025
+添加mode_bad https://edge3-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-b4008c2897c6643a78cba4b6f0b2cc23237c9ac66c13e3f8295a8cd7165381ae_trns_h264/playlist.m3u8
+Wed Dec 10 09:16:57 CST 2025
+Wed Dec 10 09:16:59 CST 2025
+Wed Dec 10 09:18:23 CST 2025
