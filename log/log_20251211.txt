@@ -239,3 +239,8 @@ Thu Dec 11 15:47:07 CST 2025
 Thu Dec 11 15:48:28 CST 2025
 删除alicelebel 
 删除taitehambelton 
+添加taitehambelton https://edge15-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c836188abecca622c0059509d48c89c72cdd69e78d62acdf3f4e541ac32454ab_trns_h264/playlist.m3u8
+Thu Dec 11 16:02:10 CST 2025
+Thu Dec 11 16:02:16 CST 2025
+Thu Dec 11 16:03:53 CST 2025
+删除taitehambelton 
