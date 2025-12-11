@@ -119,3 +119,7 @@ Fri Dec 12 04:48:21 CST 2025
 Fri Dec 12 05:01:45 CST 2025
 Fri Dec 12 05:01:53 CST 2025
 Fri Dec 12 05:03:20 CST 2025
+添加mode_bad https://edge30-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-61a26f6261789964a038150a7c3636cbdd3c6178b4fb05b11066b74843ff2bd5_trns_h264/playlist.m3u8
+Fri Dec 12 05:16:43 CST 2025
+Fri Dec 12 05:16:51 CST 2025
+Fri Dec 12 05:18:18 CST 2025
