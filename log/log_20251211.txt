@@ -256,3 +256,8 @@ Thu Dec 11 16:33:26 CST 2025
 Thu Dec 11 16:46:55 CST 2025
 Thu Dec 11 16:47:01 CST 2025
 Thu Dec 11 16:48:29 CST 2025
+添加ad0res https://edge7-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-7e1a517d7f1a41fa5ff2406afd35ded2741529675c7b5d6824766b259e3a1806_trns_h264/playlist.m3u8
+Thu Dec 11 17:02:00 CST 2025
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.esxNrxxtxwoL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VzeE5yeHh0eHdvTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1Njg3NzJFNy0zRjE5LTRDREMtQUU4OS03RUY3MkZBM0U5OUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTQ0MzcyMywiZXhwIjoxNzY1NDQ0MzIzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.NTRpb1ooKXUeToJksxe22OQRaFrP0virxMwNvrkXsQB8b0rJupB7gexe1BLWWRYGy6G8emZVQNsM7M8qVP9bmcC2zssKV_KlyfOALnjFgJTrBYMXf3Ci7lQkuIjB8Rwq
+Thu Dec 11 17:02:10 CST 2025
+Thu Dec 11 17:03:54 CST 2025
