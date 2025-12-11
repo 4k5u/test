@@ -115,3 +115,7 @@ Fri Dec 12 04:46:49 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
 Fri Dec 12 04:48:21 CST 2025
 删除gusdk2362 
+添加_meganmeow_ https://edge11-aus.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1044e3eed57032d85fbdf0a63551de12f5911284294836d1a4227359dbf7ddf7_trns_h264/playlist.m3u8
+Fri Dec 12 05:01:45 CST 2025
+Fri Dec 12 05:01:53 CST 2025
+Fri Dec 12 05:03:20 CST 2025
