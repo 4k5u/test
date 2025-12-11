@@ -333,3 +333,9 @@ Thu Dec 11 19:32:00 CST 2025
 Thu Dec 11 19:33:18 CST 2025
 删除ad0res 
 删除navi04 
+Thu Dec 11 19:46:54 CST 2025
+Thu Dec 11 19:47:10 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Thu Dec 11 19:48:28 CST 2025
+删除foxylovesyou 
+删除navi04 
