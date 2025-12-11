@@ -406,3 +406,10 @@ Thu Dec 11 21:48:36 CST 2025
 删除m0m099 
 删除starsh2802 
 删除yin2618 
+Thu Dec 11 22:01:52 CST 2025
+Thu Dec 11 22:02:18 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Dec 11 22:03:28 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除foxylovesyou 
+删除yin2618 
