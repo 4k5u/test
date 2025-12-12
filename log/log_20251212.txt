@@ -427,3 +427,10 @@ Fri Dec 12 21:32:23 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Fri Dec 12 21:33:23 CST 2025
 删除yin2618 
+Fri Dec 12 21:46:56 CST 2025
+Fri Dec 12 21:47:24 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Dec 12 21:48:20 CST 2025
+删除navi04 
+删除foxylovesyou 
+删除yin2618 
