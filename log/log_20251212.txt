@@ -300,3 +300,8 @@ Fri Dec 12 16:46:49 CST 2025
 Fri Dec 12 16:46:57 CST 2025
 Fri Dec 12 16:48:13 CST 2025
 删除SanySenise 
+添加ad0res https://edge13-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-24d0887e4231a779db6f8f0290674560d39ebe8caba8319df48d52b54a73d988_trns_h264/playlist.m3u8
+Fri Dec 12 17:02:02 CST 2025
+Fri Dec 12 17:02:11 CST 2025
+Fri Dec 12 17:03:27 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
