@@ -319,3 +319,9 @@ Fri Dec 12 17:33:24 CST 2025
 删除moem9e9 
 删除ad0res 
 删除my_eyes_higher 
+添加ad0res https://edge13-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-24d0887e4231a779db6f8f0290674560d39ebe8caba8319df48d52b54a73d988_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-5c83b3e2da4a2596b2cb25e7409344654e5edea1560896ddcfddecc70b290275_trns_h264/playlist.m3u8
+Fri Dec 12 17:46:54 CST 2025
+Fri Dec 12 17:47:00 CST 2025
+Fri Dec 12 17:48:23 CST 2025
+删除ad0res 
