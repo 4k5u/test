@@ -263,3 +263,7 @@ Fri Dec 12 14:31:52 CST 2025
 Fri Dec 12 14:33:14 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除taitehambelton 
+添加foxylovesyou https://edge5-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-2acbb8714f3997b77d590020ab40cdb85ad93938e1cd48bca8a182b29080113c_trns_h264/playlist.m3u8
+Fri Dec 12 14:46:59 CST 2025
+Fri Dec 12 14:47:07 CST 2025
+Fri Dec 12 14:48:30 CST 2025
