@@ -5,3 +5,4 @@ _meganmeow_   https://edge22-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9f
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 mazzanti_   https://edge18-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-af1c321eacd7735a592903b16067e73c53126098b2f8ca4920818690f1a3c951_trns_h264/playlist.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
