@@ -179,3 +179,10 @@ Sun Dec 14 07:01:45 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
 Sun Dec 14 07:03:11 CST 2025
 删除gusdk2362 
+添加sexygamesx https://edge4-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-99bee61e3dd0ddfec13c4cad423ac32639632d99cd390edb05c0d56377894dca_trns_h264/playlist.m3u8
+Sun Dec 14 07:17:09 CST 2025
+Sun Dec 14 07:17:14 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=null
+Sun Dec 14 07:18:56 CST 2025
+删除nobleinc 
+删除gusdk2362 
