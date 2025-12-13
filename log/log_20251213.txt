@@ -377,3 +377,11 @@ Sat Dec 13 20:33:22 CST 2025
 Sat Dec 13 20:47:02 CST 2025
 Sat Dec 13 20:47:20 CST 2025
 Sat Dec 13 20:48:28 CST 2025
+Sat Dec 13 21:01:48 CST 2025
+添加in0410 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.CAKTJ7JkMyu8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0NBS1RKN0prTXl1OCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBODRFNjM4MC0wN0E4LTQ5RTItOTU0RS1EQTU1Qzg3OTFBQTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTYzMDkxNCwiZXhwIjoxNzY1NjMxNTE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.IepFf4Z4VODYKoAh5SqhVHd1vb4B_bk-imdtesNSl8v3IjLwklB9ug0lpLQhbckjilRTB7oHIDRwWQT8PBQOJf8wo7pkSTDnfuIyYJrPgnkREpT1E4Y7Nwp8I4tc0vMc
+Sat Dec 13 21:02:10 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Sat Dec 13 21:03:22 CST 2025
+删除navi04 
+删除my_eyes_higher 
+删除yin2618 
