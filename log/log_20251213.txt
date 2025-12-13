@@ -334,3 +334,7 @@ Sat Dec 13 18:31:57 CST 2025
 Sat Dec 13 18:32:05 CST 2025
 Sat Dec 13 18:33:31 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge7-aus.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-f16d7f19d8f9b4097a6ade6a7b658e6371269af3891f73e8898129514b2b1f8b_trns_h264/playlist.m3u8
+Sat Dec 13 18:47:06 CST 2025
+Sat Dec 13 18:47:14 CST 2025
+Sat Dec 13 18:48:40 CST 2025
