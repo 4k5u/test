@@ -50,3 +50,10 @@ Sun Dec 14 01:32:06 CST 2025
 Sun Dec 14 01:33:27 CST 2025
 删除eunyoung1238 
 删除rud9281 
+Sun Dec 14 01:46:42 CST 2025
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRDQ1OTUwQi1BREQ1LTQzN0MtODJFQi0zQ0UyMjVGQ0QyNEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NTY0ODAxNCwiZXhwIjoxNzY1NjQ4NjE0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.bmXZwalaqto64NAXRO-ceVlWKh_-qforbxcWCtyMbvn1G9H2qKdOtTc9XEuTHVgC5wDY0FX2qr_9xeJ3fBzFZ9r3ke8m0caZVANbGlx9XmV89PpVsAh20nQwB3yASfWu
+Sun Dec 14 01:47:03 CST 2025
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Dec 14 01:48:26 CST 2025
+删除smmms2002 
+删除rud9281 
