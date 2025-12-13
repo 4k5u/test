@@ -120,3 +120,8 @@ Sun Dec 14 04:18:30 CST 2025
 删除alicelebel 
 删除starsh2802 
 删除gusdk2362 
+Sun Dec 14 04:31:55 CST 2025
+Sun Dec 14 04:32:03 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Dec 14 04:33:24 CST 2025
+删除gusdk2362 
