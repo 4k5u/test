@@ -329,3 +329,8 @@ Sat Dec 13 18:16:56 CST 2025
 Sat Dec 13 18:17:07 CST 2025
 Sat Dec 13 18:18:27 CST 2025
 删除ad0res 
+添加ad0res https://edge11-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-cb77f7a67644b51f6f406bc86fd25a975de21e2b4b521b3624a3b0cd18024891_trns_h264/playlist.m3u8
+Sat Dec 13 18:31:57 CST 2025
+Sat Dec 13 18:32:05 CST 2025
+Sat Dec 13 18:33:31 CST 2025
+删除my_eyes_higher 
