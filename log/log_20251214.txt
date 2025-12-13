@@ -186,3 +186,9 @@ Sun Dec 14 07:17:14 CST 2025
 Sun Dec 14 07:18:56 CST 2025
 删除nobleinc 
 删除gusdk2362 
+Sun Dec 14 07:31:49 CST 2025
+Sun Dec 14 07:31:51 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sun Dec 14 07:33:12 CST 2025
+删除dign1461 
+删除gusdk2362 
