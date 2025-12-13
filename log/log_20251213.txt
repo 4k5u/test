@@ -260,3 +260,8 @@ Sat Dec 13 14:01:56 CST 2025
 Sat Dec 13 14:02:01 CST 2025
 Sat Dec 13 14:03:30 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加my_eyes_higher https://edge29-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ac18c907b51b59447a42750b78c757646144799ced3ffaf5e9bd9b8f0537a17f_trns_h264/playlist.m3u8
+Sat Dec 13 14:16:58 CST 2025
+Sat Dec 13 14:17:00 CST 2025
+Sat Dec 13 14:18:32 CST 2025
+删除naras2 
