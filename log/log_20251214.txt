@@ -301,3 +301,8 @@ Sun Dec 14 12:46:56 CST 2025
 Sun Dec 14 12:48:21 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除mazzanti_ 
+添加mazzanti_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-8399a7339d2c5236151446ea6c934f8272c4becd2ff9e61da0ffa8fc9f3a6463_trns_h264/playlist.m3u8
+Sun Dec 14 13:01:38 CST 2025
+Sun Dec 14 13:01:42 CST 2025
+Sun Dec 14 13:03:06 CST 2025
+删除mazzanti_ 
