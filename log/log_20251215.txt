@@ -17,3 +17,7 @@ Mon Dec 15 00:31:53 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
 Mon Dec 15 00:33:22 CST 2025
 删除yin2618 
+Mon Dec 15 00:46:51 CST 2025
+Mon Dec 15 00:47:02 CST 2025
+Mon Dec 15 00:48:28 CST 2025
+删除alicelebel 
