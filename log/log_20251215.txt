@@ -361,3 +361,9 @@ Mon Dec 15 22:17:12 CST 2025
 Mon Dec 15 22:18:21 CST 2025
 删除glglehddl 
 删除yin2618 
+Mon Dec 15 22:31:57 CST 2025
+Mon Dec 15 22:32:24 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Mon Dec 15 22:33:30 CST 2025
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除yin2618 
