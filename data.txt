@@ -5,3 +5,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 taitehambelton   https://edge24-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5dc712b15c2851a551e7c3d3479b28cbec628d18f71ae2a04b0bc1e5050a9712_trns_h264/playlist.m3u8
 Dolv_1o   https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
