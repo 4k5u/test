@@ -239,3 +239,8 @@ Tue Dec 16 15:16:51 CST 2025
 Tue Dec 16 15:17:01 CST 2025
 Tue Dec 16 15:18:24 CST 2025
 删除my_eyes_higher 
+添加my_eyes_higher https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7ccd15d604e2f2ca2bd72a535c0097f81cf27026cede63dc2666bac70485e9ec_trns_h264/playlist.m3u8
+Tue Dec 16 15:31:51 CST 2025
+Tue Dec 16 15:32:02 CST 2025
+Tue Dec 16 15:33:18 CST 2025
+删除dreamch77 
