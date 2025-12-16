@@ -52,3 +52,9 @@ Wed Dec 17 02:32:10 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Wed Dec 17 02:33:33 CST 2025
 删除gusdk2362 
+Wed Dec 17 02:46:42 CST 2025
+Wed Dec 17 02:46:55 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Dec 17 02:48:24 CST 2025
+删除rico0210 
+删除gusdk2362 
