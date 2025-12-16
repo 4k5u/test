@@ -384,3 +384,14 @@ Tue Dec 16 21:03:23 CST 2025
 删除leelate 
 删除my_eyes_higher 
 删除hanny27 
+Tue Dec 16 21:16:59 CST 2025
+Tue Dec 16 21:17:27 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Tue Dec 16 21:18:35 CST 2025
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除navi04 
+删除dreamch77 
+删除hanny27 
+删除yin2618 
+删除Ryo-sama 
