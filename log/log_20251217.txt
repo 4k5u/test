@@ -116,3 +116,8 @@ Wed Dec 17 05:31:53 CST 2025
 Wed Dec 17 05:33:28 CST 2025
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除gusdk2362 
+Wed Dec 17 05:47:01 CST 2025
+Wed Dec 17 05:47:06 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Dec 17 05:48:41 CST 2025
+删除gusdk2362 
