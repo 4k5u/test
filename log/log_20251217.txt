@@ -273,3 +273,8 @@ Wed Dec 17 16:17:03 CST 2025
 Wed Dec 17 16:18:36 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除ee5844 
+Wed Dec 17 16:31:51 CST 2025
+Wed Dec 17 16:31:57 CST 2025
+Wed Dec 17 16:33:21 CST 2025
+删除leelate 
+删除my_eyes_higher 
