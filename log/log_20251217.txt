@@ -356,3 +356,11 @@ Wed Dec 17 20:02:21 CST 2025
 Wed Dec 17 20:03:43 CST 2025
 添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 删除hanny27 
+Wed Dec 17 20:16:56 CST 2025
+Wed Dec 17 20:17:14 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.DR0s9AYYmY1fzfhk-T5YFidGk4LtI3pvhZLuZMUMKtpOJG7vSMcUQ2rfPDP2Jst1nY9IucZrLjEybr26_lT7rlt5DcXf3q6calsHDSVcgsTczwYVb7pMeWXebGetLx3bkRmKvTerEj6sn0_uXAATxu0QEL04LHt8JPyRTgsVy4ftVrcVDqATMer_I2nGAAOW
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Dec 17 20:18:36 CST 2025
+删除dana9282 
+删除hanny27 
