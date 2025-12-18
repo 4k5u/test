@@ -233,3 +233,9 @@ Thu Dec 18 12:01:45 CST 2025
 Thu Dec 18 12:03:16 CST 2025
 删除sexygamesx 
 删除gusdk2362 
+添加sexygamesx https://edge18-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-05d69216676c276b5cb8c291d8b4c1acee3ac7f4f8aafafb60237a52b950ed05_trns_h264/playlist.m3u8
+Thu Dec 18 12:16:41 CST 2025
+Thu Dec 18 12:16:43 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Dec 18 12:18:16 CST 2025
+删除gusdk2362 
