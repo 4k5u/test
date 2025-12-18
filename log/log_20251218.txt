@@ -251,3 +251,10 @@ Thu Dec 18 12:46:47 CST 2025
 Thu Dec 18 12:48:19 CST 2025
 删除dkdlfjqm758 
 删除gusdk2362 
+Thu Dec 18 13:01:43 CST 2025
+Thu Dec 18 13:01:47 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Dec 18 13:03:18 CST 2025
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+删除taitehambelton 
+删除gusdk2362 
