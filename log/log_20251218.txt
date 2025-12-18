@@ -275,3 +275,7 @@ Thu Dec 18 14:01:59 CST 2025
 Thu Dec 18 14:03:26 CST 2025
 删除Sime_Naughty 
 删除alicelebel 
+Thu Dec 18 14:16:41 CST 2025
+Thu Dec 18 14:16:45 CST 2025
+Thu Dec 18 14:18:10 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
