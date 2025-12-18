@@ -258,3 +258,6 @@ Thu Dec 18 13:03:18 CST 2025
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除taitehambelton 
 删除gusdk2362 
+Thu Dec 18 13:16:58 CST 2025
+Thu Dec 18 13:17:02 CST 2025
+Thu Dec 18 13:18:22 CST 2025
