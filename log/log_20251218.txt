@@ -209,3 +209,9 @@ Thu Dec 18 11:03:27 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除taitehambelton 
 删除gusdk2362 
+添加sexygamesx https://edge19-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-05d69216676c276b5cb8c291d8b4c1acee3ac7f4f8aafafb60237a52b950ed05_trns_h264/playlist.m3u8
+Thu Dec 18 11:16:57 CST 2025
+Thu Dec 18 11:16:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Thu Dec 18 11:18:23 CST 2025
+删除gusdk2362 
