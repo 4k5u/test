@@ -227,3 +227,9 @@ Thu Dec 18 11:46:46 CST 2025
 Thu Dec 18 11:48:18 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除gusdk2362 
+Thu Dec 18 12:01:42 CST 2025
+Thu Dec 18 12:01:45 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Dec 18 12:03:16 CST 2025
+删除sexygamesx 
+删除gusdk2362 
