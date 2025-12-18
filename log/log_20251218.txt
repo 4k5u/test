@@ -168,3 +168,9 @@ Thu Dec 18 09:16:53 CST 2025
 Thu Dec 18 09:18:26 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除gusdk2362 
+添加taitehambelton https://edge9-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-023fd5f76b44023ddf2103ec4e03c0112498787442e8ff2cc30d765dfbee1eab_trns_h264/playlist.m3u8
+Thu Dec 18 09:31:57 CST 2025
+Thu Dec 18 09:31:59 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Dec 18 09:33:25 CST 2025
+删除gusdk2362 
