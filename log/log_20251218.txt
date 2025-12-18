@@ -315,3 +315,8 @@ Thu Dec 18 16:33:35 CST 2025
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除ddooyaa 
 删除Xenomy 
+Thu Dec 18 16:46:40 CST 2025
+Thu Dec 18 16:46:44 CST 2025
+Thu Dec 18 16:48:07 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
