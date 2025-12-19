@@ -13,3 +13,4 @@ chuing77   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 lolsos   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.tyRiorObYmi_KHn8U7aIP96FuoWZ-Py7ZxH06PNEJQLrujGjbv3yNKexW1C0VQZCQ4KabFcyujk1hDAemiGpAfrUzEy8TfEN3mcZ1dmR38c9K4mvqUdidzk1COuLoiuvlRs_ymtxMauaimeTUv0n_vi3OZ1JdOLBGLWrHrUHi7oaIOHaC5wYc7WiF3e1oLif
 yeonnacho   https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.qmzGZ4EfKZE5f3VfBW6qKQuS_8HZbzVnbrmGfcPBOLnTd8IrHi4bdTjxdXbXw9FCDpsjOXUVN6uIfdst-DWU3fSEDB1JAdM1SLpA0PYdN8L7At3qSe5o_85wg8ga5XfG4WrTwbRAPNRi-RLU8LARwFzA-CuaD8ShYh6raSVD-wuI6RNtbwHMMiQhBStwjTQ1
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+my_eyes_higher   https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-29799579ead97dd4358b3105278f977309fbf02035ac67f2be20f72e0950b9b3_trns_h264/playlist.m3u8

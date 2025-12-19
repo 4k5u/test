@@ -30,3 +30,9 @@ Sat Dec 20 01:02:01 CST 2025
 Sat Dec 20 01:03:17 CST 2025
 删除Tmdgus5411 
 删除gusdk2362 
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-29799579ead97dd4358b3105278f977309fbf02035ac67f2be20f72e0950b9b3_trns_h264/playlist.m3u8
+Sat Dec 20 01:16:43 CST 2025
+Sat Dec 20 01:16:55 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Sat Dec 20 01:18:14 CST 2025
+删除gusdk2362 
