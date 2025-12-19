@@ -318,3 +318,10 @@ Fri Dec 19 19:02:05 CST 2025
 Fri Dec 19 19:03:57 CST 2025
 删除moem9e9 
 删除navi04 
+Fri Dec 19 19:17:03 CST 2025
+添加moem9e9 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JtnSkDVgQOKA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0p0blNrRFZnUU9LQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0QzA4NDdFOC04MEUyLTRBMTUtQTM3OS0zRDYxMUMyOUFCMUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjE0MzAzMywiZXhwIjoxNzY2MTQzNjMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ibTsVXgO9lrmYuxX67HEfV662R2HNAzuI-O7ZtjI85On3nBof56WEg1Oi-FshTlI70nCMxcynLYfYG888UHsRAGLwehHntGloLku6hgPXGweLn3Hq0pNhOXH6HHWWOTP
+Fri Dec 19 19:17:16 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ZYxFulmCi0Wr4bGZF4FvSj5_L5dbjU7d7QUBnR3Cy7V7Tk-jtx21Q01srZgTMeDP_2EVEiGwauArxth8qt2dovvTYj9sess6XdAiE9njNCj7hiKuvZPkEKZTdf1VNTSe12o-tht2MPSBPinIQ1-xfLKT65bCd4vEPEYKDnewKB1PW6GcogJmuBYIn2DK6dh4
+Fri Dec 19 19:18:46 CST 2025
+删除navi04 
