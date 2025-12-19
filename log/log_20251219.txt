@@ -268,3 +268,8 @@ Fri Dec 19 17:17:04 CST 2025
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Fri Dec 19 17:18:25 CST 2025
 删除navi04 
+Fri Dec 19 17:31:38 CST 2025
+Fri Dec 19 17:31:42 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Fri Dec 19 17:33:13 CST 2025
+删除navi04 
