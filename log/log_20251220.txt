@@ -95,3 +95,9 @@ Sat Dec 20 03:46:58 CST 2025
 Sat Dec 20 03:48:29 CST 2025
 删除alicelebel 
 删除gusdk2362 
+添加_meganmeow_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-15feaf6fa909a0b3e94d22b18568ba6796c0a2b0b34b1c6ebe922a6c1cfafb1b_trns_h264/playlist.m3u8
+Sat Dec 20 04:01:54 CST 2025
+Sat Dec 20 04:02:02 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Sat Dec 20 04:03:33 CST 2025
+删除gusdk2362 
