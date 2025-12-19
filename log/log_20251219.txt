@@ -446,3 +446,12 @@ Fri Dec 19 23:32:01 CST 2025
 Fri Dec 19 23:33:06 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 删除yin2618 
+Fri Dec 19 23:46:56 CST 2025
+Fri Dec 19 23:47:10 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Fri Dec 19 23:48:08 CST 2025
+删除hanny27 
+删除imsocutesexy 
+删除soso621 
+删除dana9282 
+删除yin2618 
