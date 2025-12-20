@@ -390,3 +390,9 @@ Sat Dec 20 19:03:47 CST 2025
 删除my_eyes_higher 
 删除somsom0339 
 删除amilia4u 
+添加amilia4u https://edge7-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fffad968e31c4bded1c4b45d3ed203d442afb234f534b4324087301c6a2fd76b_trns_h264/playlist.m3u8
+添加ad0res https://edge17-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-3f448f00dc04a513a127944632a3bdc1844204aaa139f58d1bc231929a51662f_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d7ea27e3997a60b3985c8abc2455367711916bc0ca6555dc921ccd64def8d0f5_trns_h264/playlist.m3u8
+Sat Dec 20 19:17:06 CST 2025
+Sat Dec 20 19:17:24 CST 2025
+Sat Dec 20 19:18:36 CST 2025
