@@ -340,3 +340,9 @@ Sat Dec 20 17:16:49 CST 2025
 添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yzoc7wwpPwl6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l6b2M3d3dwUHdsNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCQjFERkY1MC1CRDA5LTQ4NzctOTQ2Qi1FMDdBQ0E2NTk4MjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjIyMjIyMCwiZXhwIjoxNzY2MjIyODIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.wlmI4EitRizaYNtZfCpm8q7fIX5LwmhLBny_AaErRVzfo2MMAEuv-p6msukme9yjnHiQ2OeCnZkxkjx7Jqt_ap1O2ZFg91op4LXAYmK3x32EV8dSP3jgUFklEHAlQE-R
 Sat Dec 20 17:17:03 CST 2025
 Sat Dec 20 17:18:28 CST 2025
+添加ad0res https://edge15-aus.live.mmcdn.com/live-hls/amlst:ad0res-sd-3f448f00dc04a513a127944632a3bdc1844204aaa139f58d1bc231929a51662f_trns_h264/playlist.m3u8
+Sat Dec 20 17:31:45 CST 2025
+Sat Dec 20 17:31:55 CST 2025
+Sat Dec 20 17:33:21 CST 2025
+删除taitehambelton 
+删除amilia4u 
