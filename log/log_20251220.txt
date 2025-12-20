@@ -236,3 +236,8 @@ Sat Dec 20 11:02:04 CST 2025
 Sat Dec 20 11:03:28 CST 2025
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除Dolv_1o 
+添加mazzanti_ https://edge12-lax.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-7b2b855ac09ac61cd966ae5186972ff5abe4524d0c1cb713f3ab7f11c9b6cca0_trns_h264/playlist.m3u8
+Sat Dec 20 11:16:42 CST 2025
+Sat Dec 20 11:16:44 CST 2025
+Sat Dec 20 11:18:09 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
