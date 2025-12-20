@@ -206,3 +206,9 @@ Sat Dec 20 09:16:58 CST 2025
 Sat Dec 20 09:17:02 CST 2025
 Sat Dec 20 09:18:28 CST 2025
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+添加taitehambelton https://edge30-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-05441581ed4a9d5ca3d558e250d7735a1f37940481615ff14b8b13af7c7e3a87_trns_h264/playlist.m3u8
+Sat Dec 20 09:31:59 CST 2025
+Sat Dec 20 09:32:01 CST 2025
+Sat Dec 20 09:33:20 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除chuing77 
