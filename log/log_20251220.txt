@@ -429,3 +429,7 @@ Sat Dec 20 20:33:28 CST 2025
 删除ake_mi 
 删除ad0res 
 删除my_eyes_higher 
+添加my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6a19865c7e138dbbe0d3ba20bb10806ff72fc281987833cc042cd039e3f3aec5_trns_h264/playlist.m3u8
+Sat Dec 20 20:46:56 CST 2025
+Sat Dec 20 20:47:20 CST 2025
+Sat Dec 20 20:48:32 CST 2025
