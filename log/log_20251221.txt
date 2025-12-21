@@ -343,3 +343,10 @@ Sun Dec 21 18:02:35 CST 2025
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Sun Dec 21 18:04:02 CST 2025
 删除dana9282 
+添加ake_mi https://edge6-phx.live.mmcdn.com/live-hls/amlst:ake_mi-sd-419734ad425e5cbb9d8a9e967b1fa66c814cd7c28b28a79ea5cae75bd6b11178_trns_h264/playlist.m3u8
+Sun Dec 21 18:16:58 CST 2025
+Sun Dec 21 18:17:06 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Dec 21 18:18:25 CST 2025
+删除my_eyes_higher 
+删除dana9282 
