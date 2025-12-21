@@ -279,3 +279,8 @@ Sun Dec 21 15:31:54 CST 2025
 Sun Dec 21 15:33:12 CST 2025
 删除dreamch77 
 删除my_eyes_higher 
+添加_meganmeow_ https://edge17-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9f570d2c1d1ec3465dfea9c02af66b63ee964ee6bd65c639aae900912be6960e_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge4-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8e252752220b1d8e78c20899e5673a2f53d31373df9c8c96b421cbf6ca2d86c5_trns_h264/playlist.m3u8
+Sun Dec 21 15:46:47 CST 2025
+Sun Dec 21 15:46:51 CST 2025
+Sun Dec 21 15:48:14 CST 2025
