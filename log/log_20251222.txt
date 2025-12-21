@@ -28,3 +28,10 @@ Mon Dec 22 01:01:54 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Mon Dec 22 01:03:20 CST 2025
 删除eunyoung1238 
+添加my_eyes_higher https://edge21-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-3a823c7c7b5b9f1a67fae8623ef567b1eefd3f5121c4b331fe50fef7cd1518d3_trns_h264/playlist.m3u8
+Mon Dec 22 01:16:48 CST 2025
+Mon Dec 22 01:16:58 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Mon Dec 22 01:18:16 CST 2025
+删除naras2 
+删除eunyoung1238 
