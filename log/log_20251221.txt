@@ -382,3 +382,11 @@ Sun Dec 21 19:33:07 CST 2025
 Sun Dec 21 19:46:50 CST 2025
 Sun Dec 21 19:47:04 CST 2025
 Sun Dec 21 19:48:17 CST 2025
+添加ake_mi https://edge3-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-419734ad425e5cbb9d8a9e967b1fa66c814cd7c28b28a79ea5cae75bd6b11178_trns_h264/playlist.m3u8
+Sun Dec 21 20:02:01 CST 2025
+添加dkdlfjqm758 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.M7Qu8Q22T8Ua.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL003UXU4UTIyVDhVYSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEMzk1MzE0RS0zNTc3LTRCRUEtQUFDNi1DQUY5QUIwODU5QUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjMxODUzMywiZXhwIjoxNzY2MzE5MTMzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.QtwZhlY2GbGhSfXaBkoNvC_RS2-MMNhY2a-UYYAUrY-JfEMu_-zR7QlxskTQpsjco1ypabpMg_XokninP4UZAotswAIq5zPkHdao5qQZGtSx0y0qkCXHBxK7p9ClRRtb
+Sun Dec 21 20:02:19 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sun Dec 21 20:03:28 CST 2025
+删除ad0res 
+删除eunyoung1238 
