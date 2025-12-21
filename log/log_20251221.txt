@@ -201,3 +201,9 @@ Sun Dec 21 11:18:13 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除_meganmeow_ 
 删除taitehambelton 
+添加taitehambelton https://edge11-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-9df98e9ac9a566dd168b061c610490037c90cd27027ef8a47b9907233394533b_trns_h264/playlist.m3u8
+添加_meganmeow_ https://edge7-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-9f570d2c1d1ec3465dfea9c02af66b63ee964ee6bd65c639aae900912be6960e_trns_h264/playlist.m3u8
+添加mazzanti_ https://edge6-phx.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-bce8b09e9c8577d8aa3a570b972e8647ef0f2571e474889fcd8784bbc24828cd_trns_h264/playlist.m3u8
+Sun Dec 21 11:32:01 CST 2025
+Sun Dec 21 11:32:04 CST 2025
+Sun Dec 21 11:33:24 CST 2025
