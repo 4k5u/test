@@ -308,3 +308,10 @@ Sun Dec 21 16:46:47 CST 2025
 Sun Dec 21 16:48:11 CST 2025
 删除hyuna0721 
 删除dana9282 
+添加ad0res https://edge23-sea.live.mmcdn.com/live-hls/amlst:ad0res-sd-2413a3759dc25b2909c2017b16d75149ac75263b2ca14af4813dc6e3cd638dda_trns_h264/playlist.m3u8
+Sun Dec 21 17:01:41 CST 2025
+Sun Dec 21 17:01:43 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Sun Dec 21 17:03:02 CST 2025
+删除sexygamesx 
+删除dana9282 
