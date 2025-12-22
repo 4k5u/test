@@ -388,3 +388,11 @@ Mon Dec 22 21:18:31 CST 2025
 删除ake_mi 
 删除hanny27 
 删除yin2618 
+添加ake_mi https://edge11-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-e70fdb95f7996e2cc37b7c2f7eea3f825f590975bd5054094ea4fcd228d7add1_trns_h264/playlist.m3u8
+Mon Dec 22 21:31:42 CST 2025
+Mon Dec 22 21:31:53 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Mon Dec 22 21:33:19 CST 2025
+删除hanny27 
+删除yin2618 
