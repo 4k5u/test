@@ -295,3 +295,9 @@ Mon Dec 22 18:03:16 CST 2025
 Mon Dec 22 18:16:46 CST 2025
 Mon Dec 22 18:16:52 CST 2025
 Mon Dec 22 18:18:11 CST 2025
+Mon Dec 22 18:31:51 CST 2025
+Mon Dec 22 18:31:57 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon Dec 22 18:33:21 CST 2025
+删除mikio_san 
+删除hanny27 
