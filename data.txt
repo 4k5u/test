@@ -5,4 +5,3 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 taitehambelton   https://edge25-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-2317d77eaf752099912f7c1460101d9002bb67cd454075a6c72f61e232ba332f_trns_h264/playlist.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
-sexygamesx   https://edge7-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-273973d1109d0f59611900744a9d641ce1aeaa236fd3568e2ecb1d3bb9027da0_trns_h264/playlist.m3u8
