@@ -43,3 +43,8 @@ Wed Dec 24 01:32:04 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
 Wed Dec 24 01:33:28 CST 2025
 删除eunyoung1238 
+Wed Dec 24 01:46:43 CST 2025
+Wed Dec 24 01:46:53 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Wed Dec 24 01:48:15 CST 2025
+删除eunyoung1238 
