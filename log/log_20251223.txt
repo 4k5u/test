@@ -308,3 +308,8 @@ Tue Dec 23 18:02:01 CST 2025
 Tue Dec 23 18:03:21 CST 2025
 删除taitehambelton 
 删除alswl2208 
+Tue Dec 23 18:16:56 CST 2025
+Tue Dec 23 18:17:04 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+Tue Dec 23 18:18:15 CST 2025
+删除alswl2208 
