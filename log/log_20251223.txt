@@ -529,3 +529,13 @@ Tue Dec 23 23:18:32 CST 2025
 删除eunyoung1238 
 删除hanny27 
 删除yin2618 
+Tue Dec 23 23:31:44 CST 2025
+Tue Dec 23 23:32:02 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+Tue Dec 23 23:33:22 CST 2025
+删除bongbong486 
+删除eunyoung1238 
+删除hanny27 
+删除yin2618 
