@@ -412,3 +412,14 @@ Wed Dec 24 21:03:29 CST 2025
 删除gremmy 
 删除eunyoung1238 
 删除yin2618 
+Wed Dec 24 21:16:45 CST 2025
+Wed Dec 24 21:17:15 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+Wed Dec 24 21:18:22 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除rvn1015 
+删除gremmy 
+删除eunyoung1238 
+删除yin2618 
