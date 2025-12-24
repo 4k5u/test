@@ -162,3 +162,8 @@ Thu Dec 25 06:01:54 CST 2025
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Thu Dec 25 06:03:20 CST 2025
 删除gusdk2362 
+Thu Dec 25 06:16:46 CST 2025
+Thu Dec 25 06:16:52 CST 2025
+Thu Dec 25 06:18:07 CST 2025
+删除gremmy 
+删除starsh2802 
