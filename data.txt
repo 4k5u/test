@@ -7,3 +7,4 @@ namuh0926   https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 sexygamesx   https://edge15-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-0cf094b46f43eeb2d611b149245acd8586a290e05a3b5037d1c8d54adc29c480_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fb53ae8dd7e7c4ca81b80679679ab879a072228e59de388768848733974d20c7_trns_h264/playlist.m3u8
