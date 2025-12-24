@@ -6,3 +6,4 @@ taitehambelton   https://edge35-phx.live.mmcdn.com/live-hls/amlst:taitehambelton
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 my_eyes_higher   https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-fb53ae8dd7e7c4ca81b80679679ab879a072228e59de388768848733974d20c7_trns_h264/playlist.m3u8
 sexygamesx   https://edge5-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-fb919cd861143f4b1e0e708cbbed72e155afcf8a1d63280310adc12d1c298164_trns_h264/playlist.m3u8
+foxylovesyou   https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-35e102c668a9d2c5faaa0abf3cc5dc9e2be1796762e5b81444ff1317949f43f7_trns_h264/playlist.m3u8
