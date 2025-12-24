@@ -80,3 +80,8 @@ Thu Dec 25 02:16:51 CST 2025
 Thu Dec 25 02:16:59 CST 2025
 Thu Dec 25 02:18:13 CST 2025
 删除rvn1015 
+Thu Dec 25 02:31:49 CST 2025
+Thu Dec 25 02:31:57 CST 2025
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 02:33:21 CST 2025
+删除gusdk2362 
