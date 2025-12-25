@@ -369,3 +369,12 @@ Thu Dec 25 18:03:32 CST 2025
 删除my_eyes_higher 
 删除navi04 
 删除alswl2208 
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-94257a8af0db739e7016ae2ef496e11f179297f1b76855cfb85222886d528570_trns_h264/playlist.m3u8
+Thu Dec 25 18:16:49 CST 2025
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.55cHFi6IeBXm.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzU1Y0hGaTZJZUJYbSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCMUY1OTc1MS04RDk2LTRGRjItQkJCQi05QzAwODlDNUQ0REEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjY1NzgyMSwiZXhwIjoxNzY2NjU4NDIxLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.SHjQMCNZKZF1gX87rgnduz3wmR7JhgdLR_SB6-0bzIuFIHkNtLK3quXEPwnnN5GAyW_XEqUO6YfZR3XJH9Lp6UzY329PRh7EA_Rtpe4QAkgxzjcup6UtDYb4qTk9b8vx
+Thu Dec 25 18:17:04 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 18:18:28 CST 2025
+删除navi04 
+删除alswl2208 
