@@ -411,3 +411,14 @@ Thu Dec 25 19:04:00 CST 2025
 删除navi04 
 删除alswl2208 
 删除hanny27 
+Thu Dec 25 19:16:58 CST 2025
+Thu Dec 25 19:17:10 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4y2TPr53gWnM48wEPOfdog3Z77af0Yuc6dcdlXCMjq3fFo-yPsH7XSSRiZno25deG6U_GFA1FICaD2RZzDjoiXA50ZEnzkSt-tPGEKfk-PdovxxWkaQncAE-m6jwHxtx01ps8Lz0_VAC5t-LJsDu60N8L_v_94jzoQEt6bmQcPOXf2flwBnb9PLV29MyT55y
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 19:18:36 CST 2025
+删除honey_pinkgreen 
+删除navi04 
+删除alswl2208 
+删除hanny27 
