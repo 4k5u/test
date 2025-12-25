@@ -350,3 +350,13 @@ Thu Dec 25 17:31:53 CST 2025
 Thu Dec 25 17:33:20 CST 2025
 删除navi04 
 删除alswl2208 
+Thu Dec 25 17:46:48 CST 2025
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PaGtKou7VZDf.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1BhR3RLb3U3VlpEZiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJEOEVDMEI1Qy1CRUM4LTREMjItODdGNS1GQ0RGRENFNEUzOUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjY1NjAxNSwiZXhwIjoxNzY2NjU2NjE1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KAltaOFTEIHQbp9DPAGbyXPicS_mM4TmLel3jSt_y68A0lLaQo1OmKPVELyR52m-4bRmdjJ7mziWAofPOJrpYIFO1c_Jl5UQSwRKDoro3hUKwLRuJaPLVtAcfDC2pbSK
+Thu Dec 25 17:46:58 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 17:48:25 CST 2025
+删除taitehambelton 
+删除mikio_san 
+删除navi04 
+删除alswl2208 
