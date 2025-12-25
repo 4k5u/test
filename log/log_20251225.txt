@@ -434,3 +434,14 @@ Thu Dec 25 19:33:25 CST 2025
 删除navi04 
 删除alswl2208 
 删除hanny27 
+添加honey_pinkgreen https://edge4-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-418fa66b6d9f626dfcba6b039a342ebc0cbe8c13264e522e1a734e3894f70278_trns_h264/playlist.m3u8
+Thu Dec 25 19:46:48 CST 2025
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.HLTZVmcz08ZH.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0hMVFpWbWN6MDhaSCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRjY2MTQ1QS1GMjBGLTQwN0ItODg3RC1EMzUzRThGQzg3MTIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjY2MzIxMywiZXhwIjoxNzY2NjYzODEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mC1cvhrQtzSjAZ8uTL5Y1_fccwnbybozFahRQxmTQALhG5Cp27ku6sgGinbwntPU2jCqMuhiqEhDc-VUVUDgHQ6ONp0HG88ZhoMR2lvx7_WW664LyCl8iOek2dwWV6C-
+Thu Dec 25 19:47:04 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Thu Dec 25 19:48:25 CST 2025
+删除navi04 
+删除alswl2208 
+删除hanny27 
