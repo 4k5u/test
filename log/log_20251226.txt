@@ -6,3 +6,13 @@ Fri Dec 26 00:03:19 CST 2025
 删除glglehddl 
 删除gremmy 
 删除eunyoung1238 
+添加my_eyes_higher https://edge20-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1c6f5354a4955dd3e5af480b031f82884c3d0ea808c0a110230b0f7801bba922_trns_h264/playlist.m3u8
+Fri Dec 26 00:16:42 CST 2025
+Fri Dec 26 00:16:56 CST 2025
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Fri Dec 26 00:18:15 CST 2025
+删除flower1023 
+删除soso621 
+删除gremmy 
+删除eunyoung1238 
