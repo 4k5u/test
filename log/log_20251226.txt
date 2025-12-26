@@ -366,3 +366,11 @@ Fri Dec 26 21:31:58 CST 2025
 Fri Dec 26 21:33:28 CST 2025
 删除eunyoung1238 
 删除yin2618 
+Fri Dec 26 21:46:39 CST 2025
+Fri Dec 26 21:46:55 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Fri Dec 26 21:48:20 CST 2025
+删除soso621 
+删除eunyoung1238 
+删除yin2618 
