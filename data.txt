@@ -7,3 +7,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 my_eyes_higher   https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1465a15edd82749c466f4aadd4667da25a251ea45deb5439ae6dddd5f07f45fb_trns_h264/playlist.m3u8
 _meganmeow_   https://edge17-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-bdbfc7a4d785a889c1867691c5eeb1d08b02453b9698b2c7b38242baf85851f6_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
