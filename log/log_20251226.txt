@@ -348,3 +348,13 @@ Fri Dec 26 21:03:28 CST 2025
 删除my_eyes_higher 
 删除eunyoung1238 
 删除yin2618 
+Fri Dec 26 21:16:45 CST 2025
+添加o111na https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.pTah5wm4MrEs.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3BUYWg1d200TXJFcyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDREU5QkY0RS1ERTEzLTRFOTQtQUEwRi1CMzEwQURFNzc4RjgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Njc1NTAxNiwiZXhwIjoxNzY2NzU1NjE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.fBrjzJG4VhgFjLkBDCZdTyBjxsPwwJGjE8VSwPkkhGoWO8wrUNbB0JEFq6PywcVdDgivuRdzHuwC6vI_LVFIe4T4zXXvVCSJUfY4YMm87tVr3XajXkqLL9u6XvvEd_hZ
+Fri Dec 26 21:17:05 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Fri Dec 26 21:18:28 CST 2025
+删除navi04 
+删除rvn1015 
+删除eunyoung1238 
+删除yin2618 
