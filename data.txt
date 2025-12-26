@@ -6,3 +6,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 honey_pinkgreen   https://edge4-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4da7b6aa1bf814d0d41517a1d4beea67473c76f7f4a42c6882549f5c4995ed65_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge24-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6a51ea2b97e4b50925dded661d47a9540523552c02eb18c3ef5ec4bbe355c959_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
