@@ -339,3 +339,12 @@ Fri Dec 26 20:47:12 CST 2025
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Fri Dec 26 20:48:29 CST 2025
 删除eunyoung1238 
+Fri Dec 26 21:01:50 CST 2025
+Fri Dec 26 21:02:06 CST 2025
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Fri Dec 26 21:03:28 CST 2025
+删除ahri0801 
+删除my_eyes_higher 
+删除eunyoung1238 
+删除yin2618 
