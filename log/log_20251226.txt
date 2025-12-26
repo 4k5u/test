@@ -237,3 +237,8 @@ Fri Dec 26 15:31:50 CST 2025
 Fri Dec 26 15:31:54 CST 2025
 Fri Dec 26 15:33:20 CST 2025
 删除my_eyes_higher 
+添加honey_pinkgreen https://edge4-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4da7b6aa1bf814d0d41517a1d4beea67473c76f7f4a42c6882549f5c4995ed65_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge24-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6a51ea2b97e4b50925dded661d47a9540523552c02eb18c3ef5ec4bbe355c959_trns_h264/playlist.m3u8
+Fri Dec 26 15:46:50 CST 2025
+Fri Dec 26 15:46:55 CST 2025
+Fri Dec 26 15:48:14 CST 2025
