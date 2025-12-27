@@ -444,3 +444,12 @@ Sat Dec 27 22:03:42 CST 2025
 删除imsocutesexy 
 删除dana9282 
 删除yin2618 
+Sat Dec 27 22:16:58 CST 2025
+Sat Dec 27 22:17:27 CST 2025
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Dec 27 22:18:30 CST 2025
+添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
+删除leelate 
+删除dana9282 
+删除yin2618 
