@@ -316,3 +316,6 @@ Sat Dec 27 16:31:56 CST 2025
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Sat Dec 27 16:33:09 CST 2025
 删除dana9282 
+Sat Dec 27 16:46:56 CST 2025
+Sat Dec 27 16:47:02 CST 2025
+Sat Dec 27 16:48:14 CST 2025
