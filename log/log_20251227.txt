@@ -189,3 +189,10 @@ Sat Dec 27 11:16:39 CST 2025
 Sat Dec 27 11:16:43 CST 2025
 Sat Dec 27 11:18:11 CST 2025
 删除taitehambelton 
+添加taitehambelton https://edge17-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-e4dcafb3abff5f8fe48f9c98629a6740f58a4e41f5d36b3a74c0108b7f9d9bac_trns_h264/playlist.m3u8
+Sat Dec 27 11:31:49 CST 2025
+Sat Dec 27 11:31:53 CST 2025
+Sat Dec 27 11:33:21 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除alicelebel 
