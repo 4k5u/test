@@ -365,3 +365,8 @@ Sat Dec 27 19:03:34 CST 2025
 Sat Dec 27 19:17:13 CST 2025
 Sat Dec 27 19:17:29 CST 2025
 Sat Dec 27 19:18:34 CST 2025
+添加ad0res https://edge4-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-ba47f30ebcf51891bb2a68d8d11c1ed046aa5b3db10d7174c3456d925dccdee5_trns_h264/playlist.m3u8
+Sat Dec 27 19:32:26 CST 2025
+Sat Dec 27 19:32:42 CST 2025
+Sat Dec 27 19:33:48 CST 2025
+删除dign1461 
