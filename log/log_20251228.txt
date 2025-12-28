@@ -148,3 +148,8 @@ Sun Dec 28 08:01:50 CST 2025
 Sun Dec 28 08:01:56 CST 2025
 Sun Dec 28 08:03:18 CST 2025
 删除my_eyes_higher 
+Sun Dec 28 08:16:53 CST 2025
+Sun Dec 28 08:17:00 CST 2025
+Sun Dec 28 08:18:18 CST 2025
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除dign1461 
