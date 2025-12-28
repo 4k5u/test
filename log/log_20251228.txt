@@ -254,3 +254,11 @@ Sun Dec 28 14:16:57 CST 2025
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 Sun Dec 28 14:18:21 CST 2025
 删除hanny27 
+Sun Dec 28 14:31:56 CST 2025
+添加nobleinc https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EFjgNzN8ufNO.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VGamdOek44dWZOTyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyNDBEMTE0QS0xRDlBLTRGNTctODYzMi0wMjcxMjMwMjJBQUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NjkwMzUxNiwiZXhwIjoxNzY2OTA0MTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qH4TDn0J4DCeM6vIE7Xoao50OjckFiAaJ1XOZDsXAMlKuw5QPE_sVFHA4rJJgypu8TEYdSo_MYqRNQAZqc9XofhhVtRmpFfik_6-kYs0_21gEzuZB6jl7d_jkRzwYvv8
+Sun Dec 28 14:32:08 CST 2025
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sun Dec 28 14:33:30 CST 2025
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除Sime_Naughty 
+删除hanny27 
