@@ -211,3 +211,7 @@ Sun Dec 28 12:02:20 CST 2025
 Sun Dec 28 12:02:26 CST 2025
 Sun Dec 28 12:03:48 CST 2025
 添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+添加mazzanti_ https://edge24-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-5c25034756e3b004612a00604e8f1e2d68258d7d0ef43c542fa2b56068cceee4_trns_h264/playlist.m3u8
+Sun Dec 28 12:16:56 CST 2025
+Sun Dec 28 12:17:02 CST 2025
+Sun Dec 28 12:18:23 CST 2025
