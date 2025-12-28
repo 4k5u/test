@@ -197,3 +197,8 @@ Sun Dec 28 11:16:56 CST 2025
 Sun Dec 28 11:18:22 CST 2025
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除_meganmeow_ 
+Sun Dec 28 11:31:43 CST 2025
+Sun Dec 28 11:31:51 CST 2025
+Sun Dec 28 11:33:13 CST 2025
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除alicelebel 
