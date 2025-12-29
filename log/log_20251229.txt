@@ -335,3 +335,13 @@ Mon Dec 29 19:18:26 CST 2025
 删除ad0res 
 删除navi04 
 删除alswl2208 
+添加ad0res https://edge15-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-1889dae73259cc333dc49a3b8c289e934ea3ecde648a8bbcecb38a0a69b68698_trns_h264/playlist.m3u8
+Mon Dec 29 19:31:58 CST 2025
+Mon Dec 29 19:32:08 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Mon Dec 29 19:33:38 CST 2025
+删除imanatural 
+删除ad0res 
+删除navi04 
+删除alswl2208 
