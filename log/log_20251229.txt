@@ -307,3 +307,11 @@ Mon Dec 29 18:33:26 CST 2025
 删除imsocutesexy 
 删除navi04 
 删除alswl2208 
+Mon Dec 29 18:46:41 CST 2025
+Mon Dec 29 18:46:51 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Mon Dec 29 18:48:23 CST 2025
+删除SanySenise 
+删除navi04 
+删除alswl2208 
