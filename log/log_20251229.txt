@@ -417,3 +417,10 @@ Mon Dec 29 21:47:04 CST 2025
 Mon Dec 29 21:48:36 CST 2025
 删除alswl2208 
 删除yin2618 
+Mon Dec 29 22:01:53 CST 2025
+Mon Dec 29 22:02:11 CST 2025
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon Dec 29 22:03:41 CST 2025
+删除alswl2208 
+删除yin2618 
