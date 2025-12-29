@@ -455,3 +455,10 @@ Mon Dec 29 23:02:14 CST 2025
 添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Mon Dec 29 23:03:49 CST 2025
 删除yin2618 
+Mon Dec 29 23:16:58 CST 2025
+Mon Dec 29 23:17:14 CST 2025
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Mon Dec 29 23:18:38 CST 2025
+删除homegirl 
+删除Ryo-sama 
+删除yin2618 
