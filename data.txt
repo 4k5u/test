@@ -7,3 +7,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 sexygamesx   https://edge5-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-8d83e3fccc19f3f74fbbabe15279d138b747f91701337fc062b097f8ea211e3d_trns_h264/playlist.m3u8
 mode_bad   https://edge6-aus.live.mmcdn.com/live-hls/amlst:mode_bad-sd-a3b9e7f7bf3e9220f5055b0580655983f262741ecb2629459bb621dd44229879_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
