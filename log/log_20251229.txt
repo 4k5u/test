@@ -252,3 +252,8 @@ Mon Dec 29 16:32:09 CST 2025
 Mon Dec 29 16:33:25 CST 2025
 添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
 删除my_eyes_higher 
+添加ad0res https://edge24-sea.live.mmcdn.com/live-hls/amlst:ad0res-sd-1889dae73259cc333dc49a3b8c289e934ea3ecde648a8bbcecb38a0a69b68698_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-31ba8ade26df6286b878d449807c21d840a41d26fcc38ffcdaf1434f6f3347e6_trns_h264/playlist.m3u8
+Mon Dec 29 16:46:54 CST 2025
+Mon Dec 29 16:47:04 CST 2025
+Mon Dec 29 16:48:25 CST 2025
