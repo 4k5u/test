@@ -247,3 +247,8 @@ Mon Dec 29 16:16:43 CST 2025
 Mon Dec 29 16:16:53 CST 2025
 Mon Dec 29 16:18:27 CST 2025
 删除Dolv_1o 
+Mon Dec 29 16:31:59 CST 2025
+Mon Dec 29 16:32:09 CST 2025
+Mon Dec 29 16:33:25 CST 2025
+添加Dolv_1o https://edge-hls.doppiocdn.live/hls/134198227/master/134198227_auto.m3u8
+删除my_eyes_higher 
