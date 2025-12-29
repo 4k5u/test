@@ -225,3 +225,8 @@ Mon Dec 29 15:02:04 CST 2025
 Mon Dec 29 15:02:13 CST 2025
 Mon Dec 29 15:03:31 CST 2025
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Mon Dec 29 15:16:50 CST 2025
+添加jinricp https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.13OCVCOlHKNe.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzEzT0NWQ09sSEtOZSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0RjIwQTZBQi04QThBLTQxMDgtQTgyRS00RDdGNEI1NEFCOEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Njk5MjYxMywiZXhwIjoxNzY2OTkzMjEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.-R3leALCalfCYvKO9U1j-vLcllaw88HaoMRMY8UGnJy473CplbWh7xpN_aeMir6P-YZk6G3I9VCEGMACySL20xkMx_2M7qaF2hW7vflTYaPU2Cdr4bj-yXJEpZafteoh
+Mon Dec 29 15:17:02 CST 2025
+Mon Dec 29 15:18:24 CST 2025
+删除my_eyes_higher 
