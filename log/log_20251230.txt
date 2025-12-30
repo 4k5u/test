@@ -286,3 +286,14 @@ Tue Dec 30 18:46:50 CST 2025
 Tue Dec 30 18:48:26 CST 2025
 删除navi04 
 删除hanny27 
+添加honey_pinkgreen https://edge18-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-2d0ee4ebcc0c7152e19e165e83684d9015f807cfec82a7e4e401bd07572e8fca_trns_h264/playlist.m3u8
+Tue Dec 30 19:01:54 CST 2025
+Tue Dec 30 19:02:00 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Tue Dec 30 19:03:35 CST 2025
+删除moem9e9 
+删除dreamch77 
+删除my_eyes_higher 
+删除navi04 
+删除hanny27 
