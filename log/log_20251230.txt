@@ -353,3 +353,10 @@ Tue Dec 30 20:32:10 CST 2025
 Tue Dec 30 20:33:29 CST 2025
 删除navi04 
 删除hanny27 
+Tue Dec 30 20:46:55 CST 2025
+Tue Dec 30 20:47:13 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Tue Dec 30 20:48:34 CST 2025
+删除navi04 
+删除hanny27 
