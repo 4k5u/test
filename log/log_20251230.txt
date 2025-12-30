@@ -260,3 +260,10 @@ Tue Dec 30 17:47:00 CST 2025
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
 Tue Dec 30 17:48:23 CST 2025
 删除navi04 
+Tue Dec 30 18:01:50 CST 2025
+添加jodong2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.hLCKKTc6NvEv.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2hMQ0tLVGM2TnZFdiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0MDFGNkYzRC01MUEzLTQ5NUQtQjEyNi03RUNCRjIzNTFBMjAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2NzA4ODkxMywiZXhwIjoxNzY3MDg5NTEzLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3kmf0cwREHEZahPJ6dTuvPAu2iE8occnLtOU5pdpx17t78uHS23XqEIv_zIj2d3q1Z_JcBqPp7jahZE-Jh8L_P6xzn5MsF_LBBHb80sTajFDASVsDfANrr5LK2UXpycq
+Tue Dec 30 18:01:58 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Tue Dec 30 18:03:23 CST 2025
+删除SanySenise 
+删除navi04 
