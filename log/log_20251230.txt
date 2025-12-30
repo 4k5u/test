@@ -267,3 +267,8 @@ Tue Dec 30 18:01:58 CST 2025
 Tue Dec 30 18:03:23 CST 2025
 删除SanySenise 
 删除navi04 
+Tue Dec 30 18:16:58 CST 2025
+Tue Dec 30 18:17:04 CST 2025
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Tue Dec 30 18:18:27 CST 2025
+删除navi04 
