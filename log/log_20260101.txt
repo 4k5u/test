@@ -179,3 +179,7 @@ Thu Jan 1 04:48:19 CST 2026
 Thu Jan 1 05:01:48 CST 2026
 Thu Jan 1 05:01:58 CST 2026
 Thu Jan 1 05:03:30 CST 2026
+添加mode_bad https://edge19-sea.live.mmcdn.com/live-hls/amlst:mode_bad-sd-5fc7b02189f7162260a930baaecbe4f51538033871f9da42f447a0fa20c2e9da_trns_h264/playlist.m3u8
+Thu Jan 1 05:16:41 CST 2026
+Thu Jan 1 05:16:51 CST 2026
+Thu Jan 1 05:18:21 CST 2026
