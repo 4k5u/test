@@ -116,3 +116,14 @@ Thu Jan 1 02:18:30 CST 2026
 删除gremmy 
 删除eunyoung1238 
 删除gusdk2362 
+Thu Jan 1 02:31:56 CST 2026
+Thu Jan 1 02:32:08 CST 2026
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Thu Jan 1 02:33:41 CST 2026
+删除ddooyaa 
+删除glglehddl 
+删除gremmy 
+删除eunyoung1238 
+删除gusdk2362 
