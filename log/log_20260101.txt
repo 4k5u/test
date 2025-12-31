@@ -202,3 +202,7 @@ Thu Jan 1 06:46:44 CST 2026
 Thu Jan 1 06:46:54 CST 2026
 Thu Jan 1 06:48:25 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Thu Jan 1 07:01:55 CST 2026
+Thu Jan 1 07:02:03 CST 2026
+Thu Jan 1 07:03:32 CST 2026
+删除eli05021212 
