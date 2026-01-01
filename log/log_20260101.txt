@@ -347,3 +347,8 @@ Thu Jan 1 16:17:00 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
 Thu Jan 1 16:18:29 CST 2026
 删除hanny27 
+Thu Jan 1 16:31:52 CST 2026
+Thu Jan 1 16:31:58 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Thu Jan 1 16:33:30 CST 2026
+删除hanny27 
