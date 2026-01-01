@@ -381,3 +381,8 @@ Thu Jan 1 17:46:45 CST 2026
 Thu Jan 1 17:48:14 CST 2026
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除hanny27 
+Thu Jan 1 18:01:39 CST 2026
+Thu Jan 1 18:01:45 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+Thu Jan 1 18:03:14 CST 2026
+删除hanny27 
