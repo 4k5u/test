@@ -249,3 +249,9 @@ Fri Jan 2 16:48:22 CST 2026
 Fri Jan 2 17:01:51 CST 2026
 Fri Jan 2 17:01:53 CST 2026
 Fri Jan 2 17:03:22 CST 2026
+Fri Jan 2 17:16:44 CST 2026
+Fri Jan 2 17:16:46 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Jan 2 17:18:22 CST 2026
+删除dkdlfjqm758 
+删除hanny27 
