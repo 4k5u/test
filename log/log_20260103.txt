@@ -26,3 +26,8 @@ Sat Jan 3 00:47:15 CST 2026
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Sat Jan 3 00:48:40 CST 2026
 删除eunyoung1238 
+Sat Jan 3 01:01:55 CST 2026
+Sat Jan 3 01:02:16 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Sat Jan 3 01:03:38 CST 2026
+删除eunyoung1238 
