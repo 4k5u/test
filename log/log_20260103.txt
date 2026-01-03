@@ -297,3 +297,8 @@ Sat Jan 3 14:17:02 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Sat Jan 3 14:18:36 CST 2026
 删除hanny27 
+Sat Jan 3 14:31:56 CST 2026
+Sat Jan 3 14:32:02 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sat Jan 3 14:33:27 CST 2026
+删除hanny27 
