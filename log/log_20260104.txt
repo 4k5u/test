@@ -389,3 +389,10 @@ Sun Jan 4 13:31:55 CST 2026
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
 Sun Jan 4 13:33:29 CST 2026
 删除dana9282 
+Sun Jan 4 13:46:50 CST 2026
+Sun Jan 4 13:46:54 CST 2026
+添加dana9282 ?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sun Jan 4 13:48:35 CST 2026
+删除dana9282 
+删除gusdk2362 
