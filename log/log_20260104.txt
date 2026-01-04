@@ -430,3 +430,10 @@ Sun Jan 4 14:48:35 CST 2026
 删除dana9282 
 删除gusdk2362 
 删除hanny27 
+Sun Jan 4 15:02:00 CST 2026
+Sun Jan 4 15:02:06 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sun Jan 4 15:03:41 CST 2026
+删除gusdk2362 
+删除hanny27 
