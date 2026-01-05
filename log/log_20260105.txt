@@ -280,3 +280,7 @@ Mon Jan 5 17:02:08 CST 2026
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Mon Jan 5 17:03:35 CST 2026
 删除dana9282 
+添加ad0res https://edge7-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-a741d137d5c46cb6a7fff720d29f6042169c7acde4677067380f4f852e25816d_trns_h264/playlist.m3u8
+Mon Jan 5 17:16:59 CST 2026
+Mon Jan 5 17:17:07 CST 2026
+Mon Jan 5 17:18:33 CST 2026
