@@ -270,3 +270,8 @@ Mon Jan 5 16:31:47 CST 2026
 添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Mon Jan 5 16:33:24 CST 2026
 删除dana9282 
+Mon Jan 5 16:46:53 CST 2026
+Mon Jan 5 16:47:01 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Mon Jan 5 16:48:35 CST 2026
+删除dana9282 
