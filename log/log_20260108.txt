@@ -386,3 +386,13 @@ Thu Jan 8 17:47:07 CST 2026
 添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
 Thu Jan 8 17:48:18 CST 2026
 删除navi04 
+Thu Jan 8 18:02:00 CST 2026
+添加thgml1212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.esxNrxxtxwoL.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VzeE5yeHh0eHdvTCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJDOTQ1OUEwNy05NEJDLTQyMTAtODczMS05NDBFODk5NjVEMUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2Nzg2NjUyNCwiZXhwIjoxNzY3ODY3MTI0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jHEra0z9bCbAgG2Vc7CvTyxwuvUXBHkVvqt2ZhPDsQMke2ZE_JrR-rX8SK84kZ2KSl7aS062DvWg_SEgGye93WMAiJRun2xGka0kKm5_CizJcKJKc_p4xKU25ffTAMmr
+Thu Jan 8 18:02:08 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Jan 8 18:03:32 CST 2026
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除taitehambelton 
+删除navi04 
+删除alswl2208 
