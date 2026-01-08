@@ -354,3 +354,8 @@ Thu Jan 8 16:17:43 CST 2026
 Thu Jan 8 16:17:48 CST 2026
 Thu Jan 8 16:18:58 CST 2026
 删除hyuna0721 
+Thu Jan 8 16:32:22 CST 2026
+Thu Jan 8 16:32:24 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Thu Jan 8 16:33:36 CST 2026
+删除dana9282 
