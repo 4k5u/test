@@ -243,3 +243,7 @@ Sun Jan 11 06:47:03 CST 2026
 Sun Jan 11 06:48:16 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除Sime_Naughty 
+Sun Jan 11 07:01:57 CST 2026
+Sun Jan 11 07:02:05 CST 2026
+Sun Jan 11 07:03:16 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
