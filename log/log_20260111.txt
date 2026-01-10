@@ -238,3 +238,8 @@ Sun Jan 11 06:31:52 CST 2026
 Sun Jan 11 06:32:00 CST 2026
 Sun Jan 11 06:33:12 CST 2026
 删除starsh2802 
+Sun Jan 11 06:46:55 CST 2026
+Sun Jan 11 06:47:03 CST 2026
+Sun Jan 11 06:48:16 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除Sime_Naughty 
