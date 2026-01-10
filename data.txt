@@ -5,3 +5,4 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 taitehambelton   https://edge17-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-7ab9024f4825196e025961074269eb2b5e7f96a8c002721a16a925a926b0ffc0_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
