@@ -189,3 +189,7 @@ Wed Jan 14 05:33:00 CST 2026
 Wed Jan 14 05:46:53 CST 2026
 Wed Jan 14 05:47:01 CST 2026
 Wed Jan 14 05:48:13 CST 2026
+添加mode_bad https://edge17-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-2fc2ca877cfa307ac1c188500a8e063b4ddd0d3919b2b53c047b2674f4d5f1db_trns_h264/playlist.m3u8
+Wed Jan 14 06:01:43 CST 2026
+Wed Jan 14 06:01:51 CST 2026
+Wed Jan 14 06:03:03 CST 2026
