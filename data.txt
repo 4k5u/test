@@ -4,3 +4,5 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=null&sig=null&allow_source=true&allow_audio_only=true
+taitehambelton   https://edge3-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-f11900cb84bbf95e6a144f38d4d06888741e059177d6abaff11e563510314b36_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b4c7a61c26b5f65b808b8c93828561053edeff3127e57fa3c959f6c182d4d086_trns_h264/playlist.m3u8
