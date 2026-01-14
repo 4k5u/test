@@ -441,3 +441,19 @@ Wed Jan 14 18:03:17 CST 2026
 删除dreamch77 
 删除alswl2208 
 删除dign1461 
+Wed Jan 14 18:16:45 CST 2026
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yzoc7wwpPwl6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l6b2M3d3dwUHdsNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBN0Q0REVBNi0wMUM1LTRBNkYtQkZCRi1BNzcwRTJGNUYyMDciLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODM4NTgxMCwiZXhwIjoxNzY4Mzg2NDEwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.oAsiv-XoJL-zeR9eq_c2CHLK8SYgqhieQReX3UZ5ZfVd_uStXMbpJMfcw7lK3wUZaOEvx8oiA-zsYdt8BKzd5XYyw2Wt8ilHOEahQ1IGseX3KfvHk_l0UxneBCLc6ZY1
+Wed Jan 14 18:16:55 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GB6k9xuVGRne7j0vCngZ9paOV6LaFCxOdIA6ZX2k51rgUDnyTgOwDblAWDo2gJQxPBw7q9b0At2Vztj-DccfKrM0h7tG7YjbXNgNRNJzo08tWKNz4Txej5oZut8C6Oo-5Vm0FKBwD2p5vf88JM3mphEWx7JzL3oiaoK-3POTLH8o_lgga5N1ufvUCVXPAC19
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.KGiYjSP8WF3FPXKD4mQf42PRbnaMxixe1mf562hJUbSWV0f8OFQ_UDMj_ReQBQ2BowfFF_I965o85lkfIJ9U3Ga_b4Okpg4vITrqas11K0SGA8bWL_eepFuvIQpVbY0iwZ3D4Uu80UMr9pqkSUMS2uzHYQRecE8SBM9L3n3kgV2mme573sG4V27B58HYBmca
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gypsXf-aAoFPwxw2nlSCue1FzHWdguZICJfmKCKb5Pz2JdU_XLt4frSWoFBB1glHF52gTEnHqv0pv4oXX0U_GdWHL8W0J3l9kZ-dyQzGSYcTpVc9CwBY31DeYLiSEDeMXP-cILa8TBr712NVPr48C-KvSAMX7qItjUu4MJzSkMcARBCVd2q_g-OMr6H4LtzJ
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Wed Jan 14 18:18:24 CST 2026
+删除SanySenise 
+删除foxylovesyou 
+删除dreamch77 
+删除alswl2208 
+删除y1026 
+删除dign1461 
+删除hanny27 
