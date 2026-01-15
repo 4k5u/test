@@ -761,3 +761,24 @@ Thu Jan 15 19:18:33 CST 2026
 删除namuh0926 
 删除kjjeong0609 
 删除hanny27 
+添加ake_mi https://edge11-aus.live.mmcdn.com/live-hls/amlst:ake_mi-sd-18ad64c70dc5fc88b92d1bc797c2b2cf2767bc10895cc034463c97f0b9412d04_trns_h264/playlist.m3u8
+Thu Jan 15 19:31:56 CST 2026
+Thu Jan 15 19:32:10 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.TL2A964_UTaGnbuCPVEInyTUXEuwcDNyhipvdz9B6YEB-l5A9pZvrA0QJ9wt5vXA4ueqRKlEn3kxV2FJDf4gC6RlKS5PpQomamUQVqCAdNhhKOlvFqjZl8jGO_CkZ_zPQs35jfG-aTj20etfflh2GhNYnJoqCFDP9WvLTrf3QHf1dtEP_jseUdrmmXt_b8x-
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.HiYXUbSSdGgc1CPQuw7u49UqRfwgzvcDqBXRBaoYG3jUiUclCeM3zBVgdUjWxWEN8-D3Zr9Pusewj5Ct4j9RH9Po8c5su4LsNujFUv2WPi87UWqLD4yo4Gg0nl8sjf-EuLRguOUhgI_pO5IV9mo-hK7pnbxrXRLfxsFlTACtbS9XcyFcglCm1zaRcJg-OFRW
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.sSvFS6UeAK5Q8TlnDy7gnAjznPMvL5_4QyauqqyBs800499KV3C5eKjMeeLQvq-U206Af0-fXTGdjXOPZ6Ri_Ztk6_TyCEag5NNkpInnHBawHBxINuZ7envYi3JCHVEXNF1O7gRV26PGL7WTpUhMnwXmRgxfeLRLyOsWCoDFgvdM_cZnQCpx8tpTtcSO85qh
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4Umul9Y0lAAunh84e1_GeYu95Ehg8bwY5vpXLN7-gVolXXkl7IfLEzB5CMbY4RsIjoqu5FFUgfK4IRUbWu8d_N6ybXinXVzcoCgQfw7Uw0jbrd9FLFNIs6Brpkb5zPYqE3bg3jYGKTs-FvQeBM4kvdOUCiYZ7eqpTRN1m6ZoXt35omcfwuFFng_C7W2foEPF
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.lJFYYfE3819EIHYeA___UBpDTrKqVDSlKAJlmYRVquJs-7HnxaUmyXVE2rTAXr3sCCiurb-iM6y_hZ5QOSKw0EoTs4fqLBTCAbez8IbqgRkutCKA56rqzldjKadHX0Y4rHFHwAGcM0Wmi2DaGsFRlHUohZAgUP3QB2QhXtkSscWETruhB2lsuGCkgVpGdMsl
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+Thu Jan 15 19:33:52 CST 2026
+删除sigmasian 
+删除navi04 
+删除gremmy 
+删除kkkku96 
+删除somsom0339 
+删除dign1461 
+删除namuh0926 
+删除kjjeong0609 
+删除hanny27 
