@@ -5,3 +5,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_   https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-3a39d0ad8a3ef7f2faf1b54d32a405326430bdc5923896724a893400eec3cc1d_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+mode_bad   https://edge18-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-4fb16c34a976412ac61f81ce3ed981eb51e9f4daf7bb88bb2bc531c5a6f03883_trns_h264/playlist.m3u8
