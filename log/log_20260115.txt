@@ -683,3 +683,14 @@ Thu Jan 15 17:48:14 CST 2026
 删除navi04 
 删除y1026 
 删除dign1461 
+添加my_eyes_higher https://edge24-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-21b5ab0dd17c2c5e4e8ca8ffb2a195796d4d3f69d5294a6bbe953a5c1b5e6de9_trns_h264/playlist.m3u8
+Thu Jan 15 18:02:03 CST 2026
+Thu Jan 15 18:02:11 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.KGiYjSP8WF3FPXKD4mQf42PRbnaMxixe1mf562hJUbSWV0f8OFQ_UDMj_ReQBQ2BowfFF_I965o85lkfIJ9U3Ga_b4Okpg4vITrqas11K0SGA8bWL_eepFuvIQpVbY0iwZ3D4Uu80UMr9pqkSUMS2uzHYQRecE8SBM9L3n3kgV2mme573sG4V27B58HYBmca
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.sSvFS6UeAK5Q8TlnDy7gnAjznPMvL5_4QyauqqyBs800499KV3C5eKjMeeLQvq-U206Af0-fXTGdjXOPZ6Ri_Ztk6_TyCEag5NNkpInnHBawHBxINuZ7envYi3JCHVEXNF1O7gRV26PGL7WTpUhMnwXmRgxfeLRLyOsWCoDFgvdM_cZnQCpx8tpTtcSO85qh
+Thu Jan 15 18:03:28 CST 2026
+删除SanySenise 
+删除navi04 
+删除y1026 
+删除dign1461 
