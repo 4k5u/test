@@ -1146,3 +1146,17 @@ Thu Jan 15 23:19:33 CST 2026
 删除kjjeong0609 
 删除hanny27 
 删除glglehddl 
+添加ake_mi https://edge4-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-76d1704500c0941ce8b7489491d1069cbc87dc6151c44aabd903d2c5877716c0_trns_h264/playlist.m3u8
+Thu Jan 15 23:32:25 CST 2026
+Thu Jan 15 23:32:51 CST 2026
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.IfD5rqkKclj5qs7hoHFGvtNj5VZ_aFc-X_pChYtMdVIbjiuT5rrDPPw1TpOl2Zx6RfKhyCRGelHP4tiuvGK1M4ikenY8M9GJe32agmDEbhZ7lxKiC0CkrP09vokfkpveSVWO0JFkFZYjde_KeXTKbphZSk1joyDD_KW0RDXFBSN0Bc-e5OIG0DdslHeshVPN
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.sSvFS6UeAK5Q8TlnDy7gnAjznPMvL5_4QyauqqyBs800499KV3C5eKjMeeLQvq-U206Af0-fXTGdjXOPZ6Ri_Ztk6_TyCEag5NNkpInnHBawHBxINuZ7envYi3JCHVEXNF1O7gRV26PGL7WTpUhMnwXmRgxfeLRLyOsWCoDFgvdM_cZnQCpx8tpTtcSO85qh
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4Umul9Y0lAAunh84e1_GeYu95Ehg8bwY5vpXLN7-gVolXXkl7IfLEzB5CMbY4RsIjoqu5FFUgfK4IRUbWu8d_N6ybXinXVzcoCgQfw7Uw0jbrd9FLFNIs6Brpkb5zPYqE3bg3jYGKTs-FvQeBM4kvdOUCiYZ7eqpTRN1m6ZoXt35omcfwuFFng_C7W2foEPF
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.lJFYYfE3819EIHYeA___UBpDTrKqVDSlKAJlmYRVquJs-7HnxaUmyXVE2rTAXr3sCCiurb-iM6y_hZ5QOSKw0EoTs4fqLBTCAbez8IbqgRkutCKA56rqzldjKadHX0Y4rHFHwAGcM0Wmi2DaGsFRlHUohZAgUP3QB2QhXtkSscWETruhB2lsuGCkgVpGdMsl
+Thu Jan 15 23:34:23 CST 2026
+删除gremmy 
+删除eunyoung1238 
+删除dign1461 
+删除namuh0926 
+删除kjjeong0609 

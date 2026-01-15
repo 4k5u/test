@@ -16,3 +16,4 @@ o111na   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 my_eyes_higher   https://edge3-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-7ef051a38934476b215f46cb4e90304860983e46994e117f11c90bf82e92d1c5_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge5-sea.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-97210e56aed323b6936b5625b0649c975fa15cd4e29fa7a3c2cf9abce679811f_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+ake_mi   https://edge4-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-76d1704500c0941ce8b7489491d1069cbc87dc6151c44aabd903d2c5877716c0_trns_h264/playlist.m3u8
