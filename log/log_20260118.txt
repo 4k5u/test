@@ -565,3 +565,9 @@ Sun Jan 18 16:03:09 CST 2026
 删除_meganmeow_ 
 删除my_eyes_higher 
 删除namuh0926 
+添加my_eyes_higher https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-4343616248a2f29cbec7e31e77bf27654e5268e51840f0e58207a21c8c07018d_trns_h264/playlist.m3u8
+Sun Jan 18 16:16:49 CST 2026
+Sun Jan 18 16:16:55 CST 2026
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Jan 18 16:18:09 CST 2026
+删除namuh0926 
