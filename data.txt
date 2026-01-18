@@ -6,3 +6,4 @@ taitehambelton   https://edge4-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+my_eyes_higher   https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-229c1a7eb6bb5560a1fcc93f91465d2d203a6b5ebeea5dbc5f6baaba31189a18_trns_h264/playlist.m3u8
