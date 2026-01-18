@@ -557,3 +557,11 @@ Sun Jan 18 15:48:06 CST 2026
 删除Ryo-sama 
 删除my_eyes_higher 
 删除namuh0926 
+添加my_eyes_higher https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-229c1a7eb6bb5560a1fcc93f91465d2d203a6b5ebeea5dbc5f6baaba31189a18_trns_h264/playlist.m3u8
+Sun Jan 18 16:01:49 CST 2026
+Sun Jan 18 16:01:55 CST 2026
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.VlU2HEeZlShLyZ5Rb7BktOIH5JG89r1aXfJhLXTOUFHMCBCuUhoD-0LyS2HPRepKP6Wquae7AHm2m9C-LTxLlmcEsACMaXEgbUWjQZQN27UVflMnCSq0PtlTXJOTCfnkdg22nBj5Tg6rypM8HyBDRindAhdtxm0gbrb1RzfZYTiLTlEJfgzj2HE5REF4EKu9
+Sun Jan 18 16:03:09 CST 2026
+删除_meganmeow_ 
+删除my_eyes_higher 
+删除namuh0926 
