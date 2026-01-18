@@ -951,3 +951,18 @@ Sun Jan 18 23:03:38 CST 2026
 删除dign1461 
 删除glglehddl 
 删除yin2618 
+添加my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8592158149405c1897f9e1ce91862f590093181d53491e15db4b09c118ea6c40_trns_h264/playlist.m3u8
+Sun Jan 18 23:16:51 CST 2026
+Sun Jan 18 23:17:15 CST 2026
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.X-VIc-9W8mpCfwo23vKule_oBSH3A7Tr23w9k8wgm26zcuSxkrB83RgVC1MSbmyDOaGUoEpSMCVBBSf2bmBMpNJCAds1_7WsQfOZs11z-wettA3T7MWBxQDMri-ZjfEsmZXSVb_IzQ_Ywg5dm9hdIGmyXQ-Y4EnQR6dDdAB03Kum9-FbnoDfKit_SpOBfw_Q
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.F3KNPxVbyDJuo11TUReP7GmUhIynX-wwqAAat5eLfbJvv-RB2tHD5XVIKT1jNrKX2qzB2hH5lmGtuMIdq-bM51fxb9EY4n0GbqllDakzIwLiuGSrf8Y5uQIX605F0FvLKLrhgASDBKWadPximnHUzChad_I1RiLn484eDN2lqMoPTGtF9V68cgKu0118_wRP
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.QzsUiCqCcbw_4ZYDZtB5yNZm2p4sicGZopf5IBnH5C1fqC-HFnlg-QtbM2SHYpMbR9vVo0dJWTRM95GA1T2WeU1qcgNOS5Xg1bFO7P0RFA4okLAxvxE-OdWAebje74prQJx52L5bZk5G-50x6ZqqkgNZq9q349a48YkojkTMFxFBFfDV3tJknoLOOxUR6r2s
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Sun Jan 18 23:18:40 CST 2026
+删除3ww1ww3 
+删除rud9281 
+删除eunyoung1238 
+删除dign1461 
+删除glglehddl 
+删除yin2618 
