@@ -571,3 +571,9 @@ Sun Jan 18 16:16:55 CST 2026
 添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Sun Jan 18 16:18:09 CST 2026
 删除namuh0926 
+Sun Jan 18 16:31:40 CST 2026
+Sun Jan 18 16:31:46 CST 2026
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Jan 18 16:32:59 CST 2026
+删除my_eyes_higher 
+删除namuh0926 
