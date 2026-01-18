@@ -7,4 +7,3 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 my_eyes_higher   https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-229c1a7eb6bb5560a1fcc93f91465d2d203a6b5ebeea5dbc5f6baaba31189a18_trns_h264/playlist.m3u8
 taitehambelton   https://edge4-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-3778fc2e3f34f68b176d62b2b5bca9cc58764b80569a1066389d1c08b7d1a337_trns_h264/playlist.m3u8
 _meganmeow_   https://edge13-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-271fa304ee65315291ebbef1320891e2f3999375e56d730c5f51c57ec6b86382_trns_h264/playlist.m3u8
-sexygamesx   https://edge6-aus.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-b475fb65f9159ff92cba3488625a1e6e02d59769b8f308993b058412a84ed36c_trns_h264/playlist.m3u8
