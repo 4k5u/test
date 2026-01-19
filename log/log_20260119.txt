@@ -180,3 +180,8 @@ Mon Jan 19 07:46:53 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Mon Jan 19 07:48:04 CST 2026
 删除gusdk2362 
+Mon Jan 19 08:01:44 CST 2026
+Mon Jan 19 08:01:50 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Mon Jan 19 08:03:09 CST 2026
+删除gusdk2362 
