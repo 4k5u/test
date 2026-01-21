@@ -10,3 +10,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 taitehambelton   https://edge4-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-82af8461c7832978c3c2e2618185a670a06edd363fd2b98a8243a55aed70df4a_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge15-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-4f5e56c7f7caf8157a8b2064912a645f00f9085861a466fdeae677eefd2391e1_trns_h264/playlist.m3u8
 ake_mi   https://edge21-sea.live.mmcdn.com/live-hls/amlst:ake_mi-sd-c7e2c4a8ed95ee1733824b670b0da5aebb2b62224d7d5b392caaacc8180650a0_trns_h264/playlist.m3u8
+foxylovesyou   https://edge12-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f0565037041f26acd3dc426788fa64fb4b4e546995df52a71560723a9d38c12b_trns_h264/playlist.m3u8
