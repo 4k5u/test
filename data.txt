@@ -3,6 +3,5 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Wy11sQbkwrYB.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1d5MTFzUWJrd3JZQiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2Njc1MjA5Qi1EMEY5LTQyQ0QtODIyOS04NzMwRTA4RkRFOEMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2ODk5NjkxNiwiZXhwIjoxNzY4OTk3NTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Wu9ANqV-__cGC8Ab1wMeuA0va1fxz6FNUse_UBa9mmT0_eno4MhzmkvvrJOPk99yqzOwglyiAcyEIOKUB4GM62pE0vKYFRNOUTLq20yS2FuFh3o4EyzDbU5Rj78GcEUy
 taitehambelton   https://edge17-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-c4ac0c270afa18a48c1c96c4e5739dd30878ab55431f6d9b92d96a15194102dc_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
-my_eyes_higher   https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b9359a2d73dd1142111227e27a57b708a3e52f96be06e5e7495c1c133bb738c1_trns_h264/playlist.m3u8
+sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
