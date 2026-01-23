@@ -592,3 +592,17 @@ Fri Jan 23 18:48:12 CST 2026
 删除alswl2208 
 删除y1026 
 删除somsom0339 
+Fri Jan 23 19:01:54 CST 2026
+Fri Jan 23 19:01:56 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.NbdnC3JCozhor0N6HvM3kkWbINOhUn3ZMmdLt9TLsb8P8wDuavYzSbYrXqXJWqEa2OV7a8BKfP10pENtWu2XK7pWIuyqflzxOIPIp_nAIeY5WKoV3X7YfNNX2Ck1-034GoODrk6PcW-AjVybntwLUirZxacXX8Cu8D_dF2OZuPuoeHEc0baGovqu8A3VK83k
+添加alswl2208 ?aid=.A32.pxqRXFPZNcY9Qg1.0qAz1kyEUCSp9nUtTBmWZLETFAdSMkEGUPnixGD_2ua4pKn6fQSE10V2M4ImobOgKfbY3wY3kZG6n1cBZt5MrRdWlw2L7zFTieCNXWhXb-i5zxiIoNVy6od_GREAKyC6hQovnfdx1l7lbEUIe0pSoF7IG8X_vMk8_rOnCDJMdBrt4eV8bomIbC3EWr907VDE
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YX01hhQNMWG7ao6VHp9068-l00cB7xbzHzJ8IwEE0516ORwcbcH5Rd5QBIiMvsK_CwjLQfD0rQ1pbVfavw_h-u-OnWsh0YJ6RUL_L2KvlqBmTZe1g8seoW9Re-u-EGDOd5_y_gFcOfHwROX22EpgXmsbsFb204MMELQn7O60qdhslPEuO6_OWe19QWJxIBxs
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.MfmvLKhNlJ_9x60Mu4HWMYLPtOjSUfVgt2GWFNDTEZs9FVGcjs4QCC8NZF4xKwUAux9scUz5tSwpKwSanW3E2CtizUG1LPR8MixVCGU3ZkoIqzn4v8D1HocM-ENOxksBGZjo_XiBTY0fvG_aDJ5e0B8KJTMgZASIqzOxEtpngu3VjX5SjE2EwYJ9H2wUFAXq
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1._sV4oDm6_jE9IISxvX2x72YHuOEicpCSmIJ63Bs6EAIFA0TW0UnvSJdPCfG5VLbKVloAG_dxknqPFDVuIsQA-0gE0xMsOnbnyAOzL_YaVh7-cpNsrJmYyqQVHHKUaDVyMS22aQs4yCgxyWYpjeWSK7ef4nEBVHWjXEPdltO_i5sJhuEwlyXG-ZRJ83DBvc8G
+Fri Jan 23 19:03:24 CST 2026
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除dreamch77 
+删除alswl2208 
+删除y1026 
+删除somsom0339 
+删除kjjeong0609 
