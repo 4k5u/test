@@ -893,3 +893,24 @@ Fri Jan 23 22:33:56 CST 2026
 删除kjjeong0609 
 删除flower1023 
 删除glglehddl 
+Fri Jan 23 22:46:42 CST 2026
+添加chuing77 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Y2KGjCsy9Ldr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1kyS0dqQ3N5OUxkciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1Njk0NTU3NS04NEYwLTQ3MTQtQUU3Ri1FRjY3NjU3Qjc2NTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc2OTE3OTYyMCwiZXhwIjoxNzY5MTgwMjIwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.jf6Zdwy7WqRJG9J-DC6acbe4taIq72PP0KZL9UJwz7wSAQJFkGw-rNrh3FGg1igZjjzjq8jVp3IQmFdoWx2i7RhbIHYtRt-67qybFBEiEaGSFPuKVGiiFJbFP5ejgyPu
+Fri Jan 23 22:47:11 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.j1E_3MtfyypZyZQyeDserSTg0XjC3v18b4FPcQaoOGZtc6DebVkI7olQ2m9yAOIj7jkqVKd5CRMtZQuRYsWIv-5GQM3KLXFsIOrb7438j6Zx0otssvj18-bXmvEK0Z8XGpYg5eu5FEbrcCEQe5kWJmZzWjevGv4aHqixLmKFuW0pRnas_7zxTN4pklr30lTQ
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1ddZwroB5FcVdb4fenfmnBckcJEYgXoL4phl7J9PRILCZw9xx2t5ZSv-VowULmTwj3zj5Uv_Qp5Ld_HhdcF07tJkHagKWqmlStMBZRZgCs8KuzOsdga3rL2b3WbDKAg9lyqiVqQT7IR-sJjXhf1fqP5dLhvAewC5GLe4m4Dw7mz7PID35pQJhfrPjm2j9JLe
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1._sV4oDm6_jE9IISxvX2x72YHuOEicpCSmIJ63Bs6EAIFA0TW0UnvSJdPCfG5VLbKVloAG_dxknqPFDVuIsQA-0gE0xMsOnbnyAOzL_YaVh7-cpNsrJmYyqQVHHKUaDVyMS22aQs4yCgxyWYpjeWSK7ef4nEBVHWjXEPdltO_i5sJhuEwlyXG-ZRJ83DBvc8G
+添加flower1023 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.oOu2O4q6IEz26p8FANSGb5QIBo9XUna9wWTy5lHb2lyl6SyD3Br_s5kYHNAsarynHim1_IXEpquHM24Tf8Vqf9NBu5MKGMLZWAT-ftXwOZC-oCUnPshRK5GrkwKtSN8fqHGf-bBbbrOURc9iYPC8igwuEL-Lz3J8zjhpAl93I0ePB5r5OaKZ5nK3HyjuYMYA
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.mn8zy8wLRE8uREE6zi2Hdc5UVXdM0OGdBT6CxIh0hM7TbveRhGTHpx9Ok4P3yvRw7qrW8FiRjiQnOWuoq-n-eqyn8TmknlW_g4ztURN0ZGkdRrrSOE8vJivfhkK954Vh708ESPMpwtbiDaS0KCIjQO7oi2GV3vT3F4qLthiJgfGGhp7OU7qSm29uwS3Ey9VE
+Fri Jan 23 22:48:50 CST 2026
+删除Angel-Bei-bei 
+删除smmms2002 
+删除Tmdgus5411 
+删除leelate 
+删除y1026 
+删除eunyoung1238 
+删除kjjeong0609 
+删除flower1023 
+删除glglehddl 
