@@ -570,3 +570,13 @@ Fri Jan 23 18:18:05 CST 2026
 删除dreamch77 
 删除alswl2208 
 删除y1026 
+添加foxylovesyou https://edge14-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f69dff9e49fa4da0e377329810780ae6c3bf1a430d77cc8e81ccc1877ee1800a_trns_h264/playlist.m3u8
+Fri Jan 23 18:31:58 CST 2026
+Fri Jan 23 18:32:00 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.NbdnC3JCozhor0N6HvM3kkWbINOhUn3ZMmdLt9TLsb8P8wDuavYzSbYrXqXJWqEa2OV7a8BKfP10pENtWu2XK7pWIuyqflzxOIPIp_nAIeY5WKoV3X7YfNNX2Ck1-034GoODrk6PcW-AjVybntwLUirZxacXX8Cu8D_dF2OZuPuoeHEc0baGovqu8A3VK83k
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.0qAz1kyEUCSp9nUtTBmWZLETFAdSMkEGUPnixGD_2ua4pKn6fQSE10V2M4ImobOgKfbY3wY3kZG6n1cBZt5MrRdWlw2L7zFTieCNXWhXb-i5zxiIoNVy6od_GREAKyC6hQovnfdx1l7lbEUIe0pSoF7IG8X_vMk8_rOnCDJMdBrt4eV8bomIbC3EWr907VDE
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YX01hhQNMWG7ao6VHp9068-l00cB7xbzHzJ8IwEE0516ORwcbcH5Rd5QBIiMvsK_CwjLQfD0rQ1pbVfavw_h-u-OnWsh0YJ6RUL_L2KvlqBmTZe1g8seoW9Re-u-EGDOd5_y_gFcOfHwROX22EpgXmsbsFb204MMELQn7O60qdhslPEuO6_OWe19QWJxIBxs
+Fri Jan 23 18:33:19 CST 2026
+删除dreamch77 
+删除alswl2208 
+删除y1026 
