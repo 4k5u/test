@@ -464,3 +464,13 @@ Sat Jan 24 10:33:11 CST 2026
 删除y1026 
 删除eunyoung1238 
 删除dign1461 
+Sat Jan 24 10:46:43 CST 2026
+Sat Jan 24 10:46:49 CST 2026
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.YX01hhQNMWG7ao6VHp9068-l00cB7xbzHzJ8IwEE0516ORwcbcH5Rd5QBIiMvsK_CwjLQfD0rQ1pbVfavw_h-u-OnWsh0YJ6RUL_L2KvlqBmTZe1g8seoW9Re-u-EGDOd5_y_gFcOfHwROX22EpgXmsbsFb204MMELQn7O60qdhslPEuO6_OWe19QWJxIBxs
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.g5nU4_fz_AXHZ141xDNk0jdlquuab-h-2Fe0eQPbZGdLwCC3_b4FABp4MHDJeo37TGpcaaDB42eCBffTlmnVUCSLJuzhmDNcVhgSvFKt03bKkzAm0qAU92BEiJ0Fqomdgh1xp7PNAFhCqZ6fxpRge3Yorrtv7VO6MX9wlkA2R0T2qMSH1GtmvnBRPr3VXxnv
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.N1HXVrAt46gADNZwkEtzVl_LM2xtrX3hgFYg-CQQRR_JpkhUUgYU2cSdyM1sAicMo-ReewtuNqfmFEZxd_eJLF3zt7VtPwXW7nvdew9GWWyF7Lpb7OnT60GEO9Q1HDNxbUjUd3J5rgSZiNyiP1tAPBegmOAphTkSq9nTCE1bSnDRW6NWdRwHoJHzjl77eiDH
+Sat Jan 24 10:48:13 CST 2026
+添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
+删除y1026 
+删除eunyoung1238 
+删除dign1461 
