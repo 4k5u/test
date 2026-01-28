@@ -5,3 +5,4 @@ jinricp   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 foxylovesyou   https://edge13-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a7311f77a20e3727e7cf4e20675875865e7954116c1a3ca2774f42b230bb8f08_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge16-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2164e3abb937ba4999cf6bdb10e579ff0be8d9d7a9e20ba50bdbb4e347684a4e_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge14-lax.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-6e363a5fff7a934df8284d1a007964dd998d008840c892262e78231d438726ba_trns_h264/playlist.m3u8
+ake_mi   https://edge13-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f113216b0fbb89ff62bbb1b532f22e876e21f00c8153d1a302ec38ebc2a30315_trns_h264/playlist.m3u8
