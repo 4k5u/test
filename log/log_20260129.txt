@@ -367,3 +367,8 @@ Thu Jan 29 11:31:55 CST 2026
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Thu Jan 29 11:33:13 CST 2026
 删除y1026 
+Thu Jan 29 11:46:44 CST 2026
+Thu Jan 29 11:46:50 CST 2026
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Thu Jan 29 11:48:06 CST 2026
+删除y1026 
