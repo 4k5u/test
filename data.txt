@@ -5,3 +5,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+my_eyes_higher   https://edge26-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1ee05665e37c67016b41d3c9e754afb7378a61e911445561c3437acba0dd0f04_trns_h264/playlist.m3u8
