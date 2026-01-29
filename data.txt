@@ -8,3 +8,4 @@ SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m
 foxylovesyou   https://edge29-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-a521565bee1c5f120af64eb683c0249602c13ebad60c41c2e94c45b3eacc3037_trns_h264/playlist.m3u8
 sexygamesx   https://edge13-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-5c67f1780bcb8c65e0588da2b2761e55f7f5ff120961afaec051f28b14ba35fe_trns_h264/playlist.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+ad0res   https://edge35-phx.live.mmcdn.com/live-hls/amlst:ad0res-sd-026f7fc8d98e876acfb30755081eae817380a18a7b1e3880237b72d8aa84aab9_trns_h264/playlist.m3u8
