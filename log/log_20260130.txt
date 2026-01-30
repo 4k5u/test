@@ -433,3 +433,9 @@ Fri Jan 30 14:32:16 CST 2026
 Fri Jan 30 14:33:30 CST 2026
 删除taitehambelton 
 删除dign1461 
+添加taitehambelton https://edge7-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-6a62012fe4517b5b68d2e9a4dfa99ebf7fb07292186a7c60c2e29bbc9a04d7af_trns_h264/playlist.m3u8
+Fri Jan 30 14:46:56 CST 2026
+Fri Jan 30 14:47:00 CST 2026
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.TGfcCQwaC8DLGeVoYfWUSxpoxHZ8CLmmvRnNTV0Jt-Rl12zo0Heiio87tjQhdFXk_zjqHR1Er94CW1yCOfHH-ckrZdbSbGUF0cpmT3j1oZWD93tUUbUD4oXkonra9i8qDMcowiQuTevnko_Dr9qiBoGpKkcPWl_4bKoL8Sv4gDyTsLYNSjjCBi1te-o1Lic2
+Fri Jan 30 14:48:24 CST 2026
+删除dign1461 
