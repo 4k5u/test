@@ -4,3 +4,4 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 my_eyes_higher   https://edge29-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-989234bab4b76d819a0033b42dd51b9b906a328dea1b2999031e2031fc51b3bc_trns_h264/playlist.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 _meganmeow_   https://edge34-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-519482023e47aede5a5fdda5670e43549c49e7709744b1f269faf91b974d4f2e_trns_h264/playlist.m3u8
+mazzanti_   https://edge29-sea.live.mmcdn.com/live-hls/amlst:mazzanti_-sd-86950f81099ff4d1a368b428f4815cf27c68044eea5e27acc539af0c8ea58fb6_trns_h264/playlist.m3u8
