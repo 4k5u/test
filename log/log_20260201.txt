@@ -1149,3 +1149,18 @@ Sun Feb 1 23:33:42 CST 2026
 删除eunyoung1238 
 删除hanny27 
 删除yin2618 
+添加my_eyes_higher https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1b34cc5227dfde98ab205a7c9a9b74c23b4338d7d27e6a55b1bb53d9ec1aec06_trns_h264/playlist.m3u8
+Sun Feb 1 23:47:08 CST 2026
+Sun Feb 1 23:47:26 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GJ8V163YXnA8YBzKD8vTeaoTMDhQbvcWSHGjUeSPOAbibtMc6UwHJW4BY0lI2AO94eXCvEMuCJUYh6oPKNwvH9Juv0sAM6dHrhKN7GJnP-HRxz7KAlzLgL8DKNhM0HoDRpJUfYC-8YnNEHz-hHkXD3iHul6hJSOAvCxdoMhLvDe-Chnx8DFdvMwKL6oukY8x
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Z8ws8ayidd6p2gLzDA29z6p3Y9rayBiH-x1cXaqksphguGe_RtVoP3DDQbVXYponA1en_MPWWm4XOR8ioWf1ThxQt7Lo8MFdhmm3nEHNY49C_zj2j5TkNkh3meRx4aWN4l8eOkVe5oTpudqN5pMldGKrRRL7CfxMrZ1saJiA2QtVM4sCf7AgdpxbEAq2cmx_
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sun Feb 1 23:48:50 CST 2026
+删除howru010 
+删除smmms2002 
+删除rud9281 
+删除eunyoung1238 
+删除hanny27 
+删除yin2618 
