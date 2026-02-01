@@ -1120,3 +1120,17 @@ Sun Feb 1 23:03:44 CST 2026
 删除hanny27 
 删除glglehddl 
 删除yin2618 
+Sun Feb 1 23:17:01 CST 2026
+Sun Feb 1 23:17:21 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GJ8V163YXnA8YBzKD8vTeaoTMDhQbvcWSHGjUeSPOAbibtMc6UwHJW4BY0lI2AO94eXCvEMuCJUYh6oPKNwvH9Juv0sAM6dHrhKN7GJnP-HRxz7KAlzLgL8DKNhM0HoDRpJUfYC-8YnNEHz-hHkXD3iHul6hJSOAvCxdoMhLvDe-Chnx8DFdvMwKL6oukY8x
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Sun Feb 1 23:18:54 CST 2026
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除smmms2002 
+删除rud9281 
+删除eunyoung1238 
+删除hanny27 
+删除yin2618 
