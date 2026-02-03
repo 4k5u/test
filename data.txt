@@ -6,3 +6,4 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 amilia4u   https://edge7-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-27fbc5218a4e431f67cd4ea1c54ef92c805ca81e750d9e8b705dca3fe469ff12_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge11-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b55bdd47944b85eedf9cf6d5834715943f583656c35ce63deec14f1da51dbb63_trns_h264/playlist.m3u8
+taitehambelton   https://edge17-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-e19e3de2a157ec9fe643a5f1cbfb2f7a1751d8928839d5fa62b3cbd15bad13cd_trns_h264/playlist.m3u8
