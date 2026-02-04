@@ -487,3 +487,10 @@ Wed Feb 4 14:48:30 CST 2026
 删除smmms2002 
 删除leelate 
 删除gusdk2362 
+Wed Feb 4 15:02:09 CST 2026
+Wed Feb 4 15:02:15 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GJ8V163YXnA8YBzKD8vTeaoTMDhQbvcWSHGjUeSPOAbibtMc6UwHJW4BY0lI2AO94eXCvEMuCJUYh6oPKNwvH9Juv0sAM6dHrhKN7GJnP-HRxz7KAlzLgL8DKNhM0HoDRpJUfYC-8YnNEHz-hHkXD3iHul6hJSOAvCxdoMhLvDe-Chnx8DFdvMwKL6oukY8x
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.WcNRHCIjEXxzUsxyLfhvJeCbjQvf9UL3yK80ZdLKRh_UZboPsGnZqbwHGhamV1nndb6uThM4CEHGKpPdNEqbX1EMc0VFf_vPXlCi3wdaGZ-Afsprac4_DAzMsn8sFA5Bvh3D6o29pv3_Pcs2YxjNVBcdAADvhxJGeirW-ygRfmJvgqo77lWJfAwBH6rkJX2X
+Wed Feb 4 15:03:30 CST 2026
+删除smmms2002 
+删除leelate 
