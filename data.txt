@@ -4,3 +4,4 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+foxylovesyou   https://edge19-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-bf65b822149ec47e01708402b09c72188219522363fdcc927c2a9e9d744bc2ed_trns_h264/playlist.m3u8
