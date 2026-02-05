@@ -4,3 +4,4 @@ pandaex   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 foxylovesyou   https://edge13-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-fcf6003984a390eb558080cdcbf907e1d2e3656f8814235bc8416e0ae556c8ad_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+taitehambelton   https://edge7-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5c78554f6e8f92e65dcb453897b1e15611e50131364cd8a3cd0513fe4f96f28d_trns_h264/playlist.m3u8
