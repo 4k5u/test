@@ -357,3 +357,8 @@ Sat Feb 7 11:32:10 CST 2026
 Sat Feb 7 11:33:27 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除eunyoung1238 
+Sat Feb 7 11:46:51 CST 2026
+Sat Feb 7 11:47:01 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.nFiO3JO4K0er6AfClx_2VwPCQ0foY-6tH8Qbw7ac1nPj0-AiXrIJc2IKU6fGRqX-1AFGU3RgrNE_N6HXG8gyKSpKyNrAEKSxUahP_greyfnzYaomUMTz1wNzSP1Lmc0nkVt0LHa3j9352fV6OYHR80lrORVlUimqvY1_FEllS0maGZqIJ9MVl2FV3_5fZFzw
+Sat Feb 7 11:48:17 CST 2026
+删除eunyoung1238 
