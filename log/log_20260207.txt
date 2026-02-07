@@ -269,3 +269,8 @@ Sat Feb 7 08:32:10 CST 2026
 Sat Feb 7 08:33:27 CST 2026
 删除dreamch77 
 删除gusdk2362 
+Sat Feb 7 08:47:05 CST 2026
+Sat Feb 7 08:47:16 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Sat Feb 7 08:48:30 CST 2026
+删除gusdk2362 
