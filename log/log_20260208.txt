@@ -727,3 +727,20 @@ Sun Feb 8 20:48:39 CST 2026
 删除eunyoung1238 
 删除m0m099 
 删除hanny27 
+Sun Feb 8 21:02:04 CST 2026
+添加ahri0801 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.c9Z1JX8xSvx1.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2M5WjFKWDh4U3Z4MSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBMUY4MzE2Mi04MDA2LTQ1QzktQUMwRi0xOEQ2REZBN0E5NjEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MDU1NTczNCwiZXhwIjoxNzcwNTU2MzM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TkqHoLx881-psCRS-5D3jq3TF3xA1ujazqt7mevraLj1Lsf_gcuf0dkgESjDhhnUNqA0CcDpUwQ4MQzMwcSgJ1KObUw3FL3hX5jPREX9B-Sgr2kcNRe7vSoChEK7hsbc
+Sun Feb 8 21:02:19 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.yAfbn3r9Q3EhmZ2v_pp5YxS9EdP8EhcKwDj9v-5bANPPsFs0peOo5vinGlafvnrjporOjjc0eAizWuRaRaq9tfTACWHbyrcVe-NCpQCQyOuCBkBhQG5D-c1kytntl5z91n_vP2CzsQbkhBNZZu5et7bM_eyD6yVY6MVrNsimFAULR-lRyOTmkdrbwrIEADve
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Feb 8 21:03:55 CST 2026
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除navi04 
+删除gremmy 
+删除rud9281 
+删除eunyoung1238 
+删除m0m099 
+删除hanny27 
