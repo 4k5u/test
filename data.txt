@@ -6,3 +6,4 @@ imanatural   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 taitehambelton   https://edge36-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-fc416e1aaeb16829b9fa06c3b2a195a3701751022754002632d185c84349b97a_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-64a0d90ae77f00705cffdce9289897f0a0fd53a512c9e1923a5b48e3d3b7b19f_trns_h264/playlist.m3u8
