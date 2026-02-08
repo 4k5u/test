@@ -506,3 +506,9 @@ Sun Feb 8 16:18:34 CST 2026
 删除taitehambelton 
 删除dreamch77 
 删除hanny27 
+添加taitehambelton https://edge13-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-fc416e1aaeb16829b9fa06c3b2a195a3701751022754002632d185c84349b97a_trns_h264/playlist.m3u8
+Sun Feb 8 16:32:06 CST 2026
+Sun Feb 8 16:32:12 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Feb 8 16:33:25 CST 2026
+删除hanny27 
