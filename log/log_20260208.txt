@@ -512,3 +512,9 @@ Sun Feb 8 16:32:12 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Sun Feb 8 16:33:25 CST 2026
 删除hanny27 
+Sun Feb 8 16:46:58 CST 2026
+Sun Feb 8 16:47:04 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Feb 8 16:48:22 CST 2026
+删除my_eyes_higher 
+删除hanny27 
