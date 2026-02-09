@@ -205,3 +205,8 @@ Mon Feb 9 11:17:03 CST 2026
 Mon Feb 9 11:18:16 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除taitehambelton 
+添加taitehambelton https://edge12-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-8558c27fc30b4f62be3498bf45432419b35e665dde388cf2a40942c697ee3dfc_trns_h264/playlist.m3u8
+Mon Feb 9 11:32:02 CST 2026
+Mon Feb 9 11:32:08 CST 2026
+Mon Feb 9 11:33:21 CST 2026
+删除100472 
