@@ -8,3 +8,4 @@ my_eyes_higher   https://edge24-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 amilia4u   https://edge7-sea.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8f89a40d61e36316fc27d80b4c478daf5bc1d60f817fa50b4f9b1368fd74d226_trns_h264/playlist.m3u8
 foxylovesyou   https://edge11-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-8c563e1d074ee798d31fae1c09be526c0ff85f57101cd9b9bddc3651717175e3_trns_h264/playlist.m3u8
+Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
