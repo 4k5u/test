@@ -270,3 +270,8 @@ Wed Feb 11 15:01:59 CST 2026
 添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fPkptN3cNiTJ8hqE3MbfwUOsfBSmazkKKKiNqM6AS3b_sKWDO0kauYww4PG4KAtGRXIau1vMZ5Tm8Kfq9OgqIqbH43BYHoNMQ5juG1MYMmYTGv3IkGfrZFZIMdFAykeSCqEtdz-KDJNush-1xX2dc6hMgxujLdAFejhpDA_pc1jDqTDJambPasFeiKlpwJu4
 Wed Feb 11 15:03:16 CST 2026
 删除y1026 
+Wed Feb 11 15:17:00 CST 2026
+Wed Feb 11 15:17:02 CST 2026
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fPkptN3cNiTJ8hqE3MbfwUOsfBSmazkKKKiNqM6AS3b_sKWDO0kauYww4PG4KAtGRXIau1vMZ5Tm8Kfq9OgqIqbH43BYHoNMQ5juG1MYMmYTGv3IkGfrZFZIMdFAykeSCqEtdz-KDJNush-1xX2dc6hMgxujLdAFejhpDA_pc1jDqTDJambPasFeiKlpwJu4
+Wed Feb 11 15:18:16 CST 2026
+删除y1026 
