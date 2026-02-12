@@ -162,3 +162,9 @@ Fri Feb 13 06:46:43 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
 Fri Feb 13 06:47:59 CST 2026
 删除gusdk2362 
+添加sexygamesx https://edge24-sea.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-7a8cc928d3f99d590fd92fb22194bee2fa41966d43bf0c844980a28fdfb3024b_trns_h264/playlist.m3u8
+Fri Feb 13 07:02:09 CST 2026
+Fri Feb 13 07:02:09 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=null
+Fri Feb 13 07:03:22 CST 2026
+删除gusdk2362 
