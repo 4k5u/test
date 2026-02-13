@@ -3,3 +3,4 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher   https://edge18-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b5a07545bc17730e4bf8356ea72ade0fd4773a68e8d75822263e71d0e1eafc8e_trns_h264/playlist.m3u8
+taitehambelton   https://edge25-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-b00844ae3214a2e90529cd264d115ce3133dfd23976546bd0042b8155649d41e_trns_h264/playlist.m3u8
