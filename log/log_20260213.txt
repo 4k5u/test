@@ -282,3 +282,7 @@ Fri Feb 13 14:32:02 CST 2026
 Fri Feb 13 14:32:04 CST 2026
 Fri Feb 13 14:33:12 CST 2026
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加my_eyes_higher https://edge18-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b5a07545bc17730e4bf8356ea72ade0fd4773a68e8d75822263e71d0e1eafc8e_trns_h264/playlist.m3u8
+Fri Feb 13 14:46:57 CST 2026
+Fri Feb 13 14:46:59 CST 2026
+Fri Feb 13 14:48:21 CST 2026
