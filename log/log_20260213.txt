@@ -821,3 +821,20 @@ Fri Feb 13 23:18:51 CST 2026
 删除dign1461 
 删除kjjeong0609 
 删除yin2618 
+Fri Feb 13 23:32:03 CST 2026
+Fri Feb 13 23:32:23 CST 2026
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.hi-bZN3vvUwQTIIfo2VN8MTa_eQco4MM6rEQ1OXYbfzQdWsmM5VXcw-WTzF3ks3zskLqUx2hen9sHnSht_jIFqSCfcpxEnifhVhoN8iD7Tmyg2amXMftaFK0QZ7x66ubuUxr7oxuBgdZpCnqBna3C9RzdfC4lKJFgoVWCETuu3qTXzi1itpiEf_0r4STe9lM
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.KBUtSY8t0ZvMX4wmATqe0iSAGh_JsGqxI1JAJkwmOylsmb0XVT98Hjgh9YSuzDbkbkemj_by8ABPAMLP0S_JxiX8JAVUuIydsCjtlIYmbIEX6U6sdth9g0pbcaQTNnzPiy4E1r5BTS6ALgBcDEeg15Ktgj82gUpSV3bzoGw1Qty8YMxfvUq97SUqRG6R2HeD
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.XtOMXXbE_m2XGlFOZzMBtcVe8gJCPcOdL13tkhBGzqhn0bp_dm17LlVMCIm1MVPzf2uTi9QopHHqbbZ3v-NkWrPZGoZfjQZim3-py1dpvvVfDCkrLkUg7iKuz_qqTxEDvSRhFTM-tl7AUo4RN8F3_2qkePxPJwjaOdOJlGyhGMNZRy4uzO6Ox7AidC0NnAbP
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.IamLmjzfN_aBD0JxQdeodjDSUOxqPkCh8EsGXEmTX5u11vA8ZJUTBJTHXGgphcEHSP7OgQGrWMselHEDvrYLojnz2QHbBYRCN8K_WTLVssXOnFPHLO6tWslGZEzVYmsxh2Mw593eKb0nfPCFYpUbGyTPiACxEd1RgRqw0OKL7SWRF-O-Tfa6BOWELcyn19Wx
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+Fri Feb 13 23:33:53 CST 2026
+删除jodong2 
+删除ake_mi 
+删除Tmdgus5411 
+删除leelate 
+删除eunyoung1238 
+删除dign1461 
+删除kjjeong0609 
+删除yin2618 
