@@ -278,3 +278,7 @@ Fri Feb 13 14:18:12 CST 2026
 删除Sime_Naughty 
 删除IdaJonesy 
 删除flower1023 
+Fri Feb 13 14:32:02 CST 2026
+Fri Feb 13 14:32:04 CST 2026
+Fri Feb 13 14:33:12 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
