@@ -214,3 +214,8 @@ Sat Feb 14 08:17:06 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
 Sat Feb 14 08:18:19 CST 2026
 删除gusdk2362 
+Sat Feb 14 08:31:56 CST 2026
+Sat Feb 14 08:32:00 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Sat Feb 14 08:33:15 CST 2026
+删除gusdk2362 
