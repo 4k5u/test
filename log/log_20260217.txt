@@ -359,3 +359,8 @@ Tue Feb 17 18:33:17 CST 2026
 删除SanySenise 
 删除my_eyes_higher 
 删除hanny27 
+Tue Feb 17 18:46:53 CST 2026
+Tue Feb 17 18:46:57 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 18:48:16 CST 2026
+删除hanny27 
