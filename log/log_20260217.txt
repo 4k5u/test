@@ -293,3 +293,9 @@ Tue Feb 17 15:47:08 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Tue Feb 17 15:48:22 CST 2026
 删除hanny27 
+添加foxylovesyou https://edge17-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f5d09b980ee0ff3f309f45cfb1bc7f1b335b2352442beaebcd3bbe4820d773ca_trns_h264/playlist.m3u8
+Tue Feb 17 16:02:07 CST 2026
+Tue Feb 17 16:02:11 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 16:03:23 CST 2026
+删除hanny27 
