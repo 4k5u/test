@@ -351,3 +351,11 @@ Tue Feb 17 18:17:00 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
 Tue Feb 17 18:18:18 CST 2026
 删除hanny27 
+Tue Feb 17 18:31:55 CST 2026
+添加emforhs1919 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.6WzJFcOBEEWk.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcLzZXekpGY09CRUVXayIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJFMzBCQ0QzNS1BQjI2LTRFMTAtOUU0QS1DNjM1MUZGMzc0OEYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTMyNDMxNiwiZXhwIjoxNzcxMzI0OTE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.GIkEAs8Rz9Fz2BUrwm-bx9-tv9dPsZcIG75tmfKDs52iqwArteSekhYIc1FMG0uy99-Ss2nxPEI0Pt47RukH3drewrLUNnHfhrqx28Sx9gyyfkxUi8WntHxTIY-gr_Vy
+Tue Feb 17 18:32:01 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 18:33:17 CST 2026
+删除SanySenise 
+删除my_eyes_higher 
+删除hanny27 
