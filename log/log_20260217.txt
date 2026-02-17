@@ -138,3 +138,9 @@ Tue Feb 17 10:02:03 CST 2026
 Tue Feb 17 10:03:18 CST 2026
 删除taitehambelton 
 删除gusdk2362 
+Tue Feb 17 10:16:48 CST 2026
+Tue Feb 17 10:16:48 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 10:18:03 CST 2026
+删除Sime_Naughty 
+删除gusdk2362 
