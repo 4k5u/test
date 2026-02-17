@@ -128,3 +128,9 @@ Wed Feb 18 03:46:59 CST 2026
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
 Wed Feb 18 03:48:13 CST 2026
 删除eunyoung1238 
+Wed Feb 18 04:02:00 CST 2026
+Wed Feb 18 04:02:02 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Wed Feb 18 04:03:18 CST 2026
+删除100472 
+删除eunyoung1238 
