@@ -89,3 +89,11 @@ Wed Feb 18 02:03:16 CST 2026
 删除tyy750ii 
 删除rud9281 
 删除eunyoung1238 
+Wed Feb 18 02:17:02 CST 2026
+Wed Feb 18 02:17:05 CST 2026
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-15/auth_master_playlist.m3u8?aid=null
+Wed Feb 18 02:18:25 CST 2026
+删除my_eyes_higher 
+删除rud9281 
+删除eunyoung1238 
