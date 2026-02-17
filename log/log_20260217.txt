@@ -144,3 +144,9 @@ Tue Feb 17 10:16:48 CST 2026
 Tue Feb 17 10:18:03 CST 2026
 删除Sime_Naughty 
 删除gusdk2362 
+添加taitehambelton https://edge26-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-edcd69d95eb943c9bf6f23c9c3f303d74de527bf635ae58f8af3f2eab1cd4165_trns_h264/playlist.m3u8
+Tue Feb 17 10:31:58 CST 2026
+Tue Feb 17 10:31:58 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 10:33:13 CST 2026
+删除gusdk2362 
