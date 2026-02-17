@@ -330,3 +330,8 @@ Tue Feb 17 17:17:08 CST 2026
 Tue Feb 17 17:18:25 CST 2026
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 删除hanny27 
+Tue Feb 17 17:31:50 CST 2026
+Tue Feb 17 17:31:54 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=null
+Tue Feb 17 17:33:07 CST 2026
+删除hanny27 
