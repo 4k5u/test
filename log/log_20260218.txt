@@ -319,3 +319,10 @@ Wed Feb 18 14:17:01 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 Wed Feb 18 14:18:15 CST 2026
 删除gusdk2362 
+添加my_eyes_higher https://edge7-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-2fbde457395ca27085f019e17d5dfebef556d1b5349c3fa1fb9c0b43ecb48ec1_trns_h264/playlist.m3u8
+Wed Feb 18 14:31:59 CST 2026
+Wed Feb 18 14:32:03 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Feb 18 14:33:22 CST 2026
+删除taitehambelton 
+删除gusdk2362 
