@@ -308,3 +308,9 @@ Wed Feb 18 13:47:02 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
 Wed Feb 18 13:48:16 CST 2026
 删除gusdk2362 
+Wed Feb 18 14:01:59 CST 2026
+Wed Feb 18 14:02:03 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+Wed Feb 18 14:03:18 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除gusdk2362 
