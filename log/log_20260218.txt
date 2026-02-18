@@ -531,3 +531,23 @@ Wed Feb 18 20:18:58 CST 2026
 删除somsom0339 
 删除eunyoung1238 
 删除dign1461 
+添加my_eyes_higher https://edge27-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-57a753862e9213e950becc06d0bff050ece6eb3c98834390200046a274721537_trns_h264/playlist.m3u8
+Wed Feb 18 20:31:57 CST 2026
+Wed Feb 18 20:32:09 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.DDAh_Gf1Rq5JbM5VmdMU63NiuYGFuM-6Qbyu-acxRe3E1FeT7Sq86gS2GkQtLdOK5gK-rrCDVHXkD7z2vT_V-RvuiZKOuD5as3i56bzw7FDA2BwXx4tgXYdTEd-akbJVkwhqm5Uz5rgqdVhYWgV9-vC0F4D-ZGLBQ9ukc_2BcOwf3pz151PMXbT781GVDg4o
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ctB5GhaUZEMWvySbo62gYJwU6Rz3JRTbaVbXL1oyr4C0JUtxJyq2zWDIHleSBQStV9ONpWb1nPY_U5QzlEOcaxlRVif7dxObayzwv5R_iIddUPMYY-5tUeRl8HZbhWMS22Y9Zh23udCQU56qzxWDSpLULBWjpkuZN6lGuY7ntfH7J8PD5elX2kpPRggC-XQ3
+添加kkkku96 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.R0R-nT9NZyABbHE5nn6r4GRdlrqEyKcEVGD4DHw4NyZ5cW1nbuVZSsZaM1hNnr6x98Ivb1vDblW90RC4c7r2mwxHxVPT1zsuKkQKpgItEqMAol1vE8LYI_hAOob-qF9NeRehalrRoYjKJMQnitUDPCyAVb6ug77kEoiY4OI0jgbF2PZDNn1lEOtJa3mtvLYj
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.3I7vMIXwVt2aS4aOvkkszYA46wvfBIDQu2JM3s4H0kQkU7UPiAR5nz8Bh6pc0670lS8ptW-tultQCyOcJy-vaIVukwelMgdhKMBJf_mht6GMDalOpFVw0woPHna68DCwvkKTGy8PB-QiVk4NwHiyM10s6FLZN4_hprR-348oc3pvcSQqU8F321q6jWIZplXh
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.n7flbTjY8_sBvddjiAWqijHILgLgzwcsTChrwbLTM83TuI5rdR94Y5MDfbW6pdNBOyaVnbjv8Qpv8qdq8suQqzunMf7-s730rhL71k7quErO9JUJqzqRxjZtjQKeCnyxEFgMkzQpzugV_vdMOpki-M6TIC9WoUaipn6kxnUKngTq2PSGk8I8jYRinwm39zHD
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.AVkygERztjik38HX2MwaCXKep_g4gAmiivl8dFjgopqwbyd7H2hWmgF4dRm0mtFW8an6fNIeLKWxN3Og9Maz_E4M68s0GLwZYDE211A99bQz0glLJ6HrEjr8exSKw-dldNZX06d2nNnFnX2EFzdg-VE6B4TS9MhZTsrReq1zPJ9MybnHZxHf7j2VkEouJXnY
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=null
+Wed Feb 18 20:33:49 CST 2026
+删除dreamch77 
+删除gremmy 
+删除y1026 
+删除kkkku96 
+删除somsom0339 
+删除eunyoung1238 
+删除dign1461 
+删除yin2618 
