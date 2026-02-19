@@ -4,3 +4,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 taitehambelton   https://edge9-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5201bc6e4409e51bbd5a19ac112234bcee3bb1689e7fd887e56105070f6aeaa4_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0eb430b394b0377c8c1fac12442b71dd3a5b8af7e1f9530e0bdb9c0b539d95eb_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
