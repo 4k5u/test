@@ -4,3 +4,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 foxylovesyou   https://edge20-sea.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-edf1798707765925af676c444befba8957c32e5324316a4ce5777139c76dbd89_trns_h264/playlist.m3u8
+taitehambelton   https://edge27-sea.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-5201bc6e4409e51bbd5a19ac112234bcee3bb1689e7fd887e56105070f6aeaa4_trns_h264/playlist.m3u8
