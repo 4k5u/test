@@ -771,3 +771,21 @@ Thu Feb 19 23:18:55 CST 2026
 删除kjjeong0609 
 删除glglehddl 
 删除yin2618 
+Thu Feb 19 23:32:07 CST 2026
+Thu Feb 19 23:32:25 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.mY0zHvaWM_B9ImV4Nh0g26G7EvxQROIvYrkTPDQ0sDkAibHB8RmHhq-2d9lrKbB3iF0hWGtV3-IF7ukJqm-Enaazc4RMbnyYAIJRrKlBfMOiURJ178nRup4Wd9S9nEInQvKxRjrM7p6Bi4VEpdmW-1iXVIzcF5hQYz6W_yxxe5MQm2E2NifcmYfsxzurL0Zd
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.I6KR3yLUCR-p0z4u76pYNTLbuV5UuwoGGnhSiPtcxS8H21YTOB4pX3dAa83SIxGQ9rmniz160TUI9-wrLHzofzVq_pnNdFGJfYPRZ9qTnwrAINPcw1V-H1KG1rxqTwXNWYStQTeDTgBIoiH6EMOJLgMoa5m5F5obIuJJbnhKiEZ9x1o6j7uYIe7u7h3igiWJ
+添加lolsos https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BSiLtWqxqhhT6a1OjNJqN0gfwvxees5-RR7zjseHi_l-EaD_gPuiEDGkISfDfkbYMOaY7vmPLO-asBZSLucJ-9ruW19Qxhcq2znwWjPvnFZTJRMaPm9cZMXhdy7ypSDkPXJg7qhCmwZzVH9DpYH7vdzJl763UOq8XksEFhBMv83yrZIKinz4SrCaGdhLdh6P
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stm-14/auth_master_playlist.m3u8?aid=null
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-06/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.NTGUU9bwCJZRASwZKmoN3g4szIlZCbM987UxuelUdEJ4X82fGg9QEId_BHa_xxP2Maf4sDGaMkBsy4lKtQNukYamLcSZleZ4rmxZJCUUBt87hwvA0KGJrPRfWzBPZlKuKpyZGlU4rSZ0HP2V3_DNUwOnMuU7ET2CSuVHRX3u1wA41KrXqAJLpq-zb8SCC9MJ
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_master_playlist.m3u8?aid=null
+Thu Feb 19 23:33:57 CST 2026
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除smmms2002 
+删除Tmdgus5411 
+删除lolsos 
+删除eunyoung1238 
+删除dign1461 
+删除kjjeong0609 
+删除yin2618 
