@@ -181,3 +181,8 @@ Thu Feb 19 08:31:54 CST 2026
 Thu Feb 19 08:31:58 CST 2026
 Thu Feb 19 08:33:06 CST 2026
 删除my_eyes_higher 
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-08b3662029e63095c1bece0a7ab7b05b2a04da577059650ba1c476cee4f18fa2_trns_h264/playlist.m3u8
+Thu Feb 19 08:47:02 CST 2026
+Thu Feb 19 08:47:07 CST 2026
+Thu Feb 19 08:48:21 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
