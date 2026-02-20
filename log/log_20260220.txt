@@ -286,3 +286,8 @@ Fri Feb 20 14:03:26 CST 2026
 Fri Feb 20 14:17:00 CST 2026
 Fri Feb 20 14:17:04 CST 2026
 Fri Feb 20 14:18:15 CST 2026
+Fri Feb 20 14:32:06 CST 2026
+Fri Feb 20 14:32:10 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Fri Feb 20 14:33:26 CST 2026
+删除gusdk2362 
