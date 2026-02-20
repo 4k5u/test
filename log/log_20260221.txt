@@ -252,3 +252,8 @@ Sat Feb 21 07:17:07 CST 2026
 Sat Feb 21 07:18:24 CST 2026
 删除my_eyes_higher 
 删除dreamch77 
+添加my_eyes_higher https://edge28-chi.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8f3f7336ba4ec585d3f3786e21846777cc63a87762a068e028ffbe41dc2adc03_trns_h264/playlist.m3u8
+Sat Feb 21 07:32:02 CST 2026
+Sat Feb 21 07:32:06 CST 2026
+Sat Feb 21 07:33:16 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
