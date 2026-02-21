@@ -445,3 +445,11 @@ Sat Feb 21 16:17:04 CST 2026
 Sat Feb 21 16:18:23 CST 2026
 删除y1026 
 删除gusdk2362 
+Sat Feb 21 16:31:58 CST 2026
+Sat Feb 21 16:32:01 CST 2026
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Feb 21 16:33:25 CST 2026
+删除my_eyes_higher 
+删除y1026 
+删除gusdk2362 
