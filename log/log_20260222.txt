@@ -122,3 +122,9 @@ Sun Feb 22 03:02:02 CST 2026
 Sun Feb 22 03:03:17 CST 2026
 删除my_eyes_higher 
 删除eunyoung1238 
+添加my_eyes_higher https://edge26-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-ec2f0f5a742be3b26e8ee9f9c1083635346b66614f65e4fdbb4f8e17c1b50e75_trns_h264/playlist.m3u8
+Sun Feb 22 03:17:07 CST 2026
+Sun Feb 22 03:17:09 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Sun Feb 22 03:18:21 CST 2026
+删除eunyoung1238 
