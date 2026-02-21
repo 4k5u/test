@@ -172,3 +172,7 @@ Sun Feb 22 06:02:04 CST 2026
 Sun Feb 22 06:02:06 CST 2026
 Sun Feb 22 06:03:19 CST 2026
 删除my_eyes_higher 
+添加mode_bad https://edge17-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-6aebed00630774bd73f417186542678c39b1566c1147e03c3e9999e1457fa3d4_trns_h264/playlist.m3u8
+Sun Feb 22 06:17:02 CST 2026
+Sun Feb 22 06:17:04 CST 2026
+Sun Feb 22 06:18:14 CST 2026
