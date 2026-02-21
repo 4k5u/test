@@ -6,4 +6,3 @@ alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher   https://edge19-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-b208bb5e57a134aa73b3f9c3f349e5e8e4e62a57fd76f5c1462eec499718fe97_trns_h264/playlist.m3u8
-sexygamesx   https://edge14-lax.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-1ff962bd5ce83845bf22ec743c8fdaf58a5bbbc49859004fd50c8be283be94a6_trns_h264/playlist.m3u8
