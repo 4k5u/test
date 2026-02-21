@@ -488,3 +488,14 @@ Sat Feb 21 17:33:28 CST 2026
 删除dreamch77 
 删除y1026 
 删除gusdk2362 
+添加my_eyes_higher https://edge10-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8e61e9a561b8a9e9584be4adbc34c0ce31ce27452d274ccfb4db7ff23a4b0c7b_trns_h264/playlist.m3u8
+Sat Feb 21 17:47:02 CST 2026
+Sat Feb 21 17:47:04 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.wOFh55WOkYcXprExdWRZZKrHqA7013kYsfVjwy4KmW32ZdOIUvekNM2p-RK1k3cXT5NqJkV8GIgc06JcZLKY7wA135PDFonxFupYqTVlMBT7z4K9msMOkFk2_duoHbN6oZdJgqMCOrkg914lxsScTdj8Z_1wJz-0lixBSmH5Y7nLx-DsZSQIYF7XApvvPl-r
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sat Feb 21 17:48:25 CST 2026
+删除moem9e9 
+删除dreamch77 
+删除y1026 
+删除gusdk2362 
