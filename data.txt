@@ -2,3 +2,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 _meganmeow_   https://edge29-sea.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-a308858134fd13caf6bc776e2a9358a1c57b79772850a9971293b6babad24825_trns_h264/playlist.m3u8
 mode_bad   https://edge15-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-403155b8370bfe2ed6293a27d6831aebbea500b8602eb8ac4c364b6b2a6f3ca1_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge7-sea.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9a4d07cedf328f03b77153ce5b43963852199dca1bac661bf87462ddac40c892_trns_h264/playlist.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
