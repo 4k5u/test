@@ -180,3 +180,7 @@ Mon Feb 23 06:03:18 CST 2026
 Mon Feb 23 06:17:06 CST 2026
 Mon Feb 23 06:17:08 CST 2026
 Mon Feb 23 06:18:16 CST 2026
+添加mode_bad https://edge15-lax.live.mmcdn.com/live-hls/amlst:mode_bad-sd-403155b8370bfe2ed6293a27d6831aebbea500b8602eb8ac4c364b6b2a6f3ca1_trns_h264/playlist.m3u8
+Mon Feb 23 06:32:05 CST 2026
+Mon Feb 23 06:32:08 CST 2026
+Mon Feb 23 06:33:20 CST 2026
