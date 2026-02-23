@@ -376,3 +376,12 @@ Mon Feb 23 17:02:03 CST 2026
 Mon Feb 23 17:03:21 CST 2026
 删除y1026 
 删除sol3712 
+添加my_eyes_higher https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-00e7d1b4337250f0246ecd10605cc1827aa70febf858c37a081a2556f2085f35_trns_h264/playlist.m3u8
+Mon Feb 23 17:17:00 CST 2026
+添加muse62 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yzoc7wwpPwl6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l6b2M3d3dwUHdsNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3OEE0NEQ4MC0wMUVBLTQyQkEtOUMwQi04NTAzOUM1RUJDNUMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MTgzODIyNSwiZXhwIjoxNzcxODM4ODI1LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.Uxjs8jzczQovELh9PjDLxLgjWaOJ0CfQ75DHNC6rl0JJUuVc0U8a1_xj3oC0id6jdt1jJnUHWIRg7nvf4MW2jgNdT7pPzUo4-rl69XKE9tYPFRTQwboHpH8fagIDN4G2
+Mon Feb 23 17:17:08 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加sol3712 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.fEp2_iHU4VIsW6BizrVeRwaCG26mNAHppGsNy-2wkl9JmyCnuHHN6PZlX5uBDkpHzXDN5_obRULMQv9CcER6wbB9Wn1MH_SfWE4fQVcGKUc6OfC0oG4OaHtj7a9yB3BSlINc9lOahU77gr-sEGUGo603NRTyaQ1PhOGeLlosXdF4WN_n7HfTAUf4Qbt4vjb5
+Mon Feb 23 17:18:27 CST 2026
+删除navi04 
+删除sol3712 
