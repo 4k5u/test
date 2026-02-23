@@ -51,3 +51,12 @@ Tue Feb 24 01:03:52 CST 2026
 删除Tmdgus5411 
 删除leelate 
 删除dign1461 
+Tue Feb 24 01:17:32 CST 2026
+Tue Feb 24 01:17:47 CST 2026
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Ir-Quy6roQtioxuhm_zwFPS0YGmW6nK7FN-nZlymT-IJV5gzG8hagFb6CElZKl3TorNGeFbraSc5zDJS07CSJx1RfFCHZEHDLqzTkLWcNqGDNCStmoD7ZdI3D3L1N6nTi4DNmtR4xfF_Kx9Nz83G5p--Ct9_e9ES3DEItlYuMaJ9UHK3rNktBTcpkZLhqwxN
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-12/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.RX0YueL0zdpyKCokThexOJKC376gBH0NlUjU4Wg6z-vdE2LphIKpGe7pJw-t9HLTLVMsKVhA-4poHsiLrCaOecLZNO47NHKBau2QhsRisLX9pPNKnU3gL4nTj5Xe1if7CU57YqHpcej909MaSulc_w6eRWTJ6HXaF7qFYTGtMxrxjZdlzI6hNPIaJdIvtUuw
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.lHGA-TxWha-5QNyyTj4uKpW0gkWUa9eTC1atG9T9Q-fzDdQAtyaAY39cLamS7jAML5DCM_abHQUcfQXyJRldIAcofXMm5xSzwUPITBAtv-DuLC6vlP2s-2ZseyFKczMGA2SZ5vqKufAyTwS8FSYUhsTMmpwyYKy5czrZIuIumeL4jGOWdeuW7VdPSHZnqvcB
+Tue Feb 24 01:19:08 CST 2026
+删除Tmdgus5411 
+删除leelate 
+删除dign1461 
