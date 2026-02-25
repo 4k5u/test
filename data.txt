@@ -7,3 +7,4 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 foxylovesyou   https://edge18-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-c8bfe431da14200a5a25920e0e4af819b4e7ffc8ab670f0f556d0d45fd05f42f_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 amilia4u   https://edge11-phx.live.mmcdn.com/live-hls/amlst:amilia4u-sd-4680e0851a80c26c5e16c5d1792bccb0dbe88dc9bb20c6b2eeacff828ea9af42_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-30b6d4181bf7a1564c3540af02ad781b45337aea2fb9a5e5343911e7ac249ab7_trns_h264/playlist.m3u8
