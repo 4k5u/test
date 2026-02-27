@@ -7,3 +7,4 @@ Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_aut
 foxylovesyou   https://edge13-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-42fec4b060dc40a9863bf0b32cf371aeb915bb56c2c7d7e37b0cb7478f04d555_trns_h264/playlist.m3u8
 taitehambelton   https://edge32-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-832f35fc9c6d39194040700ddcbed85ff978b9803e2e7634cb6a738283e7e4e8_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+amilia4u   https://edge8-phx.live.mmcdn.com/live-hls/amlst:amilia4u-sd-2e9007e867eb9c6a458d7cb35b42d126831d72c94a76fc99593a0b59dab60554_trns_h264/playlist.m3u8
