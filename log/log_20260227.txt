@@ -331,3 +331,9 @@ Fri Feb 27 15:47:00 CST 2026
 Fri Feb 27 15:47:02 CST 2026
 Fri Feb 27 15:48:13 CST 2026
 添加Xenomy https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+添加amilia4u https://edge18-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-fddc95bfda03b626b1217228fdbd4e1f3e382b577eefc76c7ffabd5b5fec13ac_trns_h264/playlist.m3u8
+Fri Feb 27 16:02:20 CST 2026
+Fri Feb 27 16:02:22 CST 2026
+Fri Feb 27 16:03:38 CST 2026
+删除sexygamesx 
+删除amilia4u 

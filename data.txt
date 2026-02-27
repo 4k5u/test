@@ -6,5 +6,4 @@ my_eyes_higher   https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 foxylovesyou   https://edge13-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-42fec4b060dc40a9863bf0b32cf371aeb915bb56c2c7d7e37b0cb7478f04d555_trns_h264/playlist.m3u8
 taitehambelton   https://edge32-phx.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-832f35fc9c6d39194040700ddcbed85ff978b9803e2e7634cb6a738283e7e4e8_trns_h264/playlist.m3u8
-sexygamesx   https://edge8-phx.live.mmcdn.com/live-hls/amlst:sexygamesx-sd-d73402906488ef2a2d9abd58000e3f602717c7be1f88e4622f25bd22a189fdb0_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
