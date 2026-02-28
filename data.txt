@@ -8,3 +8,4 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 amilia4u   https://edge29-phx.live.mmcdn.com/live-hls/amlst:amilia4u-sd-8e08eb3c4ad9280f588a7c7d21dd58197b466f04d0ca1d34c42336e932215c6f_trns_h264/playlist.m3u8
 honey_pinkgreen   https://edge34-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-0915f850988e51a85f1e472a09700b2f585fbd24e876201ec9430ae074164b81_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge17-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-979b9a40e22faf53a955a4079928f679eae090eb3e5761ee126905508cb864b3_trns_h264/playlist.m3u8
