@@ -509,3 +509,10 @@ Sat Feb 28 18:03:33 CST 2026
 删除Lucille_evans 
 删除ad0res 
 删除dign1461 
+Sat Feb 28 18:17:09 CST 2026
+Sat Feb 28 18:17:15 CST 2026
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.3Kdz4voR5FadvH0iJTVGMvgeJvKyxrAwF_gSFDW04kvFbI1lTVBPgKeI8DEnnrz52xkd06ipydpf3jQg8BMzLhNRhJZTwsU98takZYQc_16FVp6Jf4FDeevGGlekAc_PM7Ni4w28WD3waUtOZGR0dLsTNRsLKE-3pr46Q-55jgl_tS-S6PslwEiuKSCY6qgF
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1._-ZuFNFpJVtbiMedWvdRCKx9QZCkSklQV7Br0i7LGJ1I0f6oZvbJvkyjYmnOwFuJQcwg-rpMdYzeE6dIQFv0vt_7RuVwSeO5Zv9VM58Rl5l0-9AUiVkX4q2K57RTeyEeemvukLBLO2LPB_TdfB43N-RKlsyfjV-82G2efu1cxZTRdCh6nEQYSx9HC-8CeUDm
+Sat Feb 28 18:18:31 CST 2026
+删除somsom0339 
+删除dign1461 
