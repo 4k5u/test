@@ -5,3 +5,4 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 _meganmeow_   https://edge23-phx.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-d5108f24ba6b2530999d23f9a024b900802085e0347a3d06e280c876f59c1ad2_trns_h264/playlist.m3u8
 mode_bad   https://edge25-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-8fbaf67407a523e0d0cf21ed94ab2c8c3b2f0dc42221f24069aefd091cc3b792_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+my_eyes_higher   https://edge12-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8d3477463d9110b01638052c27f18c463aa7a1e968a1ea05e0d1779f144d98cb_trns_h264/playlist.m3u8
