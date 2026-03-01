@@ -263,3 +263,7 @@ Mon Mar 2 06:03:08 CST 2026
 Mon Mar 2 06:16:59 CST 2026
 Mon Mar 2 06:17:03 CST 2026
 Mon Mar 2 06:18:13 CST 2026
+添加mode_bad https://edge25-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-9643b441c55fd51793d8423c65a6cd23c705653140dd02a0a7fb605c578876e9_trns_h264/playlist.m3u8
+Mon Mar 2 06:32:01 CST 2026
+Mon Mar 2 06:32:05 CST 2026
+Mon Mar 2 06:33:17 CST 2026
