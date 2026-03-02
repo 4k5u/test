@@ -4,4 +4,3 @@ dkdlfjqm758   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v
 _meganmeow_   https://edge12-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-1c7d808c4aa78ff119473b0e19ce5d480c4e529019a8579a033f587265d0f61e_trns_h264/playlist.m3u8
 mode_bad   https://edge25-phx.live.mmcdn.com/live-hls/amlst:mode_bad-sd-9643b441c55fd51793d8423c65a6cd23c705653140dd02a0a7fb605c578876e9_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge18-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-907d06e6f48a95ec714b14bb28d71d6a8f626b74cd2a613981b1a9be155091b6_trns_h264/playlist.m3u8
-Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
