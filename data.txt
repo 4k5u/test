@@ -4,3 +4,4 @@ hyuna0721   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 taitehambelton   https://edge11-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-28a42ac1c08dfa8d81e471007ae95d2a41d6d74f69136a938333130d203a5be8_trns_h264/playlist.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
+my_eyes_higher   https://edge7-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d1d0754efe9b80d2479c4282e0da6d31357ebc71c245a8bff244bb01a098f38d_trns_h264/playlist.m3u8
