@@ -397,3 +397,9 @@ Tue Mar 3 17:03:22 CST 2026
 Tue Mar 3 17:17:06 CST 2026
 Tue Mar 3 17:17:08 CST 2026
 Tue Mar 3 17:18:17 CST 2026
+Tue Mar 3 17:32:03 CST 2026
+Tue Mar 3 17:32:06 CST 2026
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Tue Mar 3 17:33:18 CST 2026
+删除taitehambelton 
+删除alswl2208 
