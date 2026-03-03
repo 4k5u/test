@@ -422,3 +422,8 @@ Tue Mar 3 18:17:11 CST 2026
 添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Tue Mar 3 18:18:26 CST 2026
 删除alswl2208 
+Tue Mar 3 18:32:03 CST 2026
+Tue Mar 3 18:32:07 CST 2026
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Tue Mar 3 18:33:19 CST 2026
+删除alswl2208 
