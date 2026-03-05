@@ -4,4 +4,3 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 ake_mi   https://edge12-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f4f08be320bfb643a31342e0888e1814d5e6ed8c136e4e89803cb1395d29e0f8_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge30-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-1500467fb8b5606deb9d68f9b57aaa0e480cb0e03b50b6f976e335cb15a35db9_trns_h264/playlist.m3u8
-your_desssert   https://edge14-lax.live.mmcdn.com/live-hls/amlst:your_desssert-sd-4be255a633644ab36783bfea80da18f009f2750e2e658adce75b7afc81da9ed2_trns_h264/playlist.m3u8
