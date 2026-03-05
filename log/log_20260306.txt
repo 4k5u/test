@@ -31,3 +31,16 @@ Fri Mar 6 00:19:35 CST 2026
 删除jeehyeoun 
 删除rud9281 
 删除dign1461 
+添加ake_mi https://edge12-lax.live.mmcdn.com/live-hls/amlst:ake_mi-sd-f4f08be320bfb643a31342e0888e1814d5e6ed8c136e4e89803cb1395d29e0f8_trns_h264/playlist.m3u8
+Fri Mar 6 01:24:26 CST 2026
+Fri Mar 6 01:24:34 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.co.kr/live-stm-19/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Fri Mar 6 01:26:23 CST 2026
+删除bongbong486 
+删除dks2003 
+删除your_desssert 
+删除my_eyes_higher 
+删除yourare 
+删除jeehyeoun 
+删除eunyoung1238 
