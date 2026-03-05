@@ -848,3 +848,29 @@ Thu Mar 5 21:49:00 CST 2026
 删除hanny27 
 删除glglehddl 
 删除yin2618 
+添加your_desssert https://edge29-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-61ab0da0b4ee102ee80c694f958bdf1ee362c519b4063e030f47257b23b1c0fa_trns_h264/playlist.m3u8
+Thu Mar 5 22:02:09 CST 2026
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIxQTk4QzMyRS04QkYyLTQ2RUMtQTdFMi03QUUwMEVFRjk4REQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MjcxOTM0NywiZXhwIjoxNzcyNzE5OTQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.UDGxMTccWO-6dOCHXxFgcDd31KOwxRirp2KG3Ou_wivzF0c41594tuihvOCZgqvc2jw21OkYcprnsvRj9OmBfoacFg-5jGn6U5Y2AUuLWTysqD6gGvASOkrcFTcubYy9
+Thu Mar 5 22:02:30 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.0_T7FPtlMdZynQKZp1hQ5yIVMXbokM_mF4yRFe7Q_UcAwCmvCi9o9jPFJNc7VNDQF5xFrsARGKmuLN_4-N5pdpjDt5seNPJ_y29O513LBiJwulEjGV7G9i7D2cBiPfZmxZr6Zj6CNlQIM8ufBLsy8KZQ-Q_v8dWKcuZnLXwX_NgjcbAPF3PVgDRlksTaqsiw
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.7iTLTBMLQsqJQxXXyNQz4vHi3HHOEZ7nZZejzg2DSF-SoAI14qRxaiy62fezVCo4_d4ctv66Mtv0J7oV8MaX8qiZsRAyYa1KhluG59ES7SFuC2yhIl77CymncV0-EyCwf8uzZO__0wCYfITemRwbsHmi70ZQ-k7paDNzei-Qexjz8MwDQcGAHHwtxhxITbWw
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.oi51RV9Vjgfm65yHCPW735VCyQunhIvAtIlXs-HliXGvWX07J_lm7MkpSTJ70oH0KE3xf579ItkDUQOoGHnmT5SqKlRgRzucHm0g3_maN_pXBrR5r8uLyLPCzjHuIYZF0B4SBOBoL9nYUq7RNb5YXEojA6tojb2V4NWFsHgzQxHFJ7uhJ0LJIAolFIbNUBMs
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.inZTqisD823-uzfcdI9vzwJQAK85FL9weewM2e06IkyJXhHBAEb4zpdVSwpUMttpaHJgj0yKHvcdtzwhftvmlCicxthbx52dadS6d0KDlx-lieX41SaD4qqY095sLOyv1P_RK4IO47m80nEcI_9WB0jocWeF_3FtL2p6af19keyBUwZX6LqAfh1WR9ZdsaiW
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.vOrTaLyeT7Jt3Tw-uwutOUAg4JeOi3N7e5iaQ_RKSi-F1hLVxoSm010u_bRuX49_H0h5mVyuMb7zNwLcIDH4FvWAzhHc2IReTQSVGv-50lxx3HfEoSlY1PKnLU6jwZvF7OSn8Dx8S-fg6EQaZzyXWmxHUyn9VvG9TEatKqgGgkG-V7ivMb_lu2CL49j3OZX0
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.uXLwgGZby1KfpikLG4loEmRWxNH_G7QD2AzL5u6uGZWVe3qaKmpgNfFUQbrRcJwJRokA8KUGL0V0ZSol1WPvVqddWVrk5o_u05Lu5VJ1Dz8CVHflEhKPoFXjCuDvkUrtm2GvWgsRtvwxMqA8cD61WuzdRw_GmfLlhDoYDYZZhkpEdQWKv3uG8V5RYiFjpIY2
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Thu Mar 5 22:04:12 CST 2026
+删除foxylovesyou 
+删除leelate 
+删除gremmy 
+删除y1026 
+删除rud9281 
+删除eunyoung1238 
+删除dign1461 
+删除kjjeong0609 
+删除hanny27 
+删除glglehddl 
+删除yin2618 
