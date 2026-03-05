@@ -3,3 +3,4 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 _meganmeow_   https://edge13-lax.live.mmcdn.com/live-hls/amlst:_meganmeow_-sd-13498d64780c0cfe792ff76bccd17ac0291e17bdf958dc900c8a8dc4f4bfa5a4_trns_h264/playlist.m3u8
 my_eyes_higher   https://edge13-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-bcbc0e97f3f8b586513cfb7cd03e878b62f2e811fd644d33fe31f228b6d728c4_trns_h264/playlist.m3u8
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
