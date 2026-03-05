@@ -4,3 +4,5 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 honey_pinkgreen   https://edge18-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-09ad104815fe303b31b679d6ae19706c0649c0e06d65af5f0035016872239316_trns_h264/playlist.m3u8
 foxylovesyou   https://edge14-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-81d19323560e7b2ec43396f529cb621a3cd1ef82d24ba3d9829f9b8a08eff013_trns_h264/playlist.m3u8
 amilia4u   https://edge14-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-4428f36c1fec9e4a10833945d6446c58d855b84f52f5dc701586c56428014587_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge18-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-9e8d205151a97d0781bb0585c6ac755295260a5af3a854d816afadfd4ee24ac2_trns_h264/playlist.m3u8
+SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
