@@ -324,3 +324,9 @@ Fri Mar 6 16:33:14 CST 2026
 删除my_eyes_higher 
 删除amilia4u 
 删除y1026 
+添加amilia4u https://edge16-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-12ec7ca0b395d0aab4637c5a846fa570294c812c39dff251e4bc3ea27533ddd3_trns_h264/playlist.m3u8
+Fri Mar 6 16:47:08 CST 2026
+Fri Mar 6 16:47:10 CST 2026
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.u2mymmFPKLZ4pFCgoAXvvk-HV9Nu9cOTWZKF_lOql_ocljoAxFEji1sX68mFYwd3XXzeSNZiaCWCoJJpcOa_1hMQekU9fB4tB4PeyHjP4ZZsWaQDVePTAr6Hk8BT1rPk1NRN_YEDUpHRbXnuqhxQvDNPtR0a6XUyBIW-ZBCEY9PM6wGR253Nr1eH9Wq2IvJZ
+Fri Mar 6 16:48:22 CST 2026
+删除y1026 

@@ -4,3 +4,4 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 foxylovesyou   https://edge18-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1820fd89f92c8fb9e5f99cbc9bb7e1dfa1acf4a4206ff0375fba9b1c1eb8f294_trns_h264/playlist.m3u8
+amilia4u   https://edge16-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-12ec7ca0b395d0aab4637c5a846fa570294c812c39dff251e4bc3ea27533ddd3_trns_h264/playlist.m3u8
