@@ -9,3 +9,4 @@ saone451   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 my_eyes_higher   https://edge17-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8321ec09c9913ac09a2e3470069d089da9d6b180a4c079987ae6bf2e908317cf_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+your_desssert   https://edge10-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-e409aed2268e2b8ec045671631aaeab788b8c131afaf682a3fcec24812eca801_trns_h264/playlist.m3u8
