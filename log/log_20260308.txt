@@ -631,3 +631,12 @@ Sun Mar 8 18:47:08 CST 2026
 Sun Mar 8 18:48:27 CST 2026
 删除rvn1015 
 删除m0m099 
+Sun Mar 8 19:02:03 CST 2026
+Sun Mar 8 19:02:16 CST 2026
+添加rvn1015 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.XX7UCd6Xg97Ertc_nBl_Qdfh_aEMP3eaQ0GlAuSDKOgNgMfewjN_lxc7cHLL22jiIU89uyk7MCVIuBbQY8_HYP4ZddtWECRimztP_0zmHoNf62lJmmsUVJszAAy2pFWbdFeeiD_cTA3I5qwta80OGcxmFZXDbiYQ4JJu3tFoXiDmcMxPPlTPUL4rRqyKO9i9
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.9utORAp1fm-TspeV4jGY4uKFkP8Xtk0C145laN4FDi-HB3TU5Nn-LLeydPZdYZI54F8KeCt3RpengUADRxUXu3JUQVSqC551KPVuphR1A2UhgVac-EhM1mN2dfs6CbmbgtcSmBtvMcvE5hhZ1A7CW_PlkCCrsyLIpvizUgh2dGFACQRCDqRyYRgR2JfreQ58
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4TtFvRoAF5ilfttY-QjBWMDUEK9GQ8xo5I69xx9CUvqnfXJtq8GA4Scyobrt-mLFggVEkScpzD4HSRQHivkMTi8wOn_VxEzIMcL1SxSJonk0lHFXC9_WdeuOPMxWjWTW3COhLzZ2iJN17UvOt2jxFBt5BFwQnjKlhEpUsS2xI-YSzIfLkVrsQMmUuGX-hdjB
+Sun Mar 8 19:03:33 CST 2026
+删除rvn1015 
+删除smmms2002 
+删除m0m099 
