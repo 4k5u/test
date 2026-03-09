@@ -324,3 +324,11 @@ Mon Mar 9 09:47:17 CST 2026
 Mon Mar 9 09:48:32 CST 2026
 删除dreamch77 
 删除gusdk2362 
+Mon Mar 9 10:01:58 CST 2026
+Mon Mar 9 10:02:00 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.wq3m9s2VdaxnT4FPMkKBKa9lcTxRM7H25DfIv5QhtxBYj_alCK4QeCUCElxTaoPRLKDg0CEVm63SEQITaUb66tHOGWOBb5wey0Poa-oRSl3n7VabQvTk6HsEuMhjyCPhN3dp6RImgDlL6oCXSMryxmbokt7UwIVOXR1sE4YJeLdZE14taeq9F0LbiXqTlkdf
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Mon Mar 9 10:03:18 CST 2026
+删除Sime_Naughty 
+删除dreamch77 
+删除gusdk2362 
