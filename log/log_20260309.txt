@@ -282,3 +282,8 @@ Mon Mar 9 07:47:02 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Mon Mar 9 07:48:17 CST 2026
 删除gusdk2362 
+Mon Mar 9 08:02:03 CST 2026
+Mon Mar 9 08:02:05 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Mon Mar 9 08:03:16 CST 2026
+删除gusdk2362 
