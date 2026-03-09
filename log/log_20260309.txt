@@ -597,3 +597,19 @@ Mon Mar 9 20:33:56 CST 2026
 删除kjjeong0609 
 删除hanny27 
 删除yin2618 
+Mon Mar 9 20:47:09 CST 2026
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMDdGOUQyQS1CQjY1LTQ3QTYtQTE1Ni1CMkNENzU2OTkwREEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzA2MDQ0NywiZXhwIjoxNzczMDYxMDQ3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.qTXfNe0k3t4LznjJQvrS_S8H2yzr29VXlnUKjGrelmlbgVT4UFE0eB3QjNJPRHlmvx546q8x2zLj2_cAIUmQqoJitGRfC8spKKgGkwyWGo9iZwWfY6KaB7sjMsZpuJdT
+Mon Mar 9 20:47:30 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.WoYRAhd8WFUY1Lir-V5O4b3DzSMvpijwXYUf4rhRLndwgpqK1WCrJ1OU6wn-Hu0NPp5n2oZQ9h0B6n9ohictMF72jMJeomqaUFnCt0zcXlJI8D6x-Y0F0R5G5V4yf7aD0arEXuVTFsmiuIWRTox_9GCl-S30TbF3t9j9UZeOv_qu-vCTs4nkGCwOYW_etP1m
+添加somsom0339 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.cGV6zwgD1fmqL_esrVKPLv-rGto7fMn_vpbUsLcNM2elTOdLoW-LcYq6V3wJbeXz8g51xOKwDUjXI5ejcMZxxfLpqNwAjL98wTJt2JFejpBAWj-RR-rSJhs5MlqFsoj2z3DE-EyBxRE0DVS9Zqa6zZ910oceyCV77Yn-0ncaebsxk8IOIuK1IO0vo8gs_ugX
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stm-08/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.cGV6zwgD1fmqL_esrVKPLrjZdd46hv6k61JFTN5aDrOS-SWi-SNcTwtJK4RF79Ty2iOQdOOW9ep19vjBjvVJylLL-mWH2w0tzs7cUa0BiEhpH_UHVeWujNFYsC5JRddwHvXT__In5Iw6Qo_AjrX8iCv4rhJVNIywNrmX63TeXzvsT4LztPikl87PukVAJnFb
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-04/auth_master_playlist.m3u8?aid=null
+Mon Mar 9 20:49:02 CST 2026
+删除leelate 
+删除y1026 
+删除somsom0339 
+删除kjjeong0609 
+删除hanny27 
+删除yin2618 
