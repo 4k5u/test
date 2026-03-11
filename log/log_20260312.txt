@@ -169,3 +169,7 @@ Thu Mar 12 05:32:15 CST 2026
 Thu Mar 12 05:32:25 CST 2026
 Thu Mar 12 05:33:55 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-8c7743c987e6f156c20d6ec60e7be811b7e7bf56418d5b2eb324cbe522a2035d_trns_h264/playlist.m3u8
+Thu Mar 12 05:47:03 CST 2026
+Thu Mar 12 05:47:13 CST 2026
+Thu Mar 12 05:48:22 CST 2026
