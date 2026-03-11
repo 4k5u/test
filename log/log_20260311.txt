@@ -679,3 +679,16 @@ Wed Mar 11 23:34:01 CST 2026
 删除eunyoung1238 
 删除dign1461 
 删除yin2618 
+添加my_eyes_higher https://edge14-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-e181a3f61804b0b0563272d27ad90199def3afa03b2fba0ee2b72ac02edb582e_trns_h264/playlist.m3u8
+Wed Mar 11 23:47:11 CST 2026
+Wed Mar 11 23:47:38 CST 2026
+添加gremmy https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-36/auth_master_playlist.m3u8?aid=null
+Wed Mar 11 23:49:00 CST 2026
+删除ohhanna 
+删除gremmy 
+删除eunyoung1238 
+删除dign1461 
+删除yin2618 
