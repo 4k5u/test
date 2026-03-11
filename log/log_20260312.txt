@@ -95,3 +95,11 @@ Thu Mar 12 02:32:14 CST 2026
 Thu Mar 12 02:33:31 CST 2026
 删除eunyoung1238 
 删除gusdk2362 
+Thu Mar 12 02:46:56 CST 2026
+Thu Mar 12 02:47:06 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-03/auth_master_playlist.m3u8?aid=null
+Thu Mar 12 02:48:23 CST 2026
+删除yourare 
+删除eunyoung1238 
+删除gusdk2362 
