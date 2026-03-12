@@ -1,0 +1,15 @@
+添加my_eyes_higher https://edge13-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-31848d3d9df1de191b3dde10156057751965040633d3e2640dc288c7566e4922_trns_h264/playlist.m3u8
+Fri Mar 13 00:02:10 CST 2026
+Fri Mar 13 00:02:26 CST 2026
+添加rud9281 https://live-global-cdn-v02.sooplive.co.kr/live-stm-09/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stm-18/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.wSsPqh4f97eQpy7N6z8DRXEAZEo42nxmWnyMto2FZc2q45Jd57V8Nyhvq1QLIsocERkIHcM_1GKJqR8a6KUd0u9Zry0dYuIaE520wq6ffoR7yxny7B4CgQmHSf2UPNn_CyEdWP7OTszwskjAYuVhH4q2pfqjN3nDylSP_fw_ftDUbRWQJ_Z9GrZxevD4Cw92
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-32/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.tLth2ewPL4XBDTs1VIW5uWSyG4Zi7pJlGYeyZNLSPQk6aQplBClbKo2cAozlKM1FS66p5dj-urpOULtPnwiUHkqOEKFNFpOh3zn95vP-EtB97gd53AybXXE3ut0gQUDYVlJCiQUOBaDAuFvY7ZUPppysDq7MMDSGHXmyA3-qzeUBLm7SyJM515e16HjZMluQ
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Fri Mar 13 00:03:48 CST 2026
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除bongbong486 
+删除my_eyes_higher 
+删除rud9281 
+删除eunyoung1238 
+删除dign1461 
+删除hanny27 
