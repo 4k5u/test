@@ -382,3 +382,7 @@ Thu Mar 12 18:02:02 CST 2026
 Thu Mar 12 18:02:08 CST 2026
 Thu Mar 12 18:03:19 CST 2026
 删除ad0res 
+添加ad0res https://edge35-phx.live.mmcdn.com/live-hls/amlst:ad0res-sd-05cb0b7949266ae6437ffb935e0510b02b3f7d519f498d62b585651abc2b1986_trns_h264/playlist.m3u8
+Thu Mar 12 18:16:59 CST 2026
+Thu Mar 12 18:17:05 CST 2026
+Thu Mar 12 18:18:16 CST 2026
