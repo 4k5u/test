@@ -522,3 +522,20 @@ Fri Mar 13 20:19:03 CST 2026
 删除dign1461 
 删除kjjeong0609 
 删除hanny27 
+添加amilia4u https://edge15-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-65ad4e3fe8222065992cd502f778c1cc6c72e979c1620d125e36c0ecb67de665_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge15-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d3ee7889745dd581ff83f8935dad16a4246b2fb48fdf9d4a6b18127046b17376_trns_h264/playlist.m3u8
+Fri Mar 13 20:32:09 CST 2026
+添加362540 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.PCLnkGgBO9Rl.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1BDTG5rR2dCTzlSbCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMDhFRDYyOC1BMEU3LTQ1NTEtQUY4MC04REMxNDY5NUYzODgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzQwNTEzOCwiZXhwIjoxNzczNDA1NzM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.7-C04Jcy7HxXWsUW6hSRWRBYBjFHFp_ghaLoaKh_ymAvQAlio4tkKTPBQIrfCSzieuPDFdUoj_WGP0D_9oW_i92IcGoTnVtVxskiRwQ38mur6fqDrPvj4-Pfwi0eN16T
+Fri Mar 13 20:32:37 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.kEJ2q8DJQ5bJMIImgpKAhmuXffITK8ts1fEbtK2R2NJ2WI_R502i0FZX7SD8wdV0LYI5Mql5uz6kg00B6ArOJLaUvpV5lwXPKh8bPB8bYOTH3x5YWSzcC22Uz8NqbBshDXvcLF4qDAcwy7J9481LG_u9EJQP_3mWIuG7OMvF2zsIZofPz52yGOi169I0Q1aB
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.bWQ_XI-STkuj0dt0DsL42VNMIWWZR_44LYdGa1kL1e-w0tU4707dq3LxbHYJ2hQUoOB-ijK672LvExz1FF51jyiybh_Hh_dQvK7QSkwEqEmxeLMTwOIAU6PttG_54-7SmxIjr5jerkzEfyAR69RoagLD3L4_FTQsHRr-ypQVP8HKRP3gicrtmMTHwGsIBVQ1
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.D5ork0lZO9zK-StAiacNwtIoTwObePapSoL1bbCz929CKajq2r4QBDxZKqZ188e1ad5NWREcVsH-yg2CfxXDQA_YYEqh8itc5R7qa1Y7UY2E8_FTPC1mUNZrsbf3g6VUzs3kXm3hUbvvDffFizjeSRDgYTHYSpLjZFJHbB83Hczvnoe402tkH4hOcsSPZgnj
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+Fri Mar 13 20:34:03 CST 2026
+删除amilia4u 
+删除smmms2002 
+删除eunyoung1238 
+删除dign1461 
+删除kjjeong0609 
+删除hanny27 
