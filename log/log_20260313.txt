@@ -618,3 +618,24 @@ Fri Mar 13 21:49:10 CST 2026
 删除hanny27 
 删除glglehddl 
 删除yin2618 
+添加foxylovesyou https://edge22-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1eccb6aab4e3e8eb1958587e345a62d3f46b80c644d1ae0e076777c5d18c63b7_trns_h264/playlist.m3u8
+Fri Mar 13 22:01:55 CST 2026
+添加saone451 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.XLScp1CQU67j.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL1hMU2NwMUNRVTY3aiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI3QTU0QjJGNS0zOTc5LTRGMUEtQTRDOC1GNTI3QzU3MDRDRUQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzQxMDU1MiwiZXhwIjoxNzczNDExMTUyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.e_ip2J_DBzK059T-k3Fj8C7If0IcPWMdS-AjJUCqoe6sskU7aHrelAcvlFd4ABa2rD1eig8GzqgzlLzSijcLNRQ_KPhlQgUpqv2a2Yf9Cz0yS1oOQ5TTnRnW4x_EJzuK
+Fri Mar 13 22:02:35 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.co.kr/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.kEJ2q8DJQ5bJMIImgpKAhmuXffITK8ts1fEbtK2R2NJ2WI_R502i0FZX7SD8wdV0LYI5Mql5uz6kg00B6ArOJLaUvpV5lwXPKh8bPB8bYOTH3x5YWSzcC22Uz8NqbBshDXvcLF4qDAcwy7J9481LG_u9EJQP_3mWIuG7OMvF2zsIZofPz52yGOi169I0Q1aB
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.bWQ_XI-STkuj0dt0DsL42VNMIWWZR_44LYdGa1kL1e-w0tU4707dq3LxbHYJ2hQUoOB-ijK672LvExz1FF51jyiybh_Hh_dQvK7QSkwEqEmxeLMTwOIAU6PttG_54-7SmxIjr5jerkzEfyAR69RoagLD3L4_FTQsHRr-ypQVP8HKRP3gicrtmMTHwGsIBVQ1
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.D5ork0lZO9zK-StAiacNwtIoTwObePapSoL1bbCz929CKajq2r4QBDxZKqZ188e1ad5NWREcVsH-yg2CfxXDQA_YYEqh8itc5R7qa1Y7UY2E8_FTPC1mUNZrsbf3g6VUzs3kXm3hUbvvDffFizjeSRDgYTHYSpLjZFJHbB83Hczvnoe402tkH4hOcsSPZgnj
+添加hanny27 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.IDWrApjSfsN8IalL9rdV8ehRJ7n4w78mLiC5nOFgaPLgyOY2V-L4bKzPspYasuWi2A7tOo9oJYhok_zDcdSjszZfMl0oRWSoVk-ZRN8nWg-oY7DVPmz04D3BT8TG5qV1YGGXRzoQR1SMMznR6Lqino8DLTt2gzoNG_zCjeEn5c5cyPcqOkR0t4krGn89UFi1
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stm-19/auth_master_playlist.m3u8?aid=null
+Fri Mar 13 22:04:11 CST 2026
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除kyul365 
+删除smmms2002 
+删除eunyoung1238 
+删除dign1461 
+删除kjjeong0609 
+删除hanny27 
+删除glglehddl 
+删除yin2618 
