@@ -6,3 +6,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 my_eyes_higher   https://edge16-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d9b92513599a0472cffae250154932ff7ac31e6330a3a404cb460e1ed84c37ef_trns_h264/playlist.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
+foxylovesyou   https://edge13-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1eccb6aab4e3e8eb1958587e345a62d3f46b80c644d1ae0e076777c5d18c63b7_trns_h264/playlist.m3u8
