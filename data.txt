@@ -6,3 +6,4 @@ SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 foxylovesyou   https://edge13-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-1eccb6aab4e3e8eb1958587e345a62d3f46b80c644d1ae0e076777c5d18c63b7_trns_h264/playlist.m3u8
 amilia4u   https://edge15-lax.live.mmcdn.com/live-hls/amlst:amilia4u-sd-644b3ce2a7291c88b526b1af128543430fe306aa3c0bbda432e802c1ceae15fc_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge36-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c27530b8c72d0e4233ab69b7bfb431f58b7cefa1a6859ae7d1bba0a295908530_trns_h264/playlist.m3u8
