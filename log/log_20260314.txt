@@ -131,3 +131,8 @@ Sat Mar 14 04:18:12 CST 2026
 Sat Mar 14 04:32:01 CST 2026
 Sat Mar 14 04:32:07 CST 2026
 Sat Mar 14 04:33:17 CST 2026
+Sat Mar 14 04:46:55 CST 2026
+Sat Mar 14 04:47:02 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Sat Mar 14 04:48:17 CST 2026
+删除gusdk2362 
