@@ -243,3 +243,9 @@ Sat Mar 14 09:17:00 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
 Sat Mar 14 09:18:14 CST 2026
 删除gusdk2362 
+添加taitehambelton https://edge14-lax.live.mmcdn.com/live-hls/amlst:taitehambelton-sd-197d94aea04fdc0f25192ed9a64228ff17ee0a456e43fe36fd7f56a54f7f8576_trns_h264/playlist.m3u8
+Sat Mar 14 09:32:03 CST 2026
+Sat Mar 14 09:32:05 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-17/auth_master_playlist.m3u8?aid=null
+Sat Mar 14 09:33:20 CST 2026
+删除gusdk2362 
