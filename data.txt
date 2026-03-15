@@ -6,3 +6,4 @@ moem9e9   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 my_eyes_higher   https://edge15-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-6c2962989f978c738098b097750c77a5165c4c11ad02f1db348d0fd204b34ad3_trns_h264/playlist.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 your_desssert   https://edge36-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-778fa0f9776b1ee381e26bee0f1c1d4388c418482675236a6ecd3235decf55ec_trns_h264/playlist.m3u8
+Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
