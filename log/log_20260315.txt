@@ -275,3 +275,11 @@ Sun Mar 15 07:46:59 CST 2026
 Sun Mar 15 07:48:17 CST 2026
 删除dreamch77 
 删除gusdk2362 
+Sun Mar 15 08:02:02 CST 2026
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIwMkEzNkQ0My0wQ0VDLTQ4M0MtODVDNi0wQzhENDE0NzlBOUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3MzUzMjkyOSwiZXhwIjoxNzczNTMzNTI5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.vNa6RhrH8qQ-359Zl2fJoOneF-ZsAGpiHD6e77YT0xxlSktbK4t1N4nu_U4SzmfQ_vDx7Gsq5P3NYLo80D6uYto9e9ZviomB05hepDqyMSeIRV2pAv8dTg_QIl3W3XEE
+Sun Mar 15 08:02:12 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-28/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.5L9xkQbbmiu8wFKxFQxwm1a69K_kgYEVAFkYw6YZXltyMDWvOze_VjjQe8JF8MlbWYQG0Tg3DkEcQQe_vvElKi_JH3RjlJx8kCCItfw5pYuUD5Vdc4TTGU9Ttq3ya1AyT9rR8rutxFQ28DQT0-1KJptm3vwM-IRs8jywp5Wpyks1KFBPmrkItOjw6oqdgrWB
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=null
+Sun Mar 15 08:03:26 CST 2026
+删除dreamch77 
+删除gusdk2362 
