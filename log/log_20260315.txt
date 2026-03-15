@@ -748,3 +748,23 @@ Sun Mar 15 20:33:49 CST 2026
 删除m0m099 
 删除namuh0926 
 删除yin2618 
+添加honey_pinkgreen https://edge8-phx.live.mmcdn.com/live-hls/amlst:honey_pinkgreen-sd-8d56a516771cf3a7f703ceed0d90e826581f1c0c5ccce63870a928ad41a1a315_trns_h264/playlist.m3u8
+添加my_eyes_higher https://edge11-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-196525f8b80547dbcae3170e942748e18d8c5f712d99caef7b757d63f8ea7be7_trns_h264/playlist.m3u8
+Sun Mar 15 20:46:49 CST 2026
+Sun Mar 15 20:47:02 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.5L9xkQbbmiu8wFKxFQxwm1a69K_kgYEVAFkYw6YZXltyMDWvOze_VjjQe8JF8MlbWYQG0Tg3DkEcQQe_vvElKi_JH3RjlJx8kCCItfw5pYuUD5Vdc4TTGU9Ttq3ya1AyT9rR8rutxFQ28DQT0-1KJptm3vwM-IRs8jywp5Wpyks1KFBPmrkItOjw6oqdgrWB
+添加alswl2208 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Mn9z5eRfbQ1Ri3swT0LDlRH_gcrRlOg1Nj8xv8Mh71u4UNWmuPO9I53TpBClDwdcIwp96xQcjcwOKZuxyuLaP-Qn8swk2XT82jTZLkJ8J-nfCntV0m4DPo5wbe2i4hAoHE9VASMChpUbBQY7pdeUmQaQvo_2eUdnMvjnDRgedjoImr6m29Co8p_TwXkhCxH3
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加namuh0926 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sun Mar 15 20:48:34 CST 2026
+删除my_eyes_higher 
+删除dreamch77 
+删除alswl2208 
+删除y1026 
+删除eunyoung1238 
+删除m0m099 
+删除namuh0926 
+删除yin2618 
