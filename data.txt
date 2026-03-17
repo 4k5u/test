@@ -9,3 +9,4 @@ ee5844   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 mikio_san   https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 foxylovesyou   https://edge17-lax.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-f134499ed52a2ce67fa9ba31c2f6ffc4373ff3f918d941309539f6ce23fc0d5a_trns_h264/playlist.m3u8
+my_eyes_higher   https://edge29-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0f7bb93c75d5eefcd35947467e6dc2a0abe9703d4f35e647a520e54bb6c452a6_trns_h264/playlist.m3u8
