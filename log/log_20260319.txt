@@ -121,3 +121,11 @@ Thu Mar 19 03:02:08 CST 2026
 Thu Mar 19 03:03:22 CST 2026
 删除my_eyes_higher 
 删除gusdk2362 
+添加my_eyes_higher https://edge6-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-c62ad2a8b982ed1694fe502f6b208125a38acffb3fdb267eb4003abbbe980f0d_trns_h264/playlist.m3u8
+Thu Mar 19 03:17:05 CST 2026
+Thu Mar 19 03:17:13 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Thu Mar 19 03:18:26 CST 2026
+删除your_desssert 
+删除my_eyes_higher 
+删除gusdk2362 
