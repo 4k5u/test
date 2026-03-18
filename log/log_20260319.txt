@@ -87,3 +87,13 @@ Thu Mar 19 01:48:25 CST 2026
 删除your_desssert 
 删除my_eyes_higher 
 删除gusdk2362 
+添加my_eyes_higher https://edge6-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-d074608de57da58d3b589c60ecb6b58bc1cb1a2e3f85dc1247eb517f1d977a20_trns_h264/playlist.m3u8
+添加your_desssert https://edge35-phx.live.mmcdn.com/live-hls/amlst:your_desssert-sd-b07e350394c695b4fc6e8474d64dc1bc454a5527fd037c850bdfd1bd10a648b1_trns_h264/playlist.m3u8
+Thu Mar 19 02:02:16 CST 2026
+Thu Mar 19 02:02:28 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.co.kr/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Thu Mar 19 02:03:40 CST 2026
+删除100472 
+删除tyy750ii 
+删除my_eyes_higher 
+删除gusdk2362 
