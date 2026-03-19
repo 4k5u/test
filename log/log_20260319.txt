@@ -441,3 +441,11 @@ Thu Mar 19 16:17:06 CST 2026
 Thu Mar 19 16:18:22 CST 2026
 删除jeehyeoun 
 删除leelate 
+Thu Mar 19 16:31:49 CST 2026
+Thu Mar 19 16:31:54 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.co.kr/live-stm-10/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.tDM-MYUk5qdY9iOjoQUJoq9Tq30_Xq5Ebs1ZzJwaegpiIj0ofx3isPKvATdX30ghmtKRgpyU2EcLEs6Frj5Kzae5CYGFNJ7FVLFbI03h6LPD9n2jedCzi_8HFH7N6DeVGlaL21cNw-86X2Mwterq0mj-RHVVNpfGtdBawk2QGqzVMAUhJYAt0RlYqFxuMUsy
+添加leelate https://live-global-cdn-v02.sooplive.co.kr/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.thJtPkPmN4iPzRohGaHGGrcijB7O5AOwj-GLvdOU74hsKe797QGw2zW4ZClTvxx4GXWPOddIezFMO0LRf62m2GCct8Ugz1y9Wna_Aers5C3Na8WB756TPsRlLcAvnnGArxzZ0QfblQW3tqAGfhDUcF-AIwsHRfOlF-R8dNWiUmIA2f4nUERxz1KR_rNZCNS2
+Thu Mar 19 16:33:11 CST 2026
+删除foxylovesyou 
+删除jeehyeoun 
+删除leelate 
