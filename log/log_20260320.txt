@@ -104,3 +104,9 @@ Fri Mar 20 02:33:27 CST 2026
 删除tyy750ii 
 删除my_eyes_higher 
 删除glglehddl 
+添加my_eyes_higher https://edge30-phx.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-0de92ce7cacbcf7c914437e02e60802777d5cdc68f26ab1c942af3863389c2fd_trns_h264/playlist.m3u8
+Fri Mar 20 02:46:58 CST 2026
+Fri Mar 20 02:47:04 CST 2026
+添加glglehddl https://live-global-cdn-v02.sooplive.co.kr/live-stm-02/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Vd1u-HV8gniaGvd8c7qsTC30oZv9nvb52LYqf3ObIRft5GnCtrm2MgbLZ8lDwr6Hb7T9P_StjuFimwoItuM1g42rGZn3EkMPGqpT7_GPEPe9scRVlAJf137K4pD_OSv1Yxq7qQUWmk5YKhaXeReoSci-YnJzXw9JTF62g4AhBa6OWYR27ApIqjIqSRks9IwR
+Fri Mar 20 02:48:19 CST 2026
+删除glglehddl 
