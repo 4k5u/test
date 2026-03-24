@@ -277,3 +277,8 @@ Tue Mar 24 14:32:09 CST 2026
 添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Tue Mar 24 14:33:23 CST 2026
 删除dana9282 
+Tue Mar 24 14:47:11 CST 2026
+Tue Mar 24 14:47:19 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Mar 24 14:48:32 CST 2026
+删除dana9282 
