@@ -365,3 +365,16 @@ Tue Mar 24 18:33:35 CST 2026
 删除somsom0339 
 删除m0m099 
 删除hanny27 
+Tue Mar 24 18:46:55 CST 2026
+Tue Mar 24 18:47:03 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加somsom0339 https://live-global-cdn-v02.sooplive.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Vk_NULO8zvsr28qEzL3Gir0Z-ptOxY96u9YNrjMGR-c3sGTyRZJfTmnoldEtbPKSjQJGekyThN8AeiqeAP9NxdNTqew8_dpzuLIYgQLb28n0Vo7W-jnNau3LDVT-2FrBGQ0JF2R3I0o6h2vlVTibq2BeENr-0_CoKvk95ADVnSD8RVpF64D6wO33aAh6YU7Y
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.HJ0Qfvf-1sKkgfB4WkZukyhhf9FNNPhAcLPNGZqipJMW4vmvDUpQpQ0YtZrGqndA4K1drY8YdUhKmqmQx7dKQf_BRLEhCx4k55mxnoIUry_NTVvFNBLxNTyZhaf3vDr2TppFtacKKKXzTb0YggoYhNYh5tHHlskhWRMNuUe_n7krDjb600xSOFuIq7Foavs5
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gWe5yvxJ8BKQtkOuzr-nwEeEPYYHQPH7e3TffF2MdcnRBRrtFKsL8iHBo5BRSCIrAbRlJJyp5qFMsR1TFuCbc5LMqIOm41Sauv7tKVfZivurIw8vB730ndlYr_gfXjFy5hoe-dzm1fyDOZD-1NkJeSA7yEF5vFrfftcDinCpqU6p9Wq10NFoQQHDk1qQcMLm
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+Tue Mar 24 18:48:29 CST 2026
+删除navi04 
+删除somsom0339 
+删除dign1461 
+删除m0m099 
+删除hanny27 
