@@ -5,4 +5,3 @@ flowerwar   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 Xenomy   https://edge-hls.doppiocdn.live/hls/109536267/master/109536267_auto.m3u8
 foxylovesyou   https://edge23-phx.live.mmcdn.com/live-hls/amlst:foxylovesyou-sd-e50f81fbe26b813ffe31df5cfa4f613edb73016d9be0bd03fb3897cfd2d0212f_trns_h264/playlist.m3u8
-ad0res   https://edge12-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-1e4bd502472de49245965d64a5b0b47730ce624d7c11fe6c4cd9451916e048e2_trns_h264/playlist.m3u8
