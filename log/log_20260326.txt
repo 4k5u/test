@@ -484,3 +484,13 @@ Thu Mar 26 17:18:39 CST 2026
 删除leelate 
 删除y1026 
 删除dign1461 
+添加ad0res https://edge12-lax.live.mmcdn.com/live-hls/amlst:ad0res-sd-1e4bd502472de49245965d64a5b0b47730ce624d7c11fe6c4cd9451916e048e2_trns_h264/playlist.m3u8
+Thu Mar 26 17:32:09 CST 2026
+Thu Mar 26 17:32:15 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stmc-40/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.FiCBkRxaCGHrPZtEXz7kHl7XnVeQxqsOeOW1Tb8IORwZvdT_iVtHt8eDT0yFlX-IkDUfsG7a-Xxa-q0TjXS6oIq7qXzXxlmA2tzqMu5IPXhWO0ZUg8rvSSRu3NCF8fMhr0OdqUPXWbTKf1GDVWFhtUbYPoiPHlPtybJvkjJXWM7HgEPja_D4UteFSR3gxxv5
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.QNyGG2_zDnwRRBmvoHCncOmi-tuuYbr2383-EcH1eBx4YWFj9xaiU9pcdgkmu4zieovAE9JIEJjDtCYkSr7VqpXNBm5PGfp50Tdc7Hu6aU5YYj2vPm-khsmhgT9kuggAXh5FhUrxTDSBPge8Ha-rNCpzfPbUgeew6ZQM4TbobivRtKMnRRd2IW3I-Q42Ythg
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-34/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.zhqF3nFS50sPBR0CnIpB0P3Mmx4gGBiQShbrMSo0CWSHaKY0y90GaGFlJYTfY3X7Wtb_rhyDVKow8BvcrnT1Hev4615KypPgkNiUL2IRfCEjQpPFbZQ1MM2wDoQl7hxfKjJRSYa7Gey_BSIPZfvPkFBPikV-zPstcQe66kE690G6mPiDILDeP-FAnbm37ZR9
+Thu Mar 26 17:33:33 CST 2026
+删除leelate 
+删除y1026 
+删除dign1461 
