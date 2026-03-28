@@ -5,3 +5,4 @@ nobleinc   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/u
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 sigmasian   https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+my_eyes_higher   https://edge17-lax.live.mmcdn.com/live-hls/amlst:my_eyes_higher-sd-94d748460eae19fe0d9e930013c9dd98a18c95989c0c8d9d1f75239ea4a43295_trns_h264/playlist.m3u8
