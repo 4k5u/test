@@ -423,3 +423,9 @@ Sat Mar 28 16:01:54 CST 2026
 Sat Mar 28 16:03:03 CST 2026
 删除alicelebel 
 删除SanySenise 
+Sat Mar 28 16:17:00 CST 2026
+Sat Mar 28 16:17:04 CST 2026
+Sat Mar 28 16:18:13 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
+删除my_eyes_higher 
