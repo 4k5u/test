@@ -140,3 +140,6 @@ Fri Apr 3 03:32:13 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-10/auth_master_playlist.m3u8?aid=null
 Fri Apr 3 03:33:28 CST 2026
 删除gusdk2362 
+Fri Apr 3 03:47:03 CST 2026
+Fri Apr 3 03:47:07 CST 2026
+Fri Apr 3 03:48:19 CST 2026
