@@ -150,3 +150,8 @@ Sun Apr 5 03:47:12 CST 2026
 Sun Apr 5 03:48:28 CST 2026
 删除rud9281 
 删除gusdk2362 
+Sun Apr 5 04:02:03 CST 2026
+Sun Apr 5 04:02:05 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sun Apr 5 04:03:20 CST 2026
+删除gusdk2362 
