@@ -34,3 +34,9 @@ Mon Apr 6 01:17:11 CST 2026
 Mon Apr 6 01:18:45 CST 2026
 删除100472 
 删除eunyoung1238 
+Mon Apr 6 01:32:01 CST 2026
+Mon Apr 6 01:32:10 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
+Mon Apr 6 01:33:25 CST 2026
+删除moem9e9 
+删除eunyoung1238 
