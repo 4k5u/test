@@ -60,3 +60,8 @@ Mon Apr 6 02:32:16 CST 2026
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
 Mon Apr 6 02:33:38 CST 2026
 删除eunyoung1238 
+Mon Apr 6 02:47:01 CST 2026
+Mon Apr 6 02:47:07 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
+Mon Apr 6 02:48:21 CST 2026
+删除eunyoung1238 
