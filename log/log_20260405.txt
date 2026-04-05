@@ -667,3 +667,11 @@ Sun Apr 5 22:02:29 CST 2026
 Sun Apr 5 22:04:04 CST 2026
 删除alswl2208 
 删除kkkku96 
+Sun Apr 5 22:17:00 CST 2026
+Sun Apr 5 22:17:22 CST 2026
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
+Sun Apr 5 22:19:08 CST 2026
+删除emforhs1919 
+删除alswl2208 
+删除eunyoung1238 
