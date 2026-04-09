@@ -203,3 +203,11 @@ Fri Apr 10 03:48:30 CST 2026
 删除smmms2002 
 删除jeehyeoun 
 删除gusdk2362 
+Fri Apr 10 04:02:07 CST 2026
+Fri Apr 10 04:02:10 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Fri Apr 10 04:03:28 CST 2026
+删除alicelebel 
+删除jeehyeoun 
+删除gusdk2362 
