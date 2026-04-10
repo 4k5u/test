@@ -206,3 +206,9 @@ Sat Apr 11 05:48:33 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-09/auth_master_playlist.m3u8?aid=null
 Sat Apr 11 05:49:46 CST 2026
 删除gusdk2362 
+Sat Apr 11 06:03:30 CST 2026
+Sat Apr 11 06:03:32 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-09/auth_master_playlist.m3u8?aid=null
+Sat Apr 11 06:04:45 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 
