@@ -331,3 +331,8 @@ Sat Apr 11 13:17:12 CST 2026
 添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
 Sat Apr 11 13:18:25 CST 2026
 删除hanny27 
+Sat Apr 11 13:32:00 CST 2026
+Sat Apr 11 13:32:02 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
+Sat Apr 11 13:33:16 CST 2026
+删除hanny27 
