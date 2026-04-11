@@ -242,3 +242,8 @@ Sat Apr 11 07:48:05 CST 2026
 Sat Apr 11 08:02:00 CST 2026
 Sat Apr 11 08:02:02 CST 2026
 Sat Apr 11 08:03:12 CST 2026
+Sat Apr 11 08:17:01 CST 2026
+Sat Apr 11 08:17:03 CST 2026
+Sat Apr 11 08:18:13 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除Sime_Naughty 
