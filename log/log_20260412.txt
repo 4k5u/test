@@ -302,3 +302,8 @@ Sun Apr 12 08:32:03 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
 Sun Apr 12 08:33:21 CST 2026
 删除gusdk2362 
+Sun Apr 12 08:46:58 CST 2026
+Sun Apr 12 08:47:00 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+Sun Apr 12 08:48:14 CST 2026
+删除gusdk2362 
