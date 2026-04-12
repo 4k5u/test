@@ -292,3 +292,8 @@ Sun Apr 12 08:02:01 CST 2026
 Sun Apr 12 08:03:16 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除gusdk2362 
+Sun Apr 12 08:16:59 CST 2026
+Sun Apr 12 08:17:01 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+Sun Apr 12 08:18:16 CST 2026
+删除gusdk2362 
