@@ -410,3 +410,8 @@ Sun Apr 12 12:32:02 CST 2026
 Sun Apr 12 12:33:20 CST 2026
 删除navi04 
 删除eunyoung1238 
+Sun Apr 12 12:47:13 CST 2026
+Sun Apr 12 12:47:15 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Sun Apr 12 12:48:31 CST 2026
+删除navi04 
