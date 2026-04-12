@@ -516,3 +516,12 @@ Sun Apr 12 16:48:32 CST 2026
 删除navi04 
 删除dign1461 
 删除namuh0926 
+Sun Apr 12 17:02:04 CST 2026
+Sun Apr 12 17:02:08 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.RSzNrLsrb-3JvD_OhQbl0xa_-OT5nq2CFw0LiUaq0oBt9eQrvz_DijmlZ-fdlUkahQjmA_0ZA4P27OyIac0XgOp2Uxyw9cVzjQjdpk61ahXXabrZWSheK-xE1hvAk4VHWsadh3QmLXhMiX0_O64oWJww6hG_XnvvXHfTK5qxxVGdsHl1seWSu82qxIsFRFU9
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.OAwCfpIVBP2K9wf7GtnLkIORh1b5xr6xx1egSOMNFoSnjGSW0QDiYFNMe7S3MCDgdEf1G2xbsurRTWPRGgOd1qNDoiHnxnzvATe0bxbV6ixaiV5FV0NbJYh4vOXHRm48NZDcZbZXv7h7vrTE_mYPvoRgJLOGOY7g9EcvCce8GtNxDwqrwv4QjknVDJYdoLmP
+Sun Apr 12 17:03:29 CST 2026
+删除navi04 
+删除dign1461 
+删除namuh0926 
