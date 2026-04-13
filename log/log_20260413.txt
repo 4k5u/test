@@ -246,3 +246,8 @@ Mon Apr 13 12:02:09 CST 2026
 添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-gW1JmLLLeP0VP74kdNfaUa5QTGPm5g0cfx9Xjk1exWfiy5XgtOmryFg4BVqa-wWmx1bPHs7usD2fJ4qNIwA2hHCcI1xw27pp6vcxkSzyg40UrBUo9ymynHd0jsCITDWEO60T_I68BCthGQdBePccTQ-UV1l_A_Gs-uqheeTnzdsrKEo-8X5y9Ft1yY30FWD
 Mon Apr 13 12:03:22 CST 2026
 删除leelate 
+Mon Apr 13 12:17:07 CST 2026
+Mon Apr 13 12:17:11 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-gW1JmLLLeP0VP74kdNfaUa5QTGPm5g0cfx9Xjk1exWfiy5XgtOmryFg4BVqa-wWmx1bPHs7usD2fJ4qNIwA2hHCcI1xw27pp6vcxkSzyg40UrBUo9ymynHd0jsCITDWEO60T_I68BCthGQdBePccTQ-UV1l_A_Gs-uqheeTnzdsrKEo-8X5y9Ft1yY30FWD
+Mon Apr 13 12:18:27 CST 2026
+删除leelate 
