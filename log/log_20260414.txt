@@ -281,3 +281,8 @@ Tue Apr 14 16:32:12 CST 2026
 添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Tue Apr 14 16:33:29 CST 2026
 删除dign1461 
+Tue Apr 14 16:47:13 CST 2026
+Tue Apr 14 16:47:19 CST 2026
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Apr 14 16:48:38 CST 2026
+删除dign1461 
