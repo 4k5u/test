@@ -279,3 +279,9 @@ Thu Apr 16 13:47:14 CST 2026
 Thu Apr 16 13:48:30 CST 2026
 删除IdaJonesy 
 删除namuh0926 
+Thu Apr 16 14:02:00 CST 2026
+Thu Apr 16 14:02:09 CST 2026
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Thu Apr 16 14:03:37 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除namuh0926 
