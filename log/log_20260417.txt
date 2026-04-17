@@ -327,3 +327,9 @@ Fri Apr 17 16:32:11 CST 2026
 Fri Apr 17 16:33:22 CST 2026
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
 删除leelate 
+Fri Apr 17 16:46:54 CST 2026
+Fri Apr 17 16:46:57 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stmc-39/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.pJxm53-4HFxnsmz0-DvcmcAC25J6Fh4jCGi7_PhOzFJWnPmOGFwZpzalV7jgGh407XAd9tlUOP0A-Jin0YRvxXEQTonTeMCSxuA8WKH3HOeZZNxhVkkq_HrZQ8Vnbg50xftTQtX16jD0Y_UITf5S4SjUcWEcxLPcTPRejOcfmh2L6H1XQ-KoJzeDlYZriRrT
+Fri Apr 17 16:48:11 CST 2026
+删除SanySenise 
+删除leelate 
