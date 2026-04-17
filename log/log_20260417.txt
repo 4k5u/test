@@ -333,3 +333,7 @@ Fri Apr 17 16:46:57 CST 2026
 Fri Apr 17 16:48:11 CST 2026
 删除SanySenise 
 删除leelate 
+Fri Apr 17 17:02:11 CST 2026
+Fri Apr 17 17:02:13 CST 2026
+Fri Apr 17 17:03:31 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
