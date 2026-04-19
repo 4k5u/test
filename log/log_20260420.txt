@@ -83,3 +83,11 @@ Mon Apr 20 02:03:34 CST 2026
 删除Angel-Bei-bei 
 删除eunyoung1238 
 删除gusdk2362 
+Mon Apr 20 02:17:07 CST 2026
+Mon Apr 20 02:17:13 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-ol7Ck5e_cjQHBWqmeDBzrJYRRb0QEYdRfUJorVu8EkAOiUHiBGLEsHrz_scfp57Ncis8_OQv_kK_AZ13c-4HoU1I3lHLfbh86rxDZGg__ZWjNM1SWLxjRkmoANdm_RAJ67PlZ7H-OmcQ73OS5iIWuQd90eKNw2fbpcH-tCw9w1JtwUb7R-aScAeyD73gU-H
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?aid=null
+Mon Apr 20 02:18:31 CST 2026
+删除in0410 
+删除eunyoung1238 
+删除gusdk2362 
