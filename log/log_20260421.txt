@@ -105,3 +105,8 @@ Tue Apr 21 03:17:04 CST 2026
 添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
 Tue Apr 21 03:18:18 CST 2026
 删除jeehyeoun 
+Tue Apr 21 03:32:04 CST 2026
+Tue Apr 21 03:32:09 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-32/auth_master_playlist.m3u8?aid=null
+Tue Apr 21 03:33:22 CST 2026
+删除jeehyeoun 
