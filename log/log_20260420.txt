@@ -231,3 +231,9 @@ Mon Apr 20 11:32:12 CST 2026
 Mon Apr 20 11:33:31 CST 2026
 删除Sime_Naughty 
 删除dana9282 
+Mon Apr 20 11:47:04 CST 2026
+添加redholic377 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.E8bdgRrKnRq8.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0U4YmRnUnJLblJxOCIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBQjg5OEFFRC1ERDdGLTQ3REMtOUZFMy0zNDA2MTFDN0Q5MDIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3NjY1NjgyNywiZXhwIjoxNzc2NjU3NDI3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.TLSI02aLCYnB53NmbFdiiI67DDAvirRib3ldlXhqgTSiDC-RSxZfe1z-m_mFm6BSrIABXZNbadIxU_-RhdjKOBB_L_CB6c0S8fB1U6DW7Wyhhao1K9FV1l4hmABbhWw9
+Mon Apr 20 11:47:14 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stm-06/auth_master_playlist.m3u8?aid=null
+Mon Apr 20 11:48:28 CST 2026
+删除dana9282 
