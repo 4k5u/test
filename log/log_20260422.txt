@@ -42,3 +42,11 @@ Wed Apr 22 00:48:51 CST 2026
 删除Tmdgus5411 
 删除eunyoung1238 
 删除gusdk2362 
+Wed Apr 22 01:02:10 CST 2026
+Wed Apr 22 01:02:26 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-06/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-10/auth_master_playlist.m3u8?aid=null
+Wed Apr 22 01:03:46 CST 2026
+删除dks2003 
+删除eunyoung1238 
+删除gusdk2362 
