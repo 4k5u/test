@@ -480,3 +480,10 @@ Thu Apr 23 18:32:15 CST 2026
 添加gremmy https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
 Thu Apr 23 18:33:30 CST 2026
 删除gremmy 
+Thu Apr 23 18:47:11 CST 2026
+Thu Apr 23 18:47:23 CST 2026
+添加gremmy https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Thu Apr 23 18:48:43 CST 2026
+删除gremmy 
+删除hanny27 
