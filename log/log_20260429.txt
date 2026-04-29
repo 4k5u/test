@@ -307,3 +307,9 @@ Wed Apr 29 16:48:21 CST 2026
 Wed Apr 29 17:02:10 CST 2026
 Wed Apr 29 17:02:12 CST 2026
 Wed Apr 29 17:03:21 CST 2026
+Wed Apr 29 17:17:11 CST 2026
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.I9x0Dsb47nDj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0k5eDBEc2I0N25EaiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI5RUM4NEMwNy1DMkQ1LTRDOUQtQUI4Ri1FRDZBQzg2MTc0OTMiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3NzQ1NDIzMiwiZXhwIjoxNzc3NDU0ODMyLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9._A6qvPc-xH4020oncUyUYJmjHLOLwlWLnAPisSNKjsRteX3Yc4WgnlS38lawdpdpZMmALHcsfiDkZOgUINdzZs8yH-XkzBwd3sALWMGtsBV9sQgt76NErazwvLDEvVjm
+Wed Apr 29 17:17:18 CST 2026
+添加somsom0339 https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.H4gY1I4jtm3u-gxBRHUqNifu-UgiWUgZ-3LM4sc5rOA73z26m5_Hr9t6nt2S9nS_sT-FEd3UAVW_VEsJ-cSzAGKoHqFE3b_z1j_ptOaOY06UIAkXvT2lWGoO6bNq8Fv94znCHSa9n3876pPolEneOk8x51spSz2n7VtPTXVjsX0ehBMA-WhIdtKDuQCco28Y
+Wed Apr 29 17:18:34 CST 2026
+删除somsom0339 
