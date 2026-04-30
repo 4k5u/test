@@ -308,3 +308,11 @@ Thu Apr 30 14:32:01 CST 2026
 添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
 Thu Apr 30 14:33:16 CST 2026
 删除dana9282 
+Thu Apr 30 14:47:13 CST 2026
+Thu Apr 30 14:47:17 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stm-18/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stmc-23/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Iy7hhPPq4Lsvp8QMBxd7lXomRWAjdfb58OIYmsY7hpHktmgQCGN1-YIOGookYq1tD44VCFZ1-wESwNEp9SuD2HojSOPy6J-VUomE2v-MutYlCavf3L0VUs518k-J7hgRmaOEGK1PSWsoU1zv4sVD4cHrk2I2tURmfn_x1S0mJRKFZgrCD0RGVUqzzwsnOggl
+Thu Apr 30 14:48:32 CST 2026
+删除Lucille_evans 
+删除dana9282 
+删除y1026 
