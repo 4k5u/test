@@ -3,3 +3,4 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+ddooyaa aaa bbb https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=null&sig=null&allow_source=true&allow_audio_only=true

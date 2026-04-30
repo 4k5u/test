@@ -297,3 +297,9 @@ Thu Apr 30 14:02:06 CST 2026
 Thu Apr 30 14:02:10 CST 2026
 Thu Apr 30 14:03:23 CST 2026
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Thu Apr 30 14:17:06 CST 2026
+Thu Apr 30 14:17:10 CST 2026
+添加dana9282 https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=null
+Thu Apr 30 14:18:24 CST 2026
+添加ddooyaa https://usher.ttvnw.net/api/channel/hls/ddooyaa.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=null&sig=null&allow_source=true&allow_audio_only=true
+删除dana9282 
