@@ -220,3 +220,8 @@ Thu Apr 30 08:17:14 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
 Thu Apr 30 08:18:30 CST 2026
 删除gusdk2362 
+Thu Apr 30 08:32:07 CST 2026
+Thu Apr 30 08:32:11 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Thu Apr 30 08:33:25 CST 2026
+删除gusdk2362 
