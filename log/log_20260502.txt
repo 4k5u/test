@@ -288,3 +288,8 @@ Sat May 2 12:33:39 CST 2026
 添加Lucille_evans https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
 删除ddooyaa 
 删除gusdk2362 
+Sat May 2 12:47:08 CST 2026
+Sat May 2 12:47:12 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Sat May 2 12:48:27 CST 2026
+删除gusdk2362 
