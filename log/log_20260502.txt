@@ -255,3 +255,8 @@ Sat May 2 11:17:09 CST 2026
 Sat May 2 11:18:25 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Sat May 2 11:32:10 CST 2026
+Sat May 2 11:32:12 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-14/auth_master_playlist.m3u8?aid=null
+Sat May 2 11:33:28 CST 2026
+删除gusdk2362 
