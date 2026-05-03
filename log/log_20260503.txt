@@ -693,3 +693,19 @@ Sun May 3 22:19:07 CST 2026
 删除gusdk2362 
 删除m0m099 
 删除yin2618 
+Sun May 3 22:31:59 CST 2026
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyMUNBNkREQi0wRjJGLTQ3QjQtQTlDMy0zRDBGQTlBQTU1QjQiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3NzgxODczMCwiZXhwIjoxNzc3ODE5MzMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3FuWZ_zIyuu6ENhyHqf0aAcV1uTv66yI5BaX3Q0dJucruHLUmkaHcQca0DofvIYijzu1WSZXIAaMQGjqDKghZPf4-lRxybVfej43i8pNLQB_NGandKPW8Kyr7vGO85Yu
+Sun May 3 22:32:33 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.com/live-stm-19/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.woOD_73rgEPeQJtMbR50PIcN6IRVKk-nj964Q3LQeVmrYGseWdUX2gbzvoYjkeRQ9Y0UKyujp4EgsMLNzcmG6vDvjTc0Hm9RkDiBV4jzhSJG44b_6x0knBiugrINV9FGxKgiyuMzTAmtq9LuyOHopo5ryh3-fjiM29nqb81QU91oKlTyBM68IrdKXuPQum2r
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-23/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stm-11/auth_master_playlist.m3u8?aid=null
+Sun May 3 22:34:03 CST 2026
+删除dreamch77 
+删除eunyoung1238 
+删除dign1461 
+删除gusdk2362 
+删除m0m099 
+删除yin2618 
