@@ -81,3 +81,8 @@ Wed May 6 02:02:26 CST 2026
 添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_master_playlist.m3u8?aid=null
 Wed May 6 02:03:44 CST 2026
 删除jeehyeoun 
+Wed May 6 02:17:18 CST 2026
+Wed May 6 02:17:22 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_master_playlist.m3u8?aid=null
+Wed May 6 02:18:43 CST 2026
+删除jeehyeoun 
