@@ -66,3 +66,10 @@ Sat May 9 03:02:25 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-04/auth_master_playlist.m3u8?aid=null
 Sat May 9 03:03:37 CST 2026
 删除gusdk2362 
+Sat May 9 03:17:15 CST 2026
+Sat May 9 03:17:17 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-04/auth_master_playlist.m3u8?aid=null
+Sat May 9 03:18:33 CST 2026
+删除imsocutesexy 
+删除in0410 
+删除gusdk2362 
