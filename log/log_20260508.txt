@@ -230,3 +230,7 @@ Fri May 8 12:47:00 CST 2026
 Fri May 8 12:47:02 CST 2026
 Fri May 8 12:48:11 CST 2026
 删除IdaJonesy 
+Fri May 8 13:02:09 CST 2026
+Fri May 8 13:02:11 CST 2026
+Fri May 8 13:03:28 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
