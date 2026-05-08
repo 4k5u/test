@@ -198,3 +198,7 @@ Fri May 8 10:32:03 CST 2026
 Fri May 8 10:32:06 CST 2026
 Fri May 8 10:33:16 CST 2026
 删除Sime_Naughty 
+Fri May 8 10:47:04 CST 2026
+Fri May 8 10:47:06 CST 2026
+Fri May 8 10:48:16 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
