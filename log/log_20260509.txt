@@ -350,3 +350,15 @@ Sat May 9 16:04:44 CST 2026
 删除y1026 
 删除eunyoung1238 
 删除namuh0926 
+Sat May 9 16:17:01 CST 2026
+Sat May 9 16:17:05 CST 2026
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.PI8-QUTPVGtE3_8cFB10XFd8ixVYL5vwLDY8HKCQ2PSThnT7GE-Gm8VYZVTSPNMRa-EWQBC52zrIgSXQQAxFn8_ZNBrJ08gfndr8ThxUkRSZtxoiaKAEacy9xTK7p0jh4kO-92Mw1g0fIlK8XLGX73Ed1rnTjpucwb9Zm7g3PUPKSd26RsEx7oFH-FqScCjE
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.jLG6AEmOyfq4-oxY2iy6PYmm2YjOV2Qkc9EEGv-ZSFUorliVIhAvx7jQglURy1ishUi9h3IqtARTgd2V9FKuvUBihZZx9_TT_KgWBcghAqgB7mETI1Tu1nKQ2uAAAXLJBy8wBaOw7bJF81TegmrdYccnthUo_GwurxBIxVtPztZuDmegReMgcH2QiB_vDqVS
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stmc-25/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.82HNF_yvqq9kb3lihxhzVBOs0SCNFhiTwccQudbHHbh_yB4badLXq6SavrR9zj0dEk1fSYvD0KpW62KTxBO-X5vUzGl_mbcROohLtaQcbzcl-4out31Q1_z0SsjEk0YD5P-BLiMKo80KIJuE6fE_iZ88fFoDNU2mQSHZiRiAHp1TwrdM9qTQFMdGWK0Gg9oz
+Sat May 9 16:18:31 CST 2026
+删除alicelebel 
+删除alswl2208 
+删除leelate 
+删除eunyoung1238 
+删除namuh0926 
