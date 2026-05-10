@@ -607,3 +607,10 @@ Sun May 10 17:48:27 CST 2026
 删除navi04 
 删除alswl2208 
 删除namuh0926 
+Sun May 10 18:01:48 CST 2026
+Sun May 10 18:01:50 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stm-03/auth_master_playlist.m3u8?aid=null
+Sun May 10 18:03:07 CST 2026
+删除navi04 
+删除namuh0926 
