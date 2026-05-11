@@ -371,3 +371,9 @@ Mon May 11 17:47:19 CST 2026
 添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Mon May 11 17:48:31 CST 2026
 删除navi04 
+Mon May 11 18:02:07 CST 2026
+添加naras2 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.z9XRLkQxsEWn.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3o5WFJMa1F4c0VXbiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIyOTU4NjQ4RS04OEVFLTQ1N0EtQTA0NS1FRDU0OEY4OThBMTAiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3ODQ5MzczMCwiZXhwIjoxNzc4NDk0MzMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.a89DS34IqvmuIQkX3aYd8Pm2xEHbeLUaYvwipKGEGUswGTUrNvA7VpUdoQhQxqW4fgsUTkJ4LWm6xFuPBnFzLfrNkajdCk4EXatOQacGgJTcXy_ECa_nVGigVR7KdqIC
+Mon May 11 18:02:13 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Mon May 11 18:03:27 CST 2026
+删除navi04 
