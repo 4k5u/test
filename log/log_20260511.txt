@@ -366,3 +366,8 @@ Mon May 11 17:32:16 CST 2026
 添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
 Mon May 11 17:33:34 CST 2026
 删除navi04 
+Mon May 11 17:47:16 CST 2026
+Mon May 11 17:47:19 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-33/auth_master_playlist.m3u8?aid=null
+Mon May 11 17:48:31 CST 2026
+删除navi04 
