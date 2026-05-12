@@ -604,3 +604,25 @@ Tue May 12 21:19:50 CST 2026
 删除namuh0926 
 删除kjjeong0609 
 删除yin2618 
+Tue May 12 21:32:25 CST 2026
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MDM1QUQ5My1BMEU1LTQ0NjctODRCNC02MzFEQ0U3MDA3QTEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3ODU5Mjc1NywiZXhwIjoxNzc4NTkzMzU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.63kI_AZUud0m7HWx1addJIeFmRInR1gJQBsKM-6f4QINCg31NJ9HmI62cx6jJGf7w1Lndplx1uSjOCBnPyFhvB4xg9Tz5eKB48uddwnXux2FdMy4leakp50Kyn6RkoZe
+Tue May 12 21:32:54 CST 2026
+添加dreamch77 https://live-global-cdn-v02.sooplive.com/live-stmc-36/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.TMqn3rnFJ2Iq8BYiwiIWMKG3xAcUDEE35j3TgRt9QRO7V2nB8LMIQX1THVvwBhWj_mhy15HLsYhEolHItPWXlNMBqTWoYhBEJMB42YD5aDcWIgNk2pxsKgVKOWyZSBsIrtzoyDoP8sghHqh1nJUHPIUZxzg76MyNU8lUgA3dPyUFOT8bRVIap8Sc_dVRlTyP
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.L5Ps53B8qGnz1oY9RVDKKxn2HAjZtIS-65n1H3nddbGpYwPeo6BWoC8JDgAVKYeYjpIPnMZ5t_1TQYF38XHwKPaZHk_P5pkQjLO34xmBNz7k2ozpW5ncQgQbtlR9a-NxrtSM9Tj9q1stjM2gYk54RSbAyrMCMLKqnJMZ0pKYGxp9Lw6iFGOwQB-XbzwyNgn_
+添加kkkku96 https://live-global-cdn-v02.sooplive.com/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加somsom0339 https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.J0OF7AFCgbmBJtpnKjxsNP7ujVSHtT1-zR85hSYG2kZf29LcNPLmPetHOc_Zr1Txq7dhl2ExRE-X_nM9a0RgqINAz0ZAaEIMvFBGD7ft2avfgeBh3v7anPynrh2vXTjRjhdr3d2MfZyLyF2fIOZaVjqhwiTIfnK5OVzp_kjH0n_kOIjz4hTrcOBOz9fRmqlp
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stmc-34/auth_master_playlist.m3u8?aid=null
+添加kjjeong0609 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gIvYg6J7O6ola3S3LAi2SMiK9oTIQvDo0FBjsgXL0oD9Nt3XENcjcg1G2MV8uscVHK8_-SaeqyCeEKlRDF1Th34W5lM9KQjPkuoA__AaiL7plXlmNzhDHsHL8GQPv03x_O_C-FaUisBpcHuM8ISdBLfvrb48yw36zWgG0bbLjMmdmHfiiMugNNxqH5YbKXq6
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stm-14/auth_master_playlist.m3u8?aid=null
+Tue May 12 21:34:35 CST 2026
+删除SanySenise 
+删除chuing77 
+删除dreamch77 
+删除jeehyeoun 
+删除kkkku96 
+删除somsom0339 
+删除eunyoung1238 
+删除namuh0926 
+删除kjjeong0609 
+删除yin2618 
