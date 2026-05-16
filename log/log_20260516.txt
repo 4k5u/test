@@ -426,3 +426,12 @@ Sat May 16 16:19:01 CST 2026
 删除alswl2208 
 删除y1026 
 删除dign1461 
+Sat May 16 16:32:07 CST 2026
+Sat May 16 16:32:13 CST 2026
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.rtcQq_Z1VUvrW5XPGN5I96n9MHG3yFNux_vprRZXNa-rrJezReUu_wiGtPk2QzxvdUhXqXfF2NMcLanMpaW_CPLpX3ci3RRbWjvl6BNrRnShp1FhJSQR7SqqeoZjeTMOCS8FO05SaXKZiJ0bTLLmctzvPBGr1Xw83ltlt2NPls4xrQ_NmuUHpxznL-RbFQr7
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stm-14/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.pRmPRuuYXVc5YaY6fQelinp_m-QlBQcFNd6IpV0C9toC40ZTWSwlnkIFu_nGRoR4kAlZ6U3PlNUVxcS9uikVd4i-yRX8hNRnzMTZzuGtUAQ6xnIJmsAjyWtm4WRxJWapHgr1_QQvtSUqtrCk0DA69Md2OZWFVVDQK7PXW9CnQUmxBrNINuf00GsKeBW1mkgW
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.xqhKmEUVCVI8g0FolABKx3aQ-hwoVgD4-29sD8RnYxjxY_G6xLp8_iiZ9vc0WDS-xB5fFCweMGzXPj_TrYpouvHXY79v2Uz-T3fbdEpYG1fdsFv9FYjRcMedKnp9CiuUOVFkwsfFEHb4xU92hc8ul8Zzva9vg-8UQxVA7yM_iAGz6swEdMMvvibJDEVzh2TN
+Sat May 16 16:33:33 CST 2026
+删除alswl2208 
+删除y1026 
+删除dign1461 
