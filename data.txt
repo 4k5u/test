@@ -9,3 +9,4 @@ dks2003   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us
 Angel-Bei-bei   https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 Lucille_evans   https://edge-hls.doppiocdn.live/hls/83920869/master/83920869_auto.m3u8
+alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
