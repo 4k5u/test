@@ -147,3 +147,7 @@ Tue May 19 06:32:10 CST 2026
 Tue May 19 06:32:12 CST 2026
 Tue May 19 06:33:21 CST 2026
 删除4ocari 
+Tue May 19 06:47:07 CST 2026
+Tue May 19 06:47:10 CST 2026
+Tue May 19 06:48:21 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
