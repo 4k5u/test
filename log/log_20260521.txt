@@ -699,3 +699,8 @@ Thu May 21 23:33:59 CST 2026
 删除howru010 
 删除smmms2002 
 删除eunyoung1238 
+Thu May 21 23:47:15 CST 2026
+Thu May 21 23:47:29 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Thu May 21 23:48:44 CST 2026
+删除eunyoung1238 
