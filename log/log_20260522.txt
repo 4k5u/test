@@ -27,3 +27,8 @@ Fri May 22 01:02:14 CST 2026
 添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
 Fri May 22 01:03:38 CST 2026
 删除eunyoung1238 
+Fri May 22 01:17:06 CST 2026
+Fri May 22 01:17:15 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Fri May 22 01:18:32 CST 2026
+删除eunyoung1238 
