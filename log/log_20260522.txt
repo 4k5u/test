@@ -125,3 +125,7 @@ Fri May 22 08:02:04 CST 2026
 Fri May 22 08:03:14 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 删除IdaJonesy 
+Fri May 22 08:17:01 CST 2026
+Fri May 22 08:17:03 CST 2026
+Fri May 22 08:18:14 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
