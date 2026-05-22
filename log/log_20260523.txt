@@ -113,3 +113,8 @@ Sat May 23 02:31:59 CST 2026
 添加Tmdgus5411 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Sat May 23 02:33:13 CST 2026
 删除Tmdgus5411 
+Sat May 23 02:47:05 CST 2026
+Sat May 23 02:47:11 CST 2026
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat May 23 02:48:26 CST 2026
+删除Tmdgus5411 
