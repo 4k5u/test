@@ -128,3 +128,9 @@ Sat May 23 03:17:06 CST 2026
 添加Tmdgus5411 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Sat May 23 03:18:21 CST 2026
 删除Tmdgus5411 
+Sat May 23 03:31:52 CST 2026
+Sat May 23 03:31:57 CST 2026
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Sat May 23 03:33:12 CST 2026
+删除nobleinc 
+删除Tmdgus5411 
