@@ -203,3 +203,8 @@ Sun May 24 04:03:31 CST 2026
 删除alicelebel 
 删除y1026 
 删除gusdk2362 
+Sun May 24 04:17:01 CST 2026
+Sun May 24 04:17:09 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sun May 24 04:18:25 CST 2026
+删除gusdk2362 
