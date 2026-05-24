@@ -221,3 +221,9 @@ Mon May 25 06:47:14 CST 2026
 Mon May 25 06:48:31 CST 2026
 删除kkkku96 
 删除gusdk2362 
+Mon May 25 07:02:01 CST 2026
+Mon May 25 07:02:06 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-25/auth_master_playlist.m3u8?aid=null
+Mon May 25 07:03:20 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除gusdk2362 
