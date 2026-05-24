@@ -522,3 +522,10 @@ Sun May 24 18:31:58 CST 2026
 Sun May 24 18:33:16 CST 2026
 删除navi04 
 删除kkkku96 
+Sun May 24 18:47:04 CST 2026
+Sun May 24 18:47:08 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Sun May 24 18:48:25 CST 2026
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除dkdlfjqm758 
+删除navi04 
