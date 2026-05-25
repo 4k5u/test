@@ -453,3 +453,8 @@ Mon May 25 17:02:14 CST 2026
 Mon May 25 17:02:27 CST 2026
 Mon May 25 17:03:35 CST 2026
 删除hyuna0721 
+Mon May 25 17:16:54 CST 2026
+Mon May 25 17:17:04 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-37/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.1WjvFXMSovT2KyL4QETnvoKGPch5nUgRh9pCKNYuu8ld7hs3OG_EywTsV89ZougylIizBwaZGawSmAwpd1GegCtvSP2Nb8t8_zaWWg4YQLcdnTxZ65U6s9w_EoQuFu14lc6NlKVrBxDppnKLUDQrn9mdq_uwsjkPkwR327LmomhLC1UEbPfS137mnkOlmpOn
+Mon May 25 17:18:18 CST 2026
+删除navi04 
