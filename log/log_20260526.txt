@@ -111,3 +111,6 @@ Tue May 26 03:17:01 CST 2026
 添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-25/auth_master_playlist.m3u8?aid=null
 Tue May 26 03:18:16 CST 2026
 删除jeehyeoun 
+Tue May 26 03:32:03 CST 2026
+Tue May 26 03:32:11 CST 2026
+Tue May 26 03:33:21 CST 2026
