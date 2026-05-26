@@ -305,3 +305,7 @@ Tue May 26 17:32:12 CST 2026
 Tue May 26 17:32:20 CST 2026
 Tue May 26 17:33:29 CST 2026
 删除SanySenise 
+Tue May 26 17:47:11 CST 2026
+Tue May 26 17:47:17 CST 2026
+Tue May 26 17:48:26 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
