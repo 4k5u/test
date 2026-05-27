@@ -502,3 +502,12 @@ Wed May 27 17:48:33 CST 2026
 删除navi04 
 删除y1026 
 删除eunyoung1238 
+Wed May 27 18:02:18 CST 2026
+Wed May 27 18:02:22 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-25/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BGtf8j90KC4FgrB39hRg3z5UUQl3v8jw85_lXqpFwpeEOjTVioQCjh_OvxAr_UI-UA-wB2ro86OCR4YVCuyJ5PrMKYwANmCa52x6ragPLiqur7-L0sOu7yXbppPmqmrzf_Ca-VWnAXs74Y02rrf0K_zduBVZyqGm25uEuc-218PNJm-CDqg86nlAC5zCX9Pe
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Wed May 27 18:03:42 CST 2026
+删除navi04 
+删除y1026 
+删除eunyoung1238 
