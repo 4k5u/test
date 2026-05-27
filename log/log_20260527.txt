@@ -604,3 +604,15 @@ Wed May 27 20:33:48 CST 2026
 删除y1026 
 删除eunyoung1238 
 删除sol3712 
+Wed May 27 20:48:01 CST 2026
+添加dks2003 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.ejL6YF0BUhNG.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2VqTDZZRjBCVWhORyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI2MDIyMjFBNS0yOTQ5LTQyNzgtQjU2Qy0zRTk2MjA1NDQ2NjkiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc3OTg4NjA4NiwiZXhwIjoxNzc5ODg2Njg2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.mk0J9XJoXmSYNbzSUBYKhmR-6IaW4ngrKRvcp7Kqy6CTIHs-j_VdSe4bv1-bJxwyfdCkaRDefE9CB95GVHcggM9yQuVzWlBbZSxjemhsQd98T-HoO6iS6-5QqUcuJrsI
+Wed May 27 20:48:13 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stmc-25/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BGtf8j90KC4FgrB39hRg3z5UUQl3v8jw85_lXqpFwpeEOjTVioQCjh_OvxAr_UI-UA-wB2ro86OCR4YVCuyJ5PrMKYwANmCa52x6ragPLiqur7-L0sOu7yXbppPmqmrzf_Ca-VWnAXs74Y02rrf0K_zduBVZyqGm25uEuc-218PNJm-CDqg86nlAC5zCX9Pe
+添加sol3712 https://live-global-cdn-v02.sooplive.com/live-stmc-22/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1._DUkiKMi_VUXpTtrIch75QWyi0mT_rIXYjvZ_0SxEvKSv8Aju0fwXKw3HmtboOdowfdmPOW9A25Bq0P2pmijv_rNVwF2tpAQRLosEXRWhDYLRehdX1hrvK1u1tTaTpzraEXaxTVEDhhS2YEpZ0FoI5IFW_jiiq2DsovYpLUe1-y-UKeMvMwtldbZn0Nrk1yO
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_master_playlist.m3u8?aid=null
+Wed May 27 20:49:42 CST 2026
+删除navi04 
+删除y1026 
+删除sol3712 
+删除yin2618 
