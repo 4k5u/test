@@ -542,3 +542,12 @@ Fri May 29 23:03:57 CST 2026
 删除jeehyeoun 
 删除eunyoung1238 
 删除yin2618 
+Fri May 29 23:17:09 CST 2026
+Fri May 29 23:17:35 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stmc-22/auth_master_playlist.m3u8?aid=null
+Fri May 29 23:19:04 CST 2026
+删除chuing77 
+删除ohhanna 
+删除eunyoung1238 
+删除yin2618 
