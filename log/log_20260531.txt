@@ -621,3 +621,12 @@ Sun May 31 19:18:29 CST 2026
 删除kkkku96 
 删除dign1461 
 删除hanny27 
+Sun May 31 19:31:54 CST 2026
+添加homegirl https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.Jz0bV1tTQqdI.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0p6MGJWMXRUUXFkSSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1RUZGMkUwQi01NjlFLTQyNDEtOEU5RS1FRUYzRUFFMjU5RkYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MDIyNzExOSwiZXhwIjoxNzgwMjI3NzE5LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.pljkCvkyk_o0U5DPteip8wGn0sAOjy7m1eOV8nb0VVZg32lfxZd6OG9kj2yWHUQHzsNBh9IE6-KlP0hXiq8DZJq7xWxGeFoW6Sx0Dl4s5swVkGz3YvF01aRHpnWWbtg1
+Sun May 31 19:32:04 CST 2026
+添加kkkku96 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加hanny27 ?aid=null
+Sun May 31 19:33:27 CST 2026
+删除moem9e9 
+删除kkkku96 
+删除hanny27 
