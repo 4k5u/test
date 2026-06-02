@@ -621,3 +621,23 @@ Tue Jun 2 21:19:19 CST 2026
 删除m0m099 
 删除hanny27 
 删除yin2618 
+Tue Jun 2 21:32:12 CST 2026
+添加howru010 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.tbx1hnezY0m2.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3RieDFobmV6WTBtMiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJCN0IzNEIyOC0zMThDLTQwNzItOTExMy1DMUQyNTExQkZDNjYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MDQwNzEzNywiZXhwIjoxNzgwNDA3NzM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.zAta8v04Pak2P4d5GGM2DcMgB1JbDAXYsqLwQo3bjwCaDtaDr6koixgq02CJjykC_x92AI6nKIbKURJbrYkdJQFHCrwZDCv1HDLTd736tnthiMKeVUG8dP2xZ3c9W5tG
+Tue Jun 2 21:32:34 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stmc-36/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stm-14/auth_master_playlist.m3u8?aid=null
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加sol3712 https://live-global-cdn-v02.sooplive.com/live-stmc-37/auth_master_playlist.m3u8?aid=null
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-38/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stm-13/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Tue Jun 2 21:34:20 CST 2026
+删除smmms2002 
+删除alswl2208 
+删除leelate 
+删除eunyoung1238 
+删除sol3712 
+删除m0m099 
+删除hanny27 
+删除yin2618 
