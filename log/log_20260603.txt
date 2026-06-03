@@ -313,3 +313,9 @@ Wed Jun 3 11:17:14 CST 2026
 Wed Jun 3 11:18:31 CST 2026
 删除starsh2802 
 删除kkkku96 
+Wed Jun 3 11:31:52 CST 2026
+Wed Jun 3 11:31:56 CST 2026
+添加kkkku96 https://live-global-cdn-v02.sooplive.com/live-stm-06/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.oQ4ir6k5y-mdQaWY3VCsE3jU4QToCG_VZK92I7z5FuoTjJIQ5Kv9HT4YcXC9k23EDIP5JSYOcrja9UBgLe0ZObllhk6s8JsS3qIs6ATqO1Z3-ORA0hgSxvUrvZd-9aazSNxSJlEmybqLsXpYrVeos6UDop5STbvSK3qHPXCoacd7R959cle5_j47eRV5e6BI
+Wed Jun 3 11:33:09 CST 2026
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除kkkku96 
