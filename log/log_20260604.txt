@@ -254,3 +254,8 @@ Thu Jun 4 05:47:11 CST 2026
 Thu Jun 4 05:48:23 CST 2026
 删除4ocari 
 删除gusdk2362 
+Thu Jun 4 06:02:09 CST 2026
+Thu Jun 4 06:02:15 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-07/auth_master_playlist.m3u8?aid=null
+Thu Jun 4 06:03:31 CST 2026
+删除gusdk2362 
