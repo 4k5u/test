@@ -557,3 +557,19 @@ Thu Jun 4 19:48:59 CST 2026
 删除alswl2208 
 删除y1026 
 删除kkkku96 
+Thu Jun 4 20:02:16 CST 2026
+添加soso621 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.vZtUuZX8EzEU.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3ZadFV1Wlg4RXpFVSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRTA2MkJDQy01QjkwLTQyNkQtQUI5Ny05RUUzNUFFQ0YyQzgiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MDU3NDU1NywiZXhwIjoxNzgwNTc1MTU3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.3AvE0srIAP58-_ra9TUPncfjLOFa-2CUEc_DAH0wTPaSOW9n4szjbXi9nWhTVOvISms0R-jDe3iTnQQYOyYD1bMlY-kqm-_VCg1r7fW-yMCpHOELSGVSJug8oR_GE1_x
+Thu Jun 4 20:02:42 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stm-11/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.BVIUCZj1evAzARD5F7qfSaFuzRZOD7Gs1n71a4JknM1zRpmdLrsEye3BamO6qQVc53cXLfx5m8RafiLDUMa7IXhojKQk8TcuC1VabvEjZ43kZgUBNlD92b_kOJ2u0fYtXvK_DmzkRYYgwh72QRbXJzO9fuZw90JhHXm4U1RdZMzznLtZ4PaAbXibvfnxQH5i
+添加Tmdgus5411 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.v7ltA3sOK1YDdR4Ij3dvdyAOIbV7cCvnVC-KmeemjIH1zJVnRxsMcvVWWuvcSceJjjodhm-HcnFxE2GQU2Blq_7XlE2tkYkkRRU_vxRR3lh7mL_2K4Aal5KdYb7YDJJpYqEMKzFIsNOF2Os6K8Xg8b0CvTQSRBOAy7srZrj0uIs7O2nHgxR5uXiRjf9R1PfC
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.yJK3gcxt19ajZsnhtysILy6mIpOzkbF-TXlKAvS3MEpLPRnfAFXkdiU4faMd4kTakoQX5lLy7K1QZc2Oici63jpigYeIhCpbzoWVMAcHSU-_2U03G08Scp08mU85QUEuRTUzvAQdBcWW6pRoHvsARjdZ9Cy-0fZfr3SfY274pDlS4LriCxPx_x-gi9_atqhi
+添加kkkku96 https://live-global-cdn-v02.sooplive.com/live-stm-13/auth_master_playlist.m3u8?aid=null
+Thu Jun 4 20:04:23 CST 2026
+删除smmms2002 
+删除Tmdgus5411 
+删除navi04 
+删除alswl2208 
+删除y1026 
+删除kkkku96 
