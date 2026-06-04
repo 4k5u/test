@@ -787,3 +787,12 @@ Thu Jun 4 23:33:45 CST 2026
 删除navi04 
 删除kkkku96 
 删除eunyoung1238 
+Thu Jun 4 23:47:06 CST 2026
+Thu Jun 4 23:47:26 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+添加kkkku96 https://live-global-cdn-v02.sooplive.com/live-stm-13/auth_master_playlist.m3u8?aid=null
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_master_playlist.m3u8?aid=null
+Thu Jun 4 23:48:49 CST 2026
+删除navi04 
+删除kkkku96 
+删除eunyoung1238 
