@@ -407,3 +407,15 @@ Fri Jun 5 19:33:30 CST 2026
 删除alswl2208 
 删除gremmy 
 删除hanny27 
+Fri Jun 5 19:47:05 CST 2026
+添加ohhanna https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.EFpnzw3xh95w.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0VGcG56dzN4aDk1dyIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI0N0NGMkREQS1FMTYwLTQ1RkUtOUZDNi02N0Q4MDE2NzBDNUYiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MDY2MDAzNCwiZXhwIjoxNzgwNjYwNjM0LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.w-4mnI2pKD7XLB1cBVPuYVUMlCRWsq_JLaQnCa_vfxShuw6R0wPZ9gno-sW1nCd-u5mliTGeJ2-8B__2LoG-ozZEXPLMxWN6k5kxNn1upWWsHwPzJFhjaP3YYJEZYwuI
+Fri Jun 5 19:47:19 CST 2026
+添加navi04 https://live-global-cdn-v02.sooplive.com/live-stm-19/auth_master_playlist.m3u8?aid=null
+添加alswl2208 https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_master_playlist.m3u8?aid=null
+添加gremmy https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_master_playlist.m3u8?aid=null
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stm-18/auth_master_playlist.m3u8?aid=null
+Fri Jun 5 19:48:42 CST 2026
+删除navi04 
+删除alswl2208 
+删除gremmy 
+删除hanny27 
