@@ -199,3 +199,9 @@ Tue Jun 9 06:32:13 CST 2026
 添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Tue Jun 9 06:33:27 CST 2026
 删除m0m099 
+Tue Jun 9 06:47:13 CST 2026
+Tue Jun 9 06:47:15 CST 2026
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Jun 9 06:48:28 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除m0m099 
