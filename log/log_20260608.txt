@@ -607,3 +607,17 @@ Mon Jun 8 23:19:23 CST 2026
 删除jeehyeoun 
 删除m0m099 
 删除yin2618 
+Mon Jun 8 23:32:17 CST 2026
+Mon Jun 8 23:32:33 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stm-17/auth_master_playlist.m3u8?aid=null
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stm-17/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Ym6AKP1uVaHpUVAuBc7ZG2miQIEsnewcVesplcV04bG4xzkfgBHBHO-mXFs8wZCrwhHHCWfReRgTieiKXqUF8LduPYgX9ulubC_yhz6i0U_KB9if3zHz2tSXMMpyBCSiLjkVgHFWA0CpB1Q0txNNurrDvDqUkTNRltX4l0114TFHXnMreMcJxEN7HH5R4vZ6
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.7gWpCQRfxxVLEkpb71mcWmyfmFfYuWD0n7D7t5bL9Q6u-KcnkjXkIwK0ck4Njv9TWtz8DUW-VUC_E-e-XmEg1Kgh5PkvGmwT9fqQrIhu9iR6_XbiYR_qWutWTUGuwPgglSjrzOy41oxlRDQRAzZFcdcPziPUdoOdD_Bleh-Qyhcf_OxY8g4STq9tIv4AlTjT
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.UIox0jtHqlr1966HE9jPP_DobMn19cM74gG4A8cGsq07SV7ZwIz523yOH95Qhap-SlCMStOG7yi22kY-zaKyufb8AKXSgwOkHaUrrLDeItFXUj05P5_9wolgvLyGb31Om4xAxo20toRsBrCHbx5dgN8R9JsGmcTVseVhqEnkuZUOWheXHUZjr11S4EswUZAS
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Mon Jun 8 23:34:15 CST 2026
+添加alicelebel https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
+删除smmms2002 
+删除jeehyeoun 
+删除dign1461 
+删除m0m099 
+删除yin2618 
