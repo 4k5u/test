@@ -279,3 +279,9 @@ Tue Jun 9 10:17:07 CST 2026
 添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
 Tue Jun 9 10:18:27 CST 2026
 删除m0m099 
+Tue Jun 9 10:32:17 CST 2026
+Tue Jun 9 10:32:19 CST 2026
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Jun 9 10:33:39 CST 2026
+删除Sime_Naughty 
+删除m0m099 
