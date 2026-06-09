@@ -375,3 +375,11 @@ Tue Jun 9 14:02:17 CST 2026
 Tue Jun 9 14:03:35 CST 2026
 删除leelate 
 删除m0m099 
+Tue Jun 9 14:16:54 CST 2026
+添加flowerwar https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.aIFmec8TOz29.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL2FJRm1lYzhUT3oyOSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiI1QTZCOTJDQS1EMTU1LTQ4QUUtODYyNy1COEUwREZDMEQ1QUEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MDk4NTgxNiwiZXhwIjoxNzgwOTg2NDE2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.z7zvHHcuJ_lENxzMLRqxFZyduBUkG83B0ZzFW6qSBA-QZyE7jM1OZEmOonpQAg22dNFHYsiF2IZPY9CtplZzlgLO_vn_FN08JjMrefPP0YnzBjn3JcoEUr_x-9ULR9Tl
+Tue Jun 9 14:17:06 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.8_2QYFAJmPMR3e2mUeZELwU1mLK3j5e3xWTdPNsjIf4n17boKCD3EphGJDaAtpgiXocm507lbvDFWwG1OfifnJkCJ2rvSZ543pQBUR_EfHOGU13Tx_ZX33bXg3xCi5nvMnTlIptqBmAtNweYjMKs_-R9tMCO2zF3RKacDTiwBYNpmirw-CX59xHc4W9Did6U
+添加m0m099 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+Tue Jun 9 14:18:27 CST 2026
+删除leelate 
+删除m0m099 
