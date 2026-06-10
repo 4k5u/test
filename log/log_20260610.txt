@@ -445,3 +445,14 @@ Wed Jun 10 20:49:18 CST 2026
 删除dign1461 
 删除sol3712 
 删除yin2618 
+Wed Jun 10 21:02:02 CST 2026
+Wed Jun 10 21:02:26 CST 2026
+添加eunyoung1238 https://live-global-cdn-v02.sooplive.com/live-stm-20/auth_master_playlist.m3u8?aid=null
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-31/auth_master_playlist.m3u8?aid=null
+添加sol3712 https://live-global-cdn-v02.sooplive.com/live-stmc-27/auth_master_playlist.m3u8?aid=null
+添加yin2618 https://live-global-cdn-v02.sooplive.com/live-stm-13/auth_master_playlist.m3u8?aid=null
+Wed Jun 10 21:03:49 CST 2026
+删除eunyoung1238 
+删除dign1461 
+删除sol3712 
+删除yin2618 
