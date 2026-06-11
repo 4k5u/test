@@ -93,3 +93,8 @@ Fri Jun 12 02:48:16 CST 2026
 删除moem9e9 
 删除Angel-Bei-bei 
 删除jeehyeoun 
+Fri Jun 12 03:02:06 CST 2026
+Fri Jun 12 03:02:12 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Fri Jun 12 03:03:27 CST 2026
+删除jeehyeoun 
