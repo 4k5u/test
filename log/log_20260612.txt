@@ -98,3 +98,6 @@ Fri Jun 12 03:02:12 CST 2026
 添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
 Fri Jun 12 03:03:27 CST 2026
 删除jeehyeoun 
+Fri Jun 12 03:16:54 CST 2026
+Fri Jun 12 03:17:00 CST 2026
+Fri Jun 12 03:18:11 CST 2026
