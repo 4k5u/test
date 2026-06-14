@@ -30,3 +30,8 @@ Mon Jun 15 00:48:31 CST 2026
 Mon Jun 15 00:49:52 CST 2026
 删除jeehyeoun 
 删除eunyoung1238 
+Mon Jun 15 01:03:41 CST 2026
+Mon Jun 15 01:03:49 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Mon Jun 15 01:05:00 CST 2026
+删除jeehyeoun 
