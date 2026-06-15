@@ -37,3 +37,11 @@ Tue Jun 16 00:48:42 CST 2026
 删除smmms2002 
 删除Tmdgus5411 
 删除jeehyeoun 
+Tue Jun 16 01:01:57 CST 2026
+Tue Jun 16 01:02:07 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=null
+Tue Jun 16 01:03:38 CST 2026
+删除ohhanna 
+删除smmms2002 
+删除jeehyeoun 
