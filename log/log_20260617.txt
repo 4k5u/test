@@ -168,3 +168,10 @@ Wed Jun 17 04:47:14 CST 2026
 Wed Jun 17 04:48:33 CST 2026
 删除smmms2002 
 删除gusdk2362 
+Wed Jun 17 05:02:18 CST 2026
+Wed Jun 17 05:02:20 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=null
+Wed Jun 17 05:03:36 CST 2026
+删除smmms2002 
+删除gusdk2362 
