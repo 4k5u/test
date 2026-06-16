@@ -212,3 +212,9 @@ Wed Jun 17 06:47:13 CST 2026
 添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=null
 Wed Jun 17 06:48:28 CST 2026
 删除smmms2002 
+Wed Jun 17 07:02:16 CST 2026
+Wed Jun 17 07:02:19 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=null
+Wed Jun 17 07:03:30 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+删除smmms2002 
