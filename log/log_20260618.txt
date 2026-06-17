@@ -83,3 +83,10 @@ Thu Jun 18 02:17:14 CST 2026
 Thu Jun 18 02:18:31 CST 2026
 删除jeehyeoun 
 删除gusdk2362 
+Thu Jun 18 02:32:16 CST 2026
+Thu Jun 18 02:32:18 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stm-11/auth_master_playlist.m3u8?aid=null
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-13/auth_master_playlist.m3u8?aid=null
+Thu Jun 18 02:33:36 CST 2026
+删除jeehyeoun 
+删除gusdk2362 
