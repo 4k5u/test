@@ -273,3 +273,10 @@ Wed Jun 17 10:02:22 CST 2026
 添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
 Wed Jun 17 10:03:33 CST 2026
 删除smmms2002 
+Wed Jun 17 10:17:06 CST 2026
+Wed Jun 17 10:17:08 CST 2026
+添加smmms2002 https://live-global-cdn-v02.sooplive.com/live-stmc-26/auth_master_playlist.m3u8?aid=null
+Wed Jun 17 10:18:25 CST 2026
+删除Sime_Naughty 
+删除starsh2802 
+删除smmms2002 
