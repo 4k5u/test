@@ -71,3 +71,8 @@ Thu Jun 18 01:47:24 CST 2026
 Thu Jun 18 01:48:36 CST 2026
 删除saone451 
 删除jeehyeoun 
+Thu Jun 18 02:02:11 CST 2026
+Thu Jun 18 02:02:13 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stm-11/auth_master_playlist.m3u8?aid=null
+Thu Jun 18 02:03:27 CST 2026
+删除jeehyeoun 
