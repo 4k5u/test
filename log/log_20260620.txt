@@ -67,3 +67,9 @@ Sat Jun 20 02:31:56 CST 2026
 Sat Jun 20 02:33:11 CST 2026
 删除nobleinc 
 删除gusdk2362 
+Sat Jun 20 02:46:58 CST 2026
+Sat Jun 20 02:47:02 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Sat Jun 20 02:48:16 CST 2026
+删除tyy750ii 
+删除gusdk2362 
