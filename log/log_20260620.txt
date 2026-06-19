@@ -98,3 +98,8 @@ Sat Jun 20 04:02:03 CST 2026
 添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
 Sat Jun 20 04:03:16 CST 2026
 删除gusdk2362 
+Sat Jun 20 04:17:11 CST 2026
+Sat Jun 20 04:17:13 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.gecw1pee6zhTsrU7BdAbybzk22ZCY9-q3KZkXYhSMpM12JlABwGcEaNMstQuYyuV704R-Wf3VN3m6ZY5fff5eD0wQ-DIQXQLrTLAgRw0pN1WVu0kB-NEPtlJ99ewAl4m8lCCX3NJjYVNTItkFfErFp_T9lCuEPGUEE5H2IW4dBNqVE6d1yxJZRa5_SbCUcnr
+Sat Jun 20 04:18:24 CST 2026
+删除gusdk2362 
