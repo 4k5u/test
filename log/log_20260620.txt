@@ -73,3 +73,8 @@ Sat Jun 20 02:47:02 CST 2026
 Sat Jun 20 02:48:16 CST 2026
 删除tyy750ii 
 删除gusdk2362 
+Sat Jun 20 03:01:57 CST 2026
+Sat Jun 20 03:02:00 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_master_playlist.m3u8?aid=null
+Sat Jun 20 03:03:15 CST 2026
+删除gusdk2362 
