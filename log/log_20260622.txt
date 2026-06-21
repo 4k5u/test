@@ -42,3 +42,8 @@ Mon Jun 22 01:32:07 CST 2026
 添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-40/auth_master_playlist.m3u8?aid=null
 Mon Jun 22 01:33:21 CST 2026
 删除jeehyeoun 
+Mon Jun 22 01:47:07 CST 2026
+Mon Jun 22 01:47:15 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-40/auth_master_playlist.m3u8?aid=null
+Mon Jun 22 01:48:29 CST 2026
+删除jeehyeoun 
