@@ -4,3 +4,8 @@ Mon Jun 29 00:02:23 CST 2026
 Mon Jun 29 00:03:35 CST 2026
 删除jodong2 
 删除leelate 
+Mon Jun 29 00:17:04 CST 2026
+Mon Jun 29 00:17:12 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-20/auth_master_playlist.m3u8?aid=null
+Mon Jun 29 00:18:27 CST 2026
+删除leelate 
