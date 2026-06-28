@@ -644,3 +644,8 @@ Sun Jun 28 22:03:38 CST 2026
 添加Angel-Bei-bei https://edge-hls.doppiocdn.live/hls/44568216/master/44568216_auto.m3u8
 删除Sime_Naughty 
 删除leelate 
+Sun Jun 28 22:17:01 CST 2026
+Sun Jun 28 22:17:19 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-20/auth_master_playlist.m3u8?aid=null
+Sun Jun 28 22:18:35 CST 2026
+删除leelate 
