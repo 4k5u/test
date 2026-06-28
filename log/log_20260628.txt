@@ -613,3 +613,8 @@ Sun Jun 28 20:47:12 CST 2026
 Sun Jun 28 20:48:26 CST 2026
 添加mikio_san https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8
 删除hanny27 
+Sun Jun 28 21:02:02 CST 2026
+Sun Jun 28 21:02:16 CST 2026
+添加hanny27 https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_master_playlist.m3u8?aid=null
+Sun Jun 28 21:03:30 CST 2026
+删除hanny27 
