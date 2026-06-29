@@ -321,3 +321,12 @@ Mon Jun 29 16:33:34 CST 2026
 删除leelate 
 删除y1026 
 删除dign1461 
+Mon Jun 29 16:47:00 CST 2026
+Mon Jun 29 16:47:08 CST 2026
+添加leelate https://live-global-cdn-v02.sooplive.com/live-stm-02/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.xcpqZJ1ndETeeSO4_tJsQ36UHKraaAN0h63WHmLwNpSNnSzqoqFU8mPnkZSu4IeW8GDFV5tB82WPHzTvjH8mtRKUTrB8Y6cZ7bqUKr5dhvElUcAQVaEeVMX29HUK_VgRTqHLvGhkd6S8v2QfJFfFDXKU8zSQTatJoosW0a1uWtadhfTxdjmTxGTjQTi38-C-
+添加y1026 https://live-global-cdn-v02.sooplive.com/live-stm-19/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4pODhBX8aulhwE6UKTYHR0FueCcWEtN69h6BKjCyYqf5_esFaeGJjilHD9mtgQgbIj6TzXdxaslk1fmOH-qetdQi2YYL2bqv02IazwWI4-ikdkLoih1AbFB-w0nqfYUupb2rZ7Q97pQTG1U6ErKQXJaYNCTWrtpseCFzSqGQ3lka4wD7DF31Rbma_dhTXb3j
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-38/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.7kdV5IfTDhqZOOq0bllTGDQRXdAp9xLgLycCgvFSa275TnvyyKnWJQKNzyVqazHjXAh5kUJfTNHZJR1hkNNC0NWFa1KNxanOZOVyQeGofRKbUuU1L50GMfN43MgY_ve2cuJx3aoq_0uqL65Yt4UWuSyHVtm7BqWpreIO6aZ_N-DnUY4dvN0c0Efs6L5beYIu
+Mon Jun 29 16:48:29 CST 2026
+删除leelate 
+删除y1026 
+删除dign1461 
