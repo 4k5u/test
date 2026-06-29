@@ -135,3 +135,9 @@ Mon Jun 29 07:47:02 CST 2026
 Mon Jun 29 07:48:17 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Mon Jun 29 08:02:14 CST 2026
+添加starsh2802 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.qqjfWikIJTnr.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3FxamZXaWtJSlRuciIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGNjlDRTkzNy1GMzlDLTQ0MTctOTQ1OC0xNjZGRDkzQTQwMzEiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MjY5MTMzNywiZXhwIjoxNzgyNjkxOTM3LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ebC7in8znmzi_eUpZ41eucVDJscmfrIKKafNoRY42q_LKYQJFyN0t_NUvMaLLLc3ZFkJJ8802qyn7a_iy5envGDUPPV9cavzfGWEHYUBtSDDMQTOrb5oe_ZzsWAsvh4d
+Mon Jun 29 08:02:22 CST 2026
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-14/auth_master_playlist.m3u8?aid=null
+Mon Jun 29 08:03:41 CST 2026
+删除gusdk2362 
