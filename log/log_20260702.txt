@@ -411,3 +411,7 @@ Thu Jul 2 14:32:07 CST 2026
 Thu Jul 2 14:32:07 CST 2026
 Thu Jul 2 14:33:14 CST 2026
 删除Sime_Naughty 
+Thu Jul 2 14:46:56 CST 2026
+Thu Jul 2 14:47:04 CST 2026
+Thu Jul 2 14:48:14 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
