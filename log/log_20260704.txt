@@ -32,3 +32,18 @@ Sat Jul 4 00:19:03 CST 2026
 删除dign1461 
 删除gusdk2362 
 删除namuh0926 
+Sat Jul 4 00:32:05 CST 2026
+添加eli05021212 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.KKGD012x2pSA.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0tLR0QwMTJ4MnBTQSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJGOEVBNjU3My03MUUwLTQyQTQtQUNCNS0xNEI1OUI0MjczMUUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4MzA5NjMzNiwiZXhwIjoxNzgzMDk2OTM2LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.KTywq6gvKTiKQTQUfED8qdek9gXG1uJvplPNPeHIv0z9iSU5N8xe58BXl3kcx8Lh4THoAFU9mBbxIWPP1v8_-uT4_yh06L4BZZoMKqK1K8eTcqy0zW3N5Gm8LUcZM-MG
+Sat Jul 4 00:32:25 CST 2026
+添加jeehyeoun https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.pXf_iHcMJvWDkqW1ZqaDYy7Ugf48VkJj4cmNwuVtuR4Lx5hGZ264m8ee_ZcJIK3HKlthzKAFKzis_T-6gttAX7ih_3h18ypqMglSh-VGYTj2fE2EWu36MaqMMyAOPGgU5SrF74Xe5Xu9Ru12aoRqod2U-DMaRvVWBvON_SssNLeXj7E72JUiHmzJNxlpD9Ba
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stm-12/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.74MENjgkD-ov5rAhqxDDgJhg9I77-iOPA_hRkzqleeFtUsYPLxog4DRIA9vZlPDBb9bp-up3Pm-NpOxePCYUcMBK1Dv3--gZNci7ZD_4cy3Y9i3jkvnQ1XviY2j0Yaqasz_rVxBZv4luJbjd2elhJdEIPoGJ2tdo9ktYj4BjF51OcA4-_WhlZhMszY9HScl4
+添加gusdk2362 https://live-global-cdn-v02.sooplive.com/live-stm-04/auth_master_playlist.m3u8?aid=null
+添加namuh0926 https://live-global-cdn-v02.sooplive.com/live-stmc-28/auth_master_playlist.m3u8?aid=null
+Sat Jul 4 00:33:56 CST 2026
+删除Ryo-sama 
+删除3ww1ww3 
+删除imsocutesexy 
+删除jeehyeoun 
+删除dign1461 
+删除gusdk2362 
+删除namuh0926 
