@@ -332,3 +332,10 @@ Sat Jul 4 16:03:18 CST 2026
 删除alicelebel 
 删除dign1461 
 删除glglehddl 
+Sat Jul 4 16:16:58 CST 2026
+Sat Jul 4 16:17:08 CST 2026
+添加dign1461 https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.bE7qi5jqwQ5wvA5MO9ALFayRlvpLFMrTUCXJz2ApFp18jjQs_5SXoRZs04D_o7j-nM8fbD_6J8CVZTmzOGDPjYqPA2nuuOhCaqQxCcq_zhQ1fPP1mcc3dmSa-D22ozRfJ9951F3OxGbNcdsL_2negLVGXocyDoimSLmdPYh6mwRX9abmRc2A6RTAXuSD7CDp
+添加glglehddl https://live-global-cdn-v02.sooplive.com/live-stm-07/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.jP1ZNYxmrEZOklkkteQvsd56Uu439tnd1aOPO1M77dbdfFsKmiOwJtUDhXfQpxQ-bWHUAPEpBdeBwui1rMsJ5JlmTLgtaKi-A2FfKE6YuyaUk85wbVnQ8YoEgAe_qjFHnUpZs6lqrYP5FCHY7ehQRGUXg1gGvn6PKkHQP9EvJnPAhnvtktBHKFMWBrEWrTyN
+Sat Jul 4 16:18:24 CST 2026
+删除dign1461 
+删除glglehddl 
