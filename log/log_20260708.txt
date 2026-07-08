@@ -249,3 +249,7 @@ Wed Jul 8 11:17:00 CST 2026
 Wed Jul 8 11:17:02 CST 2026
 Wed Jul 8 11:18:13 CST 2026
 删除Sime_Naughty 
+Wed Jul 8 11:31:52 CST 2026
+Wed Jul 8 11:31:54 CST 2026
+Wed Jul 8 11:33:04 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
