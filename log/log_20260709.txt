@@ -277,3 +277,7 @@ Thu Jul 9 11:47:02 CST 2026
 Thu Jul 9 11:47:02 CST 2026
 Thu Jul 9 11:48:10 CST 2026
 删除Sime_Naughty 
+Thu Jul 9 12:02:10 CST 2026
+Thu Jul 9 12:02:10 CST 2026
+Thu Jul 9 12:03:24 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
