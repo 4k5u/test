@@ -4,7 +4,6 @@ naras2   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-
 Sime_Naughty   https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 IdaJonesy   https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 SanySenise   https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
-muse62   https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.yzoc7wwpPwl6.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL3l6b2M3d3dwUHdsNiIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiIzQTc0MzEzRS05OTc3LTQyRjAtOTA2OC1FN0U1RUVERUUyMUIiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4Mzc2OTUzOCwiZXhwIjoxNzgzNzcwMTM4LCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.ovHfQH9NkXIDGsj8kzBP9O5EOAQ9Df62A-786GOP8KLwy1osGGtp9wa1TCTSJs-NEPTISVVC8CZltPVEcnLgyyDl62HUj6ynQAt-H9mAyjzmUD4bp8edq31K7PvlTrUP
 Hahaha_ha2   https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
 Sherry_niko   https://edge-hls.doppiocdn.live/hls/89104597/master/89104597_auto.m3u8
 alicelebel   https://edge-hls.doppiocdn.live/hls/130863680/master/130863680_auto.m3u8
