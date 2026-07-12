@@ -282,3 +282,8 @@ Sun Jul 12 10:33:21 CST 2026
 Sun Jul 12 10:47:03 CST 2026
 Sun Jul 12 10:47:03 CST 2026
 Sun Jul 12 10:48:13 CST 2026
+Sun Jul 12 11:01:55 CST 2026
+Sun Jul 12 11:01:55 CST 2026
+Sun Jul 12 11:03:03 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
