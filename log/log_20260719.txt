@@ -497,3 +497,12 @@ Sun Jul 19 18:34:06 CST 2026
 删除SanySenise 
 删除navi04 
 删除alswl2208 
+Sun Jul 19 18:47:07 CST 2026
+添加jjine0127 https://ffdced10e5f6.us-west-2.playback.live-video.net/api/video/v1/us-west-2.658583162646.channel.JK5dIRPe10h5.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6NjU4NTgzMTYyNjQ2OmNoYW5uZWxcL0pLNWRJUlBlMTBoNSIsImF3czpzaW5nbGUtdXNlLXV1aWQiOiJBRjIyQzQ1NS1GM0Q0LTQxRUYtQTBDRS1FMzYwRTBCRjc2MTUiLCJhd3M6dmlld2VyLWlkIjoiMjQ2MzEyMjEiLCJhd3M6dmlld2VyLXNlc3Npb24tdmVyc2lvbiI6MTc4NDQ1ODAzMCwiZXhwIjoxNzg0NDU4NjMwLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6XC9cLyoucGFuZGFsaXZlLmNvLmtyIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOnRydWUsInQiOjF9.1E_TnjBl9F1tT-QxI2ffF8fsBrLR0_g9WI05tDLsdai5LWO648Bpf6ZCKmOjBrph5Q2uCX57PaLA3sTOdMyve15o9P9E9Ny9naBlMQKvX5USowWFLfO6bWNxvHi6Ys2U
+Sun Jul 19 18:47:13 CST 2026
+添加navi04 ?aid=null
+添加alswl2208 ?aid=null
+Sun Jul 19 18:49:28 CST 2026
+删除ee5844 
+删除navi04 
+删除alswl2208 
