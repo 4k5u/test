@@ -341,3 +341,9 @@ Thu Jul 23 17:16:59 CST 2026
 Thu Jul 23 17:17:01 CST 2026
 Thu Jul 23 17:18:10 CST 2026
 删除SanySenise 
+Thu Jul 23 17:31:52 CST 2026
+Thu Jul 23 17:31:54 CST 2026
+添加navi04 ?aid=null
+Thu Jul 23 17:33:34 CST 2026
+添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+删除navi04 
