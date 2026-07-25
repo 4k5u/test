@@ -282,3 +282,7 @@ Sat Jul 25 14:32:28 CST 2026
 Sat Jul 25 14:32:36 CST 2026
 Sat Jul 25 14:33:45 CST 2026
 添加SanySenise https://edge-hls.doppiocdn.live/hls/59028862/master/59028862_auto.m3u8
+Sat Jul 25 14:47:10 CST 2026
+Sat Jul 25 14:47:20 CST 2026
+Sat Jul 25 14:48:28 CST 2026
+删除Sime_Naughty 
