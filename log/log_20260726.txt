@@ -229,3 +229,7 @@ Sun Jul 26 07:33:15 CST 2026
 Sun Jul 26 07:46:59 CST 2026
 Sun Jul 26 07:47:12 CST 2026
 Sun Jul 26 07:48:21 CST 2026
+Sun Jul 26 08:02:05 CST 2026
+Sun Jul 26 08:02:05 CST 2026
+Sun Jul 26 08:03:12 CST 2026
+添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
