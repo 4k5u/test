@@ -338,3 +338,8 @@ Sun Aug 2 12:02:35 CST 2026
 Sun Aug 2 12:04:15 CST 2026
 添加Ryo-sama https://edge-hls.doppiocdn.live/hls/117971546/master/117971546_auto.m3u8
 删除smmms2002 
+Sun Aug 2 12:17:11 CST 2026
+Sun Aug 2 12:17:15 CST 2026
+添加smmms2002 ?aid=null
+Sun Aug 2 12:18:59 CST 2026
+删除smmms2002 
