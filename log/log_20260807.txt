@@ -19,3 +19,6 @@ Fri Aug 7 07:24:11 CST 2026
 Fri Aug 7 07:25:20 CST 2026
 添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
+Fri Aug 7 07:46:58 CST 2026
+Fri Aug 7 07:46:58 CST 2026
+Fri Aug 7 07:48:08 CST 2026
