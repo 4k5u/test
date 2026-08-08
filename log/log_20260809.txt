@@ -193,3 +193,8 @@ Sun Aug 9 06:47:08 CST 2026
 Sun Aug 9 06:48:46 CST 2026
 添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
 删除gusdk2362 
+Sun Aug 9 07:01:53 CST 2026
+Sun Aug 9 07:01:57 CST 2026
+添加gusdk2362 ?aid=null
+Sun Aug 9 07:03:38 CST 2026
+删除gusdk2362 
