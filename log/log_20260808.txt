@@ -340,3 +340,7 @@ Sat Aug 8 13:17:09 CST 2026
 Sat Aug 8 13:18:16 CST 2026
 删除IdaJonesy 
 删除Ryo-sama 
+Sat Aug 8 13:31:59 CST 2026
+Sat Aug 8 13:32:01 CST 2026
+Sat Aug 8 13:33:11 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
