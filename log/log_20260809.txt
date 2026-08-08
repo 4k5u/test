@@ -198,3 +198,9 @@ Sun Aug 9 07:01:57 CST 2026
 添加gusdk2362 ?aid=null
 Sun Aug 9 07:03:38 CST 2026
 删除gusdk2362 
+Sun Aug 9 07:16:52 CST 2026
+Sun Aug 9 07:16:56 CST 2026
+添加gusdk2362 ?aid=null
+Sun Aug 9 07:18:37 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
+删除gusdk2362 
