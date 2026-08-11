@@ -178,3 +178,7 @@ Wed Aug 12 07:32:06 CST 2026
 Wed Aug 12 07:33:14 CST 2026
 删除Sime_Naughty 
 删除IdaJonesy 
+Wed Aug 12 07:46:52 CST 2026
+Wed Aug 12 07:46:56 CST 2026
+Wed Aug 12 07:48:05 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
