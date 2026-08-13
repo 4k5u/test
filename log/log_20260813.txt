@@ -181,3 +181,7 @@ Thu Aug 13 07:33:06 CST 2026
 Thu Aug 13 07:47:02 CST 2026
 Thu Aug 13 07:47:04 CST 2026
 Thu Aug 13 07:48:11 CST 2026
+Thu Aug 13 08:02:00 CST 2026
+Thu Aug 13 08:02:02 CST 2026
+Thu Aug 13 08:03:11 CST 2026
+添加Sime_Naughty https://edge-hls.doppiocdn.live/hls/92077818/master/92077818_auto.m3u8
