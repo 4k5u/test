@@ -431,3 +431,23 @@ Fri Aug 14 19:51:16 CST 2026
 删除gremmy 
 删除kjjeong0609 
 删除hanny27 
+Fri Aug 14 20:02:01 CST 2026
+Fri Aug 14 20:02:13 CST 2026
+添加dreamch77 ?aid=.A32.pxqRXFPZNcY9Qg1.vceYgjEP7UfDcuowXKsXFi7eHHEiQDe6FdZtKOOc_SODyu0HaOMhE58eW_2Wfg8UDgHnDxvNvCtKby36meKylOewYw053TohmKIXfC1MguqNXCutTL4OKPsMfGG3Vx76-TSBTPgYI4kPxQp7pKbYuWiCK3T-2on92L87JAkBPZiIXwfIiqQ1wgCLxy38zB_H
+添加smmms2002 ?aid=.A32.pxqRXFPZNcY9Qg1.ga6Pa0vNejRCDjD2JyzDEeEiDUgbvODrzzQ5G1jZlTJLJ3GErFnKyFa4K6B63g5PLuMyGd2yw800LDlcsSZQ-1ZYHymZjo6yQ-4G6QTOLEojmTJkePJKYhqywX0L7gITm5Shz3xYVhqFlgMnG0MIMdyuB901WiSwunPQREzA3g7VawFwj__hVUP6DdOH-WHy
+添加Tmdgus5411 ?aid=.A32.pxqRXFPZNcY9Qg1.lihoefbJEzMas1grzZofVbgSwNh3IuqkIlzFX_pjyYMBC0-MoasmtOp1Szp4uxpkc-BXRaWcVWrzx-B88PmTBADASXv6FPnHqjgQXIPD6CjmAowYZPGPDeaDobVazl3qaVfN8VJiHwYxquKoSTRhlL405j4tdy-gqkGcgTPt3bEO5ADMhCgJ-X76o514xKqq
+添加gremmy ?aid=null
+添加kkkku96 ?aid=.A32.pxqRXFPZNcY9Qg1.VlXfFQtH6XeK5zU4oef9WVnJFBosmi_Vfse_ASqJaKzyQiMMcCwVNbPQnlEFxGEK5sQR05G7H_kcWDPw2zqECTFBmw4uRj9i5m_avSaxdQ3W9CLU4LctM_4Pl7k4No9UN-_aLe3mREzU34a7dqVQ5pkQfJKbUL8fe5MRlw-gd-EKiKRstoPNhg7WiAEYz5Ge
+添加m0m099 ?aid=.A32.pxqRXFPZNcY9Qg1.vAK7ZvUTCkoXgLJ7d6boYL0yhlfobxVVhv1SUDJiVpMTyK9ma8mlm9Xs7PVOP_y6-7MlivEFTSdiCN2gusy_-sJMPjWroTQUkSF10zzBrwRkbgWnL52PBSEqysRi7O5tzKnhmuxTfzZIx6-uVaeqwtW1BOG1Pyihj1LWZEAhdwjsQlqD9J8zJ4kpv0U8b2d_
+添加kjjeong0609 ?aid=.A32.pxqRXFPZNcY9Qg1.HvUUZDR87cGIv3lkXPuV4o8gPx_708puHx749_No_2m9oGPm1yO36tk_v6OMSAlDztGZ1ZtKmdObmqFSvltu3HLk9E2AKi_imW2Em5AwjM_c24MznmGvXYLD3HUblENTUf8C8XmHt-LnVTYXQ3PToKBaWWvWfbpiZmu6DlR7TxJmxwpACxicE3qLL-h2I7T_
+添加hanny27 ?aid=null
+Fri Aug 14 20:07:37 CST 2026
+添加kyul365 https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kyul365%22%2C%22channel_id%22%3A759214227%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1786710457%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.162.194%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&sig=d5be2814114937b09ada3dbfbfa054ab82df8053&allow_source=true&allow_audio_only=true
+删除dreamch77 
+删除smmms2002 
+删除Tmdgus5411 
+删除gremmy 
+删除kkkku96 
+删除m0m099 
+删除kjjeong0609 
+删除hanny27 
