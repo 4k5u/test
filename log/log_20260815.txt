@@ -226,3 +226,8 @@ Sat Aug 15 10:32:00 CST 2026
 Sat Aug 15 10:33:42 CST 2026
 添加sigmasian https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8
 删除namuh0926 
+Sat Aug 15 10:47:12 CST 2026
+Sat Aug 15 10:47:16 CST 2026
+添加namuh0926 ?aid=.A32.pxqRXFPZNcY9Qg1.KtU93B9JCbmvGwsL-TR4P8leZdkvtA6Tn7yjlVSXU7-klzed-ujMn9Hwxnb5rP1TOW5I6WJwMDGl3jfODqNH3PgdsYcRsQtK_EIgzBHY_tsgJ1VcjLckGH7E5jZPujcmiPI51Lu-94ttd0Zbv7VAj3vbnsjtT4e1UVVcnzxiR2iA6I32-slI07ZkNqKOplWs
+Sat Aug 15 10:48:56 CST 2026
+删除namuh0926 
