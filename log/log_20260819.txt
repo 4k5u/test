@@ -149,3 +149,7 @@ Wed Aug 19 10:09:46 CST 2026
 Wed Aug 19 10:09:48 CST 2026
 Wed Aug 19 10:10:57 CST 2026
 删除IdaJonesy 
+Wed Aug 19 10:35:45 CST 2026
+Wed Aug 19 10:35:47 CST 2026
+Wed Aug 19 10:36:57 CST 2026
+添加IdaJonesy https://edge-hls.doppiocdn.live/hls/126903397/master/126903397_auto.m3u8
