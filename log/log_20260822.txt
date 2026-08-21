@@ -133,3 +133,9 @@ Sat Aug 22 03:47:02 CST 2026
 Sat Aug 22 03:48:42 CST 2026
 删除Hahaha_ha2 
 删除gusdk2362 
+Sat Aug 22 04:02:12 CST 2026
+Sat Aug 22 04:02:16 CST 2026
+添加gusdk2362 ?aid=null
+Sat Aug 22 04:03:54 CST 2026
+添加Hahaha_ha2 https://edge-hls.doppiocdn.live/hls/83306615/master/83306615_auto.m3u8
+删除gusdk2362 
