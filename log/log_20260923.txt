@@ -104,3 +104,10 @@ Wed Sep 23 02:04:20 CST 2026
 添加kyul365 https://usher.ttvnw.net/api/channel/hls/kyul365.m3u8?client_id=kimne78kx3ncx6brgo4mv6wki5h1ko&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kyul365%22%2C%22channel_id%22%3A759214227%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1790101460%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22104.28.228.77%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&sig=d56edc9939c2eff327819da4b42150df2895caa8&allow_source=true&allow_audio_only=true
 删除smmms2002 
 删除dign1461 
+Wed Sep 23 02:17:57 CST 2026
+Wed Sep 23 02:17:59 CST 2026
+添加smmms2002 ?aid=.A32.pxqRXFPZNcY9Qg1.9EayhSc-wCDMrZ1x8Jx5RoNNsrmnVsWio6l3fzjZyLPJz2HSmRb4DO0JuElXwBeXxitS3Qe-EcU1MtV16gOZQuaH4VtQNgCxIQK4pDvRFWoXHUd9SMJ_xuJJo4BKtNtICuk6YMjQd-8qn26hjFpZCJlp1d4BkR6NqZOuxEYMkUuhjouBBouLGLzcDeRQLxqS
+添加dign1461 ?aid=.A32.pxqRXFPZNcY9Qg1.FtXInTfPTDk49wnUrYSy5kRnQY2nMI-KZWgkJck3tfnZmVGaPbQ0PnIKqDhNZlRVQgspAJQnLuBhMe9ttuJWwhDooWoPHgjn1ioEjm5Bu3fm8fvpS8QlLj9EE0LtQpKYY0Zf7_GmQmqFK7TcsOt_N5ohfx-q0kInDXTtboS2NztJuPtZhFbtxAPTlGfinJL4
+Wed Sep 23 02:20:14 CST 2026
+删除smmms2002 
+删除dign1461 
